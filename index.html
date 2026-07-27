@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Presidential Daily Brief</title>
+<meta name="description" content="Daily news briefing across ten fixed beats.">
+<meta name="theme-color" content="#10141A" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#F2F4F7" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Daily Brief">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2310141A'/><rect x='6' y='9' width='20' height='3' fill='%23F0A32E'/><rect x='6' y='15' width='14' height='3' fill='%238A96A6'/><rect x='6' y='21' width='17' height='3' fill='%238A96A6'/></svg>">
+<style>
+  :root {
+    --ground:#F2F4F7; --surface:#FFFFFF; --surface-2:#E9EDF3;
+    --line:#D3DAE4; --line-soft:#E3E8EF;
+    --ink:#0E1319; --ink-muted:#5D6B7D; --ink-faint:#8A96A6;
+    --accent:#C97C10;
+    --markets:#1D6FC0; --security:#C24D26; --ai:#5F55C4; --sports:#12805E; --community:#4F7C14;
+    --mono: ui-monospace,"Cascadia Mono","SF Mono",Menlo,Consolas,monospace;
+    --sans: "Segoe UI",-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground:#10141A; --surface:#171D26; --surface-2:#1E2631;
+      --line:#2B3542; --line-soft:#222B36;
+      --ink:#E8ECF2; --ink-muted:#97A4B4; --ink-faint:#6E7C8C;
+      --accent:#F0A32E;
+      --markets:#4E9AE8; --security:#E8703F; --ai:#8F87E6; --sports:#35B98C; --community:#8FBF3F;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    margin:0; background:var(--ground); color:var(--ink);
+    font-family:var(--sans); line-height:1.5;
+    padding: 20px 16px calc(48px + env(safe-area-inset-bottom));
+    max-width:720px; margin-inline:auto;
+  }
+
+  .masthead { display:flex; flex-direction:column; gap:10px; margin-bottom:22px; }
+  .brandline { display:flex; align-items:baseline; justify-content:space-between; gap:10px; flex-wrap:wrap; }
+  h1 {
+    font-family:var(--mono); font-size:19px; font-weight:700; margin:0;
+    letter-spacing:0.13em; text-transform:uppercase;
+  }
+  h1 .dot { color:var(--accent); }
+  .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 56px,var(--line) 56px 100%); }
+  .meta {
+    font-family:var(--mono); font-size:11.5px; color:var(--ink-muted);
+    letter-spacing:0.05em; display:flex; flex-wrap:wrap; gap:4px 10px;
+  }
+  .meta .sep { color:var(--ink-faint); }
+
+  .cards { display:flex; flex-direction:column; gap:10px; }
+
+  .card {
+    background:var(--surface); border:1px solid var(--line);
+    border-left:3px solid var(--gc,var(--ink-faint)); border-radius:0;
+    padding:13px 14px; display:flex; flex-direction:column; gap:7px;
+    text-decoration:none; color:inherit;
+  }
+  a.card { cursor:pointer; }
+  a.card:hover { border-color:var(--line); border-left-color:var(--gc); background:var(--surface-2); }
+  a.card:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+
+  .card-top { display:flex; align-items:baseline; justify-content:space-between; gap:10px; }
+  .beat {
+    font-family:var(--mono); font-size:10.5px; font-weight:700; letter-spacing:0.11em;
+    text-transform:uppercase; color:var(--gc,var(--ink-muted));
+  }
+  .age {
+    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint);
+    white-space:nowrap; font-variant-numeric:tabular-nums;
+  }
+  .headline { font-size:16px; font-weight:650; margin:0; line-height:1.32; text-wrap:balance; }
+  .body { font-size:14px; color:var(--ink-muted); margin:0; line-height:1.55; }
+  .src {
+    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint);
+    display:flex; align-items:center; gap:5px;
+  }
+  .src .arrow { color:var(--gc); }
+
+  .card.empty { border-style:dashed; background:transparent; }
+  .card.empty .headline { font-weight:500; color:var(--ink-muted); font-size:15px; }
+
+  .foot {
+    margin-top:24px; padding-top:14px; border-top:1px solid var(--line);
+    font-family:var(--mono); font-size:11px; color:var(--ink-faint); line-height:1.6;
+  }
+  .archive { margin-top:14px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .archive label { font-family:var(--mono); font-size:11px; color:var(--ink-faint); letter-spacing:0.06em; }
+  select {
+    font-family:var(--mono); font-size:12px; padding:8px 10px; min-height:40px;
+    background:var(--surface); color:var(--ink); border:1px solid var(--line); border-radius:6px;
+  }
+
+  .state { padding:36px 16px; text-align:center; color:var(--ink-muted); }
+  .state .mark {
+    display:inline-block; font-family:var(--mono); font-size:11px; letter-spacing:0.16em;
+    color:var(--accent); border:1px dashed var(--accent); border-radius:5px; padding:7px 12px; margin-bottom:12px;
+  }
+  .state p { margin:0; font-size:14px; }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="brandline">
+    <h1>Daily Brief<span class="dot">.</span></h1>
+  </div>
+  <div class="rule"></div>
+  <div class="meta" id="meta"><span>Loading&hellip;</span></div>
+</header>
+
+<main id="out" class="cards">
+  <div class="state"><span class="mark">LOADING</span><p>Fetching the latest briefing.</p></div>
+</main>
+
+<footer class="foot">
+  Tap any card to go deeper. Newest first &middot; past-24h (72h max).
+  <div class="archive">
+    <label for="pick">Archive</label>
+    <select id="pick"></select>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var out = document.getElementById('out');
+  var meta = document.getElementById('meta');
+  var pick = document.getElementById('pick');
+
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  function state(mark, msg) {
+    out.innerHTML = '<div class="state"><span class="mark">' + esc(mark) +
+                    '</span><p>' + esc(msg) + '</p></div>';
+  }
+
+  function card(b) {
+    var g = 'var(--' + (b.group || 'community') + ')';
+    var inner =
+      '<div class="card-top">' +
+        '<span class="beat">' + esc(b.beat) + '</span>' +
+        '<span class="age">' + esc(b.age) + '</span>' +
+      '</div>' +
+      '<p class="headline">' + esc(b.headline) + '</p>' +
+      '<p class="body">' + esc(b.body) + '</p>' +
+      (b.source ? '<span class="src">' + esc(b.source) +
+                  (b.url ? ' <span class="arrow">&rarr;</span>' : '') + '</span>' : '');
+
+    var cls = 'card' + (b.empty ? ' empty' : '');
+    if (b.url) {
+      return '<a class="' + cls + '" style="--gc:' + g + '" href="' + esc(b.url) +
+             '" target="_blank" rel="noopener noreferrer">' + inner + '</a>';
+    }
+    return '<div class="' + cls + '" style="--gc:' + g + '">' + inner + '</div>';
+  }
+
+  function render(d) {
+    meta.innerHTML =
+      '<span>' + esc(d.dateLabel || d.date) + '</span>' +
+      '<span class="sep">&middot;</span><span>' + esc(d.slot || '5 AM CT') + '</span>' +
+      '<span class="sep">&middot;</span><span>' + esc(d.window || 'past 24h') + '</span>';
+    document.title = 'Daily Brief — ' + (d.dateLabel || d.date);
+
+    var beats = (d.beats || []).slice().sort(function (a, b) { return (a.n || 0) - (b.n || 0); });
+    if (!beats.length) { state('EMPTY', 'That briefing has no beats in it.'); return; }
+    out.innerHTML = beats.map(card).join('');
+  }
+
+  function load(date) {
+    state('LOADING', 'Fetching the briefing.');
+    fetch('briefings/' + date + '.json?t=' + Date.now())
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(render)
+      .catch(function () {
+        state('UNAVAILABLE', 'Could not load the briefing for ' + date + '. It may not have been written yet.');
+      });
+  }
+
+  fetch('briefings/index.json?t=' + Date.now())
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (idx) {
+      var list = idx.archive || [];
+      pick.innerHTML = list.map(function (a) {
+        return '<option value="' + esc(a.date) + '">' + esc(a.label || a.date) + '</option>';
+      }).join('');
+      pick.value = idx.latest;
+      pick.addEventListener('change', function () { load(pick.value); });
+      load(idx.latest);
+    })
+    .catch(function () {
+      state('NO BRIEFINGS', 'No briefings have been published to this site yet.');
+      meta.innerHTML = '<span>&mdash;</span>';
+    });
+})();
+</script>
+</body>
+</html>

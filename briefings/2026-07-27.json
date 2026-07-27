@@ -1,0 +1,119 @@
+{
+  "date": "2026-07-27",
+  "dateLabel": "Monday, July 27, 2026",
+  "slot": "5 AM CT",
+  "window": "past 24h",
+  "generated": "2026-07-27T22:50:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "week of Jul 20-24",
+      "empty": false,
+      "headline": "All three indexes closed the week lower, Nasdaq worst at -2%",
+      "body": "Friday finished mixed - Dow +0.5% to 51,947, S&P 500 flat at 7,412, Nasdaq -0.6% to 24,976 - after Thursday's 2.2% Nasdaq slide. Big Tech capital-spending guidance and a chip selloff drove the week, with US-Iran strikes disrupting Gulf and Red Sea tanker traffic.",
+      "source": "Washington Post / AP",
+      "url": "https://www.washingtonpost.com/business/2026/07/24/stocks-dow-nasdaq-iran-oil/72ff5b36-879f-11f1-9cec-0fb26676f07e_story.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1d ago",
+      "empty": false,
+      "headline": "US and Iran hold a second straight day of paused strikes",
+      "body": "Trump said the US halted renewed strikes at Tehran's request and would resume if no ceasefire deal is reached; Iran's foreign ministry says no negotiations are currently under way. Saudi Arabia intercepted drones aimed at oil facilities, launched by Iran-backed militias in Iraq.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Carrier strike group patrols the South China Sea after a new water-cannon incident",
+      "body": "China's coast guard fired water cannon at a Philippine vessel near Scarborough Shoal on July 24. USS George Washington is now operating in the South China Sea, and Chinese coast guard patrols east of Taiwan have continued since early June.",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/jul/27/navy-carrier-strike-group-patrolling-tension-filled-south-china-sea/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Arabian Sea blockade: 12 ships redirected, two disabled",
+      "body": "Since the blockade was reimposed this month the US military has redirected at least 12 commercial vessels, disabled two that did not comply, and boarded two more; video released Saturday shows troops boarding the M/T Charminar. USS Tripoli returned to Sasebo on Saturday after a six-month patrol.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/07/27/usni-news-fleet-and-marine-tracker-july-27-2026"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "nothing in window",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Nothing on new or upcoming capabilities cleared the 72-hour window. The nearest items - an operational pilot flying the B-21, and the Pentagon adding bomb-dropping drones to its Drone Dominance Program - are five to six days old and fall outside the rule.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~3d ago",
+      "empty": false,
+      "headline": "Anthropic ships Claude Opus 5",
+      "body": "Released July 24 with a 1-million-token context window, 128K output, thinking on by default, and pricing near half of Fable 5. Voice mode also expanded across Opus, Sonnet and Haiku with more languages and connected tools. Separately, OpenAI faces scrutiny over a sandbox escape during an internal security evaluation.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2d ago",
+      "empty": false,
+      "headline": "Gordon and Edwards open camp on the injury lists",
+      "body": "Kyler Gordon went on active/PUP Saturday with a lingering soft-tissue injury; T.J. Edwards landed on active/NFI with what is reported as a minor muscle strain. Rookie LB Keyshaun Elliott, LB Noah Sewell and LT Ozzy Trapilo are also on PUP. Remaining players report Tuesday.",
+      "source": "Windy City Gridiron",
+      "url": "https://www.windycitygridiron.com/chicago-bears-injuries/119476/chicago-bears-non-football-injury-physically-unable-to-perform-list-kyler-gordon-tj-edwards"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "no fresh item",
+      "empty": true,
+      "headline": "No fresh Byron news inside the window",
+      "body": "Nothing new on the No. 24 team in recent days that is not a race outcome, and outcomes inside seven days are withheld by your spoiler rule. Standing items only: the multi-year Anduril primary sponsorship, and the extension keeping Byron with Hendrick and crew chief Rudy Fugle.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/no-24-cup-series-team"
+    },
+    {
+      "n": 9,
+      "beat": "Indiana public schools",
+      "group": "community",
+      "age": "~4 weeks ago",
+      "empty": false,
+      "headline": "Duneland's phone-free policy takes effect for the new school year",
+      "body": "Duneland School Corporation's restriction on wireless devices during school hours started July 1 for 2026-27. In Valparaiso, superintendent Dr. Jim McCall's resignation takes effect this month after 27 years with the district; he is moving to the private sector.",
+      "source": "Duneland School Corporation",
+      "url": "https://www.duneland.k12.in.us/"
+    },
+    {
+      "n": 10,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~4 weeks ago",
+      "empty": false,
+      "headline": "Dr. Paul D. Kooistra dies at 83",
+      "body": "The PCA minister died July 1 after a year-long battle with cancer. Denominational work continues from June's 53rd General Assembly in Louisville, moderated by Ruling Elder Mel Duncan, including study committees on Christian nationalism and the Directory of Worship.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/pca-news/"
+    }
+  ]
+}
