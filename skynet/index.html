@@ -5,32 +5,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Skynet — Operations Console</title>
 <meta name="description" content="Personal operations console: run automations and read their output.">
-<meta name="theme-color" content="#10141A" media="(prefers-color-scheme: dark)">
-<meta name="theme-color" content="#F2F4F7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#10141A">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Skynet">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2310141A'/><circle cx='16' cy='16' r='7' fill='none' stroke='%23F0A32E' stroke-width='2'/><circle cx='16' cy='16' r='2.5' fill='%23F0A32E'/></svg>">
 <style>
   :root {
-    --ground:#F2F4F7; --surface:#FFFFFF; --surface-2:#E9EDF3;
-    --line:#D3DAE4; --line-soft:#E3E8EF;
-    --ink:#0E1319; --ink-muted:#5D6B7D; --ink-faint:#8A96A6;
-    --accent:#C97C10; --accent-ink:#FFFFFF;
-    --ok:#1E7F5C; --ok-soft:#DCF2E8;
-    --idle:#6B7787; --idle-soft:#E5E9EF;
+    color-scheme: dark;
+    --ground:#10141A; --surface:#171D26; --surface-2:#1E2631;
+    --line:#2B3542; --line-soft:#222B36;
+    --ink:#E8ECF2; --ink-muted:#97A4B4; --ink-faint:#6E7C8C;
+    --accent:#F0A32E; --accent-ink:#17130A;
+    --ok:#4FC295; --ok-soft:#163027;
+    --idle:#7C8896; --idle-soft:#232C37;
     --mono: ui-monospace,"Cascadia Mono","SF Mono",Menlo,Consolas,monospace;
     --sans: "Segoe UI",-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
     --r:10px;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --ground:#10141A; --surface:#171D26; --surface-2:#1E2631;
-      --line:#2B3542; --line-soft:#222B36;
-      --ink:#E8ECF2; --ink-muted:#97A4B4; --ink-faint:#6E7C8C;
-      --accent:#F0A32E; --accent-ink:#17130A;
-      --ok:#4FC295; --ok-soft:#163027;
-      --idle:#7C8896; --idle-soft:#232C37;
-    }
   }
   * { box-sizing:border-box; }
   html { -webkit-text-size-adjust:100%; }
