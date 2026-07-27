@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Skynet — Operations Console</title>
+<meta name="description" content="Personal operations console: run automations and read their output.">
+<meta name="theme-color" content="#10141A" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#F2F4F7" media="(prefers-color-scheme: light)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Skynet">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2310141A'/><circle cx='16' cy='16' r='7' fill='none' stroke='%23F0A32E' stroke-width='2'/><circle cx='16' cy='16' r='2.5' fill='%23F0A32E'/></svg>">
+<style>
+  :root {
+    --ground:#F2F4F7; --surface:#FFFFFF; --surface-2:#E9EDF3;
+    --line:#D3DAE4; --line-soft:#E3E8EF;
+    --ink:#0E1319; --ink-muted:#5D6B7D; --ink-faint:#8A96A6;
+    --accent:#C97C10; --accent-ink:#FFFFFF;
+    --ok:#1E7F5C; --ok-soft:#DCF2E8;
+    --idle:#6B7787; --idle-soft:#E5E9EF;
+    --mono: ui-monospace,"Cascadia Mono","SF Mono",Menlo,Consolas,monospace;
+    --sans: "Segoe UI",-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+    --r:10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ground:#10141A; --surface:#171D26; --surface-2:#1E2631;
+      --line:#2B3542; --line-soft:#222B36;
+      --ink:#E8ECF2; --ink-muted:#97A4B4; --ink-faint:#6E7C8C;
+      --accent:#F0A32E; --accent-ink:#17130A;
+      --ok:#4FC295; --ok-soft:#163027;
+      --idle:#7C8896; --idle-soft:#232C37;
+    }
+  }
+  * { box-sizing:border-box; }
+  html { -webkit-text-size-adjust:100%; }
+  body {
+    margin:0 auto; max-width:720px; background:var(--ground); color:var(--ink);
+    font-family:var(--sans); line-height:1.5;
+    padding:20px 16px calc(48px + env(safe-area-inset-bottom));
+    display:flex; flex-direction:column; gap:28px;
+  }
+
+  .masthead { display:flex; flex-direction:column; gap:11px; }
+  .brandline { display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  h1 {
+    font-family:var(--mono); font-size:25px; font-weight:700; margin:0;
+    letter-spacing:0.21em; text-transform:uppercase;
+  }
+  h1 .dot { color:var(--accent); }
+  .clock {
+    font-family:var(--mono); font-size:11.5px; color:var(--ink-faint);
+    letter-spacing:0.06em; font-variant-numeric:tabular-nums;
+  }
+  .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 62px,var(--line) 62px 100%); }
+  .tagline {
+    font-family:var(--mono); font-size:10.5px; text-transform:uppercase;
+    letter-spacing:0.15em; color:var(--ink-muted); margin:0;
+  }
+
+  .section { display:flex; flex-direction:column; gap:12px; }
+  .section-head { display:flex; align-items:center; gap:10px; }
+  .section-head::after { content:""; flex:1; height:1px; background:var(--line); }
+  h2 {
+    font-family:var(--mono); font-size:10.5px; font-weight:700; margin:0;
+    text-transform:uppercase; letter-spacing:0.15em; color:var(--ink-muted); white-space:nowrap;
+  }
+  .count { font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); }
+
+  .stack { display:flex; flex-direction:column; gap:10px; }
+
+  .task {
+    background:var(--surface); border:1px solid var(--line); border-radius:var(--r);
+    padding:14px; display:flex; flex-direction:column; gap:12px;
+  }
+  .task.is-live { border-color:var(--accent); }
+  .task-top { display:flex; align-items:flex-start; justify-content:space-between; gap:12px; }
+  h3 { font-size:16px; font-weight:650; margin:0; line-height:1.3; }
+  .desc { font-size:13.5px; line-height:1.5; color:var(--ink-muted); margin:4px 0 0; }
+
+  .pill {
+    font-family:var(--mono); font-size:9.5px; font-weight:700; text-transform:uppercase;
+    letter-spacing:0.1em; padding:4px 8px; border-radius:999px; white-space:nowrap; flex-shrink:0;
+  }
+  .pill--ok { background:var(--ok-soft); color:var(--ok); }
+  .pill--idle { background:var(--idle-soft); color:var(--idle); }
+
+  .task-meta {
+    display:flex; flex-wrap:wrap; gap:6px 16px;
+    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); font-variant-numeric:tabular-nums;
+  }
+  .task-meta b { color:var(--ink-muted); font-weight:500; }
+
+  .actions { display:flex; gap:8px; }
+  .btn {
+    font-family:var(--mono); font-size:11.5px; font-weight:700; letter-spacing:0.09em;
+    text-transform:uppercase; padding:0 16px; min-height:46px; border-radius:8px;
+    border:1px solid transparent; cursor:pointer; display:inline-flex; align-items:center;
+    justify-content:center; gap:8px; text-decoration:none; flex:1;
+    transition:transform .08s ease, filter .15s ease;
+  }
+  .btn:active { transform:scale(.985); }
+  .btn:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  .btn--go { background:var(--accent); color:var(--accent-ink); }
+  .btn--go:hover { filter:brightness(1.06); }
+  .btn--quiet {
+    background:transparent; color:var(--ink-muted); border-color:var(--line);
+    flex:0 0 auto; padding:0 14px;
+  }
+  .btn--quiet:hover { border-color:var(--ink-faint); color:var(--ink); }
+
+  .task--slot { border-style:dashed; background:transparent; gap:6px; }
+  .task--slot h3 { color:var(--ink-faint); font-weight:500; }
+
+  .chips { display:flex; flex-wrap:wrap; gap:7px; }
+  .chip {
+    font-family:var(--mono); font-size:11px; padding:6px 10px; border-radius:999px;
+    background:var(--surface); border:1px solid var(--line); color:var(--ink-muted);
+  }
+  .chip i { font-style:normal; color:var(--accent); margin-right:5px; }
+
+  .note { font-size:12.5px; line-height:1.55; color:var(--ink-faint); margin:0; }
+  .note b { color:var(--ink-muted); font-weight:600; }
+
+  .toast {
+    position:fixed; left:50%; bottom:22px; transform:translate(-50%,20px);
+    background:var(--ink); color:var(--ground); font-family:var(--mono); font-size:11.5px;
+    padding:12px 18px; border-radius:8px; opacity:0; pointer-events:none;
+    transition:opacity .2s ease, transform .2s ease; max-width:calc(100% - 32px);
+    text-align:center; z-index:50;
+  }
+  .toast.show { opacity:1; transform:translate(-50%,0); }
+  @media (prefers-reduced-motion: reduce) { .btn,.toast { transition:none; } }
+  @media (min-width:620px) {
+    body { padding:32px 24px 64px; gap:34px; }
+    h1 { font-size:31px; }
+    .task { padding:16px 18px; }
+    .actions .btn--go { flex:0 0 auto; padding:0 28px; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="brandline">
+    <h1>Skynet<span class="dot">.</span></h1>
+    <span class="clock" id="clock">&mdash;</span>
+  </div>
+  <div class="rule"></div>
+  <p class="tagline">Personal operations console</p>
+</header>
+
+<section class="section">
+  <div class="section-head">
+    <h2>Automations</h2>
+    <span class="count">1 live &middot; 2 open slots</span>
+  </div>
+
+  <div class="stack">
+
+    <article class="task is-live">
+      <div class="task-top">
+        <div>
+          <h3>Daily news briefing</h3>
+          <p class="desc">Ten fixed beats, live-searched, with your recency and spoiler rules enforced. Empty beats say so rather than manufacturing filler.</p>
+        </div>
+        <span class="pill pill--ok">Published</span>
+      </div>
+      <div class="task-meta">
+        <span><b>Schedule</b> daily 5:00 AM CT</span>
+        <span><b>Latest</b> Jul 27, 2026</span>
+      </div>
+      <div class="actions">
+        <a class="btn btn--go" href="../">Read latest brief</a>
+        <button class="btn btn--quiet" data-toast="Scheduling isn't wired up yet — briefings are still written by hand.">Run now</button>
+      </div>
+      <p class="note">Runs are still manual. The 5 AM automation is the next job.</p>
+    </article>
+
+    <article class="task task--slot">
+      <div class="task-top">
+        <h3>Open slot</h3>
+        <span class="pill pill--idle">Empty</span>
+      </div>
+      <p class="desc">Whatever you want next lands here as another card with its own button.</p>
+    </article>
+
+    <article class="task task--slot">
+      <div class="task-top">
+        <h3>Open slot</h3>
+        <span class="pill pill--idle">Empty</span>
+      </div>
+      <p class="desc">Adding one later is a small job, not a rebuild.</p>
+    </article>
+
+  </div>
+</section>
+
+<section class="section">
+  <div class="section-head">
+    <h2>Briefing beats</h2>
+    <span class="count">10 &middot; fixed order</span>
+  </div>
+  <div class="chips">
+    <span class="chip"><i>1</i>Market recap</span>
+    <span class="chip"><i>2</i>US-related international</span>
+    <span class="chip"><i>3</i>China watch</span>
+    <span class="chip"><i>4</i>Military news</span>
+    <span class="chip"><i>5</i>Military technology</span>
+    <span class="chip"><i>6</i>AI news</span>
+    <span class="chip"><i>7</i>Chicago Bears</span>
+    <span class="chip"><i>8</i>William Byron</span>
+    <span class="chip"><i>9</i>Indiana public schools</span>
+    <span class="chip"><i>10</i>PCA</span>
+  </div>
+  <p class="note">Beats <b>7</b> and <b>8</b> withhold scores and race results from the past 7 days. Beats <b>1&ndash;6</b> are capped at 72 hours old.</p>
+</section>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+(function () {
+  var clock = document.getElementById('clock');
+  function tick() {
+    var d = new Date(), days = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    var h = d.getHours(), ap = h >= 12 ? 'PM' : 'AM';
+    h = h % 12; if (h === 0) h = 12;
+    clock.textContent = days[d.getDay()] + ' ' + (d.getMonth() + 1) + '/' + d.getDate() +
+      '  ' + h + ':' + String(d.getMinutes()).padStart(2, '0') + ' ' + ap;
+  }
+  tick(); setInterval(tick, 20000);
+
+  var toast = document.getElementById('toast'), timer = null;
+  document.addEventListener('click', function (e) {
+    var b = e.target.closest('[data-toast]');
+    if (!b) return;
+    toast.textContent = b.getAttribute('data-toast');
+    toast.classList.add('show');
+    clearTimeout(timer);
+    timer = setTimeout(function () { toast.classList.remove('show'); }, 2600);
+  });
+})();
+</script>
+</body>
+</html>

@@ -90,6 +90,11 @@
   }
   .archive { margin-top:14px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
   .archive label { font-family:var(--mono); font-size:11px; color:var(--ink-faint); letter-spacing:0.06em; }
+  .back {
+    font-family:var(--mono); font-size:11px; color:var(--accent);
+    text-decoration:none; letter-spacing:0.05em; padding:8px 0;
+  }
+  .back:hover { text-decoration:underline; }
   select {
     font-family:var(--mono); font-size:12px; padding:8px 10px; min-height:40px;
     background:var(--surface); color:var(--ink); border:1px solid var(--line); border-radius:6px;
@@ -122,6 +127,7 @@
   <div class="archive">
     <label for="pick">Archive</label>
     <select id="pick"></select>
+    <a class="back" href="skynet/">&larr; Skynet console</a>
   </div>
 </footer>
 
