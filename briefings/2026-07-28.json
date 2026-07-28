@@ -1,0 +1,119 @@
+{
+  "date": "2026-07-28",
+  "dateLabel": "Tuesday, July 28, 2026",
+  "slot": "5 AM CT",
+  "window": "past 24h",
+  "generated": "2026-07-28T10:00:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Dow rises on oil retreat while S&P and Nasdaq end nearly flat.",
+      "body": "The Dow gained 0.51% to close at 52,210.08 Monday as oil prices tumbled, while the S&P 500 was roughly flat at 7,413.18 and the Nasdaq slipped 0.18% to 24,932.08 after Nvidia dropped 5%; energy and tech lagged while consumer-defensive and communication stocks led.",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/07/27/stock-market-today-july-27-dow-rises-on-oil-retreat-and-sandisk-plunges-11-on-memory-weakness/"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Shots fired outside US consulate in Toronto for second time this year.",
+      "body": "Canadian police are investigating early Monday gunfire that struck the facade of the US consulate; no injuries were reported, marking the second such attack on the building since a March shooting tied to paid recruitment over encrypted apps.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Beijing accuses Philippines of stoking tension after joint US-Japan patrols.",
+      "body": "China's Southern Theatre Command ran a South China Sea patrol and accused Manila of organizing joint drills with the US and Japan that undermine regional stability, days after the US Treasury placed Taiwan on its currency-monitoring watchlist.",
+      "source": "The Asia Cable",
+      "url": "https://www.theasiacable.com/p/asia-daily-july-27-2026"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US and Iran hold fire for a third straight night amid ceasefire push.",
+      "body": "The Pentagon paused strikes on Iran for a third consecutive night after officials flagged dwindling munitions stockpiles, and Tehran reciprocated by halting retaliatory strikes on US bases; 18 US troops have been killed and 624 wounded since the war began in February.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/27/world/live-news/iran-war-trump"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon seeks cheaper long-range strike weapons on a three-month test clock.",
+      "body": "The Defense Innovation Unit launched a Ground-Based Affordable Mass challenge for autonomously guided long-range strike weapons costing under $250,000 apiece and demonstrable within three months, alongside new seven-year Patriot and THAAD production agreements with Lockheed Martin and L3Harris.",
+      "source": "Army Times",
+      "url": "https://www.armytimes.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic fixes bug that let shared Claude chats surface in Google search.",
+      "body": "A missing no-index tag allowed hundreds of publicly shared Claude conversations, some containing crypto wallet keys and other sensitive data, to become searchable on Google; Anthropic patched the issue Monday afternoon, though a third-party archive had already captured many of the exposed chats.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/27/a-trove-of-users-seemingly-private-conversations-with-anthropics-claude-ai-chatbot-showed-up-in-google-search-results/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears open training camp with six players sidelined on injury lists.",
+      "body": "Linebacker T.J. Edwards opened camp on the Non-Football Injury list with a minor muscle strain expected to be short-term, while cornerback Kyler Gordon, tackle Ozzy Trapilo, defensive tackle Shemar Turner and linebackers Noah Sewell and Keyshaun Elliott were placed on the Physically Unable to Perform list.",
+      "source": "Windy City Gridiron",
+      "url": "https://www.windycitygridiron.com/chicago-bears-injuries/119476/chicago-bears-non-football-injury-physically-unable-to-perform-list-kyler-gordon-tj-edwards"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~2 weeks ago",
+      "empty": false,
+      "headline": "Byron and crew chief Rudy Fugle hash out a heated in-race radio exchange.",
+      "body": "During the July 12 race at EchoPark Speedway, Byron vented frustration over his car's handling in a tense radio exchange with crew chief Rudy Fugle; Fugle later said the frustration was aimed at the car's setup, not at each other.",
+      "source": "MotorBiscuit",
+      "url": "https://www.motorbiscuit.com/william-byron-radio-echo-park-race/"
+    },
+    {
+      "n": 9,
+      "beat": "Indiana public schools",
+      "group": "community",
+      "age": "~4 weeks ago",
+      "empty": false,
+      "headline": "Valparaiso schools board picks former Highland superintendent Brian Smith.",
+      "body": "The Valparaiso Community Schools board approved Brian Smith, previously superintendent of School Town of Highland, as its next superintendent at its June 30 meeting, succeeding Dr. Jim McCall, who is leaving for the private sector.",
+      "source": "The Times of Northwest Indiana",
+      "url": "https://nwitimes.com/news/local/education/article_7971bc18-f58f-4b73-99ec-fdf2ef77cfe4.html"
+    },
+    {
+      "n": 10,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~4 days ago",
+      "empty": false,
+      "headline": "Covenant Seminary mourns longtime Old Testament professor Robert Vasholz.",
+      "body": "Dr. Robert I. Vasholz, Professor Emeritus of Old Testament at Covenant Theological Seminary who taught there from 1975 until his 2007 retirement, died July 16 at age 90; his memorial service was held July 24 at Redeemer Presbyterian Church.",
+      "source": "Covenant Theological Seminary",
+      "url": "https://www.covenantseminary.edu/news/in-memoriam-dr-robert-i-vasholz-july-2026"
+    }
+  ]
+}
