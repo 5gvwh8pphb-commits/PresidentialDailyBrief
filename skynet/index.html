@@ -154,17 +154,18 @@
           <h3>Daily news briefing</h3>
           <p class="desc">Ten fixed beats, live-searched, with your recency and spoiler rules enforced. Empty beats say so rather than manufacturing filler.</p>
         </div>
-        <span class="pill pill--ok">Published</span>
+        <span class="pill pill--ok">Scheduled</span>
       </div>
       <div class="task-meta">
         <span><b>Schedule</b> daily 5:00 AM CT</span>
-        <span><b>Latest</b> Jul 27, 2026</span>
+        <span><b>Latest</b> <span id="latest">&hellip;</span></span>
       </div>
       <div class="actions">
         <a class="btn btn--go" href="../">Read latest brief</a>
-        <button class="btn btn--quiet" data-toast="Scheduling isn't wired up yet — briefings are still written by hand.">Run now</button>
+        <a class="btn btn--quiet" href="https://claude.ai/code/routines/trig_01DHCWXrLQdpTh7u1B1v94Ct"
+           target="_blank" rel="noopener noreferrer">Run now</a>
       </div>
-      <p class="note">Runs are still manual. The 5 AM automation is the next job.</p>
+      <p class="note"><b>Run now</b> opens the routine on claude.ai &mdash; tap Run there and this brief refreshes in a few minutes. The button can't fire it directly because this page is public, and that would mean putting a key to your account on the open internet.</p>
     </article>
 
     <article class="task task--slot">
@@ -219,6 +220,19 @@
       '  ' + h + ':' + String(d.getMinutes()).padStart(2, '0') + ' ' + ap;
   }
   tick(); setInterval(tick, 20000);
+
+  fetch('../briefings/index.json?t=' + Date.now())
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (idx) {
+      var el = document.getElementById('latest');
+      if (!el) return;
+      var top = idx && (idx.archive || [])[0];
+      el.textContent = (top && (top.label || top.date)) || (idx && idx.latest) || 'none yet';
+    })
+    .catch(function () {
+      var el = document.getElementById('latest');
+      if (el) el.textContent = 'unavailable';
+    });
 
   var toast = document.getElementById('toast'), timer = null;
   document.addEventListener('click', function (e) {
