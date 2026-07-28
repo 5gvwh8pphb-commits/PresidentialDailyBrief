@@ -1,0 +1,130 @@
+name: Daily briefing
+
+on:
+  schedule:
+    # 10:00 UTC = 5:00 AM Central Daylight Time.
+    # Note: this drifts to 4:00 AM Central when CST resumes in November.
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: briefing
+  cancel-in-progress: false
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve today's Chicago date
+        id: d
+        run: |
+          echo "date=$(TZ=America/Chicago date +%F)"                   >> "$GITHUB_OUTPUT"
+          echo "label=$(TZ=America/Chicago date '+%A, %B %-d, %Y')"    >> "$GITHUB_OUTPUT"
+          echo "short=$(TZ=America/Chicago date '+%a, %b %-d, %Y')"    >> "$GITHUB_OUTPUT"
+          echo "dow=$(TZ=America/Chicago date '+%A')"                  >> "$GITHUB_OUTPUT"
+
+      - name: Write the briefing
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: '--allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" --model claude-opus-5'
+          prompt: |
+            You are writing Jim Martin's Daily News Briefing into this repository.
+            Today in America/Chicago is ${{ steps.d.outputs.dow }}, ${{ steps.d.outputs.date }}.
+
+            YOUR ONLY JOB IS TO WRITE TWO FILES. Do not run git. Do not commit.
+            A later step handles publishing.
+
+            First read README.md. It defines the exact JSON schema. Follow it precisely.
+
+            == RESEARCH ==
+            Run a separate WebSearch for EACH beat below, in this fixed order.
+            Verify recency and the spoiler window before including anything.
+
+            1. Market recap (group: markets) - the most recent trading day the US market
+               was open; skip weekends and holidays. TODAY IS ${{ steps.d.outputs.dow }} -
+               if that is Monday, recap the previous full trading week rather than just Friday.
+            2. US-related international news (group: security) - major world stories
+               connected to or affecting the United States.
+            3. China watch (group: security) - news bearing on potential future conflict
+               with China: Taiwan Strait, South China Sea, US-China military posture,
+               security-relevant trade and tech tension.
+            4. Military news (group: security) - any active conflict or operation involving
+               US troops, ships, aircraft, or space assets.
+            5. Military technology (group: security) - new and upcoming capabilities and
+               platforms, e.g. AI-enabled systems, F-47, B-21, naval ships, space assets.
+            6. AI news (group: ai) - developments likely to affect Jim's life within the next
+               12 months. Give special attention to Anthropic and Claude news.
+            7. Chicago Bears (group: sports) - roster, injuries, front office, schedule.
+            8. William Byron, NASCAR (group: sports) - driver news.
+            9. Indiana public schools (group: community) - ONLY these districts:
+               Eastern Pulaski, East Porter County Schools, Hanover, Tri-Creek,
+               MSD of Boone Twp, MSD of New Durham Twp, Michigan City Area Schools,
+               New Prairie United School Corporation, Union Twp School Corp,
+               Valparaiso Community Schools, LaPorte Community School Corporation,
+               Duneland Schools, South Central Schools, School City of Hobart.
+            10. PCA, Presbyterian Church in America (group: community) - denominational
+                news relevant to a serving elder.
+
+            == HARD RULES ==
+            - RECENCY, beats 1-6: past 24 hours strongly preferred, 72 hours absolute
+              maximum. NEVER include anything older. If nothing qualifies, the beat is empty.
+            - SPOILER RULE, beats 7 and 8 ONLY: never reveal scores, results, or game/race
+              outcomes from the past 7 days, even if otherwise within the recency window.
+              Roster moves, injury updates, schedule info, contracts and sponsorships are fine.
+            - NICHE BEATS 7-10: if the freshest item is older than 72h you may still include
+              it, but state its real age honestly in the age field, e.g. "~2 weeks ago".
+              Never imply it is fresh.
+            - EMPTY IS A CORRECT ANSWER: if a beat has no qualifying news, set empty to true,
+              headline "No fresh news on this beat right now", and say briefly in body why.
+              NEVER manufacture filler or stretch to a loosely related story.
+            - SOURCING: reputable or primary outlets only. No clickbait, especially on the
+              Bears beat. Rumors are fine from reputable outlets, never tabloid speculation.
+            - TONE: report facts plainly. No ideological or partisan framing or commentary
+              from any political direction.
+
+            == FILE 1 ==
+            Write briefings/${{ steps.d.outputs.date }}.json matching README.md exactly.
+            All ten beats present, in order, n = 1 through 10. headline is one sentence-case
+            line. body is one or two sentences of real substance. age is a short relative
+            label such as "~4h ago". url is the single best source link, or null when empty.
+            Set:
+              "date":      "${{ steps.d.outputs.date }}"
+              "dateLabel": "${{ steps.d.outputs.label }}"
+              "slot":      "5 AM CT"
+              "window":    "past 24h"
+              "generated": the current UTC timestamp
+            Overwrite the file if it already exists.
+
+            == FILE 2 ==
+            Edit briefings/index.json: set "latest" to "${{ steps.d.outputs.date }}" and
+            prepend {"date": "${{ steps.d.outputs.date }}", "label": "${{ steps.d.outputs.short }}"}
+            to the archive array, newest first. Do not duplicate a date already present.
+            Keep at most 60 archive entries.
+
+            Finish by stating how many beats came back empty and why.
+
+      - name: Publish
+        id: pub
+        run: |
+          git config user.name  "briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to publish - the briefing step wrote nothing."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 1
+          fi
+          git commit -m "Briefing ${{ steps.d.outputs.date }}"
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Confirm it is live
+        run: |
+          echo "Published briefing ${{ steps.d.outputs.date }}"
+          git log -1 --oneline
