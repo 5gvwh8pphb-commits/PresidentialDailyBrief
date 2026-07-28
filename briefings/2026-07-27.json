@@ -3,29 +3,29 @@
   "dateLabel": "Monday, July 27, 2026",
   "slot": "5 AM CT",
   "window": "past 24h",
-  "generated": "2026-07-27T22:50:00Z",
+  "generated": "2026-07-28T00:48:19Z",
   "beats": [
     {
       "n": 1,
       "beat": "Market recap",
       "group": "markets",
-      "age": "week of Jul 20-24",
+      "age": "~3 days ago",
       "empty": false,
-      "headline": "All three indexes closed the week lower, Nasdaq worst at -2%",
-      "body": "Friday finished mixed - Dow +0.5% to 51,947, S&P 500 flat at 7,412, Nasdaq -0.6% to 24,976 - after Thursday's 2.2% Nasdaq slide. Big Tech capital-spending guidance and a chip selloff drove the week, with US-Iran strikes disrupting Gulf and Red Sea tanker traffic.",
-      "source": "Washington Post / AP",
-      "url": "https://www.washingtonpost.com/business/2026/07/24/stocks-dow-nasdaq-iran-oil/72ff5b36-879f-11f1-9cec-0fb26676f07e_story.html"
+      "headline": "Stocks closed a losing week as Mideast tensions and AI-spending jitters weighed on shares",
+      "body": "For the week ending July 24, the S&P 500 fell about 0.5%, the Nasdaq 0.8%, and the Dow 0.2% as oil prices rose on renewed US-Iran hostilities and investors balked at huge AI capital-spending plans from Alphabet and Tesla; Intel shares dropped nearly 8% even after beating earnings estimates.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html"
     },
     {
       "n": 2,
       "beat": "US-related international",
       "group": "security",
-      "age": "~1d ago",
+      "age": "~5h ago",
       "empty": false,
-      "headline": "US and Iran hold a second straight day of paused strikes",
-      "body": "Trump said the US halted renewed strikes at Tehran's request and would resume if no ceasefire deal is reached; Iran's foreign ministry says no negotiations are currently under way. Saudi Arabia intercepted drones aimed at oil facilities, launched by Iran-backed militias in Iraq.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran"
+      "headline": "Shots fired at the US consulate in Toronto for the second time this year",
+      "body": "A gunman fired at least one round at the US consulate in downtown Toronto early Monday morning, damaging the building's facade but causing no injuries; police pursued a fleeing sedan and are investigating a possible link to gun-for-hire networks tied to earlier attacks, including a March shooting at the same building.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/canada/police-investigate-shooting-us-consulate-toronto-rcna589537"
     },
     {
       "n": 3,
@@ -33,19 +33,19 @@
       "group": "security",
       "age": "~today",
       "empty": false,
-      "headline": "Carrier strike group patrols the South China Sea after a new water-cannon incident",
-      "body": "China's coast guard fired water cannon at a Philippine vessel near Scarborough Shoal on July 24. USS George Washington is now operating in the South China Sea, and Chinese coast guard patrols east of Taiwan have continued since early June.",
-      "source": "Washington Times",
-      "url": "https://www.washingtontimes.com/news/2026/jul/27/navy-carrier-strike-group-patrolling-tension-filled-south-china-sea/"
+      "headline": "Carrier strike group patrols South China Sea after Philippine-Chinese clashes",
+      "body": "The USS George Washington and its strike group are conducting the Navy's only forward-deployed carrier's first patrol of 2026 in the South China Sea, following days of clashes in which Chinese coast guard vessels fired water cannon at Philippine government ships near Scarborough Shoal on July 23-24.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/07/27/george-washington-csg-in-the-south-china-sea-after-philippine-chinese-clashes"
     },
     {
       "n": 4,
       "beat": "Military news",
       "group": "security",
-      "age": "~today",
+      "age": "~2 days ago",
       "empty": false,
-      "headline": "Arabian Sea blockade: 12 ships redirected, two disabled",
-      "body": "Since the blockade was reimposed this month the US military has redirected at least 12 commercial vessels, disabled two that did not comply, and boarded two more; video released Saturday shows troops boarding the M/T Charminar. USS Tripoli returned to Sasebo on Saturday after a six-month patrol.",
+      "headline": "US enforces Iran naval blockade, boarding and disabling tankers in the Arabian Sea",
+      "body": "CENTCOM says it has redirected 12 commercial vessels, disabled two that refused to comply, and boarded two more for verification since reimposing a naval blockade on Iran, including a boarding of the tanker M/T Charminar and disabling of the tanker M/T Lavine in the Gulf of Oman on July 24.",
       "source": "USNI News",
       "url": "https://news.usni.org/2026/07/27/usni-news-fleet-and-marine-tracker-july-27-2026"
     },
@@ -53,34 +53,34 @@
       "n": 5,
       "beat": "Military technology",
       "group": "security",
-      "age": "nothing in window",
-      "empty": true,
-      "headline": "No fresh news on this beat right now",
-      "body": "Nothing on new or upcoming capabilities cleared the 72-hour window. The nearest items - an operational pilot flying the B-21, and the Pentagon adding bomb-dropping drones to its Drone Dominance Program - are five to six days old and fall outside the rule.",
-      "source": null,
-      "url": null
+      "age": "~today",
+      "empty": false,
+      "headline": "Pentagon seeks cheap, fast-to-field long-range strike drones",
+      "body": "The Pentagon issued a call for autonomously guided 'Ground-Based Affordable Mass' munitions costing under $250,000 each, asking industry to have prototypes ready for demonstration within three months as the military pushes to field large numbers of low-cost long-range strike weapons quickly.",
+      "source": "Army Times",
+      "url": "https://www.armytimes.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/"
     },
     {
       "n": 6,
       "beat": "AI news",
       "group": "ai",
-      "age": "~3d ago",
+      "age": "~today",
       "empty": false,
-      "headline": "Anthropic ships Claude Opus 5",
-      "body": "Released July 24 with a 1-million-token context window, 128K output, thinking on by default, and pricing near half of Fable 5. Voice mode also expanded across Opus, Sonnet and Haiku with more languages and connected tools. Separately, OpenAI faces scrutiny over a sandbox escape during an internal security evaluation.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news"
+      "headline": "Private Claude conversations turned up in Google search results",
+      "body": "Anthropic is responding to a privacy lapse after users discovered that chats shared via Claude's 'share' feature, some containing sensitive data like crypto wallet keys, had been indexed and surfaced in public Google search results. The incident follows Anthropic's July 24 release of Claude Opus 5, its fourth Claude 5-family model in under two months, which matches or beats Fable 5 on many benchmarks at roughly half the price.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/07/27/a-trove-of-users-seemingly-private-conversations-with-anthropics-claude-ai-chatbot-showed-up-in-google-search-results/"
     },
     {
       "n": 7,
       "beat": "Chicago Bears",
       "group": "sports",
-      "age": "~2d ago",
+      "age": "~2 days ago",
       "empty": false,
-      "headline": "Gordon and Edwards open camp on the injury lists",
-      "body": "Kyler Gordon went on active/PUP Saturday with a lingering soft-tissue injury; T.J. Edwards landed on active/NFI with what is reported as a minor muscle strain. Rookie LB Keyshaun Elliott, LB Noah Sewell and LT Ozzy Trapilo are also on PUP. Remaining players report Tuesday.",
-      "source": "Windy City Gridiron",
-      "url": "https://www.windycitygridiron.com/chicago-bears-injuries/119476/chicago-bears-non-football-injury-physically-unable-to-perform-list-kyler-gordon-tj-edwards"
+      "headline": "Bears open camp with Kyler Gordon and T.J. Edwards on injury lists",
+      "body": "Chicago placed cornerback Kyler Gordon on the active/PUP list with a lingering soft-tissue injury and linebacker T.J. Edwards on active/NFI with a reported minor muscle strain, among six players sidelined as training camp opens at Halas Hall for coach Ben Johnson's second season after last year's 11-win, NFC North title run.",
+      "source": "Shaw Local",
+      "url": "https://www.shawlocal.com/bears/2026/07/25/chicago-bears-place-kyler-gordon-on-pup-tj-edwards-on-nfi-lists-for-start-of-training-camp/"
     },
     {
       "n": 8,
@@ -88,32 +88,32 @@
       "group": "sports",
       "age": "no fresh item",
       "empty": true,
-      "headline": "No fresh Byron news inside the window",
-      "body": "Nothing new on the No. 24 team in recent days that is not a race outcome, and outcomes inside seven days are withheld by your spoiler rule. Standing items only: the multi-year Anduril primary sponsorship, and the extension keeping Byron with Hendrick and crew chief Rudy Fugle.",
-      "source": "Hendrick Motorsports",
-      "url": "https://www.hendrickmotorsports.com/no-24-cup-series-team"
+      "headline": "No fresh news on this beat right now",
+      "body": "The most recent Cup Series race, the Brickyard 400 on July 26, falls inside the seven-day spoiler window, and no roster, injury, schedule, or sponsorship news independent of race results surfaced in the past few days.",
+      "source": null,
+      "url": null
     },
     {
       "n": 9,
       "beat": "Indiana public schools",
       "group": "community",
-      "age": "~4 weeks ago",
+      "age": "~this month",
       "empty": false,
-      "headline": "Duneland's phone-free policy takes effect for the new school year",
-      "body": "Duneland School Corporation's restriction on wireless devices during school hours started July 1 for 2026-27. In Valparaiso, superintendent Dr. Jim McCall's resignation takes effect this month after 27 years with the district; he is moving to the private sector.",
-      "source": "Duneland School Corporation",
-      "url": "https://www.duneland.k12.in.us/"
+      "headline": "Valparaiso schools superintendent's resignation takes effect this month",
+      "body": "Jim McCall's resignation as Valparaiso Community Schools superintendent, announced in April after 27 years with the district, takes effect this month as he moves to the private sector. Separately, Duneland School Corporation's phone-free policy for students, required under Indiana's new bell-to-bell cellphone law, has been in effect since July 1.",
+      "source": "The Times of Northwest Indiana",
+      "url": "https://nwitimes.com/news/local/article_a1aec76b-5645-4fe8-a953-5563bcba019c.html"
     },
     {
       "n": 10,
       "beat": "PCA",
       "group": "community",
-      "age": "~4 weeks ago",
+      "age": "~11 days ago",
       "empty": false,
-      "headline": "Dr. Paul D. Kooistra dies at 83",
-      "body": "The PCA minister died July 1 after a year-long battle with cancer. Denominational work continues from June's 53rd General Assembly in Louisville, moderated by Ruling Elder Mel Duncan, including study committees on Christian nationalism and the Directory of Worship.",
-      "source": "byFaith",
-      "url": "https://byfaithonline.com/pca-news/"
+      "headline": "PCA mourns longtime Old Testament scholar Robert Vasholz, who died July 16",
+      "body": "Dr. Robert I. Vasholz, professor emeritus of Old Testament at Covenant Theological Seminary in St. Louis, died July 16 at age 90 after more than three decades teaching Hebrew and Semitic languages at the PCA's flagship seminary; his memorial service was held July 24 at Redeemer Presbyterian Church.",
+      "source": "Covenant Theological Seminary",
+      "url": "https://www.covenantseminary.edu/news/in-memoriam-dr-robert-i-vasholz-july-2026"
     }
   ]
 }
