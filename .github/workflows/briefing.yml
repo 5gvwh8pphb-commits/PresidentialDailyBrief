@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 concurrency:
   group: briefing
@@ -32,6 +33,7 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           claude_args: '--allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" --model claude-opus-5'
           prompt: |
             You are writing Jim Martin's Daily News Briefing into this repository.
