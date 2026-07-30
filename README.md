@@ -1,23 +1,47 @@
 # Presidential Daily Brief
 
-A phone-readable daily news briefing. The page is a fixed shell; each morning's
-briefing is a small JSON file it reads. Automation writes facts, not HTML.
+Phone-readable news briefs. Each page is a fixed shell; each issue is a small JSON
+file the shell reads. Automation writes facts, not HTML.
+
+Two briefs live here:
+
+| Brief | Page | Schedule | Workflow |
+|---|---|---|---|
+| Daily news brief | `/` | daily 5:00 AM CT | `.github/workflows/briefing.yml` |
+| My district news | `/district/` | Sundays 6:00 PM CT | `.github/workflows/district.yml` |
+| Skynet console (hub) | `/skynet/` | — | — |
+
+Both schedules are pinned to UTC cron and drift back one hour when CST resumes
+in November.
 
 ## Layout
 
 ```
-index.html                  the dashboard (never changes day to day)
-briefings/index.json        { latest, archive[] }  -- pointer + archive list
-briefings/YYYY-MM-DD.json   one briefing per day
+index.html                  daily brief shell
+skynet/index.html           console / hub
+district/index.html         district brief shell
+
+briefings/index.json        { latest, archive[] }
+briefings/YYYY-MM-DD.json   one daily brief per day
+
+district/index.json         { latest, archive[] }
+district/YYYY-MM-DD.json    one district brief per week
+
+icon.png                    1024x1024 app icon
+apple-touch-icon.png        180x180 home-screen icon
 ```
 
-## Publishing a new briefing
+## Publishing an issue
 
-1. Write `briefings/YYYY-MM-DD.json`.
-2. Add the date to `archive` in `briefings/index.json` (newest first) and set `latest`.
+1. Write the dated JSON file.
+2. Set `latest` and prepend to `archive` in that folder's `index.json`.
 3. Commit and push. GitHub Pages serves it within about a minute.
 
-## Briefing file shape
+---
+
+# Daily brief
+
+## File shape
 
 ```json
 {
@@ -25,7 +49,7 @@ briefings/YYYY-MM-DD.json   one briefing per day
   "dateLabel": "Monday, July 27, 2026",
   "slot": "5 AM CT",
   "window": "past 24h",
-  "generated": "2026-07-27T22:50:00Z",
+  "generated": "2026-07-28T00:48:19Z",
   "beats": [
     {
       "n": 1,
@@ -42,15 +66,11 @@ briefings/YYYY-MM-DD.json   one briefing per day
 }
 ```
 
-`group` sets the card's left-border colour. Valid values:
-`markets`, `security`, `ai`, `sports`, `community`.
+`group` sets the card's left-border colour: `markets`, `security`, `ai`, `sports`,
+`community`. `empty: true` renders the muted dashed style. `url: null` makes the
+card non-tappable.
 
-`empty: true` renders the muted dashed style — use it when a beat genuinely has
-no news. Say so plainly rather than manufacturing filler.
-
-`url: null` makes the card non-tappable.
-
-## The ten beats (fixed order)
+## The nine beats (fixed order)
 
 | # | Beat | Group |
 |---|------|-------|
@@ -62,25 +82,87 @@ no news. Say so plainly rather than manufacturing filler.
 | 6 | AI news | ai |
 | 7 | Chicago Bears | sports |
 | 8 | William Byron | sports |
-| 9 | Indiana public schools | community |
-| 10 | PCA | community |
+| 9 | PCA | community |
 
-## Rules the content must follow
+School district news is **not** a daily beat. It has its own weekly brief.
+
+## Rules
 
 - **Recency, beats 1-6:** past 24 hours preferred, 72 hours absolute maximum. Never older.
-- **Spoiler rule, beats 7-8 only:** never reveal scores, results, or race/game
-  outcomes from the past 7 days. Roster moves, injuries, and schedule info are fine.
-- **Niche beats 7-10:** if the freshest item is older than 72h it may still run,
-  but label its real age honestly in `age`.
-- **Empty is allowed.** Set `empty: true` and say so. Never stretch to a
-  loosely-related story.
-- **Sourcing:** reputable or primary outlets only. No clickbait, especially on the
-  Bears beat. Rumours are fine from reputable outlets, not tabloid speculation.
-- **Tone:** report facts plainly. No ideological or partisan framing from any direction.
+- **Spoiler rule, beats 7-8 only:** never reveal scores, results, or race/game outcomes
+  from the past 7 days. Roster moves, injuries, and schedule info are fine.
+- **Niche beats 7-9:** if the freshest item is older than 72h it may still run, but
+  label its real age honestly in `age`.
+- **Empty is allowed.** Set `empty: true` and say so. Never stretch to a loosely-related story.
+- **Sourcing:** reputable or primary outlets only. No clickbait, especially on the Bears beat.
+- **Tone:** facts plainly, no partisan framing from any direction.
 
-## Indiana districts covered (beat 9)
+---
 
-Eastern Pulaski · East Porter County · Hanover · Tri-Creek · MSD of Boone Twp ·
-MSD of New Durham Twp · Michigan City Area Schools · New Prairie United ·
-Union Twp School Corp · Valparaiso Community Schools · LaPorte Community ·
-Duneland · South Central · School City of Hobart
+# District brief
+
+Weekly. Who is coming and going in administration across the districts Jim sells to.
+
+## File shape
+
+```json
+{
+  "date": "2026-08-02",
+  "dateLabel": "Sunday, August 2, 2026",
+  "slot": "Sundays 6 PM CT",
+  "window": "past 7 days",
+  "generated": "2026-08-02T23:10:00Z",
+  "note": "Quiet week; one superintendent search and a bond vote.",
+  "covered": ["Eastern Pulaski", "East Porter Co", "..."],
+  "stories": [
+    {
+      "n": 1,
+      "district": "Valparaiso Community Schools",
+      "kind": "admin",
+      "age": "~3 days ago",
+      "headline": "One line, sentence case",
+      "body": "One or two sentences. Name names and titles.",
+      "source": "Outlet name",
+      "url": "https://..."
+    }
+  ]
+}
+```
+
+`kind` sets the card colour and tag: `admin` (amber), `trust` (purple),
+`other` (blue), `student` (teal). An empty `stories` array renders an honest
+quiet-week state — that is expected some weeks, not a failure.
+
+## Priority order
+
+1. **admin** — Superintendent, Assistant/Deputy Superintendent, Business Manager,
+   CFO, HR Director, Treasurer, Deputy Treasurer, Principal, Assistant Principal.
+   Hired, appointed, promoted, resigned, retiring, fired, placed on leave,
+   contract approved or not renewed, interim appointments, open searches, finalists.
+2. **other** — referendums and levies, budgets, bonds and construction, board
+   conflict, closings or consolidation, enrollment, accountability, litigation, labor.
+3. **student** — only when 1 and 2 are thin. State titles, major awards,
+   significant incidents. No routine activities.
+
+**Hard recency rule: nothing older than 7 days. No exceptions.** Cap at 12 stories,
+keeping all admin items first.
+
+## Entities covered
+
+| # | District | Town |
+|---|---|---|
+| 1 | Eastern Pulaski Community School Corporation | Winamac |
+| 2 | East Porter County School Corporation | Kouts / Morgan Twp |
+| 3 | Hanover Community School Corporation | Cedar Lake |
+| 4 | LaPorte Community School Corporation | LaPorte |
+| 5 | Michigan City Area Schools | Michigan City |
+| 6 | MSD of Boone Township | Hebron |
+| 7 | MSD of New Durham Township | Westville |
+| 8 | New Prairie United School Corporation | New Carlisle, Rolling Prairie |
+| 9 | NISEC (NW Indiana Special Education Cooperative) | — |
+| 10 | School City of Hobart | Hobart |
+| 11 | Tri-Creek School Corporation | Lowell |
+| 12 | Union Township School Corporation | Valparaiso area |
+| 13 | Valparaiso Community Schools | Valparaiso |
+| 14 | Porter County Trust | benefit trust |
+| 15 | MASE Trust | benefit trust |

@@ -1,0 +1,165 @@
+name: District news
+
+on:
+  schedule:
+    # 23:00 UTC Sunday = 6:00 PM Central Daylight Time.
+    # Note: this drifts to 5:00 PM Central when CST resumes in November.
+    - cron: '0 23 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: district
+  cancel-in-progress: false
+
+jobs:
+  district:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve today's Chicago date
+        id: d
+        run: |
+          echo "date=$(TZ=America/Chicago date +%F)"                >> "$GITHUB_OUTPUT"
+          echo "label=$(TZ=America/Chicago date '+%A, %B %-d, %Y')" >> "$GITHUB_OUTPUT"
+          echo "short=$(TZ=America/Chicago date '+%b %-d, %Y')"     >> "$GITHUB_OUTPUT"
+          echo "week=$(TZ=America/Chicago date -d '7 days ago' +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Write the district brief
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          claude_args: '--allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep"'
+          prompt: |
+            You are writing Jim Martin's weekly "My District News" brief into this repository.
+            Today in America/Chicago is ${{ steps.d.outputs.label }}.
+            The reporting window is ${{ steps.d.outputs.week }} through ${{ steps.d.outputs.date }}.
+
+            Jim is an account executive selling supplemental benefits to K-12 school districts
+            in northwest Indiana. He needs to know who is coming and going in district
+            administration, because those people are his customers and decision-makers.
+
+            YOUR ONLY JOB IS TO WRITE TWO FILES. Do not run git. Do not commit.
+            A later step handles publishing.
+
+            First read README.md for the district brief schema. Follow it precisely.
+
+            == THE DISTRICTS (search each one separately) ==
+            1.  Eastern Pulaski Community School Corporation (Winamac)
+            2.  East Porter County School Corporation (Kouts / Morgan Township)
+            3.  Hanover Community School Corporation (Cedar Lake)
+            4.  LaPorte Community School Corporation
+            5.  Michigan City Area Schools
+            6.  MSD of Boone Township (Hebron)
+            7.  MSD of New Durham Township (Westville)
+            8.  New Prairie United School Corporation (New Carlisle, Rolling Prairie)
+            9.  NISEC - Northwest Indiana Special Education Cooperative
+            10. School City of Hobart
+            11. Tri-Creek School Corporation (Lowell)
+            12. Union Township School Corporation (Valparaiso area)
+            13. Valparaiso Community Schools
+
+            Also search these two benefit trusts:
+            14. Porter County Trust (school insurance/benefit trust)
+            15. MASE Trust (Multi-Agency School Employee benefit trust)
+
+            == HARD RECENCY RULE ==
+            NOTHING older than 7 days. If a story is dated before ${{ steps.d.outputs.week }},
+            do not include it. No exceptions. This brief is worthless if it repeats last week.
+
+            == WHAT TO LOOK FOR, IN PRIORITY ORDER ==
+
+            PRIORITY 1 - ADMINISTRATION (kind: "admin"). This is what Jim actually wants.
+            People news about: Superintendent, Assistant or Deputy Superintendent,
+            Business Manager, Chief Financial Officer, HR Director, Treasurer,
+            Deputy Treasurer, Principal, Assistant Principal.
+            Events: hired, named, appointed, promoted, resigned, retiring, fired,
+            placed on leave, contract approved or not renewed, interim appointments,
+            and open searches or finalist announcements.
+            Include every qualifying admin story you find, even small ones. A one-line
+            board approval of a new assistant principal is worth more to Jim than a
+            feature story about a bake sale.
+
+            PRIORITY 2 - OTHER DISTRICT NEWS (kind: "other"). Use when admin news is thin.
+            Referendums and levies, budgets and finance, bond issues and construction,
+            school board conflict, closings or consolidation, enrollment shifts,
+            state accountability results, litigation, labor negotiations, calendar changes.
+
+            PRIORITY 3 - STUDENTS (kind: "student"). Use only when 1 and 2 are both thin.
+            Genuinely notable student stories - state championships, major awards,
+            significant incidents. Skip routine activities.
+
+            Trust news is kind: "trust".
+
+            == EXPECT QUIET WEEKS ==
+            These are small districts and most weeks will be sparse. That is fine and
+            expected. Report what exists. NEVER invent, pad, or stretch a story to fill
+            space. If the whole week is empty across all fifteen entities, write the file
+            with an empty stories array and set a note explaining that plainly.
+            An honest short brief beats a padded long one.
+
+            == SOURCING ==
+            Local outlets that actually cover these districts, plus district websites and
+            school board meeting minutes. Useful sources include: The Times of Northwest
+            Indiana (nwitimes.com), Post-Tribune, Chesterton Tribune, LaPorte Herald-Dispatch,
+            Michigan City News-Dispatch, Pulaski County Journal, Lowell Tribune,
+            Hobart Gazette, WNDU, ABC57, WSBT, Shaw Local, Inside Indiana Business,
+            Chalkbeat Indiana, and the districts' own news pages and board agendas.
+            No clickbait, no aggregator spam. Report facts plainly with no partisan framing.
+
+            == FILE 1 ==
+            Write district/${{ steps.d.outputs.date }}.json:
+            {
+              "date": "${{ steps.d.outputs.date }}",
+              "dateLabel": "${{ steps.d.outputs.label }}",
+              "slot": "Sundays 6 PM CT",
+              "window": "past 7 days",
+              "generated": "<current UTC timestamp>",
+              "note": "<one plain sentence on what kind of week it was; omit if unremarkable>",
+              "covered": ["<short names of all fifteen entities you searched>"],
+              "stories": [
+                {
+                  "n": 1,
+                  "district": "<district or trust name>",
+                  "kind": "admin" | "trust" | "other" | "student",
+                  "age": "~3 days ago",
+                  "headline": "<one sentence-case line>",
+                  "body": "<one or two sentences of substance; name names and titles>",
+                  "source": "<outlet name>",
+                  "url": "<link>"
+                }
+              ]
+            }
+            Order stories with all admin items first, then trust, then other, then student.
+            Number them 1..N in that final order. Cap at 12 stories - if you have more
+            admin items than that, keep all admin and drop the lower priorities.
+
+            == FILE 2 ==
+            Edit district/index.json: set "latest" to "${{ steps.d.outputs.date }}" and
+            prepend {"date": "${{ steps.d.outputs.date }}", "label": "Week of ${{ steps.d.outputs.short }}"}
+            to the archive array, newest first. Do not duplicate an existing date.
+            Keep at most 60 entries. Create the file if it does not exist.
+
+            Finish by stating how many stories you found and how many were admin.
+
+      - name: Publish
+        run: |
+          git config user.name  "briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to publish - the briefing step wrote nothing."
+            exit 1
+          fi
+          git commit -m "District news ${{ steps.d.outputs.date }}"
+          git push
+
+      - name: Confirm it is live
+        run: |
+          echo "Published district brief ${{ steps.d.outputs.date }}"
+          git log -1 --oneline

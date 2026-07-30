@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>My District News</title>
+<meta name="description" content="Weekly administration news across the districts Jim works with.">
+<meta name="theme-color" content="#10141A">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="District News">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2310141A'/><path d='M6 24V13l10-6 10 6v11z' fill='none' stroke='%23F0A32E' stroke-width='2.4'/><rect x='14' y='18' width='4' height='6' fill='%23F0A32E'/></svg>">
+<style>
+  :root {
+    color-scheme: dark;
+    --ground:#10141A; --surface:#171D26; --surface-2:#1E2631;
+    --line:#2B3542; --line-soft:#222B36;
+    --ink:#E8ECF2; --ink-muted:#97A4B4; --ink-faint:#6E7C8C;
+    --accent:#F0A32E;
+    --admin:#F0A32E; --trust:#8F87E6; --other:#4E9AE8; --student:#35B98C;
+    --mono: ui-monospace,"Cascadia Mono","SF Mono",Menlo,Consolas,monospace;
+    --sans: "Segoe UI",-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+  }
+  * { box-sizing:border-box; }
+  html { -webkit-text-size-adjust:100%; }
+  body {
+    margin:0 auto; max-width:720px; background:var(--ground); color:var(--ink);
+    font-family:var(--sans); line-height:1.5;
+    padding:20px 16px calc(48px + env(safe-area-inset-bottom));
+  }
+
+  .masthead { display:flex; flex-direction:column; gap:10px; margin-bottom:22px; }
+  h1 {
+    font-family:var(--mono); font-size:19px; font-weight:700; margin:0;
+    letter-spacing:0.13em; text-transform:uppercase;
+  }
+  h1 .dot { color:var(--accent); }
+  .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 56px,var(--line) 56px 100%); }
+  .meta {
+    font-family:var(--mono); font-size:11.5px; color:var(--ink-muted);
+    letter-spacing:0.05em; display:flex; flex-wrap:wrap; gap:4px 10px;
+  }
+  .meta .sep { color:var(--ink-faint); }
+
+  .lede {
+    font-size:14px; line-height:1.6; color:var(--ink-muted);
+    margin:0 0 16px; padding:12px 14px;
+    background:var(--surface); border:1px solid var(--line); border-left:3px solid var(--accent);
+  }
+
+  .cards { display:flex; flex-direction:column; gap:10px; }
+
+  .card {
+    background:var(--surface); border:1px solid var(--line);
+    border-left:3px solid var(--gc,var(--ink-faint)); border-radius:0;
+    padding:13px 14px; display:flex; flex-direction:column; gap:7px;
+    text-decoration:none; color:inherit;
+  }
+  a.card:hover { background:var(--surface-2); }
+  a.card:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+
+  .card-top { display:flex; align-items:baseline; justify-content:space-between; gap:10px; }
+  .who {
+    font-family:var(--mono); font-size:10.5px; font-weight:700; letter-spacing:0.09em;
+    text-transform:uppercase; color:var(--gc,var(--ink-muted)); line-height:1.35;
+  }
+  .age {
+    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint);
+    white-space:nowrap; font-variant-numeric:tabular-nums;
+  }
+  .headline { font-size:16px; font-weight:650; margin:0; line-height:1.32; text-wrap:balance; }
+  .body { font-size:14px; color:var(--ink-muted); margin:0; line-height:1.55; }
+  .src {
+    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint);
+    display:flex; align-items:center; gap:5px;
+  }
+  .src .arrow { color:var(--gc); }
+  .tag {
+    font-family:var(--mono); font-size:9.5px; letter-spacing:0.1em; text-transform:uppercase;
+    color:var(--ink-faint); border:1px solid var(--line); border-radius:999px; padding:2px 7px;
+  }
+
+  .foot {
+    margin-top:24px; padding-top:14px; border-top:1px solid var(--line);
+    font-family:var(--mono); font-size:11px; color:var(--ink-faint); line-height:1.6;
+  }
+  .archive { margin-top:14px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .archive label { font-family:var(--mono); font-size:11px; color:var(--ink-faint); letter-spacing:0.06em; }
+  select {
+    font-family:var(--mono); font-size:12px; padding:8px 10px; min-height:40px;
+    background:var(--surface); color:var(--ink); border:1px solid var(--line); border-radius:6px;
+  }
+  .back { font-family:var(--mono); font-size:11px; color:var(--accent); text-decoration:none; padding:8px 0; }
+  .back:hover { text-decoration:underline; }
+  .covered { margin-top:12px; color:var(--ink-faint); font-size:10.5px; line-height:1.7; }
+
+  .state { padding:36px 16px; text-align:center; color:var(--ink-muted); }
+  .state .mark {
+    display:inline-block; font-family:var(--mono); font-size:11px; letter-spacing:0.16em;
+    color:var(--accent); border:1px dashed var(--accent); border-radius:5px; padding:7px 12px; margin-bottom:12px;
+  }
+  .state p { margin:0 auto; font-size:14px; max-width:44ch; line-height:1.6; }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <h1>My District News<span class="dot">.</span></h1>
+  <div class="rule"></div>
+  <div class="meta" id="meta"><span>Loading&hellip;</span></div>
+</header>
+
+<div id="lede"></div>
+
+<main id="out" class="cards">
+  <div class="state"><span class="mark">LOADING</span><p>Fetching this week's district news.</p></div>
+</main>
+
+<footer class="foot">
+  Administration news first &middot; past 7 days only. Tap a card for the source.
+  <div class="archive">
+    <label for="pick">Past weeks</label>
+    <select id="pick"></select>
+    <a class="back" href="../skynet/">&larr; Skynet console</a>
+  </div>
+  <div class="covered" id="covered"></div>
+</footer>
+
+<script>
+(function () {
+  var out = document.getElementById('out');
+  var meta = document.getElementById('meta');
+  var lede = document.getElementById('lede');
+  var pick = document.getElementById('pick');
+  var covered = document.getElementById('covered');
+
+  var KINDS = { admin: 'Administration', trust: 'Trust', other: 'District news', student: 'Students' };
+
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+
+  function state(mark, msg) {
+    out.innerHTML = '<div class="state"><span class="mark">' + esc(mark) +
+                    '</span><p>' + esc(msg) + '</p></div>';
+  }
+
+  function card(s) {
+    var kind = KINDS[s.kind] ? s.kind : 'other';
+    var g = 'var(--' + kind + ')';
+    var inner =
+      '<div class="card-top">' +
+        '<span class="who">' + esc(s.district || 'District') + '</span>' +
+        '<span class="age">' + esc(s.age) + '</span>' +
+      '</div>' +
+      '<p class="headline">' + esc(s.headline) + '</p>' +
+      '<p class="body">' + esc(s.body) + '</p>' +
+      '<div class="src">' +
+        '<span class="tag">' + esc(KINDS[kind]) + '</span>' +
+        (s.source ? '<span>' + esc(s.source) + (s.url ? ' <span class="arrow">&rarr;</span>' : '') + '</span>' : '') +
+      '</div>';
+
+    if (s.url) {
+      return '<a class="card" style="--gc:' + g + '" href="' + esc(s.url) +
+             '" target="_blank" rel="noopener noreferrer">' + inner + '</a>';
+    }
+    return '<div class="card" style="--gc:' + g + '">' + inner + '</div>';
+  }
+
+  function render(d) {
+    meta.innerHTML =
+      '<span>' + esc(d.dateLabel || d.date) + '</span>' +
+      '<span class="sep">&middot;</span><span>' + esc(d.slot || 'Sundays 6 PM CT') + '</span>' +
+      '<span class="sep">&middot;</span><span>' + esc(d.window || 'past 7 days') + '</span>';
+    document.title = 'District News — ' + (d.dateLabel || d.date);
+
+    lede.innerHTML = d.note ? '<p class="lede">' + esc(d.note) + '</p>' : '';
+
+    covered.textContent = d.covered && d.covered.length
+      ? 'Searched: ' + d.covered.join(' · ') : '';
+
+    var items = (d.stories || []).slice().sort(function (a, b) { return (a.n || 0) - (b.n || 0); });
+    if (!items.length) {
+      state('QUIET WEEK', 'Nothing surfaced across any of your districts or the trusts in the past seven days. That happens, and it is reported rather than padded.');
+      return;
+    }
+    out.innerHTML = items.map(card).join('');
+  }
+
+  function load(date) {
+    state('LOADING', 'Fetching the brief.');
+    fetch(date + '.json?t=' + Date.now())
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(render)
+      .catch(function () {
+        state('UNAVAILABLE', 'Could not load the brief for ' + date + '. It may not have been written yet.');
+      });
+  }
+
+  fetch('index.json?t=' + Date.now())
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (idx) {
+      var list = idx.archive || [];
+      pick.innerHTML = list.map(function (a) {
+        return '<option value="' + esc(a.date) + '">' + esc(a.label || a.date) + '</option>';
+      }).join('');
+      pick.value = idx.latest;
+      pick.addEventListener('change', function () { load(pick.value); });
+      load(idx.latest);
+    })
+    .catch(function () {
+      state('NOT YET RUN', 'The first weekly district brief has not been published yet. It runs Sundays at 6 PM Central.');
+      meta.innerHTML = '<span>&mdash;</span>';
+    });
+})();
+</script>
+</body>
+</html>

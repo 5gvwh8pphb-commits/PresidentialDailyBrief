@@ -64,14 +64,11 @@ jobs:
                12 months. Give special attention to Anthropic and Claude news.
             7. Chicago Bears (group: sports) - roster, injuries, front office, schedule.
             8. William Byron, NASCAR (group: sports) - driver news.
-            9. Indiana public schools (group: community) - ONLY these districts:
-               Eastern Pulaski, East Porter County Schools, Hanover, Tri-Creek,
-               MSD of Boone Twp, MSD of New Durham Twp, Michigan City Area Schools,
-               New Prairie United School Corporation, Union Twp School Corp,
-               Valparaiso Community Schools, LaPorte Community School Corporation,
-               Duneland Schools, South Central Schools, School City of Hobart.
-            10. PCA, Presbyterian Church in America (group: community) - denominational
-                news relevant to a serving elder.
+            9. PCA, Presbyterian Church in America (group: community) - denominational
+               news relevant to a serving elder.
+
+            DO NOT include school district news in this brief. It has its own dedicated
+            weekly brief and duplicating it here is wrong.
 
             == HARD RULES ==
             - RECENCY, beats 1-6: past 24 hours strongly preferred, 72 hours absolute
@@ -79,7 +76,7 @@ jobs:
             - SPOILER RULE, beats 7 and 8 ONLY: never reveal scores, results, or game/race
               outcomes from the past 7 days, even if otherwise within the recency window.
               Roster moves, injury updates, schedule info, contracts and sponsorships are fine.
-            - NICHE BEATS 7-10: if the freshest item is older than 72h you may still include
+            - NICHE BEATS 7-9: if the freshest item is older than 72h you may still include
               it, but state its real age honestly in the age field, e.g. "~2 weeks ago".
               Never imply it is fresh.
             - EMPTY IS A CORRECT ANSWER: if a beat has no qualifying news, set empty to true,
@@ -92,7 +89,7 @@ jobs:
 
             == FILE 1 ==
             Write briefings/${{ steps.d.outputs.date }}.json matching README.md exactly.
-            All ten beats present, in order, n = 1 through 10. headline is one sentence-case
+            All nine beats present, in order, n = 1 through 9. headline is one sentence-case
             line. body is one or two sentences of real substance. age is a short relative
             label such as "~4h ago". url is the single best source link, or null when empty.
             Set:

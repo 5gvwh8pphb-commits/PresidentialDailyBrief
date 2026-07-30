@@ -144,7 +144,7 @@
 <section class="section">
   <div class="section-head">
     <h2>Automations</h2>
-    <span class="count">1 live &middot; 2 open slots</span>
+    <span class="count">2 live &middot; 1 open slot</span>
   </div>
 
   <div class="stack">
@@ -169,12 +169,24 @@
       <p class="note"><b>Run now</b> opens the workflow on GitHub &mdash; tap <b>Run workflow</b> there and the brief rebuilds in a few minutes. It hands off rather than firing directly because this page is public, and a button that could trigger it would mean putting a key to your account on the open internet.</p>
     </article>
 
-    <article class="task task--slot">
+    <article class="task is-live">
       <div class="task-top">
-        <h3>Open slot</h3>
-        <span class="pill pill--idle">Empty</span>
+        <div>
+          <h3>My district news</h3>
+          <p class="desc">Who is coming and going in administration across your thirteen districts, NISEC, and the Porter County and MASE trusts. Hirings, firings, searches. Nothing older than a week.</p>
+        </div>
+        <span class="pill pill--ok">Scheduled</span>
       </div>
-      <p class="desc">Whatever you want next lands here as another card with its own button.</p>
+      <div class="task-meta">
+        <span><b>Schedule</b> Sundays 6:00 PM CT</span>
+        <span><b>Latest</b> <span id="latest-district">&hellip;</span></span>
+      </div>
+      <div class="actions">
+        <a class="btn btn--go" href="../district/">Read latest brief</a>
+        <a class="btn btn--quiet" href="https://github.com/5gvwh8pphb-commits/PresidentialDailyBrief/actions/workflows/district.yml"
+           target="_blank" rel="noopener noreferrer">Run now</a>
+      </div>
+      <p class="note">Quiet weeks are expected in districts this size. A short honest brief beats a padded one, so some weeks will be thin.</p>
     </article>
 
     <article class="task task--slot">
@@ -190,8 +202,8 @@
 
 <section class="section">
   <div class="section-head">
-    <h2>Briefing beats</h2>
-    <span class="count">10 &middot; fixed order</span>
+    <h2>Daily beats</h2>
+    <span class="count">9 &middot; fixed order</span>
   </div>
   <div class="chips">
     <span class="chip"><i>1</i>Market recap</span>
@@ -202,10 +214,9 @@
     <span class="chip"><i>6</i>AI news</span>
     <span class="chip"><i>7</i>Chicago Bears</span>
     <span class="chip"><i>8</i>William Byron</span>
-    <span class="chip"><i>9</i>Indiana public schools</span>
-    <span class="chip"><i>10</i>PCA</span>
+    <span class="chip"><i>9</i>PCA</span>
   </div>
-  <p class="note">Beats <b>7</b> and <b>8</b> withhold scores and race results from the past 7 days. Beats <b>1&ndash;6</b> are capped at 72 hours old.</p>
+  <p class="note">Beats <b>7</b> and <b>8</b> withhold scores and race results from the past 7 days. Beats <b>1&ndash;6</b> are capped at 72 hours old. School news moved to its own weekly brief.</p>
 </section>
 
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
@@ -222,18 +233,19 @@
   }
   tick(); setInterval(tick, 20000);
 
-  fetch('../briefings/index.json?t=' + Date.now())
-    .then(function (r) { return r.ok ? r.json() : null; })
-    .then(function (idx) {
-      var el = document.getElementById('latest');
-      if (!el) return;
-      var top = idx && (idx.archive || [])[0];
-      el.textContent = (top && (top.label || top.date)) || (idx && idx.latest) || 'none yet';
-    })
-    .catch(function () {
-      var el = document.getElementById('latest');
-      if (el) el.textContent = 'unavailable';
-    });
+  function showLatest(path, elId) {
+    var el = document.getElementById(elId);
+    if (!el) return;
+    fetch(path + '?t=' + Date.now())
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (idx) {
+        var top = idx && (idx.archive || [])[0];
+        el.textContent = (top && (top.label || top.date)) || (idx && idx.latest) || 'not yet run';
+      })
+      .catch(function () { el.textContent = 'not yet run'; });
+  }
+  showLatest('../briefings/index.json', 'latest');
+  showLatest('../district/index.json', 'latest-district');
 
   var toast = document.getElementById('toast'), timer = null;
   document.addEventListener('click', function (e) {
