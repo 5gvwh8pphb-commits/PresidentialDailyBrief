@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-29",
+  "dateLabel": "Wednesday, July 29, 2026",
+  "slot": "Sundays 6 PM CT",
+  "window": "past 7 days",
+  "generated": "2026-07-30T01:12:05Z",
+  "note": "Very quiet week across all fifteen entities; only two qualifying stories surfaced.",
+  "covered": [
+    "Eastern Pulaski",
+    "East Porter Co",
+    "Hanover",
+    "LaPorte",
+    "Michigan City",
+    "MSD Boone Twp",
+    "MSD New Durham Twp",
+    "New Prairie",
+    "NISEC",
+    "School City of Hobart",
+    "Tri-Creek",
+    "Union Twp",
+    "Valparaiso",
+    "Porter County Trust",
+    "MASE Trust"
+  ],
+  "stories": [
+    {
+      "n": 1,
+      "district": "Eastern Pulaski Community School Corporation",
+      "kind": "admin",
+      "age": "~2 days ago",
+      "headline": "School board holds hearing on incoming superintendent's contract",
+      "body": "The Eastern Pulaski board held a public hearing July 27 on a proposed employment contract for its incoming superintendent, followed by a special meeting to vote on approval and on a monthly mentoring agreement with Administrator Assistance. The new hire follows Superintendent Dara Chezem's earlier resignation and the interim tenure of Dr. Gib Crimmins; the district has not yet publicly named the incoming superintendent.",
+      "source": "WKVI",
+      "url": "https://wkvi.com/2026/07/eastern-pulaski-school-board-to-hold-public-hearing-on-proposed-superintendent-contract/"
+    },
+    {
+      "n": 2,
+      "district": "Michigan City Area Schools",
+      "kind": "other",
+      "age": "~1 day ago",
+      "headline": "Board approves $182 million facilities and grade-configuration plan",
+      "body": "The Michigan City school board approved a $182 million long-term facilities plan on July 28, converting Krueger Middle School into a grades 5-8 intermediate school, renovating Lake Hills, Pine, and Marsh elementary schools, and building a new Edgewood Elementary on its current site.",
+      "source": "The Times of Northwest Indiana",
+      "url": "https://nwitimes.com/news/local/education/article_ef37f6a8-b653-4e5d-a698-8b63b0bd42c0.html"
+    }
+  ]
+}
