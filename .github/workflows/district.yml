@@ -172,3 +172,34 @@ jobs:
         run: |
           echo "Published district brief ${{ steps.d.outputs.date }}"
           git log -1 --oneline
+
+      - name: Build the email
+        id: mail
+        env:
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        if: env.MAIL_PASSWORD != ''
+        run: |
+          python tools/brief_email.py \
+            --json "district/${{ steps.d.outputs.date }}.json" \
+            --title "My District News" \
+            --url "https://5gvwh8pphb-commits.github.io/PresidentialDailyBrief/district/" \
+            --out email.html \
+            --subject-out subject.txt
+          echo "subject=$(cat subject.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: Send it
+        env:
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        if: env.MAIL_PASSWORD != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.MAIL_SERVER || 'smtp.gmail.com' }}
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: Skynet Briefings <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_TO || 'jim.martin@americanfidelity.com' }}
+          subject: ${{ steps.mail.outputs.subject }}
+          html_body: file://email.html
+          convert_markdown: false
