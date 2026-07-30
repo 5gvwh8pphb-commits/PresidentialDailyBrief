@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-29",
+  "dateLabel": "Wednesday, July 29, 2026",
+  "slot": "Sundays 7 PM CT",
+  "window": "past 30 days",
+  "generated": "2026-07-30T02:13:33Z",
+  "note": "One district saw a leadership change this month; the other seven prospects were quiet on the administration front.",
+  "covered": ["Duneland", "Portage Twp", "Highland", "Lake Station", "Hammond", "Whiting", "Gary", "Lake Ridge"],
+  "stories": [
+    {
+      "n": 1,
+      "district": "School Town of Highland",
+      "kind": "admin",
+      "age": "~27 days ago",
+      "headline": "Highland names Ryan Erdelac interim superintendent",
+      "body": "The school board called a special meeting to accept Superintendent Brian Smith's resignation and named Assistant Superintendent Ryan Erdelac interim superintendent while a permanent search gets underway.",
+      "source": "The Times of Northwest Indiana",
+      "url": "https://nwitimes.com/news/local/education/article_8f5c8be8-fc57-430b-8ec4-6f38c1981a42.html"
+    },
+    {
+      "n": 2,
+      "district": "School Town of Highland",
+      "kind": "admin",
+      "age": "~27 days ago",
+      "headline": "Superintendent Brian Smith departs Highland after 13 years",
+      "body": "Brian Smith resigned as Highland superintendent to become superintendent of Valparaiso Community Schools, ending a 13-year tenure and opening a permanent search at Highland.",
+      "source": "The Times of Northwest Indiana",
+      "url": "https://nwitimes.com/news/local/education/article_7971bc18-f58f-4b73-99ec-fdf2ef77cfe4.html"
+    }
+  ]
+}
