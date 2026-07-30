@@ -36,6 +36,22 @@
   }
   h1 .dot { color:var(--accent); }
   .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 56px,var(--line) 56px 100%); }
+  .brandline { display:flex; align-items:center; justify-content:space-between; gap:12px; }
+
+  .refresh {
+    -webkit-appearance:none; appearance:none; cursor:pointer;
+    background:var(--surface); color:var(--ink-muted);
+    border:1px solid var(--line); border-radius:8px;
+    font-family:var(--mono); font-size:10.5px; letter-spacing:0.09em; text-transform:uppercase;
+    display:inline-flex; align-items:center; gap:7px;
+    padding:0 12px; min-height:40px; flex-shrink:0;
+  }
+  .refresh:active { color:var(--accent); border-color:var(--accent); }
+  .refresh:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  .refresh svg { display:block; }
+  .refresh.spin svg { animation:sp .7s linear infinite; }
+  @keyframes sp { to { transform:rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .refresh.spin svg { animation:none; } }
   .meta {
     font-family:var(--mono); font-size:11.5px; color:var(--ink-muted);
     letter-spacing:0.05em; display:flex; flex-wrap:wrap; gap:4px 10px;
@@ -105,7 +121,18 @@
 <body>
 
 <header class="masthead">
-  <h1>My District News<span class="dot">.</span></h1>
+  <div class="brandline">
+    <h1>My District News<span class="dot">.</span></h1>
+    <button class="refresh" id="refresh" type="button" aria-label="Refresh">
+      <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true">
+        <path d="M20 11a8 8 0 1 0-2.3 5.7" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round"/>
+        <path d="M20 4v7h-7" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span>Refresh</span>
+    </button>
+  </div>
   <div class="rule"></div>
   <div class="meta" id="meta"><span>Loading&hellip;</span></div>
 </header>
@@ -198,21 +225,45 @@
       });
   }
 
-  fetch('index.json?t=' + Date.now())
-    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(function (idx) {
-      var list = idx.archive || [];
-      pick.innerHTML = list.map(function (a) {
-        return '<option value="' + esc(a.date) + '">' + esc(a.label || a.date) + '</option>';
-      }).join('');
-      pick.value = idx.latest;
-      pick.addEventListener('change', function () { load(pick.value); });
-      load(idx.latest);
-    })
-    .catch(function () {
-      state('NOT YET RUN', 'The first weekly district brief has not been published yet. It runs Sundays at 6 PM Central.');
-      meta.innerHTML = '<span>&mdash;</span>';
+  var wired = false;
+
+  function boot() {
+    return fetch('index.json?t=' + Date.now())
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (idx) {
+        var list = idx.archive || [];
+        pick.innerHTML = list.map(function (a) {
+          return '<option value="' + esc(a.date) + '">' + esc(a.label || a.date) + '</option>';
+        }).join('');
+        pick.value = idx.latest;
+        if (!wired) {
+          pick.addEventListener('change', function () { load(pick.value); });
+          wired = true;
+        }
+        load(idx.latest);
+      })
+      .catch(function () {
+        state('NOT YET RUN', 'The first weekly district brief has not been published yet. It runs Sundays at 6 PM Central.');
+        meta.innerHTML = '<span>&mdash;</span>';
+      });
+  }
+
+  boot();
+
+  // Home-screen web clips open without Safari chrome, so there is no
+  // pull-to-refresh and iOS resumes from a snapshot. Re-fetch on return.
+  document.addEventListener('visibilitychange', function () {
+    if (!document.hidden) boot();
+  });
+  window.addEventListener('pageshow', function (e) { if (e.persisted) boot(); });
+
+  var rb = document.getElementById('refresh');
+  if (rb) {
+    rb.addEventListener('click', function () {
+      rb.classList.add('spin');
+      boot().then(function () { setTimeout(function () { rb.classList.remove('spin'); }, 400); });
     });
+  }
 })();
 </script>
 </body>

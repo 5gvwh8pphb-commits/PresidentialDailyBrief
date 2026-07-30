@@ -244,8 +244,19 @@
       })
       .catch(function () { el.textContent = 'not yet run'; });
   }
-  showLatest('../briefings/index.json', 'latest');
-  showLatest('../district/index.json', 'latest-district');
+  function boot() {
+    tick();
+    showLatest('../briefings/index.json', 'latest');
+    showLatest('../district/index.json', 'latest-district');
+  }
+  boot();
+
+  // Home-screen web clips resume from a snapshot with timers suspended.
+  // Re-read on return so the clock and the latest dates are never stale.
+  document.addEventListener('visibilitychange', function () {
+    if (!document.hidden) boot();
+  });
+  window.addEventListener('pageshow', function (e) { if (e.persisted) boot(); });
 
   var toast = document.getElementById('toast'), timer = null;
   document.addEventListener('click', function (e) {
