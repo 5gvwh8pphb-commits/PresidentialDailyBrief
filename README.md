@@ -9,7 +9,11 @@ Two briefs live here:
 |---|---|---|---|
 | Daily news brief | `/` | daily 5:00 AM CT | `.github/workflows/briefing.yml` |
 | My district news | `/district/` | Sundays 6:00 PM CT | `.github/workflows/district.yml` |
+| Prospect districts | `/prospects/` | Sundays 7:00 PM CT | `.github/workflows/prospects.yml` |
 | Skynet console (hub) | `/skynet/` | — | — |
+
+Prospects runs an hour after the district brief so the two never race to push.
+Each publish step retries with a rebase, so a collision can never lose an issue.
 
 Both schedules are pinned to UTC cron and drift back one hour when CST resumes
 in November.
@@ -26,6 +30,9 @@ briefings/YYYY-MM-DD.json   one daily brief per day
 
 district/index.json         { latest, archive[] }
 district/YYYY-MM-DD.json    one district brief per week
+
+prospects/index.json        { latest, archive[] }
+prospects/YYYY-MM-DD.json   one prospect brief per week
 
 icon.png                    1024x1024 app icon
 apple-touch-icon.png        180x180 home-screen icon
@@ -166,3 +173,29 @@ keeping all admin items first.
 | 13 | Valparaiso Community Schools | Valparaiso |
 | 14 | Porter County Trust | benefit trust |
 | 15 | MASE Trust | benefit trust |
+
+---
+
+# Prospect brief
+
+Weekly. Same shape as the district brief, but districts Jim does **not** yet serve.
+
+Differences from the district brief:
+
+- **Window is 30 days**, not 7.
+- **Administration only.** No fallback to other district news, no student stories.
+  If nothing qualifies, the brief is empty and says so.
+- Every story is `kind: "admin"`.
+
+## Prospect districts
+
+| # | District | Town |
+|---|---|---|
+| 1 | Duneland School Corporation | Chesterton |
+| 2 | Portage Township Schools | Portage |
+| 3 | School Town of Highland | Highland |
+| 4 | Lake Station Community Schools | Lake Station |
+| 5 | School City of Hammond | Hammond |
+| 6 | School City of Whiting | Whiting |
+| 7 | Gary Community School Corporation | Gary |
+| 8 | Lake Ridge Schools | Gary |

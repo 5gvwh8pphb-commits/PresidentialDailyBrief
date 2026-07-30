@@ -1,0 +1,151 @@
+name: Prospect districts
+
+on:
+  schedule:
+    # 00:00 UTC Monday = 7:00 PM Central Daylight Time on SUNDAY.
+    # An hour after the district brief so the two never race to push.
+    # Note: this drifts to 6:00 PM Central when CST resumes in November.
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+
+concurrency:
+  group: prospects
+  cancel-in-progress: false
+
+jobs:
+  prospects:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Resolve today's Chicago date
+        id: d
+        run: |
+          echo "date=$(TZ=America/Chicago date +%F)"                 >> "$GITHUB_OUTPUT"
+          echo "label=$(TZ=America/Chicago date '+%A, %B %-d, %Y')"  >> "$GITHUB_OUTPUT"
+          echo "short=$(TZ=America/Chicago date '+%b %-d, %Y')"      >> "$GITHUB_OUTPUT"
+          echo "cut=$(TZ=America/Chicago date -d '30 days ago' +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Write the prospect brief
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          claude_args: '--allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep"'
+          prompt: |
+            You are writing Jim Martin's weekly "Prospect Districts" brief into this repository.
+            Today in America/Chicago is ${{ steps.d.outputs.label }}.
+            The reporting window is ${{ steps.d.outputs.cut }} through ${{ steps.d.outputs.date }}.
+
+            Jim sells supplemental benefits to K-12 school districts in northwest Indiana.
+            These are districts he does NOT yet serve - they are prospects. He wants to know
+            who is moving into and out of administration, because a new superintendent or
+            business manager is an opening to start a relationship.
+
+            YOUR ONLY JOB IS TO WRITE TWO FILES. Do not run git. Do not commit.
+            A later step handles publishing.
+
+            First read README.md for the brief schema. Follow it precisely.
+
+            == THE PROSPECT DISTRICTS (search each one separately) ==
+            1. Duneland School Corporation (Chesterton)
+            2. Portage Township Schools (Portage, Indiana)
+            3. School Town of Highland (Highland)
+            4. Lake Station Community Schools (also called School City of Lake Station)
+            5. School City of Hammond (Hammond)
+            6. School City of Whiting (Whiting)
+            7. Gary Community School Corporation (Gary Public Schools)
+            8. Lake Ridge Schools (also called Lake Ridge New Tech Schools, Gary)
+
+            == HARD RECENCY RULE ==
+            NOTHING older than 30 days. If a story is dated before ${{ steps.d.outputs.cut }},
+            do not include it. No exceptions.
+
+            == WHAT TO LOOK FOR - ADMINISTRATION ONLY ==
+            People news about: Superintendent, Assistant or Deputy Superintendent,
+            Business Manager, Chief Financial Officer, HR Director, Treasurer,
+            Deputy Treasurer, Principal, Assistant Principal.
+            Events: hired, named, appointed, promoted, resigned, retiring, fired,
+            placed on leave, contract approved or not renewed, interim appointments,
+            and open searches or finalist announcements.
+
+            Include every qualifying story you find, even minor ones. A single line in
+            board minutes approving a new assistant principal is exactly what Jim wants.
+            Set kind to "admin" for all of these.
+
+            DO NOT pad with other kinds of district news. This brief is administration
+            only. No referendums, no construction, no test scores, no sports, no student
+            features - unless they are the vehicle for an administrator moving in or out.
+
+            == EXPECT NOTHING MOST WEEKS ==
+            Silence is the normal result and a perfectly good answer. If nothing qualifies
+            across all eight districts, write the file with an empty stories array and set
+            note to a plain sentence saying so. NEVER invent or stretch a story to fill space.
+
+            == SOURCING ==
+            Local outlets plus district websites and school board meeting minutes.
+            Useful sources: The Times of Northwest Indiana (nwitimes.com), Post-Tribune,
+            Chesterton Tribune, Gary Crusader, NWI Life, WNDU, ABC57, WSBT, Shaw Local,
+            Chalkbeat Indiana, and the districts' own news pages and board agendas.
+            No clickbait, no aggregator spam. Report facts plainly, no partisan framing.
+
+            == FILE 1 ==
+            Write prospects/${{ steps.d.outputs.date }}.json:
+            {
+              "date": "${{ steps.d.outputs.date }}",
+              "dateLabel": "${{ steps.d.outputs.label }}",
+              "slot": "Sundays 7 PM CT",
+              "window": "past 30 days",
+              "generated": "<current UTC timestamp>",
+              "note": "<one plain sentence on the week; say plainly if nothing surfaced>",
+              "covered": ["Duneland", "Portage Twp", "Highland", "Lake Station", "Hammond", "Whiting", "Gary", "Lake Ridge"],
+              "stories": [
+                {
+                  "n": 1,
+                  "district": "<district name>",
+                  "kind": "admin",
+                  "age": "~9 days ago",
+                  "headline": "<one sentence-case line>",
+                  "body": "<one or two sentences; name the person and the title>",
+                  "source": "<outlet name>",
+                  "url": "<link>"
+                }
+              ]
+            }
+            Number stories 1..N, most recent first. Cap at 12.
+
+            == FILE 2 ==
+            Edit prospects/index.json: set "latest" to "${{ steps.d.outputs.date }}" and
+            prepend {"date": "${{ steps.d.outputs.date }}", "label": "Week of ${{ steps.d.outputs.short }}"}
+            to the archive array, newest first. Do not duplicate an existing date.
+            Keep at most 60 entries. Create the file if it does not exist.
+
+            Finish by stating how many stories you found.
+
+      - name: Publish
+        run: |
+          git config user.name  "briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to publish - the briefing step wrote nothing."
+            exit 1
+          fi
+          git commit -m "Prospect districts ${{ steps.d.outputs.date }}"
+          for i in 1 2 3 4 5; do
+            if git push; then echo "pushed on attempt $i"; exit 0; fi
+            echo "push rejected; rebasing onto origin/main (attempt $i)"
+            git pull --rebase --autostash origin main || exit 1
+            sleep 5
+          done
+          echo "could not push after 5 attempts"
+          exit 1
+
+      - name: Confirm it is live
+        run: |
+          echo "Published prospect brief ${{ steps.d.outputs.date }}"
+          git log -1 --oneline

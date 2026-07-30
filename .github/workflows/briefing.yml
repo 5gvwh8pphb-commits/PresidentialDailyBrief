@@ -120,8 +120,18 @@ jobs:
             exit 1
           fi
           git commit -m "Briefing ${{ steps.d.outputs.date }}"
-          git push
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "pushed on attempt $i"
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "push rejected; rebasing onto origin/main (attempt $i)"
+            git pull --rebase --autostash origin main || exit 1
+            sleep 5
+          done
+          echo "could not push after 5 attempts"
+          exit 1
 
       - name: Confirm it is live
         run: |

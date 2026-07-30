@@ -143,7 +143,7 @@
 <section class="section">
   <div class="section-head">
     <h2>Automations</h2>
-    <span class="count">2 live &middot; 1 open slot</span>
+    <span class="count">3 live &middot; 1 open slot</span>
   </div>
 
   <div class="stack">
@@ -182,6 +182,25 @@
       <div class="actions">
         <a class="btn btn--go" href="../district/">Read latest brief</a>
         <a class="btn btn--quiet" href="https://github.com/5gvwh8pphb-commits/PresidentialDailyBrief/actions/workflows/district.yml"
+           target="_blank" rel="noopener noreferrer">Run now</a>
+      </div>
+    </article>
+
+    <article class="task is-live">
+      <div class="task-top">
+        <div>
+          <h3>Prospect districts</h3>
+          <p class="desc">Admin moves at districts you don't serve yet.</p>
+        </div>
+        <span class="pill pill--ok">Scheduled</span>
+      </div>
+      <div class="task-meta">
+        <span><b>Weekly</b> Sun 7:00 PM CT</span>
+        <span><b>Latest</b> <span id="latest-prospects">&hellip;</span></span>
+      </div>
+      <div class="actions">
+        <a class="btn btn--go" href="../prospects/">Read latest brief</a>
+        <a class="btn btn--quiet" href="https://github.com/5gvwh8pphb-commits/PresidentialDailyBrief/actions/workflows/prospects.yml"
            target="_blank" rel="noopener noreferrer">Run now</a>
       </div>
     </article>
@@ -245,6 +264,7 @@
     tick();
     showLatest('../briefings/index.json', 'latest');
     showLatest('../district/index.json', 'latest-district');
+    showLatest('../prospects/index.json', 'latest-prospects');
   }
   boot();
 
