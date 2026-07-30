@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-30",
+  "dateLabel": "Thursday, July 30, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-07-30T10:43:52Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Stocks post worst day since April as Fed holds rates and Mideast tensions flare",
+      "body": "The Dow fell 1,153 points (-2.19%) to 51,594.14, the S&P 500 dropped 1.52% to 7,316.15, and the Nasdaq slid 1.74% to 24,442.94 on Wednesday after the Fed held interest rates steady and struck a hawkish tone; oil prices also rose on renewed Middle East tensions.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-july-29-dow-sp-500-nasdaq-082009165.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~11h ago",
+      "empty": false,
+      "headline": "Iran fires missiles at US forces in Jordan; Trump orders retaliatory strikes",
+      "body": "Iran launched a barrage of ballistic missiles at a US base and CENTCOM facility in Jordan Wednesday night, all of which were intercepted; President Trump said it was America's turn to respond, and US forces carried out retaliatory strikes into early Thursday.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/29/world/live-news/iran-trump-news"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "China tightens patrols around Taiwan as US carrier group works the South China Sea",
+      "body": "Chinese coast guard and civilian vessels expanded patrols in waters east of Taiwan through July, stoking concern in Washington that Beijing is rehearsing a blockade-style containment strategy, while the USS George Washington carrier strike group continues freedom-of-navigation patrols in the contested South China Sea.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/china-puts-squeeze-on-taiwan-with-new-maritime-patrols"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US and Saudi jets strike Iran-backed militias in Iraq as death toll climbs",
+      "body": "US and Saudi fighter aircraft struck Iran-backed militia sites across seven Iraqi provinces this week, killing at least 20 fighters in the first joint US-Saudi strikes of the conflict; the US military death toll in the broader campaign stands at 18 since late February.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon clears $76.6B multiyear submarine deal with General Dynamics and HII",
+      "body": "The Pentagon completed statutory certification allowing the Navy to negotiate a multiyear contract for nine Block VI Virginia-class attack submarines and five Columbia-class boats, a deal projected to save $2.4 billion versus buying hulls year to year and to stabilize the submarine industrial base.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/07/29/navy-awards-76-6b-for-9-virginia-5-columbia-subs-to-general-dynamics-hii"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Over 1,100 AI staffers, including Anthropic scientists, ask US to build an AI 'slowdown' toolkit",
+      "body": "More than 1,100 employees at OpenAI, Anthropic, Google and Meta, including chief scientists, signed a letter urging Washington to build the technical and governance tools for a verifiable international slowdown of AI development if capabilities ever outpace safe oversight; the letter stops short of calling for an immediate pause.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/security/openai-anthropic-scientists-ask-us-tools-ai-development-rcna589727"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears open camp with Sweat back, Gordon and Edwards sidelined",
+      "body": "The Bears opened training camp practices in Lake Forest with DE Montez Sweat activated off the non-football illness list, while CB Kyler Gordon (calf) and LB T.J. Edwards (calf) remain out; QB Caleb Williams drew praise for early growth under new OC Ben Johnson.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/07/29/bears-training-camp-report-practice-no-1-wednesday-halas-hall-luther-burden-tory-taylor-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~4 days ago",
+      "empty": false,
+      "headline": "Liberty University returns as Byron's primary sponsor for Brickyard weekend",
+      "body": "Liberty University served as the primary sponsor on William Byron's No. 24 Hendrick Motorsports Chevrolet for the Cup Series' Brickyard 400 weekend at Indianapolis Motor Speedway.",
+      "source": "Sports Illustrated (onsi)",
+      "url": "https://www.si.com/onsi/racing-america/news/liberty-university-set-for-return-as-a-byron-primary-sponsor"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~4 weeks ago",
+      "empty": false,
+      "headline": "PCA mourns Paul Kooistra, longtime Covenant Seminary president and MTW leader",
+      "body": "Dr. Paul D. Kooistra, 83, died July 1 after a battle with cancer; he served as president of Covenant Theological Seminary from 1985 and later as coordinator of Mission to the World, which grew under his leadership into the largest missionary-sending agency in Presbyterian history.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/paul-kooistra-seminary-president-and-missions-leader-dies-at-83/"
+    }
+  ]
+}
