@@ -28,7 +28,7 @@
     margin:0 auto; max-width:720px; background:var(--ground); color:var(--ink);
     font-family:var(--sans); line-height:1.5;
     padding:20px 16px calc(48px + env(safe-area-inset-bottom));
-    display:flex; flex-direction:column; gap:28px;
+    display:flex; flex-direction:column; gap:22px;
   }
 
   .masthead { display:flex; flex-direction:column; gap:11px; }
@@ -61,12 +61,12 @@
 
   .task {
     background:var(--surface); border:1px solid var(--line); border-radius:var(--r);
-    padding:14px; display:flex; flex-direction:column; gap:12px;
+    padding:11px 12px; display:flex; flex-direction:column; gap:8px;
   }
   .task.is-live { border-color:var(--accent); }
-  .task-top { display:flex; align-items:flex-start; justify-content:space-between; gap:12px; }
-  h3 { font-size:16px; font-weight:650; margin:0; line-height:1.3; }
-  .desc { font-size:13.5px; line-height:1.5; color:var(--ink-muted); margin:4px 0 0; }
+  .task-top { display:flex; align-items:flex-start; justify-content:space-between; gap:10px; }
+  h3 { font-size:15px; font-weight:650; margin:0; line-height:1.25; }
+  .desc { font-size:12.5px; line-height:1.4; color:var(--ink-muted); margin:3px 0 0; }
 
   .pill {
     font-family:var(--mono); font-size:9.5px; font-weight:700; text-transform:uppercase;
@@ -76,15 +76,15 @@
   .pill--idle { background:var(--idle-soft); color:var(--idle); }
 
   .task-meta {
-    display:flex; flex-wrap:wrap; gap:6px 16px;
-    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); font-variant-numeric:tabular-nums;
+    display:flex; flex-wrap:wrap; gap:4px 14px;
+    font-family:var(--mono); font-size:10px; color:var(--ink-faint); font-variant-numeric:tabular-nums;
   }
   .task-meta b { color:var(--ink-muted); font-weight:500; }
 
   .actions { display:flex; gap:8px; }
   .btn {
-    font-family:var(--mono); font-size:11.5px; font-weight:700; letter-spacing:0.09em;
-    text-transform:uppercase; padding:0 16px; min-height:46px; border-radius:8px;
+    font-family:var(--mono); font-size:11px; font-weight:700; letter-spacing:0.08em;
+    text-transform:uppercase; padding:0 14px; min-height:44px; border-radius:8px;
     border:1px solid transparent; cursor:pointer; display:inline-flex; align-items:center;
     justify-content:center; gap:8px; text-decoration:none; flex:1;
     transition:transform .08s ease, filter .15s ease;
@@ -122,9 +122,9 @@
   .toast.show { opacity:1; transform:translate(-50%,0); }
   @media (prefers-reduced-motion: reduce) { .btn,.toast { transition:none; } }
   @media (min-width:620px) {
-    body { padding:32px 24px 64px; gap:34px; }
+    body { padding:32px 24px 64px; gap:28px; }
     h1 { font-size:31px; }
-    .task { padding:16px 18px; }
+    .task { padding:13px 16px; }
     .actions .btn--go { flex:0 0 auto; padding:0 28px; }
   }
 </style>
@@ -152,12 +152,12 @@
       <div class="task-top">
         <div>
           <h3>Daily news briefing</h3>
-          <p class="desc">Nine fixed beats, live-searched, with your recency and spoiler rules enforced. Empty beats say so rather than manufacturing filler.</p>
+          <p class="desc">Nine fixed beats, live-searched.</p>
         </div>
         <span class="pill pill--ok">Scheduled</span>
       </div>
       <div class="task-meta">
-        <span><b>Schedule</b> daily 5:00 AM CT</span>
+        <span><b>Daily</b> 5:00 AM CT</span>
         <span><b>Latest</b> <span id="latest">&hellip;</span></span>
       </div>
       <div class="actions">
@@ -165,19 +165,18 @@
         <a class="btn btn--quiet" href="https://github.com/5gvwh8pphb-commits/PresidentialDailyBrief/actions/workflows/briefing.yml"
            target="_blank" rel="noopener noreferrer">Run now</a>
       </div>
-      <p class="note"><b>Run now</b> opens the workflow on GitHub &mdash; tap <b>Run workflow</b> there and the brief rebuilds in a few minutes. It hands off rather than firing directly because this page is public, and a button that could trigger it would mean putting a key to your account on the open internet.</p>
     </article>
 
     <article class="task is-live">
       <div class="task-top">
         <div>
           <h3>My district news</h3>
-          <p class="desc">Who is coming and going in administration across your thirteen districts, NISEC, and the Porter County and MASE trusts. Hirings, firings, searches. Nothing older than a week.</p>
+          <p class="desc">Admin hires, exits and searches.</p>
         </div>
         <span class="pill pill--ok">Scheduled</span>
       </div>
       <div class="task-meta">
-        <span><b>Schedule</b> Sundays 6:00 PM CT</span>
+        <span><b>Weekly</b> Sun 6:00 PM CT</span>
         <span><b>Latest</b> <span id="latest-district">&hellip;</span></span>
       </div>
       <div class="actions">
@@ -185,7 +184,6 @@
         <a class="btn btn--quiet" href="https://github.com/5gvwh8pphb-commits/PresidentialDailyBrief/actions/workflows/district.yml"
            target="_blank" rel="noopener noreferrer">Run now</a>
       </div>
-      <p class="note">Quiet weeks are expected in districts this size. A short honest brief beats a padded one, so some weeks will be thin.</p>
     </article>
 
     <article class="task task--slot">
@@ -193,7 +191,7 @@
         <h3>Open slot</h3>
         <span class="pill pill--idle">Empty</span>
       </div>
-      <p class="desc">Adding one later is a small job, not a rebuild.</p>
+      <p class="desc">Adding one later is a small job.</p>
     </article>
 
   </div>
