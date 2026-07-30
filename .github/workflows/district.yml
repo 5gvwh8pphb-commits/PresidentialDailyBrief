@@ -2,9 +2,11 @@ name: District news
 
 on:
   schedule:
-    # 23:00 UTC Sunday = 6:00 PM Central Daylight Time.
-    # Note: this drifts to 5:00 PM Central when CST resumes in November.
-    - cron: '0 23 * * 0'
+    # 22:50 UTC Sunday = 5:50 PM Central Daylight Time.
+    # Slightly early and off the top of the hour, because GitHub's :00 slots
+    # queue badly and arrive late. A modest delay still lands near 6 PM.
+    # Note: drifts an hour earlier when CST resumes in November.
+    - cron: '50 22 * * 0'
   workflow_dispatch:
 
 permissions:

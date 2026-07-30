@@ -2,9 +2,13 @@ name: Daily briefing
 
 on:
   schedule:
-    # 10:00 UTC = 5:00 AM Central Daylight Time.
-    # Note: this drifts to 4:00 AM Central when CST resumes in November.
-    - cron: '0 10 * * *'
+    # 08:40 UTC = 3:40 AM Central Daylight Time.
+    # Deliberately early and deliberately off the top of the hour.
+    # GitHub's scheduled runs queue behind everyone else's; :00 slots are the
+    # most contended and were arriving ~2 hours late. Starting at 3:40 means
+    # even a two-hour delay still publishes before 6 AM Central.
+    # Note: drifts an hour earlier when CST resumes in November.
+    - cron: '40 8 * * *'
   workflow_dispatch:
 
 permissions:
@@ -95,7 +99,7 @@ jobs:
             Set:
               "date":      "${{ steps.d.outputs.date }}"
               "dateLabel": "${{ steps.d.outputs.label }}"
-              "slot":      "5 AM CT"
+              "slot":      "by 6 AM CT"
               "window":    "past 24h"
               "generated": the current UTC timestamp
             Overwrite the file if it already exists.

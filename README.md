@@ -7,10 +7,16 @@ Two briefs live here:
 
 | Brief | Page | Schedule | Workflow |
 |---|---|---|---|
-| Daily news brief | `/` | daily 5:00 AM CT | `.github/workflows/briefing.yml` |
-| My district news | `/district/` | Sundays 6:00 PM CT | `.github/workflows/district.yml` |
-| Prospect districts | `/prospects/` | Sundays 7:00 PM CT | `.github/workflows/prospects.yml` |
+| Daily news brief | `/` | by 6 AM CT (cron 08:40 UTC) | `.github/workflows/briefing.yml` |
+| My district news | `/district/` | Sundays ~6 PM CT (cron 22:50 UTC) | `.github/workflows/district.yml` |
+| Prospect districts | `/prospects/` | Sundays ~7 PM CT (cron 23:50 UTC) | `.github/workflows/prospects.yml` |
 | Skynet console (hub) | `/skynet/` | — | — |
+
+**Scheduling reality:** GitHub's scheduled runs are best-effort and queue behind
+everyone else's. Top-of-the-hour slots were arriving up to two hours late, so
+every cron here sits off the hour and deliberately early. Treat the times as
+"by" rather than "at". Runs are occasionally skipped entirely — the next one
+recovers, and Run now always works.
 
 Prospects runs an hour after the district brief so the two never race to push.
 Each publish step retries with a rebase, so a collision can never lose an issue.
