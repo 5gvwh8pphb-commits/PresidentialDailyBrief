@@ -41,7 +41,7 @@
 
   .refresh {
     -webkit-appearance:none; appearance:none; cursor:pointer;
-    background:var(--surface); color:var(--ink-muted);
+    background:var(--surface); color:var(--ink-muted); text-decoration:none;
     border:1px solid var(--line); border-radius:8px;
     font-family:var(--mono); font-size:10.5px; letter-spacing:0.09em; text-transform:uppercase;
     display:inline-flex; align-items:center; gap:7px;
@@ -166,15 +166,13 @@
 <header class="masthead">
   <div class="brandline">
     <h1>Daily Brief<span class="dot">.</span></h1>
-    <button class="refresh" id="refresh" type="button" aria-label="Refresh">
+    <a class="refresh" href="skynet/" aria-label="Skynet console">
       <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true">
-        <path d="M20 11a8 8 0 1 0-2.3 5.7" fill="none" stroke="currentColor"
-              stroke-width="2.2" stroke-linecap="round"/>
-        <path d="M20 4v7h-7" fill="none" stroke="currentColor"
+        <path d="M4 12h16M4 12l5-5M4 12l5 5" fill="none" stroke="currentColor"
               stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
       </svg>
-      <span>Refresh</span>
-    </button>
+      <span>Skynet</span>
+    </a>
   </div>
   <div class="rule"></div>
   <div class="meta" id="meta"><span>Loading&hellip;</span></div>
@@ -189,7 +187,15 @@
   <div class="archive">
     <label for="pick">Archive</label>
     <select id="pick"></select>
-    <a class="back" href="skynet/">&larr; Skynet console</a>
+    <button class="refresh" id="refresh" type="button" aria-label="Refresh">
+      <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true">
+        <path d="M20 11a8 8 0 1 0-2.3 5.7" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round"/>
+        <path d="M20 4v7h-7" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span>Refresh</span>
+    </button>
   </div>
 </footer>
 
