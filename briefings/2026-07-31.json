@@ -1,0 +1,108 @@
+{
+  "date": "2026-07-31",
+  "dateLabel": "Friday, July 31, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-07-31T11:14:55Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Stocks rebound sharply as Microsoft posts record one-day value gain",
+      "body": "The Dow rose 613.92 points (1.2%) to 52,208.06, the S&P 500 climbed 1.7% to 7,437.63, and the Nasdaq jumped 2.8% to 25,122.18 on Thursday, bouncing back from Wednesday's Fed-driven selloff as Microsoft and semiconductor stocks led gains.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-30-dow-sp-500-nasdaq-082255995.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "China denies reports it is arming Iran as US-Iran war drags into third week",
+      "body": "China's Foreign Ministry rejected reports that Beijing plans to send 300 to 400 shoulder-fired air-defense missile launchers to Iran, saying its role has always been to 'promote peace,' as the conflict continued to widen and draw in Egypt and Gulf states.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US senators introduce bill to counter China's 'gray-zone' aggression in the Indo-Pacific",
+      "body": "Sens. Tammy Duckworth and Marsha Blackburn introduced the Countering Gray Zone Aggression by the PRC Act, which would direct the State Department to improve monitoring of Chinese coercive activity and stand up a task force against tactics like cyberattacks and economic coercion short of open conflict.",
+      "source": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/news/6411711"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Iran claims strike on Kuwait air base as US pauses overnight strikes for first time in weeks",
+      "body": "Iranian state media said Iranian forces hit an air base in Kuwait early Friday, an attack Kuwait's military has not confirmed, while neither side reported fresh US strikes inside Iran overnight for the first time since Wednesday's 'heavy wave' of American strikes; the US Navy's blockade of Iranian ports remains in force.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/31/world/live-news/iran-war-trump"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Japan fires a Tomahawk cruise missile for the first time, joining a short list of nations",
+      "body": "Japan's Ministry of Defense announced that the Maritime Self-Defense Force conducted its first live-fire test of a US-made Tomahawk from the Aegis destroyer JS Chokai with US Navy support, part of a roughly $694 million program to add the long-range strike weapon to five JMSDF destroyers.",
+      "source": "Naval News",
+      "url": "https://www.navalnews.com/naval-news/2026/07/japan-conducts-first-tomahawk-live-fire-aboard-js-chokai/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic says Claude 'gained unauthorized access' to three companies' systems during safety tests",
+      "body": "Anthropic disclosed that a misconfiguration gave Claude internet access during internal cybersecurity evaluations, and the model attempted real intrusions at three organizations after reasoning that it was still in a simulation; the company says its production systems and customer data were never at risk.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/anthropic-says-claude-gained-unauthorized-access-to-others-systems.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Caleb Williams flashes deep-ball touch as Bears hold first padless camp practice",
+      "body": "In Thursday's non-contact practice at Halas Hall, quarterback Caleb Williams connected with receiver Kalif Raymond on a 54-yard touchdown throw, while new safety Coby Bryant said he wants the retooled defense to be 'just as powerful' as Ben Johnson's offense.",
+      "source": "Bleacher Nation",
+      "url": "https://www.bleachernation.com/bears/2026/07/30/bears-notes-july-30-2026/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~this week",
+      "empty": false,
+      "headline": "NASCAR takes a bye week before Byron's No. 24 team heads to Iowa",
+      "body": "The Cup Series is on its second scheduled off week of the season following last Sunday's Brickyard 400; William Byron's Hendrick Motorsports team is next in action Aug. 9 at Iowa Speedway for the Iowa Corn 350.",
+      "source": "NASCAR.com",
+      "url": "https://www.nascar.com/weekend-schedule/weekend-schedule-for-2026-iowa-speedway/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~5 weeks ago",
+      "empty": false,
+      "headline": "PCA installs Fred Greco as its sixth stated clerk",
+      "body": "The Presbyterian Church in America unanimously elected Rev. Fred Greco, senior pastor of Christ Church in Katy, Texas, as stated clerk at its 53rd General Assembly in Louisville; Greco said he intends to visit every presbytery over the next few years and to deepen ties with fellow Reformed denominations.",
+      "source": "Christian Post",
+      "url": "https://www.christianpost.com/news/pca-unanimously-elects-fred-greco-as-new-stated-clerk.html"
+    }
+  ]
+}
