@@ -11,8 +11,14 @@
       "group": "markets",
       "age": "~16h ago",
       "empty": false,
-      "headline": "Dow jumps on earnings while chip selloff drags the Nasdaq lower.",
-      "body": "The Dow gained 537.24 points (1.03%) to close at 52,747.32 Tuesday on strong earnings from names like Sherwin-Williams and Coca-Cola, while the S&P 500 edged up 0.21% to 7,428.78 and the Nasdaq slipped 0.22% to 24,876.91 as the Philadelphia Semiconductor Index fell 4.5% on losses in Micron, AMD and Applied Materials.",
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, July 28, 2026 close — Dow led on earnings while a chip selloff dragged the Nasdaq lower.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,428.78", "change": "+15.60", "changePct": "+0.21%", "sixMo": "+7.9%" },
+        { "name": "Dow",     "close": "52,747.32", "change": "+537.24", "changePct": "+1.03%", "sixMo": "+5.6%" },
+        { "name": "Nasdaq",  "close": "24,876.91", "change": "-55.17", "changePct": "-0.22%", "sixMo": "-3.1%" }
+      ],
+      "body": "Strong earnings from Sherwin-Williams and Coca-Cola powered the Dow, while the Philadelphia Semiconductor Index fell 4.5% on losses in Micron, AMD, and Applied Materials.",
       "source": "EBC Financial Group",
       "url": "https://www.ebc.com/forex/dow-up-nasdaq-down-july-28-2026"
     },

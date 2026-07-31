@@ -77,19 +77,47 @@ jobs:
             == HARD RULES ==
             - RECENCY, beats 1-6: past 24 hours strongly preferred, 72 hours absolute
               maximum. NEVER include anything older. If nothing qualifies, the beat is empty.
+            - RECENCY, beats 7-9: past 24 hours preferred. If nothing new, fall back to
+              48 hours; if still nothing, fall back to 72 hours. Nothing older than 72
+              hours, EVER. There is no niche exception. If nothing qualifies, the beat
+              is empty and says so.
+            - DEDUP against prior briefs: before including any 48h or 72h item on beats
+              7-9, Read the two or three most recent files in briefings/ (skip today's
+              file if it exists) and confirm the item has NOT already been reported.
+              If it has, treat it as already covered and either find a genuinely new
+              item within the window or set the beat empty.
             - SPOILER RULE, beats 7 and 8 ONLY: never reveal scores, results, or game/race
               outcomes from the past 7 days, even if otherwise within the recency window.
               Roster moves, injury updates, schedule info, contracts and sponsorships are fine.
-            - NICHE BEATS 7-9: if the freshest item is older than 72h you may still include
-              it, but state its real age honestly in the age field, e.g. "~2 weeks ago".
-              Never imply it is fresh.
             - EMPTY IS A CORRECT ANSWER: if a beat has no qualifying news, set empty to true,
               headline "No fresh news on this beat right now", and say briefly in body why.
               NEVER manufacture filler or stretch to a loosely related story.
-            - SOURCING: reputable or primary outlets only. No clickbait, especially on the
-              Bears beat. Rumors are fine from reputable outlets, never tabloid speculation.
+            - SOURCING, general: reputable or primary outlets only. No clickbait.
+            - SOURCING, beat 7 (Chicago Bears): rumours are welcome, but ONLY from this
+              allowlist: NFL.com, ESPN.com, Adam Schefter, Adam Hoge, Adam Jahns,
+              Fox Sports, Chicago Sun-Times, Chicago Tribune, Brad Biggs, WSCR The Score,
+              ESPN Radio, CHGO. If a rumour appears only in outlets outside that list, skip it.
+              A confirmed transaction reported by any reputable outlet is fine; the
+              allowlist governs rumour and speculation only.
             - TONE: report facts plainly. No ideological or partisan framing or commentary
               from any political direction.
+
+            == BEAT 1 SPECIAL SHAPE ==
+            The Market recap beat renders as a three-tile scorecard. Follow the
+            "Beat 1: Market recap (special shape)" section in README.md exactly:
+              - Set kicker to "Prior-day market scorecard" Tue-Fri, or
+                "Weekly market scorecard" on Mondays.
+              - subline: close date + a short characterisation.
+              - indices: exactly three entries in order S&P 500, Dow, Nasdaq, each
+                with close, change, changePct, sixMo (6-month % change). On Mondays
+                the hero is the weekly percent - put it in "change" and set
+                "heroLabel": "week" instead of changePct.
+              - Omit "headline" on this beat when writing the scorecard shape.
+              - Do NOT put the source string inside body; the shell appends it.
+              - sixMo requires a separate lookup: for each index, get the closing
+                value roughly six months before the recap's close date and compute
+                the percent change to two significant figures. Verify with a
+                WebSearch or WebFetch; do not estimate.
 
             == FILE 1 ==
             Write briefings/${{ steps.d.outputs.date }}.json matching README.md exactly.

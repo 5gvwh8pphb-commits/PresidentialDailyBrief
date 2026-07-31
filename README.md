@@ -65,9 +65,9 @@ apple-touch-icon.png        180x180 home-screen icon
   "generated": "2026-07-28T00:48:19Z",
   "beats": [
     {
-      "n": 1,
-      "beat": "Market recap",
-      "group": "markets",
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
       "age": "~4h ago",
       "empty": false,
       "headline": "One line, sentence case",
@@ -82,6 +82,53 @@ apple-touch-icon.png        180x180 home-screen icon
 `group` sets the card's left-border colour: `markets`, `security`, `ai`, `sports`,
 `community`. `empty: true` renders the muted dashed style. `url: null` makes the
 card non-tappable.
+
+### Beat 1: Market recap (special shape)
+
+Beat 1 renders as a three-tile scorecard instead of a generic card when it
+carries an `indices` array. Same top-level fields, plus:
+
+```json
+{
+  "n": 1,
+  "beat": "Market recap",
+  "group": "markets",
+  "age": "~14h ago",
+  "empty": false,
+  "kicker": "Prior-day market scorecard",
+  "subline": "Thursday, July 30, 2026 close — a sharp rebound led by Microsoft's blowout earnings.",
+  "indices": [
+    { "name": "S&P 500", "close": "7,410.87", "change": "+94.72", "changePct": "+1.29%", "sixMo": "+8.4%" },
+    { "name": "Dow",     "close": "52,058.95", "change": "+464.81", "changePct": "+0.90%", "sixMo": "+5.1%" },
+    { "name": "Nasdaq",  "close": "25,015.87", "change": "+572.92", "changePct": "+2.34%", "sixMo": "-2.7%" }
+  ],
+  "body": "Bounce-back day after Wednesday's Fed-driven slide. Microsoft jumped ~16% (its best day since 2008) after Azure topped $100B in quarterly revenue; Meta fell ~9%.",
+  "source": "Yahoo Finance",
+  "url": "https://..."
+}
+```
+
+Field rules:
+- `kicker` — the card's top-left label. Defaults to `beat` if omitted. Use
+  "Prior-day market scorecard" Tue–Fri, "Weekly market scorecard" on Mondays.
+- `subline` — the muted line below the kicker. Include the close date and a
+  short characterisation of the session (or the week).
+- `indices` — exactly three entries in this order: S&P 500, Dow, Nasdaq. Use
+  the names shown above verbatim so the tiles line up.
+  - `close` — as a formatted string with commas, e.g. `"52,058.95"`.
+  - `change` — point change with sign, e.g. `"+464.81"` or `"-55.17"`. The
+    sign drives green/red colouring and the up/down arrow. On Monday's weekly
+    recap, use the weekly percent here instead (e.g. `"-0.5%"`) and set
+    `heroLabel: "week"` in place of `changePct`.
+  - `changePct` — percent with sign and % sign, e.g. `"+1.29%"`. Omit on the
+    Monday weekly variant; use `heroLabel: "week"` instead.
+  - `sixMo` — 6-month percent change with sign, e.g. `"+8.4%"` or `"-2.7%"`.
+    Coloured independently of the day/week hero — a green hero can sit above
+    a red 6-mo and vice versa.
+- `body` — one italic paragraph below the tiles. Do NOT include the source in
+  `body`; the shell appends "Source: X." automatically.
+
+Beat 1 has no `headline` field when the scorecard shape is used.
 
 ## The nine beats (fixed order)
 
@@ -102,12 +149,19 @@ School district news is **not** a daily beat. It has its own weekly brief.
 ## Rules
 
 - **Recency, beats 1-6:** past 24 hours preferred, 72 hours absolute maximum. Never older.
+- **Recency, beats 7-9:** past 24 hours preferred. If nothing new, fall back to
+  48 hours; if still nothing, fall back to 72 hours. Any 48h or 72h item must
+  not have been reported in a prior brief — check the most recent briefings and
+  skip anything already covered. Nothing older than 72 hours, ever. If nothing
+  qualifies, the beat is empty and says so. No exceptions, no niche waiver.
 - **Spoiler rule, beats 7-8 only:** never reveal scores, results, or race/game outcomes
   from the past 7 days. Roster moves, injuries, and schedule info are fine.
-- **Niche beats 7-9:** if the freshest item is older than 72h it may still run, but
-  label its real age honestly in `age`.
 - **Empty is allowed.** Set `empty: true` and say so. Never stretch to a loosely-related story.
-- **Sourcing:** reputable or primary outlets only. No clickbait, especially on the Bears beat.
+- **Sourcing, general:** reputable or primary outlets only. No clickbait.
+- **Sourcing, beat 7 (Chicago Bears):** rumours are welcome, but only from this
+  allowlist — NFL.com, ESPN.com, Adam Schefter, Adam Hoge, Adam Jahns, Fox
+  Sports, Chicago Sun-Times, Chicago Tribune, Brad Biggs, WSCR The Score, ESPN
+  Radio, CHGO. If a rumour appears only in outlets outside that list, skip it.
 - **Tone:** facts plainly, no partisan framing from any direction.
 
 ---
