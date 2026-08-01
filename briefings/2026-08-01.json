@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-01",
+  "dateLabel": "Saturday, August 1, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-01T10:20:03Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, July 31, 2026 close — stocks capped a volatile July with broad gains as Big Tech earnings and AI capital spending offset rising bond yields.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,489.72", "change": "+52.09", "changePct": "+0.70%", "sixMo": "+7.9%" },
+        { "name": "Dow",     "close": "52,485.03", "change": "+276.97", "changePct": "+0.53%", "sixMo": "+7.3%" },
+        { "name": "Nasdaq",  "close": "25,373.85", "change": "+251.68", "changePct": "+1.00%", "sixMo": "+8.1%" }
+      ],
+      "body": "Amazon jumped roughly 15% after beating earnings estimates and posting strong growth in its chip business, helping all three indexes push higher even as the 10-year Treasury yield climbed to its highest level since early 2025.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Trump says US will keep striking Iran, weighs hitting energy sites as soon as this weekend",
+      "body": "President Trump said the US is \"not stopping\" strikes on Iran even as it seeks a negotiated end to the conflict, and US officials say plans for intense strikes on Iranian energy targets could begin this weekend, though the scope could still change; Trump put the US military death toll from the campaign at 16 to 18.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-progress-made-strait-hormuz/?id=135110405"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The week's main China-Taiwan story — Chinese coast guard patrols east of Taiwan — was already covered in a prior brief, and no genuinely new China-watch development surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "Kuwait intercepts Iranian drones as tankers near Strait of Hormuz come under attack",
+      "body": "Kuwait's air defenses shot down drones targeting the country's north and Bubiyan Island early Saturday with no casualties reported, while two tankers near the Strait of Hormuz separately reported an explosion and a projectile strike that damaged one ship's engine room; Britain's maritime safety agency urged vessels to transit the strait with caution.",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/kuwait-says-air-defenses-intercepting-iranian-drone-attacks/4015508"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Army, Navy and Space Force test 'Hammer of the Gods' jammer at sea",
+      "body": "The three services put a maritime version of the Hammer of the Gods electronic-warfare system to sea for the first time during Project Convergence-Capstone 6 off Southern California, testing its ability to disrupt the GPS and navigation signals adversary missiles and drones rely on; the Pentagon has not said whether it will become a formal program.",
+      "source": "Military.com",
+      "url": "https://www.military.com/army-successfully-tests-new-hammer-of-the-gods-electronic-warfare-system-at-sea"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Judge signals she'll strike down Pentagon's 'supply chain risk' label on Anthropic",
+      "body": "At a July 30 summary judgment hearing, US District Judge Rita Lin said the government's case for branding Anthropic a national-security \"supply chain risk\" has \"gotten worse,\" rejecting the Justice Department's argument that the label reflected distrust rather than retaliation for Anthropic refusing to let the Pentagon use Claude for lethal autonomous weapons or mass surveillance; the designation has barred federal contractors from doing business with the company.",
+      "source": "Courthouse News Service",
+      "url": "https://www.courthousenews.com/judge-likely-to-rid-anthropic-of-pentagons-supply-chain-risk-label/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Colston Loveland hauls in three touchdowns as Bears sharpen two-minute drill",
+      "body": "Coach Ben Johnson made end-of-half execution a camp priority after Chicago ranked 27th in scoring during the final two minutes of the first half last season, and Friday's practice delivered: Caleb Williams led a two-minute drive capped by a 14-yard touchdown to tight end Colston Loveland, who caught three scores on the day, while receiver Rome Odunze drew cheers for a diving catch.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/bears-training-camp-report-friday-july-31"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "NASCAR remains on its second bye week of the season, and no new Byron-specific development surfaced within the 72-hour window that wasn't already reported in a recent brief.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond what's already been covered in recent briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
