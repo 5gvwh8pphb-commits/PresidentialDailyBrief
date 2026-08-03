@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-03",
+  "dateLabel": "Monday, August 3, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-03T12:03:40Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~64h ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, July 31, 2026 close — stocks finished a volatile week higher, led by Amazon's blowout earnings.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,489.72", "change": "+1.0%", "heroLabel": "week", "sixMo": "+7.9%" },
+        { "name": "Dow",     "close": "52,485.03", "change": "+0.5%", "heroLabel": "week", "sixMo": "+7.3%" },
+        { "name": "Nasdaq",  "close": "25,373.85", "change": "+1.8%", "heroLabel": "week", "sixMo": "+8.1%" }
+      ],
+      "body": "Amazon's stronger-than-expected earnings and cloud growth drove a roughly 15% jump in its shares and led the week's gains, while Apple slid after a lackluster revenue forecast; all three indexes finished the week higher even as climbing Treasury yields reflected persistent inflation worries heading into August.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-july-31-dow-sp-500-nasdaq-081227738.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Trump says Iran talks resume Monday after calling off strikes; Tehran denies negotiations are underway",
+      "body": "Trump said the US and Iran will hold talks Monday afternoon after he canceled a planned massive strike at the request of Saudi Arabia, the UAE, Qatar and Iran, claiming the outlines of a deal on reopening the Strait of Hormuz and Iranian denuclearization are in place; Iran's foreign ministry said Monday it is not currently negotiating with Washington and is instead discussing a temporary safe shipping route through the strait with Oman.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US calls China's coast guard patrols near Taiwan 'deeply destabilizing'",
+      "body": "A State Department spokesperson said Monday that China's intensified coast guard patrols in waters east of Taiwan are \"deeply destabilizing\" and urged Beijing to \"cease its pressure against Taiwan\" and engage in dialogue with Taipei; Secretary of State Marco Rubio separately said he has told Chinese officials the US opposes any coercive attempt to change the status quo.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/03/2003861830"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump says US forces remain 'locked and loaded' on Iran even as strikes are paused for talks",
+      "body": "President Trump said the US military is \"locked and loaded and ready to go\" against Iran but agreed to hold off after Saudi Arabia, the UAE, Qatar and Iran asked for a pause to finalize a deal; CENTCOM's naval blockade of Iranian ports remains in force, with more than 20 US warships and over 10,000 sailors, Marines and airmen still on station in the region.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new military-technology development from a reputable outlet surfaced within the 72-hour window; the Air Force's F-47/B-21/CCA schedule update and the pending Navy F/A-XX contract decision are the same items already noted in recent briefs.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "EU begins enforcing AI Act transparency rules requiring AI systems to disclose themselves",
+      "body": "The European Commission's AI Office and national regulators started enforcing new AI Act transparency requirements Sunday, requiring chatbots and other interactive AI systems to disclose they are AI rather than human and mandating machine-readable labels on deepfakes and other AI-generated or altered content; more than 180 organizations have signed onto the related Code of Practice.",
+      "source": "European Commission",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears corner Jaylon Johnson calls 2026 'definitely a contract year' for him",
+      "body": "With two seasons left on his four-year, $76 million extension but no guaranteed money remaining in it, Jaylon Johnson said he's treating 2026 as a contract year after a groin injury limited him to 10 games last season; he said he wants to prove he's back to top form, \"whether that's here, somewhere else.\"",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49505992/bears-cb-johnson-views-2026-definitely-contract-year"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "NASCAR remains on a scheduled break before the Aug. 9 Iowa Corn 350, and no new Byron-specific, non-spoiler development surfaced within the 72-hour window that wasn't already covered in a recent brief.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly news already reported.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
