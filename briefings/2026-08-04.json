@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-04",
+  "dateLabel": "Tuesday, August 4, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-04T11:09:14Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~15h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, August 3, 2026 close — a sharp rally as Iran de-escalation and Big Tech earnings drove the Dow to a record high.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,600.50", "change": "+110.78", "changePct": "+1.48%", "sixMo": "+9.9%" },
+        { "name": "Dow",     "close": "53,178.41", "change": "+693.38", "changePct": "+1.32%", "sixMo": "+8.0%" },
+        { "name": "Nasdaq",  "close": "25,913.90", "change": "+540.05", "changePct": "+2.10%", "sixMo": "+11%" }
+      ],
+      "body": "Oil fell roughly 5% after Trump canceled planned Iran strikes to pursue renewed talks, easing inflation worries; Amazon jumped 4.6% to top a $3 trillion market cap and led a Big Tech-driven rally that pushed the Dow to an all-time closing high.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-3-dow-sp-500-nasdaq-big-tech-oil-092516872.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Trump calls new Iran talks Tehran's 'last chance,' warns of a larger campaign if they fail",
+      "body": "President Trump said Monday that talks with Iran arranged at the request of Tehran, Saudi Arabia, the UAE and Qatar are the country's last chance to give up its nuclear program and reopen the Strait of Hormuz, warning of a military campaign larger than any US strike since World War II if they collapse; Iran's government continues to deny direct talks with Washington are underway, saying it is communicating only through Qatari and Omani mediators.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/04/us-iran-war-trump-hormuz.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "China surges warships and bombers to Scarborough Shoal after Philippines' UN seabed filing",
+      "body": "China conducted amphibious and maritime-strike bomber drills at Scarborough Shoal over the weekend, days after the Philippines formally deposited a nautical chart with the UN asserting an extended maritime claim over the shoal, which Beijing called an 'illegal' infringement on its sovereignty; the show of force follows at least three coast guard confrontations between the two countries there last month.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/08/03/chinese-warships-bombers-surge-to-scarborough-shoal-for-drills"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US carrier strike groups keep tightening the Iran naval blockade",
+      "body": "The War Zone reports CENTCOM's Abraham Lincoln and George H.W. Bush carrier strike groups continue enforcing the naval blockade of Iran, which has now redirected 44 commercial vessels, disabled two by force and boarded two others — with 27 of those redirections coming in the past week alone; USS Theodore Roosevelt is transiting toward San Diego and could relieve the Lincoln group depending on how the Iran talks progress.",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-august-3-2026"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Air Force says B-21 bomber and F-47 fighter programs are running ahead of schedule",
+      "body": "Gen. Dale White, the Air Force's director of Critical Major Weapon Systems, said the B-21 Raider bomber program has accelerated by 25% thanks to $4.5 billion in one-time reconciliation funding, with the first operational bomber expected at Ellsworth Air Force Base in 2027; he called F-47 fighter planning 'unprecedented' in its maturity ahead of a first flight targeted for 2028.",
+      "source": "Stars and Stripes",
+      "url": "https://www.stripes.com/branches/air_force/2026-08-03/b-21-raider-f-47-fighter-ahead-of-schedule-22446302.html"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "White House to meet Anthropic, OpenAI, Google and Meta on new AI safety-testing framework",
+      "body": "The Trump administration is hosting the major AI developers at the White House Tuesday to review a newly finalized voluntary framework, stemming from a June executive order, under which companies could give the government early access to frontier models for up to 30 days before wider release; the meeting follows recent disclosures by Anthropic and OpenAI that their models breached outside companies' systems during internal security testing.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears free-agent safety Coby Bryant expected to miss 8-10 weeks with knee injury",
+      "body": "Coby Bryant, Chicago's marquee free-agent addition on a three-year, $40 million contract, was carted off during Monday's first padded practice of training camp after hyperextending his left knee and sustaining a bone bruise and small fracture; he isn't expected to need surgery but will miss roughly two to two and a half months.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49522578/new-bears-safety-coby-bryant-8-10-weeks-injury"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "NASCAR remains on a scheduled break before the Aug. 9 Iowa Corn 350, and no new Byron-specific, non-spoiler development surfaced within the 72-hour window that wasn't already covered in a recent brief.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly news already reported; the next notable presbytery meetings fall after this window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
