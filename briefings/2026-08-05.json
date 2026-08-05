@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-05",
+  "dateLabel": "Wednesday, August 5, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-05T11:20:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, August 4, 2026 close — a broad rally pushed the S&P 500 to its first record in two months and the Dow above 54,000 for the first time.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,736.52", "change": "+136.02", "changePct": "+1.79%", "sixMo": "+14%" },
+        { "name": "Dow",     "close": "54,085.88", "change": "+907.47", "changePct": "+1.71%", "sixMo": "+11%" },
+        { "name": "Nasdaq",  "close": "26,584.99", "change": "+671.09", "changePct": "+2.59%", "sixMo": "+18%" }
+      ],
+      "body": "Strong earnings and hopes for progress on reopening the Strait of Hormuz fueled a broad tech comeback; Palantir soared roughly 29% on blowout revenue tied to AI demand, while SpaceX and AMD also reported earnings.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/04/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iran and Oman near a deal to reopen the Strait of Hormuz",
+      "body": "Regional officials said Iran and Oman have made progress on an interim agreement that would route Gulf-bound ships through an Iranian-controlled channel and outbound ships through an Omani-controlled one, with a formal announcement possibly coming this week; any deal is expected to be linked to the US lifting its naval blockade of Iranian ports.",
+      "source": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/iran-and-oman-make-progress-on-a-deal-to-reopen-strait-of-hormuz-officials-say"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "China sanctions six US entities and tightens drone export controls ahead of expected Xi-Trump summit",
+      "body": "Beijing's Commerce Ministry announced countermeasures Wednesday against six American organizations, including Applied DNA Sciences and Human Rights in China, and imposed case-by-case scrutiny on drone-related exports to the US, in response to Washington's addition of 43 Chinese firms to a forced-labor import blacklist; the tit-for-tat comes weeks ahead of a planned Xi Jinping visit to the US.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/economy/global-economy/article/3363037/china-sanctions-slew-us-entities-heightens-scrutiny-drone-exports"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US commanders warn missile-defense stockpiles are 'dangerously low' after Iran war",
+      "body": "Senior military officials told CNN the US has burned through nearly 80% of interceptors for a key missile-defense system and roughly half its Patriot interceptor inventory during the nearly six-month conflict with Iran, on top of a separate Reuters finding that Army long-range surface-to-surface missile stocks are nearly exhausted; officials say the depletion is raising concern about readiness for future crises involving Russia or China.",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/08/04/politics/us-iran-key-missile-interceptors-low"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Navy reclassifies 19 Virginia-class submarines as guided-missile boats to reflect bigger strike punch",
+      "body": "The Navy is redesignating 19 planned Virginia-class submarines equipped with the Virginia Payload Module from fast-attack subs (SSN) to guided-missile submarines (SSGN), citing their expanded Tomahawk-class strike capacity of up to 65 weapons; the change applies to Block V and VI boats delivering through 2038, starting with the future USS Arizona.",
+      "source": "Navy Times",
+      "url": "https://www.navytimes.com/news/your-navy/2026/08/04/us-navy-is-reclassifying-19-virginia-class-submarines-to-reflect-increased-attack-capabilities/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic names former California Supreme Court justice as its first chief global affairs officer",
+      "body": "Anthropic appointed Mariano-Florentino 'Tino' Cuéllar, who previously led the Carnegie Endowment for International Peace, to head policy and government relations worldwide, reporting to President Daniela Amodei; the hire comes as Anthropic works to repair friction with the Trump administration after the Pentagon labeled it a national-security 'supply chain risk' and briefly restricted export of its top models.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/04/anthropic-names-global-affairs-chief-as-trump-tensions-persist.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Cam Lewis shifts to safety as Coby Bryant's injury thins Bears' back end",
+      "body": "With Coby Bryant expected to miss 8-10 weeks and nickel corner Kyler Gordon still sidelined on the PUP list with a lingering calf injury, six-year veteran Cam Lewis has moved from nickel to safety alongside rookie Dillon Thieneman in 11-on-11 work, per ESPN's training-camp notebook; Lewis started at safety for Buffalo in last season's playoffs.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49448378/chicago-bears-training-camp-2026-intel-updates"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron heads into Iowa Speedway as the field's most consistent performer there",
+      "body": "Ahead of Sunday's Iowa Corn 350, Hendrick Motorsports notes William Byron carries the tour's best average finish at Iowa Speedway among active drivers, having finished runner-up in the track's inaugural Cup race and won there the following year; NASCAR remains on its scheduled break until the green flag drops this weekend.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/news/2026/august/04/nascar-iowa-speedway-driver-averages-william-byron-aims-more-mastery-hawkeye-state"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly news already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
