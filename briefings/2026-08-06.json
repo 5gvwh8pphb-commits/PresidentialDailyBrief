@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-06",
+  "dateLabel": "Thursday, August 6, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-06T11:09:07Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~15h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, August 5, 2026 close — a mixed finish as the Dow notched a record high but the S&P and Nasdaq slipped.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,723.55", "change": "-12.97", "changePct": "-0.17%", "sixMo": "+11%" },
+        { "name": "Dow",     "close": "54,349.12", "change": "+263.24", "changePct": "+0.49%", "sixMo": "+8.4%" },
+        { "name": "Nasdaq",  "close": "26,363.44", "change": "-221.55", "changePct": "-0.83%", "sixMo": "+14%" }
+      ],
+      "body": "The Dow closed at a record high for a fifth straight session on strong corporate earnings, while the S&P 500 snapped a four-day win streak and the Nasdaq fell as investors weighed SpaceX and AMD results alongside Trump's comments that a deal to reopen the Strait of Hormuz could come soon.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/05/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US fully restores intelligence sharing with Ukraine, senators confirm",
+      "body": "Politico reports the US-Ukraine intelligence partnership has returned to its pre-suspension level after being frozen following the February 2025 Oval Office clash between Trump and Zelensky; senators from both parties, including Mark Warner and John Cornyn, confirmed the resumption, which officials say has sharpened Ukraine's long-range strikes on Russian territory.",
+      "source": "Politico (via UkraNews)",
+      "url": "https://ukranews.com/en/news/1167111-the-u-s-has-fully-resumed-intelligence-sharing-with-ukraine-according-to-politico"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "China widens trade retaliation against US tech curbs weeks before Xi-Trump summit",
+      "body": "CNBC reports Beijing has rolled out its broadest package of trade countermeasures since the October 2025 truce, tightening export controls on drones and signaling it may sanction firms that help enforce US sanctions, as Washington separately weighs restricting Chinese-made data-center components; the moves test the fragile trade truce ahead of a planned Xi Jinping visit to the US.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/06/us-china-trump-xi-summit-trade-technology-restrictions.html"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Houthis strike Saudi oil tanker as US conducts 12th straight night of strikes on Iran",
+      "body": "A Houthi spokesman said the group hit the tanker Wafa with ballistic missiles Wednesday off Yanbu, Saudi Arabia, opening a new front in the shipping war even as CENTCOM carried out a 12th consecutive night of strikes on Iranian targets aimed at protecting commercial vessels transiting the region.",
+      "source": "The Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/aug/5/yemens-houthis-strike-saudi-flagged-oil-tanker-red-sea/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "AI-piloted X-62 VISTA completes 27 live intercepts using infrared sensor, no radar",
+      "body": "The Air Force's X-62 VISTA testbed used an onboard AI agent fed by an infrared search-and-track pod to autonomously detect and intercept a live T-38 jet across 27 flights during the HAVE HEAT test campaign at Edwards Air Force Base, relying on a passive sensor that can't be jammed the way radar can.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/08/05/air-force-x-62-vista-have-heat-have-holiday/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic builds in-house team to design custom AI chips for Claude",
+      "body": "Anthropic confirmed it is hiring a 'custom silicon team' of hardware and software engineers to co-design chips and Claude models together, targeting roughly 50% lower per-token inference costs, while continuing to rely on AWS, Google, Nvidia and AMD hardware in the meantime.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears sign DB Marlen Sewell, place DL Jonathan Garvin on injured reserve",
+      "body": "Chicago added undrafted defensive back Marlen Sewell to help fill out a secondary thinned by Coby Bryant's injury, while defensive lineman Jonathan Garvin was placed on Reserve/Injured, ending his availability for the rest of the 2026 season.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/roster-moves-bears-sign-marlen-sewell-place-jonathan-garvin-on-ir"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Byron to run green-and-black RAPTOR scheme at Iowa Speedway",
+      "body": "Hendrick Motorsports previewed its Iowa Speedway paint schemes, with William Byron's No. 24 sporting its RAPTOR primary colors alongside Chase Elliott's NAPA Auto Parts No. 9 and Alex Bowman's Ally-backed No. 48 ahead of Sunday's Cup Series race.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/news/2026/august/04/nascar-paint-schemes-preview-hendrick-motorsports-iowa-speedway"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly news already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
