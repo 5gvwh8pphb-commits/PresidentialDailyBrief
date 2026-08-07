@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-07",
+  "dateLabel": "Friday, August 7, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-07T09:43:36Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, August 6, 2026 close — a modest pullback as Treasury yields rose, snapping the Dow's five-session record streak.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,709.96", "change": "-13.59", "changePct": "-0.18%", "sixMo": "+11%" },
+        { "name": "Dow",     "close": "53,885.10", "change": "-464.02", "changePct": "-0.85%", "sixMo": "+7.5%" },
+        { "name": "Nasdaq",  "close": "26,348.35", "change": "-15.09", "changePct": "-0.06%", "sixMo": "+14%" }
+      ],
+      "body": "Stocks slipped as the 10-year Treasury yield climbed to 4.67% and investors weighed fresh earnings and labor-market data; semiconductor names like SanDisk fell sharply on AI capital-spending concerns, though all four major indexes remained well above where they started the year.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-6-dow-sp-nasdaq-091620000.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Uganda approves troop deployment to Trump-backed Gaza peacekeeping force",
+      "body": "Uganda's parliament voted Thursday to send troops to Gaza as part of the roughly 20,000-strong International Stabilization Force proposed by President Trump's Board of Peace, joining Morocco in committing forces; Defense Minister Kiryowa Kiwanuka cited Uganda's peacekeeping experience in Somalia, though opposition lawmakers raised concerns about the move.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/gaza/uganda-approves-sending-troops-international-force-gaza-rcna591177"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan's president joins mock 'decapitation strike' evacuation drill",
+      "body": "President Lai Ching-te boarded an armored Clouded Leopard vehicle and was escorted to Taipei's wartime command center during the 'Wan Chun' drill, part of the island's largest annual Han Kuang exercises simulating a Chinese strike on its leadership; it is the first time Lai has taken part, following past participation by predecessors Tsai Ing-wen and Ma Ying-jeou.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/06/2003862049"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Iraqi forces on high alert as militia deadline to retaliate for US-Saudi strikes expires",
+      "body": "Iran-aligned factions' week-long deadline for Baghdad to respond to the July 28 US-Saudi airstrikes on Popular Mobilization Forces positions expired Friday, and Iraq placed its military and security forces on heightened alert; the Islamic Resistance in Iraq has vowed retaliation against 'the American enemy,' while Iraq's ruling coalition has separately threatened terrorism charges against militias that don't disarm by September 30.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/07/iraqi-forces-on-high-alert-as-iran-aligned-factions-deadline-for-response-to-us-saudi-strikes-expires/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Rocket Lab wins $397M Space Force contract for airborne-threat-tracking satellites",
+      "body": "Rocket Lab will build, launch and operate a fleet of 'Flatellite' satellites under the Space Force's Space-Based Airborne Moving Target Indicator program, using AI-powered ground processing to give persistent orbital tracking of aircraft and missile threats in place of AWACS-style surveillance planes in contested airspace; the award is part of a $615 million package split among three contractors, following an earlier $4.16 billion SpaceX contract under the same program.",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic slashes false positives in Claude's biology safety filters",
+      "body": "Anthropic rewrote the rule set governing Claude Fable 5's biology-related safeguards after gathering feedback from internal and external experts, cutting unnecessary refusals on benign queries like interpreting lab results or researching symptoms by about 85% in testing, while still routing genuinely dual-use topics like virology and molecular design to added scrutiny.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears activate LB T.J. Edwards from Non-Football Injury list",
+      "body": "Chicago activated starting linebacker T.J. Edwards off the Active/Non-Football Injury list, clearing him to rejoin practice after a minor muscle strain suffered training on his own following minicamp; Edwards, who had 67 tackles and a pick-six in 10 starts last season, will likely be eased back in after also rehabbing a fractured fibula from last season's wild-card game.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/roster-move-bears-activate-t-j-edwards-off-active-non-football-injury-list"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron says rare week off has his team confident heading into Iowa",
+      "body": "William Byron, still seeking his first win of 2026 after a 23-race drought, said the Cup Series' scheduled week off gave his No. 24 Hendrick Motorsports team fresh confidence ahead of Sunday's Iowa Corn 350, calling Iowa Speedway a track that has 'always clicked' for him after sweeping wins there across all three national series.",
+      "source": "NASCAR.com",
+      "url": "https://www.nascar.com/news-media/2026/08/06/after-a-week-off-byron-heads-to-iowa-with-confidence/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
