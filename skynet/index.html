@@ -143,7 +143,7 @@
 <section class="section">
   <div class="section-head">
     <h2>Automations</h2>
-    <span class="count">3 live &middot; 1 open slot</span>
+    <span class="count">4 live</span>
   </div>
 
   <div class="stack">
@@ -205,12 +205,23 @@
       </div>
     </article>
 
-    <article class="task task--slot">
+    <article class="task is-live">
       <div class="task-top">
-        <h3>Open slot</h3>
-        <span class="pill pill--idle">Empty</span>
+        <div>
+          <h3>News feed</h3>
+          <p class="desc">Headlines with pictures, from your sources.</p>
+        </div>
+        <span class="pill pill--ok">Live</span>
       </div>
-      <p class="desc">Adding one later is a small job.</p>
+      <div class="task-meta">
+        <span><b>Refreshes</b> every 30 min</span>
+        <span><b>Updated</b> <span id="latest-feed">&hellip;</span></span>
+      </div>
+      <div class="actions">
+        <a class="btn btn--go" href="../feed/">Open the feed</a>
+        <a class="btn btn--quiet" href="https://github.com/5gvwh8pphb-commits/PresidentialDailyBrief/actions/workflows/feed.yml"
+           target="_blank" rel="noopener noreferrer">Run now</a>
+      </div>
     </article>
 
   </div>
@@ -265,6 +276,19 @@
     showLatest('../briefings/index.json', 'latest');
     showLatest('../district/index.json', 'latest-district');
     showLatest('../prospects/index.json', 'latest-prospects');
+    fetch('../feed/latest.json?t=' + Date.now())
+      .then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) {
+        var el = document.getElementById('latest-feed');
+        if (!el) return;
+        if (!d || !d.generated) { el.textContent = 'not yet run'; return; }
+        var m = Math.max(0, Math.round((Date.now() - new Date(d.generated).getTime()) / 60000));
+        el.textContent = m < 1 ? 'just now' : (m < 60 ? m + 'm ago' : Math.round(m / 60) + 'h ago');
+      })
+      .catch(function () {
+        var el = document.getElementById('latest-feed');
+        if (el) el.textContent = 'not yet run';
+      });
   }
   boot();
 
