@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-08",
+  "dateLabel": "Saturday, August 8, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-08T09:20:50Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, August 7, 2026 close — stocks rallied to a record finish, capping the S&P 500's best week since April.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,757.64", "change": "+47.68", "changePct": "+0.62%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "54,036.93", "change": "+151.83", "changePct": "+0.28%", "sixMo": "+7.8%" },
+        { "name": "Nasdaq",  "close": "26,690.62", "change": "+342.27", "changePct": "+1.30%", "sixMo": "+16%" }
+      ],
+      "body": "The S&P 500 closed at a record high and the Nasdaq jumped more than 1% after the Labor Department reported the U.S. economy lost 23,000 jobs in July while unemployment held at 4.1%, reducing expectations of a Federal Reserve rate hike next month; the S&P gained 3.6% and the Nasdaq 5.2% on the week.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Saudi Arabia, Turkey and Pakistan sign mutual-defense pact amid Iran war",
+      "body": "The three countries signed the Mecca Joint Defence Agreement on Friday, committing to treat an attack on any one of them as an attack on all three; the pact combines Turkey's military strength, Saudi oil wealth and Pakistan's nuclear deterrent into a new regional security bloc as Gulf states continue absorbing missile and drone attacks tied to the ongoing Iran war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan moves to dissolve pro-Beijing party over alleged CCP infiltration",
+      "body": "Taiwan's Ministry of the Interior petitioned the Constitutional Court on Friday to dissolve the Chinese Unification Promotion Party, the first such action against a political party in Taiwan's history, citing alleged recruitment of active-duty and retired military personnel into a Beijing-directed espionage network among other national-security violations.",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/politics/202608070018"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US military has burned through 80% of THAAD interceptor stock in Iran war",
+      "body": "The Pentagon has expended roughly 80% of its THAAD interceptor inventory and about half its Patriot interceptors since the Iran war began, prompting President Trump to order investigations into who leaked the stockpile figures even as he publicly insisted the US has 'massive amounts' of munitions to continue the fight.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/06/politics/trump-munitions-cabinet-meeting"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Marine Corps runs first field tests of Perennial Autonomy's drone family",
+      "body": "The 2nd Marine Division's Unmanned Systems Center of Excellence ran several days of integrated field training at Twentynine Palms with startup Perennial Autonomy's Bumblebee quadcopter, Hornet strike drone and AS-3 Merops interceptor, its first hands-on work with the company, as the newly stood-up Marine Corps Robotics Integration Group builds out service-wide drone training standards.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/08/06/marine-corps-establishes-robotics-integration-group-experiments-with-drones-in-field-operations"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic opens self-hosted environments beta for Claude Code",
+      "body": "Anthropic launched a public beta letting Claude Code run sessions on infrastructure organizations control themselves rather than Anthropic's cloud, keeping repository checkouts, secrets and build artifacts inside the customer's network while model inference still runs through Anthropic; the option targets Team and Enterprise customers with strict compliance or network requirements and is off by default.",
+      "source": "Anthropic",
+      "url": "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears sign veteran safety Xavier Woods, place Dallis Flowers on injured reserve",
+      "body": "Chicago signed 31-year-old safety Xavier Woods, who has 121 career starts and started 10 games for Tennessee last season, after cornerback Dallis Flowers needed help leaving Thursday's practice with a right leg injury and was placed on injured reserve.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-august-7-2026"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's build-up to Sunday's Iowa Corn 350 (his week off, paint scheme and strong track history) was already reported in the past two briefs, and no new roster, injury, schedule or sponsorship news broke within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
