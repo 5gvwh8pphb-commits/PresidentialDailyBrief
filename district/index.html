@@ -28,7 +28,11 @@
     padding:20px 16px calc(48px + env(safe-area-inset-bottom));
   }
 
-  .masthead { display:flex; flex-direction:column; gap:10px; margin-bottom:22px; }
+  .masthead {
+    display:flex; flex-direction:column; gap:10px;
+    position:sticky; top:0; z-index:20; background:var(--ground);
+    margin:-20px 0 12px; padding:20px 0 10px;
+  }
   h1 {
     font-family:var(--mono); font-size:19px; font-weight:700; margin:0;
     letter-spacing:0.13em; text-transform:uppercase;

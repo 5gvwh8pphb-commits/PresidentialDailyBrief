@@ -28,7 +28,11 @@
     padding:18px 14px calc(48px + env(safe-area-inset-bottom));
   }
 
-  .masthead { display:flex; flex-direction:column; gap:10px; margin-bottom:14px; }
+  .masthead {
+    display:flex; flex-direction:column; gap:10px;
+    position:sticky; top:0; z-index:20; background:var(--ground);
+    margin:-18px 0 6px; padding:18px 0 8px;
+  }
   .brandline { display:flex; align-items:center; justify-content:space-between; gap:12px; }
   h1 { font-family:var(--mono); font-size:19px; font-weight:700; margin:0;
        letter-spacing:.13em; text-transform:uppercase; }
