@@ -28,27 +28,28 @@
     padding:20px 16px calc(48px + env(safe-area-inset-bottom));
   }
 
+  /* Masthead geometry is shared byte-for-byte with skynet/index.html.
+     Do not tune these numbers on one page — the wordmark must not shift
+     by a single pixel when Jim moves between pages. */
   .masthead {
-    display:flex; flex-direction:column; gap:10px;
+    display:flex; flex-direction:column; gap:11px;
     position:sticky; top:0; z-index:20; background:var(--ground);
     margin:-20px 0 12px; padding:20px 0 10px;
   }
   h1 {
-    font-family:var(--mono); font-size:19px; font-weight:700; margin:0;
-    letter-spacing:0.13em; text-transform:uppercase;
+    font-family:var(--mono); font-size:25px; font-weight:700; margin:0;
+    letter-spacing:0.21em; text-transform:uppercase;
+    color:var(--ink); text-decoration:none;
   }
   h1 .dot { color:var(--accent); }
-  .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 56px,var(--line) 56px 100%); }
-  .brandline { display:flex; align-items:center; justify-content:space-between; gap:12px; }
-
-  .homelink {
-    align-self:flex-start; text-decoration:none; color:var(--ink);
-    font-family:var(--mono); font-size:13px; font-weight:700;
-    letter-spacing:0.21em; text-transform:uppercase;
-    padding:9px 2px 9px 0; margin:-9px 0;
+  h1 a { color:inherit; text-decoration:none; }
+  h1 a:active { color:var(--accent); }
+  .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 62px,var(--line) 62px 100%); }
+  .brandline { display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  .pagename {
+    font-family:var(--mono); font-size:10.5px; text-transform:uppercase;
+    letter-spacing:0.15em; color:var(--ink-muted); margin:0;
   }
-  .homelink .dot { color:var(--accent); }
-  .homelink:active { color:var(--accent); }
 
   .refresh {
     -webkit-appearance:none; appearance:none; cursor:pointer;
@@ -64,6 +65,11 @@
   .refresh.spin svg { animation:sp .7s linear infinite; }
   @keyframes sp { to { transform:rotate(360deg); } }
   @media (prefers-reduced-motion: reduce) { .refresh.spin svg { animation:none; } }
+  @media (min-width:620px) {
+    body { padding:32px 24px calc(64px + env(safe-area-inset-bottom)); }
+    .masthead { margin:-32px 0 12px; padding:32px 0 10px; }
+    h1 { font-size:31px; }
+  }
   .meta {
     font-family:var(--mono); font-size:11.5px; color:var(--ink-muted);
     letter-spacing:0.05em; display:flex; flex-wrap:wrap; gap:4px 10px;
@@ -133,11 +139,11 @@
 <body>
 
 <header class="masthead">
-  <a class="homelink" href="../skynet/" aria-label="Back to Skynet console">Skynet<span class="dot">.</span></a>
   <div class="brandline">
-    <h1>Prospect Districts<span class="dot">.</span></h1>
+    <h1><a href="../skynet/" aria-label="Back to Skynet console">Skynet<span class="dot">.</span></a></h1>
   </div>
   <div class="rule"></div>
+  <p class="pagename">Prospect Districts</p>
   <div class="meta" id="meta"><span>Loading&hellip;</span></div>
 </header>
 
