@@ -22,8 +22,11 @@ TOTAL = 40
 TIMEOUT = 25
 MAX_AGE_DAYS = 3
 
-# Mon=0 .. Sun=6  ->  Tue, Wed, Fri, Sat
-BEARS_DAYS = {1, 2, 4, 5}
+# Mon=0 .. Sun=6
+DAY_GATE = {
+    "bears":  {1, 2, 4, 5},        # Tue, Wed, Fri, Sat
+    "nascar": {0, 1, 2, 3, 4},     # all weekdays
+}
 
 SOURCES = [
     ("Fox News",         "world",   "https://moxie.foxnews.com/google-publisher/latest.xml"),
@@ -40,7 +43,16 @@ SOURCES = [
     ("Windy City Gridiron", "bears", "https://www.windycitygridiron.com/rss/index.xml"),
     ("ChicagoBears.com", "bears",   "https://www.chicagobears.com/rss/news"),
     ("CBS Sports NFL",   "bears",   "https://www.cbssports.com/rss/headlines/nfl/"),
+    # General Cup feeds almost never put Byron in a headline (1 hit in 80), so
+    # NASCAR comes from a targeted query instead. It still surfaces Frontstretch
+    # and Motorsport.com whenever they actually write about him.
+    ("Byron & Hendrick", "nascar",
+     "https://news.google.com/rss/search?q=%22William+Byron%22+OR+%22Hendrick+Motorsports%22"
+     "+NASCAR&hl=en-US&gl=US&ceid=US:en"),
 ]
+
+# NASCAR is Byron/Hendrick only - the rest of the Cup field is noise to Jim.
+BYRON = re.compile(r"\b(byron|hendrick)\b|\bno\.?\s*24\b|#24\b", re.I)
 
 # Headlines that look like game outcomes. Deliberately broad - a dropped
 # legitimate story costs less than a spoiled game.
@@ -54,6 +66,20 @@ RESULT_WORDS = re.compile(
     r"what\s+we\s+learned|final\s+score|highlights?|postgame|post-game|"
     r"snap\s+counts?|stock\s+up|stock\s+down|studs\s+and\s+duds|"
     r"winners?\s+and\s+losers?|film\s+review|scoreboard|standings"
+    r")\b", re.I)
+
+# Motorsport outcomes use a different vocabulary than football.
+NASCAR_RESULT = re.compile(
+    r"\b("
+    r"wins?|winner|won|victory|victory\s+lane|checkered|chequered|"
+    r"sweeps?|swept|dominates?|dominated|holds?\s+off|held\s+off|"
+    r"podium|finishe?[sd]?|results?|recap|standings|points\s+lead|"
+    r"pole|qualifying|starting\s+lineup|stage\s+(?:win|one|two)|"
+    r"playoff\s+picture|eliminat\w*|advanc\w*|cutline|"
+    r"top-?(?:5|10|five|ten)|p\d\b|\d+(?:st|nd|rd|th)-place|"
+    r"crash(?:es|ed)?|wreck(?:s|ed)?|dnf|penali[sz]ed|disqualified|"
+    r"trophy|celebrat\w*|power\s+rankings?|moves?\s+up|leads?|"
+    r"champion\w*|clinch\w*|streak"
     r")\b", re.I)
 
 MRSS = "{http://search.yahoo.com/mrss/}"
@@ -130,13 +156,16 @@ def strip_html(s, limit=170):
     return (s[: limit - 1] + "…") if len(s) > limit else s
 
 
-def looks_like_result(title):
+def looks_like_result(title, topic):
+    if topic == "nascar":
+        return bool(SCORE.search(title) or NASCAR_RESULT.search(title))
     return bool(SCORE.search(title) or RESULT_WORDS.search(title))
 
 
 def pull(name, topic, url):
     out = []
     dropped = 0
+    offtopic = 0
     try:
         root = ET.fromstring(get(url))
     except Exception as e:
@@ -153,22 +182,41 @@ def pull(name, topic, url):
         if not title or not link.startswith("http"):
             continue
         title = strip_html(title, 150)
-        if topic == "bears" and looks_like_result(title):
+        # Google News titles carry the publisher as a " - Publisher" suffix.
+        item_source = name
+        if "news.google.com" in url and " - " in title:
+            head, _, pub = title.rpartition(" - ")
+            if head and 2 < len(pub) <= 34:
+                title, item_source = head.strip(), pub.strip()
+        if topic == "nascar" and not BYRON.search(title):
+            offtopic += 1
+            continue
+        if topic in ("bears", "nascar") and looks_like_result(title, topic):
             dropped += 1
             continue
+        # Summaries leak outcomes even when the headline does not, and they
+        # only ever render on the lead card. Not worth the risk.
+        summary = "" if topic in ("bears", "nascar") else \
+            strip_html(text_of(it, "description", ATOM + "summary"))
         out.append({
             "title": title,
             "url": link.strip(),
-            "source": name,
+            "source": item_source,
+            "group": name,
             "topic": topic,
-            "summary": strip_html(text_of(it, "description", ATOM + "summary")),
+            "summary": summary,
             "image": feed_image(it),
             "_dt": parse_date(text_of(it, "pubDate", "published",
                                       ATOM + "published", ATOM + "updated")),
         })
         if len(out) >= PER_SOURCE:
             break
-    note = "  (%d screened as results)" % dropped if dropped else ""
+    bits = []
+    if dropped:
+        bits.append("%d screened as results" % dropped)
+    if offtopic:
+        bits.append("%d not Byron/Hendrick" % offtopic)
+    note = "  (%s)" % ", ".join(bits) if bits else ""
     print("  ok   %-20s %2d items%s" % (name, len(out), note))
     return out
 
@@ -192,11 +240,12 @@ def main():
     now = dt.datetime.now(dt.timezone.utc)
     # Weekday in Chicago, not UTC - a late-evening run must not roll the day.
     chicago = now - dt.timedelta(hours=5)
-    bears_day = chicago.weekday() in BEARS_DAYS
-    print("Chicago weekday %d - Bears sources %s"
-          % (chicago.weekday(), "INCLUDED" if bears_day else "skipped"))
+    wd = chicago.weekday()
+    gated = {t: (wd in days) for t, days in DAY_GATE.items()}
+    print("Chicago weekday %d - %s" % (wd, ", ".join(
+        "%s %s" % (t, "INCLUDED" if ok else "skipped") for t, ok in sorted(gated.items()))))
 
-    active = [s for s in SOURCES if bears_day or s[1] != "bears"]
+    active = [s for s in SOURCES if gated.get(s[1], True)]
 
     items = []
     with cf.ThreadPoolExecutor(max_workers=8) as ex:
@@ -205,11 +254,23 @@ def main():
 
     items = [i for i in items if i["_dt"] and (now - i["_dt"]).days <= MAX_AGE_DAYS]
 
-    # Round-robin by source so a high-volume publisher cannot crowd out the
-    # quieter ones Jim picked on purpose. Newest first within each source.
+    # Drop repeats - query feeds and wire pickups produce the same story twice.
+    seen, unique = set(), []
+    for i in items:
+        key = re.sub(r"[^a-z0-9]+", "", i["title"].lower())[:70]
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(i)
+    if len(unique) != len(items):
+        print("  deduped %d repeats" % (len(items) - len(unique)))
+    items = unique
+
+    # Round-robin by configured source so a high-volume publisher cannot crowd
+    # out the quieter ones Jim picked on purpose. Newest first within each.
     buckets = {}
     for i in items:
-        buckets.setdefault(i["source"], []).append(i)
+        buckets.setdefault(i.get("group") or i["source"], []).append(i)
     for b in buckets.values():
         b.sort(key=lambda i: i["_dt"], reverse=True)
 
@@ -246,7 +307,8 @@ def main():
         "generated": now.replace(microsecond=0).isoformat(),
         "count": len(items),
         "withImage": sum(1 for i in items if i["image"]),
-        "bearsDay": bears_day,
+        "bearsDay": gated.get("bears", False),
+        "nascarDay": gated.get("nascar", False),
         "sources": sorted({i["source"] for i in items}),
         "items": items,
     }
