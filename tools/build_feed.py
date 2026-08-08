@@ -204,8 +204,31 @@ def main():
             items.extend(chunk)
 
     items = [i for i in items if i["_dt"] and (now - i["_dt"]).days <= MAX_AGE_DAYS]
-    items.sort(key=lambda i: i["_dt"], reverse=True)
-    items = items[:TOTAL]
+
+    # Round-robin by source so a high-volume publisher cannot crowd out the
+    # quieter ones Jim picked on purpose. Newest first within each source.
+    buckets = {}
+    for i in items:
+        buckets.setdefault(i["source"], []).append(i)
+    for b in buckets.values():
+        b.sort(key=lambda i: i["_dt"], reverse=True)
+
+    order = sorted(buckets, key=lambda s: buckets[s][0]["_dt"], reverse=True)
+    picked, round_no = [], 0
+    while len(picked) < TOTAL:
+        added = False
+        for s in order:
+            if round_no < len(buckets[s]):
+                picked.append(buckets[s][round_no])
+                added = True
+                if len(picked) >= TOTAL:
+                    break
+        if not added:
+            break
+        round_no += 1
+
+    picked.sort(key=lambda i: i["_dt"], reverse=True)
+    items = picked
 
     missing = [i for i in items if not i["image"]]
     if missing:
