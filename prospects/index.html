@@ -37,6 +37,15 @@
   .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 56px,var(--line) 56px 100%); }
   .brandline { display:flex; align-items:center; justify-content:space-between; gap:12px; }
 
+  .homelink {
+    align-self:flex-start; text-decoration:none; color:var(--ink);
+    font-family:var(--mono); font-size:13px; font-weight:700;
+    letter-spacing:0.21em; text-transform:uppercase;
+    padding:9px 2px 9px 0; margin:-9px 0;
+  }
+  .homelink .dot { color:var(--accent); }
+  .homelink:active { color:var(--accent); }
+
   .refresh {
     -webkit-appearance:none; appearance:none; cursor:pointer;
     background:var(--surface); color:var(--ink-muted); text-decoration:none;
@@ -120,14 +129,8 @@
 <body>
 
 <header class="masthead">
+  <a class="homelink" href="../skynet/" aria-label="Back to Skynet console">Skynet<span class="dot">.</span></a>
   <div class="brandline">
-    <a class="refresh" href="../skynet/" aria-label="Skynet console">
-      <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true">
-        <path d="M4 12h16M4 12l5-5M4 12l5 5" fill="none" stroke="currentColor"
-              stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
-      </svg>
-      <span>Skynet</span>
-    </a>
     <h1>Prospect Districts<span class="dot">.</span></h1>
   </div>
   <div class="rule"></div>
