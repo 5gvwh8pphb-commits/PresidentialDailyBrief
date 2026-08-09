@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-09",
+  "dateLabel": "Sunday, August 9, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-09T09:26:54Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~37h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, August 7, 2026 close — a record finish that capped the S&P 500's best week since mid-April.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,757.64", "change": "+47.68", "changePct": "+0.62%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "54,036.93", "change": "+151.83", "changePct": "+0.28%", "sixMo": "+7.8%" },
+        { "name": "Nasdaq",  "close": "26,690.62", "change": "+342.27", "changePct": "+1.30%", "sixMo": "+16%" }
+      ],
+      "body": "The S&P 500 and Nasdaq closed at record highs after the Labor Department reported the U.S. economy lost 23,000 jobs in July while unemployment held at 4.1%, easing expectations of a near-term Fed rate hike; for the week the S&P gained 3.6%, the Dow 3.0% and the Nasdaq 5.2%, the strongest weekly gains since mid-April.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iranian missile hits UAE tanker in Strait of Hormuz as Gulf shipping war widens",
+      "body": "The UAE said Saturday that a missile struck an ADNOC-linked tanker transiting the Strait of Hormuz, condemning what it called an act of piracy by Iran; ADNOC says 15 of its vessels have now been hit by missiles or drones since the Iran war began, including three in the past week, while Tehran separately tied any reopening of the strait to the US 'correcting its behavior.'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/08/uae-ship-targeted-missile-us-iran-tensions-stay-high.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~11h ago",
+      "empty": false,
+      "headline": "Taiwan tracks fresh PLA aircraft and warships as Han Kuang drills continue",
+      "body": "Taiwan's Ministry of National Defense reported detecting 4 PLA aircraft sorties, 6 PLA Navy vessels and 9 China Coast Guard ships around the island Sunday, with two of the aircraft crossing the median line into Taiwan's air defense identification zone, as the island continues the live-fire phase of its annual Han Kuang exercises simulating a Chinese invasion through August 14.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-4-pla-aircraft-sorties-6-plan-vessels-around-territory20260809070639/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Iraqi militia leader calls diplomacy 'futile,' vows missile response to US-Saudi strikes",
+      "body": "Akram al-Kaabi, leader of the Iran-aligned Harakat Hezbollah al-Nujaba, said Sunday that diplomacy with Saudi Arabia was futile and that 'missiles can only be countered with missiles,' hardening the militia's stance after Iraq's dominant Shiite faction had persuaded fighters to postpone retaliation for the July 28 US-Saudi strikes on Popular Mobilization Forces sites that killed 20.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/middle-east/missiles-can-only-be-countered-with-missiles-iraqi-militia-vows-revenge-over-us-saudi-strikes20260809122641/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Army moves to buy $400M in AeroVironment anti-drone lasers in first deal of its kind",
+      "body": "The US Army will purchase dozens of AeroVironment's Locust laser systems, which use AI to detect and track small and medium drones before a human operator fires a high-energy laser to destroy them, marking the Pentagon's first production-scale contract for a directed-energy counter-drone system beyond prototype testing.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/us-army-to-spend-400-million-on-aerovironment-anti-drone-lasers"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "OpenAI removes chat limits for free ChatGPT users, matching Claude and Gemini",
+      "body": "OpenAI said free and Go-tier ChatGPT users will get unlimited text chats and a new 'Think' button for harder questions on the default GPT-5.6 Luna model, rolling out over the following week; the move brings OpenAI's free tier in line with the unlimited free text chat Claude and Gemini already offer, as the company works to defend its roughly 1-billion-weekly-user base.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears rookie WR Luther Burden III hurt at practice as team reworks secondary",
+      "body": "Luther Burden III left Saturday's training-camp practice early, favoring his left leg after tangling with cornerback Tyrique Stevenson on a one-on-one rep, with no immediate word on severity; the same day Chicago signed defensive backs Brandon Hill and William Wright and waived K.C. Eziomume and Gervarrius Owens with injury designations.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49562628/bears-luther-burden-iii-injured-tangle-stevenson"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's build-up to Sunday's Iowa Corn 350 (his week off, RAPTOR paint scheme and title-hopes commentary) was already reported in prior briefs, and today's qualifying and race-day details fall inside the spoiler window; no other roster, injury or sponsorship news broke.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
