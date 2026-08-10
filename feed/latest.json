@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10T22:04:29+00:00",
+ "generated": "2026-08-10T23:03:17+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": false,
@@ -9,7 +9,6 @@
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
-  "Chattanooga Times Free Press",
   "Defense News",
   "Field Level Media",
   "Fox News",
@@ -17,20 +16,10 @@
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "autohebdof1.com"
+  "autohebdof1.com",
+  "timesfreepress.com"
  ],
  "items": [
-  {
-   "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
-   "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108335936-1784206611053-gettyimages-2286325891-a9t00976_7cmyvuio_doiybs5p.jpeg?v=1784206641&amp;w=1920&amp;h=1080",
-   "age": "5m ago",
-   "published": "2026-08-10T21:59:28+00:00"
-  },
   {
    "title": "Trump Media posts $238 million second-quarter loss as crypto declines",
    "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
@@ -39,8 +28,107 @@
    "topic": "markets",
    "summary": "TMTG said it has signed more than 10 customer agreements for Truth API, the service offering faster access to President Donald Trump's posts.",
    "image": "https://image.cnbcfm.com/api/v1/image/108156451-1749471509977-gettyimages-2219137131-img_5233.jpeg?v=1749471560&amp;w=1920&amp;h=1080",
-   "age": "16m ago",
-   "published": "2026-08-10T21:48:14+00:00"
+   "age": "29m ago",
+   "published": "2026-08-10T22:33:55+00:00"
+  },
+  {
+   "title": "Now Rippling is counter suing tiny startup Runlayer",
+   "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller and buyer-beware market warning.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1384240404.jpg?resize=1200,798",
+   "age": "36m ago",
+   "published": "2026-08-10T22:26:54+00:00"
+  },
+  {
+   "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
+   "url": "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
+   "age": "39m ago",
+   "published": "2026-08-10T22:23:43+00:00"
+  },
+  {
+   "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+   "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
+   "age": "50m ago",
+   "published": "2026-08-10T22:13:03+00:00"
+  },
+  {
+   "title": "AOC tries to laugh off 'crazy' woke era as thing of the past, but conservatives aren't amused",
+   "url": "https://www.foxnews.com/media/aoc-tries-laugh-off-crazy-woke-era-thing-past-conservatives-arent-amused",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Rep. Alexandria Ocasio-Cortez laughed off the Woke 1 era as crazy, but critics say Democrats haven t renounced any of their far-left positions.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/aoc-queens.jpg?ve=1&tl=1",
+   "age": "50m ago",
+   "published": "2026-08-10T22:12:55+00:00"
+  },
+  {
+   "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+   "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108335936-1784206611053-gettyimages-2286325891-a9t00976_7cmyvuio_doiybs5p.jpeg?v=1784206641&amp;w=1920&amp;h=1080",
+   "age": "54m ago",
+   "published": "2026-08-10T22:09:00+00:00"
+  },
+  {
+   "title": "Fauci in the hot seat as GOP senator tears into 'truly sick' vaccine texts: 'Tip of the iceberg'",
+   "url": "https://www.foxnews.com/politics/fauci-hot-seat-gop-senator-tears-truly-sick-vaccine-texts-tip-iceberg",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. Ron Johnson says Anthony Fauci s government phone texts reveal he privately feared mRNA vaccines could cause miscarriages in pregnant women.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/anthony-fauci-senate-hearing-fifth-amendment.jpg?ve=1&tl=1",
+   "age": "55m ago",
+   "published": "2026-08-10T22:08:12+00:00"
+  },
+  {
+   "title": "22-year-old passenger dies after sudden medical emergency strikes aboard Southwest flight to LA",
+   "url": "https://www.foxnews.com/us/22-year-old-passenger-dies-sudden-medical-emergency-southwest-flight-la",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Rain McMillan Walmsey, 22, became unresponsive on Southwest Airlines Flight 958 from Dallas to LAX, and his cause of death remains deferred.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/southwest-airlines-boeing-737-lax-fox-news-001.jpeg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-10T22:03:03+00:00"
+  },
+  {
+   "title": "Fauci texts raising theoretical miscarriage concern after COVID vaccine dose spark backlash",
+   "url": "https://www.foxnews.com/politics/fauci-texts-raising-theoretical-miscarriage-concern-after-covid-vaccine-dose-spark-backlash",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Dr. Anthony Fauci’s private 2021 discussion of a theoretical miscarriage association drew fierce criticism from Republican lawmakers and officials.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/uthmeier_fauci.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-10T22:00:16+00:00"
+  },
+  {
+   "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
+   "url": "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-10T21:42:56+00:00"
   },
   {
    "title": "Agentic AI turning Zero Trust cybersecurity ‘on its head’",
@@ -50,30 +138,8 @@
    "topic": "defense",
    "summary": "A top Intelligence Community official said the government may need to develop digital birth certificates for AI agents.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260810_DoDIIS_cossa_BARRY-scaled-e1786396422106-1024x577.jpg",
-   "age": "24m ago",
+   "age": "1h ago",
    "published": "2026-08-10T21:39:40+00:00"
-  },
-  {
-   "title": "DiJonai Carrington responds to 'White privilege' post, but leaves meaning of it still unclear",
-   "url": "https://www.foxnews.com/outkick-sports/dijonai-carrington-responds-white-privilege-post-leaves-meaning-unclear",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "DiJonai Carrington responded to Emmanuel Acho s critique of her White privilege post after her ejection, but still won t clarify what she meant by those words.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dijonai-carrington-chicago-sky.jpg?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-08-10T21:37:53+00:00"
-  },
-  {
-   "title": "Best Buy has Blink home security cameras for as low as $22",
-   "url": "https://www.foxnews.com/deals/best-buy-blink-deals",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Save up to 45% on select Blink outdoor security cameras, including wired and battery models, at Best Buy.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/summer-sale.jpg?ve=1&tl=1",
-   "age": "28m ago",
-   "published": "2026-08-10T21:35:34+00:00"
   },
   {
    "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
@@ -83,19 +149,19 @@
    "topic": "defense",
    "summary": "DOGE reported $1.76 billion in savings from terminating a contract, but GAO found that the contract was never terminated and no funds were deobligated.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LSSYL5P6JRGILIU6QG22NAMKEE.jpg",
-   "age": "30m ago",
+   "age": "1h ago",
    "published": "2026-08-10T21:33:33+00:00"
   },
   {
-   "title": "What to buy this Labor Day weekend — and what can wait until Black Friday",
-   "url": "https://www.foxnews.com/deals/what-to-buy-labor-day",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Buy grills, mattresses, large appliances and summer clothing during Labor Day sales, and wait on TVs, gaming consoles and holiday decor until Black Friday.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/fox_news_deals_labor_day_what_to_buy_now.png?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-08-10T21:30:51+00:00"
+   "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
+   "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "A reminder of the perils of digital ownership.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-10T21:26:38+00:00"
   },
   {
    "title": "Trump says he spoke recently to Fed Chairman Warsh, denies regular calls",
@@ -105,7 +171,7 @@
    "topic": "markets",
    "summary": "The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independence.",
    "image": "https://image.cnbcfm.com/api/v1/image/108347529-1786391464606-108347529-1786391400825-gettyimages-2277700921-0d6a1940_h7ptqyou.jpg?v=1786396230&amp;w=1920&amp;h=1080",
-   "age": "41m ago",
+   "age": "1h ago",
    "published": "2026-08-10T21:23:04+00:00"
   },
   {
@@ -116,19 +182,8 @@
    "topic": "ai",
    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-542842326.jpg?resize=1200,800",
-   "age": "44m ago",
+   "age": "1h ago",
    "published": "2026-08-10T21:20:04+00:00"
-  },
-  {
-   "title": "Democratic Michigan AG accuses her party of 'absolutely not' doing enough to counter antisemitism",
-   "url": "https://www.foxnews.com/media/democratic-michigan-ag-accuses-her-party-absolutely-not-doing-enough-counter-antisemitism",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Michigan AG Dana Nessel told MS NOW that five Democrats charged with antisemitic acts are still permitted to attend the Michigan Democratic Party convention.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dana-nessel-michigan-ag.jpg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-08-10T21:14:35+00:00"
   },
   {
    "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
@@ -138,7 +193,7 @@
    "topic": "defense",
    "summary": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LKKS5DSYNRC5NC5I5MK6BYZJJU.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T20:54:38+00:00"
   },
   {
@@ -149,7 +204,7 @@
    "topic": "ai",
    "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is bu…",
    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T20:53:02+00:00"
   },
   {
@@ -160,7 +215,7 @@
    "topic": "defense",
    "summary": "The sightings highlight concerns about drone attacks from the sea, especially at a time of extreme hostility between Iran and the U.S. The post Drone Sightings Are Happe…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Diego-Garcia-Drones.jpg?quality=85",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T20:52:29+00:00"
   },
   {
@@ -171,7 +226,7 @@
    "topic": "markets",
    "summary": "The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime vaccine skeptic.",
    "image": "https://image.cnbcfm.com/api/v1/image/108347489-1786388613195-gettyimages-2289371376-AFP_C4CJ7NU.jpeg?v=1786394120&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T20:51:17+00:00"
   },
   {
@@ -193,7 +248,7 @@
    "topic": "defense",
    "summary": "The USS Theodore Roosevelt is now the first Navy carrier to be equipped with an Unmanned Air Warfare Center that will support the unmanned MQ-25A Stingray.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SEQCV64AS5D4DHEMQSGNLJUSM4.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-10T19:39:58+00:00"
   },
   {
@@ -204,7 +259,7 @@
    "topic": "defense",
    "summary": "The dual-hatted Naval Sea Systems Command and Portfolio Acquisition Executive Industrial Operations Vice Adm. Jim Downey retired last week, the Navy announced. Downey, w…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/HPH7x7-XYAEmyDe-scaled.jpeg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-10T19:31:59+00:00"
   },
   {
@@ -215,19 +270,8 @@
    "topic": "defense",
    "summary": "The People’s Liberation Army Ground Force trained last week to use armed drones against unmanned surface vessels, according to state media. A Chinese military media post…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-10-at-12.32.41-PM-scaled.png",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-10T18:59:56+00:00"
-  },
-  {
-   "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
-   "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/07/google-play-store.jpg?resize=1200,800",
-   "age": "3h ago",
-   "published": "2026-08-10T18:31:54+00:00"
   },
   {
    "title": "US Army exploring 50mm cannon to destroy drones",
@@ -237,7 +281,7 @@
    "topic": "defense",
    "summary": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AM3ZXD3RLFF2TDI3YX4ZUIU7NQ.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-10T18:10:52+00:00"
   },
   {
@@ -248,7 +292,7 @@
    "topic": "defense",
    "summary": "A look at what we expect to see at this year s Space and Missile Defense Symposium.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/Golden-Dome-ep-1-Thumb-Trump-PB-1024x576.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-10T18:00:00+00:00"
   },
   {
@@ -259,7 +303,7 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 10, 2026, based on Na…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_10_26.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-10T17:28:48+00:00"
   },
   {
@@ -270,7 +314,7 @@
    "topic": "defense",
    "summary": "A much bigger fleet of smaller turboprop E-130Js is set to replace the smaller fleet of larger E-6B jets, but the Navy has also acknowledged risks. The post Navy ‘Doomsd…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/e-130j-fleet-size-target-nearly-double-e-6b-mercury.jpg?quality=85",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-10T17:25:05+00:00"
   },
   {
@@ -281,19 +325,8 @@
    "topic": "defense",
    "summary": "A recent sequence of undersea-focused defense acquisitions is a welcome pivot to a critical warfighting domain, two CSIS experts argue.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/9674354-scaled-e1785176999204-1024x577.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-10T17:13:00+00:00"
-  },
-  {
-   "title": "Has Ford got cheap car fever? A $25K crossover is supposedly on the way.",
-   "url": "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Ford dealers were told about the new Escape-sized model; one of them spilled the beans.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ford-logo-pcb-style-1152x648.jpg",
-   "age": "4h ago",
-   "published": "2026-08-10T17:07:47+00:00"
   },
   {
    "title": "Epirus secures $11 million Marine Corps contract for HAVOC system",
@@ -303,19 +336,8 @@
    "topic": "defense",
    "summary": "The system will feature a “universal sled mount” to pair it with various manned and unmanned vehicles across the service, Epirus said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/HAVOC-CONOP-scaled-e1786377447384-1024x576.png",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T16:44:01+00:00"
-  },
-  {
-   "title": "Taylor Farms recalls jalapeño products for Salmonella amid Cyclospora outbreak",
-   "url": "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Recall of jalapeño products spans 26 states, major retailers, a variety of foods.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2252731557-1152x648.jpg",
-   "age": "5h ago",
-   "published": "2026-08-10T16:37:08+00:00"
   },
   {
    "title": "Marines Learn to 3D Print Raiding Craft, Attack Drones in the Western Pacific",
@@ -325,7 +347,7 @@
    "topic": "defense",
    "summary": "Marines are learning how to 3D print raiding craft and attack drones while in theater as part of recent exercises in Hawaii, Japan and South Korea. During Exercise Valia…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9821846-scaled.jpg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T16:25:29+00:00"
   },
   {
@@ -336,30 +358,8 @@
    "topic": "defense",
    "summary": "The issue highlights supply-chain risks amid growing concerns over Beijing’s cyber access to Western military capabilities. The post Chinese Components In Royal Navy s N…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/K3-UNDERWAY-USV.jpg?quality=85",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T16:08:57+00:00"
-  },
-  {
-   "title": "Valve slowly expands SteamOS support on non-Valve hardware",
-   "url": "https://arstechnica.com/gaming/2026/08/valve-slowly-expands-steamos-support-on-non-valve-hardware/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "New update includes improvements for the Intel-based MSI Claw 8 EX AI+ among others.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/powered-by-steam-os-1152x648.jpg",
-   "age": "6h ago",
-   "published": "2026-08-10T16:01:04+00:00"
-  },
-  {
-   "title": "Following Epic loss, Google has started hosting rival app stores in the Play Store",
-   "url": "https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Aptoide has become the first app store distributed inside Google Play under a judge's order.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/googleplay.jpeg",
-   "age": "6h ago",
-   "published": "2026-08-10T15:44:45+00:00"
   },
   {
    "title": "Key takeaways about Flock cameras | Crime fighter or surveillance state?",
@@ -369,7 +369,7 @@
    "topic": "local",
    "summary": "Flock license plate cameras are helping police across Northwest Indiana, but the technology is changing the balance between public safety and personal freedom.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/6d/96d50d05-3566-4b6c-8b40-23a9d977c110/6a7778cf24ce2.image.jpg?resize=300%2C225",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-10T13:00:00+00:00"
   },
   {
@@ -380,7 +380,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "22h ago",
+   "age": "23h ago",
    "published": "2026-08-09T23:34:00+00:00"
   },
   {
@@ -441,7 +441,7 @@
   {
    "title": "William Byron hoping for more success at Iowa Speedway",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnVrbEw4eXJRczdQNEhPcGZDRldtck1ockRQZXpVQ2dnbGZuMUUySGR3aG84a3libnFJNV9fSXJ5YUdsTzZ3c21XWjgyVWVTYklDX1NraGFfd2syRlNvYVlQb0ZqZ0lpTHFHWWVPbmotOWJUS1pCZ09TQU13ZFpRQTRIRFBmX04ydlpjWXNua2lZcktxb2hibWVn?oc=5",
-   "source": "Chattanooga Times Free Press",
+   "source": "timesfreepress.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
