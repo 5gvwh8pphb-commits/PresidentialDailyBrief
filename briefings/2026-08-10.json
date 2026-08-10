@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-10",
+  "dateLabel": "Monday, August 10, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-10T10:01:51Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~61h ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Week ending Friday, August 7, 2026 close — the S&P 500's best week since mid-April, capped by a surprise July jobs report.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,757.64", "change": "+3.6%", "heroLabel": "week", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "54,036.93", "change": "+3.0%", "heroLabel": "week", "sixMo": "+7.8%" },
+        { "name": "Nasdaq",  "close": "26,690.62", "change": "+5.2%", "heroLabel": "week", "sixMo": "+16%" }
+      ],
+      "body": "The S&P 500 and Nasdaq closed at record highs Friday after the Labor Department reported the economy lost 23,000 jobs in July while unemployment held at 4.1%, easing expectations of a near-term Fed rate hike; all three indexes finished with their strongest weekly gains since mid-April.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-7-nasdaq-dow-sp-500-july-jobs-report-surprises-100009572.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Netanyahu rejects Trump's Gaza peace plan, demands Hamas disarm before Israeli pullback",
+      "body": "Israeli Prime Minister Benjamin Netanyahu said Sunday that Israeli forces will not withdraw from Gaza until Hamas is 'genuinely disarmed,' pushing back on the phased sequencing in Trump's 15-point peace plan just over a week after the president's Board of Peace announced a deal with Hamas; the rebuff comes less than three months before Israel's October 27 election.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/09/nx-s1-5926459/netanyahu-rejects-trump-gaza-peace-plan-israel-hamas"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~3h ago",
+      "empty": false,
+      "headline": "Taiwan tracks lone PLA aircraft, nine PLAN vessels as Han Kuang drills continue",
+      "body": "Taiwan's Ministry of National Defense said it detected one PLA aircraft sortie, nine PLA Navy vessels and 11 China Coast Guard ships around the island in the 24 hours to 6 a.m. Monday, with the aircraft crossing into Taiwan's southwestern air defense identification zone, as the island's annual Han Kuang exercises simulating a Chinese invasion continue through August 14.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/middle-east/taiwan-detects-1-chinese-aircraft-9-naval-vessels-11-official-ships-around-its-territory20260810065249/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon gives defense firms 21 days to submit plans for faster weapons production",
+      "body": "Deputy Defense Secretary Steve Feinberg told defense-industry leaders in a memo that 'years-long development cycles are not acceptable,' giving them three weeks to submit plans for dramatically faster delivery and expanded production of critical munitions after the Iran war has depleted US interceptor stockpiles, including a reported 65% drop in Patriot inventories.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/09/pentagon-defense-contractors-weapons-production.html"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The Army's AeroVironment anti-drone laser deal and the Space Force's aircraft-tracking satellite contracts already ran in recent briefs, and no other reputable, distinct military-technology development surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic to make Claude Code's autonomous 'auto mode' the default Aug. 14",
+      "body": "Starting August 14, Claude Code will default to auto mode for Pro, Max and Team accounts, letting it proceed through most actions without step-by-step approval unless a step is judged irreversible, destructive or aimed outside the user's environment; Anthropic said internal testing found this approach caught 89% of harmful actions versus 13.6% for manual human review, and it is adding prompt-injection screening and customizable hard-deny rules alongside the change.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears sign DB Beanie Bishop Jr., waive long snapper Luke Elkin",
+      "body": "Chicago signed defensive back Beanie Bishop Jr., the fourth DB added in the past week as the Bears rebuild a secondary thinned by injuries to Coby Bryant, Dallis Flowers and Gervarrius Owens, and waived long snapper Luke Elkin, handing that role to Beau Gardner; Bishop had four interceptions in six starts for Pittsburgh in 2024 but will open 2026 suspended three games under the NFL's substance-abuse policy.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-august-9-2026"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron raced in Sunday's Iowa Corn 350, which falls inside the spoiler window, and the remaining coverage only repeats build-up already reported in prior briefs; no new roster, injury, schedule or sponsorship news broke.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
