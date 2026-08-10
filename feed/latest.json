@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-10T11:43:17+00:00",
+ "generated": "2026-08-10T12:42:37+00:00",
  "count": 40,
- "withImage": 34,
+ "withImage": 35,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -13,7 +13,6 @@
   "Defense News",
   "Field Level Media",
   "Fox News",
-  "NASCAR.com",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -21,15 +20,114 @@
  ],
  "items": [
   {
-   "title": "Australian rare earth miner surges after U.S. Department of Defense investment",
-   "url": "https://www.cnbc.com/2026/08/10/rare-earths-sunrise-energy-metals-trump-cina.html",
+   "title": "Meta to open source its most powerful AI model as it takes swipe at OpenAI, Anthropic",
+   "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The Trump administration has backed plans to build an Australian scandium mine as part of a push to challenge China’s critical minerals dominance.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347104-1786340855855-gettyimages-2059263918-AUSTRALIA_LITHIUM.jpeg?v=1786340889&amp;w=1920&amp;h=1080",
-   "age": "11m ago",
-   "published": "2026-08-10T11:32:15+00:00"
+   "summary": "Meta launched Muse Glimmer and plans to release Muse Spark 1.2 weights as Zuckerberg pushes for U.S. leadership in open AI.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108201478-17583103972025-09-18t012329z_339798057_rc21ugat6ure_rtrmadp_0_meta-platforms-virtual-reality.jpeg?v=1758310428&amp;w=1920&amp;h=1080",
+   "age": "2m ago",
+   "published": "2026-08-10T12:40:36+00:00"
+  },
+  {
+   "title": "If software and agentic AI are key to mission success, accelerate them to the front lines",
+   "url": "https://breakingdefense.com/2026/08/if-software-and-agentic-ai-are-key-to-mission-success-accelerate-them-to-the-front-lines/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] A commercial prototype in a sandbox is different from deploying AI across classified networks.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Future-Fight-2-1024x731.jpg",
+   "age": "13m ago",
+   "published": "2026-08-10T12:29:00+00:00"
+  },
+  {
+   "title": "AEW star shows nasty cut on head, says he'll be out of action for 'a few days or weeks'",
+   "url": "https://www.foxnews.com/sports/aew-star-shows-nasty-cut-head-says-hell-out-action-few-days-weeks",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "MJF ambushed Andrade El Idolo at AEW Grand Slam Mexico, leaving him bloodied after the Casino Gauntlet qualifier for an All In world title shot.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/andrade-el-idolo-new-japan-pro-wrestling-tokyo.jpg?ve=1&tl=1",
+   "age": "16m ago",
+   "published": "2026-08-10T12:26:28+00:00"
+  },
+  {
+   "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
+   "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108347145-1786354053610-gettyimages-2288486994-AA_06082026_2906904.jpeg?v=1786354087&amp;w=1920&amp;h=1080",
+   "age": "22m ago",
+   "published": "2026-08-10T12:19:47+00:00"
+  },
+  {
+   "title": "Hailey Bieber shows off toned figure in tiny yellow bikini while sharing summer snaps",
+   "url": "https://www.foxnews.com/entertainment/hailey-bieber-shows-toned-figure-tiny-yellow-bikini-sharing-summer-snaps",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Hailey Bieber shared a yellow string bikini selfie on Instagram as part of her summer photo carousel. The Rhode founder also showed off her beauty routine with Rhode eye…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/hailey-bieber-gala.jpg?ve=1&tl=1",
+   "age": "34m ago",
+   "published": "2026-08-10T12:08:14+00:00"
+  },
+  {
+   "title": "Boeing sells eVTOL subsidiaries, takes stake in Archer",
+   "url": "https://www.cnbc.com/2026/08/10/boeing-evtol-archer-stake.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Boeing is selling three of its subsidiaries to Archer Aviation in exchange for an undisclosed stake in the eVTOL startup.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108344107-1785787494699-gettyimages-2288932673-_24a4782_jhus5f2u.jpeg?v=1786118372&amp;w=1920&amp;h=1080",
+   "age": "39m ago",
+   "published": "2026-08-10T12:03:25+00:00"
+  },
+  {
+   "title": "Archaeologists unearth secret church tied to Council of Nicaea, Christianity's defining moment",
+   "url": "https://www.foxnews.com/travel/archaeologists-unearth-secret-church-tied-council-nicaea-christianitys-defining-moment",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Archaeologists in İznik, Turkey, uncovered a smaller church beneath the Church of the Holy Fathers that may have hosted the First Council of Nicaea.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/TURKEY-COUNCIL-OF-NICAEA-CHRISTIANITY-CHURCH-ANCIENT-DISCOVERY-HISTORY-ARCHAEOLOGY-1.jpg?ve=1&tl=1",
+   "age": "41m ago",
+   "published": "2026-08-10T12:00:51+00:00"
+  },
+  {
+   "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+   "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+   "age": "42m ago",
+   "published": "2026-08-10T12:00:00+00:00"
+  },
+  {
+   "title": "Google Play adds Venmo as a payment option",
+   "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
+   "age": "42m ago",
+   "published": "2026-08-10T12:00:00+00:00"
+  },
+  {
+   "title": "Dem rep, in first video since hit-and-run crash, opens up about wreck",
+   "url": "https://www.foxnews.com/politics/dem-rep-first-video-since-hit-and-run-crash-opens-wreck",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Rep. Marcy Kaptur shared a video update from her wheelchair thanking first responders and thousands of well-wishers after a Toledo hit-skip crash.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/marcy-kaptur-press-conference-capitol-hill.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-10T11:41:40+00:00"
   },
   {
    "title": "Great-grandson of slaves has warning about Smithsonian’s anti-American ‘indoctrination’ and more top headlines",
@@ -39,19 +137,8 @@
    "topic": "world",
    "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/usa-trump-smithsonian2.jpg?ve=1&tl=1",
-   "age": "15m ago",
+   "age": "1h ago",
    "published": "2026-08-10T11:27:34+00:00"
-  },
-  {
-   "title": "Trouble sleeping? Your neighborhood could be partly to blame, experts say",
-   "url": "https://www.foxnews.com/health/trouble-sleeping-neighborhood-partly-blame-experts-say",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A study of 200,000 Google Street View images reveals how neighborhood greenery, safety and enclosure levels may influence sleep duration and insomnia.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/woman-cant-sleep-at-window.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-08-10T11:00:59+00:00"
   },
   {
    "title": "Peer review is overwhelmed—can it survive in the AI era?",
@@ -61,41 +148,8 @@
    "topic": "ai",
    "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg",
-   "age": "42m ago",
+   "age": "1h ago",
    "published": "2026-08-10T11:00:47+00:00"
-  },
-  {
-   "title": "We grew up before screens took over. Our kids deserve that chance too",
-   "url": "https://www.foxnews.com/opinion/grew-up-before-screens-took-over-kids-deserve-that-chance-too",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A millennial mother reflects on how excessive screen time steals childhood experiences, urging parents to prioritize presence over digital validation.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/12/1200/675/Kids-playing-outside-a-school4.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-08-10T11:00:44+00:00"
-  },
-  {
-   "title": "Subpoenaed pro-China outlet defends itself on Democracy Now!, which paid Singham-founded company millions",
-   "url": "https://www.foxnews.com/politics/subpoenaed-pro-china-outlet-defends-itself-democracy-now-paid-singham-founded-company-millions",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "BreakThrough News used Democracy Now! to fight its congressional subpoena, but IRS filings reveal Democracy Now! paid $2.5 million to Singham s firm.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Amy-Goodman-Democracy-Now-30th-anniversary.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-08-10T11:00:38+00:00"
-  },
-  {
-   "title": "OnlyFans model Courtney Clenney settled civil suit before reaching plea deal in boyfriend's killing",
-   "url": "https://www.foxnews.com/us/onlyfans-model-courtney-clenney-settled-civil-suit-before-reaching-plea-deal-boyfriends-killing",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Courtney Clenney settled civil claims from Christian Obumseli s family months before her murder case plea deal, with the broader lawsuit closing days prior.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/Courtney-Clenney-onlyfans.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-08-10T11:00:27+00:00"
   },
   {
    "title": "Shein faces existential threat as tariffs hit low-price model, putting new focus on services",
@@ -105,7 +159,7 @@
    "topic": "markets",
    "summary": "Shein has won over consumers with its low prices but is now seeing shoppers flee after new tariffs and changing regulations forced it to raise prices.",
    "image": "https://image.cnbcfm.com/api/v1/image/108151825-1748520497709-gettyimages-2213242625-20250504_shein_ad_006.jpeg?v=1786138918&amp;w=1920&amp;h=1080",
-   "age": "43m ago",
+   "age": "1h ago",
    "published": "2026-08-10T11:00:01+00:00"
   },
   {
@@ -116,30 +170,8 @@
    "topic": "markets",
    "summary": "Nearly two-thirds of Trump’s foreign licensing fees came from two Gulf developers, in the UAE and Qatar, including one pursuing a $20 billion U.S. expansion.",
    "image": "https://image.cnbcfm.com/api/v1/image/108294566-1776777455542-gettyimages-2215276231-wmr55717_mx1uokut.jpeg?v=1786129621&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-10T10:30:01+00:00"
-  },
-  {
-   "title": "World's biggest chipmaker TSMC's sales surge 45% amid buoyant AI demand",
-   "url": "https://www.cnbc.com/2026/08/10/tsmc-revenue-surge-ai-chip-big-tech.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "TSMC makes chips for Big Tech customers like Nvidia and Google, so the firm's financial figures are closely watched as a sign of AI semiconductor demand.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108292490-1776347906856-gettyimages-2253792580-US_STOCKS.jpeg?v=1777030120&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-10T10:29:27+00:00"
-  },
-  {
-   "title": "Trump signals shift to economic pressure as Iran hardens stance over Strait of Hormuz",
-   "url": "https://www.cnbc.com/2026/08/10/us-iran-war-trump-hormuz-oman-ships-blockade-shipping.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The escalating tally underscores how far the two sides remain from resolving a crisis that has choked the Strait of Hormuz for more than five months.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347145-1786354053610-gettyimages-2288486994-AA_06082026_2906904.jpeg?v=1786354087&amp;w=1920&amp;h=1080",
    "age": "2h ago",
-   "published": "2026-08-10T09:33:31+00:00"
+   "published": "2026-08-10T10:30:01+00:00"
   },
   {
    "title": "William Byron handed brutal reality check by NASCAR analysts",
@@ -149,7 +181,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-09T23:34:00+00:00"
   },
   {
@@ -160,7 +192,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-09T21:58:54+00:00"
   },
   {
@@ -171,7 +203,7 @@
    "topic": "ai",
    "summary": "The AI-focused hedge fund is still making some big bets.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-09T20:35:17+00:00"
   },
   {
@@ -182,7 +214,7 @@
    "topic": "ai",
    "summary": "Programming with Claude Code will soon require even less human oversight.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-09T19:20:32+00:00"
   },
   {
@@ -193,7 +225,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas.jpg?resize=1200,676",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-09T16:05:00+00:00"
   },
   {
@@ -204,19 +236,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "20h ago",
+   "age": "21h ago",
    "published": "2026-08-09T15:00:56+00:00"
-  },
-  {
-   "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-   "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
-   "age": "20h ago",
-   "published": "2026-08-09T15:00:00+00:00"
   },
   {
    "title": "The Last Days Of The A-10 Warthog Weapons School",
@@ -226,7 +247,7 @@
    "topic": "defense",
    "summary": "The Weapons Instructor Course has been the center of excellence for the A-10 and its missions for nearly 50 years, but that's about to end. The post The Last Days Of The…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/A10-retirement.jpg?quality=85",
-   "age": "22h ago",
+   "age": "23h ago",
    "published": "2026-08-09T13:01:00+00:00"
   },
   {
@@ -305,17 +326,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/8915344.jpg?quality=85",
    "age": "2d ago",
    "published": "2026-08-07T22:00:00+00:00"
-  },
-  {
-   "title": "Europe's free satellite service just made it easier to track wildfires",
-   "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-08-03-00_00_2026-08-03-23_59_Sentinel-2_L2A_Wildfires-1-1152x648.jpg",
-   "age": "2d ago",
-   "published": "2026-08-07T21:48:21+00:00"
   },
   {
    "title": "The state of DoD Zero Trust: Progress toward target level",
@@ -415,17 +425,6 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/R2OA2WARYREKVBWZMAL7Z2QDME.JPG",
    "age": "2d ago",
    "published": "2026-08-07T14:10:14+00:00"
-  },
-  {
-   "title": "Fantasy Fastlane: Team Penske, William Byron primed to rule Iowa",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcG42SFg3c29zTXRtRjdCamIwV2pZMC12TnZ6QlgwNEhHRHZMUHh6Wlc4VXZ5UVkxekNLVVNrUTVPb3p1QURFOEptQUQteWpxRDhLQU9FZGpqV2JndVZKWW5CZWlPRzJ4RWhRdEY5Nm9sZUgxd0NhY3BiS2g2b0Q3b0RacFZoZzVVOWRTbEp1S1Rvb0lEVHdsYlUtb2VHOC1iQnhNUjA3ZU55Sk1V0gGyAUFVX3lxTE1pdnFmc3BKRmpPRUxNZG8zQUg4OXR4V1RqSGtLazZuVDJiaHRqZTk2TEliUzZXZmg0RXh0dGdDaUpiSWV3QlRwUXcxRy1KeUlGSUtmRk85WWhrUkJXTnBNOVRsWG5PTW1qdmdMM0Z0bXU3MDVKdy1WTlFoYm9uN09PMi1fU3FzUm5idjZsQ1dLZENNUVluUVFtM0Z2Y2hpRVhHOWQwQ1hWN3VZNnJwNm5GelE?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-08-07T13:12:10+00:00"
   },
   {
    "title": "U.S. Navy Eyes Advanced Payload Launcher for Future Attack Boats",
