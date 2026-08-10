@@ -1,45 +1,133 @@
 {
- "generated": "2026-08-10T23:03:17+00:00",
+ "generated": "2026-08-10T23:57:13+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
-  "AOL.com",
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
+  "Chattanooga Times Free Press",
   "Defense News",
   "Field Level Media",
   "Fox News",
+  "NASCAR.com",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "autohebdof1.com",
-  "timesfreepress.com"
+  "autohebdof1.com"
  ],
  "items": [
   {
-   "title": "Trump Media posts $238 million second-quarter loss as crypto declines",
-   "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
+   "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+   "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+   "age": "just now",
+   "published": "2026-08-10T23:56:15+00:00"
+  },
+  {
+   "title": "Jessica Alba rocks animal-print bikini as she shares glimpse into summer with Danny Ramirez",
+   "url": "https://www.foxnews.com/entertainment/jessica-alba-rocks-animal-print-bikini-she-shares-glimpse-summer-danny-ramirez",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jessica Alba s August Instagram carousel showcases a tiger-print bikini selfie, golf outings, family beach time, and moments with Danny Ramirez.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/jessica-alba-vanity-fair-oscar-party.jpg?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-08-10T23:43:04+00:00"
+  },
+  {
+   "title": "Hanwha Defense USA seeks to acquire Austal USA in $1.2B potential deal",
+   "url": "https://breakingdefense.com/2026/08/hanwha-defense-usa-seeks-to-acquire-austal-usa/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Hanwha has previously sought to acquire Austal in 2024.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2021/10/210827CommercialShipexitingAWCdrydockreduced-scaled-e1633439903641-1024x576.jpg",
+   "age": "18m ago",
+   "published": "2026-08-10T23:38:40+00:00"
+  },
+  {
+   "title": "'Pod Save America' accused of temporarily deleting clip critical of Piker after ex-Biden staffer amplified it",
+   "url": "https://www.foxnews.com/media/pod-save-america-accused-temporarily-deleting-clip-critical-piker-after-ex-biden-staffer-amplified",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Michael LaRosa says Crooked Media s Pod Save America deleted a clip of Chris Hayes criticizing Hasan Piker s ties to Abdul El-Sayed from their X page.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/HASAN-PIKER-GRAHAM.jpg?ve=1&tl=1",
+   "age": "20m ago",
+   "published": "2026-08-10T23:36:24+00:00"
+  },
+  {
+   "title": "Jeff Bezos might finally get his hands on a sports team",
+   "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2281425916.jpg?w=1024",
+   "age": "40m ago",
+   "published": "2026-08-10T23:16:44+00:00"
+  },
+  {
+   "title": "Michigan Dem Senate nominee comes under fire over resurfaced blog post linking football to 'toxic masculinity'",
+   "url": "https://www.foxnews.com/outkick-sports/michigan-dem-senate-nominee-fire-resurfaced-blog-post-linking-football-toxic-masculinity",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Michigan s Democratic Senate nominee Abdul El-Sayed faces backlash over a resurfaced blog post linking toxic masculinity to football culture.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-bernie-sanders-detroit-michigan.jpg?ve=1&tl=1",
+   "age": "42m ago",
+   "published": "2026-08-10T23:14:51+00:00"
+  },
+  {
+   "title": "Navy Is Getting A Unique Virginia Class Seabed Espionage Submarine",
+   "url": "https://www.twz.com/sea/navy-is-getting-a-unique-virginia-class-seabed-espionage-submarine",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "One Block V Virginia class submarine will be unlike any other, capable of highly specialized intelligence and sabotage missions on the seafloor. The post Navy Is Getting…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/virginia_class_seabed_warfare_1920x1080_1-copy.jpg?quality=85",
+   "age": "44m ago",
+   "published": "2026-08-10T23:12:30+00:00"
+  },
+  {
+   "title": "Iran installs new war chiefs as Tehran signals ‘prolonged confrontation,’ expert warns",
+   "url": "https://www.foxnews.com/world/iran-installs-new-war-chiefs-tehran-signals-prolonged-confrontation-expert-warns",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Iranian Supreme Leader Mojtaba Khamenei named six military commanders as an expert says Tehran is preparing for prolonged confrontation, not settlement.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/mohamad-vahidi-iran-irgc.jpg?ve=1&tl=1",
+   "age": "48m ago",
+   "published": "2026-08-10T23:08:50+00:00"
+  },
+  {
+   "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
+   "url": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "TMTG said it has signed more than 10 customer agreements for Truth API, the service offering faster access to President Donald Trump's posts.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108156451-1749471509977-gettyimages-2219137131-img_5233.jpeg?v=1749471560&amp;w=1920&amp;h=1080",
-   "age": "29m ago",
-   "published": "2026-08-10T22:33:55+00:00"
+   "summary": "More American movie stars have appeared in China this year, reflecting Hollywood's market interests amid political tensions.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108347061-1786323135603-gettyimages-2288826200-vcg111657834890.jpeg?v=1786323309&amp;w=1920&amp;h=1080",
+   "age": "56m ago",
+   "published": "2026-08-10T23:00:14+00:00"
   },
   {
-   "title": "Now Rippling is counter suing tiny startup Runlayer",
+   "title": "Now Rippling is counter-suing tiny startup Runlayer",
    "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller and buyer-beware market warning.",
+   "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1384240404.jpg?resize=1200,798",
-   "age": "36m ago",
+   "age": "1h ago",
    "published": "2026-08-10T22:26:54+00:00"
   },
   {
@@ -50,7 +138,7 @@
    "topic": "ai",
    "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
-   "age": "39m ago",
+   "age": "1h ago",
    "published": "2026-08-10T22:23:43+00:00"
   },
   {
@@ -61,19 +149,8 @@
    "topic": "ai",
    "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
-   "age": "50m ago",
+   "age": "1h ago",
    "published": "2026-08-10T22:13:03+00:00"
-  },
-  {
-   "title": "AOC tries to laugh off 'crazy' woke era as thing of the past, but conservatives aren't amused",
-   "url": "https://www.foxnews.com/media/aoc-tries-laugh-off-crazy-woke-era-thing-past-conservatives-arent-amused",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Rep. Alexandria Ocasio-Cortez laughed off the Woke 1 era as crazy, but critics say Democrats haven t renounced any of their far-left positions.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/aoc-queens.jpg?ve=1&tl=1",
-   "age": "50m ago",
-   "published": "2026-08-10T22:12:55+00:00"
   },
   {
    "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
@@ -83,41 +160,8 @@
    "topic": "markets",
    "summary": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
    "image": "https://image.cnbcfm.com/api/v1/image/108335936-1784206611053-gettyimages-2286325891-a9t00976_7cmyvuio_doiybs5p.jpeg?v=1784206641&amp;w=1920&amp;h=1080",
-   "age": "54m ago",
+   "age": "1h ago",
    "published": "2026-08-10T22:09:00+00:00"
-  },
-  {
-   "title": "Fauci in the hot seat as GOP senator tears into 'truly sick' vaccine texts: 'Tip of the iceberg'",
-   "url": "https://www.foxnews.com/politics/fauci-hot-seat-gop-senator-tears-truly-sick-vaccine-texts-tip-iceberg",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sen. Ron Johnson says Anthony Fauci s government phone texts reveal he privately feared mRNA vaccines could cause miscarriages in pregnant women.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/anthony-fauci-senate-hearing-fifth-amendment.jpg?ve=1&tl=1",
-   "age": "55m ago",
-   "published": "2026-08-10T22:08:12+00:00"
-  },
-  {
-   "title": "22-year-old passenger dies after sudden medical emergency strikes aboard Southwest flight to LA",
-   "url": "https://www.foxnews.com/us/22-year-old-passenger-dies-sudden-medical-emergency-southwest-flight-la",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Rain McMillan Walmsey, 22, became unresponsive on Southwest Airlines Flight 958 from Dallas to LAX, and his cause of death remains deferred.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/southwest-airlines-boeing-737-lax-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-10T22:03:03+00:00"
-  },
-  {
-   "title": "Fauci texts raising theoretical miscarriage concern after COVID vaccine dose spark backlash",
-   "url": "https://www.foxnews.com/politics/fauci-texts-raising-theoretical-miscarriage-concern-after-covid-vaccine-dose-spark-backlash",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dr. Anthony Fauci’s private 2021 discussion of a theoretical miscarriage association drew fierce criticism from Republican lawmakers and officials.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/uthmeier_fauci.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-10T22:00:16+00:00"
   },
   {
    "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
@@ -127,7 +171,7 @@
    "topic": "ai",
    "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T21:42:56+00:00"
   },
   {
@@ -138,7 +182,7 @@
    "topic": "defense",
    "summary": "A top Intelligence Community official said the government may need to develop digital birth certificates for AI agents.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260810_DoDIIS_cossa_BARRY-scaled-e1786396422106-1024x577.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T21:39:40+00:00"
   },
   {
@@ -149,7 +193,7 @@
    "topic": "defense",
    "summary": "DOGE reported $1.76 billion in savings from terminating a contract, but GAO found that the contract was never terminated and no funds were deobligated.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LSSYL5P6JRGILIU6QG22NAMKEE.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T21:33:33+00:00"
   },
   {
@@ -160,7 +204,7 @@
    "topic": "ai",
    "summary": "A reminder of the perils of digital ownership.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T21:26:38+00:00"
   },
   {
@@ -171,7 +215,7 @@
    "topic": "markets",
    "summary": "The president said he had recently been in touch with the Fed chairman, but denied regular contact amid concerns about central bank independence.",
    "image": "https://image.cnbcfm.com/api/v1/image/108347529-1786391464606-108347529-1786391400825-gettyimages-2277700921-0d6a1940_h7ptqyou.jpg?v=1786396230&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T21:23:04+00:00"
   },
   {
@@ -182,7 +226,7 @@
    "topic": "ai",
    "summary": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-542842326.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-10T21:20:04+00:00"
   },
   {
@@ -193,19 +237,8 @@
    "topic": "defense",
    "summary": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LKKS5DSYNRC5NC5I5MK6BYZJJU.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-10T20:54:38+00:00"
-  },
-  {
-   "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
-   "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is bu…",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
-   "age": "2h ago",
-   "published": "2026-08-10T20:53:02+00:00"
   },
   {
    "title": "Drone Sightings Are Happening At Diego Garcia, America’s Remote Strategic Island Outpost",
@@ -215,7 +248,7 @@
    "topic": "defense",
    "summary": "The sightings highlight concerns about drone attacks from the sea, especially at a time of extreme hostility between Iran and the U.S. The post Drone Sightings Are Happe…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Diego-Garcia-Drones.jpg?quality=85",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-10T20:52:29+00:00"
   },
   {
@@ -226,19 +259,8 @@
    "topic": "markets",
    "summary": "The order builds on the Trump administration's efforts to reshape the childhood shot schedule under HHS Secretary RFK Jr., a longtime vaccine skeptic.",
    "image": "https://image.cnbcfm.com/api/v1/image/108347489-1786388613195-gettyimages-2289371376-AFP_C4CJ7NU.jpeg?v=1786394120&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-10T20:51:17+00:00"
-  },
-  {
-   "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-   "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600",
-   "age": "2h ago",
-   "published": "2026-08-10T20:04:24+00:00"
   },
   {
    "title": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
@@ -248,7 +270,7 @@
    "topic": "defense",
    "summary": "The USS Theodore Roosevelt is now the first Navy carrier to be equipped with an Unmanned Air Warfare Center that will support the unmanned MQ-25A Stingray.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SEQCV64AS5D4DHEMQSGNLJUSM4.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-10T19:39:58+00:00"
   },
   {
@@ -259,7 +281,7 @@
    "topic": "defense",
    "summary": "The dual-hatted Naval Sea Systems Command and Portfolio Acquisition Executive Industrial Operations Vice Adm. Jim Downey retired last week, the Navy announced. Downey, w…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/HPH7x7-XYAEmyDe-scaled.jpeg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-10T19:31:59+00:00"
   },
   {
@@ -281,7 +303,7 @@
    "topic": "defense",
    "summary": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AM3ZXD3RLFF2TDI3YX4ZUIU7NQ.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-10T18:10:52+00:00"
   },
   {
@@ -303,7 +325,7 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 10, 2026, based on Na…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_10_26.jpg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T17:28:48+00:00"
   },
   {
@@ -314,7 +336,7 @@
    "topic": "defense",
    "summary": "A much bigger fleet of smaller turboprop E-130Js is set to replace the smaller fleet of larger E-6B jets, but the Navy has also acknowledged risks. The post Navy ‘Doomsd…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/e-130j-fleet-size-target-nearly-double-e-6b-mercury.jpg?quality=85",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T17:25:05+00:00"
   },
   {
@@ -325,19 +347,8 @@
    "topic": "defense",
    "summary": "A recent sequence of undersea-focused defense acquisitions is a welcome pivot to a critical warfighting domain, two CSIS experts argue.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/9674354-scaled-e1785176999204-1024x577.jpg",
-   "age": "5h ago",
-   "published": "2026-08-10T17:13:00+00:00"
-  },
-  {
-   "title": "Epirus secures $11 million Marine Corps contract for HAVOC system",
-   "url": "https://breakingdefense.com/2026/08/epirus-secures-11-million-marine-corps-contract-for-havoc-system/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The system will feature a “universal sled mount” to pair it with various manned and unmanned vehicles across the service, Epirus said.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/HAVOC-CONOP-scaled-e1786377447384-1024x576.png",
    "age": "6h ago",
-   "published": "2026-08-10T16:44:01+00:00"
+   "published": "2026-08-10T17:13:00+00:00"
   },
   {
    "title": "Marines Learn to 3D Print Raiding Craft, Attack Drones in the Western Pacific",
@@ -347,7 +358,7 @@
    "topic": "defense",
    "summary": "Marines are learning how to 3D print raiding craft and attack drones while in theater as part of recent exercises in Hawaii, Japan and South Korea. During Exercise Valia…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9821846-scaled.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-10T16:25:29+00:00"
   },
   {
@@ -358,7 +369,7 @@
    "topic": "defense",
    "summary": "The issue highlights supply-chain risks amid growing concerns over Beijing’s cyber access to Western military capabilities. The post Chinese Components In Royal Navy s N…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/K3-UNDERWAY-USV.jpg?quality=85",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-10T16:08:57+00:00"
   },
   {
@@ -371,17 +382,6 @@
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/6d/96d50d05-3566-4b6c-8b40-23a9d977c110/6a7778cf24ce2.image.jpg?resize=300%2C225",
    "age": "10h ago",
    "published": "2026-08-10T13:00:00+00:00"
-  },
-  {
-   "title": "William Byron handed brutal reality check by NASCAR analysts",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObFpyRzVSRGdCZkdEZFB0Wk5fOG5ZWVplZ3Z0RV9CRnRyaGk3TTZhazJaZnhtM3BySUotbE1udjE4cXJtb0dnTDMyNVZUNHhnWDNST3prTXFiX0FValhTd3VlY1pubTZFQjJuR2N2WDhsbWtEbzhjOUR3X3VPdmVtZlpDM2NfUQ?oc=5",
-   "source": "AOL.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "23h ago",
-   "published": "2026-08-09T23:34:00+00:00"
   },
   {
    "title": "William Byron looks to defend title at Iowa Corn 350",
@@ -404,17 +404,6 @@
    "image": null,
    "age": "1d ago",
    "published": "2026-08-09T15:00:56+00:00"
-  },
-  {
-   "title": "The Last Days Of The A-10 Warthog Weapons School",
-   "url": "https://www.twz.com/air/the-last-days-of-the-a-10-warthog-weapons-school",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Weapons Instructor Course has been the center of excellence for the A-10 and its missions for nearly 50 years, but that's about to end. The post The Last Days Of The…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/A10-retirement.jpg?quality=85",
-   "age": "1d ago",
-   "published": "2026-08-09T13:01:00+00:00"
   },
   {
    "title": "Big Brother is watching | Are Hoosiers ready to draw the line? Davich",
@@ -441,7 +430,7 @@
   {
    "title": "William Byron hoping for more success at Iowa Speedway",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnVrbEw4eXJRczdQNEhPcGZDRldtck1ockRQZXpVQ2dnbGZuMUUySGR3aG84a3libnFJNV9fSXJ5YUdsTzZ3c21XWjgyVWVTYklDX1NraGFfd2syRlNvYVlQb0ZqZ0lpTHFHWWVPbmotOWJUS1pCZ09TQU13ZFpRQTRIRFBmX04ydlpjWXNua2lZcktxb2hibWVn?oc=5",
-   "source": "timesfreepress.com",
+   "source": "Chattanooga Times Free Press",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -459,6 +448,17 @@
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/08/90899350-d463-5a04-bb68-93986c4ac316/560583b383b2c.image.jpg?resize=300%2C200",
    "age": "2d ago",
    "published": "2026-08-08T13:00:00+00:00"
+  },
+  {
+   "title": "Fantasy Fastlane: Team Penske, William Byron primed to rule Iowa",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcG42SFg3c29zTXRtRjdCamIwV2pZMC12TnZ6QlgwNEhHRHZMUHh6Wlc4VXZ5UVkxekNLVVNrUTVPb3p1QURFOEptQUQteWpxRDhLQU9FZGpqV2JndVZKWW5CZWlPRzJ4RWhRdEY5Nm9sZUgxd0NhY3BiS2g2b0Q3b0RacFZoZzVVOWRTbEp1S1Rvb0lEVHdsYlUtb2VHOC1iQnhNUjA3ZU55Sk1V0gGyAUFVX3lxTE1pdnFmc3BKRmpPRUxNZG8zQUg4OXR4V1RqSGtLazZuVDJiaHRqZTk2TEliUzZXZmg0RXh0dGdDaUpiSWV3QlRwUXcxRy1KeUlGSUtmRk85WWhrUkJXTnBNOVRsWG5PTW1qdmdMM0Z0bXU3MDVKdy1WTlFoYm9uN09PMi1fU3FzUm5idjZsQ1dLZENNUVluUVFtM0Z2Y2hpRVhHOWQwQ1hWN3VZNnJwNm5GelE?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-07T13:12:10+00:00"
   }
  ]
 }
