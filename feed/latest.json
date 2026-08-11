@@ -1,25 +1,49 @@
 {
- "generated": "2026-08-11T04:46:40+00:00",
+ "generated": "2026-08-11T05:46:33+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": false,
+ "withImage": 38,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
-  "Chattanooga Times Free Press",
+  "ChicagoBears.com",
   "Defense News",
   "Field Level Media",
   "Fox News",
-  "NASCAR.com",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "autohebdof1.com"
  ],
  "items": [
+  {
+   "title": "Hormuz Deadlock: Where oil prices could head next as prospects for an imminent deal fade",
+   "url": "https://www.cnbc.com/2026/08/11/hormuz-oil-prices-us-iran.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Oil traders keep clinging to hope that the Strait of Hormuz will reopen. That won't last forever.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108326595-1782375177613-gettyimages-2282087363-AA_21062026_2840956.jpeg?v=1782389474&amp;w=1920&amp;h=1080",
+   "age": "44m ago",
+   "published": "2026-08-11T05:01:40+00:00"
+  },
+  {
+   "title": "U.S. judge ends graft case against Indian billionaire Gautam Adani",
+   "url": "https://www.cnbc.com/2026/08/11/us-judge-ends-graft-case-against-indian-billionaire-gautam-adani.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "A U.S. federal judge has approved the Department of Justice's decision to dismiss the criminal probe against Indian billionaire Gautam Adani on graft charges.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108065955-17321367482024-11-20t205248z_718615329_rc2n1z9xpolb_rtrmadp_0_adani-group-usa.jpeg?v=1732136852&amp;w=1920&amp;h=1080",
+   "age": "46m ago",
+   "published": "2026-08-11T04:59:53+00:00"
+  },
   {
    "title": "President Trump warns FIFA will pay a massive price if it ousts chief Gianni Infantino",
    "url": "https://www.foxnews.com/outkick-sports/president-trump-warns-fifa-pay-massive-price-ousts-chief-gianni-infantino",
@@ -28,7 +52,7 @@
    "topic": "world",
    "summary": "Trump warned FIFA against replacing Gianni Infantino, calling him fantastic as soccer s governing body faces internal revolt over private equity deals.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/infantino-trump-2-e1762549474225.jpeg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-11T03:01:44+00:00"
   },
   {
@@ -39,7 +63,7 @@
    "topic": "defense",
    "summary": "South Korean Shipbuilder Hanwha has made a $1 billion bid for the U.S. subsidiary of Australian shipbuilder Austal, Austal disclosed in a regulatory filing on Tuesday mo…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/AM1A8589-scaled.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-11T02:59:08+00:00"
   },
   {
@@ -50,7 +74,7 @@
    "topic": "markets",
    "summary": "GDP growth for 2026 is now expected to come in at 4.5% to 5.5%, more than double the low end of its previous forecast of 2%-4%",
    "image": "https://image.cnbcfm.com/api/v1/image/108347642-1786414643675-gettyimages-2289245388-AA_10082026_2910062.jpeg?v=1786414691&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-11T02:58:27+00:00"
   },
   {
@@ -61,7 +85,7 @@
    "topic": "world",
    "summary": "The Chicago Sky had DiJonai Carrington playing against the Seattle Storm on Monday night, as the WNBA has remained silent following her Flagrant 2 foul ejection on Satur…",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dijonai-carrington-suspended.jpg?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-11T02:32:10+00:00"
   },
   {
@@ -72,30 +96,19 @@
    "topic": "world",
    "summary": "President Donald Trump secretly exited Air Force One via a catering truck at the NATO summit in Turkey, boarding a smaller jet to evade Iran threats, according to a repo…",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/trump-boards-air-force-one-1.jpg?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-11T02:17:00+00:00"
   },
   {
-   "title": "Fauci texts suggest officials were ‘too slow to pivot' amid pandemic, says Dr Marc Siegel",
-   "url": "https://www.foxnews.com/health/fauci-texts-suggest-officials-slow-pivot-pandemic-dr-marc-siegel",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dr. Marc Siegel, senior medical analyst, says newly released Anthony Fauci text messages reveal he was too dogmatic and too slow to pivot on COVID-19 vaccine guidance.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/fauci-testifying.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-08-11T01:58:54+00:00"
-  },
-  {
-   "title": "Trump claims total control of Hormuz, demands Iran pay reparations as standoff deepens",
-   "url": "https://www.cnbc.com/2026/08/11/us-iran-war-trump-hormuz-control-reparation-talks-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The dueling positions Washington and Tehran staked out showed how far apart the two sides remain even as both talked of winding down regional hostilities.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347513-1786390334284-gettyimages-2289375722-AFP_C4CJ7RZ.jpeg?v=1786390358&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-08-11T01:52:04+00:00"
+   "title": "Which Chicago Bears player are you most excited to see vs the Cleveland Browns?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/120415/which-chicago-bears-player-are-you-most-excited-to-see-vs-the-cleveland-browns",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29177736647816341.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-08-11T02:00:00+00:00"
   },
   {
    "title": "Avenger Surface-To-Air Missile System Protected Trump While Golfing",
@@ -105,7 +118,7 @@
    "topic": "defense",
    "summary": "The danger to Trump from Iran has increased dramatically since he launched a war against that country. The post Avenger Surface-To-Air Missile System Protected Trump Whi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Trump-avenger.jpg?quality=85",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-11T00:47:58+00:00"
   },
   {
@@ -116,7 +129,7 @@
    "topic": "ai",
    "summary": "San Francisco's housing market is in trouble again.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-11T00:03:18+00:00"
   },
   {
@@ -127,8 +140,19 @@
    "topic": "ai",
    "summary": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-10T23:56:15+00:00"
+  },
+  {
+   "title": "Former receiver D'Wayne Bates welcomes Bears to Stevenson High School",
+   "url": "https://www.chicagobears.com/news/former-receiver-d-wayne-bates-welcomes-bears-to-stevenson-high-school",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/whfa1ggwyb3gdwvgvifk.jpg",
+   "age": "6h ago",
+   "published": "2026-08-10T23:46:00+00:00"
   },
   {
    "title": "Hanwha Defense USA seeks to acquire Austal USA in $1.2B potential deal",
@@ -138,7 +162,7 @@
    "topic": "defense",
    "summary": "Hanwha s parent firm previously sought to acquire Austal s parent company in 2024. Now, the two US arms might merge.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2021/10/210827CommercialShipexitingAWCdrydockreduced-scaled-e1633439903641-1024x576.jpg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T23:38:40+00:00"
   },
   {
@@ -149,7 +173,7 @@
    "topic": "ai",
    "summary": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2281425916.jpg?w=1024",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T23:16:44+00:00"
   },
   {
@@ -160,41 +184,8 @@
    "topic": "defense",
    "summary": "One Block V Virginia class submarine will be unlike any other, capable of highly specialized intelligence and sabotage missions on the seafloor. The post Navy Is Getting…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/virginia_class_seabed_warfare_1920x1080_1-copy.jpg?quality=85",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-10T23:12:30+00:00"
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market",
-   "url": "https://www.cnbc.com/2026/08/11/hollywood-returns-to-china-as-chinese-rivals-push-abroad.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "More American movie stars have appeared in China this year, reflecting Hollywood's market interests amid political tensions.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347061-1786323135603-gettyimages-2288826200-vcg111657834890.jpeg?v=1786323309&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-08-10T23:00:14+00:00"
-  },
-  {
-   "title": "Trump Media posts $238 million second-quarter loss as crypto declines",
-   "url": "https://www.cnbc.com/2026/08/10/trump-media-djt-tmtg-earnings-truth-social-crypto.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "TMTG said it has signed more than 10 customer agreements for Truth API, the service offering faster access to President Donald Trump's posts.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108156451-1749471509977-gettyimages-2219137131-img_5233.jpeg?v=1749471560&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-08-10T22:33:55+00:00"
-  },
-  {
-   "title": "Now Rippling is counter-suing tiny startup Runlayer",
-   "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1384240404.jpg?resize=1200,798",
-   "age": "6h ago",
-   "published": "2026-08-10T22:26:54+00:00"
   },
   {
    "title": "Ars Live: Ross Scott discusses the Stop Killing Games movement",
@@ -204,8 +195,19 @@
    "topic": "ai",
    "summary": "Our discussion takes place live on August 11 at 3 pm ET.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/skg.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-10T22:23:43+00:00"
+  },
+  {
+   "title": "George Pickens' 2026 season likely to be his Cowboys swan song after Quinnen Williams, Zay Flowers contracts",
+   "url": "https://www.cbssports.com/nfl/news/george-pickens-2026-season-cowboys-swan-song-quinnen-williams/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/04/5133f15d-cbcd-46c4-84d7-0d12e87ffb0b/gettyimages-2287691534.jpg",
+   "age": "7h ago",
+   "published": "2026-08-10T22:13:56+00:00"
   },
   {
    "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
@@ -215,8 +217,19 @@
    "topic": "ai",
    "summary": "Meta has been trailing competitors. Zuckerberg thinks he's found a way forward.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-10T22:13:03+00:00"
+  },
+  {
+   "title": "Cash, Stash, or Slash: Caleb Williams",
+   "url": "https://www.windycitygridiron.com/chicago-bears-salary-cap/119785/cash-stash-or-slash-caleb-williams",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2287510614.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "7h ago",
+   "published": "2026-08-10T22:00:00+00:00"
   },
   {
    "title": "Trump signs bonkers order that cuts vaccines, promotes ones that don't exist",
@@ -226,7 +239,7 @@
    "topic": "ai",
    "summary": "Trump falsely claimed the MMR vaccine is \"quite lethal\" and linked shots to autism.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-10T21:42:56+00:00"
   },
   {
@@ -237,8 +250,19 @@
    "topic": "defense",
    "summary": "A top Intelligence Community official said the government may need to develop digital birth certificates for AI agents.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260810_DoDIIS_cossa_BARRY-scaled-e1786396422106-1024x577.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-10T21:39:40+00:00"
+  },
+  {
+   "title": "Quinnen Williams, Cowboys agree to massive $105.9M extension, making star DT one of NFL's highest-paid",
+   "url": "https://www.cbssports.com/nfl/news/quinnen-williams-contract-extension-cowboys/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/06/01/0401e09b-222c-4547-9891-d244bd9d28d2/getty-quinnen-williams-cowboys.jpg",
+   "age": "8h ago",
+   "published": "2026-08-10T21:39:20+00:00"
   },
   {
    "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
@@ -248,19 +272,19 @@
    "topic": "defense",
    "summary": "DOGE reported $1.76 billion in savings from terminating a contract, but GAO found that the contract was never terminated and no funds were deobligated.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LSSYL5P6JRGILIU6QG22NAMKEE.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-10T21:33:33+00:00"
   },
   {
-   "title": "Developer Cold Iron Studios shuts down cloud version of $60 game with no refunds",
-   "url": "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "A reminder of the perils of digital ownership.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ss_03896903e32739497c26e1724dcbab75772970fe.1920x1080-1152x648.jpg",
-   "age": "7h ago",
-   "published": "2026-08-10T21:26:38+00:00"
+   "title": "Trevon Diggs' stunning NFL downfall: How former All-Pro went from $97M Cowboys deal to fighting for his career",
+   "url": "https://www.cbssports.com/nfl/news/trevon-diggs-free-agency-cowboys-lions-nfl-future/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/10/93ea2e07-a828-4015-ade5-3f1c3316b4c4/trevon-diggs.jpg",
+   "age": "8h ago",
+   "published": "2026-08-10T21:01:06+00:00"
   },
   {
    "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
@@ -270,7 +294,7 @@
    "topic": "defense",
    "summary": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LKKS5DSYNRC5NC5I5MK6BYZJJU.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-10T20:54:38+00:00"
   },
   {
@@ -281,8 +305,30 @@
    "topic": "defense",
    "summary": "The sightings highlight concerns about drone attacks from the sea, especially at a time of extreme hostility between Iran and the U.S. The post Drone Sightings Are Happe…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Diego-Garcia-Drones.jpg?quality=85",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-10T20:52:29+00:00"
+  },
+  {
+   "title": "Bears sign WR Ray-Ray McCloud III, waive WR Kyron Hudson",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/120435/chicago-bears-sign-ray-ray-mccloud",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2237651122.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "9h ago",
+   "published": "2026-08-10T20:29:33+00:00"
+  },
+  {
+   "title": "Chicago Bears announce roster moves",
+   "url": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-august-10-2026",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/z7dbf92bsu9gfslzaci6.jpg",
+   "age": "9h ago",
+   "published": "2026-08-10T20:15:00+00:00"
   },
   {
    "title": "USS Theodore Roosevelt becomes first carrier with built-in Unmanned Air Warfare Center",
@@ -292,7 +338,7 @@
    "topic": "defense",
    "summary": "The USS Theodore Roosevelt is now the first Navy carrier to be equipped with an Unmanned Air Warfare Center that will support the unmanned MQ-25A Stingray.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SEQCV64AS5D4DHEMQSGNLJUSM4.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-10T19:39:58+00:00"
   },
   {
@@ -303,7 +349,7 @@
    "topic": "defense",
    "summary": "The dual-hatted Naval Sea Systems Command and Portfolio Acquisition Executive Industrial Operations Vice Adm. Jim Downey retired last week, the Navy announced. Downey, w…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/HPH7x7-XYAEmyDe-scaled.jpeg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-10T19:31:59+00:00"
   },
   {
@@ -314,19 +360,8 @@
    "topic": "defense",
    "summary": "The People’s Liberation Army Ground Force trained last week to use armed drones against unmanned surface vessels, according to state media. A Chinese military media post…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-10-at-12.32.41-PM-scaled.png",
-   "age": "9h ago",
-   "published": "2026-08-10T18:59:56+00:00"
-  },
-  {
-   "title": "US Army exploring 50mm cannon to destroy drones",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AM3ZXD3RLFF2TDI3YX4ZUIU7NQ.jpg",
    "age": "10h ago",
-   "published": "2026-08-10T18:10:52+00:00"
+   "published": "2026-08-10T18:59:56+00:00"
   },
   {
    "title": "What to expect at America’s largest missile defense expo",
@@ -336,41 +371,8 @@
    "topic": "defense",
    "summary": "A look at what we expect to see at this year s Space and Missile Defense Symposium.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/Golden-Dome-ep-1-Thumb-Trump-PB-1024x576.jpg",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-10T18:00:00+00:00"
-  },
-  {
-   "title": "USNI News Fleet and Marine Tracker: Aug. 10, 2026",
-   "url": "https://news.usni.org/2026/08/10/usni-news-fleet-and-marine-tracker-aug-10-2026",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of August 10, 2026, based on Na…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_10_26.jpg",
-   "age": "11h ago",
-   "published": "2026-08-10T17:28:48+00:00"
-  },
-  {
-   "title": "Navy ‘Doomsday Plane’ Fleet To Almost Double In Size With New E-130Js",
-   "url": "https://www.twz.com/air/navy-doomsday-plane-fleet-to-almost-double-in-size-with-new-e-130js",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "A much bigger fleet of smaller turboprop E-130Js is set to replace the smaller fleet of larger E-6B jets, but the Navy has also acknowledged risks. The post Navy ‘Doomsd…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/e-130j-fleet-size-target-nearly-double-e-6b-mercury.jpg?quality=85",
-   "age": "11h ago",
-   "published": "2026-08-10T17:25:05+00:00"
-  },
-  {
-   "title": "The defense sector is under water: Maritime investments reflect growing threats",
-   "url": "https://breakingdefense.com/2026/08/the-defense-sector-is-under-water-maritime-investments-reflect-growing-threats/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "A recent sequence of undersea-focused defense acquisitions is a welcome pivot to a critical warfighting domain, two CSIS experts argue.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/9674354-scaled-e1785176999204-1024x577.jpg",
-   "age": "11h ago",
-   "published": "2026-08-10T17:13:00+00:00"
   },
   {
    "title": "Key takeaways about Flock cameras | Crime fighter or surveillance state?",
@@ -380,8 +382,30 @@
    "topic": "local",
    "summary": "Flock license plate cameras are helping police across Northwest Indiana, but the technology is changing the balance between public safety and personal freedom.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/6d/96d50d05-3566-4b6c-8b40-23a9d977c110/6a7778cf24ce2.image.jpg?resize=300%2C225",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-10T13:00:00+00:00"
+  },
+  {
+   "title": "Day 10 Bears camp notebook: Rookie Malik Muhammad, vet Xavier Woods playing more as secondary depth is tested",
+   "url": "https://allchgo.com/bears/bears-camp-day-10-malik-muhammad-xavier-woods-depth/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/09172844/BB18297-1024x576.jpg",
+   "age": "1d ago",
+   "published": "2026-08-09T22:44:49+00:00"
+  },
+  {
+   "title": "Bears training camp report: Sunday, Aug. 9",
+   "url": "https://www.chicagobears.com/news/bears-training-camp-report-sunday-aug-9",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/v6fttxdgejyjc46703wz.jpg",
+   "age": "1d ago",
+   "published": "2026-08-09T22:44:22+00:00"
   },
   {
    "title": "William Byron looks to defend title at Iowa Corn 350",
@@ -428,37 +452,15 @@
    "published": "2026-08-09T11:00:00+00:00"
   },
   {
-   "title": "William Byron hoping for more success at Iowa Speedway",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnVrbEw4eXJRczdQNEhPcGZDRldtck1ockRQZXpVQ2dnbGZuMUUySGR3aG84a3libnFJNV9fSXJ5YUdsTzZ3c21XWjgyVWVTYklDX1NraGFfd2syRlNvYVlQb0ZqZ0lpTHFHWWVPbmotOWJUS1pCZ09TQU13ZFpRQTRIRFBmX04ydlpjWXNua2lZcktxb2hibWVn?oc=5",
-   "source": "Chattanooga Times Free Press",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Day 9 Bears camp notebook: Rookie DT Jordan van den Berg quickly becoming ‘a hell of a football player’",
+   "url": "https://allchgo.com/bears/bears-camp-day-9-jordan-van-den-berg-hell-of-a-player/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/08131238/BB19588-1024x576.jpg",
    "age": "2d ago",
-   "published": "2026-08-08T20:00:00+00:00"
-  },
-  {
-   "title": "Homeowner’s insurance tips from an Indiana actuary",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_6500d84a-7937-490b-bb66-08ecb3768e6a.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Indiana Farm Bureau Insurance’s chief actuary looks at the numbers behind insurance costs to share some practical steps that can make a difference for homeowners.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/08/90899350-d463-5a04-bb68-93986c4ac316/560583b383b2c.image.jpg?resize=300%2C200",
-   "age": "2d ago",
-   "published": "2026-08-08T13:00:00+00:00"
-  },
-  {
-   "title": "Fantasy Fastlane: Team Penske, William Byron primed to rule Iowa",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcG42SFg3c29zTXRtRjdCamIwV2pZMC12TnZ6QlgwNEhHRHZMUHh6Wlc4VXZ5UVkxekNLVVNrUTVPb3p1QURFOEptQUQteWpxRDhLQU9FZGpqV2JndVZKWW5CZWlPRzJ4RWhRdEY5Nm9sZUgxd0NhY3BiS2g2b0Q3b0RacFZoZzVVOWRTbEp1S1Rvb0lEVHdsYlUtb2VHOC1iQnhNUjA3ZU55Sk1V0gGyAUFVX3lxTE1pdnFmc3BKRmpPRUxNZG8zQUg4OXR4V1RqSGtLazZuVDJiaHRqZTk2TEliUzZXZmg0RXh0dGdDaUpiSWV3QlRwUXcxRy1KeUlGSUtmRk85WWhrUkJXTnBNOVRsWG5PTW1qdmdMM0Z0bXU3MDVKdy1WTlFoYm9uN09PMi1fU3FzUm5idjZsQ1dLZENNUVluUVFtM0Z2Y2hpRVhHOWQwQ1hWN3VZNnJwNm5GelE?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-08-07T13:12:10+00:00"
+   "published": "2026-08-08T18:24:26+00:00"
   }
  ]
 }
