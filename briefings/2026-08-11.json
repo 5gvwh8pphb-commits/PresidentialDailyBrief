@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-11",
+  "dateLabel": "Tuesday, August 11, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-11T09:40:03Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, August 10, 2026 close — a modest pullback from Friday's record highs as oil prices climbed on fading hopes for a Strait of Hormuz reopening.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,753.11", "change": "-4.53", "changePct": "-0.06%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,975.98", "change": "-60.95", "changePct": "-0.11%", "sixMo": "+7.5%" },
+        { "name": "Nasdaq",  "close": "26,605.36", "change": "-85.26", "changePct": "-0.32%", "sixMo": "+14%" }
+      ],
+      "body": "Intel fell more than 4% after pricing a $15 billion stock offering and Nvidia slid nearly 3% on AI-infrastructure funding jitters, pulling major indexes off Friday's record closes even as Brent crude pushed toward $87 a barrel.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "Trump demands Iran pay reparations for Lebanon, Syria, Yemen and Gaza damage",
+      "body": "President Trump said the US will seek compensation from Iran covering decades of attacks on US targets and payments to families of Iranian protesters killed over 50 years, countering Iranian negotiators who had sought reparations from Washington as a precondition for reopening the Strait of Hormuz; Trump wrote that 'Iran should be responsible for the damages and death caused to the people of Lebanon, Syria, Yemen, and Gaza.'",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "Taiwan tracks 2 PLA aircraft, 7 warships around island as Han Kuang drills continue",
+      "body": "Taiwan's Ministry of National Defense said it detected two PLA aircraft sorties, seven PLA Navy vessels and six China Coast Guard ships around the island in the 24 hours to 6 a.m. Tuesday, with both aircraft crossing into Taiwan's southwestern air defense identification zone, as the island's annual Han Kuang exercises simulating a Chinese invasion continue through August 14.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-2-chinese-aircraft-7-naval-vessels-near-island20260811064428/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump says US Navy has swept the entire Strait of Hormuz for mines",
+      "body": "President Trump said the US Navy now controls the Strait of Hormuz and has mine-swept the whole waterway, five months into the US military campaign to keep it open after Iran mined it following February's air war; commercial shipping traffic remains subdued, falling to just six vessels Monday against a 10-day average of about 11.",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/node/2654179/middle-east"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "DARPA seeks industry input on next-generation hypersonic cruise missile",
+      "body": "DARPA is scoping a Next Generation Hypersonic Cruise Missile program to build a fully integrated demonstrator meant to establish the 'foundation' for a future capability, aiming to move past incremental gains with new air-breathing propulsion and autonomous test methods that address the high cost and complexity now limiting production; industry responses are due October 6.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/08/10/darpa-next-generation-hypersonic-cruise-missile/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "Anthropic signs $9.1B, 20-year power deal with Bitcoin miner Riot Platforms",
+      "body": "Anthropic will draw 191 megawatts of data-center capacity from Riot Platforms' Rockdale, Texas campus under a 20-year deal worth $9.1 billion, with extension options that could push the total to $16.1 billion; it's Anthropic's third major compute procurement in three months, totaling over $60 billion, as it races to keep pace with demand for Claude, and Riot's stock jumped 25% after hours on the news.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/anthropic-strikes-9-billion-deal-with-cloud-computing-firm-riot"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears: Burden out for preseason with groin injury, on track for Sept. 13 opener",
+      "body": "Coach Ben Johnson said Monday that rookie receiver Luther Burden III will miss the rest of the preseason with a groin injury but is expected to be ready for the September 13 season opener against Carolina; Montez Sweat, Braxton Jones and Zavion Thomas all sat out Monday's walk-through, but Johnson called none of their injuries 'long-term concerns' ahead of a closed scrimmage at Halas Hall.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/10/bears-training-camp-report-no-11-ben-johnson-downplays-concerns-about-injuries-to-de-montez-sweat-others"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Iowa Corn 350 result falls inside the spoiler window, and no new roster, injury, schedule or sponsorship news broke in the past 24 hours; coverage otherwise centers on race-week build-up for Sunday's Cook Out 400 at Richmond, which hasn't started yet.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
