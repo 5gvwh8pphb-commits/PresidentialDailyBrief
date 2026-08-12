@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-12",
+  "dateLabel": "Wednesday, August 12, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-12T09:53:17Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, August 11, 2026 close — a second straight down day as the US-Iran standoff over the Strait of Hormuz hardened ahead of Wednesday's CPI report.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,728.20", "change": "-24.91", "changePct": "-0.32%", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "53,791.85", "change": "-184.13", "changePct": "-0.34%", "sixMo": "+8.8%" },
+        { "name": "Nasdaq",  "close": "26,445.45", "change": "-159.91", "changePct": "-0.60%", "sixMo": "+17%" }
+      ],
+      "body": "Alphabet, Apple and Amazon weighed on tech as hardening Iranian demands for war-damage compensation dimmed hopes for reopening the Strait of Hormuz, while investors braced for Wednesday's CPI report amid elevated oil prices.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-11-dow-sp-500-nasdaq-102827503.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~3h ago",
+      "empty": false,
+      "headline": "Trump calls Iran situation 'absolutely fine,' says US fully controls Hormuz",
+      "body": "President Trump told reporters early Wednesday that 'Iran is going fine, going just absolutely fine' and that the US 'totally' controls the Strait of Hormuz, while adding he still doesn't trust Tehran; an Iranian official countered that the waterway will stay closed until Iran's conditions, including an end to fighting in Gaza and Lebanon and release of frozen Iranian assets, are met.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-negotiations-us-messages-exchanged-tehran/?id=135508900"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Taiwan tracks 6 PLA aircraft, 8 naval vessels as four sorties cross median line",
+      "body": "Taiwan's Ministry of National Defense said it detected six PLA aircraft sorties and eight PLA Navy vessels operating around the island in the 24 hours to 6 a.m. Wednesday, with four of the six aircraft crossing the Taiwan Strait median line into the central and southwestern air defense identification zone.",
+      "source": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/en/news/6419850"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~5h ago",
+      "empty": false,
+      "headline": "US Navy helicopter disables cargo ship for breaching Iran blockade",
+      "body": "A U.S. Navy MH-60 helicopter fired two Hellfire missiles into the engine room of the Panama-flagged M/V Vela Nova after its crew ignored repeated warnings not to run the naval blockade on Iranian ports reimposed in mid-July, CENTCOM said; the crew evacuated safely, and it's the third vessel the command has disabled since the blockade began, alongside 55 vessels redirected and two boarded.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/us/us-forces-disable-panama-flagged-ship-in-gulf-of-oman-for-violating-iran-blockade-centcom20260812043301/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "SpaceX, Northrop Grumman clear first Golden Dome interceptor test milestone",
+      "body": "Space Force Gen. Michael Guetlein said Tuesday that SpaceX, Northrop Grumman, Lockheed Martin and other contractors building space-based interceptors for the $185 billion Golden Dome missile shield have cleared the program's first of four test gates and are moving to build hardware that can operate in orbit; Lockheed and Northrop executives said they remain on track to demonstrate the technology on-orbit by the end of 2027.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/us-firms-involved-in-trump-s-golden-dome-complete-key-milestone"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~9h ago",
+      "empty": false,
+      "headline": "Google hands DeepMind's daily reins to Koray Kavukcuoglu as Gemini races to catch up",
+      "body": "Koray Kavukcuoglu has taken over day-to-day leadership of Google DeepMind, reporting directly to CEO Sundar Pichai and overseeing Gemini model development as Demis Hassabis moves to chairman; the change comes as Google's AI unit faces pressure to close the performance gap with OpenAI and Anthropic after recent model delays and researcher departures.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears LT Ozzy Trapilo ahead of schedule recovering from patellar tendon injury",
+      "body": "Left tackle Ozzy Trapilo, who ruptured his patellar tendon during last season's playoffs after winning the starting job in Week 12, is progressing ahead of the timeline that once had him sidelined for most or all of 2026; coach Ben Johnson said Trapilo has 'been attacking this thing head on' and could return to practice before the season opener.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/11/bears-lt-ozzy-trapilo-ahead-of-schedule-in-recovery-from-knee-injury-could-practice-before-season-starts"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Iowa Corn 350 result falls inside the spoiler window, and no confirmed roster, injury, schedule or sponsorship news distinct from prior briefs broke within the 72-hour window; coverage otherwise centers on build-up to Saturday's Cook Out 400 at Richmond, which hasn't run yet.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
