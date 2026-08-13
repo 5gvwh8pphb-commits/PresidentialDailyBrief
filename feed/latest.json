@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-13T12:43:42+00:00",
+ "generated": "2026-08-13T14:14:36+00:00",
  "count": 40,
- "withImage": 35,
+ "withImage": 34,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -13,33 +13,165 @@
   "Fox News",
   "Hendrick Motorsports",
   "Motorsport.com",
+  "NASCAR.com",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "autohebdof1.com"
+  "USNI News"
  ],
  "items": [
   {
-   "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
-   "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108348958-1786612254614-gettyimages-2281481201-710a7647.jpeg?v=1786615618&amp;w=1920&amp;h=1080",
-   "age": "1m ago",
-   "published": "2026-08-13T12:42:10+00:00"
+   "title": "AEVEX to acquire BlackSea Technologies for up to $650M",
+   "url": "https://breakingdefense.com/2026/08/aevex-to-acquire-blacksea-technologies-for-up-to-650m/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The acquisition is slated to close in September and aims to provide AEVEX greater customer access to military users.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8407254-scaled-e1786572544823-1024x577.jpg",
+   "age": "5m ago",
+   "published": "2026-08-13T14:09:08+00:00"
   },
   {
-   "title": "Easing inflation pressures, Cerebras earnings, falling Hormuz traffic and more in Morning Squawk",
-   "url": "https://www.cnbc.com/2026/08/13/heres-what-to-know-before-the-market-opens.html",
+   "title": "In a first, US will allow some private firms to carry out cyberattacks",
+   "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
+   "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1050765184.jpg?resize=1200,800",
+   "age": "5m ago",
+   "published": "2026-08-13T14:09:05+00:00"
+  },
+  {
+   "title": "Report to Congress on the U.S. Space Force",
+   "url": "https://news.usni.org/2026/08/13/report-to-congress-on-the-u-s-space-force",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the Aug. 10, 2026, Congressional Research Service defense primer on the U.S. Space Force. From the Report The U.S. Space Force, established by Congress …",
+   "image": null,
+   "age": "11m ago",
+   "published": "2026-08-13T14:02:48+00:00"
+  },
+  {
+   "title": "UNICEF Gaza findings ‘completely shatters’ starvation claims against Israel, State Dept says",
+   "url": "https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New UNICEF findings fuel fresh scrutiny of Gaza famine claims as the State Department says the data ‘completely shatters’ allegations Israel deliberately starved civilia…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/gaza-aid-delivery-tps-il-1.jpg?ve=1&tl=1",
+   "age": "13m ago",
+   "published": "2026-08-13T14:00:52+00:00"
+  },
+  {
+   "title": "Databricks wraps $5 billion funding round at $190 billion valuation",
+   "url": "https://www.cnbc.com/2026/08/13/databricks-funding-round-190-billion-valuation.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Here are five key things investors need to know to start the trading day.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108339473-1784836316181-gettyimages-2287358427-l1110466_pvxolbwk.jpeg?v=1784913729&amp;w=1920&amp;h=1080",
-   "age": "12m ago",
-   "published": "2026-08-13T12:31:22+00:00"
+   "summary": "Databricks is benefitting off of the agentic AI wave",
+   "image": "https://image.cnbcfm.com/api/v1/image/108322589-1781624647320-gettyimages-2270267833-myv06253_eomhpgld.jpeg?v=1781627035&amp;w=1920&amp;h=1080",
+   "age": "14m ago",
+   "published": "2026-08-13T14:00:27+00:00"
+  },
+  {
+   "title": "Anne Hathaway, Dakota Johnson and Josh Hartnett star in R-rated thriller ‘Verity,’ out Oct 2",
+   "url": "https://www.foxnews.com/outkick-culture/anne-hathaway-dakota-johnson-josh-hartnett-star-r-rated-thriller-verity-oct-2",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The new Verity trailer showcases Anne Hathaway, Dakota Johnson, and Josh Hartnett in a dark R-rated psychological thriller hitting theaters October 2.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Anne_Hathaway_Verity.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-08-13T13:42:32+00:00"
+  },
+  {
+   "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboo…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Schneider-Wang-Disrupt-Stage-2026.png?w=1200",
+   "age": "44m ago",
+   "published": "2026-08-13T13:30:00+00:00"
+  },
+  {
+   "title": "'Big Short' investor Steve Eisman sees an Achilles heel in the AI boom",
+   "url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107327714-1698931527683-gettyimages-949516886-AFP_13Z2MW.jpeg?v=1698938212&amp;w=1920&amp;h=1080",
+   "age": "55m ago",
+   "published": "2026-08-13T13:19:00+00:00"
+  },
+  {
+   "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+   "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108348411-1786539472497-gettyimages-2289625483-AFP_C4FF3G3.jpeg?v=1786539519&amp;w=1920&amp;h=1080",
+   "age": "56m ago",
+   "published": "2026-08-13T13:18:36+00:00"
+  },
+  {
+   "title": "Things we bought that are worth every penny",
+   "url": "https://www.foxnews.com/deals/fox-news-deals-newsletter-august-13",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Discover markdowns on products we highly recommend, from Dutch ovens and coolers to flashlights, generators and tools worth keeping on hand.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/dutch-oven.jpg?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-13T13:17:15+00:00"
+  },
+  {
+   "title": "Trump-linked oil venture delays Greenland drilling plans after government warning",
+   "url": "https://www.cnbc.com/2026/08/13/greenland-energy-oil-drilling-trump.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Greenland Energy Company and joint venture partner 80 Mile have delayed planned oil drilling in Greenland until winter 2027.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108331863-1783490022916-gettyimages-2267671378-AFP_A4HD2T3.jpeg?v=1783490104&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-13T13:02:38+00:00"
+  },
+  {
+   "title": "College golfer delivers US Amateur upset with added pressure of having just one extra golf ball",
+   "url": "https://www.foxnews.com/outkick-sports/college-golfer-delivers-us-amateur-upset-added-pressure-one-extra-golf-ball",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ryder Cowan arrived at Merion Golf Club for his US Amateur match against Miles Russell with only two golf balls, then pulled off a wild upset.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ryder-cowan-iron.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-13T13:01:26+00:00"
+  },
+  {
+   "title": "California Dem ripped for 'perverted agenda' ahead of fundraiser at risqué nightclub",
+   "url": "https://www.foxnews.com/politics/california-dem-ripped-perverted-agenda-fundraiser-risque-nightclub",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Marni von Wilpert is hosting a congressional campaign fundraiser at a San Diego nightclub known for LGBTQ nightlife and adult-themed specials.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Marni-von-Wilpert-runs-for-congress.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-13T13:00:57+00:00"
+  },
+  {
+   "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09PM2x3UEEycmVQeWZQWkVFekVZV3ZSb1QxTlc3UTdZZG9jMFZXZWR2TlZpY1RRV0ZJdWdXNTFXUnlmSVdGaWlNNkRKeXlEY1hXRTc4bFYwZlRlVEY4QUU0SFBQX09sVFg0bUtvVGZEeEVKTjNDdTg2dlE5dkhnM1hiZ2Vqbk9OYktpSmpCZVJQZHZqdFV4X3FSMjZsZ9IBowFBVV95cUxNT3ZuM2JhUXMtbWQ5d0l1U19seDQxenBpOWJZZWVreGpBZGlzZGdGbzU4bDZmQW1IUjJjdnRubW1yTzAwR0Z1Rm4tTDlueVZjTTRKTXFSNS13TV9KQklERlV6aG1jWlhoeks3akMtLXN4RHZqT2xHS2l4VjlaemJaSktfMEdXNEN3LUc0cTBvZ19ldWpKamhaTnlGbnFyWU5TWVZv?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-08-13T12:35:15+00:00"
   },
   {
    "title": "Securing the AI flank to provide trusted decision-making capabilities",
@@ -49,96 +181,8 @@
    "topic": "defense",
    "summary": "[Sponsored] AI tools are critical components of modern warfare, but must be protected to ensure they are reliable.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/AI-cyber-1-1024x716.jpg",
-   "age": "19m ago",
+   "age": "1h ago",
    "published": "2026-08-13T12:24:00+00:00"
-  },
-  {
-   "title": "New federal rules could end mortgage escrow interest for some homeowners. States are suing to block them",
-   "url": "https://www.cnbc.com/2026/08/13/mortgage-escrow-account-interest-lawsuit-bank-rules.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "A new lawsuit challenges recently issued rules from federal banking regulators that preempts state laws requiring banks to pay interest on escrow accounts.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108348450-1786542040544-gettyimages-2042511845-tae00779.jpeg?v=1786542201&amp;w=1920&amp;h=1080",
-   "age": "28m ago",
-   "published": "2026-08-13T12:15:02+00:00"
-  },
-  {
-   "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Why Jews hold the key to Michigan Senate race",
-   "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-why-jews-hold-key-michigan-senate-race",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Fox News Antisemitism Exposed newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-michigan-fox-news.jpg?ve=1&tl=1",
-   "age": "29m ago",
-   "published": "2026-08-13T12:13:51+00:00"
-  },
-  {
-   "title": "Mamdani shrugs off AOC's 'Woke 1' comments, but critic says progressives can't be absolved of 'radical' past",
-   "url": "https://www.foxnews.com/media/mamdani-shrugs-off-aocswoke-1-comments-critic-says-progressives-cant-absolved-radical-past",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "New York City Mayor Zohran Mamdani responded to New York Rep. Alexandria Ocasio-Cortez s remark that the Woke 1 era was crazy, given his past comments.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/zohran-mamdani-july-2026.jpg?ve=1&tl=1",
-   "age": "30m ago",
-   "published": "2026-08-13T12:13:07+00:00"
-  },
-  {
-   "title": "Franesca Hong taunted by fellow Democrat over loss: 'It's a day of Thanksgiving'",
-   "url": "https://www.foxnews.com/media/franesca-hong-taunted-fellow-democrat-over-loss-its-day-thanksgiving",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Francesca Hong s infamous cancel Thanksgiving post drew intense national scrutiny before her razor-thin Democratic primary loss to David Crowley.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/0e7f9663-francesca-hong-august-2-2026.jpg?ve=1&tl=1",
-   "age": "31m ago",
-   "published": "2026-08-13T12:12:33+00:00"
-  },
-  {
-   "title": "UK ‘in free fall’ on free speech, expert warns as British MP brands Trump admin grant 'MAGA money meddling'",
-   "url": "https://www.foxnews.com/world/uk-free-fall-free-speech-expert-warns-british-mp-brands-trump-admin-grant-maga-money-meddling",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The U.S. Embassy in London is offering up to $500,000 for projects promoting Anglo-American principles including freedom of speech, limited government and the rule of la…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/free_speech.jpg?ve=1&tl=1",
-   "age": "35m ago",
-   "published": "2026-08-13T12:08:08+00:00"
-  },
-  {
-   "title": "The Women's National Basketball Association can't define a 'woman,' and it's beyond shameful",
-   "url": "https://www.foxnews.com/outkick-sports/womens-national-basketball-association-cant-define-woman-beyond-shameful",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sophie Cunningham s locker room comments sparked a month-long WNBA eligibility debate, yet the league s task force still can t define a woman.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/demonstrator-protests-wnba-transgender-athletes.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-08-13T12:01:39+00:00"
-  },
-  {
-   "title": "Democrats demand Trump reveal stock managers, explain suspicious trades",
-   "url": "https://www.cnbc.com/2026/08/13/trump-stock-trades-warren-garcia.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Warren and Garcia said they sought answers from Trump to inform their work on potential legislation to ban presidents from owning individual stocks.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108348631-1786556859685-108348631-1786556792541-gettyimages-2289391052-TRUMP_VACCINE_EO.jpg?v=1786556870&amp;w=1920&amp;h=1080",
-   "age": "43m ago",
-   "published": "2026-08-13T12:00:01+00:00"
-  },
-  {
-   "title": "Oil prices drop as investors weigh falling demand against Middle East tensions",
-   "url": "https://www.cnbc.com/2026/08/13/oil-spill-near-oman-worries-over-supply-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil futures retreated early Wednesday morning after prices rose overnight.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108327800-1782635826419-gettyimages-2283163030-AFP_B8JJ8MX.jpeg?v=1782744351&amp;w=1920&amp;h=1080",
-   "age": "48m ago",
-   "published": "2026-08-13T11:55:14+00:00"
   },
   {
    "title": "Claude's new Scarlet Letter watermark is invisible — for now",
@@ -148,7 +192,7 @@
    "topic": "ai",
    "summary": "The mark flags anything Claude processed, even human writing it only edited.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark-1152x648.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-13T11:10:18+00:00"
   },
   {
@@ -159,7 +203,7 @@
    "topic": "defense",
    "summary": "A recap of leading news from the second day of the 2026 Space and Missile Defense Symposium.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD-day2video-pb2-1024x576.png",
-   "age": "11h ago",
+   "age": "13h ago",
    "published": "2026-08-13T00:57:02+00:00"
   },
   {
@@ -170,7 +214,7 @@
    "topic": "ai",
    "summary": "Boy's unusual symptoms could help identify the next case sooner.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581-1152x648.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-12T22:31:19+00:00"
   },
   {
@@ -181,7 +225,7 @@
    "topic": "ai",
    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-12T22:26:37+00:00"
   },
   {
@@ -192,7 +236,7 @@
    "topic": "ai",
    "summary": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
    "image": "https://techcrunch.com/wp-content/uploads/2014/08/2468396121_7c6c132c8e_b.jpg?w=1000",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-12T22:24:00+00:00"
   },
   {
@@ -203,7 +247,7 @@
    "topic": "ai",
    "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328-1152x648.jpg",
-   "age": "14h ago",
+   "age": "16h ago",
    "published": "2026-08-12T22:02:25+00:00"
   },
   {
@@ -214,7 +258,7 @@
    "topic": "defense",
    "summary": "The Defense Department will not decide whether to produce operational space-based interceptors until after industry demonstrates their feasibility, Gen. Michael Guetlein…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260812_DVIDS_guetlein_guam_visit_9819409-e1786571916535-1024x577.jpg",
-   "age": "14h ago",
+   "age": "16h ago",
    "published": "2026-08-12T22:01:31+00:00"
   },
   {
@@ -225,7 +269,7 @@
    "topic": "ai",
    "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-12T21:43:21+00:00"
   },
   {
@@ -236,7 +280,7 @@
    "topic": "defense",
    "summary": "More photos from the expo floor at the Von Braun Center in Huntsville, Ala.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/20260812-SMD-dwoolfolk-DSC04707-010-1024x576.jpg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-12T21:38:47+00:00"
   },
   {
@@ -247,7 +291,7 @@
    "topic": "defense",
    "summary": "Retired General VanHerck said he warned even the Secretary of Defense that U.S. military installations were sitting ducks to such actions. The post Drone Swarms Over Lan…",
    "image": "https://www.twz.com/wp-content/uploads/2024/03/15/Langely-AFB-drone-incursions.jpg?quality=85",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-12T21:25:39+00:00"
   },
   {
@@ -258,19 +302,8 @@
    "topic": "defense",
    "summary": "NEW TAIPEI CITY, TAIWAN – Taiwanese forces mobilized mechanized units, engineering troops and mines across a river estuary crucial for the defense of the island’s capita…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/DSC01667-scaled.jpg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-12T21:17:55+00:00"
-  },
-  {
-   "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-   "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg",
-   "age": "15h ago",
-   "published": "2026-08-12T21:13:39+00:00"
   },
   {
    "title": "Navy ‘Well Postured’ for Upcoming Fiscal Year, Says Recruiting Command Chief",
@@ -280,7 +313,7 @@
    "topic": "defense",
    "summary": "Where can the sea take you? That’s what the Navy’s 2026 commercial, the latest in the Forged By The Sea campaign, asked young Americans. It was a challenge, the head of …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9635657-scaled.jpg",
-   "age": "15h ago",
+   "age": "17h ago",
    "published": "2026-08-12T21:13:21+00:00"
   },
   {
@@ -291,7 +324,7 @@
    "topic": "defense",
    "summary": "Retired NORAD commander gives new credence to the reported Iranian bombing mission and says it shows an urgent need for new thinking about air defenses. The post Iranian…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/reported-iran-f-5-bombing-kuwait-us-base-defense.jpg?quality=85",
-   "age": "15h ago",
+   "age": "17h ago",
    "published": "2026-08-12T21:02:46+00:00"
   },
   {
@@ -302,7 +335,7 @@
    "topic": "defense",
    "summary": "The second Ford-class aircraft carrier — John F. Kennedy (CVN-79) — left Wednesday afternoon for acceptance trials after years of delays and Navy and congressionally man…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/DCS26-174-2-158-scaled.jpg",
-   "age": "15h ago",
+   "age": "17h ago",
    "published": "2026-08-12T20:59:27+00:00"
   },
   {
@@ -313,19 +346,8 @@
    "topic": "defense",
    "summary": "The effort, the Army says, is designed to hasten the development and testing of drones, counter-drone systems, long-range fires and cheap interceptors.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6YLBLYCD4FFYZPDPCGIO3WAVMY.jpg",
-   "age": "15h ago",
+   "age": "17h ago",
    "published": "2026-08-12T20:59:14+00:00"
-  },
-  {
-   "title": "TACOM plans further industry engagement amid ‘readiness crisis’",
-   "url": "https://breakingdefense.com/2026/08/tacom-plans-further-industry-engagement-amid-readiness-crisis/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“We have an aging fleet, and we have modernization on the horizon, but it s not coming fast enough, Brig. Gen. Beth Behn, commanding general of TACOM, told Breaking Defe…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9832559-e1786566685437-1024x577.jpg",
-   "age": "15h ago",
-   "published": "2026-08-12T20:55:00+00:00"
   },
   {
    "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
@@ -335,19 +357,8 @@
    "topic": "ai",
    "summary": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/MRV-Arms-2.jpg?resize=1200,800",
-   "age": "15h ago",
+   "age": "17h ago",
    "published": "2026-08-12T20:53:41+00:00"
-  },
-  {
-   "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-   "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
-   "age": "16h ago",
-   "published": "2026-08-12T20:10:40+00:00"
   },
   {
    "title": "Did Sensors On Iranian Drones Help Shoot Down F-15E?",
@@ -357,7 +368,7 @@
    "topic": "defense",
    "summary": "A new account suggests Iran used drones to track the U.S. fighter and relay its position, speed, and direction to a missile team. The post Did Sensors On Iranian Drones …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/F-15E-CENTCOM.jpg?quality=85",
-   "age": "16h ago",
+   "age": "18h ago",
    "published": "2026-08-12T19:48:39+00:00"
   },
   {
@@ -368,7 +379,7 @@
    "topic": "defense",
    "summary": "SPACECOM is working to dissolve traditional silos of operations and thinking in order to speed-up swatting-down increasingly complex missile threats. The post U.S. Must …",
    "image": "https://www.twz.com/wp-content/uploads/images-by-url-twz/content/2021/09/space-bacn-artwork-darpa.jpg?quality=85",
-   "age": "20h ago",
+   "age": "21h ago",
    "published": "2026-08-12T16:37:35+00:00"
   },
   {
@@ -379,7 +390,7 @@
    "topic": "defense",
    "summary": "Trump was transferred from Air Force One to a military plane via a catering truck due to Iranian threats following a NATO summit in Turkey, reports say.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DKHZ55PEKZEPDOMBECJK4JPZQQ.JPG",
-   "age": "21h ago",
+   "age": "23h ago",
    "published": "2026-08-12T15:13:20+00:00"
   },
   {
@@ -390,7 +401,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "22h ago",
+   "age": "23h ago",
    "published": "2026-08-12T14:27:59+00:00"
   },
   {
@@ -401,7 +412,7 @@
    "topic": "defense",
    "summary": "The following is the Aug. 12, 2026, Congressional Research Service report, MQ-25 Stingray: Background and Issues for Congress. From the Report The U.S. Navy is developin…",
    "image": null,
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-12T13:18:01+00:00"
   },
   {
@@ -447,17 +458,6 @@
    "image": null,
    "age": "1d ago",
    "published": "2026-08-11T15:41:55+00:00"
-  },
-  {
-   "title": "William Byron wants to finally kick-start his season in Iowa",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXRjS3o5Y2wzWmhqYW0xU1dGN0JFenl1V0RDVVYzc2lYVHNRUXFEbDFJNU50VUtOa1JUV2ZSRDdOLW1Oak4wci1ndktPT052MWU4bzhJZXlRQlhXRG9UZ1htdHc4UVd3ZGlVQjNEYUJnMEpfUWdCUmVHQ1FPM25oVGJxMG9IZE5PZUVUS2lhUHZjQzhPRGRCdzExbTRCWWlIb0E0S1V0VF9CZw?oc=5",
-   "source": "autohebdof1.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-08-09T15:00:56+00:00"
   }
  ]
 }
