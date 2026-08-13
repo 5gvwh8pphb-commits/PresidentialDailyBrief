@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-13",
+  "dateLabel": "Thursday, August 13, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-13T09:52:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~19h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, August 12, 2026 close — a mild rebound as cooler-than-expected inflation data eased Fed rate worries and AI/cloud earners rallied.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,748.50", "change": "+20.30", "changePct": "+0.26%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,770.27", "change": "-21.58", "changePct": "-0.04%", "sixMo": "+7.3%" },
+        { "name": "Nasdaq",  "close": "26,588.49", "change": "+143.04", "changePct": "+0.54%", "sixMo": "+15%" }
+      ],
+      "body": "July CPI rose 3.4% annually, matching estimates and easing a bit from June, which cooled fears the Fed would need to hike; AI and cloud infrastructure earners led gains, with Super Micro Computer up 19% and Nebius Group up 34% on strong results, while the Dow lagged as MercadoLibre slid on profit-taking.",
+      "source": "AP News",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-201416946.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~7h ago",
+      "empty": false,
+      "headline": "Iran's Araghchi accuses US of 'fake intelligence' over Hormuz control claim",
+      "body": "Iranian Foreign Minister Abbas Araghchi said Thursday that repeated US intelligence failures, citing the broader war with Iran as an example, risk an even bigger miscalculation over the Strait of Hormuz, pushing back on President Trump's claim that Washington has 'total control' of the waterway and intends to keep it.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/13/iran-war-live-us-and-iran-exchange-opposing-claims-over-hormuz-control"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~7h ago",
+      "empty": false,
+      "headline": "Taiwan detects sharp jump in PLA activity: 18 aircraft sorties, 11 warships",
+      "body": "Taiwan's Ministry of National Defense said it tracked 18 PLA aircraft sorties, 11 PLA Navy vessels and 3 China Coast Guard ships around the island in the 24 hours to 6 a.m. Thursday, with 15 of the 18 aircraft crossing the Taiwan Strait median line into the northern, central, southwestern and eastern air defense identification zones, a sharp jump from six sorties detected a day earlier.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-heightened-chinese-military-activity-around-territory20260813083823/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~13h ago",
+      "empty": false,
+      "headline": "CENTCOM: US forces have redirected 59 vessels enforcing Iran blockade",
+      "body": "US Central Command said American forces have redirected 59 commercial vessels, disabled three and boarded two since reimposing the naval blockade on Iranian ports in mid-July, with commercial shipping through the Strait of Hormuz still far below normal five months into the campaign to keep it open.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/us/us-forces-redirected-59-vessels-to-ensure-iran-blockade-centcom20260813022108/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon accelerates $400M laser deployment to counter drones at US bases",
+      "body": "The Army is moving to permanently field AeroVironment's LOCUST X3 high-energy laser at several domestic bases under a deal worth at least $400 million, while the Pentagon works with the FAA and Homeland Security to clear lasers for use against drones near airports as the threat from unmanned aircraft grows.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/pentagon-wants-to-deploy-lasers-other-counter-drone-tech-in-us"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic courts investors ahead of planned September IPO",
+      "body": "Anthropic is meeting with prospective investors to shore up confidence in what could be the largest IPO ever, fielding tough questions about competition from cheap Chinese models, Washington political friction and heavy infrastructure spending, the Wall Street Journal reported; the company is targeting a listing as early as September off a $965 billion May valuation, and expects 130% revenue growth alongside its first operating profit.",
+      "source": "Wall Street Journal",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-meets-investors-to-shore-up-confidence-ahead-of-planned-september-ipo-wsj-93CH-4850754"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears safety Coby Bryant to miss 4-6 months after knee surgery",
+      "body": "Coach Ben Johnson said Tuesday that safety Coby Bryant, the team's marquee free-agent signing on a three-year, $40 million deal, had surgery Aug. 7 for a hyperextended left knee with a bone bruise and small fracture and is expected out four to six months, a significant blow to a secondary already thinned by camp injuries.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49584684/bears-coby-bryant-undergoes-knee-surgery-4-6-months"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Iowa Corn 350 result and Byron's points-standing shift both fall inside the spoiler window, and no new roster, injury, schedule or sponsorship news distinct from prior briefs broke within the 72-hour window; coverage otherwise centers on build-up to Saturday's Cook Out 400 at Richmond, which hasn't run yet.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
