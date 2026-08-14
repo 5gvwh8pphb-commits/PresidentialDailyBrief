@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-14",
+  "dateLabel": "Friday, August 14, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-14T09:42:47Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, August 13, 2026 close — a record-setting rally as cooler wholesale inflation data and falling oil prices eased Fed rate worries.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,798.99", "change": "+50.49", "changePct": "+0.65%", "sixMo": "+14%" },
+        { "name": "Dow",     "close": "53,839.99", "change": "+69.72", "changePct": "+0.13%", "sixMo": "+8.8%" },
+        { "name": "Nasdaq",  "close": "26,803.03", "change": "+214.54", "changePct": "+0.81%", "sixMo": "+19%" }
+      ],
+      "body": "Softer-than-expected wholesale inflation data and falling oil prices lifted stocks to fresh records, with the S&P 500 and Nasdaq closing at all-time highs; Workday shares jumped about 18% on strong quarterly results, one of its best days in years.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-13-sp-500-record-high-nasdaq-dow-inflation-100145282.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "UAE accuses Iran of drone attacks on two ADNOC tankers in Strait of Hormuz",
+      "body": "The UAE's Foreign Ministry said Friday that Iran's Revolutionary Guard Corps struck two Abu Dhabi National Oil Company vessels with drones while they transited the strait Thursday evening, calling the attacks acts of piracy that threaten regional stability and global energy security; no injuries were reported, and ADNOC says 15 of its ships have now been hit since the US-Israel war on Iran began in February.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Taiwan detects 9 PLA aircraft sorties, 12 warships in latest 24-hour window",
+      "body": "Taiwan's Ministry of National Defense said it tracked nine PLA aircraft sorties, 12 PLA Navy vessels and two China Coast Guard ships around the island in the 24 hours to 6 a.m. Friday, with six of the nine aircraft crossing the Taiwan Strait median line into the central, southwestern and eastern air defense identification zones.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-nine-pla-aircraft-12-plan-vessels-two-official-ships-around-its-territory20260814070101/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Carrier USS George Washington steams toward Middle East to relieve USS Lincoln",
+      "body": "The George Washington carrier strike group transited the Strait of Malacca en route to the Middle East to replace the USS Abraham Lincoln, which has been on extended deployment for the Iran campaign; Defense Secretary Pete Hegseth said this week the Navy can sustain the current Gulf posture 'indefinitely' by rotating carriers, as families of Lincoln sailors have raised concerns about the prolonged deployment's toll on the crew.",
+      "source": "NPR",
+      "url": "https://news.wfsu.org/npr-news/2026-08-14/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Army picks six contractors to build frontline unmanned ground vehicles",
+      "body": "The Army selected six vendors, including American Rheinmetall, Overland AI, Forterra and HDT, to build production-ready unmanned ground vehicle prototypes under its Infantry Last Tactical Mile program, aimed at autonomous resupply and casualty evacuation so soldiers aren't exposed on the route between rear support areas and forward positions; the Other Transaction Agreements target prototypes ready for Army testing in early 2027.",
+      "source": "The Defense Post",
+      "url": "https://thedefensepost.com/2026/08/13/us-ugvs-breach-danger-zones/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic CFO holds early investor meetings ahead of possible fall IPO",
+      "body": "Anthropic CFO Krishna Rao has begun early meetings with prospective investors ahead of a potential public listing, though the sessions have stayed high-level without discussing specific financials or valuation, sources told CNBC; several of the firm's backers separately told the Financial Times this week they expect Anthropic to go public around October at a targeted valuation of $2 trillion or more.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/13/anthropic-cfo-early-ipo-meetings-valuation.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears reaffirm Hammond, Indiana focus but won't rule out Illinois",
+      "body": "Chairman George McCaskey and president/CEO Kevin Warren said at a Halas Hall news conference Thursday that the Bears remain focused on a stadium and mixed-use development in Hammond, Ind., having completed due diligence on the Lost Marsh site and now evaluating the neighboring Wolf Lake Terminal site, while declining to fully rule out Illinois; McCaskey said the team's name won't change regardless of where it lands.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/13/bears-stadium-update-hammond-arlington-heights-george-mccaskey-kevin-warren-chairman-president-indiana-illinois-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Iowa Corn 350 result still falls inside the spoiler window, and no new roster, injury, schedule or sponsorship news distinct from prior briefs broke within the 72-hour window; Byron is entered for Friday practice and qualifying ahead of Saturday's Cook Out 400 at Richmond, which hasn't run yet.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
