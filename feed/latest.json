@@ -1,25 +1,115 @@
 {
- "generated": "2026-08-14T03:04:09+00:00",
+ "generated": "2026-08-14T05:12:41+00:00",
  "count": 40,
- "withImage": 35,
- "bearsDay": false,
+ "withImage": 36,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Motorsport.com",
   "NASCAR.com",
-  "NWI Times",
-  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Yardbarker"
+  "Windy City Gridiron",
+  "Yardbarker",
+  "speedwaydigest.com"
  ],
  "items": [
+  {
+   "title": "China built robots that can do backflips – but can they make money?",
+   "url": "https://www.cnbc.com/2026/08/14/china-humanoid-robots-unitree-ipo-tesla-optimus.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Unitree’s IPO will gauge investors’ appetite for a technology that has yet to prove its commercial viability amid intensifying geopolitical tensions.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108325878-1782266213513-gettyimages-2278015048-JAPAN_HUMANOIDS_SUMMIT.jpeg?v=1782266230&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-08-14T05:00:47+00:00"
+  },
+  {
+   "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+   "url": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
+   "image": "https://image.cnbcfm.com/api/v1/image/102629748-169641718.jpg?v=1532564313&amp;w=1920&amp;h=1080",
+   "age": "12m ago",
+   "published": "2026-08-14T05:00:01+00:00"
+  },
+  {
+   "title": "Detransitioners reveal how doctors pushed them toward life-altering treatment as teens",
+   "url": "https://www.foxnews.com/politics/detransitioners-reveal-how-doctors-pushed-them-toward-life-altering-treatment-teens",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Three detransitioners say doctors pushed puberty blockers, testosterone and double mastectomy on them as teens without adequate mental health screening.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/931/523/Male-Female-Chalk.jpg?ve=1&tl=1",
+   "age": "21m ago",
+   "published": "2026-08-14T04:50:54+00:00"
+  },
+  {
+   "title": "NFL preseason Week 1 schedule: One reason to watch each game",
+   "url": "https://www.cbssports.com/nfl/news/nfl-preseason-week-1-schedule-one-reason-to-watch-each-game/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/06/11/5dcc1596-55b4-424f-b96e-64224f3ec73a/getty-deshaun-watson-shedeur-sanders-browns.jpg",
+   "age": "1h ago",
+   "published": "2026-08-14T03:59:10+00:00"
+  },
+  {
+   "title": "Steelers rookie QB Drew Allar exceeds expectations in NFL debut vs. Packers",
+   "url": "https://www.cbssports.com/nfl/news/steelers-rookie-qb-drew-allar-impressive-nfl-debut-packers/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/14/c0b3c15a-f362-4257-aa9c-48db66fc2984/allar.jpg",
+   "age": "1h ago",
+   "published": "2026-08-14T03:49:27+00:00"
+  },
+  {
+   "title": "Angel Reese smacked in the face by Sun's Aaliyah Edwards, has poor shooting night in Dream win",
+   "url": "https://www.foxnews.com/outkick-sports/angel-reese-smacked-face-suns-aaliyah-edwards-poor-shooting-night-dream-win",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Angel Reese was hit in the face by Aaliyah Edwards during the Atlanta Dream s blowout win over the Connecticut Sun, leading to a Flagrant 1 upgrade.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/angel-reese-floor.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-14T03:20:26+00:00"
+  },
+  {
+   "title": "Fernando Mendoza looked the part in his NFL preseason debut, will he force the Raiders' hand?",
+   "url": "https://www.cbssports.com/nfl/news/fernando-mendoza-nfl-debut-will-he-force-the-raiders-hand/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/14/be4af01c-2ddb-4a23-978b-0b587f2dd426/gettyimages-2290378691-1.jpg",
+   "age": "1h ago",
+   "published": "2026-08-14T03:16:18+00:00"
+  },
+  {
+   "title": "Kyle Schwarber launches two homers into the corn after MLB's incredible HoF tribute at Field of Dreams game",
+   "url": "https://www.foxnews.com/outkick-sports/kyle-schwarber-launches-two-homers-corn-mlb-incredible-hof-tribute-field-dreams-game",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Field of Dreams MLB game featured 26 Hall of Fame players walking through the iconic cornfield before Kyle Schwarber s leadoff blast stole the show.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/luke-keaschall-kyle-schwarber-field-of-dreams-fox-news_.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-08-14T02:55:07+00:00"
+  },
   {
    "title": "Anthony Richardson's turnovers in preseason opener raise more questions about his Colts future",
    "url": "https://www.foxnews.com/outkick-sports/anthony-richardson-turnovers-preseason-opener-raise-questions-colts-future",
@@ -28,7 +118,7 @@
    "topic": "world",
    "summary": "Anthony Richardson threw an interception and fumbled in the Colts preseason opener, raising more questions about his future as a backup quarterback.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/anthony-richardson-colts-patriots-preseason.jpg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-14T02:00:26+00:00"
   },
   {
@@ -39,63 +129,8 @@
    "topic": "markets",
    "summary": "\"It will be a combination of economic isolation like ‌the world has ​never seen before, ​and ​the continued blockade in ‌the Strait of ​Hormuz,\" Bessent said.",
    "image": "https://image.cnbcfm.com/api/v1/image/108344430-1785846072731-bessent1.jpg?v=1785846078&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-14T01:52:07+00:00"
-  },
-  {
-   "title": "White House exposes ‘Transshipment Scam’ costing US up to $26B, points finger at China",
-   "url": "https://www.foxnews.com/politics/white-house-exposes-transshipment-scam-costing-us-26b-points-finger-china",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The White House report identifies over 40 countries posing elevated transshipment risk as China routes goods through third nations to dodge tariffs.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/05/931/523/GettyImages-1212971284-scaled.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-14T01:51:16+00:00"
-  },
-  {
-   "title": "CNN calls out Patriot Games participants as 'overwhelmingly White,' citing outlet's analysis",
-   "url": "https://www.foxnews.com/media/cnn-calls-out-patriot-games-participants-overwhelmingly-white-citing-outlet-analysis",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Audie Cornish said a CNN analysis found Patriot Games athletes appear overwhelmingly White, and the White House fired back at criticism of the event.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/CORNISH-CNN.gif",
-   "age": "1h ago",
-   "published": "2026-08-14T01:28:27+00:00"
-  },
-  {
-   "title": "Live bullet found aboard United flight forces passengers off plane for security sweep at Denver airport",
-   "url": "https://www.foxnews.com/us/live-bullet-found-aboard-united-flight-forces-passengers-off-plane-security-sweep-denver-airport",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A live bullet discovered aboard United Airlines Flight 1302 forced 178 passengers to deplane the Boeing 737-900 at Denver International Airport.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/united-airlines-denver-airport.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-14T01:22:43+00:00"
-  },
-  {
-   "title": "Uber partners with China's Pony.ai for 2,000 robotaxis in Europe",
-   "url": "https://www.cnbc.com/2026/08/14/uber-partners-with-chinas-ponyai-for-2000-robotaxis-in-europe.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The rollout comes as robotaxi fleet sizes become increasingly critical for commercialization.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108349495-1786662481664-gettyimages-2274169871-AFP_A9WN7K6.jpeg?v=1786662575&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-08-14T01:02:39+00:00"
-  },
-  {
-   "title": "Seahawks sign former first-round Lions cornerback Terrion Arnold despite looming felony charges",
-   "url": "https://www.foxnews.com/sports/seahawks-sign-former-first-round-lions-cornerback-terrion-arnold-despite-looming-felony-charges",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Terrion Arnold signed with the Seattle Seahawks after the Detroit Lions released the cornerback following felony robbery and kidnapping charges.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/terrion-arnold-detroit-lions-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-08-14T00:55:20+00:00"
   },
   {
    "title": "U.S. Launching International One-Way Attack Drone Task Force In The Middle East",
@@ -105,7 +140,7 @@
    "topic": "defense",
    "summary": "Task Force Falcon Strike will combine allies' air, sea and underwater one-way drone operations. The post U.S. Launching International One-Way Attack Drone Task Force In …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Task-Force-Falcoln-Strike.jpg?quality=85",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-08-14T00:15:37+00:00"
   },
   {
@@ -116,8 +151,19 @@
    "topic": "markets",
    "summary": "Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.",
    "image": "https://image.cnbcfm.com/api/v1/image/108348893-1786596567346-gettyimages-2275368013-AFP_B2NX79F.jpeg?v=1786596593&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "5h ago",
    "published": "2026-08-14T00:09:11+00:00"
+  },
+  {
+   "title": "Five things we learned about the Bears’ ongoing stadium saga",
+   "url": "https://allchgo.com/bears/five-things-we-learned-bears-ongoing-stadium-saga/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/13182732/2026-03-12T201231Z_885889188_MT1USATODAY28474407_RTRMADP_3_A-BRIDGE-IS-SEEN-OUT-SIDE-OF-THE-PURPOSED-SITE-FOR-THE-NEW-1-1024x576.jpg",
+   "age": "5h ago",
+   "published": "2026-08-13T23:53:13+00:00"
   },
   {
    "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
@@ -127,8 +173,19 @@
    "topic": "defense",
    "summary": "This post has been updated with a statement from the Shipbuilders Council of America. President Donald Trump has ordered the Pentagon to consider foreign-built warships …",
    "image": "https://news.usni.org/wp-content/uploads/2025/11/ROKNavy.jpeg",
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-08-13T23:15:54+00:00"
+  },
+  {
+   "title": "Bears training camp report: Thursday, Aug. 13",
+   "url": "https://www.chicagobears.com/news/bears-training-camp-report-thursday-aug-13",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/hjjcsak5yfqtmvzmsjgm.jpg",
+   "age": "6h ago",
+   "published": "2026-08-13T22:47:10+00:00"
   },
   {
    "title": "US wait times for cancer surgeries are getting longer and longer",
@@ -138,7 +195,7 @@
    "topic": "ai",
    "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440-1152x648.jpg",
-   "age": "4h ago",
+   "age": "6h ago",
    "published": "2026-08-13T22:17:29+00:00"
   },
   {
@@ -149,7 +206,7 @@
    "topic": "ai",
    "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2202517874.jpg?resize=1200,800",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-08-13T22:12:40+00:00"
   },
   {
@@ -160,7 +217,7 @@
    "topic": "ai",
    "summary": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company ha…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-08-13T22:02:04+00:00"
   },
   {
@@ -171,7 +228,7 @@
    "topic": "ai",
    "summary": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/ios-notification-threat-apple-hero.jpg?resize=1200,814",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-08-13T21:50:11+00:00"
   },
   {
@@ -182,7 +239,7 @@
    "topic": "defense",
    "summary": "The memo also called for the establishment of a new component repair center in an attempt to reduce submarine repair delays.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-08-13T21:49:57+00:00"
   },
   {
@@ -193,7 +250,7 @@
    "topic": "defense",
    "summary": "Top news from the final day of the 2026 Space and Missile Defense Symposium.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD-day3video-pb2-1024x576.png",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-08-13T21:48:40+00:00"
   },
   {
@@ -204,7 +261,7 @@
    "topic": "defense",
    "summary": "The following is President Donald Trump s presidential memorandum, Rebuilding the United States Navy and America s Shipbuilding Industrial Base, signed Aug. 13, 2026. Fr…",
    "image": null,
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-08-13T21:46:21+00:00"
   },
   {
@@ -215,19 +272,8 @@
    "topic": "defense",
    "summary": "Lockheed Martin's new MORFIUS X-Rotor counter-UAS system hunts drones and can knock down dozens of them with its high power microwave payload. The post Meet MORFIUS: The…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/mpphius.jpg?quality=85",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-08-13T21:41:10+00:00"
-  },
-  {
-   "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-   "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
-   "age": "5h ago",
-   "published": "2026-08-13T21:13:24+00:00"
   },
   {
    "title": "Australia’s MC-55 Electronic Warfare Jet Has Entered The South China Sea",
@@ -237,7 +283,7 @@
    "topic": "defense",
    "summary": "The Peregrine’s first overseas deployment gives Canberra an extremely powerful new intelligence-gathering capability right in China’s backyard. The post Australia’s MC-5…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/RAAF-PEREGRINE-ISR.jpg?quality=85",
-   "age": "6h ago",
+   "age": "8h ago",
    "published": "2026-08-13T20:58:24+00:00"
   },
   {
@@ -248,7 +294,7 @@
    "topic": "defense",
    "summary": "The Army s space superiority efforts are focused on countering adversary ISR satellites, as well as conducting stratospheric warfare, Col. Joe Mroszcyck told Breaking De…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260813_DVIDS_army_sat_dish_8679759-scaled-e1786649566356-1024x577.jpg",
-   "age": "6h ago",
+   "age": "8h ago",
    "published": "2026-08-13T20:32:07+00:00"
   },
   {
@@ -259,30 +305,8 @@
    "topic": "defense",
    "summary": "Private Aiden Craig, a Marine Corps recruit, died last week, the Marine Corps announced Wednesday. Craig, of Wylie, Texas, died on Aug. 5 after collapsing during a physi…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Craig-Aiden-scaled-e1786651229818.jpg",
-   "age": "7h ago",
+   "age": "9h ago",
    "published": "2026-08-13T20:03:36+00:00"
-  },
-  {
-   "title": "OpenAI loses revenue chief Denise Dresser, second major executive departure in days",
-   "url": "https://www.cnbc.com/2026/08/13/openai-denise-dresser-executive-exits.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Denise Dresser's sudden departure could be a major blow to OpenAI as it pursues a blockbuster IPO.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108054456-1730227996732-gettyimages-2181105069-TECHCRUNCH_DISRUPT.jpeg?v=1765311152&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-08-13T19:59:46+00:00"
-  },
-  {
-   "title": "U.S. Not Prepared To Handle Drone Attack From Inside Homeland: NORTHCOM Deputy Commander",
-   "url": "https://www.twz.com/air/u-s-not-prepared-to-handle-drone-attack-from-inside-homeland-deputy-norad-commander",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "A top general in charge of protecting the U.S. gave a refreshingly frank but also troubling assessment of America's drone defenses. The post U.S. Not Prepared To Handle …",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/Aircraft-on-fligth-line-drone-threat.jpg?quality=85",
-   "age": "7h ago",
-   "published": "2026-08-13T19:39:54+00:00"
   },
   {
    "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
@@ -292,19 +316,8 @@
    "topic": "ai",
    "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg",
-   "age": "7h ago",
+   "age": "9h ago",
    "published": "2026-08-13T19:38:58+00:00"
-  },
-  {
-   "title": "Army fires community tackling four ‘capability gaps,’ including magazine depth",
-   "url": "https://breakingdefense.com/2026/08/army-fires-community-tackling-four-capability-gaps-including-magazine-depth/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Brig. Gen. Robert Mikesh, charged with offensive fires, detailed a quadruple challenge — energetics and propulsion, targeting and seekers, the industrial base and “munit…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/prsm-inc-1-launch-e1776972064904.jpg",
-   "age": "7h ago",
-   "published": "2026-08-13T19:34:30+00:00"
   },
   {
    "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
@@ -314,30 +327,8 @@
    "topic": "ai",
    "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg-1152x648.jpg",
-   "age": "7h ago",
+   "age": "10h ago",
    "published": "2026-08-13T19:12:15+00:00"
-  },
-  {
-   "title": "Chinese, Indonesian Warships Drill East of Taiwan",
-   "url": "https://news.usni.org/2026/08/13/chinese-indonesian-warships-drill-east-of-taiwan",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "TAIPEI, TAIWAN – Chinese and Indonesian warships held a joint drill on Wednesday in waters to Taipei’s east amid Beijing’s increased efforts to solidify its presence eas…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/A062E596-79B4-4DDE-AB00-E6D74C3A2FA2.png",
-   "age": "8h ago",
-   "published": "2026-08-13T18:32:53+00:00"
-  },
-  {
-   "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-   "url": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/US-Army-Tank-in-Exercise-Combined-Resolve-1152x648.jpg",
-   "age": "8h ago",
-   "published": "2026-08-13T18:31:56+00:00"
   },
   {
    "title": "US Marines roam far and wide from temporary Darwin base",
@@ -347,7 +338,7 @@
    "topic": "defense",
    "summary": "This year's Marine Rotation Force-Darwin is the first in its 15-year history to be certified as a Marine Air-Ground Task Force.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CEDMBVWXPZAVLMS4OUWLVEH5SQ.JPG",
-   "age": "8h ago",
+   "age": "10h ago",
    "published": "2026-08-13T18:26:28+00:00"
   },
   {
@@ -358,19 +349,52 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "8h ago",
+   "age": "10h ago",
    "published": "2026-08-13T18:16:19+00:00"
+  },
+  {
+   "title": "Kevin Warren on stadium: Focus is on Hammond, but no date for next steps",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/120609/kevin-warren-on-stadium-focus-is-on-hammond-but-no-date-for-next-steps",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2255941205.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "11h ago",
+   "published": "2026-08-13T17:56:58+00:00"
   },
   {
    "title": "William Byron Continues Short-Track Surge Heading to Richmond",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU3ZHh4SW5nbUFDSVg0cHNEbGhTZTBTcFhQZ01RMlprSmlwejhqZ1E5MEduSTdYT3E0ZWJQYy1fQ0FiZFYyWVJJb2pQRVZKeThzR0Zya0F3NzBoWFFVenNsc0diZnVCakxsUWhnaFQwelJGZHlkbGIyRkdISkJtSVJ5akNVX0ZPMk0zY3hhOFZKeUJULTVoejdyUm5NRnZ0WkhzSl9TbXIzc3BxaUR3Z0FoeEhpMTYxYVo4cUJqdldOSkVfeGlWbTcyQWE4d28?oc=5",
-   "source": "Speedway Digest",
+   "source": "speedwaydigest.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "11h ago",
    "published": "2026-08-13T17:24:11+00:00"
+  },
+  {
+   "title": "A Day at Halas Hall",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/120493/a-day-at-halas-hall",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/HPYSswDWcAAN3rp.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "12h ago",
+   "published": "2026-08-13T16:46:36+00:00"
+  },
+  {
+   "title": "Bears host second annual Celebrating Women and Girls in Sports Day at training camp",
+   "url": "https://www.chicagobears.com/news/bears-host-second-annual-celebrating-women-and-girls-in-sports-day-at-training-camp",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/oczt5esidb2aplh3eepd.jpg",
+   "age": "13h ago",
+   "published": "2026-08-13T16:12:00+00:00"
   },
   {
    "title": "Flight-tracking data shows continued Russian air bridge to sub-Saharan Africa",
@@ -380,8 +404,19 @@
    "topic": "defense",
    "summary": "A recent report from the Center for Advanced Defense Studies found that Russian state-aligned military forces flew at least 75 flights in Central Sahel.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ABC47JOQNFBBNBU4BTQW6UPYXM.jpg",
-   "age": "11h ago",
+   "age": "14h ago",
    "published": "2026-08-13T15:07:56+00:00"
+  },
+  {
+   "title": "Chicago Bears roster by jersey number, last name",
+   "url": "https://www.windycitygridiron.com/chicago-bears-roster/120130/chicago-bears-roster-by-jersey-number-last-name",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY294755021130048448.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "16h ago",
+   "published": "2026-08-13T13:00:00+00:00"
   },
   {
    "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
@@ -391,8 +426,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "14h ago",
+   "age": "16h ago",
    "published": "2026-08-13T12:35:15+00:00"
+  },
+  {
+   "title": "How to watch, listen to, stream Bears-Browns Preseason Week 1 game",
+   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-cleveland-browns-2026-week-1-preseason-listen-stream-tv-radio-football-online-nfl",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/iatyt7ynhhmyly892d8b.jpg",
+   "age": "1d ago",
+   "published": "2026-08-12T21:11:00+00:00"
   },
   {
    "title": "Army opens test ranges to private industry",
@@ -406,59 +452,15 @@
    "published": "2026-08-12T20:59:14+00:00"
   },
   {
-   "title": "Trump swaps planes via catering truck after Iranian threats, reports say",
-   "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Trump was transferred from Air Force One to a military plane via a catering truck due to Iranian threats following a NATO summit in Turkey, reports say.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DKHZ55PEKZEPDOMBECJK4JPZQQ.JPG",
-   "age": "1d ago",
-   "published": "2026-08-12T15:13:20+00:00"
-  },
-  {
-   "title": "Kyle Petty on Hendrick Motorsports' tough year: ‘There’s no magic bullet’",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaExPWV9oLTIwRnpaS0RQLVFUWnRzaGhGSU9XT0lPVFV4eFhkOVBSNVNUQjJYOERIT0NjZnJnbmVWM2dTbExoN01LaW53cmczVi1va29rY01zZDBhbUZhUDFOcFNiQkExa3J3dkhKN19lN1EyY201QkxqbGY4cmJfLXRsYndHSnd5dFJlSEIxVzVMR2VNQm5Kd0ZHbkhUcGE2WmdUekhGREhoVkM5UjNra1Fmc25XS3JWckRUag?oc=5",
-   "source": "Motorsport.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Bears camp notebook: Caleb Williams, D’Andre Swift stand out during Ben Johnson’s ‘big-time’ scrimmage practice",
+   "url": "https://allchgo.com/bears/bears-camp-caleb-williams-dandre-swift-big-scrimmage/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-08-12T14:27:59+00:00"
-  },
-  {
-   "title": "Davich | This is our Region's new severe-weather reality",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_3ccda04d-a26b-4647-8705-ce5b2a89175c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s no longer a matter of if a severe storm strikes, but when. And where. It feels as random as the wind. Who gets hit. Who dodges it. Who loses power. And for how long.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/1b/11be7d53-2779-456e-9e93-51ae79e72764/6a7b81679b571.image.jpg?resize=300%2C202",
-   "age": "1d ago",
-   "published": "2026-08-12T12:15:00+00:00"
-  },
-  {
-   "title": "Walkaway wives | Why more women are choosing freedom after 50 | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_d4a37d84-9079-4519-9e77-2323e47769db.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A record number of older, unfulfilled Gen Xers and Baby Boomers are deciding they’ve had enough, walking away from marriages that no longer make them happy.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/2b/22b01a9d-a67b-4899-85a6-397a07a1e2fb/6a7a386e5086b.image.jpg?resize=300%2C225",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/11174712/2026-08-05T163230Z_1780252072_MT1USATODAY29519092_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
    "age": "2d ago",
-   "published": "2026-08-11T12:15:00+00:00"
-  },
-  {
-   "title": "Key takeaways about Flock cameras | Crime fighter or surveillance state?",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_1da68ead-9b6b-49a2-ba6f-367c6903defb.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Flock license plate cameras are helping police across Northwest Indiana, but the technology is changing the balance between public safety and personal freedom.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/6d/96d50d05-3566-4b6c-8b40-23a9d977c110/6a7778cf24ce2.image.jpg?resize=300%2C225",
-   "age": "3d ago",
-   "published": "2026-08-10T13:00:00+00:00"
+   "published": "2026-08-12T00:57:13+00:00"
   }
  ]
 }
