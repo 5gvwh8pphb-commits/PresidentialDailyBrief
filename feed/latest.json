@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-14T18:12:31+00:00",
+ "generated": "2026-08-14T19:25:34+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 36,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -13,7 +13,7 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NWI Times",
+  "NASCAR.com",
   "Speedway Digest",
   "TechCrunch",
   "The War Zone",
@@ -23,6 +23,50 @@
  ],
  "items": [
   {
+   "title": "Regulators and banks step up scrutiny of prediction markets",
+   "url": "https://www.cnbc.com/2026/08/14/prediction-markets-scrutiny-mounts-from-regulators-and-banks.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The CFTC is reviewing prediction betting platforms' so-called mention markets, people familiar with the matter confirmed to CNBC.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108151372-1748449336417-gettyimages-2216866669-BITCOIN_2025.jpeg?v=1748449367&amp;w=1920&amp;h=1080",
+   "age": "3m ago",
+   "published": "2026-08-14T19:21:49+00:00"
+  },
+  {
+   "title": "James Pearce Jr. suspended eight games following offseason arrest",
+   "url": "https://www.cbssports.com/nfl/news/nfl-falcons-james-pearce-jr-suspended/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/12/25391cfb-8d8a-4521-b02b-c23c5b7475bd/pearce.jpg",
+   "age": "12m ago",
+   "published": "2026-08-14T19:13:10+00:00"
+  },
+  {
+   "title": "Bringing Back Steam Catapults On Carriers Is A Huge Risk",
+   "url": "https://www.twz.com/sea/bringing-back-steam-catapults-on-carriers-is-a-huge-risk",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Trump has long railed against electromagnetic catapults and elevators, but changing course now will be costly and could have huge impacts on a strained force. The post B…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/Catapult-Carriers-Trump-Steam.jpg?quality=85",
+   "age": "14m ago",
+   "published": "2026-08-14T19:10:41+00:00"
+  },
+  {
+   "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+   "url": "https://www.cnbc.com/2026/08/14/trump-ballroom-supreme-court-white-house.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "President Donald Trump tore down the White House East Wing to make way for the ballroom project.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108349742-1786714330366-gettyimages-2289313258-ah803417.jpeg?v=1786714379&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-08-14T19:10:18+00:00"
+  },
+  {
    "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
    "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
    "source": "CNBC",
@@ -30,8 +74,63 @@
    "topic": "markets",
    "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349722-1786712900728-gettyimages-2285138968-kd1_9383_mmure7bl.jpeg?v=1786712921&amp;w=1920&amp;h=1080",
-   "age": "1m ago",
-   "published": "2026-08-14T18:11:11+00:00"
+   "age": "18m ago",
+   "published": "2026-08-14T19:07:11+00:00"
+  },
+  {
+   "title": "What we know about the alleged Iranian hacks on U.S. water utilities",
+   "url": "https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Over the last couple of weeks, hackers have targeted and broken into the systems of several water plants in the United States. Here’s what we know and don’t know about t…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-treatment-facility-monitoring-equipment.jpg?resize=1200,800",
+   "age": "21m ago",
+   "published": "2026-08-14T19:04:32+00:00"
+  },
+  {
+   "title": "Army identifies 2 pilots killed in Apache helicopter crash near Fort Hood during training exercise",
+   "url": "https://www.foxnews.com/us/army-identifies-2-pilots-killed-apache-helicopter-crash-fort-hood-training-exercise",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Fort Hood identified the two pilots killed in the AH-64E Apache helicopter crash during a training exercise that sparked a wildfire near Salado, Texas.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Huey_Olmstead.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-14T19:02:53+00:00"
+  },
+  {
+   "title": "NFL receiver splits with fiancée, former Miss Peru, after sending wedding invites: report",
+   "url": "https://www.foxnews.com/sports/nfl-receiver-splits-fiancee-former-miss-peru-after-sending-wedding-invites-report",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Allen Lazard and former Miss Peru Camila Escribens have erased each other on social media after reportedly sending wedding invitations.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/camila-escribens-allen-lazard-metlife.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-14T19:00:06+00:00"
+  },
+  {
+   "title": "Read-it-later app Pocket shut down down — here are the best alternatives",
+   "url": "https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Pocket users have until October 8, 2025, to export their saved articles and other items, including lists, archives, favorites, notes, and highlights.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/04/Pocket-app.png?resize=1200,795",
+   "age": "27m ago",
+   "published": "2026-08-14T18:58:15+00:00"
+  },
+  {
+   "title": "The NFL saw what Taylor Swift did for ratings—now they’re staging QB romance for Gen Z: Report",
+   "url": "https://www.foxnews.com/outkick-sports/nfl-saw-what-taylor-swift-did-ratings-now-staging-qb-romance-gen-z-report",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Madison Beer and Justin Herbert s viral training camp video was reportedly part of a coordinated NFL campaign to replicate the Taylor Swift effect.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/justin-herbert-madison-beer-basketball-fox-news-001.jpeg?ve=1&tl=1",
+   "age": "28m ago",
+   "published": "2026-08-14T18:57:09+00:00"
   },
   {
    "title": "Luigi Mangione pleads guilty in federal case related to UnitedHealthcare CEO killing",
@@ -41,19 +140,30 @@
    "topic": "markets",
    "summary": "Mangione's lawyers argue his federal plea bars his prosecution for murder in state court for Brian Thompson's slaying due to New York's double jeopardy law",
    "image": "https://image.cnbcfm.com/api/v1/image/108349816-1786720654257-gettyimages-2276390878-UNITEDHEALTH-CEOMANGIONE.jpeg?v=1786720672&amp;w=1920&amp;h=1080",
-   "age": "1m ago",
-   "published": "2026-08-14T18:11:02+00:00"
+   "age": "41m ago",
+   "published": "2026-08-14T18:43:55+00:00"
   },
   {
-   "title": "Colts coach gets wiped out on sideline during preseason game in painful scene",
-   "url": "https://www.foxnews.com/sports/colts-coach-wiped-out-sideline-preseason-game-painful-scene",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Indianapolis Colts special teams coordinator Brian Mason was writhing in pain after getting rolled up on the sideline during the final play of the preseason game.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/brian-mason-colts-patriots-fox-news_.jpg?ve=1&tl=1",
-   "age": "10m ago",
-   "published": "2026-08-14T18:02:16+00:00"
+   "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+   "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Screen-sharing bug lets remote hackers log in without a password.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro-1152x648.jpg",
+   "age": "53m ago",
+   "published": "2026-08-14T18:32:14+00:00"
+  },
+  {
+   "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+   "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-14T18:00:23+00:00"
   },
   {
    "title": "America is sailing through the Taiwan Strait less. Does it matter?",
@@ -63,30 +173,8 @@
    "topic": "defense",
    "summary": "A Heritage Foundation study shows a significant drop in Taiwan Strait transits by the US military under the second Trump administration.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8270635-scaled-e1786717267553-1024x577.jpg",
-   "age": "12m ago",
+   "age": "1h ago",
    "published": "2026-08-14T18:00:00+00:00"
-  },
-  {
-   "title": "Cathy Engelbert sure seemed to know what a woman was at her first WNBA press conference",
-   "url": "https://www.foxnews.com/outkick-sports/cathy-engelbert-seemed-know-woman-first-wnba-press-conference",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Cathy Engelbert mentioned woman 33 times in her 2019 WNBA presser, championing women s advancement. Now she won t define the term amid the trans debate.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/cathy-engelbert-wnba-all-star-game.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-08-14T17:58:41+00:00"
-  },
-  {
-   "title": "GSA finds China-made tech labeled ‘Made in USA’ in federal procurement program, orders sweeping review",
-   "url": "https://www.foxnews.com/politics/gsa-finds-china-made-tech-labeled-made-usa-federal-procurement-program-orders-sweeping-review",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "GSA alleges AbilityOne listed China-made technology products as American-made, demanding a sweeping audit of 18,000 items on the federal procurement list.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Edward-Forst-GSA.jpg?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-08-14T17:50:06+00:00"
   },
   {
    "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
@@ -96,8 +184,19 @@
    "topic": "defense",
    "summary": "Though Trump promised Kyiv a license to build Patriot missile interceptors last month, Lockheed Martin and Raytheon have put the brakes on production.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Z6TAIU6GVZEA7ABM5EHW4E4VTA.jpg",
-   "age": "32m ago",
+   "age": "1h ago",
    "published": "2026-08-14T17:40:00+00:00"
+  },
+  {
+   "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+   "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-14T17:26:53+00:00"
   },
   {
    "title": "Army picks M1 to lead Flight School Next pilot training program",
@@ -107,7 +206,7 @@
    "topic": "defense",
    "summary": "The announcement is the culmination of a months-long competition to win a contract worth up to $10 billion over the next three decades.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/r66_army-e1770231829378-1024x576.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-14T17:08:25+00:00"
   },
   {
@@ -118,19 +217,8 @@
    "topic": "defense",
    "summary": "Affordable High Speed Strike missiles could offer an important new way to hold enemy air bases, air defense nodes, and other high-value targets at risk. The post Hunt Fo…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/army-ahss-long-range-missile-program.jpg?quality=85",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-14T16:59:10+00:00"
-  },
-  {
-   "title": "Disney CEO Josh D'Amaro tells CNBC parks were 'big surprise' in last quarter, company has 'clarity' and 'stability'",
-   "url": "https://www.cnbc.com/2026/08/14/disney-ceo-josh-damaro-d23-expo.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "New CEO Josh D'Amaro has said his strategy for continued growth at Disney is centered around storytelling, intellectual property and technology.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108260683-1770126131917-108260683-1770125907979-gettyimages-1869811750-vcg111470591485.jpg?v=1770126142&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-14T16:27:45+00:00"
   },
   {
    "title": "U.S. Focused on Quiet Collaboration with Pacific Allies, Not ‘Tub Thumping,’ Says Colby",
@@ -140,7 +228,7 @@
    "topic": "defense",
    "summary": "The Trump administration is focused on delivering military capabilities to the Indo-Pacific to strengthen deterrence, Under Secretary of Defense for Policy Elbridge Colb…",
    "image": "https://news.usni.org/wp-content/uploads/2024/08/8606181-scaled.jpeg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-14T16:25:34+00:00"
   },
   {
@@ -151,30 +239,8 @@
    "topic": "ai",
    "summary": "Unforgetful, the latest app from longtime indie developer Marco Arment, is designed to make reminders harder to ignore — or accidentally dismiss.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/person-remembering-reminder-GettyImages-1420814839.jpg?resize=1200,801",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-14T16:21:04+00:00"
-  },
-  {
-   "title": "Google will now allow users to remove visible watermark from its AI generations",
-   "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-08-14T16:13:40+00:00"
-  },
-  {
-   "title": "Ars Live recap: How can we stop publishers from killing their own games?",
-   "url": "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The Stop Killing Games movement faces an uphill battle.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/3408519540_a597fef749_k-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-08-14T16:11:37+00:00"
   },
   {
    "title": "Rheinmetall Launches New Containerized Loitering Munition From Moving Truck",
@@ -184,7 +250,7 @@
    "topic": "defense",
    "summary": "The ability to launch multiple loitering munitions from an unassuming container while on the move opens up tactical possibilities. The post Rheinmetall Launches New Cont…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Shoot-on-the-move-drone-container-truck.jpg?quality=85",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-14T15:53:41+00:00"
   },
   {
@@ -195,7 +261,7 @@
    "topic": "defense",
    "summary": "As new drones, networks and weapons come online, the Army faces a power crunch that senior officials are asking industry to help solve. “And it s not by buying more gene…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9345547-1024x656.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-14T15:48:31+00:00"
   },
   {
@@ -206,30 +272,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2025/11/18/2ada34b7-34b2-4146-9977-0c804de9819a/getty-dak-prescott-george-pickens-cowboys.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-14T15:47:44+00:00"
-  },
-  {
-   "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
-   "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Third-party app stores are about to become more visible in Google Play.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-08-14T15:46:40+00:00"
-  },
-  {
-   "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-   "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model …",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-   "age": "2h ago",
-   "published": "2026-08-14T15:43:28+00:00"
   },
   {
    "title": "Rams' Puka Nacua reveals injury he suffered at Michael Rubin party",
@@ -239,19 +283,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/04/02/18d0e938-d135-4fb4-b542-f5615304ab9b/puka-nacua-1.jpg",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-08-14T15:23:19+00:00"
-  },
-  {
-   "title": "R-rated director's cut of X-Files film restores Chris Carter's original horror vision",
-   "url": "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Chris Carter chats with Ars about the film he originally wanted to make—and why it's more relevant than ever.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/xfilesTOP-ALT-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-08-14T15:18:22+00:00"
   },
   {
    "title": "CENTCOM launches multinational attack drone task force",
@@ -261,19 +294,8 @@
    "topic": "defense",
    "summary": "Task Force Falcon Strike will employ one-way attack drones composed of unmanned systems from above, on and below the sea.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TVT3DSUTGFHTFMFJ6DXZRAAU7I.jpg",
-   "age": "3h ago",
-   "published": "2026-08-14T15:09:04+00:00"
-  },
-  {
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for NFL preseason Week 1, Yankees-Blue Jays on Friday",
-   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nfl-preseason-week-1-yankees-blue-jays-friday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/07/30/08c21955-0551-4824-b6a4-29a83721d406/betmgm-1t500-promo.jpg",
    "age": "4h ago",
-   "published": "2026-08-14T13:33:08+00:00"
+   "published": "2026-08-14T15:09:04+00:00"
   },
   {
    "title": "Five Ways It Could All Go Right for the Chicago Bears in 2026!",
@@ -283,19 +305,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/01/gettyimages-2255612308.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-14T12:30:00+00:00"
-  },
-  {
-   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
-   "age": "5h ago",
-   "published": "2026-08-14T12:15:00+00:00"
   },
   {
    "title": "What I’m watching in the Bears’ preseason opener against the Browns",
@@ -305,7 +316,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/13222417/2026-08-01T023813Z_525351741_MT1USATODAY29491743_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-14T10:00:00+00:00"
   },
   {
@@ -316,19 +327,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2254410005.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-14T10:00:00+00:00"
-  },
-  {
-   "title": "U.S. Launching International One-Way Attack Drone Task Force In The Middle East",
-   "url": "https://www.twz.com/news-features/u-s-launching-international-one-way-attack-drone-task-force-in-the-middle-east",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Task Force Falcon Strike will combine allies' air, sea and underwater one-way drone operations. The post U.S. Launching International One-Way Attack Drone Task Force In …",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/Task-Force-Falcoln-Strike.jpg?quality=85",
-   "age": "17h ago",
-   "published": "2026-08-14T00:15:37+00:00"
   },
   {
    "title": "Five things we learned about the Bears’ ongoing stadium saga",
@@ -338,7 +338,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/13182732/2026-03-12T201231Z_885889188_MT1USATODAY28474407_RTRMADP_3_A-BRIDGE-IS-SEEN-OUT-SIDE-OF-THE-PURPOSED-SITE-FOR-THE-NEW-1-1024x576.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-13T23:53:13+00:00"
   },
   {
@@ -349,7 +349,7 @@
    "topic": "defense",
    "summary": "This post has been updated with a statement from the Shipbuilders Council of America. President Donald Trump has ordered the Pentagon to consider foreign-built warships …",
    "image": "https://news.usni.org/wp-content/uploads/2025/11/ROKNavy.jpeg",
-   "age": "18h ago",
+   "age": "20h ago",
    "published": "2026-08-13T23:15:54+00:00"
   },
   {
@@ -360,7 +360,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/hjjcsak5yfqtmvzmsjgm.jpg",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-13T22:47:10+00:00"
   },
   {
@@ -371,7 +371,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY266936831873658006.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "20h ago",
+   "age": "21h ago",
    "published": "2026-08-13T22:00:00+00:00"
   },
   {
@@ -382,7 +382,7 @@
    "topic": "defense",
    "summary": "The following is President Donald Trump s presidential memorandum, Rebuilding the United States Navy and America s Shipbuilding Industrial Base, signed Aug. 13, 2026. Fr…",
    "image": null,
-   "age": "20h ago",
+   "age": "21h ago",
    "published": "2026-08-13T21:46:21+00:00"
   },
   {
@@ -393,7 +393,7 @@
    "topic": "defense",
    "summary": "This year's Marine Rotation Force-Darwin is the first in its 15-year history to be certified as a Marine Air-Ground Task Force.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CEDMBVWXPZAVLMS4OUWLVEH5SQ.JPG",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-13T18:26:28+00:00"
   },
   {
@@ -404,7 +404,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-13T18:16:19+00:00"
   },
   {
@@ -430,15 +430,26 @@
    "published": "2026-08-13T16:12:00+00:00"
   },
   {
-   "title": "Davich | This is our Region's new severe-weather reality",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_3ccda04d-a26b-4647-8705-ce5b2a89175c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s no longer a matter of if a severe storm strikes, but when. And where. It feels as random as the wind. Who gets hit. Who dodges it. Who loses power. And for how long.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/1b/11be7d53-2779-456e-9e93-51ae79e72764/6a7b81679b571.image.jpg?resize=300%2C202",
-   "age": "2d ago",
-   "published": "2026-08-12T12:15:00+00:00"
+   "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09PM2x3UEEycmVQeWZQWkVFekVZV3ZSb1QxTlc3UTdZZG9jMFZXZWR2TlZpY1RRV0ZJdWdXNTFXUnlmSVdGaWlNNkRKeXlEY1hXRTc4bFYwZlRlVEY4QUU0SFBQX09sVFg0bUtvVGZEeEVKTjNDdTg2dlE5dkhnM1hiZ2Vqbk9OYktpSmpCZVJQZHZqdFV4X3FSMjZsZ9IBowFBVV95cUxNT3ZuM2JhUXMtbWQ5d0l1U19seDQxenBpOWJZZWVreGpBZGlzZGdGbzU4bDZmQW1IUjJjdnRubW1yTzAwR0Z1Rm4tTDlueVZjTTRKTXFSNS13TV9KQklERlV6aG1jWlhoeks3akMtLXN4RHZqT2xHS2l4VjlaemJaSktfMEdXNEN3LUc0cTBvZ19ldWpKamhaTnlGbnFyWU5TWVZv?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-08-13T12:35:15+00:00"
+  },
+  {
+   "title": "How to watch, listen to, stream Bears-Browns Preseason Week 1 game",
+   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-cleveland-browns-2026-week-1-preseason-listen-stream-tv-radio-football-online-nfl",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/iatyt7ynhhmyly892d8b.jpg",
+   "age": "1d ago",
+   "published": "2026-08-12T21:11:00+00:00"
   },
   {
    "title": "Bears camp notebook: Caleb Williams, D’Andre Swift stand out during Ben Johnson’s ‘big-time’ scrimmage practice",
@@ -450,17 +461,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/11174712/2026-08-05T163230Z_1780252072_MT1USATODAY29519092_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
    "age": "2d ago",
    "published": "2026-08-12T00:57:13+00:00"
-  },
-  {
-   "title": "Walkaway wives | Why more women are choosing freedom after 50 | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_d4a37d84-9079-4519-9e77-2323e47769db.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A record number of older, unfulfilled Gen Xers and Baby Boomers are deciding they’ve had enough, walking away from marriages that no longer make them happy.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/2b/22b01a9d-a67b-4899-85a6-397a07a1e2fb/6a7a386e5086b.image.jpg?resize=300%2C225",
-   "age": "3d ago",
-   "published": "2026-08-11T12:15:00+00:00"
   }
  ]
 }
