@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-15",
+  "dateLabel": "Saturday, August 15, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-15T09:02:16Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, August 14, 2026 close — a modest pullback from Thursday's record highs as softer consumer sentiment data cooled risk appetite, capping a third straight weekly gain.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,785.76", "change": "-13.23", "changePct": "-0.17%", "sixMo": "+14%" },
+        { "name": "Dow",     "close": "53,732.41", "change": "-107.58", "changePct": "-0.20%", "sixMo": "+8.5%" },
+        { "name": "Nasdaq",  "close": "26,729.16", "change": "-73.86", "changePct": "-0.28%", "sixMo": "+19%" }
+      ],
+      "body": "A preliminary University of Michigan reading showed consumers growing more pessimistic about the economy, pulling stocks back from Thursday's record close; even so, the S&P 500 notched its third consecutive weekly gain.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "Trump says he'll 'never apologize' for Iran war despite higher gas prices",
+      "body": "At a Friday rally in Nassau County, N.Y., President Trump defended the military campaign against Iran, telling supporters to accept paying 'a tiny little bit more' at the pump to keep Tehran from obtaining a nuclear weapon; national gas prices have averaged above $4 a gallon, the highest for this time of year on record.",
+      "source": "Reuters",
+      "url": "https://www.yahoo.com/news/politics/articles/trump-urges-americans-accept-higher-203543611.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Taiwan tracks four PLA aircraft sorties, eight warships in latest 24-hour window",
+      "body": "Taiwan's Ministry of National Defense said it detected four PLA aircraft sorties, eight PLA Navy vessels and one China Coast Guard ship around the island in the 24 hours to 6 a.m. Saturday, with three of the four aircraft crossing the Taiwan Strait median line — a sharp drop from Friday's nine sorties and 12 warships.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-four-pla-aircraft-sorties-eight-plan-vessels-around-its-territory20260815064758/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Senate Democrats press Hegseth for answers on USS Abraham Lincoln conditions",
+      "body": "Sen. Richard Blumenthal and other Senate Armed Services Democrats sent a letter demanding accountability after reports of supply shortages, water contamination and mental-health crises aboard the carrier, deployed more than 250 days without a port call; Hegseth has dismissed the reports as 'completely misrepresented,' while the Navy confirmed a sailor went overboard Aug. 3 and was recovered safely.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/uss-abraham-lincoln-democratic-senators-inquiry-demand/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US has lost about a quarter of its MQ-9 Reaper drone fleet in the Iran war",
+      "body": "The Pentagon has lost at least 45 MQ-9 Reapers, worth over $1.3 billion, during the campaign against Iran, officials told the Washington Post, with the slow, low-flying drones proving vulnerable around the Strait of Hormuz; the losses are accelerating Pentagon plans to replace the Reaper with cheaper, swarming surveillance drones.",
+      "source": "The Washington Post",
+      "url": "https://www.spokesman.com/stories/2026/aug/13/us-military-has-lost-roughly-25-of-its-reaper-dron/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "Anthropic makes Claude Code's 'auto mode' the default for most users",
+      "body": "Starting Aug. 14, Claude Code runs in auto mode by default for Pro, Max and Team subscribers, letting an automated classifier approve routine actions instead of prompting for permission at each step; Anthropic says internal testing found the classifier catches 89% of risky commands versus 13.6% for humans, though it still recommends human review for production changes.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/14/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears to sit Caleb Williams and most starters in preseason opener vs. Browns",
+      "body": "Coach Ben Johnson said backup Tyson Bagent will start today's noon kickoff at Soldier Field with Williams and most first-teamers held out, calling it a chance to evaluate players further down the depth chart; left tackle Braxton Jones returned to practice Thursday for the first time since his Aug. 6 injury but isn't expected back in game action until next week.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/13/bears-will-sit-qb-caleb-williams-vs-browns-in-preseason-opener-backup-tyson-bagent-to-start"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "William Byron qualifies fifth for tonight's Cook Out 400 at Richmond",
+      "body": "Byron posted a lap of 22.347 seconds in Friday qualifying to start fifth in his No. 24 Chevrolet for Saturday night's Cup Series race at Richmond Raceway, with the green flag set for 7:10 p.m. ET.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/news/2026/august/14/nascar-qualifying-results-william-byron-takes-fifth-richmond-starting-lineup"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
