@@ -1,9 +1,9 @@
 {
- "generated": "2026-08-15T04:53:58+00:00",
+ "generated": "2026-08-15T05:16:10+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -13,13 +13,10 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NASCAR.com",
-  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "Yardbarker"
+  "Windy City Gridiron"
  ],
  "items": [
   {
@@ -30,19 +27,8 @@
    "topic": "world",
    "summary": "Larry Montes is facing multiple charges after allegedly striking a congregant and headbutting a security team member during Shabbat services at Central Synagogue in New …",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/central-synagogue-nyc-hate-crime-charges.jpg?ve=1&tl=1",
-   "age": "26m ago",
+   "age": "48m ago",
    "published": "2026-08-15T04:27:46+00:00"
-  },
-  {
-   "title": "Bears vs Browns: How to watch, start time, odds and more",
-   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/120670/bears-vs-browns-how-to-watch-start-time-odds-and-more",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2251417347.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
-   "published": "2026-08-15T03:35:10+00:00"
   },
   {
    "title": "Caitlin Clark overcomes injury scare, drops 29 points on Dallas Wings as Fever take top spot in East",
@@ -74,7 +60,7 @@
    "topic": "world",
    "summary": "An Arizona Shake Shack employee allegedly robbed his own restaurant at gunpoint, locked co-workers in a cooler, then returned in uniform two days later.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/keondre-simmons-shake-shack-robbery.jpg?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-15T02:04:07+00:00"
   },
   {
@@ -85,7 +71,7 @@
    "topic": "world",
    "summary": "Construction workers in Belgium discovered $10 million in gold coins and bars while building a sewer, but a finder s fee remains uncertain.",
    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/GOLD-FOUND-IN-BELGIUM.gif",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-15T01:09:08+00:00"
   },
   {
@@ -118,7 +104,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2281439656.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-14T23:06:21+00:00"
   },
   {
@@ -140,7 +126,7 @@
    "topic": "defense",
    "summary": "I have no idea if it's day or night anymore. The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GettyImages-508336080.jpg?quality=85",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-14T21:55:00+00:00"
   },
   {
@@ -173,7 +159,7 @@
    "topic": "markets",
    "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
    "image": "https://image.cnbcfm.com/api/v1/image/108327769-1782530637304-2026-06-26_Citizenshipship_Greg-8.jpg?v=1782531933&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-14T21:06:48+00:00"
   },
   {
@@ -184,8 +170,19 @@
    "topic": "defense",
    "summary": "The R66 will be part of a fundamentally different, contractor-run approach to producing Army helicopter pilots. The post Army To Use Robinson R66 For Its New Helicopter …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Robinson-R66-Army.jpg?quality=85",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-14T21:03:13+00:00"
+  },
+  {
+   "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+   "url": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108344430-1785846072731-bessent1.jpg?v=1785846078&amp;w=1920&amp;h=1080",
+   "age": "8h ago",
+   "published": "2026-08-14T20:47:41+00:00"
   },
   {
    "title": "Self-driving trucks are officially testing on California highways",
@@ -206,7 +203,7 @@
    "topic": "defense",
    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Strait of Malacca The George Washington Carrier Stri…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9835496-scaled.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-14T20:16:00+00:00"
   },
   {
@@ -217,7 +214,7 @@
    "topic": "defense",
    "summary": "The Pentagon signed seven-year framework agreements Friday with Boeing and RTX to expand production of critical components for the Standard Missile-3.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/EJZB67TVR5DZ7KLPY6KK7DHJ34.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-14T19:57:54+00:00"
   },
   {
@@ -250,7 +247,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/12/25391cfb-8d8a-4521-b02b-c23c5b7475bd/pearce.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-14T19:13:10+00:00"
   },
   {
@@ -261,7 +258,7 @@
    "topic": "defense",
    "summary": "Trump has long railed against electromagnetic catapults and elevators, but changing course now will be costly and could have huge impacts on a strained force. The post B…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Catapult-Carriers-Trump-Steam.jpg?quality=85",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-14T19:10:41+00:00"
   },
   {
@@ -272,7 +269,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/k0bxrjee6b2uml3wbhuf.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-14T19:10:00+00:00"
   },
   {
@@ -294,7 +291,7 @@
    "topic": "ai",
    "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632-1152x648.jpg",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-14T18:00:23+00:00"
   },
   {
@@ -305,7 +302,7 @@
    "topic": "defense",
    "summary": "A Heritage Foundation study shows a significant drop in Taiwan Strait transits by the US military under the second Trump administration.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8270635-scaled-e1786717267553-1024x577.jpg",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-14T18:00:00+00:00"
   },
   {
@@ -338,7 +335,7 @@
    "topic": "defense",
    "summary": "The announcement is the culmination of a months-long competition to win a contract worth up to $10 billion over the next three decades.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/r66_army-e1770231829378-1024x576.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-14T17:08:25+00:00"
   },
   {
@@ -375,6 +372,17 @@
    "published": "2026-08-14T15:47:44+00:00"
   },
   {
+   "title": "Rams' Puka Nacua reveals injury he suffered at Michael Rubin party",
+   "url": "https://www.cbssports.com/nfl/news/rams-puka-nacua-reveals-injury-he-suffered-at-michael-rubin-party/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/04/02/18d0e938-d135-4fb4-b542-f5615304ab9b/puka-nacua-1.jpg",
+   "age": "13h ago",
+   "published": "2026-08-14T15:23:19+00:00"
+  },
+  {
    "title": "CENTCOM launches multinational attack drone task force",
    "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
    "source": "Defense News",
@@ -382,8 +390,19 @@
    "topic": "defense",
    "summary": "Task Force Falcon Strike will employ one-way attack drones composed of unmanned systems from above, on and below the sea.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TVT3DSUTGFHTFMFJ6DXZRAAU7I.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-14T15:09:04+00:00"
+  },
+  {
+   "title": "Five Ways It Could All Go Right for the Chicago Bears in 2026!",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/120620/five-ways-it-could-all-go-right-for-the-chicago-bears-in-2026",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/01/gettyimages-2255612308.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "16h ago",
+   "published": "2026-08-14T12:30:00+00:00"
   },
   {
    "title": "What I’m watching in the Bears’ preseason opener against the Browns",
@@ -393,7 +412,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/13222417/2026-08-01T023813Z_525351741_MT1USATODAY29491743_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-14T10:00:00+00:00"
   },
   {
@@ -408,6 +427,17 @@
    "published": "2026-08-13T23:53:13+00:00"
   },
   {
+   "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
+   "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "This post has been updated with a statement from the Shipbuilders Council of America. President Donald Trump has ordered the Pentagon to consider foreign-built warships …",
+   "image": "https://news.usni.org/wp-content/uploads/2025/11/ROKNavy.jpeg",
+   "age": "1d ago",
+   "published": "2026-08-13T23:15:54+00:00"
+  },
+  {
    "title": "Bears training camp report: Thursday, Aug. 13",
    "url": "https://www.chicagobears.com/news/bears-training-camp-report-thursday-aug-13",
    "source": "ChicagoBears.com",
@@ -417,39 +447,6 @@
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/hjjcsak5yfqtmvzmsjgm.jpg",
    "age": "1d ago",
    "published": "2026-08-13T22:47:10+00:00"
-  },
-  {
-   "title": "William Byron optimistic ahead of Richmond despite poor 2026 season",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUhqcFc4Z1UyWXJjQkVjNF9scGZJajh5bjZHZWRLRFVYS2Iway1pclJ2Z1ZpVlplSXRJRHhXNHJBUFB3WFZVNm9pWDcwVkRRQm9fMWlRQ0xTVW1HNjZUMjhNc2NGQUQxc09YN3ZPcDY0eHdjWWNxWGc1NlhEV1QtcTI3RkR6WUtVZkt3bTRBaFUyb3p0QUh0d1FRM0hQV0pEUjBQaVdiYkhkRUR1WlRTcUVKRThLazRGeU9oTlpaVE96eUlxU2lN?oc=5",
-   "source": "Yardbarker",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-08-13T18:16:19+00:00"
-  },
-  {
-   "title": "William Byron Continues Short-Track Surge Heading to Richmond",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU3ZHh4SW5nbUFDSVg0cHNEbGhTZTBTcFhQZ01RMlprSmlwejhqZ1E5MEduSTdYT3E0ZWJQYy1fQ0FiZFYyWVJJb2pQRVZKeThzR0Zya0F3NzBoWFFVenNsc0diZnVCakxsUWhnaFQwelJGZHlkbGIyRkdISkJtSVJ5akNVX0ZPMk0zY3hhOFZKeUJULTVoejdyUm5NRnZ0WkhzSl9TbXIzc3BxaUR3Z0FoeEhpMTYxYVo4cUJqdldOSkVfeGlWbTcyQWE4d28?oc=5",
-   "source": "Speedway Digest",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-08-13T17:24:11+00:00"
-  },
-  {
-   "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09PM2x3UEEycmVQeWZQWkVFekVZV3ZSb1QxTlc3UTdZZG9jMFZXZWR2TlZpY1RRV0ZJdWdXNTFXUnlmSVdGaWlNNkRKeXlEY1hXRTc4bFYwZlRlVEY4QUU0SFBQX09sVFg0bUtvVGZEeEVKTjNDdTg2dlE5dkhnM1hiZ2Vqbk9OYktpSmpCZVJQZHZqdFV4X3FSMjZsZ9IBowFBVV95cUxNT3ZuM2JhUXMtbWQ5d0l1U19seDQxenBpOWJZZWVreGpBZGlzZGdGbzU4bDZmQW1IUjJjdnRubW1yTzAwR0Z1Rm4tTDlueVZjTTRKTXFSNS13TV9KQklERlV6aG1jWlhoeks3akMtLXN4RHZqT2xHS2l4VjlaemJaSktfMEdXNEN3LUc0cTBvZ19ldWpKamhaTnlGbnFyWU5TWVZv?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-08-13T12:35:15+00:00"
   },
   {
    "title": "Bears camp notebook: Caleb Williams, D’Andre Swift stand out during Ben Johnson’s ‘big-time’ scrimmage practice",
