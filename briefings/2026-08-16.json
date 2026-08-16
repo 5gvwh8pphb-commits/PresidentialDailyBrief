@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-16",
+  "dateLabel": "Sunday, August 16, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-16T09:03:24Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, August 14, 2026 close, still the most recent session with markets shut for the weekend — a modest pullback from Thursday's record highs that still capped a third straight weekly gain.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,785.76", "change": "-13.23", "changePct": "-0.17%", "sixMo": "+14%" },
+        { "name": "Dow",     "close": "53,732.41", "change": "-107.58", "changePct": "-0.20%", "sixMo": "+8.5%" },
+        { "name": "Nasdaq",  "close": "26,729.16", "change": "-73.86", "changePct": "-0.28%", "sixMo": "+19%" }
+      ],
+      "body": "A preliminary University of Michigan reading showed consumers growing more pessimistic about the economy, pulling stocks back from Thursday's record close, though the S&P 500 still notched its third consecutive weekly gain. No new session has traded since.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Qatar denies holding Iranian pilots shot down during the war",
+      "body": "Qatar's Foreign Ministry called Iranian claims that it is detaining three Iranian air force pilots 'misleading,' saying two Su-24 bombers were shot down after violating Qatari airspace in March and that search-and-rescue teams recovered only the remains of one crew member. Iran's military has written to the Red Cross alleging Qatar is holding three pilots as prisoners of war, a dispute playing out around the Gulf, where Qatar hosts the largest US military base in the Middle East.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/gulf/2026/08/16/qatar-denies-detaining-iranian-pilots-says-it-found-remains-of-one/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~11h ago",
+      "empty": false,
+      "headline": "Taiwan tracks 11 PLA aircraft sorties, eight warships in latest 24-hour window",
+      "body": "Taiwan's Ministry of National Defense said it detected 11 PLA aircraft sorties, eight PLA Navy vessels and two China Coast Guard ships around the island in the 24 hours to 6 a.m. Sunday, with seven of the 11 aircraft crossing the Taiwan Strait median line into the northern and central air defense identification zone.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-11-chinese-aircraft-eight-naval-vessels-operating-near-its-territory20260816064256/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "CENTCOM releases images of carrier USS George H.W. Bush in the Arabian Sea",
+      "body": "US Central Command posted photos Saturday of fighter jets launching from the George H.W. Bush's flight deck as the carrier operates in the Arabian Sea 'supporting security in the Middle East,' part of a rotation meant to relieve the USS Abraham Lincoln after its extended deployment; the Lincoln has drawn scrutiny in Washington over reported supply and morale problems.",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/centcom-posts-images-of-uss-george-hw-bush-in-arabian-sea-amid-carrier-rotation/4028401"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2.5 days ago",
+      "empty": false,
+      "headline": "Army's Iron Horse brigade to field-test M1E3 Abrams and XM30 prototypes",
+      "body": "The 1st Cavalry Division's 1st Armored Brigade Combat Team will put new M1E3 Abrams tank and XM30 infantry-fighting-vehicle prototypes through National Training Center evaluations starting this fall, brigade commander Col. Todd Hertling said. The lighter, hybrid-electric M1E3 cuts its crew to three with an unmanned turret, while two competing XM30 designs from General Dynamics and American Rheinmetall each carry a 50mm cannon, double the Bradley's firepower.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/08/armys-iron-horse-brigade-prepares-to-test-m1e3-xm30-prototypes/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~17h ago",
+      "empty": false,
+      "headline": "Anthropic details how Claude's new text watermarks work",
+      "body": "Anthropic published more specifics on the invisible statistical watermark it began embedding in text from Claude models released on or after Aug. 2, based on Google DeepMind's SynthID-Text approach. The mark travels with copied and pasted text and may survive light editing; Anthropic says a public detection API is still to come.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Four Bears players hurt in preseason opener against the Browns",
+      "body": "Coach Ben Johnson said tight end Nikola Kalinic (knee), safety Xavier Woods (groin), linebacker Nephi Sewell (concussion) and rookie linebacker Ruben Hyppolite II (shoulder) all left Saturday's preseason opener at Soldier Field, with timelines still being evaluated; most starters, including Caleb Williams, sat out the game as planned.",
+      "source": "Bleacher Nation",
+      "url": "https://www.bleachernation.com/bears/2026/08/15/bears-injury-watch-aug-15/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Saturday night's Cook Out 400 at Richmond falls inside the 7-day spoiler window, and Friday's qualifying result was already covered in Saturday's brief; no new roster, injury, schedule or sponsorship news broke within the 72-hour window. Byron's next start is the Dollar Tree 300 at New Hampshire Motor Speedway on Aug. 23.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
