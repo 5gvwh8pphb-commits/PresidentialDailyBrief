@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-17T14:56:42+00:00",
+ "generated": "2026-08-17T15:15:40+00:00",
  "count": 40,
- "withImage": 38,
+ "withImage": 40,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -11,13 +11,66 @@
   "Defense News",
   "Fox News",
   "NWI Times",
-  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "Yardbarker"
+  "USNI News"
  ],
  "items": [
+  {
+   "title": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping",
+   "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108299063-1777468291796-gettyimages-2267404607-avdmar26lot4a.jpeg?v=1781652733&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-08-17T15:14:29+00:00"
+  },
+  {
+   "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
+   "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
+   "age": "2m ago",
+   "published": "2026-08-17T15:12:47+00:00"
+  },
+  {
+   "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
+   "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Terra-Industries-drone.jpg?resize=1200,903",
+   "age": "9m ago",
+   "published": "2026-08-17T15:06:07+00:00"
+  },
+  {
+   "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PVXYRVQFKZFGFAIJ735MV5RCY4.jpg",
+   "age": "9m ago",
+   "published": "2026-08-17T15:06:00+00:00"
+  },
+  {
+   "title": "Hayden Panettiere remembered by Viola Davis, Bethany Joy Lenz and other celebrities after sudden death at 36",
+   "url": "https://www.foxnews.com/entertainment/hayden-panettiere-remembered-viola-davis-bethany-joy-lenz-celebrities-sudden-death-36",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Viola Davis, Bethany Joy Lenz and Melissa Barrera are among the Hollywood stars sharing emotional tributes after Hayden Panettiere s death at 36.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/hayden-panettiere-red.jpeg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-08-17T15:04:55+00:00"
+  },
   {
    "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
    "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
@@ -26,8 +79,30 @@
    "topic": "markets",
    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
    "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&amp;w=1920&amp;h=1080",
-   "age": "just now",
-   "published": "2026-08-17T14:56:10+00:00"
+   "age": "11m ago",
+   "published": "2026-08-17T15:04:24+00:00"
+  },
+  {
+   "title": "Pro-life publisher facing demands to retract calling abortion ‘killing’ fires back: ‘The answer is No’",
+   "url": "https://www.foxnews.com/politics/pro-life-publisher-facing-demands-retract-calling-abortion-killing-fires-back-answer-no",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Live Action s Thomas More Society attorneys reject demands to retract abortion coverage, arguing calling abortion killing is protected speech.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/pro-life-group-fires-back-against-abortion-group.jpg?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-08-17T15:00:57+00:00"
+  },
+  {
+   "title": "GOP freshman firebrand targets global consulting giant over 'plainly illegal' DEI practices",
+   "url": "https://www.foxnews.com/politics/gop-freshman-firebrand-targets-global-consulting-giant-over-plainly-illegal-dei-practices",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "House GOP Rep. Brandon Gill accuses McKinsey Company of pushing DEI reports that promoted illegal race and gender hiring, costing the U.S. economy $94 billion in a year.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/brandon-gill-smithsonian-fox-news.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-08-17T15:00:09+00:00"
   },
   {
    "title": "WordPress.com targets the next generation of web creators with a free student plan",
@@ -37,8 +112,19 @@
    "topic": "ai",
    "summary": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/wp-education_program-announcement_evergreen_blog.png?w=1176",
-   "age": "just now",
+   "age": "19m ago",
    "published": "2026-08-17T14:56:00+00:00"
+  },
+  {
+   "title": "California stabbing victim's friend blasts 'failed' justice system over illegal immigrant suspect's release",
+   "url": "https://www.foxnews.com/media/california-stabbing-victim-friend-blasts-failed-justice-system-illegal-immigrant-suspect-release",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A friend of Todd Stewart says the Golden State s judicial system failed by releasing illegal immigrant Marcos Iriarte-Valdez before the stabbing.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Todd-Stewart-murder.png?ve=1&tl=1",
+   "age": "23m ago",
+   "published": "2026-08-17T14:51:42+00:00"
   },
   {
    "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
@@ -48,7 +134,7 @@
    "topic": "markets",
    "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
    "image": "https://image.cnbcfm.com/api/v1/image/108030386-17256341152024-09-06t144339z_1377032827_rc22v9akatjt_rtrmadp_0_usa-trump-defamation-appeal.jpeg?v=1725634140&amp;w=1920&amp;h=1080",
-   "age": "5m ago",
+   "age": "24m ago",
    "published": "2026-08-17T14:51:24+00:00"
   },
   {
@@ -59,7 +145,7 @@
    "topic": "markets",
    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
-   "age": "7m ago",
+   "age": "26m ago",
    "published": "2026-08-17T14:49:26+00:00"
   },
   {
@@ -70,7 +156,7 @@
    "topic": "world",
    "summary": "Los Angeles Unified School District teachers conduct early-morning ICE patrols near schools, photographing license plates and alerting families.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/ICE_agents.jpeg?ve=1&tl=1",
-   "age": "18m ago",
+   "age": "37m ago",
    "published": "2026-08-17T14:38:17+00:00"
   },
   {
@@ -81,63 +167,8 @@
    "topic": "defense",
    "summary": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KVZ5IIIYJRE2JGGQVOMQDMYXMM.JPG",
-   "age": "20m ago",
+   "age": "39m ago",
    "published": "2026-08-17T14:35:50+00:00"
-  },
-  {
-   "title": "Tupac Shakur murder trial kicks off as Duane 'Keffe D' Davis faces jury nearly three decades after shooting",
-   "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-kicks-duane-keffe-d-davis-faces-jury-nearly-three-decades-shooting",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Keffe D Davis faces a Las Vegas murder trial for the 1996 drive-by shooting of Tupac Shakur, with his own book and police interview as key evidence.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/tupac-shakur-murder-fox-news.jpg?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-08-17T14:34:18+00:00"
-  },
-  {
-   "title": "Reporter's Notebook: Daylight saving time fight puts Senate up against a ticking clock",
-   "url": "https://www.foxnews.com/politics/reporters-notebook-daylight-saving-time-fight-puts-senate-against-ticking-clock",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump urged Republican senators to release holds on the Sunshine Protection Act, but lawmakers from northern states raise concerns about dark mornings.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/clock-rick-scott-dst.jpg?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-08-17T14:33:56+00:00"
-  },
-  {
-   "title": "Nvidia backs financing for OpenAI data center in Ohio",
-   "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
-   "age": "26m ago",
-   "published": "2026-08-17T14:30:32+00:00"
-  },
-  {
-   "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-   "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080",
-   "age": "46m ago",
-   "published": "2026-08-17T14:09:49+00:00"
-  },
-  {
-   "title": "Scottie Scheffler terrorizes Memphis, Rory McIlroy completely mails it in, and Jordan Spieth is done",
-   "url": "https://www.foxnews.com/outkick-sports/scottie-scheffler-terrorizes-memphis-rory-mcilroy-completely-mails-it-jordan-spieth-done",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Scottie Scheffler dominated Memphis with an eight-shot victory, leading the field in strokes gained: putting in a performance that should silence doubters.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/scottie-wins-memphis-featured.jpg?ve=1&tl=1",
-   "age": "48m ago",
-   "published": "2026-08-17T14:08:05+00:00"
   },
   {
    "title": "‘Everybody loves a winner’: US-Ukraine intel sharing surges as Kyiv racks up wins",
@@ -147,7 +178,7 @@
    "topic": "defense",
    "summary": "U.S. intelligence sharing with Ukraine has rebounded to full strength as Kyiv’s mid- and deep-range strikes continue to hammer Russia’s oil industry.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LDUUB6ICKFB2JCCCL6WXO5L4PU.JPG",
-   "age": "56m ago",
+   "age": "1h ago",
    "published": "2026-08-17T14:00:00+00:00"
   },
   {
@@ -167,7 +198,7 @@
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Uber is also making investing in Zipline as part of the tie-up.",
+   "summary": "Uber is also making investing in Zipline a part of the tie-up.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800",
    "age": "1h ago",
    "published": "2026-08-17T13:18:49+00:00"
@@ -191,7 +222,7 @@
    "topic": "ai",
    "summary": "Wispr’s total funding is now over $361 million.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T13:10:05+00:00"
   },
   {
@@ -202,7 +233,7 @@
    "topic": "defense",
    "summary": "Austin Tice, a Marine Corps veteran, was abducted during a 2012 reporting trip to Syria.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TUXGVOQEKFCPNA2KJK72OGCSBM.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T13:00:28+00:00"
   },
   {
@@ -213,7 +244,7 @@
    "topic": "ai",
    "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T13:00:19+00:00"
   },
   {
@@ -224,19 +255,8 @@
    "topic": "ai",
    "summary": "What happens if the Falcon rockets stop flying?",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-17T11:00:26+00:00"
-  },
-  {
-   "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-   "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-   "age": "17h ago",
-   "published": "2026-08-16T20:57:04+00:00"
   },
   {
    "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
@@ -435,28 +455,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2025/11/ROKNavy.jpeg",
    "age": "3d ago",
    "published": "2026-08-13T23:15:54+00:00"
-  },
-  {
-   "title": "William Byron optimistic ahead of Richmond despite poor 2026 season",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUhqcFc4Z1UyWXJjQkVjNF9scGZJajh5bjZHZWRLRFVYS2Iway1pclJ2Z1ZpVlplSXRJRHhXNHJBUFB3WFZVNm9pWDcwVkRRQm9fMWlRQ0xTVW1HNjZUMjhNc2NGQUQxc09YN3ZPcDY0eHdjWWNxWGc1NlhEV1QtcTI3RkR6WUtVZkt3bTRBaFUyb3p0QUh0d1FRM0hQV0pEUjBQaVdiYkhkRUR1WlRTcUVKRThLazRGeU9oTlpaVE96eUlxU2lN?oc=5",
-   "source": "Yardbarker",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-08-13T18:16:19+00:00"
-  },
-  {
-   "title": "William Byron Continues Short-Track Surge Heading to Richmond",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU3ZHh4SW5nbUFDSVg0cHNEbGhTZTBTcFhQZ01RMlprSmlwejhqZ1E5MEduSTdYT3E0ZWJQYy1fQ0FiZFYyWVJJb2pQRVZKeThzR0Zya0F3NzBoWFFVenNsc0diZnVCakxsUWhnaFQwelJGZHlkbGIyRkdISkJtSVJ5akNVX0ZPMk0zY3hhOFZKeUJULTVoejdyUm5NRnZ0WkhzSl9TbXIzc3BxaUR3Z0FoeEhpMTYxYVo4cUJqdldOSkVfeGlWbTcyQWE4d28?oc=5",
-   "source": "Speedway Digest",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-08-13T17:24:11+00:00"
   }
  ]
 }
