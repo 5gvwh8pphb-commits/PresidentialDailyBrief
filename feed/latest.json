@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-17T15:15:40+00:00",
+ "generated": "2026-08-17T15:46:11+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 38,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,22 +10,78 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "NWI Times",
+  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Yardbarker"
  ],
  "items": [
   {
-   "title": "Credit card issuer Synchrony partners with OpenAI for ChatGPT shopping",
+   "title": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
+   "url": "https://news.usni.org/2026/08/17/uss-benfold-leaves-japan-after-returning-from-power-failure-repairs",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to ship spotters. The Arleigh Burke-class …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9835492.jpg",
+   "age": "4m ago",
+   "published": "2026-08-17T15:41:52+00:00"
+  },
+  {
+   "title": "NFL cornerback, 28, retires days after signing with new team",
+   "url": "https://www.foxnews.com/sports/nfl-cornerback-28-retires-days-after-signing-new-team",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sam Webb played just 14 snaps in the Giants preseason loss to the Minnesota Vikings before New York placed him on the Reserve/Retired List.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/sam-webb-browns-bengals-cincinnati-fox-news_.jpg?ve=1&tl=1",
+   "age": "9m ago",
+   "published": "2026-08-17T15:36:33+00:00"
+  },
+  {
+   "title": "Nvidia financing initiative follows SEC guidance that takes sponsors off the hook for data center investments",
+   "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-initiative-follows-sec-guidance-taking-sponsors-off-the-hook.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Recent SEC instructions on data center bonds appear applicable to the recent Nvidia financing move, lawyers say.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-08-17T15:34:49+00:00"
+  },
+  {
+   "title": "Cursed: All four of the Arizona Cardinals first four draft picks are injured, with two out for the season",
+   "url": "https://www.foxnews.com/sports/cursed-all-four-arizona-cardinals-first-four-draft-picks-injured-two-out-season",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Arizona Cardinals rookie injuries are threatening their rebuild as Jeremiyah Love, Chase Bisontis, Carson Beck and Kaleb Proctor all face setbacks.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/chase-bisontis-injured-cardinals-raiders.jpg?ve=1&tl=1",
+   "age": "12m ago",
+   "published": "2026-08-17T15:33:55+00:00"
+  },
+  {
+   "title": "Synchrony, credit card issuer to Amazon and Walmart, partners with OpenAI for ChatGPT shopping",
    "url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
    "summary": "Maran Nalluswami, Synchrony's chief strategy officer, told CNBC it will probably take six to 12 months to get payments fully integrated into ChatGPT.",
    "image": "https://image.cnbcfm.com/api/v1/image/108299063-1777468291796-gettyimages-2267404607-avdmar26lot4a.jpeg?v=1781652733&amp;w=1920&amp;h=1080",
-   "age": "1m ago",
-   "published": "2026-08-17T15:14:29+00:00"
+   "age": "17m ago",
+   "published": "2026-08-17T15:28:45+00:00"
+  },
+  {
+   "title": "Ilhan Omar staffer shredded for downplaying healthcare CEO’s killing after Luigi Mangione guilty plea",
+   "url": "https://www.foxnews.com/politics/ilhan-omar-staffer-shredded-downplaying-healthcare-ceos-killing-luigi-mangione-guilty-plea",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Omar s operations director defended Luigi Mangione on X after his guilty plea, saying the Epstein files subjects roaming free are the real villains.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ilhan-omar-field-hearing-minnesota.jpg?ve=1&tl=1",
+   "age": "19m ago",
+   "published": "2026-08-17T15:27:11+00:00"
   },
   {
    "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
@@ -35,8 +91,63 @@
    "topic": "markets",
    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
    "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
-   "age": "2m ago",
-   "published": "2026-08-17T15:12:47+00:00"
+   "age": "19m ago",
+   "published": "2026-08-17T15:26:52+00:00"
+  },
+  {
+   "title": "Kubasik ousted as L3Harris CEO following conduct violation, company says",
+   "url": "https://breakingdefense.com/2026/08/kubasik-ousted-as-l3harris-ceo-following-conduct-violation-company-says/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "L3Harris did not provide specifics on what led to Kubasik’s ouster, but said in a press release that the company “became aware” of conduct by Kubasik “that was not consi…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/220920_KATZ_L3Harris_sign-scaled-e1690550785613-1024x575.jpg",
+   "age": "25m ago",
+   "published": "2026-08-17T15:21:06+00:00"
+  },
+  {
+   "title": "Virginia police seek others who fired shots in Virginia State University shooting that wounded 5",
+   "url": "https://www.foxnews.com/us/virginia-police-seek-others-fired-shots-virginia-state-university-shooting-wounded-5",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Virginia State University shooting left five wounded as police seek additional shooters and work to determine if they acted in self-defense.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/virginia-state-shooting-suspect-camron-harris.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-17T15:20:52+00:00"
+  },
+  {
+   "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+   "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+   "age": "29m ago",
+   "published": "2026-08-17T15:16:24+00:00"
+  },
+  {
+   "title": "Tom Brady says too many NFL players are 'looking for easy ways out' by skipping preseason games",
+   "url": "https://www.foxnews.com/outkick-sports/brady-too-many-nfl-players-looking-easy-ways-skipping-preseason-games",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Tom Brady reposted a 2010 preseason clip where he threw three touchdowns against the St. Louis Rams, calling out players who look for easy ways out.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/tom-brady-fanatics-fest-nyc-2026.jpg?ve=1&tl=1",
+   "age": "30m ago",
+   "published": "2026-08-17T15:15:46+00:00"
+  },
+  {
+   "title": "Trump orders Pentagon to cut back military exercises with South Korea",
+   "url": "https://www.defensenews.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "President Trump instructed the Pentagon to “substantially reduce” joint military exercises with long-term Asian ally South Korea.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CKZW5TE7VBA3PLRVCTMB6T3FPM.JPG",
+   "age": "32m ago",
+   "published": "2026-08-17T15:14:07+00:00"
   },
   {
    "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
@@ -46,7 +157,7 @@
    "topic": "ai",
    "summary": "African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Terra-Industries-drone.jpg?resize=1200,903",
-   "age": "9m ago",
+   "age": "40m ago",
    "published": "2026-08-17T15:06:07+00:00"
   },
   {
@@ -57,52 +168,8 @@
    "topic": "defense",
    "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PVXYRVQFKZFGFAIJ735MV5RCY4.jpg",
-   "age": "9m ago",
+   "age": "40m ago",
    "published": "2026-08-17T15:06:00+00:00"
-  },
-  {
-   "title": "Hayden Panettiere remembered by Viola Davis, Bethany Joy Lenz and other celebrities after sudden death at 36",
-   "url": "https://www.foxnews.com/entertainment/hayden-panettiere-remembered-viola-davis-bethany-joy-lenz-celebrities-sudden-death-36",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Viola Davis, Bethany Joy Lenz and Melissa Barrera are among the Hollywood stars sharing emotional tributes after Hayden Panettiere s death at 36.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/hayden-panettiere-red.jpeg?ve=1&tl=1",
-   "age": "10m ago",
-   "published": "2026-08-17T15:04:55+00:00"
-  },
-  {
-   "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-   "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&amp;w=1920&amp;h=1080",
-   "age": "11m ago",
-   "published": "2026-08-17T15:04:24+00:00"
-  },
-  {
-   "title": "Pro-life publisher facing demands to retract calling abortion ‘killing’ fires back: ‘The answer is No’",
-   "url": "https://www.foxnews.com/politics/pro-life-publisher-facing-demands-retract-calling-abortion-killing-fires-back-answer-no",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Live Action s Thomas More Society attorneys reject demands to retract abortion coverage, arguing calling abortion killing is protected speech.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/pro-life-group-fires-back-against-abortion-group.jpg?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-08-17T15:00:57+00:00"
-  },
-  {
-   "title": "GOP freshman firebrand targets global consulting giant over 'plainly illegal' DEI practices",
-   "url": "https://www.foxnews.com/politics/gop-freshman-firebrand-targets-global-consulting-giant-over-plainly-illegal-dei-practices",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "House GOP Rep. Brandon Gill accuses McKinsey Company of pushing DEI reports that promoted illegal race and gender hiring, costing the U.S. economy $94 billion in a year.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/brandon-gill-smithsonian-fox-news.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-17T15:00:09+00:00"
   },
   {
    "title": "WordPress.com targets the next generation of web creators with a free student plan",
@@ -112,19 +179,8 @@
    "topic": "ai",
    "summary": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/wp-education_program-announcement_evergreen_blog.png?w=1176",
-   "age": "19m ago",
+   "age": "50m ago",
    "published": "2026-08-17T14:56:00+00:00"
-  },
-  {
-   "title": "California stabbing victim's friend blasts 'failed' justice system over illegal immigrant suspect's release",
-   "url": "https://www.foxnews.com/media/california-stabbing-victim-friend-blasts-failed-justice-system-illegal-immigrant-suspect-release",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A friend of Todd Stewart says the Golden State s judicial system failed by releasing illegal immigrant Marcos Iriarte-Valdez before the stabbing.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Todd-Stewart-murder.png?ve=1&tl=1",
-   "age": "23m ago",
-   "published": "2026-08-17T14:51:42+00:00"
   },
   {
    "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
@@ -134,7 +190,7 @@
    "topic": "markets",
    "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
    "image": "https://image.cnbcfm.com/api/v1/image/108030386-17256341152024-09-06t144339z_1377032827_rc22v9akatjt_rtrmadp_0_usa-trump-defamation-appeal.jpeg?v=1725634140&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
+   "age": "54m ago",
    "published": "2026-08-17T14:51:24+00:00"
   },
   {
@@ -145,19 +201,8 @@
    "topic": "markets",
    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
-   "age": "26m ago",
+   "age": "56m ago",
    "published": "2026-08-17T14:49:26+00:00"
-  },
-  {
-   "title": "LA teachers patrol for ICE before class as DHS blasts enforcement ‘false narrative’",
-   "url": "https://www.foxnews.com/politics/la-teachers-patrol-ice-before-class-dhs-blasts-enforcement-false-narrative",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Los Angeles Unified School District teachers conduct early-morning ICE patrols near schools, photographing license plates and alerting families.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/ICE_agents.jpeg?ve=1&tl=1",
-   "age": "37m ago",
-   "published": "2026-08-17T14:38:17+00:00"
   },
   {
    "title": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
@@ -167,7 +212,7 @@
    "topic": "defense",
    "summary": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KVZ5IIIYJRE2JGGQVOMQDMYXMM.JPG",
-   "age": "39m ago",
+   "age": "1h ago",
    "published": "2026-08-17T14:35:50+00:00"
   },
   {
@@ -189,7 +234,7 @@
    "topic": "ai",
    "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T13:41:35+00:00"
   },
   {
@@ -200,7 +245,7 @@
    "topic": "ai",
    "summary": "Uber is also making investing in Zipline a part of the tie-up.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T13:18:49+00:00"
   },
   {
@@ -211,7 +256,7 @@
    "topic": "defense",
    "summary": "The new awards are aimed at demonstrating the ability of multiple satellite networks to connect to the Space Force s emerging Space Data Network.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/20260812-SMD-dwoolfolk-DSC04707-010-1024x576.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T13:17:00+00:00"
   },
   {
@@ -237,17 +282,6 @@
    "published": "2026-08-17T13:00:28+00:00"
   },
   {
-   "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
-   "url": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
-   "age": "2h ago",
-   "published": "2026-08-17T13:00:19+00:00"
-  },
-  {
    "title": "Satellite operators are in panic mode due to a worsening launch crisis",
    "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
    "source": "Ars Technica",
@@ -257,39 +291,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
    "age": "4h ago",
    "published": "2026-08-17T11:00:26+00:00"
-  },
-  {
-   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-08-16T12:15:00+00:00"
-  },
-  {
-   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
-   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
-   "age": "1d ago",
-   "published": "2026-08-16T11:00:00+00:00"
-  },
-  {
-   "title": "Republican education policies have left our children behind",
-   "url": "https://nwitimes.com/news/article_7095e4c3-af37-4ddc-a96c-7076edb3094c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "GUEST COMMENTARY | Republican education policies have left our children behind",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/0d/20dda791-92ca-4bab-bc1c-48f36cd2f7b1/6a7369fe5deec.image.jpg?resize=300%2C375",
-   "age": "1d ago",
-   "published": "2026-08-16T11:00:00+00:00"
   },
   {
    "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
@@ -358,17 +359,6 @@
    "published": "2026-08-14T20:16:00+00:00"
   },
   {
-   "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Pentagon signed seven-year framework agreements Friday with Boeing and RTX to expand production of critical components for the Standard Missile-3.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/EJZB67TVR5DZ7KLPY6KK7DHJ34.jpg",
-   "age": "2d ago",
-   "published": "2026-08-14T19:57:54+00:00"
-  },
-  {
    "title": "Bringing Back Steam Catapults On Carriers Is A Huge Risk",
    "url": "https://www.twz.com/sea/bringing-back-steam-catapults-on-carriers-is-a-huge-risk",
    "source": "The War Zone",
@@ -435,17 +425,6 @@
    "published": "2026-08-14T15:48:31+00:00"
   },
   {
-   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
-   "age": "3d ago",
-   "published": "2026-08-14T12:15:00+00:00"
-  },
-  {
    "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
    "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
    "source": "USNI News",
@@ -455,6 +434,28 @@
    "image": "https://news.usni.org/wp-content/uploads/2025/11/ROKNavy.jpeg",
    "age": "3d ago",
    "published": "2026-08-13T23:15:54+00:00"
+  },
+  {
+   "title": "William Byron optimistic ahead of Richmond despite poor 2026 season",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUhqcFc4Z1UyWXJjQkVjNF9scGZJajh5bjZHZWRLRFVYS2Iway1pclJ2Z1ZpVlplSXRJRHhXNHJBUFB3WFZVNm9pWDcwVkRRQm9fMWlRQ0xTVW1HNjZUMjhNc2NGQUQxc09YN3ZPcDY0eHdjWWNxWGc1NlhEV1QtcTI3RkR6WUtVZkt3bTRBaFUyb3p0QUh0d1FRM0hQV0pEUjBQaVdiYkhkRUR1WlRTcUVKRThLazRGeU9oTlpaVE96eUlxU2lN?oc=5",
+   "source": "Yardbarker",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-13T18:16:19+00:00"
+  },
+  {
+   "title": "William Byron Continues Short-Track Surge Heading to Richmond",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU3ZHh4SW5nbUFDSVg0cHNEbGhTZTBTcFhQZ01RMlprSmlwejhqZ1E5MEduSTdYT3E0ZWJQYy1fQ0FiZFYyWVJJb2pQRVZKeThzR0Zya0F3NzBoWFFVenNsc0diZnVCakxsUWhnaFQwelJGZHlkbGIyRkdISkJtSVJ5akNVX0ZPMk0zY3hhOFZKeUJULTVoejdyUm5NRnZ0WkhzSl9TbXIzc3BxaUR3Z0FoeEhpMTYxYVo4cUJqdldOSkVfeGlWbTcyQWE4d28?oc=5",
+   "source": "Speedway Digest",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-13T17:24:11+00:00"
   }
  ]
 }
