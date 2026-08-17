@@ -36,8 +36,15 @@ jobs:
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          show_full_output: true
-          claude_args: '--allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep"'
+          # Agent/ScheduleWakeup are blocked deliberately. Left available, Claude
+          # spawns background research subagents, says it will compile the brief
+          # "once their results come back", and ends its turn waiting on them.
+          # A CI run has no next turn, so the job exits having written nothing and
+          # still reports success. That is what silently broke Aug 9 and Aug 16.
+          claude_args: >-
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep"
+            --disallowedTools "Agent,Task,ScheduleWakeup,TaskCreate,TaskUpdate,TaskOutput,SendMessage,Workflow"
+            --model claude-sonnet-5
           prompt: |
             You are writing Jim Martin's weekly "My District News" brief into this repository.
             Today in America/Chicago is ${{ steps.d.outputs.label }}.
@@ -49,6 +56,16 @@ jobs:
 
             YOUR ONLY JOB IS TO WRITE TWO FILES. Do not run git. Do not commit.
             A later step handles publishing.
+
+            == THIS IS A ONE-SHOT BATCH RUN ==
+            You get exactly one turn. There is no next turn, no notification will
+            reach you, and nothing you defer will ever run. So:
+            - Do every search yourself, inline, in this turn.
+            - Never delegate to a subagent or background task.
+            - Never end your turn waiting on anything.
+            - Do not finish until you have called Write on both files. Writing the
+              files is the entire job; research that never gets written is a failure.
+            If you run short on time, write the files with whatever you have.
 
             First read README.md for the district brief schema. Follow it precisely.
 
@@ -148,15 +165,23 @@ jobs:
             to the archive array, newest first. Do not duplicate an existing date.
             Keep at most 60 entries. Create the file if it does not exist.
 
+            Both files must exist on disk before you finish. Verify with Read.
             Finish by stating how many stories you found and how many were admin.
 
       - name: Publish
         run: |
           git config user.name  "briefing-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ ! -f "district/${{ steps.d.outputs.date }}.json" ]; then
+            echo "::error::Claude never wrote district/${{ steps.d.outputs.date }}.json."
+            echo "Usual cause: it delegated research to background subagents and ended its"
+            echo "turn waiting on them, which a one-shot CI run can never satisfy."
+            echo "Check the Claude step above for Agent or ScheduleWakeup tool calls."
+            exit 1
+          fi
           git add -A
           if git diff --cached --quiet; then
-            echo "No changes to publish - the briefing step wrote nothing."
+            echo "::error::The brief file exists but is byte-identical to what is already committed."
             exit 1
           fi
           git commit -m "District news ${{ steps.d.outputs.date }}"

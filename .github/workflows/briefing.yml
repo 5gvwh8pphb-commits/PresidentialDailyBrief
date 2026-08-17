@@ -38,13 +38,32 @@ jobs:
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          claude_args: '--allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep" --model claude-sonnet-5'
+          # Agent/ScheduleWakeup are blocked deliberately. Left available, Claude
+          # spawns background research subagents, says it will compile the brief
+          # "once their results come back", and ends its turn waiting on them.
+          # A CI run has no next turn, so the job exits having written nothing and
+          # still reports success. It is what broke both weekly briefs in August;
+          # this brief has not hit it yet, and is blocked here so it cannot.
+          claude_args: >-
+            --allowedTools "WebSearch,WebFetch,Read,Write,Edit,Glob,Grep"
+            --disallowedTools "Agent,Task,ScheduleWakeup,TaskCreate,TaskUpdate,TaskOutput,SendMessage,Workflow"
+            --model claude-sonnet-5
           prompt: |
             You are writing Jim Martin's Daily News Briefing into this repository.
             Today in America/Chicago is ${{ steps.d.outputs.dow }}, ${{ steps.d.outputs.date }}.
 
             YOUR ONLY JOB IS TO WRITE TWO FILES. Do not run git. Do not commit.
             A later step handles publishing.
+
+            == THIS IS A ONE-SHOT BATCH RUN ==
+            You get exactly one turn. There is no next turn, no notification will
+            reach you, and nothing you defer will ever run. So:
+            - Do every search yourself, inline, in this turn.
+            - Never delegate to a subagent or background task.
+            - Never end your turn waiting on anything.
+            - Do not finish until you have called Write on both files. Writing the
+              files is the entire job; research that never gets written is a failure.
+            If you run short on time, write the files with whatever you have.
 
             First read README.md. It defines the exact JSON schema. Follow it precisely.
 
