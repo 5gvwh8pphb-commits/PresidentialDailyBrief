@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-17",
+  "dateLabel": "Monday, August 17, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-17T09:26:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~61h ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Week ending Friday, August 14, 2026 close — a mixed week as the S&P 500 topped 7,800 for the first time and notched a third straight weekly gain, while the Dow snapped a two-week winning streak.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,785.76", "change": "+0.4%", "heroLabel": "week", "sixMo": "+14%" },
+        { "name": "Dow",     "close": "53,732.41", "change": "-0.6%", "heroLabel": "week", "sixMo": "+8.5%" },
+        { "name": "Nasdaq",  "close": "26,729.16", "change": "+0.1%", "heroLabel": "week", "sixMo": "+19%" }
+      ],
+      "body": "Cooling inflation and strong earnings drove the S&P 500 to a fresh record above 7,800 on Thursday, but a 0.6% drop in July retail sales and the weakest consumer-sentiment reading since 2022 pulled stocks back Friday to close out a mixed week; markets have not traded since.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "US-Iran ceasefire deadline expires with no deal in sight",
+      "body": "The 60-day deadline set by the US-Iran ceasefire framework signed at Versailles in June expired Monday with no agreement reached and no extension announced; talks stalled over reopening the Strait of Hormuz and lifting the US blockade, and Tehran maintains it never considered the 60-day clock to have started.",
+      "source": "The Associated Press",
+      "url": "https://www.clickorlando.com/news/world/2026/08/17/the-60-day-deadline-for-an-iran-peace-deal-is-expiring-heres-where-things-stand/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~11h ago",
+      "empty": false,
+      "headline": "Taiwan tracks just one PLA aircraft sortie, lightest activity in days",
+      "body": "Taiwan's Ministry of National Defense said it detected a single PLA aircraft sortie into the northern air defense identification zone, plus nine PLA Navy vessels and seven China Coast Guard and other official ships, in the 24 hours to 6 a.m. Monday — a sharp drop from Sunday's 11 aircraft sorties and eight warships.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-one-pla-aircraft-nine-plan-vessels-around-its-territory20260817064844/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~5h ago",
+      "empty": false,
+      "headline": "Trump orders cutback to Ulchi Freedom Shield drills as exercise begins",
+      "body": "President Trump said he is directing Defense Secretary Pete Hegseth to 'substantially reduce' the annual Ulchi Freedom Shield exercise with South Korea, which began Monday and runs through Aug. 27 with about 18,000 South Korean troops training alongside US forces against drone, GPS-jamming and cyber threats; Trump cited Seoul's refusal to help pressure Iran on denuclearization and his relationship with North Korea's Kim Jong Un.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "headline": "SpaceX sets launch-cadence record with back-to-back Space Force, Globalstar missions",
+      "body": "SpaceX launched two Falcon 9 rockets from opposite US coasts just 38.5 minutes apart Saturday night, the shortest gap between orbital missions in company history, lofting Globalstar replenishment satellites from Cape Canaveral and a classified US Space Force payload from another pad; the rapid cadence is the kind of responsive-launch capability the Space Force is counting on to keep resilient satellite constellations replenished.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/08/15/live-coverage-spacex-to-launch-satellite-replenishment-mission-for-globalstar-from-cape-canaveral/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~11h ago",
+      "empty": false,
+      "headline": "Anthropic restores Claude services after 36-minute outage",
+      "body": "Claude.ai, Claude Code, Claude Console, the API and Claude Cowork went down for roughly 36 minutes Sunday night after a login-authentication failure cascaded into degraded performance across all five services; Anthropic confirmed full restoration by 22:40 UTC and had not disclosed a root cause as of Monday morning.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2.5 days ago",
+      "empty": false,
+      "headline": "Bears among three teams checking in on Buccaneers' Vita Vea, per report",
+      "body": "Chicago has checked in on the trade availability of Tampa Bay defensive tackle Vita Vea along with Buffalo and San Francisco, but the Bears' roughly $4.3 million in 2026 cap space would make a deal difficult given Vea is seeking a raise well above $30 million a year, Chicago Tribune's Brad Biggs reported; Tampa Bay has maintained it does not plan to trade him.",
+      "source": "Chicago Tribune (Brad Biggs)",
+      "url": "https://www.bleachernation.com/bears/2026/08/14/vita-vea-rumors-081426/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Saturday's Cook Out 400 at Richmond remains inside the 7-day spoiler window and was already covered in prior briefs; no new roster, injury, schedule or sponsorship news broke within the 72-hour window. Byron's next Cup start is the Ambetter 301 at New Hampshire Motor Speedway on Aug. 23.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
