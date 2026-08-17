@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-17T21:46:45+00:00",
+ "generated": "2026-08-17T22:13:14+00:00",
  "count": 40,
- "withImage": 35,
+ "withImage": 36,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -13,100 +13,23 @@
   "Defense News",
   "Fox News",
   "NASCAR.com",
+  "NWI Times",
   "TechCrunch",
-  "The New York Times",
   "The Tennessean",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "Harvard, NYU among 30 universities hit with Pentagon foreign-tie audit deadline",
-   "url": "https://www.foxnews.com/politics/harvard-nyu-among-30-universities-hit-pentagon-foreign-tie-audit-deadline",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Pentagon ordered 30 universities to audit foreign ties or risk losing federal funding, targeting entities linked to China, Russia and Iran.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/harvard-veritas-banners.jpg?ve=1&tl=1",
-   "age": "8m ago",
-   "published": "2026-08-17T21:38:07+00:00"
-  },
-  {
-   "title": "Jets fans breathe sigh of relief after practice scare for $43M star running back",
-   "url": "https://www.foxnews.com/sports/jets-fans-breathe-sigh-relief-practice-scare-43m-star-running-back",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Breece Hall suffered a non-contact groin strain at Jets training camp Monday, but head coach Aaron Glenn said he doesn t think the injury is a big deal.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/breece-hall-jets-metlife-stadium.jpg?ve=1&tl=1",
-   "age": "11m ago",
-   "published": "2026-08-17T21:34:47+00:00"
-  },
-  {
-   "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
-   "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+   "title": "Lakers controlling owner Jeanie Buss opposes sale of family's stake to Bob Iger, Joshua Kushner",
+   "url": "https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called \"close personal relationship with a subordinate employee.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350546-1786991276796-108350546-1786991140878-gettyimages-2284899479-ALLEN__CO_2026.jpg?v=1786991290&amp;w=1920&amp;h=1080",
-   "age": "17m ago",
-   "published": "2026-08-17T21:29:34+00:00"
-  },
-  {
-   "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-   "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Relay, which offered businesses workflow automation, will stop operating next month. Its CEO and some of its staff plan to get to work on Google Chrome next.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
-   "age": "19m ago",
-   "published": "2026-08-17T21:27:05+00:00"
-  },
-  {
-   "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
-   "url": "https://www.cnbc.com/2026/08/17/anthropic-says-annualized-revenue-climbed-to-65-billion-in-july.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Anthropic's revenue run rate is up about sevenfold from a year earlier.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&amp;w=1920&amp;h=1080",
-   "age": "20m ago",
-   "published": "2026-08-17T21:26:13+00:00"
-  },
-  {
-   "title": "Man unleashes deadly ‘revenge’ rampage on ex’s family, kills 4 people, 3 dogs before torching home: DA",
-   "url": "https://www.foxnews.com/us/man-unleashes-deadly-revenge-rampage-ex-family-kills-4-people-3-dogs-torching-home-da",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Miguel Diego Sandoval lurked outside until his ex-boyfriend s family went to bed before gunning down four people and torching their California home.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/lancaster-california-murder-victims-sandoval-revenge-killings.png?ve=1&tl=1",
-   "age": "24m ago",
-   "published": "2026-08-17T21:22:32+00:00"
-  },
-  {
-   "title": "Declassified FBI docs reveal Swalwell had sex with 'Fang Fang' multiple times",
-   "url": "https://www.foxnews.com/politics/declassified-fbi-docs-reveal-swalwell-had-sex-fang-fang-multiple-occasions",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Former Democratic Rep. Eric Swalwell admitted to FBI agents in 2015 that he had intimate relations multiple times with suspected Chinese spy Christine Fang Fang Fang.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/eric-swalwell.jpg?ve=1&tl=1",
-   "age": "38m ago",
-   "published": "2026-08-17T21:08:23+00:00"
-  },
-  {
-   "title": "Babysitter accused of kidnapping two young sisters was previously charged with abducting newborn",
-   "url": "https://www.foxnews.com/us/babysitter-accused-kidnapping-two-young-sisters-previously-charged-abducting-newborn",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lakesha Brown allegedly kidnapped two young sisters in Atlanta after gaining their mother s trust as a babysitter, marking her second arrest.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/babysitter-arrested-for-kidnaping-little-girls-in-atlanta.jpg?ve=1&tl=1",
-   "age": "41m ago",
-   "published": "2026-08-17T21:05:12+00:00"
+   "summary": "Jeanie Buss's lawyer says she has not agreed to sell the team and that any vote suggesting the Buss family is selling \"would be and is void.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108161370-1750282667512-gettyimages-2210461055-ldn-l-lakers-0420-kb73.jpeg?v=1771347498&amp;w=1920&amp;h=1080",
+   "age": "3m ago",
+   "published": "2026-08-17T22:09:18+00:00"
   },
   {
    "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
@@ -116,8 +39,85 @@
    "topic": "markets",
    "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
    "image": "https://image.cnbcfm.com/api/v1/image/108346540-1786103503772-gettyimages-2288604996-yanow-paramoun260806_np0Sy.jpeg?v=1786103521&amp;w=1920&amp;h=1080",
-   "age": "58m ago",
-   "published": "2026-08-17T20:48:22+00:00"
+   "age": "6m ago",
+   "published": "2026-08-17T22:07:03+00:00"
+  },
+  {
+   "title": "Twin Icebreaker Projects Progressing at Bollinger’s Gulf Coast Yards",
+   "url": "https://news.usni.org/2026/08/17/twin-icebreaker-projects-progressing-at-bollingers-gulf-coast-yards",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "PASCAGOULA, MISS. — The rose-brown hull of the first heavy polar icebreaker for the Coast Guard is taking shape after years of delays on the Gulf Coast. The stern sectio…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/AM1A8571-scaled.jpg",
+   "age": "6m ago",
+   "published": "2026-08-17T22:06:26+00:00"
+  },
+  {
+   "title": "WNBA admits security in Atlanta was wrong to make fans cover shirts at Dream-Fever game",
+   "url": "https://www.foxnews.com/outkick-sports/wnba-admits-security-atlanta-wrong-make-fans-cover-shirts-dream-fever-game",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The WNBA admitted league security wrongly forced a mother and daughter to cover their XX-XY Athletics shirts during the Indiana Fever game in Atlanta.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/cathy-engelbert-wnba-all-star-game.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-17T21:50:17+00:00"
+  },
+  {
+   "title": "Kelly Osbourne wows in leopard-print swimsuit as she steps 'away from the madness'",
+   "url": "https://www.foxnews.com/entertainment/kelly-osbourne-wows-leopard-print-swimsuit-she-steps-away-from-madness",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kelly Osbourne shared poolside vacation photos on Instagram, saying she feels reborn after stepping away amid her reported split from Sid Wilson.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kelly-osbourne-race-erase-ms-gala.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-17T21:48:03+00:00"
+  },
+  {
+   "title": "Portland parent banned from school events after opposing gender identity assignment files lawsuit",
+   "url": "https://www.foxnews.com/media/portland-parent-banned-school-events-opposing-gender-identity-assignment-files-lawsuit",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Allison Roberts claimed that Portland Public Schools retaliated against her for opposing a gender curriculum, violating her First Amendment rights.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/protest-flags-supreme-court-transgender-athletes-002.jpg?ve=1&tl=1",
+   "age": "31m ago",
+   "published": "2026-08-17T21:41:53+00:00"
+  },
+  {
+   "title": "Harvard, NYU among 30 universities hit with Pentagon foreign-tie audit deadline",
+   "url": "https://www.foxnews.com/politics/harvard-nyu-among-30-universities-hit-pentagon-foreign-tie-audit-deadline",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Pentagon ordered 30 universities to audit foreign ties or risk losing federal funding, targeting entities linked to China, Russia and Iran.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/harvard-veritas-banners.jpg?ve=1&tl=1",
+   "age": "35m ago",
+   "published": "2026-08-17T21:38:07+00:00"
+  },
+  {
+   "title": "L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+   "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called \"close personal relationship with a subordinate employee.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350546-1786991276796-108350546-1786991140878-gettyimages-2284899479-ALLEN__CO_2026.jpg?v=1786991290&amp;w=1920&amp;h=1080",
+   "age": "43m ago",
+   "published": "2026-08-17T21:29:34+00:00"
+  },
+  {
+   "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+   "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
+   "age": "46m ago",
+   "published": "2026-08-17T21:27:05+00:00"
   },
   {
    "title": "Connor Zilisch Will Replace Alex Bowman at Hendrick Motorsports",
@@ -182,7 +182,7 @@
    "topic": "markets",
    "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
    "image": "https://image.cnbcfm.com/api/v1/image/108339504-1786994172209-108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1786994191&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T20:04:53+00:00"
   },
   {
@@ -193,7 +193,7 @@
    "topic": "ai",
    "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T20:00:20+00:00"
   },
   {
@@ -230,17 +230,6 @@
    "published": "2026-08-17T19:24:43+00:00"
   },
   {
-   "title": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
-   "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-08-17T19:24:32+00:00"
-  },
-  {
    "title": "Hendrick Motorsports signs Connor Zilisch to multiyear deal starting in 2028",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW1BV1h3dFFBdUptVS1qR2cwODdhNzlfTGhrWmlXYkdtbGNqTzQtdGg4U2xTekFES0dTVU1mSDBjWkJPNmZYNG43eTJWSWJjYjV1X1pRaTBTVENBN29zME9xVHFBbFR4VWJqUkp2S3AtY1lReVBUd0JyRVVNRUZHU21yUElZOVFnUXNIcTduU3B3REJWN1haSWtHLTNUVE0ybjYwenc5bVVmWHMtUk5hR19sR3FPaGRKdUExYTlxZ9IBxAFBVV95cUxOZkd2MHNaMTJacDNPZHdQUXo5QnVET3B4OUtkckhfUGcxT2d4WmdWWFFTZmhQdU9ZYTAweHF5SmFmRGszTVBrWWNWSHY2aENqaENpaGlSTWgxVFp6YU91cU1OQWxyQUpTbTNpUmxTVEtfUDBkMTBHNWV4YWNPVzZCdk05UmJsN1p1X1B3T1Q4YnhweE5ZdHB0R1lkb2Y2emdoWkRYMlVJUlJsaXk3ck5GaXFpNVF1WHNSblAtYkJST2U2bDBp?oc=5",
    "source": "NASCAR.com",
@@ -252,17 +241,6 @@
    "published": "2026-08-17T19:16:40+00:00"
   },
   {
-   "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
-   "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2259021916.jpg?w=1024",
-   "age": "2h ago",
-   "published": "2026-08-17T19:04:27+00:00"
-  },
-  {
    "title": "Russia Is Expanding Its Long-Range Strike Drone Network",
    "url": "https://www.twz.com/news-features/russia-is-expanding-its-long-range-strike-drone-network",
    "source": "The War Zone",
@@ -270,7 +248,7 @@
    "topic": "defense",
    "summary": "Satellite imagery reveals growing launch infrastructure for Geran-family one-way attack drones, including the capability of launching heavier, higher-performing types. T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GERAN-READY-FOR-LAUNCH-copy.jpg?quality=85",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T19:03:08+00:00"
   },
   {
@@ -281,7 +259,7 @@
    "topic": "defense",
    "summary": "The data from the hosted payloads on QZS-7 and its predecessor QZS-6 will feed into the US Space Surveillance Network operated by the 18th Space Defense Squadron.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Japanese-rocket-lifts-QZS-7-w-US-hosted-payload-e1786993499640.png",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T18:57:04+00:00"
   },
   {
@@ -325,7 +303,7 @@
    "topic": "defense",
    "summary": "The new unit will also have short-range counter-cruise missile systems that will enhance the strategic island's defenses and grow the Army's overextended Patriot force. …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/new-patriot-battalion-guam.jpg?quality=85",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-17T17:55:15+00:00"
   },
   {
@@ -373,17 +351,6 @@
    "published": "2026-08-17T16:44:25+00:00"
   },
   {
-   "title": "Hendrick Motorsports signs star NASCAR prospect Connor Zilisch, starting in 2028",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmZ1YlRhdk94c0ZBQXBuRVlYbWJtREF2QkZ3cWlEbDNNaEFnR2ZuQVRXZGdNU0RKcm1xb2t0RDA0VUdVVFlfbHpQX18yYzlUalZWaHMwbGVRTHl0NVVEQ2JTdXlWUEthWVlmQURNb0sxSWxkdzl3N25XWGpkSW54Sl92d2VtZWZkZjlmc09xb2VlYWlCdk5Ic0padzVBckRNdVFzYUpEWFcyQjE1ejJ2R3otRmZyNmFyVXh3?oc=5",
-   "source": "The New York Times",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "5h ago",
-   "published": "2026-08-17T16:14:35+00:00"
-  },
-  {
    "title": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
    "url": "https://news.usni.org/2026/08/17/uss-benfold-leaves-japan-after-returning-from-power-failure-repairs",
    "source": "USNI News",
@@ -413,8 +380,41 @@
    "topic": "defense",
    "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PVXYRVQFKZFGFAIJ735MV5RCY4.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-17T15:06:00+00:00"
+  },
+  {
+   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
+   "age": "1d ago",
+   "published": "2026-08-16T12:15:00+00:00"
+  },
+  {
+   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
+   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "1d ago",
+   "published": "2026-08-16T11:00:00+00:00"
+  },
+  {
+   "title": "Republican education policies have left our children behind",
+   "url": "https://nwitimes.com/news/article_7095e4c3-af37-4ddc-a96c-7076edb3094c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "GUEST COMMENTARY | Republican education policies have left our children behind",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/0d/20dda791-92ca-4bab-bc1c-48f36cd2f7b1/6a7369fe5deec.image.jpg?resize=300%2C375",
+   "age": "1d ago",
+   "published": "2026-08-16T11:00:00+00:00"
   },
   {
    "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
@@ -435,7 +435,7 @@
    "topic": "defense",
    "summary": "I have no idea if it's day or night anymore. The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GettyImages-508336080.jpg?quality=85",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-08-14T21:55:00+00:00"
   },
   {
@@ -450,15 +450,15 @@
    "published": "2026-08-14T21:03:13+00:00"
   },
   {
-   "title": "USNI News Western Pacific Pulse: Aug. 14, 2026",
-   "url": "https://news.usni.org/2026/08/14/usni-news-western-pacific-pulse-aug-14-2026",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Strait of Malacca The George Washington Carrier Stri…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9835496-scaled.jpg",
+   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
    "age": "3d ago",
-   "published": "2026-08-14T20:16:00+00:00"
+   "published": "2026-08-14T12:15:00+00:00"
   }
  ]
 }
