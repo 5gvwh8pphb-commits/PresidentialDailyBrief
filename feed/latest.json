@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T11:46:37+00:00",
+ "generated": "2026-08-17T12:20:46+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": false,
@@ -10,25 +10,80 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NASCAR.com",
   "NWI Times",
+  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Yardbarker",
-  "nascar.com",
-  "speedwaydigest.com"
+  "Yardbarker"
  ],
  "items": [
   {
-   "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
-   "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+   "title": "Why WWE legend Dawn Marie is heading to OnlyFans at 55",
+   "url": "https://www.foxnews.com/sports/why-wwe-legend-dawn-marie-heading-onlyfans-55",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Dawn Marie explains why she joined OnlyFans as a single mom and nurse, citing wrestling injuries and her desire to secure her children s futures.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dawn-marie-wizard-world-philadelphia-comic-con_002.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-08-17T12:02:00+00:00"
+  },
+  {
+   "title": "Dangerous rabid beavers attack 2 teens, with 1 airlifted and popular park partially closed",
+   "url": "https://www.foxnews.com/travel/dangerous-rabid-beavers-attack-2-teens-1-airlifted-popular-park-partially-closed",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Two rabid beaver attacks at Cunningham Falls State Park injured a teen swimmer and a fisherman, prompting partial closures and thermal imaging surveys.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/cunningham-falls-state-park-maryland_001.jpg?ve=1&tl=1",
+   "age": "20m ago",
+   "published": "2026-08-17T12:00:30+00:00"
+  },
+  {
+   "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+   "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108227780-17635012212025-07-16t104346z_1770604358_rc2hnfahkmgb_rtrmadp_0_china-supply-chain.jpeg?v=1763501302&amp;w=1920&amp;h=1080",
-   "age": "22m ago",
-   "published": "2026-08-17T11:24:23+00:00"
+   "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080",
+   "age": "20m ago",
+   "published": "2026-08-17T12:00:01+00:00"
+  },
+  {
+   "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+   "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
+   "age": "24m ago",
+   "published": "2026-08-17T11:55:48+00:00"
+  },
+  {
+   "title": "Hayden Panettiere: A life in pictures",
+   "url": "https://www.foxnews.com/entertainment/hayden-panettiere-life-pictures",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Hayden Panettiere is survived by her daughter Kaya, who was born in 2014, with Ukrainian boxer Wladimir Klitschko. Panettiere s younger brother, Jansen, who was also an …",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/hayden-panetierre-obituary_fox-news_011.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-08-17T11:48:28+00:00"
+  },
+  {
+   "title": "NASCAR star compared to Trump, tells nasty fans to quit 'b----in,' while race wife dusts off her Daisy Dukes",
+   "url": "https://www.foxnews.com/outkick-sports/nascar-star-compared-trump-tells-nasty-fans-quit-race-wife-dusts-daisy-dukes",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kyle Larson s plane was the most tracked flight in America Saturday as he sprinted from Richmond to win the Knoxville Nationals in one night.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kyle-larson-richmond-raceway-fox-news_.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-08-17T11:47:15+00:00"
   },
   {
    "title": "Actress Hayden Panettiere dies suddenly at age 36 and more top headlines",
@@ -38,19 +93,8 @@
    "topic": "world",
    "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/hayden-panettiere-1.jpg?ve=1&tl=1",
-   "age": "34m ago",
+   "age": "1h ago",
    "published": "2026-08-17T11:12:30+00:00"
-  },
-  {
-   "title": "Enes Kanter Freedom roasts Angel Reese over late miss, then turns his fire on NBA vet Paul George",
-   "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-roasts-angel-reese-late-miss-turns-fire-nba-vet-paul-george",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Enes Kanter Freedom roasted Angel Reese s crunch-time miss and compared her to Paul George while renewing his threat to enter the 2027 WNBA Draft.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-celtics-raptors-toronto.jpg?ve=1&tl=1",
-   "age": "36m ago",
-   "published": "2026-08-17T11:10:04+00:00"
   },
   {
    "title": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
@@ -60,30 +104,8 @@
    "topic": "markets",
    "summary": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
    "image": "https://image.cnbcfm.com/api/v1/image/108263041-1770602619909-gettyimages-1056129558-dealbook_082.jpeg?v=1770604001&amp;w=1920&amp;h=1080",
-   "age": "40m ago",
+   "age": "1h ago",
    "published": "2026-08-17T11:05:58+00:00"
-  },
-  {
-   "title": "AOC froze her eggs at 36. Here’s what my generation got wrong about motherhood",
-   "url": "https://www.foxnews.com/opinion/aoc-froze-eggs-36-what-my-generation-got-wrong-about-motherhood",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "AOC s egg freezing announcement sparks a deeper debate about whether postponing motherhood truly represents female empowerment for young women.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/aoc-presidential-bid-congress.jpg?ve=1&tl=1",
-   "age": "45m ago",
-   "published": "2026-08-17T11:00:57+00:00"
-  },
-  {
-   "title": "Brad Pitt says he can drink in ‘restrained manner’ after 7 sober years, but expert raises red flag",
-   "url": "https://www.foxnews.com/health/brad-pitt-says-can-drink-restrained-manner-sober-years-expert-raises-red-flag",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Brad Pitt recently said he resumed drinking after seven years of sobriety, but an addiction specialist warns that testing the waters can be dangerous.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/brad-pitt-holding-wine-glass-1.jpg?ve=1&tl=1",
-   "age": "45m ago",
-   "published": "2026-08-17T11:00:54+00:00"
   },
   {
    "title": "What will TV look like in three years? Media insiders share their predictions",
@@ -93,30 +115,8 @@
    "topic": "markets",
    "summary": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349861-1786723866209-260420_cg_32_future_tv_gfx4__0-00-12-15__1024.png?v=1786723905&amp;w=1920&amp;h=1080",
-   "age": "46m ago",
-   "published": "2026-08-17T11:00:01+00:00"
-  },
-  {
-   "title": "Santoli: Earnings bonanza that lifted market to record may not be all that it appears to be",
-   "url": "https://www.cnbc.com/2026/08/17/santoli-earnings-bonanza-that-lifted-market-to-record-may-not-be-all-that-it-appears-to-be.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108348538-1786548860834-108348538-1786548734348-gettyimages-2289681079-LONDIAN_WASON_IPO.jpg?v=1786548870&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-08-17T10:31:33+00:00"
-  },
-  {
-   "title": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
-   "url": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350208-1786957597997-gettyimages-2290169462-AFP_C4RN8KE.jpeg?v=1786957637&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-08-17T09:46:08+00:00"
+   "published": "2026-08-17T11:00:01+00:00"
   },
   {
    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
@@ -126,7 +126,7 @@
    "topic": "ai",
    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-16T20:57:04+00:00"
   },
   {
@@ -148,7 +148,7 @@
    "topic": "ai",
    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-16T16:53:51+00:00"
   },
   {
@@ -159,7 +159,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-16T16:04:00+00:00"
   },
   {
@@ -170,7 +170,7 @@
    "topic": "local",
    "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-16T12:15:00+00:00"
   },
   {
@@ -401,7 +401,7 @@
    "topic": "local",
    "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-08-14T12:15:00+00:00"
   },
   {
@@ -440,7 +440,7 @@
   {
    "title": "William Byron Continues Short-Track Surge Heading to Richmond",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU3ZHh4SW5nbUFDSVg0cHNEbGhTZTBTcFhQZ01RMlprSmlwejhqZ1E5MEduSTdYT3E0ZWJQYy1fQ0FiZFYyWVJJb2pQRVZKeThzR0Zya0F3NzBoWFFVenNsc0diZnVCakxsUWhnaFQwelJGZHlkbGIyRkdISkJtSVJ5akNVX0ZPMk0zY3hhOFZKeUJULTVoejdyUm5NRnZ0WkhzSl9TbXIzc3BxaUR3Z0FoeEhpMTYxYVo4cUJqdldOSkVfeGlWbTcyQWE4d28?oc=5",
-   "source": "speedwaydigest.com",
+   "source": "Speedway Digest",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -451,7 +451,7 @@
   {
    "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09PM2x3UEEycmVQeWZQWkVFekVZV3ZSb1QxTlc3UTdZZG9jMFZXZWR2TlZpY1RRV0ZJdWdXNTFXUnlmSVdGaWlNNkRKeXlEY1hXRTc4bFYwZlRlVEY4QUU0SFBQX09sVFg0bUtvVGZEeEVKTjNDdTg2dlE5dkhnM1hiZ2Vqbk9OYktpSmpCZVJQZHZqdFV4X3FSMjZsZ9IBowFBVV95cUxNT3ZuM2JhUXMtbWQ5d0l1U19seDQxenBpOWJZZWVreGpBZGlzZGdGbzU4bDZmQW1IUjJjdnRubW1yTzAwR0Z1Rm4tTDlueVZjTTRKTXFSNS13TV9KQklERlV6aG1jWlhoeks3akMtLXN4RHZqT2xHS2l4VjlaemJaSktfMEdXNEN3LUc0cTBvZ19ldWpKamhaTnlGbnFyWU5TWVZv?oc=5",
-   "source": "nascar.com",
+   "source": "NASCAR.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
