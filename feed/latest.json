@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T20:49:53+00:00",
+ "generated": "2026-08-17T21:15:50+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": false,
@@ -10,10 +10,9 @@
   "CNBC",
   "Daytona Beach News-Journal",
   "Defense News",
-  "FOX Sports",
   "Fox News",
+  "Motorsport.com",
   "NASCAR.com",
-  "NWI Times",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
@@ -21,15 +20,15 @@
  ],
  "items": [
   {
-   "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
-   "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+   "title": "Defense contractor L3Harris ousts CEO Chris Kubasik over unspecified 'conduct,' stock drops 4%",
+   "url": "https://www.cnbc.com/2026/08/17/l3harris-ceo-chris-kubasik-lhx-defense-mehta.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108346540-1786103503772-gettyimages-2288604996-yanow-paramoun260806_np0Sy.jpeg?v=1786103521&amp;w=1920&amp;h=1080",
+   "summary": "Chris Kubasik was ousted as Lockheed Martin's incoming CEO in 2012 after what that company called \"close personal relationship with a subordinate employee.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350546-1786991276796-108350546-1786991140878-gettyimages-2284899479-ALLEN__CO_2026.jpg?v=1786991290&amp;w=1920&amp;h=1080",
    "age": "1m ago",
-   "published": "2026-08-17T20:48:22+00:00"
+   "published": "2026-08-17T21:14:14+00:00"
   },
   {
    "title": "Anthropic tells investors annualized revenue run rate climbed to $65 billion in July",
@@ -39,8 +38,63 @@
    "topic": "markets",
    "summary": "Anthropic's revenue run rate is up about sevenfold from a year earlier.",
    "image": "https://image.cnbcfm.com/api/v1/image/108342838-1785448086438-gettyimages-2256659205-DAVOS_WEF_2026.jpeg?v=1785448353&amp;w=1920&amp;h=1080",
-   "age": "16m ago",
-   "published": "2026-08-17T20:33:35+00:00"
+   "age": "7m ago",
+   "published": "2026-08-17T21:08:29+00:00"
+  },
+  {
+   "title": "Declassified FBI docs reveal Swalwell had sex with 'Fang Fang' multiple times",
+   "url": "https://www.foxnews.com/politics/declassified-fbi-docs-reveal-swalwell-had-sex-fang-fang-multiple-occasions",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Former Democratic Rep. Eric Swalwell admitted to FBI agents in 2015 that he had intimate relations multiple times with suspected Chinese spy Christine Fang Fang Fang.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/eric-swalwell.jpg?ve=1&tl=1",
+   "age": "7m ago",
+   "published": "2026-08-17T21:08:23+00:00"
+  },
+  {
+   "title": "Babysitter accused of kidnapping two young sisters was previously charged with abducting newborn",
+   "url": "https://www.foxnews.com/us/babysitter-accused-kidnapping-two-young-sisters-previously-charged-abducting-newborn",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Lakesha Brown allegedly kidnapped two young sisters in Atlanta after gaining their mother s trust as a babysitter, marking her second arrest.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/babysitter-arrested-for-kidnaping-little-girls-in-atlanta.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-08-17T21:05:12+00:00"
+  },
+  {
+   "title": "El-Sayed aide likens GOP opponent's campaign to 'KKK cross burning' over video with Ford pickup",
+   "url": "https://www.foxnews.com/politics/el-sayed-aide-likens-gop-opponent-campaign-kkk-cross-burning-video-ford-pickup",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Republican U.S. Senate candidate Mike Rogers Ford truck video at the Woodward Dream Cruise drew a KKK comparison from an Abdul El-Sayed staffer.",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/rogers-truck-2.gif",
+   "age": "15m ago",
+   "published": "2026-08-17T21:00:50+00:00"
+  },
+  {
+   "title": "New champions alter WWE landscape while NXT newcomer makes his presence known with authority",
+   "url": "https://www.foxnews.com/sports/new-champions-alter-wwe-landscape-nxt-newcomer-makes-presence-known-authority",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jacy Jayne, Tama Tonga and Talla Tonga all captured titles on SmackDown while Rey Mysterio eyes Chad Gable s Intercontinental Championship on Raw this week.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/jacy-jayne-womens-us-championship-smackdown.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-08-17T20:57:09+00:00"
+  },
+  {
+   "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
+   "url": "https://www.cnbc.com/2026/08/17/paramount-bond-merger-delay-costs.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108346540-1786103503772-gettyimages-2288604996-yanow-paramoun260806_np0Sy.jpeg?v=1786103521&amp;w=1920&amp;h=1080",
+   "age": "27m ago",
+   "published": "2026-08-17T20:48:22+00:00"
   },
   {
    "title": "Charlamagne blasts 'dumb' Democrats for getting drawn into WNBA transgender debate ahead of midterms",
@@ -50,19 +104,19 @@
    "topic": "world",
    "summary": "Charlamagne tha God slammed the transgender sports debate on his Brilliant Idiots podcast, calling it dumb for Democrats to be drawn into the topic ahead of the midterms.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/charlamagne-tha-god-emma-grede-book-tour.jpg?ve=1&tl=1",
-   "age": "25m ago",
+   "age": "51m ago",
    "published": "2026-08-17T20:24:03+00:00"
   },
   {
-   "title": "Disney's new parks boss outlines investment strategy, with superfans at the fore",
-   "url": "https://www.cnbc.com/2026/08/17/disney-parks-strategy-superfans-mazloum.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350498-1786986480662-gettyimages-1251765312-20230125ocr-l-dis-worldofcolor-jg-14.jpeg?v=1786986511&amp;w=1920&amp;h=1080",
-   "age": "26m ago",
-   "published": "2026-08-17T20:23:22+00:00"
+   "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
+   "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_1550-1-1152x648.jpg",
+   "age": "52m ago",
+   "published": "2026-08-17T20:23:09+00:00"
   },
   {
    "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
@@ -72,41 +126,19 @@
    "topic": "ai",
    "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/iphone-spyware-alert-2024.jpg?resize=1200,800",
-   "age": "31m ago",
+   "age": "57m ago",
    "published": "2026-08-17T20:18:35+00:00"
   },
   {
-   "title": "Man busted after customs uncovers bizarre cargo hidden inside 22 pairs of socks",
-   "url": "https://www.foxnews.com/travel/man-busted-after-customs-uncovers-bizarre-cargo-hidden-22-pairs-socks",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Customs officials at Haneda Airport found around 200 lizards stuffed inside 22 pairs of socks in a Mexican man s suitcase, including endangered species.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/luggage-security-airport.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-08-17T20:16:23+00:00"
-  },
-  {
-   "title": "Despite complaints about other sports, the NFL has become the most predictable league in America",
-   "url": "https://www.foxnews.com/outkick-sports/despite-complaints-other-sports-nfl-become-most-predictable-league-america",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Over 13 seasons, 58% of Super Bowl participants had the NFL s best regular season record, making the playoffs far more predictable than other sports.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/04/931/523/Patrick-Mahomes5.jpg?ve=1&tl=1",
-   "age": "37m ago",
-   "published": "2026-08-17T20:12:18+00:00"
-  },
-  {
-   "title": "Luigi Mangione's New York murder trial adjourned until December over double jeopardy concerns",
-   "url": "https://www.foxnews.com/us/luigi-mangione-new-york-murder-trial-adjourned-december-double-jeopardy-concerns",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Luigi Mangione s defense team raised double jeopardy concerns after his federal guilty plea, prompting a judge to adjourn the New York murder trial.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/523/mangione-thompson.jpg?ve=1&tl=1",
-   "age": "38m ago",
-   "published": "2026-08-17T20:11:34+00:00"
+   "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+   "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"Network effect\" can run in reverse.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
+   "age": "1h ago",
+   "published": "2026-08-17T20:14:23+00:00"
   },
   {
    "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
@@ -116,7 +148,7 @@
    "topic": "markets",
    "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
    "image": "https://image.cnbcfm.com/api/v1/image/108339504-1786994172209-108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1786994191&amp;w=1920&amp;h=1080",
-   "age": "45m ago",
+   "age": "1h ago",
    "published": "2026-08-17T20:04:53+00:00"
   },
   {
@@ -127,7 +159,7 @@
    "topic": "ai",
    "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg",
-   "age": "49m ago",
+   "age": "1h ago",
    "published": "2026-08-17T20:00:20+00:00"
   },
   {
@@ -142,6 +174,17 @@
    "published": "2026-08-17T19:33:51+00:00"
   },
   {
+   "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGpaS25JQTEtWWt3UHI4aEdOTlktSXZ6UWFiT0E4N1VMZF9XN05tT0FTemw0Vm9xU0l3UG5iZ21XTGpUcFVKMG5zRWJNVlhyRm1PNFRsSzYtckZTN2VTQ1FJRVpxYW1Ecm1xWnRFcmhCVHFRLTh1bHQ1OFI2SmpWQ3Q3aTROLWVYcjd6R203dW5EaExaNmFGeUZac2QySWtCb2RTbzhTOEZjSlA4X05OdkVrQnZXTzNIRWplQkU1ZVNZOE94SXFiSg?oc=5",
+   "source": "The Tennessean",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-08-17T19:31:00+00:00"
+  },
+  {
    "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
    "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
    "source": "TechCrunch",
@@ -151,6 +194,17 @@
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Spotify-PlaylistNotes.png?w=1200",
    "age": "1h ago",
    "published": "2026-08-17T19:24:43+00:00"
+  },
+  {
+   "title": "Trump won't extend Iran ceasefire, threatens to 'bomb' Oman if it 'gets in the way'",
+   "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-17T19:24:32+00:00"
   },
   {
    "title": "Hendrick Motorsports signs Connor Zilisch to multiyear deal starting in 2028",
@@ -171,7 +225,7 @@
    "topic": "ai",
    "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2259021916.jpg?w=1024",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T19:04:27+00:00"
   },
   {
@@ -182,7 +236,7 @@
    "topic": "defense",
    "summary": "Satellite imagery reveals growing launch infrastructure for Geran-family one-way attack drones, including the capability of launching heavier, higher-performing types. T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GERAN-READY-FOR-LAUNCH-copy.jpg?quality=85",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T19:03:08+00:00"
   },
   {
@@ -193,7 +247,7 @@
    "topic": "defense",
    "summary": "The data from the hosted payloads on QZS-7 and its predecessor QZS-6 will feed into the US Space Surveillance Network operated by the 18th Space Defense Squadron.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Japanese-rocket-lifts-QZS-7-w-US-hosted-payload-e1786993499640.png",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T18:57:04+00:00"
   },
   {
@@ -206,6 +260,17 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Granary_2-PC-LP-04-3-880x648.webp",
    "age": "2h ago",
    "published": "2026-08-17T18:43:51+00:00"
+  },
+  {
+   "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
+   "url": "https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Reddit is beginning to test video and audio versions of popular posts, allowing users to watch or listen to Reddit stories instead of just reading them.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1048288996.jpg?resize=1200,675",
+   "age": "2h ago",
+   "published": "2026-08-17T18:42:30+00:00"
   },
   {
    "title": "US Air Force looks to acquire target drones that can mimic stealth jets",
@@ -237,7 +302,7 @@
    "topic": "ai",
    "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T18:13:47+00:00"
   },
   {
@@ -248,8 +313,19 @@
    "topic": "defense",
    "summary": "The new unit will also have short-range counter-cruise missile systems that will enhance the strategic island's defenses and grow the Army's overextended Patriot force. …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/new-patriot-battalion-guam.jpg?quality=85",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T17:55:15+00:00"
+  },
+  {
+   "title": "Connor Zilisch signs with Hendrick Motorsports for 2028 in multi-year deal",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPci1mdGhyTFpjLWlLazFBbGt3T3lhd3lQY3BsUDctdkdFcWpaYWZiRG9DVzBtdVI0MG40cTNsSmJHekhBMTF4SjgxblJIWDRiZ1M1MnpoLWdRZzg2SmwtOUVZOUc5amRtbVhDWVp6ekxOek9fYktLY0JkTUd6WS1lVEo5bVhDTDJoMllHbWt0dWZVUTFXSFUwbldyOFhPTEo5R0lYcXo1WDJ4QQ?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3h ago",
+   "published": "2026-08-17T17:46:47+00:00"
   },
   {
    "title": "Raytheon gets massive $23B contract to boost Tomahawk production",
@@ -285,17 +361,6 @@
    "published": "2026-08-17T17:19:00+00:00"
   },
   {
-   "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGpaS25JQTEtWWt3UHI4aEdOTlktSXZ6UWFiT0E4N1VMZF9XN05tT0FTemw0Vm9xU0l3UG5iZ21XTGpUcFVKMG5zRWJNVlhyRm1PNFRsSzYtckZTN2VTQ1FJRVpxYW1Ecm1xWnRFcmhCVHFRLTh1bHQ1OFI2SmpWQ3Q3aTROLWVYcjd6R203dW5EaExaNmFGeUZac2QySWtCb2RTbzhTOEZjSlA4X05OdkVrQnZXTzNIRWplQkU1ZVNZOE94SXFiSg?oc=5",
-   "source": "The Tennessean",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3h ago",
-   "published": "2026-08-17T16:58:00+00:00"
-  },
-  {
    "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
    "source": "Daytona Beach News-Journal",
@@ -318,17 +383,6 @@
    "published": "2026-08-17T16:44:25+00:00"
   },
   {
-   "title": "Connor Zilisch Signs Multi-year Deal With Hendrick Motorsports",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHVRRnRha2Fhb1dTRHhOY1hrSWRzMVV2MFJkY2p6cXBNaDU5QU96Q0I4eGI3QkYzVkM5WmhKRkV3RlZWTTByaTlnSmVNbGI4cXZpRWxycGxPV0N5cU1ubWhKZ1N0S1NVTUIwYTBPb0Vabno3ZUNoOVdKZWE5ME42dVM5cVotYjVWeFRTQ3J0a0FOWmVHejNxb2RuMzJFd1lVY0FrU1p4cnRuZVptVlZnSNIBsAFBVV95cUxOS1lJR3l5SmI0SFJEX0FYNjR1YUk4QlNGZ3VFQ3lod0lGS0xBMVYzS2lOYXY3QnRENXFTR1E4NkUxcEhVNTh5VVhCRmlPVU5temxOY2h6Z1VwUDFRSUVBeWVGc3NGUEN0NGZ0LTE2YkMzZEVZNDVjVFhNX0FlZTktVUdsYWdqRkF2VHgwMnFfd2l3bmVZRjk3NUROVFpJNzRKclljc2dUUk1ybFdIZG9WYQ?oc=5",
-   "source": "FOX Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "4h ago",
-   "published": "2026-08-17T16:15:39+00:00"
-  },
-  {
    "title": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
    "url": "https://news.usni.org/2026/08/17/uss-benfold-leaves-japan-after-returning-from-power-failure-repairs",
    "source": "USNI News",
@@ -347,7 +401,7 @@
    "topic": "defense",
    "summary": "President Trump instructed the Pentagon to “substantially reduce” joint military exercises with long-term Asian ally South Korea.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CKZW5TE7VBA3PLRVCTMB6T3FPM.JPG",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-17T15:14:07+00:00"
   },
   {
@@ -358,52 +412,8 @@
    "topic": "defense",
    "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PVXYRVQFKZFGFAIJ735MV5RCY4.jpg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-17T15:06:00+00:00"
-  },
-  {
-   "title": "This sub-$7,000 sportscar might be just what the future needs",
-   "url": "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/0.png-1152x648.jpeg",
-   "age": "5h ago",
-   "published": "2026-08-17T15:01:25+00:00"
-  },
-  {
-   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-08-16T12:15:00+00:00"
-  },
-  {
-   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
-   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
-   "age": "1d ago",
-   "published": "2026-08-16T11:00:00+00:00"
-  },
-  {
-   "title": "Republican education policies have left our children behind",
-   "url": "https://nwitimes.com/news/article_7095e4c3-af37-4ddc-a96c-7076edb3094c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "GUEST COMMENTARY | Republican education policies have left our children behind",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/0d/20dda791-92ca-4bab-bc1c-48f36cd2f7b1/6a7369fe5deec.image.jpg?resize=300%2C375",
-   "age": "1d ago",
-   "published": "2026-08-16T11:00:00+00:00"
   },
   {
    "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
@@ -435,7 +445,7 @@
    "topic": "defense",
    "summary": "The R66 will be part of a fundamentally different, contractor-run approach to producing Army helicopter pilots. The post Army To Use Robinson R66 For Its New Helicopter …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Robinson-R66-Army.jpg?quality=85",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-08-14T21:03:13+00:00"
   },
   {
@@ -448,17 +458,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9835496-scaled.jpg",
    "age": "3d ago",
    "published": "2026-08-14T20:16:00+00:00"
-  },
-  {
-   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
-   "age": "3d ago",
-   "published": "2026-08-14T12:15:00+00:00"
   }
  ]
 }
