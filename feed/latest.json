@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T19:48:22+00:00",
+ "generated": "2026-08-17T20:14:30+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": false,
@@ -10,16 +10,60 @@
   "CNBC",
   "Daytona Beach News-Journal",
   "Defense News",
+  "FOX Sports",
   "Fox News",
   "NASCAR.com",
   "NWI Times",
-  "Road & Track",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
   "USNI News"
  ],
  "items": [
+  {
+   "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
+   "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108339504-1786994172209-108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1786994191&amp;w=1920&amp;h=1080",
+   "age": "9m ago",
+   "published": "2026-08-17T20:04:53+00:00"
+  },
+  {
+   "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+   "url": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/verizon-stock-ticker-1152x648-1786994944.jpg",
+   "age": "14m ago",
+   "published": "2026-08-17T20:00:20+00:00"
+  },
+  {
+   "title": "Josh Pate was evicted while earning $27K. Now, he runs a college football media empire",
+   "url": "https://www.foxnews.com/outkick-sports/josh-pate-evicted-earning-27k-runs-college-football-media-empire",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Josh Pate went from making $27,000 a year and getting evicted to owning the IP of his college football podcast and signing a new deal with ESPN.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/josh-pate-college-football-show-fanatics-fest.jpg?ve=1&tl=1",
+   "age": "21m ago",
+   "published": "2026-08-17T19:52:37+00:00"
+  },
+  {
+   "title": "Trump meets teen lifeguard and boy saved in viral ocean rescue at Oval Office",
+   "url": "https://www.foxnews.com/politics/trump-meets-teen-lifeguard-boy-saved-viral-ocean-rescue-oval-office",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "President Donald Trump hosted 16-year-old California lifeguard Ryder Williams at the White House after viral video showed his dramatic ocean rescue.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ryder-williams-trump-001.jpg?ve=1&tl=1",
+   "age": "26m ago",
+   "published": "2026-08-17T19:48:25+00:00"
+  },
   {
    "title": "National park trip turns tragic after falling rock pierces Jeep roof, fatally striking man in front of wife",
    "url": "https://www.foxnews.com/us/national-park-trip-turns-tragic-after-falling-rock-pierces-jeep-roof-fatally-striking-grandfather",
@@ -28,7 +72,7 @@
    "topic": "world",
    "summary": "Rex Schowengerdt, 72, suffered a catastrophic brain injury when a falling rock pierced the roof of a Jeep he was traveling in as his wife sat beside him.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/schowengerdt-couple.jpg?ve=1&tl=1",
-   "age": "12m ago",
+   "age": "38m ago",
    "published": "2026-08-17T19:36:17+00:00"
   },
   {
@@ -39,7 +83,7 @@
    "topic": "ai",
    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San …",
    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
-   "age": "14m ago",
+   "age": "40m ago",
    "published": "2026-08-17T19:33:51+00:00"
   },
   {
@@ -50,7 +94,7 @@
    "topic": "world",
    "summary": "Terry McAuley called out a WNBA ref for using Caitlin Clark s name during a foul call, calling the move incredibly unprofessional and unprecedented.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/caitlin-clark-indiana-fever-atlanta-dream.jpg?ve=1&tl=1",
-   "age": "18m ago",
+   "age": "44m ago",
    "published": "2026-08-17T19:30:12+00:00"
   },
   {
@@ -61,7 +105,7 @@
    "topic": "ai",
    "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Spotify-PlaylistNotes.png?w=1200",
-   "age": "23m ago",
+   "age": "49m ago",
    "published": "2026-08-17T19:24:43+00:00"
   },
   {
@@ -72,19 +116,8 @@
    "topic": "markets",
    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
-   "age": "23m ago",
+   "age": "49m ago",
    "published": "2026-08-17T19:24:32+00:00"
-  },
-  {
-   "title": "LIV Golf Team Championship set for Indianapolis as Michigan tournament is canceled amid league's murky future",
-   "url": "https://www.foxnews.com/outkick-sports/liv-golf-team-championship-set-indianapolis-michigan-tournament-canceled-amid-league-murky-future",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Scott O Neil says a new lead investor will keep LIV Golf alive past 2027, but the $40 million Team Championship has now been officially re-scheduled.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/bryson-liv-canceled-featured.jpg?ve=1&tl=1",
-   "age": "24m ago",
-   "published": "2026-08-17T19:24:05+00:00"
   },
   {
    "title": "Hendrick Motorsports signs Connor Zilisch to multiyear deal starting in 2028",
@@ -94,19 +127,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "31m ago",
+   "age": "57m ago",
    "published": "2026-08-17T19:16:40+00:00"
-  },
-  {
-   "title": "House Democrat investigated over alleged 'inappropriate sexual contact' with staffer",
-   "url": "https://www.foxnews.com/politics/house-democrat-investigated-over-alleged-inappropriate-sexual-contact-staffer",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The House Ethics Committee announced an investigation into Rep. Jimmy Gomez over allegations of inappropriate sexual contact with a House staffer.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/rep-jimmy-gomez-capitol-hill-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "43m ago",
-   "published": "2026-08-17T19:04:47+00:00"
   },
   {
    "title": "Higgsfield raises $400M Series B, quadrupling its valuation in 8 months to $5.4B",
@@ -116,7 +138,7 @@
    "topic": "ai",
    "summary": "Higgsfield, founded by former Snap exec Alex Mashrabov, lets users create AI images and videos.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2259021916.jpg?w=1024",
-   "age": "43m ago",
+   "age": "1h ago",
    "published": "2026-08-17T19:04:27+00:00"
   },
   {
@@ -127,19 +149,8 @@
    "topic": "defense",
    "summary": "Satellite imagery reveals growing launch infrastructure for Geran-family one-way attack drones, including the capability of launching heavier, higher-performing types. T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GERAN-READY-FOR-LAUNCH-copy.jpg?quality=85",
-   "age": "45m ago",
+   "age": "1h ago",
    "published": "2026-08-17T19:03:08+00:00"
-  },
-  {
-   "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
-   "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108339504-1786994172209-108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1786994191&amp;w=1920&amp;h=1080",
-   "age": "46m ago",
-   "published": "2026-08-17T19:01:55+00:00"
   },
   {
    "title": "Paramount seeks $1.88 billion bond from state AGs to cover costs of WBD merger delay",
@@ -149,7 +160,7 @@
    "topic": "markets",
    "summary": "Paramount agreed to delay its proposed acquisition of WBD to as late as June 2027 while the state AGs' case heads to trial.",
    "image": "https://image.cnbcfm.com/api/v1/image/108346540-1786103503772-gettyimages-2288604996-yanow-paramoun260806_np0Sy.jpeg?v=1786103521&amp;w=1920&amp;h=1080",
-   "age": "49m ago",
+   "age": "1h ago",
    "published": "2026-08-17T18:58:54+00:00"
   },
   {
@@ -160,7 +171,7 @@
    "topic": "defense",
    "summary": "The data from the hosted payloads on QZS-7 and its predecessor QZS-6 will feed into the US Space Surveillance Network operated by the 18th Space Defense Squadron.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Japanese-rocket-lifts-QZS-7-w-US-hosted-payload-e1786993499640.png",
-   "age": "51m ago",
+   "age": "1h ago",
    "published": "2026-08-17T18:57:04+00:00"
   },
   {
@@ -171,8 +182,19 @@
    "topic": "markets",
    "summary": "Disney Experiences chief Thomas Mazloum is focused on balancing the needs of its most ardent parkgoers with its less frequent visitors.",
    "image": "https://image.cnbcfm.com/api/v1/image/108350498-1786986480662-gettyimages-1251765312-20230125ocr-l-dis-worldofcolor-jg-14.jpeg?v=1786986511&amp;w=1920&amp;h=1080",
-   "age": "57m ago",
+   "age": "1h ago",
    "published": "2026-08-17T18:50:36+00:00"
+  },
+  {
+   "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+   "url": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Granary_2-PC-LP-04-3-880x648.webp",
+   "age": "1h ago",
+   "published": "2026-08-17T18:43:51+00:00"
   },
   {
    "title": "Reddit begins testing a new audio and video experience, similar to popular TikTok videos",
@@ -215,7 +237,7 @@
    "topic": "ai",
    "summary": "Amazon’s team uses a T. rex preparing to devour a book as its logo.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-149405480-1152x648.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T18:13:47+00:00"
   },
   {
@@ -226,19 +248,8 @@
    "topic": "defense",
    "summary": "The new unit will also have short-range counter-cruise missile systems that will enhance the strategic island's defenses and grow the Army's overextended Patriot force. …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/new-patriot-battalion-guam.jpg?quality=85",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T17:55:15+00:00"
-  },
-  {
-   "title": "NASCAR Rising Star Connor Zilisch Signs with Hendrick Motorsports for 2028",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaWM4ckk2Q0RpaDREMEpLeEZpTVREQ2h5dWVtU2JQV2NJWXlTTWszTGstemkwYWYzUGVBcDcwRElGQXYwVVMwXzZZZkg0NlRQc25zUzRYLTRpXy1PenBvU19FR2FpSUV1Nm0wdWM3S1otUV96WFFTVWVJeUY5UEtSYnV1M1E4d3RBcHA5QnRpOUtQM2ZzVmlEYmZCc19LMEVxM29fRWFfaFV3ZVFEa3djTlN1YWs?oc=5",
-   "source": "Road & Track",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1h ago",
-   "published": "2026-08-17T17:51:00+00:00"
   },
   {
    "title": "Raytheon gets massive $23B contract to boost Tomahawk production",
@@ -281,8 +292,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T16:58:00+00:00"
+  },
+  {
+   "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
+   "source": "Daytona Beach News-Journal",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3h ago",
+   "published": "2026-08-17T16:49:00+00:00"
   },
   {
    "title": "USNI News Fleet and Marine Tracker: Aug. 17, 2026",
@@ -296,15 +318,15 @@
    "published": "2026-08-17T16:44:25+00:00"
   },
   {
-   "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
-   "source": "Daytona Beach News-Journal",
+   "title": "Connor Zilisch Signs Multi-year Deal With Hendrick Motorsports",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHVRRnRha2Fhb1dTRHhOY1hrSWRzMVV2MFJkY2p6cXBNaDU5QU96Q0I4eGI3QkYzVkM5WmhKRkV3RlZWTTByaTlnSmVNbGI4cXZpRWxycGxPV0N5cU1ubWhKZ1N0S1NVTUIwYTBPb0Vabno3ZUNoOVdKZWE5ME42dVM5cVotYjVWeFRTQ3J0a0FOWmVHejNxb2RuMzJFd1lVY0FrU1p4cnRuZVptVlZnSNIBsAFBVV95cUxOS1lJR3l5SmI0SFJEX0FYNjR1YUk4QlNGZ3VFQ3lod0lGS0xBMVYzS2lOYXY3QnRENXFTR1E4NkUxcEhVNTh5VVhCRmlPVU5temxOY2h6Z1VwUDFRSUVBeWVGc3NGUEN0NGZ0LTE2YkMzZEVZNDVjVFhNX0FlZTktVUdsYWdqRkF2VHgwMnFfd2l3bmVZRjk3NUROVFpJNzRKclljc2dUUk1ybFdIZG9WYQ?oc=5",
+   "source": "FOX Sports",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
    "age": "3h ago",
-   "published": "2026-08-17T16:21:00+00:00"
+   "published": "2026-08-17T16:15:39+00:00"
   },
   {
    "title": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
@@ -325,7 +347,7 @@
    "topic": "defense",
    "summary": "President Trump instructed the Pentagon to “substantially reduce” joint military exercises with long-term Asian ally South Korea.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CKZW5TE7VBA3PLRVCTMB6T3FPM.JPG",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-17T15:14:07+00:00"
   },
   {
@@ -336,7 +358,7 @@
    "topic": "defense",
    "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PVXYRVQFKZFGFAIJ735MV5RCY4.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-17T15:06:00+00:00"
   },
   {
@@ -347,30 +369,8 @@
    "topic": "ai",
    "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/0.png-1152x648.jpeg",
-   "age": "4h ago",
-   "published": "2026-08-17T15:01:25+00:00"
-  },
-  {
-   "title": "Nvidia discloses $21B stake in SpaceX",
-   "url": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
    "age": "5h ago",
-   "published": "2026-08-17T14:22:54+00:00"
-  },
-  {
-   "title": "Meet the only known trebuchet casualty in history",
-   "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
-   "age": "6h ago",
-   "published": "2026-08-17T13:41:35+00:00"
+   "published": "2026-08-17T15:01:25+00:00"
   },
   {
    "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
