@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T11:15:30+00:00",
+ "generated": "2026-08-17T11:46:37+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": false,
@@ -10,15 +10,37 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "NASCAR.com",
   "NWI Times",
-  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Yardbarker"
+  "Yardbarker",
+  "nascar.com",
+  "speedwaydigest.com"
  ],
  "items": [
+  {
+   "title": "Alibaba answers Meta’s AI challenge with new laptop-ready model",
+   "url": "https://www.cnbc.com/2026/08/17/alibaba-meta-qwen-open-weight-ai-laptop-models.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Alibaba launched a laptop-ready AI model and released the weights of its most powerful Qwen model, escalating its rivalry with Meta in open-weight AI.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108227780-17635012212025-07-16t104346z_1770604358_rc2hnfahkmgb_rtrmadp_0_china-supply-chain.jpeg?v=1763501302&amp;w=1920&amp;h=1080",
+   "age": "22m ago",
+   "published": "2026-08-17T11:24:23+00:00"
+  },
+  {
+   "title": "Actress Hayden Panettiere dies suddenly at age 36 and more top headlines",
+   "url": "https://www.foxnews.com/us/actress-hayden-panettiere-dies-suddenly-age-36-more-top-headlines",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/hayden-panettiere-1.jpg?ve=1&tl=1",
+   "age": "34m ago",
+   "published": "2026-08-17T11:12:30+00:00"
+  },
   {
    "title": "Enes Kanter Freedom roasts Angel Reese over late miss, then turns his fire on NBA vet Paul George",
    "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-roasts-angel-reese-late-miss-turns-fire-nba-vet-paul-george",
@@ -27,7 +49,7 @@
    "topic": "world",
    "summary": "Enes Kanter Freedom roasted Angel Reese s crunch-time miss and compared her to Paul George while renewing his threat to enter the 2027 WNBA Draft.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-celtics-raptors-toronto.jpg?ve=1&tl=1",
-   "age": "5m ago",
+   "age": "36m ago",
    "published": "2026-08-17T11:10:04+00:00"
   },
   {
@@ -38,7 +60,7 @@
    "topic": "markets",
    "summary": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
    "image": "https://image.cnbcfm.com/api/v1/image/108263041-1770602619909-gettyimages-1056129558-dealbook_082.jpeg?v=1770604001&amp;w=1920&amp;h=1080",
-   "age": "9m ago",
+   "age": "40m ago",
    "published": "2026-08-17T11:05:58+00:00"
   },
   {
@@ -49,7 +71,7 @@
    "topic": "world",
    "summary": "AOC s egg freezing announcement sparks a deeper debate about whether postponing motherhood truly represents female empowerment for young women.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/aoc-presidential-bid-congress.jpg?ve=1&tl=1",
-   "age": "14m ago",
+   "age": "45m ago",
    "published": "2026-08-17T11:00:57+00:00"
   },
   {
@@ -60,30 +82,8 @@
    "topic": "world",
    "summary": "Brad Pitt recently said he resumed drinking after seven years of sobriety, but an addiction specialist warns that testing the waters can be dangerous.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/brad-pitt-holding-wine-glass-1.jpg?ve=1&tl=1",
-   "age": "14m ago",
+   "age": "45m ago",
    "published": "2026-08-17T11:00:54+00:00"
-  },
-  {
-   "title": "CEO says doing business in state ‘sucks’ as company heads to Texas amid California exodus",
-   "url": "https://www.foxnews.com/politics/ceo-says-doing-business-state-sucks-company-heads-texas-amid-california-exodus",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Hil Davis moved Digital Brands Group more than 1,300 miles to Round Rock, Texas, citing California s high cost of living and business expenses.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/hollywood-sign-cali.png?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-08-17T11:00:48+00:00"
-  },
-  {
-   "title": "Prince Harry’s ‘The Wasp’ rival stepping down but may remain 'a voice in the king’s ear': expert",
-   "url": "https://www.foxnews.com/entertainment/prince-harry-wasp-rival-stepping-down-may-remain-voice-kings-ear-experts",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Royal experts say Sir Clive Alderton, dubbed The Wasp by Prince Harry, may still influence King Charles even after stepping down as private secretary.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Prince-Harry-Court-Appearance-UK.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-17T11:00:17+00:00"
   },
   {
    "title": "What will TV look like in three years? Media insiders share their predictions",
@@ -93,7 +93,7 @@
    "topic": "markets",
    "summary": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349861-1786723866209-260420_cg_32_future_tv_gfx4__0-00-12-15__1024.png?v=1786723905&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
+   "age": "46m ago",
    "published": "2026-08-17T11:00:01+00:00"
   },
   {
@@ -104,7 +104,7 @@
    "topic": "markets",
    "summary": "The S&P 500 is up more than 6% in 12 trading days to record levels.",
    "image": "https://image.cnbcfm.com/api/v1/image/108348538-1786548860834-108348538-1786548734348-gettyimages-2289681079-LONDIAN_WASON_IPO.jpg?v=1786548870&amp;w=1920&amp;h=1080",
-   "age": "43m ago",
+   "age": "1h ago",
    "published": "2026-08-17T10:31:33+00:00"
   },
   {
@@ -115,7 +115,7 @@
    "topic": "markets",
    "summary": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
    "image": "https://image.cnbcfm.com/api/v1/image/108350208-1786957597997-gettyimages-2290169462-AFP_C4RN8KE.jpeg?v=1786957637&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T09:46:08+00:00"
   },
   {
@@ -137,7 +137,7 @@
    "topic": "ai",
    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-16T20:32:01+00:00"
   },
   {
@@ -440,7 +440,7 @@
   {
    "title": "William Byron Continues Short-Track Surge Heading to Richmond",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU3ZHh4SW5nbUFDSVg0cHNEbGhTZTBTcFhQZ01RMlprSmlwejhqZ1E5MEduSTdYT3E0ZWJQYy1fQ0FiZFYyWVJJb2pQRVZKeThzR0Zya0F3NzBoWFFVenNsc0diZnVCakxsUWhnaFQwelJGZHlkbGIyRkdISkJtSVJ5akNVX0ZPMk0zY3hhOFZKeUJULTVoejdyUm5NRnZ0WkhzSl9TbXIzc3BxaUR3Z0FoeEhpMTYxYVo4cUJqdldOSkVfeGlWbTcyQWE4d28?oc=5",
-   "source": "Speedway Digest",
+   "source": "speedwaydigest.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -451,7 +451,7 @@
   {
    "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09PM2x3UEEycmVQeWZQWkVFekVZV3ZSb1QxTlc3UTdZZG9jMFZXZWR2TlZpY1RRV0ZJdWdXNTFXUnlmSVdGaWlNNkRKeXlEY1hXRTc4bFYwZlRlVEY4QUU0SFBQX09sVFg0bUtvVGZEeEVKTjNDdTg2dlE5dkhnM1hiZ2Vqbk9OYktpSmpCZVJQZHZqdFV4X3FSMjZsZ9IBowFBVV95cUxNT3ZuM2JhUXMtbWQ5d0l1U19seDQxenBpOWJZZWVreGpBZGlzZGdGbzU4bDZmQW1IUjJjdnRubW1yTzAwR0Z1Rm4tTDlueVZjTTRKTXFSNS13TV9KQklERlV6aG1jWlhoeks3akMtLXN4RHZqT2xHS2l4VjlaemJaSktfMEdXNEN3LUc0cTBvZ19ldWpKamhaTnlGbnFyWU5TWVZv?oc=5",
-   "source": "NASCAR.com",
+   "source": "nascar.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
