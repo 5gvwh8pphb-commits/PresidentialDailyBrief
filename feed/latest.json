@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T12:20:46+00:00",
+ "generated": "2026-08-17T13:13:12+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": false,
@@ -10,8 +10,6 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "NASCAR.com",
-  "NWI Times",
   "Speedway Digest",
   "TechCrunch",
   "The War Zone",
@@ -20,37 +18,81 @@
  ],
  "items": [
   {
-   "title": "Why WWE legend Dawn Marie is heading to OnlyFans at 55",
-   "url": "https://www.foxnews.com/sports/why-wwe-legend-dawn-marie-heading-onlyfans-55",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dawn Marie explains why she joined OnlyFans as a single mom and nurse, citing wrestling injuries and her desire to secure her children s futures.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dawn-marie-wizard-world-philadelphia-comic-con_002.jpg?ve=1&tl=1",
-   "age": "18m ago",
-   "published": "2026-08-17T12:02:00+00:00"
-  },
-  {
-   "title": "Dangerous rabid beavers attack 2 teens, with 1 airlifted and popular park partially closed",
-   "url": "https://www.foxnews.com/travel/dangerous-rabid-beavers-attack-2-teens-1-airlifted-popular-park-partially-closed",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Two rabid beaver attacks at Cunningham Falls State Park injured a teen swimmer and a fisherman, prompting partial closures and thermal imaging surveys.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/cunningham-falls-state-park-maryland_001.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-08-17T12:00:30+00:00"
-  },
-  {
-   "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-   "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+   "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+   "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080",
-   "age": "20m ago",
-   "published": "2026-08-17T12:00:01+00:00"
+   "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-08-17T13:11:47+00:00"
+  },
+  {
+   "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+   "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Wispr’s total funding is now over $361 million.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
+   "age": "3m ago",
+   "published": "2026-08-17T13:10:05+00:00"
+  },
+  {
+   "title": "Trump can protect California avocado farmers and take a bite out of Mexican cartels, too",
+   "url": "https://www.foxnews.com/opinion/trump-protect-california-avocado-farmers-bite-mexican-cartels",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Trump s Make America Healthy Again push promotes avocados, but California growers face a 32% surge in Mexican imports this year, posing a threat to domestic production.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/woman-avocado-toast.jpg?ve=1&tl=1",
+   "age": "12m ago",
+   "published": "2026-08-17T13:00:42+00:00"
+  },
+  {
+   "title": "El-Sayed taunts Trump, claims he's going to make him 'main character of the midterms'",
+   "url": "https://www.foxnews.com/media/el-sayed-taunts-trump-claims-hes-going-make-him-main-character-midterms",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Abdul El-Sayed taunted Trump on air, daring attacks and calling Mike Rogers an NPC as a new Fox News Poll shows Rogers leading 51% to 47%.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-unity-rally-detroit.jpg?ve=1&tl=1",
+   "age": "12m ago",
+   "published": "2026-08-17T13:00:33+00:00"
+  },
+  {
+   "title": "After traumatic health ‘crash,’ Austin Tice’s mom renews search for answers",
+   "url": "https://www.defensenews.com/news/your-military/2026/08/17/after-traumatic-health-crash-austin-tices-mom-renews-search-for-answers/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Austin Tice, a Marine Corps veteran, was abducted during a 2012 reporting trip to Syria.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TUXGVOQEKFCPNA2KJK72OGCSBM.jpg",
+   "age": "12m ago",
+   "published": "2026-08-17T13:00:28+00:00"
+  },
+  {
+   "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
+   "url": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
+   "age": "12m ago",
+   "published": "2026-08-17T13:00:19+00:00"
+  },
+  {
+   "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
+   "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&amp;w=1920&amp;h=1080",
+   "age": "31m ago",
+   "published": "2026-08-17T12:41:58+00:00"
   },
   {
    "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
@@ -60,52 +102,63 @@
    "topic": "markets",
    "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
-   "published": "2026-08-17T11:55:48+00:00"
+   "age": "39m ago",
+   "published": "2026-08-17T12:34:07+00:00"
   },
   {
-   "title": "Hayden Panettiere: A life in pictures",
-   "url": "https://www.foxnews.com/entertainment/hayden-panettiere-life-pictures",
+   "title": "Charlie Kirk’s murder sends shockwaves through Christian academy in hit Fox Nation series",
+   "url": "https://www.foxnews.com/media/fox-nation-chronicles-charlie-kirks-murder-shockwaves-christian-high-school",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Hayden Panettiere is survived by her daughter Kaya, who was born in 2014, with Ukrainian boxer Wladimir Klitschko. Panettiere s younger brother, Jansen, who was also an …",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/hayden-panetierre-obituary_fox-news_011.jpg?ve=1&tl=1",
-   "age": "32m ago",
-   "published": "2026-08-17T11:48:28+00:00"
+   "summary": "Fox Nation s God. Family. Football. reveals how Evangel Christian Academy s coach guided his team through grief after Charlie Kirk s assassination.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/kirk.png?ve=1&tl=1",
+   "age": "43m ago",
+   "published": "2026-08-17T12:29:50+00:00"
   },
   {
-   "title": "NASCAR star compared to Trump, tells nasty fans to quit 'b----in,' while race wife dusts off her Daisy Dukes",
-   "url": "https://www.foxnews.com/outkick-sports/nascar-star-compared-trump-tells-nasty-fans-quit-race-wife-dusts-daisy-dukes",
+   "title": "Meet Kandi Krush – the former Olympic hopeful who is rising through the ranks in Women of Wrestling",
+   "url": "https://www.foxnews.com/sports/meet-kandi-krush-former-olympic-hopeful-rising-ranks-women-wrestling",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Kyle Larson s plane was the most tracked flight in America Saturday as he sprinted from Richmond to win the Knoxville Nationals in one night.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kyle-larson-richmond-raceway-fox-news_.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-08-17T11:47:15+00:00"
+   "summary": "Kandi Krush s path from Olympic synchronized swimming hopeful to Women of Wrestling powerhouse began with injuries and a pivot through undefeated boxing.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/WOW-Kandi-Krush-081726-2.jpg?ve=1&tl=1",
+   "age": "50m ago",
+   "published": "2026-08-17T12:22:27+00:00"
   },
   {
-   "title": "Actress Hayden Panettiere dies suddenly at age 36 and more top headlines",
-   "url": "https://www.foxnews.com/us/actress-hayden-panettiere-dies-suddenly-age-36-more-top-headlines",
+   "title": "Robot learns to dismantle broken machines",
+   "url": "https://www.foxnews.com/science/robot-learns-dismantle-broken-machines",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/hayden-panettiere-1.jpg?ve=1&tl=1",
+   "summary": "Karlsruhe Institute of Technology researchers built a robotic disassembly system that adapts when screws get stuck or parts go missing in old machines.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/robot-dismantles-machines-2.jpg?ve=1&tl=1",
    "age": "1h ago",
-   "published": "2026-08-17T11:12:30+00:00"
+   "published": "2026-08-17T12:12:27+00:00"
   },
   {
-   "title": "Vista Energy up 5% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
-   "url": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
+   "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+   "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108263041-1770602619909-gettyimages-1056129558-dealbook_082.jpeg?v=1770604001&amp;w=1920&amp;h=1080",
+   "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-08-17T11:05:58+00:00"
+   "published": "2026-08-17T12:00:01+00:00"
+  },
+  {
+   "title": "Satellite operators are in panic mode due to a worsening launch crisis",
+   "url": "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "What happens if the Falcon rockets stop flying?",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-08-17T11:00:26+00:00"
   },
   {
    "title": "What will TV look like in three years? Media insiders share their predictions",
@@ -115,7 +168,7 @@
    "topic": "markets",
    "summary": "CNBC asked media insiders what they think the TV market — from pay TV subscribers to sports ratings — will look like in three years.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349861-1786723866209-260420_cg_32_future_tv_gfx4__0-00-12-15__1024.png?v=1786723905&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T11:00:01+00:00"
   },
   {
@@ -126,7 +179,7 @@
    "topic": "ai",
    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-16T20:57:04+00:00"
   },
   {
@@ -137,7 +190,7 @@
    "topic": "ai",
    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-16T20:32:01+00:00"
   },
   {
@@ -148,52 +201,8 @@
    "topic": "ai",
    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-   "age": "19h ago",
-   "published": "2026-08-16T16:53:51+00:00"
-  },
-  {
-   "title": "TechCrunch Mobility: The shifting flight path of electric air taxis",
-   "url": "https://techcrunch.com/2026/08/16/techcrunch-mobility-the-shifting-flight-path-of-electric-air-taxis/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
    "age": "20h ago",
-   "published": "2026-08-16T16:04:00+00:00"
-  },
-  {
-   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-08-16T12:15:00+00:00"
-  },
-  {
-   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
-   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
-   "age": "1d ago",
-   "published": "2026-08-16T11:00:00+00:00"
-  },
-  {
-   "title": "Republican education policies have left our children behind",
-   "url": "https://nwitimes.com/news/article_7095e4c3-af37-4ddc-a96c-7076edb3094c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "GUEST COMMENTARY | Republican education policies have left our children behind",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/0d/20dda791-92ca-4bab-bc1c-48f36cd2f7b1/6a7369fe5deec.image.jpg?resize=300%2C375",
-   "age": "1d ago",
-   "published": "2026-08-16T11:00:00+00:00"
+   "published": "2026-08-16T16:53:51+00:00"
   },
   {
    "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
@@ -212,7 +221,7 @@
    "source": "Ars Technica",
    "group": "Ars Technica",
    "topic": "ai",
-   "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+   "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2-1152x648.jpg",
    "age": "1d ago",
    "published": "2026-08-15T21:21:27+00:00"
@@ -394,17 +403,6 @@
    "published": "2026-08-14T14:55:00+00:00"
   },
   {
-   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
-   "age": "3d ago",
-   "published": "2026-08-14T12:15:00+00:00"
-  },
-  {
    "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
    "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
    "source": "USNI News",
@@ -414,6 +412,17 @@
    "image": "https://news.usni.org/wp-content/uploads/2025/11/ROKNavy.jpeg",
    "age": "3d ago",
    "published": "2026-08-13T23:15:54+00:00"
+  },
+  {
+   "title": "Presidential Memo: Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+   "url": "https://news.usni.org/2026/08/13/presidential-memo-rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is President Donald Trump s presidential memorandum, Rebuilding the United States Navy and America s Shipbuilding Industrial Base, signed Aug. 13, 2026. Fr…",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-13T21:46:21+00:00"
   },
   {
    "title": "US Marines roam far and wide from temporary Darwin base",
@@ -447,17 +456,6 @@
    "image": null,
    "age": "3d ago",
    "published": "2026-08-13T17:24:11+00:00"
-  },
-  {
-   "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09PM2x3UEEycmVQeWZQWkVFekVZV3ZSb1QxTlc3UTdZZG9jMFZXZWR2TlZpY1RRV0ZJdWdXNTFXUnlmSVdGaWlNNkRKeXlEY1hXRTc4bFYwZlRlVEY4QUU0SFBQX09sVFg0bUtvVGZEeEVKTjNDdTg2dlE5dkhnM1hiZ2Vqbk9OYktpSmpCZVJQZHZqdFV4X3FSMjZsZ9IBowFBVV95cUxNT3ZuM2JhUXMtbWQ5d0l1U19seDQxenBpOWJZZWVreGpBZGlzZGdGbzU4bDZmQW1IUjJjdnRubW1yTzAwR0Z1Rm4tTDlueVZjTTRKTXFSNS13TV9KQklERlV6aG1jWlhoeks3akMtLXN4RHZqT2xHS2l4VjlaemJaSktfMEdXNEN3LUc0cTBvZ19ldWpKamhaTnlGbnFyWU5TWVZv?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-08-13T12:35:15+00:00"
   }
  ]
 }
