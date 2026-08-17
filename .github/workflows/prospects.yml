@@ -3,10 +3,13 @@ name: Prospect districts
 on:
   schedule:
     # 23:50 UTC Sunday = 6:50 PM Central Daylight Time.
-    # Exactly one hour after the district brief so the two never race,
-    # and off the top of the hour to avoid GitHub's queueing delays.
-    # Note: drifts an hour earlier when CST resumes in November.
-    - cron: '50 23 * * 0'
+    # 07:50 UTC Sunday = 2:50 AM Central Daylight Time Sunday.
+    # 30 minutes after the district brief, which takes ~5 minutes, so the two
+    # never race. Both sit in the same overnight 5-hour usage window as the
+    # 3:40 AM daily brief, which is the point - one cycle, spent while asleep.
+    # Off the top of the hour to avoid GitHub's queueing delays.
+    # Note: drifts an hour earlier when CST resumes in November (1:50 AM).
+    - cron: '50 7 * * 0'
   workflow_dispatch:
 
 permissions:

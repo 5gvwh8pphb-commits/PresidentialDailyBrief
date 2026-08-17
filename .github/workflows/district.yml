@@ -2,11 +2,14 @@ name: District news
 
 on:
   schedule:
-    # 22:50 UTC Sunday = 5:50 PM Central Daylight Time.
-    # Slightly early and off the top of the hour, because GitHub's :00 slots
-    # queue badly and arrive late. A modest delay still lands near 6 PM.
-    # Note: drifts an hour earlier when CST resumes in November.
-    - cron: '50 22 * * 0'
+    # 07:20 UTC Sunday = 2:20 AM Central Daylight Time Sunday.
+    # Deliberately overnight: it opens a fresh 5-hour usage window that has fully
+    # reset long before Jim starts work, so the brief never eats into his own
+    # allowance. The prospect brief (2:50 AM) and the daily brief (3:40 AM) sit in
+    # the same window on purpose - all three finish inside one cycle, done by 4 AM.
+    # Off the top of the hour because GitHub's :00 slots queue badly.
+    # Note: drifts an hour earlier when CST resumes in November (1:20 AM).
+    - cron: '20 7 * * 0'
   workflow_dispatch:
 
 permissions:
