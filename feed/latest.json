@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T14:25:39+00:00",
+ "generated": "2026-08-17T14:56:42+00:00",
  "count": 40,
  "withImage": 38,
  "bearsDay": false,
@@ -19,15 +19,92 @@
  ],
  "items": [
   {
+   "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
+   "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&amp;w=1920&amp;h=1080",
+   "age": "just now",
+   "published": "2026-08-17T14:56:10+00:00"
+  },
+  {
+   "title": "WordPress.com targets the next generation of web creators with a free student plan",
+   "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "WordPress.com Education lets teachers offer their students free domains, plugin support and professional website-building tools.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/wp-education_program-announcement_evergreen_blog.png?w=1176",
+   "age": "just now",
+   "published": "2026-08-17T14:56:00+00:00"
+  },
+  {
    "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
    "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "A spokesperson for Trump's legal team slammed Carroll's case as a witch hunt and a hoax.",
+   "summary": "President Trump was held civilly liable in the case by a New York federal jury for defaming and sexually abusing the writer E. Jean Carroll.",
    "image": "https://image.cnbcfm.com/api/v1/image/108030386-17256341152024-09-06t144339z_1377032827_rc22v9akatjt_rtrmadp_0_usa-trump-defamation-appeal.jpeg?v=1725634140&amp;w=1920&amp;h=1080",
-   "age": "13m ago",
-   "published": "2026-08-17T14:12:08+00:00"
+   "age": "5m ago",
+   "published": "2026-08-17T14:51:24+00:00"
+  },
+  {
+   "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+   "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
+   "age": "7m ago",
+   "published": "2026-08-17T14:49:26+00:00"
+  },
+  {
+   "title": "LA teachers patrol for ICE before class as DHS blasts enforcement ‘false narrative’",
+   "url": "https://www.foxnews.com/politics/la-teachers-patrol-ice-before-class-dhs-blasts-enforcement-false-narrative",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Los Angeles Unified School District teachers conduct early-morning ICE patrols near schools, photographing license plates and alerting families.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/ICE_agents.jpeg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-08-17T14:38:17+00:00"
+  },
+  {
+   "title": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KVZ5IIIYJRE2JGGQVOMQDMYXMM.JPG",
+   "age": "20m ago",
+   "published": "2026-08-17T14:35:50+00:00"
+  },
+  {
+   "title": "Tupac Shakur murder trial kicks off as Duane 'Keffe D' Davis faces jury nearly three decades after shooting",
+   "url": "https://www.foxnews.com/us/tupac-shakur-murder-trial-kicks-duane-keffe-d-davis-faces-jury-nearly-three-decades-shooting",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Keffe D Davis faces a Las Vegas murder trial for the 1996 drive-by shooting of Tupac Shakur, with his own book and police interview as key evidence.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/tupac-shakur-murder-fox-news.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-17T14:34:18+00:00"
+  },
+  {
+   "title": "Reporter's Notebook: Daylight saving time fight puts Senate up against a ticking clock",
+   "url": "https://www.foxnews.com/politics/reporters-notebook-daylight-saving-time-fight-puts-senate-against-ticking-clock",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Trump urged Republican senators to release holds on the Sunshine Protection Act, but lawmakers from northern states raise concerns about dark mornings.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/clock-rick-scott-dst.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-17T14:33:56+00:00"
   },
   {
    "title": "Nvidia backs financing for OpenAI data center in Ohio",
@@ -37,8 +114,8 @@
    "topic": "markets",
    "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
    "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
-   "published": "2026-08-17T14:10:16+00:00"
+   "age": "26m ago",
+   "published": "2026-08-17T14:30:32+00:00"
   },
   {
    "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
@@ -48,7 +125,7 @@
    "topic": "markets",
    "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
    "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
+   "age": "46m ago",
    "published": "2026-08-17T14:09:49+00:00"
   },
   {
@@ -59,30 +136,8 @@
    "topic": "world",
    "summary": "Scottie Scheffler dominated Memphis with an eight-shot victory, leading the field in strokes gained: putting in a performance that should silence doubters.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/scottie-wins-memphis-featured.jpg?ve=1&tl=1",
-   "age": "17m ago",
+   "age": "48m ago",
    "published": "2026-08-17T14:08:05+00:00"
-  },
-  {
-   "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-   "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
-   "age": "18m ago",
-   "published": "2026-08-17T14:07:16+00:00"
-  },
-  {
-   "title": "‘Duck Dynasty’ stars Jep and Jessica Robertson say ‘a lot of prayer’ led them to leave Louisiana for Texas",
-   "url": "https://www.foxnews.com/entertainment/duck-dynasty-stars-jep-jessica-robertson-prayer-led-leave-louisiana-texas",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jep and Jessica Robertson reveal the prayer and faith behind their move from Louisiana to North Texas, where they re building Comanche Moon Ranch.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/jess-and-jep-robertson-sitting-together.jpg?ve=1&tl=1",
-   "age": "25m ago",
-   "published": "2026-08-17T14:00:08+00:00"
   },
   {
    "title": "‘Everybody loves a winner’: US-Ukraine intel sharing surges as Kyiv racks up wins",
@@ -92,7 +147,7 @@
    "topic": "defense",
    "summary": "U.S. intelligence sharing with Ukraine has rebounded to full strength as Kyiv’s mid- and deep-range strikes continue to hammer Russia’s oil industry.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LDUUB6ICKFB2JCCCL6WXO5L4PU.JPG",
-   "age": "25m ago",
+   "age": "56m ago",
    "published": "2026-08-17T14:00:00+00:00"
   },
   {
@@ -103,41 +158,8 @@
    "topic": "ai",
    "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
-   "age": "44m ago",
+   "age": "1h ago",
    "published": "2026-08-17T13:41:35+00:00"
-  },
-  {
-   "title": "US awards Raytheon $22.9B Tomahawk deal as Trump dismisses weapons stockpile concerns",
-   "url": "https://www.foxnews.com/politics/us-awards-raytheon-22-9b-tomahawk-deal-trump-dismisses-weapons-stockpile-concerns",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Department of War awarded Raytheon a $22.9 billion contract to accelerate Tomahawk missile production as Trump dismisses weapons stockpile concerns.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-missile-iran-operation.jpg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-08-17T13:36:09+00:00"
-  },
-  {
-   "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
-   "url": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&amp;w=1920&amp;h=1080",
-   "age": "52m ago",
-   "published": "2026-08-17T13:33:04+00:00"
-  },
-  {
-   "title": "Jaxson Dart's girlfriend Marissa Ayers addresses NFL's propaganda campaign, Angel Reese tries to dunk & Flair",
-   "url": "https://www.foxnews.com/outkick-sports/jaxson-darts-girlfriend-marissa-ayers-addresses-nfls-propaganda-campaign-angel-reese-tries-dunk-flair",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Monday Screencaps introduces Marissa Ayers, the former Alabama sorority girl dating Giants quarterback Jaxson Dart, as the NFL s next content machine.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jaxson-dart-swimsuit-model-girlfriend-marissa-ayers-f307e4.jpg?ve=1&tl=1",
-   "age": "59m ago",
-   "published": "2026-08-17T13:25:59+00:00"
   },
   {
    "title": "Uber adds Zipline drones to its Eats delivery network",
@@ -171,17 +193,6 @@
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
    "age": "1h ago",
    "published": "2026-08-17T13:10:05+00:00"
-  },
-  {
-   "title": "Taylor Sheridan's 'Lioness' keeps fans hooked as latest episode raises the stakes in a big way",
-   "url": "https://www.foxnews.com/outkick-culture/taylor-sheridan-lioness-keeps-fans-hooked-latest-episode-raises-stakes-big-way",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lioness season 3 episode 3 reveals deep infiltration into the U.S. government as Zoe Saldaña s Joe faces a chilling cliffhanger that stunned fans.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Lioness_ep3.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-17T13:05:56+00:00"
   },
   {
    "title": "After traumatic health ‘crash,’ Austin Tice’s mom renews search for answers",
@@ -358,17 +369,6 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8270635-scaled-e1786717267553-1024x577.jpg",
    "age": "2d ago",
    "published": "2026-08-14T18:00:00+00:00"
-  },
-  {
-   "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
-   "url": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Though Trump promised Kyiv a license to build Patriot missile interceptors last month, Lockheed Martin and Raytheon have put the brakes on production.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Z6TAIU6GVZEA7ABM5EHW4E4VTA.jpg",
-   "age": "2d ago",
-   "published": "2026-08-14T17:40:00+00:00"
   },
   {
    "title": "Army picks M1 to lead Flight School Next pilot training program",
