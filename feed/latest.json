@@ -1,19 +1,21 @@
 {
- "generated": "2026-08-17T04:08:44+00:00",
+ "generated": "2026-08-17T05:04:50+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 36,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
   "Defense News",
   "Fox News",
-  "NWI Times",
+  "NASCAR.com",
+  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Yardbarker"
  ],
  "items": [
   {
@@ -24,7 +26,7 @@
    "topic": "world",
    "summary": "Police said a 54-year-old man armed with a butcher knife was fatally shot by NYPD officers inside a Lower East Side apartment building.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nypd-knife-wielding-man-shooting-1.jpg?ve=1&tl=1",
-   "age": "50m ago",
+   "age": "1h ago",
    "published": "2026-08-17T03:18:17+00:00"
   },
   {
@@ -35,7 +37,7 @@
    "topic": "world",
    "summary": "Nashville star Hayden Panettiere died at 36, her representatives confirmed Sunday to Fox News Digital. Circumstances surrounding her death were not immediately made avai…",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/hayden-panettiere-1.jpg?ve=1&tl=1",
-   "age": "56m ago",
+   "age": "1h ago",
    "published": "2026-08-17T03:12:03+00:00"
   },
   {
@@ -46,7 +48,7 @@
    "topic": "markets",
    "summary": "On an annualized basis, Japan saw growth of 1.1%, against estimates of 2%.",
    "image": "https://image.cnbcfm.com/api/v1/image/108173175-1752732210579-gettyimages-2212000799-AFP_43UN2G9.jpeg?v=1752732318&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T02:21:02+00:00"
   },
   {
@@ -57,7 +59,7 @@
    "topic": "world",
    "summary": "Von Miller brings 138.5 career sacks to the Dallas Cowboys as the DeSoto, Texas native returns home to fill the pass rusher void left by Micah Parsons.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/von-miller-washington-commanders-vikings.jpg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T02:20:27+00:00"
   },
   {
@@ -68,7 +70,7 @@
    "topic": "world",
    "summary": "A man allegedly shot his wife at a park in Louisiana and drove her body through multiple states before a traffic stop in Memphis led to his arrest.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Louisiana-Man-killed-wife-drove-body-states.png?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T01:20:57+00:00"
   },
   {
@@ -79,7 +81,7 @@
    "topic": "world",
    "summary": "Nate Tibbetts ripped the media narrative around the WNBA but rushed to defend Stephanie White instead of backing Sophie Cunningham and Caitlin Clark.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/stephanie-white-indiana-fever-coach-fox-news_.jpg?ve=1&tl=1",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-17T00:58:42+00:00"
   },
   {
@@ -90,7 +92,7 @@
    "topic": "ai",
    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-16T20:57:04+00:00"
   },
   {
@@ -101,7 +103,7 @@
    "topic": "ai",
    "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-16T20:32:01+00:00"
   },
   {
@@ -112,7 +114,7 @@
    "topic": "markets",
    "summary": "Cooper's visit and statement come after reports of widespread morale and mental health concerns aboard the Lincoln.",
    "image": "https://image.cnbcfm.com/api/v1/image/108277507-17733468252026-03-12t201739z_1867101499_rc2n1karw15x_rtrmadp_0_iran-crisis.jpeg?v=1773346961&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-16T19:58:32+00:00"
   },
   {
@@ -123,7 +125,7 @@
    "topic": "ai",
    "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-16T16:53:51+00:00"
   },
   {
@@ -134,7 +136,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/joby-aviation-GettyImages-2272907562.jpg?resize=1200,800",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-16T16:04:00+00:00"
   },
   {
@@ -145,41 +147,8 @@
    "topic": "markets",
    "summary": "Rep. John Larson of Connecticut, an advocate for expanding Social Security, was ousted in a Democratic primary contest Tuesday.",
    "image": "https://image.cnbcfm.com/api/v1/image/108348672-1786560485682-gettyimages-2290099198-260811_democraticprimary__trb7739.jpeg?v=1786719606&amp;w=1920&amp;h=1080",
-   "age": "14h ago",
-   "published": "2026-08-16T13:30:01+00:00"
-  },
-  {
-   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
    "age": "15h ago",
-   "published": "2026-08-16T12:15:00+00:00"
-  },
-  {
-   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
-   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
-   "age": "17h ago",
-   "published": "2026-08-16T11:00:00+00:00"
-  },
-  {
-   "title": "Republican education policies have left our children behind",
-   "url": "https://nwitimes.com/news/article_7095e4c3-af37-4ddc-a96c-7076edb3094c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "GUEST COMMENTARY | Republican education policies have left our children behind",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/0d/20dda791-92ca-4bab-bc1c-48f36cd2f7b1/6a7369fe5deec.image.jpg?resize=300%2C375",
-   "age": "17h ago",
-   "published": "2026-08-16T11:00:00+00:00"
+   "published": "2026-08-16T13:30:01+00:00"
   },
   {
    "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
@@ -189,7 +158,7 @@
    "topic": "ai",
    "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1-1152x648.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-16T10:00:59+00:00"
   },
   {
@@ -200,7 +169,7 @@
    "topic": "markets",
    "summary": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.",
    "image": "https://image.cnbcfm.com/api/v1/image/33093919-europe_map_photo_140.jpg?v=1354732729&amp;w=1920&amp;h=1080",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-16T09:45:45+00:00"
   },
   {
@@ -424,17 +393,6 @@
    "published": "2026-08-14T14:55:00+00:00"
   },
   {
-   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
-   "age": "2d ago",
-   "published": "2026-08-14T12:15:00+00:00"
-  },
-  {
    "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
    "url": "https://news.usni.org/2026/08/13/new-white-house-memo-calls-for-foreign-built-warships-return-to-steam-catapults-on-ford-carriers",
    "source": "USNI News",
@@ -446,6 +404,17 @@
    "published": "2026-08-13T23:15:54+00:00"
   },
   {
+   "title": "Presidential Memo: Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+   "url": "https://news.usni.org/2026/08/13/presidential-memo-rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is President Donald Trump s presidential memorandum, Rebuilding the United States Navy and America s Shipbuilding Industrial Base, signed Aug. 13, 2026. Fr…",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-13T21:46:21+00:00"
+  },
+  {
    "title": "US Marines roam far and wide from temporary Darwin base",
    "url": "https://www.defensenews.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base/",
    "source": "Defense News",
@@ -455,6 +424,39 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CEDMBVWXPZAVLMS4OUWLVEH5SQ.JPG",
    "age": "3d ago",
    "published": "2026-08-13T18:26:28+00:00"
+  },
+  {
+   "title": "William Byron optimistic ahead of Richmond despite poor 2026 season",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdUhqcFc4Z1UyWXJjQkVjNF9scGZJajh5bjZHZWRLRFVYS2Iway1pclJ2Z1ZpVlplSXRJRHhXNHJBUFB3WFZVNm9pWDcwVkRRQm9fMWlRQ0xTVW1HNjZUMjhNc2NGQUQxc09YN3ZPcDY0eHdjWWNxWGc1NlhEV1QtcTI3RkR6WUtVZkt3bTRBaFUyb3p0QUh0d1FRM0hQV0pEUjBQaVdiYkhkRUR1WlRTcUVKRThLazRGeU9oTlpaVE96eUlxU2lN?oc=5",
+   "source": "Yardbarker",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-13T18:16:19+00:00"
+  },
+  {
+   "title": "William Byron Continues Short-Track Surge Heading to Richmond",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNHU3ZHh4SW5nbUFDSVg0cHNEbGhTZTBTcFhQZ01RMlprSmlwejhqZ1E5MEduSTdYT3E0ZWJQYy1fQ0FiZFYyWVJJb2pQRVZKeThzR0Zya0F3NzBoWFFVenNsc0diZnVCakxsUWhnaFQwelJGZHlkbGIyRkdISkJtSVJ5akNVX0ZPMk0zY3hhOFZKeUJULTVoejdyUm5NRnZ0WkhzSl9TbXIzc3BxaUR3Z0FoeEhpMTYxYVo4cUJqdldOSkVfeGlWbTcyQWE4d28?oc=5",
+   "source": "Speedway Digest",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-13T17:24:11+00:00"
+  },
+  {
+   "title": "Analysis: Inside Hendrick Motorsports’ on-track slump",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT09PM2x3UEEycmVQeWZQWkVFekVZV3ZSb1QxTlc3UTdZZG9jMFZXZWR2TlZpY1RRV0ZJdWdXNTFXUnlmSVdGaWlNNkRKeXlEY1hXRTc4bFYwZlRlVEY4QUU0SFBQX09sVFg0bUtvVGZEeEVKTjNDdTg2dlE5dkhnM1hiZ2Vqbk9OYktpSmpCZVJQZHZqdFV4X3FSMjZsZ9IBowFBVV95cUxNT3ZuM2JhUXMtbWQ5d0l1U19seDQxenBpOWJZZWVreGpBZGlzZGdGbzU4bDZmQW1IUjJjdnRubW1yTzAwR0Z1Rm4tTDlueVZjTTRKTXFSNS13TV9KQklERlV6aG1jWlhoeks3akMtLXN4RHZqT2xHS2l4VjlaemJaSktfMEdXNEN3LUc0cTBvZ19ldWpKamhaTnlGbnFyWU5TWVZv?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-13T12:35:15+00:00"
   }
  ]
 }
