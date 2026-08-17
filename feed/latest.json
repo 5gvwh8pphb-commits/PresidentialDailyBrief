@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-17T13:58:26+00:00",
+ "generated": "2026-08-17T14:25:39+00:00",
  "count": 40,
  "withImage": 38,
  "bearsDay": false,
@@ -10,6 +10,7 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "Speedway Digest",
   "TechCrunch",
   "The War Zone",
@@ -18,6 +19,94 @@
  ],
  "items": [
   {
+   "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
+   "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "A spokesperson for Trump's legal team slammed Carroll's case as a witch hunt and a hoax.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108030386-17256341152024-09-06t144339z_1377032827_rc22v9akatjt_rtrmadp_0_usa-trump-defamation-appeal.jpeg?v=1725634140&amp;w=1920&amp;h=1080",
+   "age": "13m ago",
+   "published": "2026-08-17T14:12:08+00:00"
+  },
+  {
+   "title": "Nvidia backs financing for OpenAI data center in Ohio",
+   "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-08-17T14:10:16+00:00"
+  },
+  {
+   "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+   "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-08-17T14:09:49+00:00"
+  },
+  {
+   "title": "Scottie Scheffler terrorizes Memphis, Rory McIlroy completely mails it in, and Jordan Spieth is done",
+   "url": "https://www.foxnews.com/outkick-sports/scottie-scheffler-terrorizes-memphis-rory-mcilroy-completely-mails-it-jordan-spieth-done",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Scottie Scheffler dominated Memphis with an eight-shot victory, leading the field in strokes gained: putting in a performance that should silence doubters.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/scottie-wins-memphis-featured.jpg?ve=1&tl=1",
+   "age": "17m ago",
+   "published": "2026-08-17T14:08:05+00:00"
+  },
+  {
+   "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+   "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
+   "age": "18m ago",
+   "published": "2026-08-17T14:07:16+00:00"
+  },
+  {
+   "title": "‘Duck Dynasty’ stars Jep and Jessica Robertson say ‘a lot of prayer’ led them to leave Louisiana for Texas",
+   "url": "https://www.foxnews.com/entertainment/duck-dynasty-stars-jep-jessica-robertson-prayer-led-leave-louisiana-texas",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jep and Jessica Robertson reveal the prayer and faith behind their move from Louisiana to North Texas, where they re building Comanche Moon Ranch.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/jess-and-jep-robertson-sitting-together.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-17T14:00:08+00:00"
+  },
+  {
+   "title": "‘Everybody loves a winner’: US-Ukraine intel sharing surges as Kyiv racks up wins",
+   "url": "https://www.defensenews.com/global/europe/2026/08/17/everybody-loves-a-winner-us-ukraine-intel-sharing-surges-as-kyiv-racks-up-wins/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "U.S. intelligence sharing with Ukraine has rebounded to full strength as Kyiv’s mid- and deep-range strikes continue to hammer Russia’s oil industry.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LDUUB6ICKFB2JCCCL6WXO5L4PU.JPG",
+   "age": "25m ago",
+   "published": "2026-08-17T14:00:00+00:00"
+  },
+  {
+   "title": "Meet the only known trebuchet casualty in history",
+   "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
+   "age": "44m ago",
+   "published": "2026-08-17T13:41:35+00:00"
+  },
+  {
    "title": "US awards Raytheon $22.9B Tomahawk deal as Trump dismisses weapons stockpile concerns",
    "url": "https://www.foxnews.com/politics/us-awards-raytheon-22-9b-tomahawk-deal-trump-dismisses-weapons-stockpile-concerns",
    "source": "Fox News",
@@ -25,7 +114,7 @@
    "topic": "world",
    "summary": "The Department of War awarded Raytheon a $22.9 billion contract to accelerate Tomahawk missile production as Trump dismisses weapons stockpile concerns.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/us-missile-iran-operation.jpg?ve=1&tl=1",
-   "age": "22m ago",
+   "age": "49m ago",
    "published": "2026-08-17T13:36:09+00:00"
   },
   {
@@ -36,7 +125,7 @@
    "topic": "markets",
    "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
    "image": "https://image.cnbcfm.com/api/v1/image/108350309-1786971877370-gettyimages-2254260823-CES_2026.jpeg?v=1786971906&amp;w=1920&amp;h=1080",
-   "age": "25m ago",
+   "age": "52m ago",
    "published": "2026-08-17T13:33:04+00:00"
   },
   {
@@ -47,19 +136,8 @@
    "topic": "world",
    "summary": "Monday Screencaps introduces Marissa Ayers, the former Alabama sorority girl dating Giants quarterback Jaxson Dart, as the NFL s next content machine.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jaxson-dart-swimsuit-model-girlfriend-marissa-ayers-f307e4.jpg?ve=1&tl=1",
-   "age": "32m ago",
+   "age": "59m ago",
    "published": "2026-08-17T13:25:59+00:00"
-  },
-  {
-   "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-   "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108297760-1777307207308-108297760-1777307153926-gettyimages-2267943764-Zuckerberg_182_032626.jpeg?v=1780690805&amp;w=1920&amp;h=1080",
-   "age": "35m ago",
-   "published": "2026-08-17T13:23:20+00:00"
   },
   {
    "title": "Uber adds Zipline drones to its Eats delivery network",
@@ -69,19 +147,8 @@
    "topic": "ai",
    "summary": "Uber is also making investing in Zipline as part of the tie-up.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/zipline-uber.jpg?resize=1200,800",
-   "age": "39m ago",
+   "age": "1h ago",
    "published": "2026-08-17T13:18:49+00:00"
-  },
-  {
-   "title": "Oil prices rise as Iran rules out interim deal extension, threatens to escalate conflict",
-   "url": "https://www.cnbc.com/2026/08/17/oil-prices-iran-war-strait-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The U.S.-Iran deal was supposed to open the Strait of Hormuz while they negotiated a final deal on Tehran's nuclear program within 60 days.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108279604-17738456062026-03-18t145228z_1941725695_rc217ka1781f_rtrmadp_0_usa-oil-eia.jpeg?v=1773845622&amp;w=1920&amp;h=1080",
-   "age": "41m ago",
-   "published": "2026-08-17T13:17:15+00:00"
   },
   {
    "title": "Space Force brings 5 companies on-board Space Data Network",
@@ -91,7 +158,7 @@
    "topic": "defense",
    "summary": "The new awards are aimed at demonstrating the ability of multiple satellite networks to connect to the Space Force s emerging Space Data Network.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/20260812-SMD-dwoolfolk-DSC04707-010-1024x576.jpg",
-   "age": "41m ago",
+   "age": "1h ago",
    "published": "2026-08-17T13:17:00+00:00"
   },
   {
@@ -102,41 +169,19 @@
    "topic": "ai",
    "summary": "Wispr’s total funding is now over $361 million.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
-   "age": "48m ago",
+   "age": "1h ago",
    "published": "2026-08-17T13:10:05+00:00"
   },
   {
-   "title": "Taylor Sheridan's Lioness keeps fans hooked as latest episode raises the stakes in a big way",
+   "title": "Taylor Sheridan's 'Lioness' keeps fans hooked as latest episode raises the stakes in a big way",
    "url": "https://www.foxnews.com/outkick-culture/taylor-sheridan-lioness-keeps-fans-hooked-latest-episode-raises-stakes-big-way",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
    "summary": "Lioness season 3 episode 3 reveals deep infiltration into the U.S. government as Zoe Saldaña s Joe faces a chilling cliffhanger that stunned fans.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Lioness_ep3.jpg?ve=1&tl=1",
-   "age": "52m ago",
+   "age": "1h ago",
    "published": "2026-08-17T13:05:56+00:00"
-  },
-  {
-   "title": "Trump can protect California avocado farmers and take a bite out of Mexican cartels, too",
-   "url": "https://www.foxnews.com/opinion/trump-protect-california-avocado-farmers-bite-mexican-cartels",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump s Make America Healthy Again push promotes avocados, but California growers face a 32% surge in Mexican imports this year, posing a threat to domestic production.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/woman-avocado-toast.jpg?ve=1&tl=1",
-   "age": "57m ago",
-   "published": "2026-08-17T13:00:42+00:00"
-  },
-  {
-   "title": "El-Sayed taunts Trump, claims he's going to make him 'main character of the midterms'",
-   "url": "https://www.foxnews.com/media/el-sayed-taunts-trump-claims-hes-going-make-him-main-character-midterms",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Abdul El-Sayed taunted Trump on air, daring attacks and calling Mike Rogers an NPC as a new Fox News Poll shows Rogers leading 51% to 47%.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-unity-rally-detroit.jpg?ve=1&tl=1",
-   "age": "57m ago",
-   "published": "2026-08-17T13:00:33+00:00"
   },
   {
    "title": "After traumatic health ‘crash,’ Austin Tice’s mom renews search for answers",
@@ -146,7 +191,7 @@
    "topic": "defense",
    "summary": "Austin Tice, a Marine Corps veteran, was abducted during a 2012 reporting trip to Syria.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TUXGVOQEKFCPNA2KJK72OGCSBM.jpg",
-   "age": "57m ago",
+   "age": "1h ago",
    "published": "2026-08-17T13:00:28+00:00"
   },
   {
@@ -157,30 +202,8 @@
    "topic": "ai",
    "summary": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/wrench-attacks-1367232137.jpg?resize=1200,801",
-   "age": "58m ago",
+   "age": "1h ago",
    "published": "2026-08-17T13:00:19+00:00"
-  },
-  {
-   "title": "'Don't get too comfortable': Wall Street’s ‘fear gauge’ hits 2026 low — here's why it's unlikely to last",
-   "url": "https://www.cnbc.com/2026/08/17/stock-market-volatility-vix-wall-street.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "A falling VIX points to growing investor complacency ahead of a traditionally turbulent time for markets, strategists warn.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108285956-1775048846885-gettyimages-2269291703-6e6a0089_copy_zhv0gn6f.jpeg?v=1775048926&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-17T12:41:58+00:00"
-  },
-  {
-   "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-   "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108349975-1786737375530-gettyimages-2289946758-AFP_C4PM76G.jpeg?v=1786737397&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-17T12:34:07+00:00"
   },
   {
    "title": "Satellite operators are in panic mode due to a worsening launch crisis",
@@ -190,7 +213,7 @@
    "topic": "ai",
    "summary": "What happens if the Falcon rockets stop flying?",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T11:00:26+00:00"
   },
   {
@@ -205,15 +228,37 @@
    "published": "2026-08-16T20:57:04+00:00"
   },
   {
-   "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-   "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-   "age": "17h ago",
-   "published": "2026-08-16T20:32:01+00:00"
+   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
+   "age": "1d ago",
+   "published": "2026-08-16T12:15:00+00:00"
+  },
+  {
+   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
+   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "1d ago",
+   "published": "2026-08-16T11:00:00+00:00"
+  },
+  {
+   "title": "Republican education policies have left our children behind",
+   "url": "https://nwitimes.com/news/article_7095e4c3-af37-4ddc-a96c-7076edb3094c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "GUEST COMMENTARY | Republican education policies have left our children behind",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/0d/20dda791-92ca-4bab-bc1c-48f36cd2f7b1/6a7369fe5deec.image.jpg?resize=300%2C375",
+   "age": "1d ago",
+   "published": "2026-08-16T11:00:00+00:00"
   },
   {
    "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
@@ -236,28 +281,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2-1152x648.jpg",
    "age": "1d ago",
    "published": "2026-08-15T21:21:27+00:00"
-  },
-  {
-   "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-   "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"Flamingo missiles were used. A good achievement.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg",
-   "age": "1d ago",
-   "published": "2026-08-15T15:46:05+00:00"
-  },
-  {
-   "title": "So much solar: Digging into the list of every US power plant that went online this year",
-   "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375-1152x648.jpg",
-   "age": "2d ago",
-   "published": "2026-08-15T11:09:57+00:00"
   },
   {
    "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
@@ -392,26 +415,15 @@
    "published": "2026-08-14T15:48:31+00:00"
   },
   {
-   "title": "CENTCOM launches multinational attack drone task force",
-   "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Task Force Falcon Strike will employ one-way attack drones composed of unmanned systems from above, on and below the sea.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TVT3DSUTGFHTFMFJ6DXZRAAU7I.jpg",
-   "age": "2d ago",
-   "published": "2026-08-14T15:09:04+00:00"
-  },
-  {
-   "title": "Pentagon inks SM-3 framework deals with RTX, Boeing on critical components",
-   "url": "https://breakingdefense.com/2026/08/pentagon-inks-sm-3-framework-deals-with-rtx-boeing-on-critical-components/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The seven-year framework deals cover key SM-3 components including avionics and ejector assemblies.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/934664-scaled-e1713286156806-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-08-14T14:55:00+00:00"
+   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
+   "age": "3d ago",
+   "published": "2026-08-14T12:15:00+00:00"
   },
   {
    "title": "New White House Memo Calls for Foreign-Built Warships, Return to Steam Catapults on Ford Carriers",
@@ -423,17 +435,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2025/11/ROKNavy.jpeg",
    "age": "3d ago",
    "published": "2026-08-13T23:15:54+00:00"
-  },
-  {
-   "title": "US Marines roam far and wide from temporary Darwin base",
-   "url": "https://www.defensenews.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "This year's Marine Rotation Force-Darwin is the first in its 15-year history to be certified as a Marine Air-Ground Task Force.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CEDMBVWXPZAVLMS4OUWLVEH5SQ.JPG",
-   "age": "3d ago",
-   "published": "2026-08-13T18:26:28+00:00"
   },
   {
    "title": "William Byron optimistic ahead of Richmond despite poor 2026 season",
