@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-17T17:17:49+00:00",
+ "generated": "2026-08-17T17:51:36+00:00",
  "count": 40,
- "withImage": 35,
+ "withImage": 36,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,16 +10,82 @@
   "CNBC",
   "Daytona Beach News-Journal",
   "Defense News",
+  "FOX Sports",
   "Fox News",
-  "Hendrick Motorsports",
+  "NWI Times",
   "TechCrunch",
   "The New York Times",
   "The Tennessean",
   "The War Zone",
-  "USNI News",
-  "foxsports.com"
+  "USNI News"
  ],
  "items": [
+  {
+   "title": "Raytheon gets massive $23B contract to boost Tomahawk production",
+   "url": "https://breakingdefense.com/2026/08/raytheon-gets-massive-23b-contract-to-boost-tomahawk-production/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Over the past year, Pentagon leaders have leveraged multiyear contracts for critical munitions as an incentive to get defense primes to make larger investments in their …",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/Raytheon-Barbara-second-image-scaled-e1786988335335-1024x577.jpg",
+   "age": "9m ago",
+   "published": "2026-08-17T17:41:45+00:00"
+  },
+  {
+   "title": "Project Talon Portfolio puts mission autonomy at the center of future CCA operations",
+   "url": "https://breakingdefense.com/2026/08/project-talon-portfolio-puts-mission-autonomy-at-the-center-of-future-cca-operations/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] Truly autonomous aircraft can make decisions without continuous human input.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260318pmar187004.jpg",
+   "age": "21m ago",
+   "published": "2026-08-17T17:30:00+00:00"
+  },
+  {
+   "title": "DOJ opens new pathway to restore federal gun rights for certain barred individuals",
+   "url": "https://www.foxnews.com/politics/doj-opens-new-pathway-restore-federal-gun-rights-certain-barred-individuals",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Attorney General Todd Blanche launched a new process for Americans barred from possessing firearms to apply for restoration of their federal gun rights.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/ar-15-style-guns-2022.jpg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-08-17T17:27:10+00:00"
+  },
+  {
+   "title": "Socialism will 'control people' and 'take everything away' from America, according to these expats",
+   "url": "https://www.foxnews.com/media/socialism-control-people-take-everything-away-america-expats",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Emmanuel Rincón recalls waiting 20 hours for gas in Venezuela and finding no food in stores, warning Americans about the realities of socialist policies.",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/when-socialism-goes-wrong.gif",
+   "age": "25m ago",
+   "published": "2026-08-17T17:26:29+00:00"
+  },
+  {
+   "title": "Lindsay Clancy’s parents get massive global donor support as fundraiser surpasses $830K",
+   "url": "https://www.foxnews.com/us/lindsay-clancys-parents-get-massive-global-donor-support-fundraiser-surpasses-830k",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A GoFundMe for Lindsay Clancy s parents has surpassed $830,000 with a $2 million goal as the Massachusetts mother s murder trial enters week four.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/lindsay-clancy-parents-receive-donor-funds.jpg?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-08-17T17:21:58+00:00"
+  },
+  {
+   "title": "What China’s PLA says it is learning from the Iran war",
+   "url": "https://breakingdefense.com/2026/08/what-chinas-pla-says-it-is-learning-from-the-iran-war/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "From AI integration to the economics of air and missile defense, Chinese military commentators are paying especially close attention to the US-Israel war in Iran.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/GettyImages-2263659097-scaled-e1772397098292-1024x577.jpg",
+   "age": "32m ago",
+   "published": "2026-08-17T17:19:00+00:00"
+  },
   {
    "title": "Refiner stocks are on a nearly unprecedented run. History says it could end soon",
    "url": "https://www.cnbc.com/2026/08/17/refiner-stocks-are-on-a-nearly-unprecedented-run-history-says-it-could-end-soon.html",
@@ -28,7 +94,7 @@
    "topic": "markets",
    "summary": "Refining is a great business, but if you've had the good fortune to ride this trade this year, it's likely time to take profits.",
    "image": "https://image.cnbcfm.com/api/v1/image/108253682-1768587130467-gettyimages-2255969652-US_VENEZUELA_OIL.jpeg?v=1768587205&amp;w=1920&amp;h=1080",
-   "age": "5m ago",
+   "age": "38m ago",
    "published": "2026-08-17T17:12:44+00:00"
   },
   {
@@ -39,63 +105,19 @@
    "topic": "ai",
    "summary": "Feedly says a bug is behind the performance issues that have made its web app nearly \"unusable\" for some users, while complaints about its mobile apps and customer suppo…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/feedly-news-hero.png?resize=1200,620",
-   "age": "6m ago",
+   "age": "40m ago",
    "published": "2026-08-17T17:10:59+00:00"
   },
   {
    "title": "American tourist killed by lightning while hiking Sicily's Mount Etna",
-   "url": "https://www.foxnews.com/us/american-tourist-killed-lightning-while-hiking-sicilys-mount-etna",
+   "url": "https://www.foxnews.com/us/american-tourist-killed-lightning-hiking-sicilys-mount-etna",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
    "summary": "A 29-year-old Kansas tourist was killed by a lightning strike while hiking Sicily s Mount Etna, Europe s largest volcano, in an exposed area Sunday.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/mount-etna-lava-flows-catania.jpg?ve=1&tl=1",
-   "age": "8m ago",
+   "age": "42m ago",
    "published": "2026-08-17T17:09:18+00:00"
-  },
-  {
-   "title": "College Football’s AP Top 25 Is out: Who’s overrated, underrated and flat-out snubbed?",
-   "url": "https://www.foxnews.com/outkick-sports/college-football-ap-top-25-whos-overrated-underrated-flat-out-snubbed",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Twelve teams ranked in last year s preseason AP Top 25 finished outside the final poll, a crucial reminder as Ohio State claims the No. 1 spot.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/arch-manning-texas-longhorns-fox-news__001.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-08-17T17:04:25+00:00"
-  },
-  {
-   "title": "US military bases are ‘ill-equipped’ to stop drone swarms, top commander reveals after Rubio's UAP warning",
-   "url": "https://www.foxnews.com/politics/us-military-bases-ill-equipped-stop-drone-swarms-top-commander-reveals-rubio-uap-warning",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lt. Gen. Joseph Jarrard warns U.S. military bases lack the sensors and counter-drone systems needed to detect and defeat drone swarm attacks.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/drones-air.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-08-17T17:04:11+00:00"
-  },
-  {
-   "title": "Repeat offender with 7 prior convictions arrested 3 times in 12 days over alleged attacks on women",
-   "url": "https://www.foxnews.com/us/repeat-offender-7-prior-convictions-arrested-3-times-12-days-alleged-attacks-women",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jeff Asare faces a first-degree rape charge after three arrests in less than two weeks involving allegations of sexual assault in Oklahoma City.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Repeat-Offender-Jeff-Asare-002.jpg?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-08-17T17:03:31+00:00"
-  },
-  {
-   "title": "Phillies send Cy Young contender Christopher Sanchez to the mound in wild card race showdown",
-   "url": "https://www.foxnews.com/outkick-sports/phillies-send-cy-young-contender-christopher-sanchez-mound-wild-card-race-showdown",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Christopher Sanchez s dominant 1.41 home ERA faces the Miami Marlins as Philadelphia fights to hold its Wild Card spot with 40 games remaining.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/sanchez.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-17T17:02:42+00:00"
   },
   {
    "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
@@ -105,8 +127,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "19m ago",
-   "published": "2026-08-17T16:58:00+00:00"
+   "age": "43m ago",
+   "published": "2026-08-17T17:08:00+00:00"
   },
   {
    "title": "USNI News Fleet and Marine Tracker: Aug. 17, 2026",
@@ -116,7 +138,7 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 17, 2026, based on Navy…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_17_26.jpg",
-   "age": "33m ago",
+   "age": "1h ago",
    "published": "2026-08-17T16:44:25+00:00"
   },
   {
@@ -127,7 +149,7 @@
    "topic": "ai",
    "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
-   "age": "39m ago",
+   "age": "1h ago",
    "published": "2026-08-17T16:38:44+00:00"
   },
   {
@@ -138,13 +160,13 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "56m ago",
+   "age": "1h ago",
    "published": "2026-08-17T16:21:00+00:00"
   },
   {
    "title": "Connor Zilisch Signs Multi-year Deal With Hendrick Motorsports",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTHVRRnRha2Fhb1dTRHhOY1hrSWRzMVV2MFJkY2p6cXBNaDU5QU96Q0I4eGI3QkYzVkM5WmhKRkV3RlZWTTByaTlnSmVNbGI4cXZpRWxycGxPV0N5cU1ubWhKZ1N0S1NVTUIwYTBPb0Vabno3ZUNoOVdKZWE5ME42dVM5cVotYjVWeFRTQ3J0a0FOWmVHejNxb2RuMzJFd1lVY0FrU1p4cnRuZVptVlZnSNIBsAFBVV95cUxOS1lJR3l5SmI0SFJEX0FYNjR1YUk4QlNGZ3VFQ3lod0lGS0xBMVYzS2lOYXY3QnRENXFTR1E4NkUxcEhVNTh5VVhCRmlPVU5temxOY2h6Z1VwUDFRSUVBeWVGc3NGUEN0NGZ0LTE2YkMzZEVZNDVjVFhNX0FlZTktVUdsYWdqRkF2VHgwMnFfd2l3bmVZRjk3NUROVFpJNzRKclljc2dUUk1ybFdIZG9WYQ?oc=5",
-   "source": "foxsports.com",
+   "source": "FOX Sports",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -208,17 +230,6 @@
    "published": "2026-08-17T16:06:28+00:00"
   },
   {
-   "title": "Trump’s call for fifth shipyard likely to run into cost, workforce hurdles: Analysts",
-   "url": "https://breakingdefense.com/2026/08/trumps-call-for-fifth-shipyard-likely-to-run-into-cost-workforce-hurdles-analysts/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The Trump administration s plans for a new shipyard were disclosed in a National Security Presidential Memorandum released Thursday.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/PNSY-Hampton-superflood-basin-250308-N-QV316-1001-e1752845079436-1024x575.jpg",
-   "age": "1h ago",
-   "published": "2026-08-17T16:02:48+00:00"
-  },
-  {
    "title": "Supreme Court again rejects Trump bid to overturn E. Jean Carroll verdict",
    "url": "https://www.cnbc.com/2026/08/17/trump-supreme-court-e-jean-carroll.html",
    "source": "CNBC",
@@ -237,41 +248,8 @@
    "topic": "defense",
    "summary": "USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to ship spotters. The Arleigh Burke-class …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9835492.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-17T15:41:52+00:00"
-  },
-  {
-   "title": "Nvidia backing $105 billion in financing for OpenAI data center in Ohio",
-   "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-17T15:26:52+00:00"
-  },
-  {
-   "title": "Kubasik ousted as L3Harris CEO following conduct violation, company says",
-   "url": "https://breakingdefense.com/2026/08/kubasik-ousted-as-l3harris-ceo-following-conduct-violation-company-says/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "L3Harris did not provide specifics on what led to Chris Kubasik’s ouster, but said in a press release that the company “became aware” of conduct by Kubasik “that was not…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/220920_KATZ_L3Harris_sign-scaled-e1690550785613-1024x575.jpg",
-   "age": "1h ago",
-   "published": "2026-08-17T15:21:06+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports signs Connor Zilisch to multi-year agreement beginning in 2028",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeUd6N1Q4YWJFcnh3X19QQXFNVkxOQk1tN09GVzQ2ODR2X3dKWXpzTmJjVy03MERGMUFXOHNKRy1Ea0tYeEdpdkVwMFlSSUpKM2dVdmRabl9yRGpUS21MNG5uMzRsb3JMUUlGX0I0VmpUX3NQNjdtcjZ2bkV2ekxYWWtWbWstWkozY05wNjA2ajd2MHdkS2xUMU0yNVVGWjhMNl9zOFktM0RoYzVMMFNHNnVPZl9nWllFcFNaWTVZQ2Z0MXpVTkp4SUdLSzFXQQ?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1h ago",
-   "published": "2026-08-17T15:19:03+00:00"
   },
   {
    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -294,17 +272,6 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CKZW5TE7VBA3PLRVCTMB6T3FPM.JPG",
    "age": "2h ago",
    "published": "2026-08-17T15:14:07+00:00"
-  },
-  {
-   "title": "Terra Industries closes $52M seed round to build defense infrastructure for the Global South",
-   "url": "https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "African defense tech company Terra Industries announced an additional $18 million in funding, bringing its seed round to $52 million.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Terra-Industries-drone.jpg?resize=1200,903",
-   "age": "2h ago",
-   "published": "2026-08-17T15:06:07+00:00"
   },
   {
    "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
@@ -336,7 +303,7 @@
    "topic": "defense",
    "summary": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KVZ5IIIYJRE2JGGQVOMQDMYXMM.JPG",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T14:35:50+00:00"
   },
   {
@@ -347,7 +314,7 @@
    "topic": "ai",
    "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_116f79c4-b712-471b-b46a-ace5e4d7dda4.avif",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-17T14:22:54+00:00"
   },
   {
@@ -369,19 +336,8 @@
    "topic": "ai",
    "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/war-wolf-bob-marshall-1-768x431-1.jpg",
-   "age": "3h ago",
-   "published": "2026-08-17T13:41:35+00:00"
-  },
-  {
-   "title": "Space Force brings 5 companies on-board Space Data Network",
-   "url": "https://breakingdefense.com/2026/08/space-force-brings-5-companies-on-board-space-data-network/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The new awards are aimed at demonstrating the ability of multiple satellite networks to connect to the Space Force s emerging Space Data Network.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/20260812-SMD-dwoolfolk-DSC04707-010-1024x576.jpg",
    "age": "4h ago",
-   "published": "2026-08-17T13:17:00+00:00"
+   "published": "2026-08-17T13:41:35+00:00"
   },
   {
    "title": "Satellite operators are in panic mode due to a worsening launch crisis",
@@ -393,6 +349,39 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/05/1st-Dragon-Flight-12-10-1152x648.jpg",
    "age": "6h ago",
    "published": "2026-08-17T11:00:26+00:00"
+  },
+  {
+   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
+   "age": "1d ago",
+   "published": "2026-08-16T12:15:00+00:00"
+  },
+  {
+   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
+   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "1d ago",
+   "published": "2026-08-16T11:00:00+00:00"
+  },
+  {
+   "title": "Republican education policies have left our children behind",
+   "url": "https://nwitimes.com/news/article_7095e4c3-af37-4ddc-a96c-7076edb3094c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "GUEST COMMENTARY | Republican education policies have left our children behind",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/0d/20dda791-92ca-4bab-bc1c-48f36cd2f7b1/6a7369fe5deec.image.jpg?resize=300%2C375",
+   "age": "1d ago",
+   "published": "2026-08-16T11:00:00+00:00"
   },
   {
    "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
@@ -459,6 +448,17 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/army-ahss-long-range-missile-program.jpg?quality=85",
    "age": "3d ago",
    "published": "2026-08-14T16:59:10+00:00"
+  },
+  {
+   "title": "In storm’s aftermath, Region mayors face social media test | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_27d03479-8939-4f32-b18f-cf9befb3625c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "When the power goes out and communities are left in the dark, residents need more than crews and cleanup — they need communication, like Portage Mayor Austin Bonta's ste…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/00/900db2fa-8f75-4dbe-acc1-2951de9dc04e/68b771222c31c.image.jpg?resize=300%2C269",
+   "age": "3d ago",
+   "published": "2026-08-14T12:15:00+00:00"
   }
  ]
 }
