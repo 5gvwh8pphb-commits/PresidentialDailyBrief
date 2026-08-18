@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-18T11:15:23+00:00",
+ "generated": "2026-08-18T11:47:48+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 36,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -11,6 +11,7 @@
   "CHGO Bears",
   "CNBC",
   "ChicagoBears.com",
+  "Daytona Beach News-Journal",
   "Defense News",
   "Fox News",
   "NASCAR.com",
@@ -18,42 +19,74 @@
   "The Tennessean",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "news-journalonline.com"
+  "Windy City Gridiron"
  ],
  "items": [
   {
-   "title": "Mets rookie Carson Benge dazzles with two outfield assists in win over Padres",
-   "url": "https://www.foxnews.com/sports/mets-rookie-carson-benge-dazzles-two-outfield-assists-win-padres",
+   "title": "Iran fails to strike deal with US as deadline passes and Trump calls for ‘white flag of surrender'",
+   "url": "https://www.foxnews.com/politics/iran-fails-strike-deal-us-deadline-passes-trump-calls-white-flag-surrender",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "New York Mets rookie Caron Benge fired throws of 99.9 and 103.9 mph to nail runners at home, becoming the first outfielder with two 99+ mph assists in the Statcast era.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/carson-benge-fields-right-field-mets.jpg?ve=1&tl=1",
-   "age": "3m ago",
-   "published": "2026-08-18T11:11:45+00:00"
+   "summary": "Trump threatened to bomb Oman and demanded Iran s surrender as the 60-day ceasefire deadline expired with no deal over the Strait of Hormuz.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/khamenei-iran-strike.jpeg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-08-18T11:32:41+00:00"
   },
   {
-   "title": "AI isn’t just a problem, it’s a solution. Some people are already making the most of it",
-   "url": "https://www.foxnews.com/opinion/ai-isnt-just-problem-its-solution-people-already-making-most",
+   "title": "New Hampshire candidate John Sununu blasts Dems for noving ‘First in the Nation Primary’ on Ruthless",
+   "url": "https://www.foxnews.com/media/new-hampshire-candidate-john-sununu-blasts-dems-noving-first-nation-primary-ruthless",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "AI is already helping ordinary people learn, filling roles as a career coach, tutor, translator and therapist. Nearly a third of American adults now use generative AI re…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/mark-zuckerberg-meta-trial-fox-news.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-18T11:00:23+00:00"
+   "summary": "New Hampshire Republican Senate hopeful John Sununu blasted the DNC on the Ruthless Podcast for removing the state as the first primary in the nomination process.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/john-sununu-on-ruthless.jpg?ve=1&tl=1",
+   "age": "16m ago",
+   "published": "2026-08-18T11:30:51+00:00"
   },
   {
-   "title": "Parkinson’s patient’s years-long tremor vanishes within minutes of new ultrasound treatment",
-   "url": "https://www.foxnews.com/health/parkinsons-patient-years-long-tremor-vanishes-minutes-new-ultrasound-treatment",
+   "title": "Democrat Party's civil war heads to Florida, Alaska and Wyoming and more top headlines",
+   "url": "https://www.foxnews.com/us/democrat-partys-civil-war-heads-florida-alaska-wyoming-more-top-headlines",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Bud Leavell s Parkinson s tremor vanished minutes after receiving FDA-approved focused ultrasound at UT Southwestern Medical Center in Arlington, Texas.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/notremors.png?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-18T11:00:22+00:00"
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/larkin-moskowitz-split.png?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-18T11:24:49+00:00"
+  },
+  {
+   "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+   "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Tuesday saw yields on U.S. 30-year Treasury yields add over 1 basis point to trade at around 5.322%, hovering just below its highest level since 2002.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108345370-17859444502026-08-05t144724z_1880621099_rc2dsma0b0vy_rtrmadp_0_usa-stocks.jpeg?v=1785944551&amp;w=1920&amp;h=1080",
+   "age": "27m ago",
+   "published": "2026-08-18T11:20:40+00:00"
+  },
+  {
+   "title": "Report to Congress on Venezuela and U.S. Policy",
+   "url": "https://news.usni.org/2026/08/18/report-to-congress-on-venezuela-and-u-s-policy",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the Aug. 18, 2026, Congressional Research Service report, Venezuela’s Post-Maduro Political Transition and U.S. Policy. From the report Some Members of …",
+   "image": null,
+   "age": "29m ago",
+   "published": "2026-08-18T11:18:23+00:00"
+  },
+  {
+   "title": "Amazon job scam texts are spreading again with a new twist",
+   "url": "https://www.foxnews.com/tech/amazon-job-scam-texts-spreading-new-twist",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A fake Amazon remote job text promises $600 a day for 90 minutes of work. Here are the red flags and what an Amazon spokesperson says to do.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/data-privacy-reset.jpg?ve=1&tl=1",
+   "age": "30m ago",
+   "published": "2026-08-18T11:17:31+00:00"
   },
   {
    "title": "Nvidia's AI moat is shifting from chips to capital",
@@ -63,7 +96,7 @@
    "topic": "markets",
    "summary": "Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.",
    "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
+   "age": "47m ago",
    "published": "2026-08-18T11:00:01+00:00"
   },
   {
@@ -74,7 +107,7 @@
    "topic": "markets",
    "summary": "Nome uses AI and drug-development expertise to help rare disease families turn genetic diagnoses into potential paths toward treatment.",
    "image": "https://image.cnbcfm.com/api/v1/image/108348575-1786550431917-Steven_Ringel_Color_Headshot.jpeg?v=1786550531&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
+   "age": "47m ago",
    "published": "2026-08-18T11:00:01+00:00"
   },
   {
@@ -85,19 +118,8 @@
    "topic": "ai",
    "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800",
-   "age": "15m ago",
+   "age": "47m ago",
    "published": "2026-08-18T11:00:00+00:00"
-  },
-  {
-   "title": "WNBA fans recall ejection threat over XX-XY Athletics shirt at Fever-Dream game: 'I was flabbergasted'",
-   "url": "https://www.foxnews.com/outkick-sports/wnba-fans-recall-ejection-threat-xx-xy-athletics-shirt-fever-dream-game-flabbergasted",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kasey and Annie Thomason say security at State Farm Arena threatened them with ejection over their XX-XY Athletics shirts at a WNBA game.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/news-image-fox-news_009.jpg?ve=1&tl=1",
-   "age": "40m ago",
-   "published": "2026-08-18T10:34:37+00:00"
   },
   {
    "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
@@ -107,7 +129,7 @@
    "topic": "markets",
    "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&amp;w=1920&amp;h=1080",
-   "age": "43m ago",
+   "age": "1h ago",
    "published": "2026-08-18T10:32:00+00:00"
   },
   {
@@ -118,19 +140,8 @@
    "topic": "ai",
    "summary": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Semi_83.jpg?resize=1200,675",
-   "age": "45m ago",
+   "age": "1h ago",
    "published": "2026-08-18T10:30:00+00:00"
-  },
-  {
-   "title": "Trump's Oman bomb threat an attempt to get their 'attention,' says former ambassador",
-   "url": "https://www.cnbc.com/2026/08/18/us-iran-war-trump-hormuz-trump-ceasefire-expires-extension-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108287459-1775497929732-gettyimages-2270097175-aw1a7684_urbdaits.jpeg?v=1775497948&amp;w=1920&amp;h=1080",
-   "age": "52m ago",
-   "published": "2026-08-18T10:23:09+00:00"
   },
   {
    "title": "Chicago Bears News: Bears sign Marcus Davenport, take day off practice",
@@ -173,7 +184,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/17/190b43f2-73e2-45c9-a7f1-86aadb1797a5/tyson.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-18T02:42:18+00:00"
   },
   {
@@ -184,7 +195,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290094151.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-18T01:24:43+00:00"
   },
   {
@@ -206,7 +217,7 @@
    "topic": "defense",
    "summary": "USS George Washington is en route to relieve USS Abraham Lincoln in the Middle East, which leaves no carriers in the Pacific. The post Where Are The Aircraft Carriers?: …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/TWZ-Carrier-Tracker-as-of-August-17-2026.png?quality=85",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-18T00:26:11+00:00"
   },
   {
@@ -217,7 +228,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY27664825471375419.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-17T23:28:34+00:00"
   },
   {
@@ -239,7 +250,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/17/6aebbea8-304a-44e7-bdc7-cee0ddb8839c/bre.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-17T22:34:45+00:00"
   },
   {
@@ -272,7 +283,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/11/d595d2a0-e0cd-433a-986d-d156eabf7273/malik-nabers-new-york-giants-imagn-images.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-17T21:22:41+00:00"
   },
   {
@@ -283,7 +294,7 @@
    "topic": "ai",
    "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-17T21:18:49+00:00"
   },
   {
@@ -300,12 +311,12 @@
   {
    "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
-   "source": "news-journalonline.com",
+   "source": "Daytona Beach News-Journal",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-17T20:29:00+00:00"
   },
   {
@@ -316,7 +327,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-17T19:31:00+00:00"
   },
   {
@@ -327,7 +338,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-17T19:16:40+00:00"
   },
   {
@@ -360,7 +371,7 @@
    "topic": "defense",
    "summary": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HALSUURXHBCAZM7PHKIDQ4RLSQ.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-17T18:19:24+00:00"
   },
   {
@@ -371,7 +382,7 @@
    "topic": "defense",
    "summary": "German drone maker Helsing has enlisted Japanese e-commerce and finance firm Rakuten to help finalize a deal to sell its unmanned systems to Japan’s army.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/US7IQVAGWND2FI262NYKGL7JXQ.JPG",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-17T18:16:02+00:00"
   },
   {
@@ -382,7 +393,7 @@
    "topic": "defense",
    "summary": "Over the past year, Pentagon leaders have leveraged multiyear contracts for critical munitions as an incentive to get defense primes to make larger investments in their …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/Raytheon-Barbara-second-image-scaled-e1786988335335-1024x577.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-17T17:41:45+00:00"
   },
   {
@@ -393,7 +404,7 @@
    "topic": "defense",
    "summary": "[Sponsored] Truly autonomous aircraft can make decisions without continuous human input.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260318pmar187004.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-17T17:30:00+00:00"
   },
   {
@@ -415,19 +426,8 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 17, 2026, based on Navy…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_17_26.jpg",
-   "age": "18h ago",
-   "published": "2026-08-17T16:44:25+00:00"
-  },
-  {
-   "title": "USS Benfold Leaves Japan After Returning from Power Failure Repairs",
-   "url": "https://news.usni.org/2026/08/17/uss-benfold-leaves-japan-after-returning-from-power-failure-repairs",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "USS Benfold (DDG-65) departed Yokosuka, Japan, on Monday, after stopping in the Japanese port for a scheduled visit, according to ship spotters. The Arleigh Burke-class …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9835492.jpg",
    "age": "19h ago",
-   "published": "2026-08-17T15:41:52+00:00"
+   "published": "2026-08-17T16:44:25+00:00"
   },
   {
    "title": "Trump orders Pentagon to cut back military exercises with South Korea",
