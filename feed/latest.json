@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T14:02:40+00:00",
+ "generated": "2026-08-18T14:59:02+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": true,
@@ -11,18 +11,127 @@
   "CHGO Bears",
   "CNBC",
   "ChicagoBears.com",
-  "Daytona Beach News-Journal",
   "Defense News",
   "Fox News",
-  "NASCAR.com",
-  "NWI Times",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron"
+  "Windy City Gridiron",
+  "autohebdof1.com",
+  "news-journalonline.com"
  ],
  "items": [
+  {
+   "title": "Lindsay Clancy's family was 'very concerned' about her mental health in the months before she killed her kids",
+   "url": "https://www.foxnews.com/us/lindsay-clancy-family-concerned-mental-health-months-before-killed-kids",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Lindsay Clancy s mother-in-law testified the accused mother was begging for help with insomnia and anxiety months before the Duxbury killings.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/lindsay-clancy-parents-receive-donor-funds.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-08-18T14:48:12+00:00"
+  },
+  {
+   "title": "White House tears into Ossoff with brutal takedown after jab at key Trump aide: ‘Lightweight loser’",
+   "url": "https://www.foxnews.com/politics/white-house-tears-ossoff-brutal-takedown-after-jab-key-trump-aide-lightweight-loser",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jon Ossoff s campaign rally comments about Trump aide Natalie Harp sparked accusations of sexism from conservatives and White House officials.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/natalie-harp-trump-fox-news.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-08-18T14:43:59+00:00"
+  },
+  {
+   "title": "30-year Treasury yield tops 5.33%, new 19-year high on inflation, spending concerns",
+   "url": "https://www.cnbc.com/2026/08/18/treasury-yields-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Long-dated fixed income hit their highest level in almost two decades amid a worsening U.S. fiscal situation and persistently higher inflation.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108336141-1784298632607-108336141-17842242962026-07-16t174944z_685243938_rc24fmaaiitz_rtrmadp_0_csquare-ipo.jpg?v=1784298642&amp;w=1920&amp;h=1080",
+   "age": "16m ago",
+   "published": "2026-08-18T14:42:13+00:00"
+  },
+  {
+   "title": "Minnesota 'outstanding refugee' honoree accused in fraud scheme tied to sex trafficking: 'Can't make this up'",
+   "url": "https://www.foxnews.com/politics/minnesota-outstanding-refugee-honoree-accused-fraud-scheme-tied-sex-trafficking-cant-make-up",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Salman Ahmed Elmi, once honored as an outstanding refugee in Minnesota, now faces charges for aiding a scheme to bill Medicaid for over $1 million.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/walz-elmi-split-4.jpg?ve=1&tl=1",
+   "age": "17m ago",
+   "published": "2026-08-18T14:41:17+00:00"
+  },
+  {
+   "title": "Trump’s affordability plan faces conservative pushback as pocketbook issues loom over midterms",
+   "url": "https://www.foxnews.com/politics/trumps-affordability-plan-faces-conservative-pushback-pocketbook-issues-loom-midterms",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Advancing American Freedom says government zoning rules and energy regulations are why Americans can t afford homes, and offers 10 policy fixes.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-tariffs-economy.jpg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-08-18T14:34:29+00:00"
+  },
+  {
+   "title": "Ranking college football's most expensive rosters; latest news on WRs Jordyn Tyson and Malik Nabers",
+   "url": "https://www.cbssports.com/college-football/news/college-football-most-expensive-rosters-jordon-tyson-malik-nabers/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/18/917a6382-8ab6-4bd1-9ce2-a97c9c56d57f/untitled-design-2026-08-17t235528-853.png",
+   "age": "33m ago",
+   "published": "2026-08-18T14:25:41+00:00"
+  },
+  {
+   "title": "Kalshi seeks to launch ‘perps’ on equity indexes as it moves in on traditional exchanges' turf",
+   "url": "https://www.cnbc.com/2026/08/18/kalshi-wants-to-launch-perps-tied-to-equity-indexes.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The company is seeking to launch a \"US500\" perp tied to the MerQube U.S. Large Cap Index, according to a regulatory filing.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108344436-17858457182026-08-04t102722z_1664165591_rc2mrmat3b8n_rtrmadp_0_usa-prediction-markets.jpeg?v=1787061386&amp;w=1920&amp;h=1080",
+   "age": "36m ago",
+   "published": "2026-08-18T14:22:10+00:00"
+  },
+  {
+   "title": "Hims & Hers CEO says FTC lawsuit misunderstands how the company works",
+   "url": "https://www.cnbc.com/2026/08/18/hims-hers-ceo-andrew-dudum-ftc-lawsuit-glp-1s-ai.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Hims & Hers CEO Andrew Dudum spoke to CNBC about the FTC's lawsuit against the company, compounded GLP-1 drugs and AI.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350953-1787062618856-HIMS-OB-Photo-20260817-KK-PRESS-002.jpg?v=1787062705&amp;w=1920&amp;h=1080",
+   "age": "38m ago",
+   "published": "2026-08-18T14:20:05+00:00"
+  },
+  {
+   "title": "NFL All-Overpaid Team 2026: Deshaun Watson, Jeremiyah Love headline recognizable roster",
+   "url": "https://www.cbssports.com/nfl/news/nfls-most-overpaid-players-2026-deshaun-watson-chris-godwin/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/18/71b4777b-d233-4c64-ae6b-0deca0f5504f/nfl-overpaid.jpg",
+   "age": "40m ago",
+   "published": "2026-08-18T14:19:01+00:00"
+  },
+  {
+   "title": "Colts to sign Keenan Allen: What veteran WR brings, and why fit may be complicated",
+   "url": "https://www.cbssports.com/nfl/news/keenan-allen-colts-wr-contract/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2025/12/08/6dc92fd1-4d62-4926-8ac4-b3f581cde8aa/keenan-allen-los-angeles-chargers-imagn-images.jpg",
+   "age": "40m ago",
+   "published": "2026-08-18T14:18:22+00:00"
+  },
   {
    "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
    "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
@@ -31,7 +140,7 @@
    "topic": "ai",
    "summary": "Battery materials startup Anthro Energy has broken ground on a Louisville factory to make electrolytes, including those for solid-state batteries.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/anthro-energy-electrolyte.jpg?resize=1200,675",
-   "age": "2m ago",
+   "age": "59m ago",
    "published": "2026-08-18T14:00:00+00:00"
   },
   {
@@ -42,7 +151,7 @@
    "topic": "ai",
    "summary": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
-   "age": "2m ago",
+   "age": "59m ago",
    "published": "2026-08-18T14:00:00+00:00"
   },
   {
@@ -53,7 +162,7 @@
    "topic": "markets",
    "summary": "Disney's ABC has sued the FCC claiming its investigation and early broadcast licenses renewal are a 'retaliatory campaign' due to its programming.",
    "image": "https://image.cnbcfm.com/api/v1/image/108338635-17847380062026-07-22t163224z_1720416452_rc23jmatx1su_rtrmadp_0_usa-fcc.jpeg?v=1784738032&amp;w=1920&amp;h=1080",
-   "age": "7m ago",
+   "age": "1h ago",
    "published": "2026-08-18T13:55:20+00:00"
   },
   {
@@ -64,52 +173,8 @@
    "topic": "ai",
    "summary": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to ch…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675",
-   "age": "12m ago",
+   "age": "1h ago",
    "published": "2026-08-18T13:50:30+00:00"
-  },
-  {
-   "title": "Home Depot reaffirms guidance amid 'frozen housing market conditions'",
-   "url": "https://www.cnbc.com/2026/08/18/home-depot-hd-q2-2026-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&amp;w=1920&amp;h=1080",
-   "age": "19m ago",
-   "published": "2026-08-18T13:43:28+00:00"
-  },
-  {
-   "title": "NFL All-Overpaid Team 2026: Deshaun Watson, Jeremiyah Love headline recognizable roster",
-   "url": "https://www.cbssports.com/nfl/news/nfls-most-overpaid-players-2026-deshaun-watson-chris-godwin/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/18/abc33df2-2404-40fb-8c16-f9ae49cf45ea/watson.jpg",
-   "age": "23m ago",
-   "published": "2026-08-18T13:38:56+00:00"
-  },
-  {
-   "title": "Week 1 NFL odds, lines, best bets, predictions: Computer model backs Eagles and Jaguars",
-   "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-lines-best-bets-predictions/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/07/15/94624507-4e08-4c96-9c43-a252a5445725/hurts-barkley-eagles-imagn.jpg",
-   "age": "24m ago",
-   "published": "2026-08-18T13:38:35+00:00"
-  },
-  {
-   "title": "Primary election season rolls into Alaska, Florida and Wyoming",
-   "url": "https://www.cnbc.com/2026/08/18/primary-elections-alaska-florida-wyoming-midterms.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Incumbent Republican Sen. Dan Sullivan of Alaska is facing a serious challenge from former Democratic Rep. Mary Peltola.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108047928-1729011530971-gettyimages-2177424188-US-NEWS-ALASKSACONGRESS-DEBATE-LV.jpeg?v=1729028143&amp;w=1920&amp;h=1080",
-   "age": "28m ago",
-   "published": "2026-08-18T13:34:30+00:00"
   },
   {
    "title": "RIMPAC exercise tests 3D-printed parts for potential Pacific war",
@@ -119,30 +184,8 @@
    "topic": "defense",
    "summary": "“If we got into a high-intensity conflict right now in the Indo-Pacific, it would be difficult to meet all of the repair and resupply needs,” said FLEETWERX program mana…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/GettyImages-2168214881-scaled-e1786640648951-1024x576.jpg",
-   "age": "32m ago",
+   "age": "1h ago",
    "published": "2026-08-18T13:30:00+00:00"
-  },
-  {
-   "title": "Cubs fans get into nasty brawl in bleachers, SMU's football cheerleaders are dialed in & Baker gets tricked",
-   "url": "https://www.foxnews.com/outkick-sports/cubs-fans-nasty-brawl-bleachers-smu-football-cheerleaders-dialed-baker-gets-tricked",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tuesday Screencaps covers a Wrigley Field bleacher brawl, NFL flag football alarm bells, and the Chargers women s sports stunt before the 2028 Olympics.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/mlb-l-sign-081826-1.jpg?ve=1&tl=1",
-   "age": "48m ago",
-   "published": "2026-08-18T13:14:23+00:00"
-  },
-  {
-   "title": "Ranking college football's most expensive rosters; latest news on WRs Jordon Tyson and Malik Nabers",
-   "url": "https://www.cbssports.com/college-football/news/college-football-most-expensive-rosters-jordon-tyson-malik-nabers/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/18/917a6382-8ab6-4bd1-9ce2-a97c9c56d57f/untitled-design-2026-08-17t235528-853.png",
-   "age": "52m ago",
-   "published": "2026-08-18T13:10:29+00:00"
   },
   {
    "title": "US Army requests 133,000 GMLRS rockets by 2034",
@@ -152,30 +195,8 @@
    "topic": "defense",
    "summary": "The U.S. Army sent out a request this week for manufacturing 133,014 Guided Multiple Launch Rocket System, or GMLRS, rockets by 2034.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NXJJ7DOQUJB7HGMKLTB66VBAZY.jpg",
-   "age": "56m ago",
-   "published": "2026-08-18T13:06:13+00:00"
-  },
-  {
-   "title": "Disney sues FCC over ‘retaliatory campaign against ABC,’ seeks to block early renewal proceedings",
-   "url": "https://www.foxnews.com/media/disney-sues-fcc-over-retaliatory-campaign-against-abc-seeks-block-early-renewal-proceedings",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "FCC Chairman Brendan Carr called for early renewal of eight ABC-owned stations licenses in April.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/kimmel-carr-whoopi.jpg?ve=1&tl=1",
-   "age": "59m ago",
-   "published": "2026-08-18T13:03:17+00:00"
-  },
-  {
-   "title": "Fox News Power Rankings: As Democrats turn left, Black voters tap the brakes",
-   "url": "https://www.foxnews.com/politics/fox-news-power-rankings-democrats-turn-left-black-voters-tap-brakes",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump s declining approval rating is pushing Hispanic and young voters back to Democrats, but Black voter erosion remains a major challenge.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/power-rankings-4.jpg?ve=1&tl=1",
    "age": "1h ago",
-   "published": "2026-08-18T13:00:54+00:00"
+   "published": "2026-08-18T13:06:13+00:00"
   },
   {
    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
@@ -196,7 +217,7 @@
    "topic": "defense",
    "summary": "With rapidly evolving threats around the globe, the USAF's target drones need to start making leaps to catch up and a new family of systems is wanted to this. The post A…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/TARGET-DRONE-FIFTH-GEN.jpg?quality=85",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-18T12:26:59+00:00"
   },
   {
@@ -218,7 +239,7 @@
    "topic": "defense",
    "summary": "“The first 52-meter Saildrone Spectre will be built at Van Der Valk Shipyard in the Netherlands, and the next generation of the Saildrone Surveyor will be produced at Um…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Capture-decran-le-2026-08-17-a-19.08.45-1024x674.png",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-18T11:52:19+00:00"
   },
   {
@@ -229,7 +250,7 @@
    "topic": "defense",
    "summary": "The following is the Aug. 18, 2026, Congressional Research Service report, Venezuela’s Post-Maduro Political Transition and U.S. Policy. From the report Some Members of …",
    "image": null,
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-18T11:18:23+00:00"
   },
   {
@@ -240,7 +261,7 @@
    "topic": "ai",
    "summary": "Research shows heat amplifies the dangers of pesticides.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2219172919-1152x648.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-18T11:07:49+00:00"
   },
   {
@@ -253,6 +274,17 @@
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290092558.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "age": "4h ago",
    "published": "2026-08-18T10:00:00+00:00"
+  },
+  {
+   "title": "Connor Zilisch will join Hendrick Motorsports in 2028",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYVZ3MmYwMVJwR2Vpb1NaeHZkMkQxcVdldTEtN0NacG0yVmRRUTdtN2x3VHpxa0lMRE11ajJOc1lpeW5oSXloZ2dWSC1MS1lYcGVEZ0ZNeUNuekRvOHExdW56UEtzUE5hVndRUlRlUmk2WFE5RlNQcV9XdzhFU1J4S3BDaWlkRFVGelBTcFBDemVuUEtyNWxKMXBEMWNfT0x2RVRiWkdJRzVISFBtRnc?oc=5",
+   "source": "autohebdof1.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-08-18T08:34:58+00:00"
   },
   {
    "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
@@ -273,7 +305,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290094151.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-18T01:24:43+00:00"
   },
   {
@@ -284,7 +316,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ueek80zqf7kn8l75bkld.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-18T00:55:00+00:00"
   },
   {
@@ -295,7 +327,7 @@
    "topic": "defense",
    "summary": "USS George Washington is en route to relieve USS Abraham Lincoln in the Middle East, which leaves no carriers in the Pacific. The post Where Are The Aircraft Carriers?: …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/TWZ-Carrier-Tracker-as-of-August-17-2026.png?quality=85",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-18T00:26:11+00:00"
   },
   {
@@ -306,7 +338,7 @@
    "topic": "defense",
    "summary": "Trump's decision comes amid growing concerns about America's commitment to Asian allies, especially as the standoff with Iran grinds on. The post U.S. Military Training …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/South-Korea-US-Exercise-trump.jpg?quality=85",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-17T23:13:20+00:00"
   },
   {
@@ -317,7 +349,7 @@
    "topic": "defense",
    "summary": "PASCAGOULA, MISS. — The rose-brown hull of the first heavy polar icebreaker for the Coast Guard is taking shape after years of delays on the Gulf Coast. The stern sectio…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/AM1A8571-scaled.jpg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-17T22:06:26+00:00"
   },
   {
@@ -328,18 +360,18 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yxueyq6slzz7cmz8hr4x.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-17T20:50:00+00:00"
   },
   {
    "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
-   "source": "Daytona Beach News-Journal",
+   "source": "news-journalonline.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-17T20:29:00+00:00"
   },
   {
@@ -350,19 +382,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-17T19:31:00+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports signs Connor Zilisch to multiyear deal starting in 2028",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW1BV1h3dFFBdUptVS1qR2cwODdhNzlfTGhrWmlXYkdtbGNqTzQtdGg4U2xTekFES0dTVU1mSDBjWkJPNmZYNG43eTJWSWJjYjV1X1pRaTBTVENBN29zME9xVHFBbFR4VWJqUkp2S3AtY1lReVBUd0JyRVVNRUZHU21yUElZOVFnUXNIcTduU3B3REJWN1haSWtHLTNUVE0ybjYwenc5bVVmWHMtUk5hR19sR3FPaGRKdUExYTlxZ9IBxAFBVV95cUxOZkd2MHNaMTJacDNPZHdQUXo5QnVET3B4OUtkckhfUGcxT2d4WmdWWFFTZmhQdU9ZYTAweHF5SmFmRGszTVBrWWNWSHY2aENqaENpaGlSTWgxVFp6YU91cU1OQWxyQUpTbTNpUmxTVEtfUDBkMTBHNWV4YWNPVzZCdk05UmJsN1p1X1B3T1Q4YnhweE5ZdHB0R1lkb2Y2emdoWkRYMlVJUlJsaXk3ck5GaXFpNVF1WHNSblAtYkJST2U2bDBp?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "18h ago",
-   "published": "2026-08-17T19:16:40+00:00"
   },
   {
    "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
@@ -372,7 +393,7 @@
    "topic": "defense",
    "summary": "The data from the hosted payloads on QZS-7 and its predecessor QZS-6 will feed into the US Space Surveillance Network operated by the 18th Space Defense Squadron.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Japanese-rocket-lifts-QZS-7-w-US-hosted-payload-e1786993499640.png",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-17T18:57:04+00:00"
   },
   {
@@ -383,7 +404,7 @@
    "topic": "defense",
    "summary": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HALSUURXHBCAZM7PHKIDQ4RLSQ.jpg",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-17T18:19:24+00:00"
   },
   {
@@ -394,7 +415,7 @@
    "topic": "defense",
    "summary": "German drone maker Helsing has enlisted Japanese e-commerce and finance firm Rakuten to help finalize a deal to sell its unmanned systems to Japan’s army.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/US7IQVAGWND2FI262NYKGL7JXQ.JPG",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-17T18:16:02+00:00"
   },
   {
@@ -416,7 +437,7 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 17, 2026, based on Navy…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_17_26.jpg",
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-17T16:44:25+00:00"
   },
   {
@@ -429,28 +450,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/16231952/Jahns_BenJohnson-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-08-17T10:00:00+00:00"
-  },
-  {
-   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
-   "age": "2d ago",
-   "published": "2026-08-16T12:15:00+00:00"
-  },
-  {
-   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
-   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
-   "age": "2d ago",
-   "published": "2026-08-16T11:00:00+00:00"
   },
   {
    "title": "The five key developments from the Bears’ first preseason game",
