@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-18T10:52:39+00:00",
+ "generated": "2026-08-18T11:15:23+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -11,18 +11,83 @@
   "CHGO Bears",
   "CNBC",
   "ChicagoBears.com",
-  "Daytona Beach News-Journal",
   "Defense News",
   "Fox News",
   "NASCAR.com",
-  "NWI Times",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron"
+  "Windy City Gridiron",
+  "news-journalonline.com"
  ],
  "items": [
+  {
+   "title": "Mets rookie Carson Benge dazzles with two outfield assists in win over Padres",
+   "url": "https://www.foxnews.com/sports/mets-rookie-carson-benge-dazzles-two-outfield-assists-win-padres",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New York Mets rookie Caron Benge fired throws of 99.9 and 103.9 mph to nail runners at home, becoming the first outfielder with two 99+ mph assists in the Statcast era.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/carson-benge-fields-right-field-mets.jpg?ve=1&tl=1",
+   "age": "3m ago",
+   "published": "2026-08-18T11:11:45+00:00"
+  },
+  {
+   "title": "AI isn’t just a problem, it’s a solution. Some people are already making the most of it",
+   "url": "https://www.foxnews.com/opinion/ai-isnt-just-problem-its-solution-people-already-making-most",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "AI is already helping ordinary people learn, filling roles as a career coach, tutor, translator and therapist. Nearly a third of American adults now use generative AI re…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/mark-zuckerberg-meta-trial-fox-news.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-08-18T11:00:23+00:00"
+  },
+  {
+   "title": "Parkinson’s patient’s years-long tremor vanishes within minutes of new ultrasound treatment",
+   "url": "https://www.foxnews.com/health/parkinsons-patient-years-long-tremor-vanishes-minutes-new-ultrasound-treatment",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Bud Leavell s Parkinson s tremor vanished minutes after receiving FDA-approved focused ultrasound at UT Southwestern Medical Center in Arlington, Texas.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/notremors.png?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-08-18T11:00:22+00:00"
+  },
+  {
+   "title": "Nvidia's AI moat is shifting from chips to capital",
+   "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia still has dominant market share in AI chips, but with competition picking up steam, the company is taking greater advantage of another key asset.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108335932-1784206425159-gettyimages-2285707811-JAPAN_NVIDIA.jpeg?v=1784206465&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-08-18T11:00:01+00:00"
+  },
+  {
+   "title": "The startup using AI to help rare disease families develop custom treatments",
+   "url": "https://www.cnbc.com/2026/08/18/the-startup-using-ai-to-help-build-custom-treatments-for-rare-diseases.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nome uses AI and drug-development expertise to help rare disease families turn genetic diagnoses into potential paths toward treatment.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108348575-1786550431917-Steven_Ringel_Color_Headshot.jpeg?v=1786550531&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-08-18T11:00:01+00:00"
+  },
+  {
+   "title": "Reach Capital raises $265M Fund V to back AI founders building to ‘expand human potential’",
+   "url": "https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Reach Capital announced Tuesday an oversubscribed $265M Fund V.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Reach-capital.jpg?resize=1200,800",
+   "age": "15m ago",
+   "published": "2026-08-18T11:00:00+00:00"
+  },
   {
    "title": "WNBA fans recall ejection threat over XX-XY Athletics shirt at Fever-Dream game: 'I was flabbergasted'",
    "url": "https://www.foxnews.com/outkick-sports/wnba-fans-recall-ejection-threat-xx-xy-athletics-shirt-fever-dream-game-flabbergasted",
@@ -31,7 +96,7 @@
    "topic": "world",
    "summary": "Kasey and Annie Thomason say security at State Farm Arena threatened them with ejection over their XX-XY Athletics shirts at a WNBA game.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/news-image-fox-news_009.jpg?ve=1&tl=1",
-   "age": "18m ago",
+   "age": "40m ago",
    "published": "2026-08-18T10:34:37+00:00"
   },
   {
@@ -42,7 +107,7 @@
    "topic": "markets",
    "summary": "Home Depot reported second fiscal quarter results that beat Wall Street expectations on the top and bottom lines.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349756-1786715492682-gettyimages-2289917116-HOME_DEPOT_EARNS.jpeg?v=1786715537&amp;w=1920&amp;h=1080",
-   "age": "20m ago",
+   "age": "43m ago",
    "published": "2026-08-18T10:32:00+00:00"
   },
   {
@@ -53,7 +118,7 @@
    "topic": "ai",
    "summary": "Einride will buy the Tesla Semis, which will be made to Amazon and other customers.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Semi_83.jpg?resize=1200,675",
-   "age": "22m ago",
+   "age": "45m ago",
    "published": "2026-08-18T10:30:00+00:00"
   },
   {
@@ -64,30 +129,8 @@
    "topic": "markets",
    "summary": "The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.",
    "image": "https://image.cnbcfm.com/api/v1/image/108287459-1775497929732-gettyimages-2270097175-aw1a7684_urbdaits.jpeg?v=1775497948&amp;w=1920&amp;h=1080",
-   "age": "29m ago",
+   "age": "52m ago",
    "published": "2026-08-18T10:23:09+00:00"
-  },
-  {
-   "title": "Trump endorses replacement GOP nominee Jennifer Balkcom after Chuck Edwards ends re-election bid",
-   "url": "https://www.foxnews.com/politics/trump-endorses-replacement-gop-nominee-jennifer-balkcom-chuck-edwards-ends-reelection-bid",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "President Trump endorsed North Carolina state Rep. Jennifer Balkcom, the replacement GOP nominee running for U.S. House after Rep. Chuck Edwards dropped his re-election …",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/3ab186f0-president-donald-trump-aug-2026.jpg?ve=1&tl=1",
-   "age": "46m ago",
-   "published": "2026-08-18T10:06:00+00:00"
-  },
-  {
-   "title": "Nancy Guthrie ransom notes contain repeated writing quirks that could help identify suspect, expert says",
-   "url": "https://www.foxnews.com/us/nancy-guthrie-ransom-notes-contain-repeated-writing-quirks-could-help-identify-suspect-expert-says",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Retired investigator Lisa Miller says comma splices and open compounds in the Nancy Guthrie ransom notes reveal the author s unique idiolect.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nancy-guthrie-memorial.jpg?ve=1&tl=1",
-   "age": "51m ago",
-   "published": "2026-08-18T10:00:50+00:00"
   },
   {
    "title": "Chicago Bears News: Bears sign Marcus Davenport, take day off practice",
@@ -97,7 +140,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290092558.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "52m ago",
+   "age": "1h ago",
    "published": "2026-08-18T10:00:00+00:00"
   },
   {
@@ -108,19 +151,8 @@
    "topic": "ai",
    "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/DSC07113B.jpg?resize=1200,686",
-   "age": "52m ago",
-   "published": "2026-08-18T10:00:00+00:00"
-  },
-  {
-   "title": "Global bond yields hit multi-decade highs as governments pay the price for U.S.-Iran stalemate",
-   "url": "https://www.cnbc.com/2026/08/18/bond-yields-government-us10y-treasury-note-iran.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "International government bond yields followed U.S. Treasury yields higher on Tuesday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350418-1786980367683-NYSE_Traders-OB-Photo-20260817-CC-115.jpg?v=1786980440&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-08-18T09:45:01+00:00"
+   "published": "2026-08-18T10:00:00+00:00"
   },
   {
    "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
@@ -130,7 +162,7 @@
    "topic": "ai",
    "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1152x648.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-18T04:00:40+00:00"
   },
   {
@@ -163,7 +195,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ueek80zqf7kn8l75bkld.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-18T00:55:00+00:00"
   },
   {
@@ -176,17 +208,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/TWZ-Carrier-Tracker-as-of-August-17-2026.png?quality=85",
    "age": "10h ago",
    "published": "2026-08-18T00:26:11+00:00"
-  },
-  {
-   "title": "Anthropic’s annualized revenue surges to $65B",
-   "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The model maker added $18 billion in annualized revenue in two months.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-   "age": "10h ago",
-   "published": "2026-08-17T23:56:26+00:00"
   },
   {
    "title": "Kyle Monangai Injury Update and Bears Announce 4 Roster Moves",
@@ -207,7 +228,7 @@
    "topic": "defense",
    "summary": "Trump's decision comes amid growing concerns about America's commitment to Asian allies, especially as the standoff with Iran grinds on. The post U.S. Military Training …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/South-Korea-US-Exercise-trump.jpg?quality=85",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-17T23:13:20+00:00"
   },
   {
@@ -229,7 +250,7 @@
    "topic": "ai",
    "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-17T22:08:47+00:00"
   },
   {
@@ -240,7 +261,7 @@
    "topic": "defense",
    "summary": "PASCAGOULA, MISS. — The rose-brown hull of the first heavy polar icebreaker for the Coast Guard is taking shape after years of delays on the Gulf Coast. The stern sectio…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/AM1A8571-scaled.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-17T22:06:26+00:00"
   },
   {
@@ -279,7 +300,7 @@
   {
    "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
-   "source": "Daytona Beach News-Journal",
+   "source": "news-journalonline.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -317,7 +338,7 @@
    "topic": "defense",
    "summary": "Satellite imagery reveals growing launch infrastructure for Geran-family one-way attack drones, including the capability of launching heavier, higher-performing types. T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GERAN-READY-FOR-LAUNCH-copy.jpg?quality=85",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-17T19:03:08+00:00"
   },
   {
@@ -328,7 +349,7 @@
    "topic": "defense",
    "summary": "The data from the hosted payloads on QZS-7 and its predecessor QZS-6 will feed into the US Space Surveillance Network operated by the 18th Space Defense Squadron.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Japanese-rocket-lifts-QZS-7-w-US-hosted-payload-e1786993499640.png",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-17T18:57:04+00:00"
   },
   {
@@ -383,7 +404,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/rpjr3wsyjtradtlttcjo.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-17T17:00:00+00:00"
   },
   {
@@ -416,7 +437,7 @@
    "topic": "defense",
    "summary": "President Trump instructed the Pentagon to “substantially reduce” joint military exercises with long-term Asian ally South Korea.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CKZW5TE7VBA3PLRVCTMB6T3FPM.JPG",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-17T15:14:07+00:00"
   },
   {
@@ -429,28 +450,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/16231952/Jahns_BenJohnson-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-08-17T10:00:00+00:00"
-  },
-  {
-   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-08-16T12:15:00+00:00"
-  },
-  {
-   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
-   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
-   "age": "1d ago",
-   "published": "2026-08-16T11:00:00+00:00"
   },
   {
    "title": "The five key developments from the Bears’ first preseason game",
