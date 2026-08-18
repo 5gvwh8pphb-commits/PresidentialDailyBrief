@@ -1,22 +1,26 @@
 {
- "generated": "2026-08-18T04:59:26+00:00",
+ "generated": "2026-08-18T05:30:05+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": false,
+ "withImage": 37,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Daytona Beach News-Journal",
   "Defense News",
   "Fox News",
   "NASCAR.com",
-  "Road & Track",
+  "NWI Times",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Windy City Gridiron"
  ],
  "items": [
   {
@@ -27,8 +31,19 @@
    "topic": "markets",
    "summary": "The annual exercises, are defensive and not intended to attack North Korea or raise tensions on the peninsula, Lee said.",
    "image": "https://image.cnbcfm.com/api/v1/image/108350730-1787020858403-gettyimages-2218851641-_eon2950_qxv5sbuo.jpeg?v=1787021475&amp;w=1920&amp;h=1080",
-   "age": "9m ago",
-   "published": "2026-08-18T04:49:27+00:00"
+   "age": "13m ago",
+   "published": "2026-08-18T05:16:51+00:00"
+  },
+  {
+   "title": "DOJ opens probe into prestigious college over alleged discrimination favoring minority students",
+   "url": "https://www.foxnews.com/us/doj-opens-probe-prestigious-college-alleged-discrimination-favoring-minority-students",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Department of Justice is probing whether the College of William Mary s scholarships and programs favor racial minorities in violation of Title VI.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/William-Mary-doj-probe.png?ve=1&tl=1",
+   "age": "36m ago",
+   "published": "2026-08-18T04:53:25+00:00"
   },
   {
    "title": "Ship attacked in Hormuz Strait as U.S.-Iran ceasefire expiry risks prolonged conflict",
@@ -38,8 +53,30 @@
    "topic": "markets",
    "summary": "The attack caused damage to the engine room and resulted in a crew casualty, UKMTO said, adding that the remaining crew were being assisted by the Omani Coast Guard.",
    "image": "https://image.cnbcfm.com/api/v1/image/108287459-1775497929732-gettyimages-2270097175-aw1a7684_urbdaits.jpeg?v=1775497948&amp;w=1920&amp;h=1080",
-   "age": "25m ago",
+   "age": "55m ago",
    "published": "2026-08-18T04:34:22+00:00"
+  },
+  {
+   "title": "Theban tomb reveals how Egyptian burial trends evolved in time",
+   "url": "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Practices shifted from individuals buried in coffins to reusing sites for later mummy interments.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-18T04:00:40+00:00"
+  },
+  {
+   "title": "Saints rookie Jordyn Tyson reportedly out months with hamstring injury: What New Orleans can do at WR",
+   "url": "https://www.cbssports.com/nfl/news/saints-rookie-jordyn-tyson-out-two-months-what-will-new-orleans-do-at-wr/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/17/190b43f2-73e2-45c9-a7f1-86aadb1797a5/tyson.jpg",
+   "age": "2h ago",
+   "published": "2026-08-18T02:42:18+00:00"
   },
   {
    "title": "Virginia man acquitted by insanity in killing flees US during 48-hour mental hospital pass",
@@ -49,7 +86,7 @@
    "topic": "world",
    "summary": "Court records show Abdulloi Toshpulodzoda failed to return from an authorized 48-hour pass and instead boarded a one-way flight to Tajikistan.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dulles-airport-washington-dc.jpg?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-18T02:01:30+00:00"
   },
   {
@@ -64,37 +101,26 @@
    "published": "2026-08-18T01:35:06+00:00"
   },
   {
-   "title": "One of world’s oldest orca whales found with possible shotgun wounds as officials launch investigation",
-   "url": "https://www.foxnews.com/world/one-worlds-oldest-orca-whales-found-possible-shotgun-wounds-officials-launch-investigation",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Toñi, the oldest known Iberian orca, surfaced in the Strait of Gibraltar with wounds conservationists believe were caused by shotgun pellets.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/oldest-iberian-orca-toni-shotgun-pellet-wounds.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-08-18T01:00:41+00:00"
+   "title": "What are you most excited about for the Bears vs Bengals preseason game?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/120809/what-are-you-most-excited-about-for-the-bears-vs-bengals-preseason-game",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290094151.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "4h ago",
+   "published": "2026-08-18T01:24:43+00:00"
   },
   {
-   "title": "Stephen A Smith goes off on national Black journalists organization after 'personal hit job' against him",
-   "url": "https://www.foxnews.com/media/stephen-a-smith-goes-off-national-black-journalists-organization-personal-hit-job",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Stephen A. Smith called NABJ s Thumbs Down award a personal hit job, saying the journalism organization failed to practice journalism in critiquing him.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/stephen-a-smith-espn-nba-countdown-fox-news-001.jpeg?ve=1&tl=1",
+   "title": "Bears training camp diaries with Sam Roush, Neville Gallimore | Week 3",
+   "url": "https://www.chicagobears.com/news/bears-training-camp-diaries-with-sam-roush-neville-gallimore-week-3",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ueek80zqf7kn8l75bkld.jpg",
    "age": "4h ago",
-   "published": "2026-08-18T00:57:41+00:00"
-  },
-  {
-   "title": "Newly released data shows which American cities have the most passionate fanbases in the NFL",
-   "url": "https://www.foxnews.com/outkick-sports/newly-released-data-shows-american-cities-most-passionate-fanbases-nfl",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Nielsen s new local NFL fandom index ranks all 30 markets by eight key metrics, with Buffalo and Kansas City topping the list above all others.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/GettyImages-2251040602.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-08-18T00:32:26+00:00"
+   "published": "2026-08-18T00:55:00+00:00"
   },
   {
    "title": "Where Are The Aircraft Carriers?: August 17, 2026",
@@ -104,7 +130,7 @@
    "topic": "defense",
    "summary": "USS George Washington is en route to relieve USS Abraham Lincoln in the Middle East, which leaves no carriers in the Pacific. The post Where Are The Aircraft Carriers?: …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/TWZ-Carrier-Tracker-as-of-August-17-2026.png?quality=85",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-18T00:26:11+00:00"
   },
   {
@@ -130,15 +156,15 @@
    "published": "2026-08-17T23:47:54+00:00"
   },
   {
-   "title": "'Absolutely crazy': Here's what South Korean stock investors are doing in U.S. markets",
-   "url": "https://www.cnbc.com/2026/08/18/korean-stock-investors-flee-bruising-home-market-pile-into-us.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "South Korean stock investors have made 'absolutely crazy' bets as they flee their home market, while global investors pile in.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108016884-1722958595508-gettyimages-2165060743-jhk240806005.jpeg?v=1722958709&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-08-17T23:39:54+00:00"
+   "title": "Kyle Monangai Injury Update and Bears Announce 4 Roster Moves",
+   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/120819/kyle-monangai-injury-update-and-bears-announce-4-roster-moves",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY27664825471375419.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "6h ago",
+   "published": "2026-08-17T23:28:34+00:00"
   },
   {
    "title": "U.S. Military Training With South Korea Reduced Over Iran War Snub",
@@ -148,8 +174,19 @@
    "topic": "defense",
    "summary": "Trump's decision comes amid growing concerns about America's commitment to Asian allies, especially as the standoff with Iran grinds on. The post U.S. Military Training …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/South-Korea-US-Exercise-trump.jpg?quality=85",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-17T23:13:20+00:00"
+  },
+  {
+   "title": "NFL preseason injuries tracker: Breece Hall's status, Jeremiyah Love update",
+   "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injury-tracker/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/17/6aebbea8-304a-44e7-bdc7-cee0ddb8839c/bre.jpg",
+   "age": "6h ago",
+   "published": "2026-08-17T22:34:45+00:00"
   },
   {
    "title": "US vaccination rates fall again as exemptions continue to rise, CDC data shows",
@@ -159,7 +196,7 @@
    "topic": "ai",
    "summary": "Again, the CDC did not publish a full report and instead simply put the data online.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289391344-1024x648.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-17T22:08:47+00:00"
   },
   {
@@ -170,7 +207,7 @@
    "topic": "defense",
    "summary": "PASCAGOULA, MISS. — The rose-brown hull of the first heavy polar icebreaker for the Coast Guard is taking shape after years of delays on the Gulf Coast. The stern sectio…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/AM1A8571-scaled.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-17T22:06:26+00:00"
   },
   {
@@ -181,8 +218,19 @@
    "topic": "ai",
    "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-17T21:27:05+00:00"
+  },
+  {
+   "title": "Giants' Malik Nabers says his soul has 'come back to life' after return to team drills",
+   "url": "https://www.cbssports.com/nfl/news/giants-malik-nabers-return-to-team-drills/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/11/d595d2a0-e0cd-433a-986d-d156eabf7273/malik-nabers-new-york-giants-imagn-images.jpg",
+   "age": "8h ago",
+   "published": "2026-08-17T21:22:41+00:00"
   },
   {
    "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
@@ -192,8 +240,19 @@
    "topic": "ai",
    "summary": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1872-Factory-One-opening-1152x648.jpeg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-17T21:18:49+00:00"
+  },
+  {
+   "title": "Chicago Bears announce roster moves",
+   "url": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-august-17-2026",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yxueyq6slzz7cmz8hr4x.jpg",
+   "age": "8h ago",
+   "published": "2026-08-17T20:50:00+00:00"
   },
   {
    "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
@@ -203,19 +262,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-17T20:29:00+00:00"
-  },
-  {
-   "title": "The Moon's shadow raced across the heart of Spain, and I was there to see it",
-   "url": "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Here's what it was like watching a total solar eclipse 90 minutes north of Madrid.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_1550-1-1152x648.jpg",
-   "age": "8h ago",
-   "published": "2026-08-17T20:23:09+00:00"
   },
   {
    "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
@@ -225,41 +273,8 @@
    "topic": "ai",
    "summary": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/iphone-spyware-alert-2024.jpg?resize=1200,800",
-   "age": "8h ago",
-   "published": "2026-08-17T20:18:35+00:00"
-  },
-  {
-   "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-   "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"Network effect\" can run in reverse.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-   "age": "8h ago",
-   "published": "2026-08-17T20:14:23+00:00"
-  },
-  {
-   "title": "30-year Treasury yield tops 5.31%, the highest in 19 years",
-   "url": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury yields were higher as traders awaited the latest FOMC minutes due later this week.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108339504-1786994172209-108339504-1784838021299-gettyimages-2286702744-AFP_C2ZY29G.jpeg?v=1786994191&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-08-17T20:04:53+00:00"
-  },
-  {
-   "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-   "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San …",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
    "age": "9h ago",
-   "published": "2026-08-17T19:33:51+00:00"
+   "published": "2026-08-17T20:18:35+00:00"
   },
   {
    "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
@@ -273,17 +288,6 @@
    "published": "2026-08-17T19:31:00+00:00"
   },
   {
-   "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
-   "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Spotify-PlaylistNotes.png?w=1200",
-   "age": "9h ago",
-   "published": "2026-08-17T19:24:43+00:00"
-  },
-  {
    "title": "Hendrick Motorsports signs Connor Zilisch to multiyear deal starting in 2028",
    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdW1BV1h3dFFBdUptVS1qR2cwODdhNzlfTGhrWmlXYkdtbGNqTzQtdGg4U2xTekFES0dTVU1mSDBjWkJPNmZYNG43eTJWSWJjYjV1X1pRaTBTVENBN29zME9xVHFBbFR4VWJqUkp2S3AtY1lReVBUd0JyRVVNRUZHU21yUElZOVFnUXNIcTduU3B3REJWN1haSWtHLTNUVE0ybjYwenc5bVVmWHMtUk5hR19sR3FPaGRKdUExYTlxZ9IBxAFBVV95cUxOZkd2MHNaMTJacDNPZHdQUXo5QnVET3B4OUtkckhfUGcxT2d4WmdWWFFTZmhQdU9ZYTAweHF5SmFmRGszTVBrWWNWSHY2aENqaENpaGlSTWgxVFp6YU91cU1OQWxyQUpTbTNpUmxTVEtfUDBkMTBHNWV4YWNPVzZCdk05UmJsN1p1X1B3T1Q4YnhweE5ZdHB0R1lkb2Y2emdoWkRYMlVJUlJsaXk3ck5GaXFpNVF1WHNSblAtYkJST2U2bDBp?oc=5",
    "source": "NASCAR.com",
@@ -291,7 +295,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-17T19:16:40+00:00"
   },
   {
@@ -302,7 +306,7 @@
    "topic": "defense",
    "summary": "Satellite imagery reveals growing launch infrastructure for Geran-family one-way attack drones, including the capability of launching heavier, higher-performing types. T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GERAN-READY-FOR-LAUNCH-copy.jpg?quality=85",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-17T19:03:08+00:00"
   },
   {
@@ -324,8 +328,19 @@
    "topic": "defense",
    "summary": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HALSUURXHBCAZM7PHKIDQ4RLSQ.jpg",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-17T18:19:24+00:00"
+  },
+  {
+   "title": "Chicago Bears Sign Defensive End Marcus Davenport",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/120800/report-chicago-bears-expected-to-sign-marcus-davenport",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2173966442.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "11h ago",
+   "published": "2026-08-17T18:17:08+00:00"
   },
   {
    "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
@@ -335,30 +350,8 @@
    "topic": "defense",
    "summary": "German drone maker Helsing has enlisted Japanese e-commerce and finance firm Rakuten to help finalize a deal to sell its unmanned systems to Japan’s army.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/US7IQVAGWND2FI262NYKGL7JXQ.JPG",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-17T18:16:02+00:00"
-  },
-  {
-   "title": "New Patriot Battalion To Bolster Guam’s Defenses Within Months",
-   "url": "https://www.twz.com/land/new-patriot-battalion-to-bolster-guams-defenses-within-months",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The new unit will also have short-range counter-cruise missile systems that will enhance the strategic island's defenses and grow the Army's overextended Patriot force. …",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/new-patriot-battalion-guam.jpg?quality=85",
-   "age": "11h ago",
-   "published": "2026-08-17T17:55:15+00:00"
-  },
-  {
-   "title": "NASCAR Rising Star Connor Zilisch Signs with Hendrick Motorsports for 2028",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaWM4ckk2Q0RpaDREMEpLeEZpTVREQ2h5dWVtU2JQV2NJWXlTTWszTGstemkwYWYzUGVBcDcwRElGQXYwVVMwXzZZZkg0NlRQc25zUzRYLTRpXy1PenBvU19FR2FpSUV1Nm0wdWM3S1otUV96WFFTVWVJeUY5UEtSYnV1M1E4d3RBcHA5QnRpOUtQM2ZzVmlEYmZCc19LMEVxM29fRWFfaFV3ZVFEa3djTlN1YWs?oc=5",
-   "source": "Road & Track",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "11h ago",
-   "published": "2026-08-17T17:51:00+00:00"
   },
   {
    "title": "Raytheon gets massive $23B contract to boost Tomahawk production",
@@ -379,19 +372,19 @@
    "topic": "defense",
    "summary": "[Sponsored] Truly autonomous aircraft can make decisions without continuous human input.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260318pmar187004.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-17T17:30:00+00:00"
   },
   {
-   "title": "What China’s PLA says it is learning from the Iran war",
-   "url": "https://breakingdefense.com/2026/08/what-chinas-pla-says-it-is-learning-from-the-iran-war/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "From AI integration to the economics of air and missile defense, Chinese military commentators are paying especially close attention to the US-Israel war in Iran.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/GettyImages-2263659097-scaled-e1772397098292-1024x577.jpg",
-   "age": "11h ago",
-   "published": "2026-08-17T17:19:00+00:00"
+   "title": "Chicago Bears partner with The RV Rental Factory to launch Bears Tailgate Village premium hospitality experience",
+   "url": "https://www.chicagobears.com/news/chicago-bears-partner-with-the-rv-rental-factory-to-launch-bears-tailgate-village-premium-hospitality-experience",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/rpjr3wsyjtradtlttcjo.jpg",
+   "age": "12h ago",
+   "published": "2026-08-17T17:00:00+00:00"
   },
   {
    "title": "USNI News Fleet and Marine Tracker: Aug. 17, 2026",
@@ -423,41 +416,52 @@
    "topic": "defense",
    "summary": "President Trump instructed the Pentagon to “substantially reduce” joint military exercises with long-term Asian ally South Korea.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CKZW5TE7VBA3PLRVCTMB6T3FPM.JPG",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-17T15:14:07+00:00"
   },
   {
-   "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan’s Quasi-Zenith Satellite 7.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PVXYRVQFKZFGFAIJ735MV5RCY4.jpg",
-   "age": "13h ago",
-   "published": "2026-08-17T15:06:00+00:00"
+   "title": "Monster in the making: Everyone can feel what Ben Johnson is building for the Bears",
+   "url": "https://allchgo.com/bears/everyone-can-feel-what-ben-johnson-building-for-bears/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/16231952/Jahns_BenJohnson-1024x576.jpg",
+   "age": "19h ago",
+   "published": "2026-08-17T10:00:00+00:00"
   },
   {
-   "title": "USS Benfold Was Stalled in the South China Sea for Four Days After Engineering Casualty",
-   "url": "https://news.usni.org/2026/08/14/uss-benfold-was-stalled-in-the-south-china-sea-for-four-days-after-engineering-casualty",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "This story has been updated to include Benfold was towed to Subic Bay. Guided-missile destroyer USS Benfold (DDG-65) spent four days in the South China Sea without power…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9835497-scaled.jpg",
-   "age": "3d ago",
-   "published": "2026-08-15T02:16:44+00:00"
+   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
+   "age": "1d ago",
+   "published": "2026-08-16T12:15:00+00:00"
   },
   {
-   "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
-   "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-203",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "I have no idea if it's day or night anymore. The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/GettyImages-508336080.jpg?quality=85",
-   "age": "3d ago",
-   "published": "2026-08-14T21:55:00+00:00"
+   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
+   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "1d ago",
+   "published": "2026-08-16T11:00:00+00:00"
+  },
+  {
+   "title": "The five key developments from the Bears’ first preseason game",
+   "url": "https://allchgo.com/bears/five-key-developments-from-bears-first-preseason-game/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/15194506/2026-08-15T210700Z_506580956_MT1USATODAY29592650_RTRMADP_3_NFL-CLEVELAND-BROWNS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "2d ago",
+   "published": "2026-08-16T00:46:37+00:00"
   }
  ]
 }
