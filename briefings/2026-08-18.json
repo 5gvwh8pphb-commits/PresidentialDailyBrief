@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-18",
+  "dateLabel": "Tuesday, August 18, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-18T09:09:08Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, August 17, 2026 close — stocks slipped as oil prices and Treasury yields jumped on renewed US-Iran war fears.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,745.06", "change": "-40.70", "changePct": "-0.52%", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "53,459.78", "change": "-272.63", "changePct": "-0.51%", "sixMo": "+7.9%" },
+        { "name": "Nasdaq",  "close": "26,644.91", "change": "-84.25", "changePct": "-0.32%", "sixMo": "+18%" }
+      ],
+      "body": "The 60-day US-Iran ceasefire deadline expired Monday with no deal reached, and Brent crude jumped 2.7% to $90.87 a barrel while the 30-year Treasury yield touched 5.31%, its highest since 2007, pressuring stocks broadly.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-oil-treasurys-094421171.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~5h ago",
+      "empty": false,
+      "headline": "Vessel struck by projectile in Strait of Hormuz as Iran ceasefire deadline lapses",
+      "body": "A vessel transiting Omani waters in the Strait of Hormuz was hit by an unknown projectile early Tuesday, damaging its engine room and causing a crew casualty, UKMTO said; the strike came a day after the US-Iran ceasefire's 60-day deadline expired without a deal, deepening fears of renewed conflict along a waterway critical to global and US-linked oil flows.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/vessel-hit-by-unknown-projectile-in-strait-of-hormuz-ukmto-says"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "Taiwan tracks five PLA aircraft sorties, eight warships in latest 24-hour window",
+      "body": "Taiwan's Ministry of National Defense said it detected five PLA aircraft sorties, eight PLA Navy vessels and seven China Coast Guard and other official ships around the island in the 24 hours to 6 a.m. Tuesday, with three of the five aircraft crossing into the northern and eastern portions of its air defense identification zone.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-five-pla-aircraft-sorties-eight-plan-vessels-around-its-territory20260818065821/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "USS George Washington heads to Gulf to relieve embattled USS Lincoln",
+      "body": "The carrier USS George Washington is steaming toward the Middle East to relieve the USS Abraham Lincoln, whose roughly 5,000 sailors have logged a record 240-plus consecutive days at sea amid reported mental-health strain and supply shortages; the Pentagon calls the swap a pre-planned rotation, and a Navy official confirmed a Lincoln sailor went overboard in early August before being recovered and treated.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5933068/uss-washington-to-relieve-uss-lincoln-after-concerns-about-the-crews-mental-health"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon awards NODA AI $100M to scale autonomous mission-command software",
+      "body": "The Department of War is giving Austin-based NODA AI a $100 million contract to expand its MAESTRO orchestration software across the Joint Force; the software lets drones and other unmanned systems keep executing a commander's intent under enemy jamming, building on integration work already underway with the LUCAS attack-drone program used by CENTCOM's Task Force Scorpion Strike.",
+      "source": "Defence Blog",
+      "url": "https://defence-blog.com/pentagon-awards-noda-ai-100m-for-autonomy-software/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Nvidia to guarantee up to $105B in financing for a new OpenAI data center in Ohio",
+      "body": "A securities filing disclosed Monday that Nvidia will provide up to $105 billion in credit support for land, power and construction at a new SB Energy-built data center for OpenAI in Pike County, Ohio, backing an initial 4.25 gigawatts of computing capacity with room to grow to 8 gigawatts as it comes online in phases starting 2028; Nvidia is also investing $1.5 billion directly in SB Energy, a SoftBank subsidiary.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Bears RB Kyle Monangai expected to miss multiple weeks with hyperextended knee",
+      "body": "Monangai hyperextended his knee after getting tangled up with defensive tackle Grady Jarrett during Sunday's practice; an MRI ruled out surgery and the outcome was described as positive, but coach Ben Johnson's backfield rotation will be shorthanded for several weeks. Separately, left tackle Ozzy Trapilo was activated off the physically-unable-to-perform list Sunday, seven months after rupturing his patellar tendon, adding a new name to the Bears' left tackle competition.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49643703/bears-rb-kyle-monangai-knee-expected-miss-multiple-weeks-source-says"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Saturday's Cook Out 400 at Richmond remains inside the 7-day spoiler window and was already covered in prior briefs; no new roster, injury, schedule or sponsorship news broke within the 72-hour window. Byron's next Cup start is the Dollar Tree 301 at New Hampshire Motor Speedway on Aug. 23.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
