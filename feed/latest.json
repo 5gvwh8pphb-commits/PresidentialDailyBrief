@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T15:32:38+00:00",
+ "generated": "2026-08-19T16:18:24+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -14,9 +14,10 @@
   "Defense News",
   "Fox News",
   "Motorsport.com",
+  "NASCAR.com",
+  "NWI Times",
   "On3",
   "TechCrunch",
-  "The Tennessean",
   "The War Zone",
   "USNI News",
   "VentureBeat AI",
@@ -24,125 +25,26 @@
  ],
  "items": [
   {
-   "title": "US, South Korea to cut length, scope of military drills after Trump order",
-   "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PF3FSR5DQBDSLFLRTFX6RQ7HRE.JPG",
-   "age": "8m ago",
-   "published": "2026-08-19T15:23:40+00:00"
+   "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
+   "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San …",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
+   "age": "2m ago",
+   "published": "2026-08-19T16:16:18+00:00"
   },
   {
-   "title": "Cuba’s economic freefall is hiding a national security threat just miles from Florida: report",
-   "url": "https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report",
+   "title": "US ally on Putin’s doorstep braces for war as Russia tensions take ominous turn",
+   "url": "https://www.foxnews.com/politics/us-ally-putins-doorstep-braces-war-russia-tensions-take-ominous-turn",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A new report says Cuba s ties with Russia, China, and Iran create intelligence and military threats just 90 miles from the Florida coastline.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/cuba-city.jpg?ve=1&tl=1",
+   "summary": "Russia s embassy in Britain threatened consequences over reported British drone use in Ukraine as Moscow escalates rhetoric against NATO allies.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/01/931/523/GettyImages-1243956531.jpg?ve=1&tl=1",
    "age": "9m ago",
-   "published": "2026-08-19T15:23:14+00:00"
-  },
-  {
-   "title": "Jill Biden hails Hunter having his 'time to shine' as media tour raises questions about political ambitions",
-   "url": "https://www.foxnews.com/media/jill-biden-hails-hunter-having-his-time-shine-media-tour-raises-questions-about-political-ambitions",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jill Biden said it s Hunter Biden s time to shine as his podcast interviews and media presence explode, praising his honesty about addiction.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/JILL-BIDEN-HUNTER-BIDEN.jpg?ve=1&tl=1",
-   "age": "18m ago",
-   "published": "2026-08-19T15:14:28+00:00"
-  },
-  {
-   "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
-   "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108327582-1782495054692-gettyimages-2282927458-ROAD_TO_MAJORITY.jpeg?v=1782495354&amp;w=1920&amp;h=1080",
-   "age": "20m ago",
-   "published": "2026-08-19T15:12:28+00:00"
-  },
-  {
-   "title": "Marvell pops 6% on AI chip deal that lets Google buy up to $12.2 billion in shares",
-   "url": "https://www.cnbc.com/2026/08/19/marvell-google-ai-chips.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Google and its competitors have been pursuing custom chips to improve efficiency and reduce reliance on Nvidia.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108315159-1780405505446-gettyimages-2279396849-042a7130_34vfkowy.jpeg?v=1780405543&amp;w=1920&amp;h=1080",
-   "age": "22m ago",
-   "published": "2026-08-19T15:09:51+00:00"
-  },
-  {
-   "title": "Will Patrick Mahomes and the Chiefs' offense rebound from a three-year drought? Five keys to a turnaround",
-   "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-chiefs-offense-rebound/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/54e41dcb-bd34-43c5-8045-15b7deccaced/mahomes-jpeg.jpg",
-   "age": "24m ago",
-   "published": "2026-08-19T15:08:33+00:00"
-  },
-  {
-   "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-   "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The investment comes amid Navi plans to go public.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-634332718.jpg?resize=1200,781",
-   "age": "30m ago",
-   "published": "2026-08-19T15:01:41+00:00"
-  },
-  {
-   "title": "Fauci scandal grows as top House committee accuses Biden Cabinet official of hiding COVID diary",
-   "url": "https://www.foxnews.com/politics/fauci-scandal-grows-top-house-committee-accuses-california-governor-hopeful-hiding-covid-diary",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "James Comer demands answers from Xavier Becerra on why Anthony Fauci s COVID-19 diary and cellphone were not turned over to Congress in 2023.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/anthony-fauci-senate-hearing-fifth-amendment.jpg?ve=1&tl=1",
-   "age": "31m ago",
-   "published": "2026-08-19T15:00:59+00:00"
-  },
-  {
-   "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-   "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
-   "age": "32m ago",
-   "published": "2026-08-19T15:00:00+00:00"
-  },
-  {
-   "title": "Amazon’s Prime Air is taking off in nearly 500 U.S. cities",
-   "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/amazon-prime-air-2026.jpg?w=1200",
-   "age": "34m ago",
-   "published": "2026-08-19T14:57:58+00:00"
-  },
-  {
-   "title": "Sailor Charged with Murder in Death of Carrier John F. Kennedy Boatswain’s Mate",
-   "url": "https://news.usni.org/2026/08/19/sailor-charged-with-murder-in-death-of-carrier-john-f-kennedy-boatswains-mate",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sailor aboard aircraft carrier John F. Kennedy (CVN-79). Aviation Boatswai…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
-   "age": "53m ago",
-   "published": "2026-08-19T14:38:49+00:00"
+   "published": "2026-08-19T16:09:07+00:00"
   },
   {
    "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
@@ -152,19 +54,140 @@
    "topic": "markets",
    "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
    "image": "https://image.cnbcfm.com/api/v1/image/108351054-1787071953626-gettyimages-2268085899-ldn-l-dodgers-uniqlo-0326-kb33.jpeg?v=1787072097&amp;w=1920&amp;h=1080",
-   "age": "59m ago",
-   "published": "2026-08-19T14:33:10+00:00"
+   "age": "9m ago",
+   "published": "2026-08-19T16:08:58+00:00"
   },
   {
-   "title": "Alvin Kamara injury: Saints star expected to miss at least a month with MCL sprain, per report",
-   "url": "https://www.cbssports.com/nfl/news/alvin-kamara-injury-saints-mcl-sprain-running-back-options/",
+   "title": "Hedge funds are about to jump into prediction markets in a big way",
+   "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108351642-1787154678609-gettyimages-2212289151-TFSPI_01052025-7026.jpeg?v=1787154701&amp;w=1920&amp;h=1080",
+   "age": "14m ago",
+   "published": "2026-08-19T16:04:12+00:00"
+  },
+  {
+   "title": "Kai Trump reveals how family rallied around mom Vanessa amid breast cancer battle: ‘It’s a long journey’",
+   "url": "https://www.foxnews.com/lifestyle/kai-trump-reveals-how-family-rallied-around-mom-vanessa-amid-breast-cancer-battle-its-long-journey",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kai Trump opens up about how her family rallied around mom Vanessa during breast cancer treatment and the new initiative that grew from her diagnosis.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kai-trump-vanessa-trump.jpg?ve=1&tl=1",
+   "age": "17m ago",
+   "published": "2026-08-19T16:00:31+00:00"
+  },
+  {
+   "title": "For college football fans, \"no fall weddings\" isn't a bit or a gimmick, it's a lifestyle",
+   "url": "https://www.foxnews.com/outkick-sports/college-football-fans-no-fall-weddings-isnt-bit-gimmick-lifestyle",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "College football fans face the eternal fall wedding dilemma as Saturday football clashes with wedding season responsibilities and viewing pleasure.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/akron-zips-fans-college-football.jpg?ve=1&tl=1",
+   "age": "20m ago",
+   "published": "2026-08-19T15:58:02+00:00"
+  },
+  {
+   "title": "Tyler Biadasz injury: Chargers center out indefinitely with knee injury in massive blow to oft-injured line",
+   "url": "https://www.cbssports.com/nfl/news/tyler-biadasz-injury-chargers-center-carted-off-with-left-leg-injury/",
    "source": "CBS Sports NFL",
    "group": "CBS Sports NFL",
    "topic": "bears",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/a11923f1-90e0-427a-9086-285d79e10888/alvin-kamara.jpg",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/18/967a2864-1b13-4539-a5e3-1573225ceac4/tyler-biadasz-chargers.jpg",
+   "age": "23m ago",
+   "published": "2026-08-19T15:55:02+00:00"
+  },
+  {
+   "title": "NFL preseason injuries tracker: Updates on Breece Hall, Jeremiyah Love, Alvin Kamara",
+   "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injury-tracker/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/17/6aebbea8-304a-44e7-bdc7-cee0ddb8839c/bre.jpg",
+   "age": "27m ago",
+   "published": "2026-08-19T15:50:46+00:00"
+  },
+  {
+   "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+   "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675",
+   "age": "33m ago",
+   "published": "2026-08-19T15:44:53+00:00"
+  },
+  {
+   "title": "Rivian spinout Also raises another $150 million",
+   "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/Also-quad-cargo-commercial.jpg?resize=1200,900",
+   "age": "38m ago",
+   "published": "2026-08-19T15:39:47+00:00"
+  },
+  {
+   "title": "Why Congress will be in a hurry after August recess",
+   "url": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Can both chambers reach an agreement to fund the government before the start of the new fiscal year?",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/CRU29pb-1024x576.png",
+   "age": "40m ago",
+   "published": "2026-08-19T15:37:25+00:00"
+  },
+  {
+   "title": "US, South Korea to cut length, scope of military drills after Trump order",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PF3FSR5DQBDSLFLRTFX6RQ7HRE.JPG",
+   "age": "54m ago",
+   "published": "2026-08-19T15:23:40+00:00"
+  },
+  {
+   "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+   "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108327582-1782495054692-gettyimages-2282927458-ROAD_TO_MAJORITY.jpeg?v=1782495354&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-08-19T14:29:59+00:00"
+   "published": "2026-08-19T15:12:28+00:00"
+  },
+  {
+   "title": "Will Patrick Mahomes and the Chiefs' offense rebound from a three-year drought? Five keys to a turnaround",
+   "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-chiefs-offense-rebound/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/54e41dcb-bd34-43c5-8045-15b7deccaced/mahomes-jpeg.jpg",
+   "age": "1h ago",
+   "published": "2026-08-19T15:08:33+00:00"
+  },
+  {
+   "title": "Sailor Charged with Murder in Death of Carrier John F. Kennedy Boatswain’s Mate",
+   "url": "https://news.usni.org/2026/08/19/sailor-charged-with-murder-in-death-of-carrier-john-f-kennedy-boatswains-mate",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sail…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
+   "age": "1h ago",
+   "published": "2026-08-19T14:38:49+00:00"
   },
   {
    "title": "US-South Korea military drills cut in half after Trump’s broadside",
@@ -185,19 +208,19 @@
    "topic": "ai",
    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of Vent…",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
-   "title": "2026 NFL interceptions thrown leader odds, trends: Sportsbook most exposed on Titans quarterback Cam Ward",
-   "url": "https://www.cbssports.com/betting/news/2026-nfl-interceptions-thrown-leader-odds-trends-sportsbook-most-exposed-on-titans-quarterback-cam-ward/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
+   "title": "Analysis: Hendrick rekindles youth movement by signing Zilisch for 2028",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk41TW11MmIxaU5qMllxdEtIRHotN3RZZVBJS0Q3a3J3TGdyTkVGSUhiYVBYa29lNXI5aHR1RG5pR1ZqMXZSNG9YS0JSTkZOM2JFUWpNem9pQ2dtc1dQLTItOXJKQ0ExUUlzY3RsR1laQXZSZUdhU1BmQ3JDY25DVTRTU1d4SHB6bU1PLXZQT0RBcWdmU3JOdnBhS3FFZEI0ODdYMElzZlFSMVlSaU5GTFNPaXRGS3gzU2VUcG5EWnhQc3JMT1dn0gHMAUFVX3lxTE9CMnhtblJURTVIU0M4ZEFkMXlfXy1BNUxmdXdYMkJnWHl1MVFpR3NQMFJOZnExODhGemowSFV5eE5qODVZT0tCejZkb05CaG5UMzVORWZ4V011bHhrbFBRUHZYeTdYX05OaFVnRzVfaEtyYWlFX0FZTTdGUExvejdFbW5weE9BbjZEYWlQdDk5U1puN0ZqVXEwNklJVXVENkZycEd0XzFOQlZXcDl0LTJ5eWYydHBwM01MQTB1NGgzVWt1ZW1hMExyZElUaA?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/94d5a827-5e58-490d-8132-003b94afc1db/2026-08-18t084757z-102916217-mt1usatoday29608734-rtrmadp-3-nfl-tennessee-titans-at-san-francisco-49ers-jpg.jpg",
-   "age": "1h ago",
-   "published": "2026-08-19T13:51:20+00:00"
+   "image": null,
+   "age": "2h ago",
+   "published": "2026-08-19T13:56:11+00:00"
   },
   {
    "title": "How to watch, listen to, stream Bears-Bengals Preseason Week 2 game",
@@ -207,7 +230,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yocev2jlr6u7hhn1clfh.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T13:11:00+00:00"
   },
   {
@@ -240,7 +263,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-19T11:00:18+00:00"
   },
   {
@@ -251,7 +274,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/09/gettyimages-2229989399.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-19T10:00:00+00:00"
   },
   {
@@ -262,7 +285,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY294917402091637986.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-19T01:46:21+00:00"
   },
   {
@@ -273,7 +296,7 @@
    "topic": "defense",
    "summary": "The Army wants a new wheeled self-propelled 155mm howitzer to replace its towed M777s, offering a boost in range and mobility. The post South Korea s Highly Mobile 155mm…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/army-picks-k9mh-155mm-howitzer-for-prototyping-effort.jpg?quality=85",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-19T01:12:38+00:00"
   },
   {
@@ -284,7 +307,7 @@
    "topic": "defense",
    "summary": "Ukraine is counting on the Equalizer to provide an affordable air-launched standoff weapon that doesn't rely on foreign donors. The post New Details Emerge About Ukraine…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Ukrasine-glide-bomb.jpg?quality=85",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-18T23:00:18+00:00"
   },
   {
@@ -295,7 +318,7 @@
    "topic": "ai",
    "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-1152x648.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-18T22:32:46+00:00"
   },
   {
@@ -317,7 +340,7 @@
    "topic": "ai",
    "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.13.55-PM-1152x648.png",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-18T22:18:13+00:00"
   },
   {
@@ -328,7 +351,7 @@
    "topic": "defense",
    "summary": "TAOYUAN, TAIWAN Crews trained their 30mm cannons, machine guns and anti-tank missile launchers west toward Taiwan Taoyuan International Airport, the focal point of a def…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/DSC02058-scaled.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-18T21:47:24+00:00"
   },
   {
@@ -350,7 +373,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/18151548/2026-08-01T024940Z_351707217_MT1USATODAY29491817_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-18T21:14:57+00:00"
   },
   {
@@ -361,7 +384,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/vnoxjryjqdkpnprpus9q.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-18T20:57:35+00:00"
   },
   {
@@ -376,28 +399,6 @@
    "published": "2026-08-18T19:19:49+00:00"
   },
   {
-   "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
-   "url": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"A team of SpaceX engineers is on their way to conduct additional analysis on the vehicle.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ship40_2-1152x648-1787078981.jpg",
-   "age": "20h ago",
-   "published": "2026-08-18T19:01:09+00:00"
-  },
-  {
-   "title": "Army leaders drafting ‘guiding document’ to ask industry for new intelligence tools",
-   "url": "https://breakingdefense.com/2026/08/army-leaders-drafting-guiding-document-to-ask-industry-for-new-intelligence-tools/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The so-called characteristics of need (CoN) approach follows a similar pattern in communications and electromagnetic spectrum capabilities.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9655801-scaled-e1787078220840-1024x577.jpg",
-   "age": "20h ago",
-   "published": "2026-08-18T18:36:00+00:00"
-  },
-  {
    "title": "DARPA came close to finding a drone that can lift four times its own weight",
    "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
    "source": "Defense News",
@@ -405,7 +406,7 @@
    "topic": "defense",
    "summary": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BFGNVLQDFVDZTNDXMT6WCFFDA4.webp",
-   "age": "22h ago",
+   "age": "23h ago",
    "published": "2026-08-18T16:41:58+00:00"
   },
   {
@@ -416,7 +417,7 @@
    "topic": "defense",
    "summary": "Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UGDAMLLEKNESBFEXLGBVR3LVRU.JPG",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-18T16:01:40+00:00"
   },
   {
@@ -427,19 +428,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yrksswm5utwvouoqphmy.jpg",
-   "age": "23h ago",
-   "published": "2026-08-18T15:48:12+00:00"
-  },
-  {
-   "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGpaS25JQTEtWWt3UHI4aEdOTlktSXZ6UWFiT0E4N1VMZF9XN05tT0FTemw0Vm9xU0l3UG5iZ21XTGpUcFVKMG5zRWJNVlhyRm1PNFRsSzYtckZTN2VTQ1FJRVpxYW1Ecm1xWnRFcmhCVHFRLTh1bHQ1OFI2SmpWQ3Q3aTROLWVYcjd6R203dW5EaExaNmFGeUZac2QySWtCb2RTbzhTOEZjSlA4X05OdkVrQnZXTzNIRWplQkU1ZVNZOE94SXFiSg?oc=5",
-   "source": "The Tennessean",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
    "age": "1d ago",
-   "published": "2026-08-17T19:31:00+00:00"
+   "published": "2026-08-18T15:48:12+00:00"
   },
   {
    "title": "Monster in the making: Everyone can feel what Ben Johnson is building for the Bears",
@@ -453,15 +443,26 @@
    "published": "2026-08-17T10:00:00+00:00"
   },
   {
-   "title": "The five key developments from the Bears’ first preseason game",
-   "url": "https://allchgo.com/bears/five-key-developments-from-bears-first-preseason-game/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/15194506/2026-08-15T210700Z_506580956_MT1USATODAY29592650_RTRMADP_3_NFL-CLEVELAND-BROWNS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
    "age": "3d ago",
-   "published": "2026-08-16T00:46:37+00:00"
+   "published": "2026-08-16T12:15:00+00:00"
+  },
+  {
+   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
+   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "3d ago",
+   "published": "2026-08-16T11:00:00+00:00"
   }
  ]
 }
