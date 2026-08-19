@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T14:03:35+00:00",
+ "generated": "2026-08-19T14:59:38+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -15,13 +15,146 @@
   "Fox News",
   "Motorsport.com",
   "On3",
-  "Racing News",
   "TechCrunch",
+  "The Tennessean",
   "The War Zone",
   "USNI News",
+  "VentureBeat AI",
   "Windy City Gridiron"
  ],
  "items": [
+  {
+   "title": "Amazon’s Prime Air is taking off in nearly 500 U.S. cities",
+   "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/amazon-prime-air-2026.jpg?w=1200",
+   "age": "1m ago",
+   "published": "2026-08-19T14:57:58+00:00"
+  },
+  {
+   "title": "Bill de Blasio backs Democrats' socialist wing, says Americans are 'hungry' for far-left vision",
+   "url": "https://www.foxnews.com/media/bill-de-blasio-backs-democrats-socialist-wing-says-americans-hungry-far-left-vision",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Former New York City mayor says Americans are hungry for the socialist vision offered by Alexandria Ocasio-Cortez, Zohran Mamdani and Bernie Sanders.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/bill-de-blasio-speaking-at-podium.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-08-19T14:49:29+00:00"
+  },
+  {
+   "title": "Sailor Charged with Murder in Death of Carrier John F. Kennedy Boatswain’s Mate",
+   "url": "https://news.usni.org/2026/08/19/sailor-charged-with-murder-in-death-of-carrier-john-f-kennedy-boatswains-mate",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sailor aboard aircraft carrier John F. Kennedy (CVN-79). Aviation Boatswai…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
+   "age": "20m ago",
+   "published": "2026-08-19T14:38:49+00:00"
+  },
+  {
+   "title": "Carvana shares are under pressure this week as Mark Walter probe fuels investor jitters",
+   "url": "https://www.cnbc.com/2026/08/19/carvana-shares-on-pace-for-10percent-weekly-loss-as-mark-walter-probe-fuels-investor-jitters.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The scrutiny raised questions about what could happen to Walter's Carvana position if fallout from the investigation pressures him to raise cash.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108351054-1787071953626-gettyimages-2268085899-ldn-l-dodgers-uniqlo-0326-kb33.jpeg?v=1787072097&amp;w=1920&amp;h=1080",
+   "age": "26m ago",
+   "published": "2026-08-19T14:33:10+00:00"
+  },
+  {
+   "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market",
+   "url": "https://www.cnbc.com/2026/08/19/treasury-announces-upscaled-buyback-operation-for-longer-term-debt-sending-yields-lower.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The announcement targets the sensitive longer-duration part of the Treasury market.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108327582-1782495054692-gettyimages-2282927458-ROAD_TO_MAJORITY.jpeg?v=1782495354&amp;w=1920&amp;h=1080",
+   "age": "29m ago",
+   "published": "2026-08-19T14:30:33+00:00"
+  },
+  {
+   "title": "Alvin Kamara injury: Saints star expected to miss at least a month with MCL sprain, per report",
+   "url": "https://www.cbssports.com/nfl/news/alvin-kamara-injury-saints-mcl-sprain-running-back-options/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/a11923f1-90e0-427a-9086-285d79e10888/alvin-kamara.jpg",
+   "age": "29m ago",
+   "published": "2026-08-19T14:29:59+00:00"
+  },
+  {
+   "title": "US-South Korea military drills cut in half after Trump’s broadside",
+   "url": "https://breakingdefense.com/2026/08/us-south-korea-military-drills-cut-in-half-after-trumps-broadside/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "President Donald Trump s call to drastically shorten the exercise out of deference to North Korea s leader reportedly took Seoul by surprise.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260819_DVIDS_us_korea_exercise_9850536-scaled-e1787148444231-1024x577.jpg",
+   "age": "33m ago",
+   "published": "2026-08-19T14:25:43+00:00"
+  },
+  {
+   "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region",
+   "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia is trying to connect GPU customers with Nordic data-center operators as cheap power and available land fuel the region’s AI infrastructure boom.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&amp;w=1920&amp;h=1080",
+   "age": "34m ago",
+   "published": "2026-08-19T14:25:12+00:00"
+  },
+  {
+   "title": "Publix ditches longtime checkout lane rule in major change for shoppers",
+   "url": "https://www.foxnews.com/food-drink/publix-ditches-longtime-checkout-lane-rule-major-change-shoppers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Signs reading 10 items or less are being replaced at Publix express lanes as the grocery store chain shifts focus to reducing overall wait times.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/publix-shoppers-at-checkout-lanes.jpg?ve=1&tl=1",
+   "age": "37m ago",
+   "published": "2026-08-19T14:22:33+00:00"
+  },
+  {
+   "title": "Lindsay Clancy described a male voice ordering her to ‘kill her children and kill herself’: testimony",
+   "url": "https://www.foxnews.com/us/lindsay-clancy-described-male-voice-ordering-kill-children-kill-herself-testimony",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A forensic psychologist testified that Lindsay Clancy reported hearing a male voice commanding her to kill her children before the Duxbury murders.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Clancy-Split.jpg?ve=1&tl=1",
+   "age": "38m ago",
+   "published": "2026-08-19T14:20:57+00:00"
+  },
+  {
+   "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+   "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+   "source": "VentureBeat AI",
+   "group": "VentureBeat AI",
+   "topic": "ai",
+   "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of Vent…",
+   "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
+   "age": "41m ago",
+   "published": "2026-08-19T14:18:12+00:00"
+  },
+  {
+   "title": "Calendly throws its hat into meeting note-taker circus",
+   "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675",
+   "age": "49m ago",
+   "published": "2026-08-19T14:09:39+00:00"
+  },
   {
    "title": "The founder’s secret weapon: Work at TechCrunch Disrupt 2026 and learn how the pros do it",
    "url": "https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/",
@@ -30,19 +163,8 @@
    "topic": "ai",
    "summary": "Volunteer at TechCrunch Disrupt 2026 and get an insider's view of how world-class tech events get built and more.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/TC-Disrupt-2025.jpg?resize=1200,800",
-   "age": "1m ago",
+   "age": "57m ago",
    "published": "2026-08-19T14:02:00+00:00"
-  },
-  {
-   "title": "Lindsey Graham’s sister admits she’s ‘not that informed on national security’ while seeking full Senate term",
-   "url": "https://www.foxnews.com/politics/lindsey-grahams-sister-admits-shes-not-informed-national-security-while-seeking-full-senate-term",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Darline Graham admitted national security is not my thing at a South Carolina GOP Senate runoff debate when asked about Taiwan and the South China Sea.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/sc-sen-darline-graham-nordone.jpg?ve=1&tl=1",
-   "age": "9m ago",
-   "published": "2026-08-19T13:54:34+00:00"
   },
   {
    "title": "2026 NFL interceptions thrown leader odds, trends: Sportsbook most exposed on Titans quarterback Cam Ward",
@@ -52,41 +174,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/19/94d5a827-5e58-490d-8132-003b94afc1db/2026-08-18t084757z-102916217-mt1usatoday29608734-rtrmadp-3-nfl-tennessee-titans-at-san-francisco-49ers-jpg.jpg",
-   "age": "12m ago",
+   "age": "1h ago",
    "published": "2026-08-19T13:51:20+00:00"
-  },
-  {
-   "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
-   "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108000894-1771434677666-108000894-1719932078582-gettyimages-2151784856-MODERNA_RSV_VACCINE.jpg?v=1771437699&amp;w=1920&amp;h=1080",
-   "age": "14m ago",
-   "published": "2026-08-19T13:48:47+00:00"
-  },
-  {
-   "title": "5 takeaways from Florida Senate primary: GOP Sen Ashley Moody will face DSA's Nixon",
-   "url": "https://www.foxnews.com/politics/5-takeaways-florida-senate-primary-gop-sen-ashley-moody-face-dsa-nixon",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Angie Nixon s stunning upset over Alexander Vindman in Florida s Senate primary sparked a Trump celebration and exposed Democrats fundraising crisis.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/moody-nixon.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-19T13:48:31+00:00"
-  },
-  {
-   "title": "Target says its turnaround is picking up steam, with help from a big tariff refund",
-   "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107257036-1686776221580-gettyimages-1442010925-dsc03005_428ebfd8-671f-406f-a7e2-cc35d0c4cddb.jpeg?v=1686776266&amp;w=1920&amp;h=1080",
-   "age": "19m ago",
-   "published": "2026-08-19T13:43:39+00:00"
   },
   {
    "title": "Who will be the NFL's final undefeated team in 2026? Predicting who will flirt with perfection the longest",
@@ -96,74 +185,30 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2025/04/25/4017908a-c390-488b-9aa1-33b9f2a2e407/nfl-logo-g.jpg",
-   "age": "21m ago",
+   "age": "1h ago",
    "published": "2026-08-19T13:42:04+00:00"
   },
   {
-   "title": "Home batteries are suddenly cheap and everywhere. Here’s why.",
-   "url": "https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Companies including Tesla and Base Power are vying for a piece of the rapidly growing market for home batteries. One technology has made it all possible.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/68acb5c1066ca5f4d74bb99b_battery-p-3200.jpeg?resize=1200,901",
-   "age": "23m ago",
-   "published": "2026-08-19T13:40:00+00:00"
-  },
-  {
-   "title": "NFL preseason injuries tracker: Updates on Breece Hall, Jeremiyah Love, Alvin Kamara",
-   "url": "https://www.cbssports.com/nfl/news/nfl-training-camp-injury-tracker/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
+   "title": "How to watch, listen to, stream Bears-Bengals Preseason Week 2 game",
+   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-cincinnati-bengals-2026-week-2-preseason-listen-stream-tv-radio-football-online-nfl",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
    "topic": "bears",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/17/6aebbea8-304a-44e7-bdc7-cee0ddb8839c/bre.jpg",
-   "age": "23m ago",
-   "published": "2026-08-19T13:39:50+00:00"
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yocev2jlr6u7hhn1clfh.jpg",
+   "age": "1h ago",
+   "published": "2026-08-19T13:11:00+00:00"
   },
   {
-   "title": "Hedge funds are about to jump into prediction markets in a big way",
-   "url": "https://www.cnbc.com/2026/08/19/hedge-funds-are-about-to-jump-in-big-to-prediction-markets.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Cantor Fitzgerald will be one of the first investment firms providing its clients institutional trading on prediction market platform Kalshi.",
-   "image": "https://image.cnbcfm.com/api/v1/image/44487810-cantor_fitzgerald_sign_200.jpg?v=1349480140&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
-   "published": "2026-08-19T13:38:44+00:00"
-  },
-  {
-   "title": "Massive piece of 9/11 history makes stunning 10,500-mile journey across America",
-   "url": "https://www.foxnews.com/politics/massive-piece-9-11-history-embarks-stunning-10500-mile-journey-across-america",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A 16,000-pound steel beam from the South Tower is traveling 10,500 miles across America, stopping at museums, the White House and Ground Zero.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/89d37418-steel-across-america-2.jpg?ve=1&tl=1",
-   "age": "40m ago",
-   "published": "2026-08-19T13:23:23+00:00"
-  },
-  {
-   "title": "CareCloud confirms 3.7M patients had their medical records stolen in data breach",
-   "url": "https://techcrunch.com/2026/08/19/carecloud-confirms-3-7m-patients-had-their-medical-records-stolen-in-data-breach/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The cyberattack at CareCloud resulted in one of the largest reported data breaches in the U.S. healthcare industry this year.",
-   "image": "https://techcrunch.com/wp-content/uploads/2019/07/hacking-surveillance1.png?resize=1200,674",
-   "age": "59m ago",
-   "published": "2026-08-19T13:04:10+00:00"
-  },
-  {
-   "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-   "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "It's the data, stupid.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
+   "title": "The Mac Read Show: Who are your 5 Most Important Bears?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/120872/the-mac-read-show-who-are-your-5-most-important-bears",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29472426464555149.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "age": "2h ago",
-   "published": "2026-08-19T12:00:00+00:00"
+   "published": "2026-08-19T12:30:00+00:00"
   },
   {
    "title": "Report to Congress on Russian Hybrid Warfare in Europe",
@@ -173,7 +218,7 @@
    "topic": "defense",
    "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Foll…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-7.22.51-AM.png",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T11:24:21+00:00"
   },
   {
@@ -206,7 +251,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY294917402091637986.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-19T01:46:21+00:00"
   },
   {
@@ -217,7 +262,7 @@
    "topic": "defense",
    "summary": "The Army wants a new wheeled self-propelled 155mm howitzer to replace its towed M777s, offering a boost in range and mobility. The post South Korea s Highly Mobile 155mm…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/army-picks-k9mh-155mm-howitzer-for-prototyping-effort.jpg?quality=85",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-19T01:12:38+00:00"
   },
   {
@@ -239,7 +284,7 @@
    "topic": "ai",
    "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-1152x648.jpg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-18T22:32:46+00:00"
   },
   {
@@ -250,7 +295,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-18T22:30:06+00:00"
   },
   {
@@ -261,7 +306,7 @@
    "topic": "ai",
    "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.13.55-PM-1152x648.png",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-18T22:18:13+00:00"
   },
   {
@@ -272,7 +317,7 @@
    "topic": "defense",
    "summary": "TAOYUAN, TAIWAN Crews trained their 30mm cannons, machine guns and anti-tank missile launchers west toward Taiwan Taoyuan International Airport, the focal point of a def…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/DSC02058-scaled.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-18T21:47:24+00:00"
   },
   {
@@ -283,7 +328,7 @@
    "topic": "defense",
    "summary": "Today’s decision comes after decades of fits and starts to find a new mobile howitzer, including the ill-fated Crusader, Non-Line-of-Sight Cannon and Extended Range Cann…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/K9-on-the-move-2-e1787088335140-1024x576.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-18T21:28:37+00:00"
   },
   {
@@ -294,19 +339,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/18151548/2026-08-01T024940Z_351707217_MT1USATODAY29491817_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-18T21:14:57+00:00"
-  },
-  {
-   "title": "E-2D Advanced Hawkeye Block II Passes Critical Design Review as Navy Plans to Expand Fleet",
-   "url": "https://news.usni.org/2026/08/18/e-2d-advanced-hawkeye-block-ii-passes-critical-design-review-as-navy-plans-to-expand-fleet",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Navy has signed off on a Northrop Grumman modification to the E-2D Hawkeye that will allow faster upgrades to the airborne command and control aircraft, the service …",
-   "image": "https://news.usni.org/wp-content/uploads/2025/07/9182447-scaled.jpg",
-   "age": "16h ago",
-   "published": "2026-08-18T21:09:20+00:00"
   },
   {
    "title": "Bears training camp report: Tuesday, Aug. 18",
@@ -316,7 +350,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/vnoxjryjqdkpnprpus9q.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-18T20:57:35+00:00"
   },
   {
@@ -327,7 +361,7 @@
    "topic": "defense",
    "summary": "An AH-64 squadron is moving from Ramon to Ramat David as Israel shifts more attack helicopter capacity toward the northern front. The post Israel Moves AH-64 Apaches Clo…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/AH-64A-Peten.jpg?quality=85",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-18T19:19:49+00:00"
   },
   {
@@ -342,17 +376,6 @@
    "published": "2026-08-18T19:01:09+00:00"
   },
   {
-   "title": "Five Bears Takes Following Their Preseason Opener",
-   "url": "https://www.windycitygridiron.com/chicago-bears-depth-chart/120865/five-bears-takes-following-their-preseason-opener-browns-ben-johnson",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290085351.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "19h ago",
-   "published": "2026-08-18T19:00:00+00:00"
-  },
-  {
    "title": "Army leaders drafting ‘guiding document’ to ask industry for new intelligence tools",
    "url": "https://breakingdefense.com/2026/08/army-leaders-drafting-guiding-document-to-ask-industry-for-new-intelligence-tools/",
    "source": "Breaking Defense",
@@ -360,30 +383,8 @@
    "topic": "defense",
    "summary": "The so-called characteristics of need (CoN) approach follows a similar pattern in communications and electromagnetic spectrum capabilities.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9655801-scaled-e1787078220840-1024x577.jpg",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-18T18:36:00+00:00"
-  },
-  {
-   "title": "Larson didn't think he'd make it to the Knoxville Nationals. Hendrick Motorsports had other ideas. - RACER",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWtTaXFUYUhFYWhqSW5hazBmX2JBSjZCazU2NGx0SWs3VUpIX3dNZG5fc0tsNjZpTkNjYUtNUVdaZ0c0Z3RSbDBfaEgwWXVmZ2tBbEZaXzhUWlFHalFTT1lhbkRvODdGTmtCVWxSUGZDMFpGSGxTcS1UcEtXb0ctQXFtUFBJaWRTa1c4eHY2SnVDSGZuYU03TmFUakU4bEJjS0VvQWc3aG9RSVItcGkwMzFILS1aUzdiNEdBaFFBX01PUTY0?oc=5",
-   "source": "Racing News",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "20h ago",
-   "published": "2026-08-18T17:37:00+00:00"
-  },
-  {
-   "title": "DoD expands R&D on clearing expired satellites from orbit",
-   "url": "https://breakingdefense.com/2026/08/dod-expands-rd-on-clearing-expired-satellites-from-orbit/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The stated goal is to clean out obsolete satellites, though the capabilities could also be used in weapons that move a target bird to an orbit where it no longer can per…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Screenshot-2026-08-17-at-6.13.43-PM-1024x560.png",
-   "age": "20h ago",
-   "published": "2026-08-18T17:30:00+00:00"
   },
   {
    "title": "DARPA came close to finding a drone that can lift four times its own weight",
@@ -393,7 +394,7 @@
    "topic": "defense",
    "summary": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BFGNVLQDFVDZTNDXMT6WCFFDA4.webp",
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-18T16:41:58+00:00"
   },
   {
@@ -415,7 +416,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yrksswm5utwvouoqphmy.jpg",
-   "age": "22h ago",
+   "age": "23h ago",
    "published": "2026-08-18T15:48:12+00:00"
   },
   {
@@ -430,15 +431,15 @@
    "published": "2026-08-18T13:06:13+00:00"
   },
   {
-   "title": "Bears training camp diaries with Sam Roush, Neville Gallimore | Week 3",
-   "url": "https://www.chicagobears.com/news/bears-training-camp-diaries-with-sam-roush-neville-gallimore-week-3",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
+   "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGpaS25JQTEtWWt3UHI4aEdOTlktSXZ6UWFiT0E4N1VMZF9XN05tT0FTemw0Vm9xU0l3UG5iZ21XTGpUcFVKMG5zRWJNVlhyRm1PNFRsSzYtckZTN2VTQ1FJRVpxYW1Ecm1xWnRFcmhCVHFRLTh1bHQ1OFI2SmpWQ3Q3aTROLWVYcjd6R203dW5EaExaNmFGeUZac2QySWtCb2RTbzhTOEZjSlA4X05OdkVrQnZXTzNIRWplQkU1ZVNZOE94SXFiSg?oc=5",
+   "source": "The Tennessean",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ueek80zqf7kn8l75bkld.jpg",
+   "image": null,
    "age": "1d ago",
-   "published": "2026-08-18T00:55:00+00:00"
+   "published": "2026-08-17T19:31:00+00:00"
   },
   {
    "title": "Monster in the making: Everyone can feel what Ben Johnson is building for the Bears",
