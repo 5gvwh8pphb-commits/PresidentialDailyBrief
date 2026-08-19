@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T21:16:00+00:00",
+ "generated": "2026-08-19T21:46:54+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -13,16 +13,104 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Motorsport.com",
   "NASCAR.com",
+  "On3",
   "TechCrunch",
   "The War Zone",
   "USNI News",
   "VentureBeat AI",
   "Windy City Gridiron",
-  "on3.com"
+  "motorsport.com"
  ],
  "items": [
+  {
+   "title": "Marines Training Fireteams to Deploy Combat Drones",
+   "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9873070-scaled.jpg",
+   "age": "15m ago",
+   "published": "2026-08-19T21:31:45+00:00"
+  },
+  {
+   "title": "NFL rookies returning to college? Some are looking into it amid NCAA eligibility ruling in Colorado",
+   "url": "https://www.cbssports.com/college-football/news/nfl-rookies-returning-college-football-ncaa-eligibility/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/675dd846-5f61-42fd-8e7f-5c0aeac7f076/ncaa.jpg",
+   "age": "15m ago",
+   "published": "2026-08-19T21:31:09+00:00"
+  },
+  {
+   "title": "Teacher found dead with throat slit as detectives scrutinize husband’s shifting story",
+   "url": "https://www.foxnews.com/us/teacher-found-dead-throat-slit-detectives-scrutinize-husbands-shifting-story",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Patrick Barnett is accused of killing his wife Lindsey Barnett, a Lakewood elementary school art teacher found dead with a neck wound in their shower.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/patrick-ted-barnett-lakewood-colorado-home-mugshot.jpg?ve=1&tl=1",
+   "age": "16m ago",
+   "published": "2026-08-19T21:30:07+00:00"
+  },
+  {
+   "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+   "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108351822-1787169562276-gettyimages-2290596908-AFP_C62U9KH.jpeg?v=1787174566&amp;w=1920&amp;h=1080",
+   "age": "17m ago",
+   "published": "2026-08-19T21:29:38+00:00"
+  },
+  {
+   "title": "Buccaneers rookie, ex-LSU standout Jack Pyburn among 16 suing for possible college football return",
+   "url": "https://www.cbssports.com/college-football/news/jack-pyburn-buccaneers-nfl-rookies-suing-college-football-return/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/0ac34ce1-ce4a-44be-bed8-a7b690359eda/pyburn.png",
+   "age": "20m ago",
+   "published": "2026-08-19T21:26:48+00:00"
+  },
+  {
+   "title": "Pat McAfee has officially surpassed Stephen A Smith as the Face of ESPN",
+   "url": "https://www.foxnews.com/outkick-sports/pat-mcafee-officially-surpassed-stephen-smith-face-espn",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Pat McAfee joins ESPN s Monday Night Football pregame show and is in discussions to renew his deal for around $60 million a year, sources say.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/931/523/pat-mcafee.jpg?ve=1&tl=1",
+   "age": "21m ago",
+   "published": "2026-08-19T21:25:48+00:00"
+  },
+  {
+   "title": "US warns Americans to avoid vacation hot spot amid quake fallout and violent crime",
+   "url": "https://www.foxnews.com/travel/us-warns-americans-avoid-vacation-hot-spot-amid-quake-fallout-violent-crime",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A 7.4-magnitude Colombia earthquake killed at least 289 people as the U.S. State Department maintains a Level 3 travel advisory due to crime, terrorism and kidnapping.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/COLOMBIA-EARTHQUAKE-TRAVEL-WHAT-TO-KNOW-3.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-19T21:24:29+00:00"
+  },
+  {
+   "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
+   "url": "https://breakingdefense.com/2026/08/picking-up-the-pace-ew-battlefield-demands-updated-contingency-planning/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Emissions equals target. Emissions put a bullseye on wherever you are, or wherever that emission is detected, the general who helms I Corps said.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260919_DVIDS_army_radio_9755516-scaled-e1787174284439-1024x577.jpg",
+   "age": "28m ago",
+   "published": "2026-08-19T21:18:54+00:00"
+  },
   {
    "title": "EA-37B Flew Along Kaliningrad Border As Part Of “Specialized” Recon, EW Flight Package",
    "url": "https://www.twz.com/air/ea-37b-flew-along-kaliningrad-border-as-part-of-specialized-recon-ew-flight-package",
@@ -31,19 +119,8 @@
    "topic": "defense",
    "summary": "The USAF's new EA-37B Compass Call electronic warfare jet was part of a larger NATO package that flew along the doorstep of Russia's strategic military outpost. The post…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Compass-Call-Kgrad.jpg?quality=85",
-   "age": "9m ago",
+   "age": "40m ago",
    "published": "2026-08-19T21:06:53+00:00"
-  },
-  {
-   "title": "Are you team yellow or red? DeWalt and Milwaukee deals worth shopping, according to reviewers",
-   "url": "https://www.foxnews.com/deals/dewalt-milwaukee-deals",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Find DeWalt and Milwaukee deals on power tools, hand tools and sets that earn high marks from Amazon reviewers.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/are-you-team-yellow-or-red-dewalt-and-milwaukee-deals-worth-shopping-according-to-reviewers.jpg?ve=1&tl=1",
-   "age": "11m ago",
-   "published": "2026-08-19T21:04:57+00:00"
   },
   {
    "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
@@ -53,41 +130,19 @@
    "topic": "markets",
    "summary": "",
    "image": "https://image.cnbcfm.com/api/v1/image/108351704-1787158849577-gettyimages-2290581034-AFP_C62J6MT.jpeg?v=1787158901&amp;w=1920&amp;h=1080",
-   "age": "14m ago",
+   "age": "45m ago",
    "published": "2026-08-19T21:01:13+00:00"
   },
   {
-   "title": "Colorado black bear dies after becoming trapped inside unlocked car for days: report",
-   "url": "https://www.foxnews.com/us/colorado-black-bear-dies-trapped-inside-unlocked-car-days-report",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A 300-pound black bear died after being trapped inside an unlocked car in Colorado Springs for days, destroying the vehicle s interior trying to escape.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/black-bear-car-colorado.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-08-19T20:55:26+00:00"
-  },
-  {
-   "title": "Disney alum Christy Carlson Romano rips Hollywood for failing child stars after Hayden Panettiere’s death",
-   "url": "https://www.foxnews.com/entertainment/disney-alum-christy-carlson-romano-rips-hollywood-failing-child-stars-hayden-panettiere-death",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Christy Carlson Romano compares early fame to CTE in a new op-ed, calling for stronger protections for child actors after Hayden Panettiere s death.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/christy-carlson-romano-hayden-panettiere.jpg?ve=1&tl=1",
-   "age": "28m ago",
-   "published": "2026-08-19T20:47:54+00:00"
-  },
-  {
-   "title": "Agent's Take: Why early extensions for NFL first-round picks are becoming the new normal",
-   "url": "https://www.cbssports.com/nfl/news/agents-take-nfl-first-round-pick-contract-extension/",
+   "title": "A.J. Brown hasn't spoken to Jalen Hurts, but sends message with dominant showing vs. Eagles in joint practice",
+   "url": "https://www.cbssports.com/nfl/news/aj-brown-jalen-hurts-eagles-patriots-joint-practice/",
    "source": "CBS Sports NFL",
    "group": "CBS Sports NFL",
    "topic": "bears",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/3cf09fbe-90d9-4057-9a16-717e0a10f930/anderson.jpg",
-   "age": "30m ago",
-   "published": "2026-08-19T20:45:11+00:00"
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/60cd035c-fbb4-4ffd-93b6-0a5d2665092e/a-j-brown.jpg",
+   "age": "52m ago",
+   "published": "2026-08-19T20:54:37+00:00"
   },
   {
    "title": "Cancer vaccine from Moderna, Merck shows promise in late-stage trial; both stocks soar",
@@ -97,19 +152,8 @@
    "topic": "markets",
    "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
    "image": "https://image.cnbcfm.com/api/v1/image/108000894-1771434677666-108000894-1719932078582-gettyimages-2151784856-MODERNA_RSV_VACCINE.jpg?v=1771437699&amp;w=1920&amp;h=1080",
-   "age": "41m ago",
+   "age": "1h ago",
    "published": "2026-08-19T20:34:09+00:00"
-  },
-  {
-   "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-   "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108351822-1787169562276-gettyimages-2290596908-AFP_C62U9KH.jpeg?v=1787169664&amp;w=1920&amp;h=1080",
-   "age": "43m ago",
-   "published": "2026-08-19T20:32:48+00:00"
   },
   {
    "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
@@ -119,7 +163,7 @@
    "topic": "ai",
    "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
-   "age": "54m ago",
+   "age": "1h ago",
    "published": "2026-08-19T20:21:59+00:00"
   },
   {
@@ -167,17 +211,6 @@
    "published": "2026-08-19T20:01:02+00:00"
   },
   {
-   "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
-   "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Striveworks s models will be able to compress hours of staff work into seconds, CEO Jim Rebesco told Breaking Defense.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334-1024x577.jpg",
-   "age": "1h ago",
-   "published": "2026-08-19T20:00:00+00:00"
-  },
-  {
    "title": "Bears hold short practice ahead of tomorrow s practice with the Bengals",
    "url": "https://www.windycitygridiron.com/chicago-bears-training-camp/120912/bears-hold-short-practice-ahead-of-tomorrows-practice-with-the-bengals",
    "source": "Windy City Gridiron",
@@ -189,15 +222,15 @@
    "published": "2026-08-19T20:00:00+00:00"
   },
   {
-   "title": "Steelers tab Will Howard for extended look as Aaron Rodgers continues to sit during preseason",
-   "url": "https://www.cbssports.com/nfl/news/steelers-will-howard-start-preseason-week-2-aaron-rodgers-sits/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/3e6d1d88-ac87-47f9-9173-4ff02c26d657/rodgershoward.jpg",
+   "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
+   "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Striveworks s models will be able to compress hours of staff work into seconds, CEO Jim Rebesco told Breaking Defense.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334-1024x577.jpg",
    "age": "1h ago",
-   "published": "2026-08-19T19:47:33+00:00"
+   "published": "2026-08-19T20:00:00+00:00"
   },
   {
    "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
@@ -207,19 +240,8 @@
    "topic": "ai",
    "summary": "FCC decides 1Gbps is too fast, standard must be \"technologically neutral.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/turtle-crossing-1152x648-1787167323.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T19:45:19+00:00"
-  },
-  {
-   "title": "NFL rookies returning to college? Some are looking into it amid NCAA eligibility ruling in Colorado",
-   "url": "https://www.cbssports.com/college-football/news/nfl-rookies-returning-college-football-ncaa-eligibility/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/675dd846-5f61-42fd-8e7f-5c0aeac7f076/ncaa.jpg",
-   "age": "1h ago",
-   "published": "2026-08-19T19:21:17+00:00"
   },
   {
    "title": "New USS John F. Kennedy Brings Back Key Feature From The Nimitz Class",
@@ -246,12 +268,12 @@
   {
    "title": "Connor Zilisch couldn’t say ‘no’ to a Cup ride at Hendrick Motorsports",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVMtUEJZNWJyN3NFbnVBdHR2QjB0cG9NOGlRRDdVS2JVYm5VTTFsQXF4ME1aMERoYTg5clFQVDVKaUQwZDFyNm9EOWNNSHdyVC1Bcy1uZzZVNHlCY21qZGlvdFFLRk5Yb3ZRdmxScTlvSTBCeHZSNXA5V2tOcm56bjQxOHN0dXhMSjBXY1NTQV90REZnNXlibk1vc3BoaV9iUms0TzdxNWZhcTBNeHRuMVlVOW15Q24zbTVZeGZB?oc=5",
-   "source": "Motorsport.com",
+   "source": "motorsport.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T18:37:11+00:00"
   },
   {
@@ -295,19 +317,8 @@
    "topic": "defense",
    "summary": "First images show Blue Spear missile launcher aboard RSS Steadfast, offering a glimpse of Singapore’s evolving naval strike capability. The post Singapore’s Formidable C…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Singapore-anti-ship-missile-frigate.jpg?quality=85",
-   "age": "4h ago",
-   "published": "2026-08-19T16:24:15+00:00"
-  },
-  {
-   "title": "Why Congress will be in a hurry after August recess",
-   "url": "https://breakingdefense.com/2026/08/why-congress-will-be-in-a-hurry-after-august-recess/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Can both chambers reach an agreement to fund the government before the start of the new fiscal year?",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/CRU29pb-1024x576.png",
    "age": "5h ago",
-   "published": "2026-08-19T15:37:25+00:00"
+   "published": "2026-08-19T16:24:15+00:00"
   },
   {
    "title": "US, South Korea to cut length, scope of military drills after Trump order",
@@ -317,7 +328,7 @@
    "topic": "defense",
    "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PF3FSR5DQBDSLFLRTFX6RQ7HRE.JPG",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-19T15:23:40+00:00"
   },
   {
@@ -328,7 +339,7 @@
    "topic": "defense",
    "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sail…",
    "image": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-19T14:38:49+00:00"
   },
   {
@@ -339,7 +350,7 @@
    "topic": "ai",
    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of Vent…",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
@@ -372,7 +383,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29472426464555149.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-19T12:30:00+00:00"
   },
   {
@@ -383,13 +394,13 @@
    "topic": "defense",
    "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Foll…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-7.22.51-AM.png",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-19T11:24:21+00:00"
   },
   {
    "title": "Rick Hendrick sends defiant message amid Hendrick Motorsports struggles: ‘Never going to surrender’",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzdscS1tbW5jZ3dIOHpRUkVIaFNuVXNZYUxpTThzMlNZUzlYOTlHbEk3eHZGNEJLYlUyY2NfYU4ybkFNZVk3Qk5wQTI2Wm9KbzMzd2VZc0w3UGQ4SVdjWnBCWlg5THYzT1dEZWdkQkpleTI2WTM0RDRVQjRFWlk0S1VFdlZpRWswV041QlluTUxibXhkOWVWeVl3cnZ4U1Q5TTRtR3VjUkJheDE5VlhhcXZDMGFubGJ6ZTJrNnJ2bWZoZ3Z0ME9nRA?oc=5",
-   "source": "on3.com",
+   "source": "On3",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -407,17 +418,6 @@
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/09/gettyimages-2229989399.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "age": "11h ago",
    "published": "2026-08-19T10:00:00+00:00"
-  },
-  {
-   "title": "Taiwan’s Tanks",
-   "url": "https://news.usni.org/2026/08/18/taiwans-tanks",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "TAOYUAN, TAIWAN Crews trained their 30mm cannons, machine guns and anti-tank missile launchers west toward Taiwan Taoyuan International Airport, the focal point of a def…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/DSC02058-scaled.jpg",
-   "age": "23h ago",
-   "published": "2026-08-18T21:47:24+00:00"
   },
   {
    "title": "Bears notebook: No end in sight for left tackle competition – or Kyler Gordon’s absences",
