@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-19T21:46:54+00:00",
+ "generated": "2026-08-19T22:13:27+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 38,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -13,16 +13,60 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "Motorsport.com",
   "NASCAR.com",
-  "On3",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
   "VentureBeat AI",
-  "Windy City Gridiron",
-  "motorsport.com"
+  "Windy City Gridiron"
  ],
  "items": [
+  {
+   "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+   "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+   "age": "2m ago",
+   "published": "2026-08-19T22:10:46+00:00"
+  },
+  {
+   "title": "Former congressman Matt Gaetz speaks out on helping Royce White in WNBA Draft pursuit",
+   "url": "https://www.foxnews.com/outkick-sports/former-congressman-matt-gaetz-speaks-royce-white-wnba-draft-pursuit",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Former U.S. Rep. Matt Gaetz is providing legal counsel to Royce White in his formal declaration for the 2027 WNBA Draft under gender eligibility rules.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/matt-gaetz-republican-national-convention.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-08-19T21:58:26+00:00"
+  },
+  {
+   "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+   "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in ente…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+   "age": "22m ago",
+   "published": "2026-08-19T21:51:23+00:00"
+  },
+  {
+   "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+   "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+   "age": "25m ago",
+   "published": "2026-08-19T21:48:24+00:00"
+  },
   {
    "title": "Marines Training Fireteams to Deploy Combat Drones",
    "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
@@ -31,7 +75,7 @@
    "topic": "defense",
    "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9873070-scaled.jpg",
-   "age": "15m ago",
+   "age": "41m ago",
    "published": "2026-08-19T21:31:45+00:00"
   },
   {
@@ -42,18 +86,18 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/19/675dd846-5f61-42fd-8e7f-5c0aeac7f076/ncaa.jpg",
-   "age": "15m ago",
+   "age": "42m ago",
    "published": "2026-08-19T21:31:09+00:00"
   },
   {
-   "title": "Teacher found dead with throat slit as detectives scrutinize husband’s shifting story",
+   "title": "Teacher found dead with throat slit; detectives scrutinize husband’s shifting story",
    "url": "https://www.foxnews.com/us/teacher-found-dead-throat-slit-detectives-scrutinize-husbands-shifting-story",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Patrick Barnett is accused of killing his wife Lindsey Barnett, a Lakewood elementary school art teacher found dead with a neck wound in their shower.",
+   "summary": "Patrick Barnett is accused of killing wife Lindsey Barnett, a Lakewood elementary school art teacher found dead with a neck wound in their shower.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/patrick-ted-barnett-lakewood-colorado-home-mugshot.jpg?ve=1&tl=1",
-   "age": "16m ago",
+   "age": "43m ago",
    "published": "2026-08-19T21:30:07+00:00"
   },
   {
@@ -64,7 +108,7 @@
    "topic": "markets",
    "summary": "As he has done in the past, Trump accused Fed officials of having political motives.",
    "image": "https://image.cnbcfm.com/api/v1/image/108351822-1787169562276-gettyimages-2290596908-AFP_C62U9KH.jpeg?v=1787174566&amp;w=1920&amp;h=1080",
-   "age": "17m ago",
+   "age": "43m ago",
    "published": "2026-08-19T21:29:38+00:00"
   },
   {
@@ -75,7 +119,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/19/0ac34ce1-ce4a-44be-bed8-a7b690359eda/pyburn.png",
-   "age": "20m ago",
+   "age": "46m ago",
    "published": "2026-08-19T21:26:48+00:00"
   },
   {
@@ -86,19 +130,8 @@
    "topic": "world",
    "summary": "Pat McAfee joins ESPN s Monday Night Football pregame show and is in discussions to renew his deal for around $60 million a year, sources say.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/931/523/pat-mcafee.jpg?ve=1&tl=1",
-   "age": "21m ago",
+   "age": "47m ago",
    "published": "2026-08-19T21:25:48+00:00"
-  },
-  {
-   "title": "US warns Americans to avoid vacation hot spot amid quake fallout and violent crime",
-   "url": "https://www.foxnews.com/travel/us-warns-americans-avoid-vacation-hot-spot-amid-quake-fallout-violent-crime",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A 7.4-magnitude Colombia earthquake killed at least 289 people as the U.S. State Department maintains a Level 3 travel advisory due to crime, terrorism and kidnapping.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/COLOMBIA-EARTHQUAKE-TRAVEL-WHAT-TO-KNOW-3.jpg?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-08-19T21:24:29+00:00"
   },
   {
    "title": "Picking up the PACE: EW battlefield demands updated contingency planning",
@@ -108,7 +141,7 @@
    "topic": "defense",
    "summary": "Emissions equals target. Emissions put a bullseye on wherever you are, or wherever that emission is detected, the general who helms I Corps said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260919_DVIDS_army_radio_9755516-scaled-e1787174284439-1024x577.jpg",
-   "age": "28m ago",
+   "age": "54m ago",
    "published": "2026-08-19T21:18:54+00:00"
   },
   {
@@ -119,7 +152,7 @@
    "topic": "defense",
    "summary": "The USAF's new EA-37B Compass Call electronic warfare jet was part of a larger NATO package that flew along the doorstep of Russia's strategic military outpost. The post…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Compass-Call-Kgrad.jpg?quality=85",
-   "age": "40m ago",
+   "age": "1h ago",
    "published": "2026-08-19T21:06:53+00:00"
   },
   {
@@ -130,7 +163,7 @@
    "topic": "markets",
    "summary": "",
    "image": "https://image.cnbcfm.com/api/v1/image/108351704-1787158849577-gettyimages-2290581034-AFP_C62J6MT.jpeg?v=1787158901&amp;w=1920&amp;h=1080",
-   "age": "45m ago",
+   "age": "1h ago",
    "published": "2026-08-19T21:01:13+00:00"
   },
   {
@@ -141,7 +174,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/19/60cd035c-fbb4-4ffd-93b6-0a5d2665092e/a-j-brown.jpg",
-   "age": "52m ago",
+   "age": "1h ago",
    "published": "2026-08-19T20:54:37+00:00"
   },
   {
@@ -167,17 +200,6 @@
    "published": "2026-08-19T20:21:59+00:00"
   },
   {
-   "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-   "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
-   "age": "1h ago",
-   "published": "2026-08-19T20:12:33+00:00"
-  },
-  {
    "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
    "url": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
    "source": "Ars Technica",
@@ -185,30 +207,8 @@
    "topic": "ai",
    "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T20:04:41+00:00"
-  },
-  {
-   "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
-   "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The actress' firm Kinship Ventures is an investor in the company.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2266702439.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-08-19T20:04:12+00:00"
-  },
-  {
-   "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-   "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Have we tried turning off society and turning it back on again?",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2231881863.jpg?resize=1200,800",
-   "age": "1h ago",
-   "published": "2026-08-19T20:01:02+00:00"
   },
   {
    "title": "Bears hold short practice ahead of tomorrow s practice with the Bengals",
@@ -218,7 +218,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY294718141529927725.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T20:00:00+00:00"
   },
   {
@@ -229,8 +229,19 @@
    "topic": "defense",
    "summary": "Striveworks s models will be able to compress hours of staff work into seconds, CEO Jim Rebesco told Breaking Defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334-1024x577.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T20:00:00+00:00"
+  },
+  {
+   "title": "Antwaan Randle El relished chance to call plays",
+   "url": "https://www.chicagobears.com/news/antwaan-randle-el-relished-chance-to-call-plays",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/pjvbu8rki2m7vdosf2cx.jpg",
+   "age": "2h ago",
+   "published": "2026-08-19T19:54:14+00:00"
   },
   {
    "title": "FCC abolishes gigabit speed goal, suggesting it is unfair to slower technologies",
@@ -262,19 +273,8 @@
    "topic": "defense",
    "summary": "David Mosher, head of the Congressional Budget Office s National Security Directorate, stressed that the watchdog office was tasked with estimating the price tag for imp…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD2026-3-1024x576.jpg",
-   "age": "2h ago",
-   "published": "2026-08-19T18:55:42+00:00"
-  },
-  {
-   "title": "Connor Zilisch couldn’t say ‘no’ to a Cup ride at Hendrick Motorsports",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSVMtUEJZNWJyN3NFbnVBdHR2QjB0cG9NOGlRRDdVS2JVYm5VTTFsQXF4ME1aMERoYTg5clFQVDVKaUQwZDFyNm9EOWNNSHdyVC1Bcy1uZzZVNHlCY21qZGlvdFFLRk5Yb3ZRdmxScTlvSTBCeHZSNXA5V2tOcm56bjQxOHN0dXhMSjBXY1NTQV90REZnNXlibk1vc3BoaV9iUms0TzdxNWZhcTBNeHRuMVlVOW15Q24zbTVZeGZB?oc=5",
-   "source": "motorsport.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
    "age": "3h ago",
-   "published": "2026-08-19T18:37:11+00:00"
+   "published": "2026-08-19T18:55:42+00:00"
   },
   {
    "title": "Bears training camp report: Wednesday, Aug. 19",
@@ -284,7 +284,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wwvomlo0d4rg4nz7u5sj.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-19T18:08:09+00:00"
   },
   {
@@ -295,7 +295,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/bqm7v6mukivllk0nerwd.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-19T17:08:16+00:00"
   },
   {
@@ -306,7 +306,7 @@
    "topic": "defense",
    "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-19T16:57:54+00:00"
   },
   {
@@ -319,6 +319,17 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Singapore-anti-ship-missile-frigate.jpg?quality=85",
    "age": "5h ago",
    "published": "2026-08-19T16:24:15+00:00"
+  },
+  {
+   "title": "The history of Hendrick Motorsports' most recent driver changes and how it worked out",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFU1S2lBZ2NqN0xCb01TbWYxa19LSVhMbTBDNlJFSjFxUy11d3VSSTI1ZWpEekJIVUlfZHlMaDliUUp3VnRHRnlDM25RM0RZQlpTdloxcVo1MkJBVEhFZkIybElIaHFsYng3QWpSZy1TTkJpOFp1N2dwYUl3OFBJdWVNUzNUUVhnbDJ6Um15cF85eWtTNS0ycUR4dVpFRTlHalNnS2NjdmZIQzQyVUZzZlFfX1hNZXEyeUNyamVMblZMUkd5VGRGaThB?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-08-19T16:08:20+00:00"
   },
   {
    "title": "US, South Korea to cut length, scope of military drills after Trump order",
@@ -361,19 +372,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "7h ago",
-   "published": "2026-08-19T13:56:11+00:00"
-  },
-  {
-   "title": "How to watch, listen to, stream Bears-Bengals Preseason Week 2 game",
-   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-cincinnati-bengals-2026-week-2-preseason-listen-stream-tv-radio-football-online-nfl",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yocev2jlr6u7hhn1clfh.jpg",
    "age": "8h ago",
-   "published": "2026-08-19T13:11:00+00:00"
+   "published": "2026-08-19T13:56:11+00:00"
   },
   {
    "title": "The Mac Read Show: Who are your 5 Most Important Bears?",
@@ -398,17 +398,6 @@
    "published": "2026-08-19T11:24:21+00:00"
   },
   {
-   "title": "Rick Hendrick sends defiant message amid Hendrick Motorsports struggles: ‘Never going to surrender’",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzdscS1tbW5jZ3dIOHpRUkVIaFNuVXNZYUxpTThzMlNZUzlYOTlHbEk3eHZGNEJLYlUyY2NfYU4ybkFNZVk3Qk5wQTI2Wm9KbzMzd2VZc0w3UGQ4SVdjWnBCWlg5THYzT1dEZWdkQkpleTI2WTM0RDRVQjRFWlk0S1VFdlZpRWswV041QlluTUxibXhkOWVWeVl3cnZ4U1Q5TTRtR3VjUkJheDE5VlhhcXZDMGFubGJ6ZTJrNnJ2bWZoZ3Z0ME9nRA?oc=5",
-   "source": "On3",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "10h ago",
-   "published": "2026-08-19T11:00:18+00:00"
-  },
-  {
    "title": "Chicago Bears News: A hard training practice left tackle adjustments take center stage",
    "url": "https://www.windycitygridiron.com/chicago-bears-news/120879/chicago-bears-news-a-hard-training-practice-left-tackle-adjustments-take-center-stage",
    "source": "Windy City Gridiron",
@@ -416,7 +405,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/09/gettyimages-2229989399.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-19T10:00:00+00:00"
   },
   {
@@ -453,15 +442,26 @@
    "published": "2026-08-17T10:00:00+00:00"
   },
   {
-   "title": "The five key developments from the Bears’ first preseason game",
-   "url": "https://allchgo.com/bears/five-key-developments-from-bears-first-preseason-game/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/15194506/2026-08-15T210700Z_506580956_MT1USATODAY29592650_RTRMADP_3_NFL-CLEVELAND-BROWNS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
    "age": "3d ago",
-   "published": "2026-08-16T00:46:37+00:00"
+   "published": "2026-08-16T12:15:00+00:00"
+  },
+  {
+   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
+   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "3d ago",
+   "published": "2026-08-16T11:00:00+00:00"
   }
  ]
 }
