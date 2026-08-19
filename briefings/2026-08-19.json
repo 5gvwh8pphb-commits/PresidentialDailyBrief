@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-19",
+  "dateLabel": "Wednesday, August 19, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-19T09:11:54Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, August 18, 2026 close — a third straight losing day as bond yields hit multi-decade highs and chip stocks sold off.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,691.76", "change": "-53.30", "changePct": "-0.69%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,343.40", "change": "-116.38", "changePct": "-0.22%", "sixMo": "+7.4%" },
+        { "name": "Nasdaq",  "close": "26,289.71", "change": "-355.20", "changePct": "-1.33%", "sixMo": "+16%" }
+      ],
+      "body": "Nvidia, AMD and Intel led a semiconductor selloff — the chip-focused SOXX ETF's worst day since July — as the 30-year Treasury yield topped 5.33%, a 19-year high, on inflation and fiscal-deficit worries; Brent crude also climbed toward $91 a barrel on renewed Strait of Hormuz tensions.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~7h ago",
+      "empty": false,
+      "headline": "Trump pauses 50% Canada tariffs hours before deadline after last-minute deal",
+      "body": "Trump said late Tuesday he was pausing 50% tariffs on roughly $20 billion of Canadian goods, including cement and hockey sticks, that were set to take effect at midnight, citing a trade deal with Canada 'subject to finalization of documents'; the three-day pause gives negotiators more time as CUSMA-related talks continue.",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/aug/18/trump-us-canada-reached-last-minute-deal-delay-50-us-tariffs-canadian/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~11h ago",
+      "empty": false,
+      "headline": "Taiwan detects 20 PLA aircraft sorties, sharpest jump in days",
+      "body": "Taiwan's Ministry of National Defense said it tracked 20 PLA aircraft sorties, seven PLA Navy vessels and six China Coast Guard and other official ships in the 24 hours to 6 a.m. Wednesday, with 15 of the 20 sorties entering Taiwan's northern, central, southwestern and eastern air defense identification zone — a sharp jump from five sorties the day before.",
+      "source": "ANI",
+      "url": "https://aninews.in/news/world/asia/taiwan-records-heightened-chinese-military-activity-around-its-territory20260819100712/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Pentagon weighs shrinking US military footprint in Persian Gulf after Iran war damage",
+      "body": "The Defense Department is in early-stage 'prudent planning' on whether to rebuild or relocate the roughly 20 Gulf sites, spread across 1,500 miles and normally hosting about 40,000 US troops, after more than 200 facilities were damaged in the Iran war and the military burned through over 1,000 Patriot and THAAD interceptors; CENTCOM's Adm. Bradley Cooper is open to shifting forces west toward Jordan, Israel or Saudi Arabia's Red Sea coast.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/18/pentagon-evaluating-smaller-us-military-presence-persian-gulf-after-iran-war/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Navy awards Raytheon $22.9B, seven-year deal to triple Tomahawk missile output",
+      "body": "Acting Navy Secretary Hung Cao announced the contract Monday to ramp Tomahawk cruise-missile production toward 1,000 rounds a year, addressing a munitions shortage that emerged after the Iran war; RTX says it has already delivered three times as many Tomahawks in the first half of 2026 as in the same period last year.",
+      "source": "Naval News",
+      "url": "https://www.navalnews.com/naval-news/2026/08/raytheon-awarded-7-year-contract-for-tomahawk-cruise-missiles/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "headline": "Anthropic's annualized revenue tops $65 billion as it eyes a fall IPO",
+      "body": "Anthropic told investors its revenue run rate hit $65 billion by the end of July, more than sevenfold its pace at the end of last year, with preliminary Q2 revenue of $11.5 billion, a 14-fold jump from a year ago; the company confidentially filed IPO paperwork with the SEC in June and could go public as soon as this fall, ahead of OpenAI.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "Bears safety Coby Bryant out 4-6 months after knee surgery",
+      "body": "Coach Ben Johnson said Tuesday that Bryant, Chicago's marquee $40 million free-agent safety signing, had surgery Aug. 7 after his hyperextended knee and bone bruise proved worse than the original 8-10-week prognosis; the new timeline points to a mid-December return at the earliest, deepening a rash of injuries in the Bears' secondary that also includes Kyler Gordon and Elijah Hicks.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49584684/bears-coby-bryant-undergoes-knee-surgery-4-6-months"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new roster, injury, schedule or sponsorship news on William Byron broke within the 72-hour window; Saturday's Cook Out 400 result at Richmond remains inside the 7-day spoiler window. Byron's next Cup start is the Dollar Tree 301 at New Hampshire Motor Speedway on Aug. 23.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
