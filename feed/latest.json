@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T19:48:07+00:00",
+ "generated": "2026-08-19T20:14:58+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -15,6 +15,7 @@
   "Fox News",
   "Motorsport.com",
   "NASCAR.com",
+  "NWI Times",
   "On3",
   "TechCrunch",
   "The War Zone",
@@ -24,6 +25,39 @@
  ],
  "items": [
   {
+   "title": "Moderna stock soars 177%, Merck jumps 12% after cancer vaccine shows promise in late-stage trial",
+   "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108000894-1771434677666-108000894-1719932078582-gettyimages-2151784856-MODERNA_RSV_VACCINE.jpg?v=1771437699&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-08-19T20:13:50+00:00"
+  },
+  {
+   "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+   "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "AI-native account startup Rillet became a unicorn, led by ICONIQ after it doubled its ARR in the past three months, it said.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/05/Nicolas-Kopp-Founder-and-CEO-3.jpg?resize=1200,800",
+   "age": "2m ago",
+   "published": "2026-08-19T20:12:33+00:00"
+  },
+  {
+   "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+   "url": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108216387-1761274552703-gettyimages-2213746434-aw1a5780_ofmszapc.jpeg?v=1761274589&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-08-19T20:10:14+00:00"
+  },
+  {
    "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
    "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
    "source": "CNBC",
@@ -31,41 +65,85 @@
    "topic": "markets",
    "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
    "image": "https://image.cnbcfm.com/api/v1/image/108188497-1755694394554-SG-Friar-02.jpg?v=1787167443&amp;w=1920&amp;h=1080",
-   "age": "3m ago",
-   "published": "2026-08-19T19:44:25+00:00"
+   "age": "7m ago",
+   "published": "2026-08-19T20:07:09+00:00"
   },
   {
-   "title": "Clarence Thomas chokes up as he reveals promise he made after grandparents’ sudden deaths",
-   "url": "https://www.foxnews.com/politics/clarence-thomas-chokes-reveals-promise-made-after-grandparents-sudden-deaths",
+   "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
+   "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The actress' firm Kinship Ventures is an investor in the company.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2266702439.jpg?w=1024",
+   "age": "10m ago",
+   "published": "2026-08-19T20:04:12+00:00"
+  },
+  {
+   "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
+   "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Have we tried turning off society and turning it back on again?",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2231881863.jpg?resize=1200,800",
+   "age": "13m ago",
+   "published": "2026-08-19T20:01:02+00:00"
+  },
+  {
+   "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
+   "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Striveworks s models will be able to compress hours of staff work into seconds, CEO Jim Rebesco told Breaking Defense.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334-1024x577.jpg",
+   "age": "14m ago",
+   "published": "2026-08-19T20:00:00+00:00"
+  },
+  {
+   "title": "Florida Democrat sends 'condolences' to Hasan Piker after defeating DSA challenger in Florida primary",
+   "url": "https://www.foxnews.com/media/florida-democrat-sends-condolences-hasan-piker-after-defeating-dsa-challenger-florida-primary",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Clarence Thomas choked up recalling a promise he made after his grandparents deaths and Thomas Sowell s influence on his thinking about self-reliance.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/clarence-thomas.jpg?ve=1&tl=1",
-   "age": "9m ago",
-   "published": "2026-08-19T19:38:41+00:00"
+   "summary": "Rep. Jared Moskowitz sent condolences to Hasan Piker on X after defeating DSA-backed Oliver Larkin in Florida s 25th District Democratic primary.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/JARED-MOSKOWITZ-PIKER-X.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-19T19:52:46+00:00"
   },
   {
-   "title": "Kim Kardashian wows in string bikini during PDA-filled beach trip with Lewis Hamilton",
-   "url": "https://www.foxnews.com/entertainment/kim-kardashian-wows-string-bikini-during-pda-filled-beach-trip-lewis-hamilton",
+   "title": "Steelers tab Will Howard for extended look as Aaron Rodgers continues to sit during preseason",
+   "url": "https://www.cbssports.com/nfl/news/steelers-will-howard-start-preseason-week-2-aaron-rodgers-sits/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/3e6d1d88-ac87-47f9-9173-4ff02c26d657/rodgershoward.jpg",
+   "age": "27m ago",
+   "published": "2026-08-19T19:47:33+00:00"
+  },
+  {
+   "title": "Trump White House envoy visits Pro Football Hall of Fame to amplify museum as global tourist destination",
+   "url": "https://www.foxnews.com/outkick-sports/trump-white-house-envoy-visits-pro-football-hall-fame-amplify-museum-global-tourist-destination",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Kim Kardashian posted bikini photos and couple shots with Lewis Hamilton from their tropical family vacation in a new Instagram slideshow post.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kim-kardashian-white-dress.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-19T19:32:26+00:00"
+   "summary": "Special Envoy Nick Adams toured the Pro Football Hall of Fame as part of a White House initiative to boost domestic and international tourism.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/adams.jpg?ve=1&tl=1",
+   "age": "28m ago",
+   "published": "2026-08-19T19:46:37+00:00"
   },
   {
-   "title": "Blackhawks great Patrick Kane gets incredible standing ovation from Cubs and White Sox fans at Wrigley Field",
-   "url": "https://www.foxnews.com/outkick-sports/blackhawks-great-patrick-kane-gets-incredible-standing-ovation-cubs-white-sox-fans-wrigley-field",
+   "title": "Majority of young adults say they are 'more concerned than excited' about AI: Pew Research",
+   "url": "https://www.foxnews.com/lifestyle/majority-young-adults-say-more-concerned-than-excited-about-ai-pew-research",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Patrick Kane threw the first pitch at Wrigley Field to a massive ovation after signing a two-year, $16 million deal with the Chicago Blackhawks.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/patrick-kane-novelty-glove.jpg?ve=1&tl=1",
-   "age": "18m ago",
-   "published": "2026-08-19T19:30:04+00:00"
+   "summary": "A Pew Research survey finds 55% of young adults are now more concerned than excited about artificial intelligence, a sharp shift from 2021 attitudes.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/teen-using-iphone-stock.png?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-08-19T19:45:50+00:00"
   },
   {
    "title": "NFL rookies returning to college? Some are looking into it amid NCAA eligibility ruling in Colorado",
@@ -75,7 +153,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/19/675dd846-5f61-42fd-8e7f-5c0aeac7f076/ncaa.jpg",
-   "age": "26m ago",
+   "age": "53m ago",
    "published": "2026-08-19T19:21:17+00:00"
   },
   {
@@ -86,41 +164,8 @@
    "topic": "defense",
    "summary": "Major radar changes mean 'illuminators' are needed to help Evolved Sea Sparrow Missiles protect the carrier. The post New USS John F. Kennedy Brings Back Key Feature Fro…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Radar-illuminator-USS-John-F-KennedyESSM.jpg?quality=85",
-   "age": "32m ago",
+   "age": "59m ago",
    "published": "2026-08-19T19:15:29+00:00"
-  },
-  {
-   "title": "AI was supposed to win people over by now — it hasn’t",
-   "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "age": "36m ago",
-   "published": "2026-08-19T19:11:40+00:00"
-  },
-  {
-   "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-   "url": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
-   "image": "https://image.cnbcfm.com/api/v1/image/100684995-20130419-0375-121.jpg?v=1367252484&amp;w=1920&amp;h=1080",
-   "age": "45m ago",
-   "published": "2026-08-19T19:02:50+00:00"
-  },
-  {
-   "title": "Google packs Search and Gemini with new AI study tools",
-   "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to co…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-   "age": "48m ago",
-   "published": "2026-08-19T19:00:00+00:00"
   },
   {
    "title": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
@@ -130,30 +175,8 @@
    "topic": "defense",
    "summary": "David Mosher, head of the Congressional Budget Office s National Security Directorate, stressed that the watchdog office was tasked with estimating the price tag for imp…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD2026-3-1024x576.jpg",
-   "age": "52m ago",
-   "published": "2026-08-19T18:55:42+00:00"
-  },
-  {
-   "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
-   "url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108341946-1785351069874-gettyimages-2287525768-AFP_C3HN8F6.jpeg?v=1785351598&amp;w=1920&amp;h=1080",
-   "age": "53m ago",
-   "published": "2026-08-19T18:54:50+00:00"
-  },
-  {
-   "title": "Researchers say OpenAI revoked their access to limited cyber program",
-   "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the a…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
    "age": "1h ago",
-   "published": "2026-08-19T18:46:14+00:00"
+   "published": "2026-08-19T18:55:42+00:00"
   },
   {
    "title": "Seahawks signing ex-Cowboys cornerback Trevon Diggs to bolster a weakened secondary",
@@ -174,19 +197,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wwvomlo0d4rg4nz7u5sj.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T18:08:09+00:00"
-  },
-  {
-   "title": "Will Patrick Mahomes and the Chiefs' offense rebound from a three-year drought? Five keys to a turnaround",
-   "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-chiefs-offense-rebound/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/54e41dcb-bd34-43c5-8045-15b7deccaced/mahomes-jpeg.jpg",
-   "age": "1h ago",
-   "published": "2026-08-19T18:01:51+00:00"
   },
   {
    "title": "Rome Odunze looking forward to facing new defense during joint practice with Bengals",
@@ -196,7 +208,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/bqm7v6mukivllk0nerwd.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T17:08:16+00:00"
   },
   {
@@ -207,7 +219,7 @@
    "topic": "ai",
    "summary": "\"I will tear apart this forest and bring back what it took from me.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/wildwood1-1152x648.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T17:06:06+00:00"
   },
   {
@@ -218,7 +230,7 @@
    "topic": "defense",
    "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T16:57:54+00:00"
   },
   {
@@ -229,7 +241,7 @@
    "topic": "ai",
    "summary": "The vaccine reportedly thwarted the cancer's return and spread.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T16:53:56+00:00"
   },
   {
@@ -251,7 +263,7 @@
    "topic": "ai",
    "summary": "Google's new Pixels make some compromises but still manage to be good phones.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-1-1152x648.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-19T16:11:30+00:00"
   },
   {
@@ -262,7 +274,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-19T16:08:20+00:00"
   },
   {
@@ -299,17 +311,6 @@
    "published": "2026-08-19T14:38:49+00:00"
   },
   {
-   "title": "US-South Korea military drills cut in half after Trump’s broadside",
-   "url": "https://breakingdefense.com/2026/08/us-south-korea-military-drills-cut-in-half-after-trumps-broadside/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "President Donald Trump s call to drastically shorten the exercise out of deference to North Korea s leader reportedly took Seoul by surprise.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260819_DVIDS_us_korea_exercise_9850536-scaled-e1787148444231-1024x577.jpg",
-   "age": "5h ago",
-   "published": "2026-08-19T14:25:43+00:00"
-  },
-  {
    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
    "source": "VentureBeat AI",
@@ -328,7 +329,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-19T13:56:11+00:00"
   },
   {
@@ -339,19 +340,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yocev2jlr6u7hhn1clfh.jpg",
-   "age": "6h ago",
-   "published": "2026-08-19T13:11:00+00:00"
-  },
-  {
-   "title": "The Mac Read Show: Who are your 5 Most Important Bears?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/120872/the-mac-read-show-who-are-your-5-most-important-bears",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29472426464555149.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "age": "7h ago",
-   "published": "2026-08-19T12:30:00+00:00"
+   "published": "2026-08-19T13:11:00+00:00"
   },
   {
    "title": "Report to Congress on Russian Hybrid Warfare in Europe",
@@ -372,7 +362,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-19T11:00:18+00:00"
   },
   {
@@ -383,7 +373,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/09/gettyimages-2229989399.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-19T10:00:00+00:00"
   },
   {
@@ -405,7 +395,7 @@
    "topic": "defense",
    "summary": "The Army wants a new wheeled self-propelled 155mm howitzer to replace its towed M777s, offering a boost in range and mobility. The post South Korea s Highly Mobile 155mm…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/army-picks-k9mh-155mm-howitzer-for-prototyping-effort.jpg?quality=85",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-19T01:12:38+00:00"
   },
   {
@@ -427,7 +417,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/18151548/2026-08-01T024940Z_351707217_MT1USATODAY29491817_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
-   "age": "22h ago",
+   "age": "23h ago",
    "published": "2026-08-18T21:14:57+00:00"
   },
   {
@@ -453,15 +443,26 @@
    "published": "2026-08-17T10:00:00+00:00"
   },
   {
-   "title": "The five key developments from the Bears’ first preseason game",
-   "url": "https://allchgo.com/bears/five-key-developments-from-bears-first-preseason-game/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/15194506/2026-08-15T210700Z_506580956_MT1USATODAY29592650_RTRMADP_3_NFL-CLEVELAND-BROWNS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "title": "‘One pole at a time’ | NIPSCO CEO walks storm damage zone | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9589b575-6740-4879-b7db-b73890e2d44e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The power will eventually come back. But NIPSCO is facing a deeper crisis: angry customers, exhausted workers and growing questions about profits, management and storm p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d7/dd772f5f-69f4-4807-80cf-07dd4e809bc9/6a80d33f5a890.image.jpg?resize=300%2C225",
    "age": "3d ago",
-   "published": "2026-08-16T00:46:37+00:00"
+   "published": "2026-08-16T12:15:00+00:00"
+  },
+  {
+   "title": "RICHARD FELDMAN | Cyclosporiasis not just another foodborne illness",
+   "url": "https://nwitimes.com/opinion/article_d3693543-7929-4d6f-8068-87bdbcc3432e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "It’s a stark reminder that our public health system is only as effective as the investment and expertise supporting it.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "3d ago",
+   "published": "2026-08-16T11:00:00+00:00"
   }
  ]
 }
