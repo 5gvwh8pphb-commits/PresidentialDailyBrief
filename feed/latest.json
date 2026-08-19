@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T18:18:10+00:00",
+ "generated": "2026-08-19T18:59:39+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -15,24 +15,24 @@
   "Fox News",
   "Motorsport.com",
   "NASCAR.com",
-  "On3",
   "TechCrunch",
   "The War Zone",
   "USNI News",
   "VentureBeat AI",
-  "Windy City Gridiron"
+  "Windy City Gridiron",
+  "on3.com"
  ],
  "items": [
   {
-   "title": "DOJ cites Comey's novel in urging judge not to toss '86 47' seashells threat to Trump case",
-   "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,' \" prosecutors said.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108203789-1758803244957-108203789-1758803068504-gettyimages-2215980542-mms25057_vwk3f8vn.jpg?v=1787162735&amp;w=1920&amp;h=1080",
-   "age": "10m ago",
-   "published": "2026-08-19T18:07:40+00:00"
+   "title": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
+   "url": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "David Mosher, head of the Congressional Budget Office s National Security Directorate, stressed that the watchdog office was tasked with estimating the price tag for imp…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD2026-3-1024x576.jpg",
+   "age": "3m ago",
+   "published": "2026-08-19T18:55:42+00:00"
   },
   {
    "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
@@ -42,8 +42,85 @@
    "topic": "markets",
    "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
    "image": "https://image.cnbcfm.com/api/v1/image/108341946-1785351069874-gettyimages-2287525768-AFP_C3HN8F6.jpeg?v=1785351598&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-08-19T18:54:50+00:00"
+  },
+  {
+   "title": "DOJ cites Comey's novel in urging judge not to toss ‘86 47' seashells threat to Trump case",
+   "url": "https://www.cnbc.com/2026/08/19/comey-trump-8647-seashells-threat-doj.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "\"There is no serious dispute that an objective viewer of Comey's post could read it to mean 'Kill President Trump,'\" prosecutors said.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108203789-1758803244957-108203789-1758803068504-gettyimages-2215980542-mms25057_vwk3f8vn.jpg?v=1787162735&amp;w=1920&amp;h=1080",
+   "age": "5m ago",
+   "published": "2026-08-19T18:54:04+00:00"
+  },
+  {
+   "title": "Soros-linked prosecutor blasted after accused killer got passport, fled US",
+   "url": "https://www.foxnews.com/politics/soros-linked-prosecutor-blasted-accused-killer-got-passport-fled-us",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Democratic prosecutor in Fairfax County, Virginia, did not oppose an embassy trip that let an accused killer get a passport before fleeing the U.S.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/08/931/523/descano.png?ve=1&tl=1",
    "age": "10m ago",
-   "published": "2026-08-19T18:07:21+00:00"
+   "published": "2026-08-19T18:48:49+00:00"
+  },
+  {
+   "title": "Researchers say OpenAI revoked their access to limited cyber program",
+   "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Multiple cybersecurity researchers said they suddenly lost access to OpenAI’s Trusted Access for Cyber (TAC) program, which offers models with fewer guardrails for vette…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+   "age": "13m ago",
+   "published": "2026-08-19T18:46:14+00:00"
+  },
+  {
+   "title": "Suspects at large after Tucson police recruit killed, Pima County corrections officer wounded in shooting",
+   "url": "https://www.foxnews.com/us/suspects-large-tucson-police-recruit-killed-pima-county-corrections-officer-wounded-shooting",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A 23-year-old Tucson police recruit was killed and a Pima County corrections officer hospitalized after an early morning shooting in Arizona.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/tucson-officers-shot-suspect-vehicle-2.png?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-08-19T18:45:04+00:00"
+  },
+  {
+   "title": "Walz defies Trump on key minerals as GOP warns China stands to benefit",
+   "url": "https://www.foxnews.com/politics/walz-defies-trump-key-minerals-gop-warns-china-stands-benefit",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Minnesota Gov. Tim Walz s executive order blocking mining permits near the Boundary Waters drew sharp criticism from Tom Emmer, who called it stupid.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/tim-walz-donald-trump.jpg?ve=1&tl=1",
+   "age": "20m ago",
+   "published": "2026-08-19T18:39:37+00:00"
+  },
+  {
+   "title": "Seahawks signing ex-Cowboys cornerback Trevon Diggs to bolster a weakened secondary",
+   "url": "https://www.cbssports.com/nfl/news/seahawks-signing-ex-cowboys-cornerback-trevon-diggs/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/13dc9ba6-766c-42ae-9f30-57b9d670bb6a/gettyimages-2252430199.jpg",
+   "age": "28m ago",
+   "published": "2026-08-19T18:31:02+00:00"
+  },
+  {
+   "title": "Bears training camp report: Wednesday, Aug. 19",
+   "url": "https://www.chicagobears.com/news/bears-training-camp-report-wednesday-aug-19",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wwvomlo0d4rg4nz7u5sj.jpg",
+   "age": "51m ago",
+   "published": "2026-08-19T18:08:09+00:00"
   },
   {
    "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
@@ -53,30 +130,8 @@
    "topic": "markets",
    "summary": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
    "image": "https://image.cnbcfm.com/api/v1/image/100684995-20130419-0375-121.jpg?v=1367252484&amp;w=1920&amp;h=1080",
-   "age": "12m ago",
+   "age": "53m ago",
    "published": "2026-08-19T18:06:04+00:00"
-  },
-  {
-   "title": "Who will be the NFL's final undefeated team in 2026? Predicting who will flirt with perfection the longest",
-   "url": "https://www.cbssports.com/nfl/news/who-will-be-the-nfls-final-undefeated-team-in-2026/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2025/04/25/4017908a-c390-488b-9aa1-33b9f2a2e407/nfl-logo-g.jpg",
-   "age": "13m ago",
-   "published": "2026-08-19T18:04:44+00:00"
-  },
-  {
-   "title": "DSA’s growing grip on Dem Party hits new territory as establishment falls in line",
-   "url": "https://www.foxnews.com/politics/dsas-growing-grip-dem-party-hits-new-territory-establishment-falls-line",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Democratic Socialists of America opened a hub in Jon Ossoff s Atlanta backyard as socialist candidates defeat establishment Democrats across the country.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/jon-ossoff-speaks-at-a-campaign-event.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-19T18:02:35+00:00"
   },
   {
    "title": "Will Patrick Mahomes and the Chiefs' offense rebound from a three-year drought? Five keys to a turnaround",
@@ -86,30 +141,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/19/54e41dcb-bd34-43c5-8045-15b7deccaced/mahomes-jpeg.jpg",
-   "age": "16m ago",
+   "age": "57m ago",
    "published": "2026-08-19T18:01:51+00:00"
-  },
-  {
-   "title": "Former Fauci adviser pleads guilty to conspiring to conceal COVID-19 records",
-   "url": "https://www.foxnews.com/politics/former-fauci-adviser-pleads-guilty-conspiring-conceal-covid-19-records",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "David Morens pleaded guilty to conspiring to evade FOIA requests tied to COVID-19 research grants, using his personal Gmail to hide NIH communications.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/david-morens.jpg?ve=1&tl=1",
-   "age": "16m ago",
-   "published": "2026-08-19T18:01:24+00:00"
-  },
-  {
-   "title": "Tim Robbins urges Democrats to drop outrage and 'get their stuff together'",
-   "url": "https://www.foxnews.com/entertainment/tim-robbins-urges-democrats-drop-outrage-get-stuff-together",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tim Robbins says Democrats must get their stuff together and stop relying on opposition, offering a blunt critique on the SmartLess podcast.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/tim-robbins-thumbnail.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-08-19T17:57:50+00:00"
   },
   {
    "title": "Meet the startup helping Wall Street put a price on AI compute",
@@ -119,7 +152,7 @@
    "topic": "ai",
    "summary": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost f…",
    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
-   "age": "51m ago",
+   "age": "1h ago",
    "published": "2026-08-19T17:26:48+00:00"
   },
   {
@@ -130,7 +163,7 @@
    "topic": "ai",
    "summary": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/01/t-mobile-store-times-square.jpg?resize=1200,800",
-   "age": "51m ago",
+   "age": "1h ago",
    "published": "2026-08-19T17:26:32+00:00"
   },
   {
@@ -163,7 +196,7 @@
    "topic": "defense",
    "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T16:57:54+00:00"
   },
   {
@@ -174,7 +207,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/17/6aebbea8-304a-44e7-bdc7-cee0ddb8839c/bre.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T16:57:52+00:00"
   },
   {
@@ -185,7 +218,7 @@
    "topic": "ai",
    "summary": "The vaccine reportedly thwarted the cancer's return and spread.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-19T16:53:56+00:00"
   },
   {
@@ -196,19 +229,8 @@
    "topic": "defense",
    "summary": "First images show Blue Spear missile launcher aboard RSS Steadfast, offering a glimpse of Singapore’s evolving naval strike capability. The post Singapore’s Formidable C…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Singapore-anti-ship-missile-frigate.jpg?quality=85",
-   "age": "1h ago",
-   "published": "2026-08-19T16:24:15+00:00"
-  },
-  {
-   "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-   "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San …",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-Space-Stage-Even-Rogers.jpg?resize=1200,800",
    "age": "2h ago",
-   "published": "2026-08-19T16:16:18+00:00"
+   "published": "2026-08-19T16:24:15+00:00"
   },
   {
    "title": "Google Pixel 11 series review: Is the magic fading?",
@@ -240,7 +262,7 @@
    "topic": "defense",
    "summary": "Can both chambers reach an agreement to fund the government before the start of the new fiscal year?",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/CRU29pb-1024x576.png",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T15:37:25+00:00"
   },
   {
@@ -251,7 +273,7 @@
    "topic": "defense",
    "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PF3FSR5DQBDSLFLRTFX6RQ7HRE.JPG",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-19T15:23:40+00:00"
   },
   {
@@ -262,7 +284,7 @@
    "topic": "defense",
    "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sail…",
    "image": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-19T14:38:49+00:00"
   },
   {
@@ -273,7 +295,7 @@
    "topic": "defense",
    "summary": "President Donald Trump s call to drastically shorten the exercise out of deference to North Korea s leader reportedly took Seoul by surprise.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260819_DVIDS_us_korea_exercise_9850536-scaled-e1787148444231-1024x577.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-19T14:25:43+00:00"
   },
   {
@@ -284,7 +306,7 @@
    "topic": "ai",
    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of Vent…",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
@@ -295,7 +317,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-19T13:56:11+00:00"
   },
   {
@@ -310,6 +332,17 @@
    "published": "2026-08-19T13:11:00+00:00"
   },
   {
+   "title": "The Mac Read Show: Who are your 5 Most Important Bears?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/120872/the-mac-read-show-who-are-your-5-most-important-bears",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29472426464555149.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "6h ago",
+   "published": "2026-08-19T12:30:00+00:00"
+  },
+  {
    "title": "Report to Congress on Russian Hybrid Warfare in Europe",
    "url": "https://news.usni.org/2026/08/19/report-to-congress-on-russian-hybrid-warfare-in-europe",
    "source": "USNI News",
@@ -317,13 +350,13 @@
    "topic": "defense",
    "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Foll…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-7.22.51-AM.png",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-19T11:24:21+00:00"
   },
   {
    "title": "Rick Hendrick sends defiant message amid Hendrick Motorsports struggles: ‘Never going to surrender’",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzdscS1tbW5jZ3dIOHpRUkVIaFNuVXNZYUxpTThzMlNZUzlYOTlHbEk3eHZGNEJLYlUyY2NfYU4ybkFNZVk3Qk5wQTI2Wm9KbzMzd2VZc0w3UGQ4SVdjWnBCWlg5THYzT1dEZWdkQkpleTI2WTM0RDRVQjRFWlk0S1VFdlZpRWswV041QlluTUxibXhkOWVWeVl3cnZ4U1Q5TTRtR3VjUkJheDE5VlhhcXZDMGFubGJ6ZTJrNnJ2bWZoZ3Z0ME9nRA?oc=5",
-   "source": "On3",
+   "source": "on3.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -350,7 +383,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY294917402091637986.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-19T01:46:21+00:00"
   },
   {
@@ -383,19 +416,8 @@
    "topic": "defense",
    "summary": "TAOYUAN, TAIWAN Crews trained their 30mm cannons, machine guns and anti-tank missile launchers west toward Taiwan Taoyuan International Airport, the focal point of a def…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/DSC02058-scaled.jpg",
-   "age": "20h ago",
+   "age": "21h ago",
    "published": "2026-08-18T21:47:24+00:00"
-  },
-  {
-   "title": "Army picks Hanwha’s wheeled K9 for self-propelled howitzer prototypes",
-   "url": "https://breakingdefense.com/2026/08/army-picks-hanwhas-wheeled-k9-for-self-propelled-howitzer-prototypes/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Today’s decision comes after decades of fits and starts to find a new mobile howitzer, including the ill-fated Crusader, Non-Line-of-Sight Cannon and Extended Range Cann…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/K9-on-the-move-2-e1787088335140-1024x576.jpg",
-   "age": "20h ago",
-   "published": "2026-08-18T21:28:37+00:00"
   },
   {
    "title": "Bears notebook: No end in sight for left tackle competition – or Kyler Gordon’s absences",
@@ -407,28 +429,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/18151548/2026-08-01T024940Z_351707217_MT1USATODAY29491817_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
    "age": "21h ago",
    "published": "2026-08-18T21:14:57+00:00"
-  },
-  {
-   "title": "Bears training camp report: Tuesday, Aug. 18",
-   "url": "https://www.chicagobears.com/news/bears-training-camp-report-tuesday-aug-18",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/vnoxjryjqdkpnprpus9q.jpg",
-   "age": "21h ago",
-   "published": "2026-08-18T20:57:35+00:00"
-  },
-  {
-   "title": "Five Bears Takes Following Their Preseason Opener",
-   "url": "https://www.windycitygridiron.com/chicago-bears-depth-chart/120865/five-bears-takes-following-their-preseason-opener-browns-ben-johnson",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290085351.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "23h ago",
-   "published": "2026-08-18T19:00:00+00:00"
   },
   {
    "title": "DARPA came close to finding a drone that can lift four times its own weight",
