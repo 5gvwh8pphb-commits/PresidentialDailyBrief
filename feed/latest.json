@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T11:15:30+00:00",
+ "generated": "2026-08-19T11:47:11+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -23,26 +23,81 @@
  ],
  "items": [
   {
-   "title": "Federal $25 minimum wage mandate would destroy nearly 5M jobs, hit booming Sun Belt hardest: study",
-   "url": "https://www.foxnews.com/media/federal-25-minimum-wage-mandate-destroy-nearly-5m-jobs-hit-booming-sun-belt-hardest-study",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A proposed $25 minimum wage could slash nearly five million jobs nationwide, with Texas, Florida, and other Sun Belt states facing the largest losses.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/aoc-minimum-wage-press-conference.png?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-08-19T11:00:49+00:00"
+   "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
+   "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Target posted better-than-expected fiscal second-quarter sales and raised its full-year outlook.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107257036-1686776221580-gettyimages-1442010925-dsc03005_428ebfd8-671f-406f-a7e2-cc35d0c4cddb.jpeg?v=1686776266&amp;w=1920&amp;h=1080",
+   "age": "5m ago",
+   "published": "2026-08-19T11:41:43+00:00"
   },
   {
-   "title": "Popular daily drinking habit could nearly triple risk of deadly cancer, major study finds",
-   "url": "https://www.foxnews.com/health/popular-daily-drinking-habit-nearly-triple-risk-deadly-cancer-major-study-finds",
+   "title": "Exclusive: Sam Burns wants LIV Golf stars Jon Rahm, Bryson DeChambeau back on the PGA Tour",
+   "url": "https://www.foxnews.com/outkick-sports/exclusive-sam-burns-wants-liv-golf-stars-jon-rahm-bryson-dechambeau-back-pga-tour",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Mass General Brigham research links one daily sugary drink to nearly three times higher stomach cancer risk, with fructose identified as a key factor.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/older-woman-drinking-soda.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-19T11:00:23+00:00"
+   "summary": "Sam Burns tells OutKick he d welcome Jon Rahm and Bryson DeChambeau back on the PGA Tour as LIV Golf faces an uncertain future beyond 2026.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/sam-burns-bryson-dechambeau-open-championship.jpg?ve=1&tl=1",
+   "age": "16m ago",
+   "published": "2026-08-19T11:30:58+00:00"
+  },
+  {
+   "title": "UAE severs trade with Iran after reported missile strike",
+   "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Washington and Tehran are considering next steps after negotiations fell apart, while the UAE has suspended trade with Iran.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350973-1787065144748-gettyimages-2288027681-AFP_C3TD4KE.jpeg?v=1787065164&amp;w=1920&amp;h=1080",
+   "age": "19m ago",
+   "published": "2026-08-19T11:27:32+00:00"
+  },
+  {
+   "title": "Report to Congress on Russian Hybrid Warfare in Europe",
+   "url": "https://news.usni.org/2026/08/19/report-to-congress-on-russian-hybrid-warfare-in-europe",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Foll…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-7.22.51-AM.png",
+   "age": "22m ago",
+   "published": "2026-08-19T11:24:21+00:00"
+  },
+  {
+   "title": "Former CDC advisor says decline in kindergarten vaccinations nothing to worry about: 'Keep calm and carry on'",
+   "url": "https://www.foxnews.com/us/former-cdc-advisor-says-decline-kindergarten-vaccinations-nothing-worry-about-keep-calm-carry-on",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Robert Malone says the 0.1% decline in kindergarten vaccination rates is not alarming, arguing CDC data still shows very high compliance levels.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/robert-malone.jpeg?ve=1&tl=1",
+   "age": "27m ago",
+   "published": "2026-08-19T11:19:51+00:00"
+  },
+  {
+   "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 50%",
+   "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108097060-17386822742025-02-04t151216z_61210031_rc2qnca60hiu_rtrmadp_0_merck-co-results.jpeg?v=1738682297&amp;w=1920&amp;h=1080",
+   "age": "30m ago",
+   "published": "2026-08-19T11:16:34+00:00"
+  },
+  {
+   "title": "Trump administration sanctions sitting president of the International Criminal Court for 'abuses of power'",
+   "url": "https://www.foxnews.com/us/trump-administration-sanctions-sitting-president-international-criminal-court-abuses-power",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Marco Rubio called the International Criminal Court corrupt as the Trump administration sanctioned two top ICC officials over jurisdiction disputes.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rubio-trump-state-department.png?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-08-19T11:15:00+00:00"
   },
   {
    "title": "Rick Hendrick sends defiant message amid Hendrick Motorsports struggles: ‘Never going to surrender’",
@@ -52,63 +107,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "15m ago",
+   "age": "46m ago",
    "published": "2026-08-19T11:00:18+00:00"
   },
   {
-   "title": "Trump wants to help 146,000 mentally ill who are homeless. Democrats want to stop him",
-   "url": "https://www.foxnews.com/opinion/trump-wants-help-146000-mentally-ill-homeless-democrats-want-stop-him",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump s new framework allows states to offer supportive housing with court-ordered treatment for 146,000 seriously mentally ill homeless people.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/homeless-encampment-nyc-2.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-08-19T11:00:06+00:00"
-  },
-  {
-   "title": "Car dealerships are relying more on parts and service for profits",
-   "url": "https://www.cnbc.com/2026/08/19/car-dealerships-parts-and-service.html",
+   "title": "Lowe's gives muted outlook as it sees 'pressure' in home improvement spending",
+   "url": "https://www.cnbc.com/2026/08/19/lowes-low-q2-2026-earnings.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Dealership gross profits have fallen from the supply-constrained days of 2022. They are relying more heavily on the income streams that hedge against downturns.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108290637-1776103852194-gettyimages-2210615439-20250412_carbrands_211.jpeg?v=1776103880&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
-   "published": "2026-08-19T11:00:01+00:00"
-  },
-  {
-   "title": "Personalized cancer vaccine from Moderna, Merck shows promise in first late-stage melanoma trial",
-   "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108097060-17386822742025-02-04t151216z_61210031_rc2qnca60hiu_rtrmadp_0_merck-co-results.jpeg?v=1738682297&amp;w=1920&amp;h=1080",
-   "age": "25m ago",
-   "published": "2026-08-19T10:49:31+00:00"
-  },
-  {
-   "title": "Target hikes outlook as sales rebound and huge tariff refund boosts bottom line",
-   "url": "https://www.cnbc.com/2026/08/19/target-tgt-q2-2026-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Target posted better-than-expected second-quarter sales and raised its full-year outlook.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107257036-1686776221580-gettyimages-1442010925-dsc03005_428ebfd8-671f-406f-a7e2-cc35d0c4cddb.jpeg?v=1686776266&amp;w=1920&amp;h=1080",
-   "age": "29m ago",
-   "published": "2026-08-19T10:45:39+00:00"
-  },
-  {
-   "title": "Canadian powerlifting champion April Hutchinson leads first Sophie Cunningham rally outside the US",
-   "url": "https://www.foxnews.com/outkick-sports/canadian-powerlifting-champion-april-hutchinson-leads-first-sophie-cunningham-rally-outside-us",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "April Hutchinson led the first Sophie Cunningham rally outside the U.S. as Toronto police ticketed a mobile billboard featuring Martina Navratilova.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/toronto-sophie-night.jpg?ve=1&tl=1",
-   "age": "50m ago",
-   "published": "2026-08-19T10:25:09+00:00"
+   "summary": "Lowe's reported mixed results as the retailer said it continued to see pressure in home improvement spending.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108348686-1786561289622-gettyimages-2246741946-LOWES_EARNS.jpeg?v=1786561309&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-19T10:45:20+00:00"
   },
   {
    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
@@ -122,6 +133,17 @@
    "published": "2026-08-19T10:00:00+00:00"
   },
   {
+   "title": "Chicago Bears News: A hard training practice left tackle adjustments take center stage",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/120879/chicago-bears-news-a-hard-training-practice-left-tackle-adjustments-take-center-stage",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/09/gettyimages-2229989399.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1h ago",
+   "published": "2026-08-19T10:00:00+00:00"
+  },
+  {
    "title": "Bears Camp Report: Fights break out, left tackle shuffle, injury updates",
    "url": "https://www.windycitygridiron.com/chicago-bears-training-camp/120878/bears-camp-report-fights-break-out-left-tackle-shuffle-injury-updates",
    "source": "Windy City Gridiron",
@@ -129,7 +151,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY294917402091637986.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-19T01:46:21+00:00"
   },
   {
@@ -184,7 +206,7 @@
    "topic": "ai",
    "summary": "US healthcare is broken. Under RFK Jr., the research agency working to fix it is, too.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2237968141-1152x648.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-18T22:32:46+00:00"
   },
   {
@@ -195,7 +217,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-18T22:30:06+00:00"
   },
   {
@@ -206,7 +228,7 @@
    "topic": "ai",
    "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.13.55-PM-1152x648.png",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-18T22:18:13+00:00"
   },
   {
@@ -239,7 +261,7 @@
    "topic": "defense",
    "summary": "Today’s decision comes after decades of fits and starts to find a new mobile howitzer, including the ill-fated Crusader, Non-Line-of-Sight Cannon and Extended Range Cann…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/K9-on-the-move-2-e1787088335140-1024x576.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-18T21:28:37+00:00"
   },
   {
@@ -283,7 +305,7 @@
    "topic": "ai",
    "summary": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1027979078-604311108-composite.jpg?resize=1200,675",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-18T20:36:20+00:00"
   },
   {
@@ -294,7 +316,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/18/eb833586-e610-470d-8c32-c6be4cd8f736/gettyimages-2237180409-1-1.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-18T20:24:33+00:00"
   },
   {
@@ -305,7 +327,7 @@
    "topic": "defense",
    "summary": "An AH-64 squadron is moving from Ramon to Ramat David as Israel shifts more attack helicopter capacity toward the northern front. The post Israel Moves AH-64 Apaches Clo…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/AH-64A-Peten.jpg?quality=85",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-18T19:19:49+00:00"
   },
   {
@@ -338,7 +360,7 @@
    "topic": "defense",
    "summary": "The so-called characteristics of need (CoN) approach follows a similar pattern in communications and electromagnetic spectrum capabilities.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9655801-scaled-e1787078220840-1024x577.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-18T18:36:00+00:00"
   },
   {
@@ -349,7 +371,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-18T18:20:50+00:00"
   },
   {
@@ -360,7 +382,7 @@
    "topic": "defense",
    "summary": "The stated goal is to clean out obsolete satellites, though the capabilities could also be used in weapons that move a target bird to an orbit where it no longer can per…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Screenshot-2026-08-17-at-6.13.43-PM-1024x560.png",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-18T17:30:00+00:00"
   },
   {
@@ -371,7 +393,7 @@
    "topic": "defense",
    "summary": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BFGNVLQDFVDZTNDXMT6WCFFDA4.webp",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-18T16:41:58+00:00"
   },
   {
@@ -395,28 +417,6 @@
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yrksswm5utwvouoqphmy.jpg",
    "age": "19h ago",
    "published": "2026-08-18T15:48:12+00:00"
-  },
-  {
-   "title": "U.S., Allies Hold Major Ballistic Missile Defense Drill; New Zealand Starts Pacific Patrol",
-   "url": "https://news.usni.org/2026/08/18/u-s-allies-hold-major-ballistic-missile-defense-drill-new-zealand-starts-pacific-patrol",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "U.S. 3rd Fleet, multinational partners and the Missile Defense Agency wrapped up ballistic missile defense exercise Pacific Dragon 2026 on Saturday around the Hawaiian I…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9865680-scaled.jpg",
-   "age": "19h ago",
-   "published": "2026-08-18T15:38:18+00:00"
-  },
-  {
-   "title": "Chicago Bears Question of the Day: Will Kyler Gordon ever be the same?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/120807/chicago-bears-question-of-the-day-will-kyler-gordon-ever-be-the-same",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2176133408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "20h ago",
-   "published": "2026-08-18T15:00:00+00:00"
   },
   {
    "title": "US Army requests 133,000 GMLRS rockets by 2034",
