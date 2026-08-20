@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T16:58:28+00:00",
+ "generated": "2026-08-20T17:26:59+00:00",
  "count": 40,
  "withImage": 35,
  "bearsDay": false,
@@ -13,7 +13,6 @@
   "Fox News",
   "Motorsport.com",
   "NASCAR.com",
-  "NWI Times",
   "On3",
   "TechCrunch",
   "The War Zone",
@@ -22,26 +21,103 @@
  ],
  "items": [
   {
-   "title": "US announces $4.5B sale of four KC-46A refueling aircraft to Qatar",
+   "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
+   "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108352211-17872404112026-08-20t153741z_1726519747_rc2f2nag98je_rtrmadp_0_usa-trump.jpeg?v=1787240447&amp;w=1920&amp;h=1080",
+   "age": "7m ago",
+   "published": "2026-08-20T17:19:03+00:00"
+  },
+  {
+   "title": "A third of webpages published since ChatGPT’s launch show signs of AI authorship, study finds",
+   "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+   "age": "8m ago",
+   "published": "2026-08-20T17:18:58+00:00"
+  },
+  {
+   "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
+   "url": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdogan not to test Israel s resolve after the Abu al-Duhur airbase strike in Syria.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/israeli-figther-jet.jpg?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-08-20T17:12:38+00:00"
+  },
+  {
+   "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
+   "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Adit-Singh-mayfield-headshot.jpg?resize=1200,800",
+   "age": "22m ago",
+   "published": "2026-08-20T17:04:53+00:00"
+  },
+  {
+   "title": "Sherrill escalates Trump fight over voter fiasco day after Mullin praises NJ cooperation",
+   "url": "https://www.foxnews.com/politics/sherrill-escalates-trump-fight-voter-fiasco-day-after-mullin-praises-nj-cooperation",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Mikie Sherrill released findings showing about 5,100 noncitizen voter registrations deleted due to a motor voter software error in New Jersey.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/sherrill.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-20T17:04:32+00:00"
+  },
+  {
+   "title": "An open marriage somehow leads to regret, woman hooks best friend up with sister's ex & dumb divorce excuses",
+   "url": "https://www.foxnews.com/outkick-culture/open-marriage-leads-regret-woman-hooks-best-friend-sister-ex-dumb-divorce-excuses",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Dakota Johnson and Role Model s breakup leads a week of romance stories including an open marriage gone wrong and dumb divorce reasons from Reddit.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/man-woman-drinks-bar-flirting.jpg?ve=1&tl=1",
+   "age": "30m ago",
+   "published": "2026-08-20T16:56:56+00:00"
+  },
+  {
+   "title": "Gavin Newsom avoids question on bringing back SAT scores after UC open letter, asks 'show me the data'",
+   "url": "https://www.foxnews.com/media/gavin-newsom-avoids-question-bringing-back-sat-scores-after-uc-open-letter-asks-show-me-data",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Gov. Gavin Newsom said he wants to see more data before deciding whether to support reinstating SAT and ACT requirements at University of California campuses.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/governor-gavin-newsom.jpg?ve=1&tl=1",
+   "age": "30m ago",
+   "published": "2026-08-20T16:56:29+00:00"
+  },
+  {
+   "title": "US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar",
    "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar/",
    "source": "Breaking Defense",
    "group": "Breaking Defense",
    "topic": "defense",
    "summary": "“The proposed sale will increase Qatar’s capability to meet current and future threats by enhancing its defense capabilities, the US State Department said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/09/240913_DVIDS_kc46_japan_4866234-scaled-e1726259068659-1024x577.jpg",
-   "age": "3m ago",
+   "age": "32m ago",
    "published": "2026-08-20T16:54:40+00:00"
   },
   {
-   "title": "ActBlue co-founder pleads Fifth Amendment in closed-door House GOP grilling",
-   "url": "https://www.foxnews.com/politics/actblue-co-founder-pleads-fifth-amendment-closed-door-house-gop-grilling",
+   "title": "Florida Senate candidate Angie Nixon defends drag shows as 'wholesome' for children, brought her kids to one",
+   "url": "https://www.foxnews.com/media/florida-senate-candidate-angie-nixon-defends-drag-shows-wholesome-children-brought-kids",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Matt DeBergalis pleaded the Fifth Amendment during his deposition before three House committees investigating ActBlue s fraud prevention standards.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/act-blue-offices-getty.jpg?ve=1&tl=1",
-   "age": "10m ago",
-   "published": "2026-08-20T16:48:04+00:00"
+   "summary": "Democratic socialist Florida state Rep. Angie Nixon defended drag shows as wholesome entertainment, saying she has taken her own children to them.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Angie-Nixon-speaks-at-event.png?ve=1&tl=1",
+   "age": "34m ago",
+   "published": "2026-08-20T16:52:49+00:00"
   },
   {
    "title": "Ramp launches its own AI model router, called Router",
@@ -51,7 +127,7 @@
    "topic": "ai",
    "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
-   "age": "12m ago",
+   "age": "40m ago",
    "published": "2026-08-20T16:46:00+00:00"
   },
   {
@@ -62,30 +138,8 @@
    "topic": "markets",
    "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
    "image": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
+   "age": "44m ago",
    "published": "2026-08-20T16:42:56+00:00"
-  },
-  {
-   "title": "Michigan Dem invokes comparison to Jesus when pressed on socialist views: 'Radical in his time, too'",
-   "url": "https://www.foxnews.com/politics/michigan-dem-invokes-comparison-jesus-when-pressed-socialist-views-radical-his-time-too",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Michigan Democratic Senate nominee Abdul El-Sayed compared his progressive policies to Jesus Christ s teachings on a podcast earlier this year.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-michigan-senate-press-conference.jpg?ve=1&tl=1",
-   "age": "18m ago",
-   "published": "2026-08-20T16:39:45+00:00"
-  },
-  {
-   "title": "The Terminal List season 2 first preview drops with Chris Pratt returning as Navy SEAL James Reece",
-   "url": "https://www.foxnews.com/outkick-culture/terminal-list-season-2-first-preview-drops-chris-pratt-returning-navy-seal-james-reece",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Terminal List season 2 preview shows Chris Pratt s James Reece in a globe-trotting espionage thriller based on Jack Carr s True Believer.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/The_Terminal_List.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-08-20T16:38:22+00:00"
   },
   {
    "title": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
@@ -95,30 +149,8 @@
    "topic": "defense",
    "summary": "The U.S. Department of State approved a possible $4.5 billion Foreign Military Sale to Qatar for up to four KC-46As and related equipment.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WTVICPRJFNBDLP7RUGBRIMZUAA.jpg",
-   "age": "22m ago",
+   "age": "50m ago",
    "published": "2026-08-20T16:36:23+00:00"
-  },
-  {
-   "title": "Racer Sting Ray Robb gears up for Freedom 250 Grand Prix: 'This is more than just an IndyCar event'",
-   "url": "https://www.foxnews.com/outkick-sports/racer-sting-ray-robb-gears-freedom-250-grand-prix-more-than-indycar-event",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sting Ray Robb says the IndyCar Freedom 250 Grand Prix around Washington, D.C., is a once-in-a-lifetime celebration of America s 250th birthday.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/sting-ray-robb-indianapolis-500-carb-day.jpg?ve=1&tl=1",
-   "age": "32m ago",
-   "published": "2026-08-20T16:26:10+00:00"
-  },
-  {
-   "title": "Three teams ranked outside the 2026 preseason AP Poll who will crash the party by season's end",
-   "url": "https://www.foxnews.com/outkick-sports/three-teams-ranked-outside-2026-preseason-ap-poll-crash-party-seasons-end",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Virginia Tech Hokies, South Carolina Gamecocks, and Florida Gators all missed the preseason AP Poll but have the talent to earn a ranking by January.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/nyck-harbor-1-111525.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-08-20T16:25:27+00:00"
   },
   {
    "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
@@ -128,7 +160,7 @@
    "topic": "ai",
    "summary": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-   "age": "36m ago",
+   "age": "1h ago",
    "published": "2026-08-20T16:22:19+00:00"
   },
   {
@@ -139,19 +171,8 @@
    "topic": "defense",
    "summary": "The new directive, signed off by Deputy Defense Secretary Steve Feinberg, is meant to “reset” the Pentagon’s expectations for supplier cost and pricing information.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/250225_feinberg_testimony_8885249-scaled-e1740510119294-1024x577.jpg",
-   "age": "38m ago",
+   "age": "1h ago",
    "published": "2026-08-20T16:19:50+00:00"
-  },
-  {
-   "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
-   "url": "https://www.cnbc.com/2026/08/20/bessent-economy-iran-war-trump.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108352211-17872404112026-08-20t153741z_1726519747_rc2f2nag98je_rtrmadp_0_usa-trump.jpeg?v=1787240447&amp;w=1920&amp;h=1080",
-   "age": "44m ago",
-   "published": "2026-08-20T16:14:24+00:00"
   },
   {
    "title": "This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon",
@@ -161,7 +182,7 @@
    "topic": "defense",
    "summary": "Castelion aims at building more affordable and usable hypersonic weapons that can be churned out at high production rates. The post This Is The New Blackbeard ‘Cheap’ Hy…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Caselion-missile.jpg?quality=85",
-   "age": "48m ago",
+   "age": "1h ago",
    "published": "2026-08-20T16:09:39+00:00"
   },
   {
@@ -172,7 +193,7 @@
    "topic": "ai",
    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
-   "age": "51m ago",
+   "age": "1h ago",
    "published": "2026-08-20T16:07:26+00:00"
   },
   {
@@ -183,19 +204,8 @@
    "topic": "markets",
    "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349367-1786649251374-drone_1024.png?v=1786649334&amp;w=1920&amp;h=1080",
-   "age": "51m ago",
+   "age": "1h ago",
    "published": "2026-08-20T16:07:24+00:00"
-  },
-  {
-   "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
-   "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890326356_97f3ad26d5_k.jpg?resize=1200,801",
-   "age": "58m ago",
-   "published": "2026-08-20T16:00:00+00:00"
   },
   {
    "title": "AI data center outrage is showing up everywhere from ads to elections",
@@ -218,6 +228,17 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/06/IMG_4990-scaled-e1687456762892-1024x576.jpg",
    "age": "1h ago",
    "published": "2026-08-20T15:55:13+00:00"
+  },
+  {
+   "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
+   "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108225096-1762985318201-gettyimages-2230322266-WALMART_EARNS.jpeg?v=1762985452&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-20T15:51:26+00:00"
   },
   {
    "title": "U.S. National Security Science & Technology Strategy",
@@ -260,7 +281,7 @@
    "topic": "defense",
    "summary": "“It is critically important for us in this time, a time of not living in peace time that both in words and deeds to not make any steps to create an image that would indi…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260710_nato_summit_trump_GettyImages-2284609608-e1783693669801.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-20T14:24:00+00:00"
   },
   {
@@ -271,19 +292,8 @@
    "topic": "ai",
    "summary": "The yeetcycling math resembles asteroid mining in reverse.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/yeetcycling-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-08-20T13:59:50+00:00"
-  },
-  {
-   "title": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
-   "url": "https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Task Force Lexington houses all of Army Cyber Command s AI efforts, including an AI red team.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/250620_DVIDS_army_computer_9097412-e1750444098988-1024x577.jpg",
    "age": "3h ago",
-   "published": "2026-08-20T13:57:40+00:00"
+   "published": "2026-08-20T13:59:50+00:00"
   },
   {
    "title": "Reverse-lookup service exposed millions of photos of people’s faces",
@@ -304,7 +314,7 @@
    "topic": "ai",
    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-20T13:00:35+00:00"
   },
   {
@@ -315,19 +325,8 @@
    "topic": "defense",
    "summary": "Switzerland's envisioned plus-up for air defense comes amid a heightened threat situation and long delivery times for defense equipment, officials said.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SF26XJZEJ5HPLK245NYRPFJB4Y.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-20T12:20:03+00:00"
-  },
-  {
-   "title": "Trees offer shade and beauty, but storms expose their risks",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9db88019-88c7-444a-b724-8bcf65ff7598.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Is that beautiful tree in your yard actually a disaster waiting to happen? The trees we once saw as comforting symbols of nature now look like potential weapons of destr…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/28/a28af5c7-5bd4-4fbb-83cf-442cd555284e/6a85f26ddef17.image.jpg?resize=300%2C225",
-   "age": "4h ago",
-   "published": "2026-08-20T12:15:00+00:00"
   },
   {
    "title": "Hendrick driver set for 2027 return after NASCAR Cup Series snub",
@@ -337,7 +336,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-20T11:00:02+00:00"
   },
   {
@@ -348,7 +347,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-20T10:01:19+00:00"
   },
   {
@@ -381,7 +380,7 @@
    "topic": "defense",
    "summary": "The USAF's new EA-37B Compass Call electronic warfare jet was part of a larger NATO package that flew along the doorstep of Russia's strategic military outpost. The post…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Compass-Call-Kgrad.jpg?quality=85",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-19T21:06:53+00:00"
   },
   {
@@ -392,7 +391,7 @@
    "topic": "defense",
    "summary": "Major radar changes mean 'illuminators' are needed to help Evolved Sea Sparrow Missiles protect the carrier. The post New USS John F. Kennedy Brings Back Key Feature Fro…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Radar-illuminator-USS-John-F-KennedyESSM.jpg?quality=85",
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-19T19:15:29+00:00"
   },
   {
