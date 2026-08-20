@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T14:06:09+00:00",
+ "generated": "2026-08-20T15:02:02+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": false,
@@ -13,6 +13,7 @@
   "Fox News",
   "Motorsport.com",
   "NASCAR.com",
+  "NWI Times",
   "On3",
   "TechCrunch",
   "The War Zone",
@@ -21,6 +22,28 @@
  ],
  "items": [
   {
+   "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+   "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&amp;w=1920&amp;h=1080",
+   "age": "2m ago",
+   "published": "2026-08-20T14:59:55+00:00"
+  },
+  {
+   "title": "Dem’s ‘sexist’ remark against cancer survivor provokes Republican to go scorched earth: ‘Guy’s got a problem’",
+   "url": "https://www.foxnews.com/politics/dems-sexist-remark-against-cancer-survivor-provokes-republican-go-scorched-earth-guys-got-problem",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Republican U.S. Senate candidate Mike Collins calls Jon Ossoff s viral remark about White House aide Natalie Harp sexist and misogynistic.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/natalie-harp-jon-ossoff.png?ve=1&tl=1",
+   "age": "11m ago",
+   "published": "2026-08-20T14:50:24+00:00"
+  },
+  {
    "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention",
    "url": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
    "source": "CNBC",
@@ -28,52 +51,74 @@
    "topic": "markets",
    "summary": "Bond yields edged higher after pulling back sharply during Wednesday's session.",
    "image": "https://image.cnbcfm.com/api/v1/image/108344539-1787233599084-108344539-1785853710278-Traders-Photo-20260803-KK-PRESS-016.jpg?v=1787233699&amp;w=1920&amp;h=1080",
-   "age": "3m ago",
-   "published": "2026-08-20T14:02:31+00:00"
+   "age": "14m ago",
+   "published": "2026-08-20T14:47:28+00:00"
   },
   {
-   "title": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
-   "url": "https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts/",
+   "title": "Longtime ESPN reporter Holly Rowe openly weeps before WNBA game and Caitlin Clark is to blame",
+   "url": "https://www.foxnews.com/outkick-sports/longtime-espn-reporter-holly-rowe-openly-weeps-wnba-game-caitlin-clark-blame",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Holly Rowe filmed herself crying over the sold-out Scotiabank Arena crowd, but the video left out a key detail about why 19,000 fans showed up.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/holly-rowe-caitlin-clark-interview.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-08-20T14:43:26+00:00"
+  },
+  {
+   "title": "Carrier USS George Washington Now in the Middle East",
+   "url": "https://news.usni.org/2026/08/20/carrier-uss-george-washington-now-in-the-middle-east",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "USS George Washington (CVN-73) arrived in the U.S. Central Command area of responsibility yesterday, the combatant command announced on social media. The aircraft carrie…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9876799-scaled.jpg",
+   "age": "22m ago",
+   "published": "2026-08-20T14:40:01+00:00"
+  },
+  {
+   "title": "Colton Burpo describes meeting Jesus and hearing angels sing during near-death experience",
+   "url": "https://www.foxnews.com/media/colton-burpo-describes-meeting-jesus-hearing-angels-sing-during-near-death-experience",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Colton Burpo describes sitting on Jesus lap and hearing angels sing during his near-death experience at age 3, which inspired Heaven Is for Real.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/colton-burpo-hang-out-with-sean-hannity.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-20T14:39:21+00:00"
+  },
+  {
+   "title": "Genesis joins the giant electric SUV club with new GV90",
+   "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6723-photo-3-gv90-exterior-1152x648.jpg",
+   "age": "26m ago",
+   "published": "2026-08-20T14:35:58+00:00"
+  },
+  {
+   "title": "Boater's stunt to awaken sleeping polar bear backfires after brazen horn blast",
+   "url": "https://www.foxnews.com/travel/boaters-stunt-wake-sleeping-polar-bear-backfires-brazen-horn-blast",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A boater in Svalbard, Norway, was fined 50,000 Norwegian kroner, or roughly $5,300, after intentionally using a ship horn to wake a sleeping polar bear on land.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/boat-norway.jpg?ve=1&tl=1",
+   "age": "28m ago",
+   "published": "2026-08-20T14:33:47+00:00"
+  },
+  {
+   "title": "Estonian lawmaker calls US questionnaire to NATO ‘unnecessary stress test’",
+   "url": "https://breakingdefense.com/2026/08/estonian-lawmaker-calls-us-questionnaire-to-nato-unnecessary-stress-test/",
    "source": "Breaking Defense",
    "group": "Breaking Defense",
    "topic": "defense",
-   "summary": "Task Force Lexington houses all of Army Cyber Command s AI efforts, including an AI red team.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/250620_DVIDS_army_computer_9097412-e1750444098988-1024x577.jpg",
-   "age": "8m ago",
-   "published": "2026-08-20T13:57:40+00:00"
-  },
-  {
-   "title": "New judge has days to decide whether Karmelo Anthony's conviction and 35-year sentence survive",
-   "url": "https://www.foxnews.com/us/new-judge-days-decide-whether-carmelo-anthony-conviction-35-year-sentence-survive",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Karmelo Anthony s new trial motion faces a Monday deadline as retired Judge Michael Chitty must decide whether to overturn the murder conviction.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/karmelo-anthony-and-austin-metcalf.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-08-20T13:52:48+00:00"
-  },
-  {
-   "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-   "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108349367-1786649251374-drone_1024.png?v=1786649334&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
-   "published": "2026-08-20T13:50:21+00:00"
-  },
-  {
-   "title": "Florida socialist Angie Nixon says she doesn’t ‘really know’ Hasan Piker",
-   "url": "https://www.foxnews.com/media/florida-socialist-angie-nixon-says-she-doesnt-really-know-hasan-piker",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Angie Nixon told Gayle King on CBS Mornings she doesn t personally know Hasan Piker as she pivots toward her general election fight against Ashley Moody.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/04/931/523/redistrict2.jpg?ve=1&tl=1",
-   "age": "17m ago",
-   "published": "2026-08-20T13:49:03+00:00"
+   "summary": "“It is critically important for us in this time, a time of not living in peace time that both in words and deeds to not make any steps to create an image that would indi…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260710_nato_summit_trump_GettyImages-2284609608-e1783693669801.jpg",
+   "age": "38m ago",
+   "published": "2026-08-20T14:24:00+00:00"
   },
   {
    "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
@@ -83,8 +128,63 @@
    "topic": "markets",
    "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
    "image": "https://image.cnbcfm.com/api/v1/image/108225096-1762985318201-gettyimages-2230322266-WALMART_EARNS.jpeg?v=1762985452&amp;w=1920&amp;h=1080",
-   "age": "17m ago",
-   "published": "2026-08-20T13:48:48+00:00"
+   "age": "40m ago",
+   "published": "2026-08-20T14:21:29+00:00"
+  },
+  {
+   "title": "Austin Abrams fights to escape a 60-ton sperm whale in new 'Whalefall' trailer with Josh Brolin",
+   "url": "https://www.foxnews.com/outkick-culture/austin-abrams-fights-escape-60-ton-sperm-whale-whalefall-trailer-josh-brolin",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The trailer for Whalefall stars Austin Abrams and Josh Brolin in a story about a scuba diver swallowed by a sperm whale with one hour of oxygen.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/josh_brolin.jpg?ve=1&tl=1",
+   "age": "53m ago",
+   "published": "2026-08-20T14:08:39+00:00"
+  },
+  {
+   "title": "AI data center outrage is showing up everywhere from ads to elections",
+   "url": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108341369-1785271277330-gettyimages-2288055062-dji_20260728114414_0403_d_ib5hrz7e.jpeg?v=1785271401&amp;w=1920&amp;h=1080",
+   "age": "57m ago",
+   "published": "2026-08-20T14:04:23+00:00"
+  },
+  {
+   "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+   "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The yeetcycling math resembles asteroid mining in reverse.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/yeetcycling-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-20T13:59:50+00:00"
+  },
+  {
+   "title": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
+   "url": "https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Task Force Lexington houses all of Army Cyber Command s AI efforts, including an AI red team.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/250620_DVIDS_army_computer_9097412-e1750444098988-1024x577.jpg",
+   "age": "1h ago",
+   "published": "2026-08-20T13:57:40+00:00"
+  },
+  {
+   "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
+   "url": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108349367-1786649251374-drone_1024.png?v=1786649334&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-20T13:50:21+00:00"
   },
   {
    "title": "Apollo Atomics wants to make nuclear power cheaper by shrinking an overlooked part",
@@ -94,41 +194,19 @@
    "topic": "ai",
    "summary": "Y Combinator alumnus Apollo Atomics is shrinking a key nuclear reactor part, which promises to slash the cost of electricity below natural gas.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/apollo-atomics-nuclear-reactor.jpg?resize=1200,576",
-   "age": "21m ago",
+   "age": "1h ago",
    "published": "2026-08-20T13:45:00+00:00"
   },
   {
-   "title": "Battle over federal courthouses erupts as GSA warns against giving judiciary more control",
-   "url": "https://www.foxnews.com/politics/battle-federal-courthouses-erupts-gsa-warns-against-giving-judiciary-more-control",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "GSA says past judiciary property management led to costly maintenance problems, while the courts point to an $8.3 billion backlog under GSA.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/birmingham-courthouse.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-08-20T13:32:40+00:00"
-  },
-  {
-   "title": "Smokin' Charley Hull respects summer in a sizzling new social media post, Little League drama & illegal tackle",
-   "url": "https://www.foxnews.com/outkick-sports/smokin-charley-hull-respects-summer-sizzling-social-media-post-little-league-drama-illegal-tackle",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Mason Rincon s walk-off home run featured an apparent throat slash gesture, raising questions about travel ball culture in the Little League World Series.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/charley-hull-hsbc-womens-world-championship.jpg?ve=1&tl=1",
-   "age": "56m ago",
-   "published": "2026-08-20T13:10:07+00:00"
-  },
-  {
-   "title": "Bitcoin surges 11% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
-   "url": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108346110-1786034894698-gettyimages-1366240594-dsc01744.jpeg?v=1786035046&amp;w=1920&amp;h=1080",
-   "age": "59m ago",
-   "published": "2026-08-20T13:06:30+00:00"
+   "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+   "url": "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-20T13:29:54+00:00"
   },
   {
    "title": "AI data giant Alation confirms cyberattack",
@@ -138,19 +216,8 @@
    "topic": "ai",
    "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/alation.jpg?w=1186",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T13:01:24+00:00"
-  },
-  {
-   "title": "AI firefighting drones take aim at wildfires",
-   "url": "https://www.foxnews.com/science/ai-firefighting-drones-take-aim-wildfires",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "CAL FIRE tested Seneca s autonomous suppression drones in California, while XPRIZE finalists faced field challenges in Alaska during June 2026.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ai-firefighting-drones-2.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-20T13:00:45+00:00"
   },
   {
    "title": "Grok exfiltrates user data when malicious instructions are encrypted",
@@ -160,7 +227,7 @@
    "topic": "ai",
    "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/xai-grok-1152x648.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T13:00:35+00:00"
   },
   {
@@ -171,7 +238,7 @@
    "topic": "ai",
    "summary": "a16z’s Borderless Founder network initiative supports immigrant and international founders. 'Having one foot in your home country, and one foot in Silicon Valley,\" is an…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/gabriel-vasquez-a16z.jpg?resize=1200,675",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T13:00:00+00:00"
   },
   {
@@ -182,19 +249,8 @@
    "topic": "ai",
    "summary": "Hackers are targeting internet-connected Siemens controllers used in water facilities around the United States.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-system-1253161473.jpg?w=863",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T12:43:19+00:00"
-  },
-  {
-   "title": "Trump threatens 'Economic D-Day' for Iran and ‘tremendous’ consequences for its backers",
-   "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The announcement extends a pressure campaign the Trump administration has waged since April under the banner Operation Economic Fury.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108351808-1787168900566-gettyimages-2290597225-AFP_C62R99D.jpeg?v=1787168978&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-20T12:28:13+00:00"
   },
   {
    "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
@@ -204,8 +260,19 @@
    "topic": "defense",
    "summary": "Switzerland's envisioned plus-up for air defense comes amid a heightened threat situation and long delivery times for defense equipment, officials said.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SF26XJZEJ5HPLK245NYRPFJB4Y.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T12:20:03+00:00"
+  },
+  {
+   "title": "Trees offer shade and beauty, but storms expose their risks",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9db88019-88c7-444a-b724-8bcf65ff7598.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Is that beautiful tree in your yard actually a disaster waiting to happen? The trees we once saw as comforting symbols of nature now look like potential weapons of destr…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/28/a28af5c7-5bd4-4fbb-83cf-442cd555284e/6a85f26ddef17.image.jpg?resize=300%2C225",
+   "age": "2h ago",
+   "published": "2026-08-20T12:15:00+00:00"
   },
   {
    "title": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
@@ -215,7 +282,7 @@
    "topic": "defense",
    "summary": "The National Security Science Technology Strategy (NSSTS) also outlines an array of second-tier or longer-term technologies to watch, notably quantum and biotech.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260819_DVIDS_sub_sailing_9353211-scaled-e1787169323902-1024x577.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-20T11:55:00+00:00"
   },
   {
@@ -226,7 +293,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-20T11:00:02+00:00"
   },
   {
@@ -237,19 +304,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-20T10:01:19+00:00"
-  },
-  {
-   "title": "NASA calls off mission to rescue Swift gamma-ray observatory",
-   "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg",
-   "age": "13h ago",
-   "published": "2026-08-20T00:18:48+00:00"
   },
   {
    "title": "China’s Reusable Space Launch Booster Recoveries Have Major Military Implications",
@@ -259,19 +315,8 @@
    "topic": "defense",
    "summary": "A reusable space launch capability similar to SpaceX's Falcon 9 will degrade a key U.S. advantage in space access for national security as well as commercial application…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/chinese-reuable-space-launch-booster-milestones.jpg?quality=85",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-19T23:43:18+00:00"
-  },
-  {
-   "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-   "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg",
-   "age": "16h ago",
-   "published": "2026-08-19T22:02:38+00:00"
   },
   {
    "title": "Marines are Training Fireteams to Deploy Combat Drones",
@@ -281,7 +326,7 @@
    "topic": "defense",
    "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9873070-scaled.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-19T21:31:45+00:00"
   },
   {
@@ -292,7 +337,7 @@
    "topic": "defense",
    "summary": "Emissions equals target. Emissions put a bullseye on wherever you are, or wherever that emission is detected, the general who helms I Corps said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260919_DVIDS_army_radio_9755516-scaled-e1787174284439-1024x577.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-19T21:18:54+00:00"
   },
   {
@@ -303,30 +348,8 @@
    "topic": "defense",
    "summary": "The USAF's new EA-37B Compass Call electronic warfare jet was part of a larger NATO package that flew along the doorstep of Russia's strategic military outpost. The post…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Compass-Call-Kgrad.jpg?quality=85",
-   "age": "16h ago",
-   "published": "2026-08-19T21:06:53+00:00"
-  },
-  {
-   "title": "Framework responds to complaints that BIOS update bricks Ryzen 7040 laptops",
-   "url": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
    "age": "17h ago",
-   "published": "2026-08-19T20:21:59+00:00"
-  },
-  {
-   "title": "Striveworks to build AI layer for NGC2 at corps level, Army says",
-   "url": "https://breakingdefense.com/2026/08/striveworks-to-build-ai-layer-for-ngc2-at-corps-level-army-says/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Striveworks s models will be able to compress hours of staff work into seconds, CEO Jim Rebesco told Breaking Defense.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334-1024x577.jpg",
-   "age": "18h ago",
-   "published": "2026-08-19T20:00:00+00:00"
+   "published": "2026-08-19T21:06:53+00:00"
   },
   {
    "title": "New USS John F. Kennedy Brings Back Key Feature From The Nimitz Class",
@@ -336,19 +359,8 @@
    "topic": "defense",
    "summary": "Major radar changes mean 'illuminators' are needed to help Evolved Sea Sparrow Missiles protect the carrier. The post New USS John F. Kennedy Brings Back Key Feature Fro…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Radar-illuminator-USS-John-F-KennedyESSM.jpg?quality=85",
-   "age": "18h ago",
-   "published": "2026-08-19T19:15:29+00:00"
-  },
-  {
-   "title": "Pentagon rebuffed repeated requests for Golden Dome brief: CBO",
-   "url": "https://breakingdefense.com/2026/08/pentagon-rebuffed-repeated-requests-for-golden-dome-brief-cbo/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "David Mosher, head of the Congressional Budget Office s National Security Directorate, stressed that the watchdog office was tasked with estimating the price tag for imp…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD2026-3-1024x576.jpg",
    "age": "19h ago",
-   "published": "2026-08-19T18:55:42+00:00"
+   "published": "2026-08-19T19:15:29+00:00"
   },
   {
    "title": "Connor Zilisch couldn’t say ‘no’ to a Cup ride at Hendrick Motorsports",
@@ -358,7 +370,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-19T18:37:11+00:00"
   },
   {
@@ -369,7 +381,7 @@
    "topic": "defense",
    "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-19T16:57:54+00:00"
   },
   {
@@ -380,7 +392,7 @@
    "topic": "defense",
    "summary": "First images show Blue Spear missile launcher aboard RSS Steadfast, offering a glimpse of Singapore’s evolving naval strike capability. The post Singapore’s Formidable C…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Singapore-anti-ship-missile-frigate.jpg?quality=85",
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-19T16:24:15+00:00"
   },
   {
@@ -391,7 +403,7 @@
    "topic": "defense",
    "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PF3FSR5DQBDSLFLRTFX6RQ7HRE.JPG",
-   "age": "22h ago",
+   "age": "23h ago",
    "published": "2026-08-19T15:23:40+00:00"
   },
   {
@@ -402,7 +414,7 @@
    "topic": "defense",
    "summary": "This post has been updated with additional information from the Navy. The Navy has charged a sailor with murder and involuntary manslaughter in the death of another sail…",
    "image": "https://news.usni.org/wp-content/uploads/2026/02/JFKreturns-scaled.jpeg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-19T14:38:49+00:00"
   },
   {
@@ -413,7 +425,7 @@
    "topic": "ai",
    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of Vent…",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
@@ -437,17 +449,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-7.22.51-AM.png",
    "age": "1d ago",
    "published": "2026-08-19T11:24:21+00:00"
-  },
-  {
-   "title": "Taiwan’s Tanks",
-   "url": "https://news.usni.org/2026/08/18/taiwans-tanks",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "TAOYUAN, TAIWAN Crews trained their 30mm cannons, machine guns and anti-tank missile launchers west toward Taiwan Taoyuan International Airport, the focal point of a def…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/DSC02058-scaled.jpg",
-   "age": "1d ago",
-   "published": "2026-08-18T21:47:24+00:00"
   },
   {
    "title": "DARPA came close to finding a drone that can lift four times its own weight",
