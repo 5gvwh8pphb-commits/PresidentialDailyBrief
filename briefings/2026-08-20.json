@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-20",
+  "dateLabel": "Thursday, August 20, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-20T09:16:43Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, August 19, 2026 close — stocks snapped a three-day losing streak as the Treasury eased bond-market pressure and retailers posted strong earnings.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,707.98", "change": "+16.22", "changePct": "+0.21%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,463.05", "change": "+119.65", "changePct": "+0.22%", "sixMo": "+7.7%" },
+        { "name": "Nasdaq",  "close": "26,331.09", "change": "+41.38", "changePct": "+0.16%", "sixMo": "+15%" }
+      ],
+      "body": "The rebound followed a Treasury Department announcement that it would increase buybacks of long-dated government debt, pulling yields down from their recent multi-decade highs, while strong earnings from Estée Lauder and Target lifted consumer-goods shares.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-8192026-135786651"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "UAE suspends all trade with Iran after intercepting missiles fired at its territory",
+      "body": "The UAE's Ministry of Foreign Affairs halted all trade, commercial exchanges and financial transactions with Iran until further notice after its air-defense systems intercepted two ballistic missiles launched from Iran, one of which fell inside UAE territorial waters; Iran denied firing them. The move by one of Iran's largest trading partners piles fresh economic pressure on Tehran with the US-Iran ceasefire still unresolved.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/08/19/uae-says-it-is-suspending-trade-with-iran-after-missile-attack/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "China completes first phase of new South China Sea base near key Taiwan approaches",
+      "body": "China finished initial construction on Antelope Reef in the Paracels, building a nearly 4-mile reclaimed island with a 680-meter wharf, deep-water harbor and helicopter facilities; analysts say the site could eventually host a runway and bombers, extending China's reach over waters seen as critical to any future Taiwan conflict and complicating US and allied submarine operations.",
+      "source": "The China-Global South Project",
+      "url": "https://chinaglobalsouth.com/2026/08/19/china-antelope-reef-south-china-sea-military-base/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Iran reportedly weighs striking US bases in Europe, including one in Bulgaria, if war escalates",
+      "body": "The Financial Times reported that Iranian officials have discussed hitting US military facilities in southeastern Europe — including Bulgaria's Bezmer Air Base, which hosts roughly 250 US personnel and eight refueling tankers — plus British facilities on Cyprus and undersea fiber-optic cables in the Strait of Hormuz, should Washington escalate the conflict; a source close to Tehran said Iran would 'defend itself at any price' and go 'beyond the region' if the US goes too far.",
+      "source": "Stars and Stripes",
+      "url": "https://www.stripes.com/theaters/europe/2026-08-19/iran-europe-attacks-22598834.html"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "headline": "Navy tests first submarine-launched HADALUS underwater drone off Rhode Island",
+      "body": "Raytheon and Composite Energy Technology's 34-foot HADALUS unmanned underwater vehicle completed an end-to-end submerged launch off Portsmouth, Rhode Island, detecting, reacquiring and responding to a target in a single mission — the first demonstration of a submarine-launched vehicle of its kind; the team built it in under 18 months at roughly a third to a fifth the cost of comparable systems.",
+      "source": "Sea Wanderer",
+      "url": "https://seawanderer.org/us-navy-tests-submerged-launch-of-long-endurance-hadalus-uuv/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "OpenAI pauses parts of its Astra model over 'critical' cyber-risk fears as Anthropic holds firm",
+      "body": "OpenAI told Axios it is slowing work on its unreleased Astra model after internal tests couldn't rule out that it had crossed the 'critical' cybersecurity threshold in the company's safety framework, meaning it might autonomously find and exploit zero-day vulnerabilities in hardened systems; the pause comes days after rival Anthropic said its own safety measures let it keep moving at full speed, underscoring a growing split between the two labs over how to manage frontier-model risk.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/19/openai-astra-safety-altman-anthropic"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears shake up left tackle competition, moving Wills and Amegadjie to the right side",
+      "body": "Coach Ben Johnson moved Jedrick Wills and Kiran Amegadjie off left tackle to work at right tackle ahead of Tuesday's practice after neither impressed in the preseason opener, handing first-team left tackle reps back to Braxton Jones as he returns from his early-August knee injury; Theo Benedet took the second-team left tackle reps in the shuffle.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/18/bears-training-camp-qb-tyson-bagent-joins-bears-wounded-ben-johnson-grueling-physical-practice-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new roster, injury, schedule or sponsorship news on William Byron broke within the 72-hour window; Saturday's Cook Out 400 result at Richmond remains inside the 7-day spoiler window. Byron's next Cup start is the Dollar Tree 301 at New Hampshire Motor Speedway on Aug. 23.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
