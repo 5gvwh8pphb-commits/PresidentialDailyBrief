@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T05:52:47+00:00",
+ "generated": "2026-08-20T06:26:07+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": false,
@@ -8,12 +8,12 @@
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
+  "Daytona Beach News-Journal",
   "Defense News",
   "Fox News",
   "Motorsport.com",
   "NASCAR.com",
   "NWI Times",
-  "On3",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
@@ -22,15 +22,15 @@
  ],
  "items": [
   {
-   "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
-   "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&amp;w=1920&amp;h=1080",
-   "age": "22m ago",
-   "published": "2026-08-20T05:29:50+00:00"
+   "title": "Alina Habba shuts down speculation she could replace Karoline Leavitt as White House press secretary",
+   "url": "https://www.foxnews.com/politics/alina-habba-shuts-down-speculation-replace-karoline-leavitt-white-house-press-secretary",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Alina Habba publicly dismissed speculation she would replace Karoline Leavitt as White House press secretary, shifting Kalshi odds dramatically.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/alina-habba-ceremony.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-20T06:00:48+00:00"
   },
   {
    "title": "Trump scaling down U.S.-South Korea drills risks more than just joint military readiness",
@@ -40,8 +40,19 @@
    "topic": "markets",
    "summary": "The move by Trump also will start to raise questions about the credibility of Washington's commitment to alliances.",
    "image": "https://image.cnbcfm.com/api/v1/image/108351917-1787194970294-gettyimages-2228863853-csj11343_unvnmg4c.jpeg?v=1787195424&amp;w=1920&amp;h=1080",
-   "age": "44m ago",
-   "published": "2026-08-20T05:08:40+00:00"
+   "age": "29m ago",
+   "published": "2026-08-20T05:56:27+00:00"
+  },
+  {
+   "title": "Bitcoin, ether surge as Trump urges Congress to pass crypto Clarity Act",
+   "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Bitcoin and ether surged after U.S. President Donald Trump urged Congress to pass a bill that would set a regulatory framework for the cryptocurrency sector.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&amp;w=1920&amp;h=1080",
+   "age": "56m ago",
+   "published": "2026-08-20T05:29:50+00:00"
   },
   {
    "title": "Pennsylvania State Police helicopter, small plane collide in midair, killing 1 and injuring 2 state troopers",
@@ -73,19 +84,8 @@
    "topic": "world",
    "summary": "Lindsay Clancy called the National Suicide Prevention Lifeline twice before killing her children and was turned away both times, a psychologist testified.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Clancy-Split.jpg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T04:00:40+00:00"
-  },
-  {
-   "title": "Missouri judge hands Trump, GOP major redistricting win ahead of midterm elections",
-   "url": "https://www.foxnews.com/politics/missouri-judge-hands-trump-gop-major-redistricting-win-ahead-midterm-elections",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "President Donald Trump scored a major redistricting win as a Missouri judge ruled the GOP-backed map splitting Kansas City cannot face a referendum.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/anti-redistricting-protesters-missouri.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-20T03:52:49+00:00"
   },
   {
    "title": "SK Hynix shares surge over 12% in Seoul after announcing massive stock buyback",
@@ -117,7 +117,7 @@
    "topic": "ai",
    "summary": "Without a rescue, NASA's Swift Observatory is expected to reenter the atmosphere later this year.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-20T00:18:48+00:00"
   },
   {
@@ -150,7 +150,7 @@
    "topic": "ai",
    "summary": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-19T22:25:01+00:00"
   },
   {
@@ -161,7 +161,7 @@
    "topic": "ai",
    "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-19T22:10:46+00:00"
   },
   {
@@ -172,7 +172,7 @@
    "topic": "ai",
    "summary": "US residents face trade-offs as delivery drone services such as Prime Air expand.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Amazon-Prime-Air-drone-1152x648.jpeg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-19T22:02:38+00:00"
   },
   {
@@ -205,7 +205,7 @@
    "topic": "defense",
    "summary": "Emissions equals target. Emissions put a bullseye on wherever you are, or wherever that emission is detected, the general who helms I Corps said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260919_DVIDS_army_radio_9755516-scaled-e1787174284439-1024x577.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-19T21:18:54+00:00"
   },
   {
@@ -216,7 +216,7 @@
    "topic": "defense",
    "summary": "The USAF's new EA-37B Compass Call electronic warfare jet was part of a larger NATO package that flew along the doorstep of Russia's strategic military outpost. The post…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Compass-Call-Kgrad.jpg?quality=85",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-19T21:06:53+00:00"
   },
   {
@@ -227,7 +227,7 @@
    "topic": "ai",
    "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/IMG_1032-1152x648.jpeg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-19T20:21:59+00:00"
   },
   {
@@ -238,7 +238,7 @@
    "topic": "ai",
    "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273586740-1024x648.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-19T20:04:41+00:00"
   },
   {
@@ -249,7 +249,7 @@
    "topic": "defense",
    "summary": "Striveworks s models will be able to compress hours of staff work into seconds, CEO Jim Rebesco told Breaking Defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/10/Collins-Chad-Ford-DVIDS-7467434-scaled-e1787166872334-1024x577.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-19T20:00:00+00:00"
   },
   {
@@ -260,7 +260,7 @@
    "topic": "defense",
    "summary": "Major radar changes mean 'illuminators' are needed to help Evolved Sea Sparrow Missiles protect the carrier. The post New USS John F. Kennedy Brings Back Key Feature Fro…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Radar-illuminator-USS-John-F-KennedyESSM.jpg?quality=85",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-19T19:15:29+00:00"
   },
   {
@@ -271,7 +271,7 @@
    "topic": "defense",
    "summary": "David Mosher, head of the Congressional Budget Office s National Security Directorate, stressed that the watchdog office was tasked with estimating the price tag for imp…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD2026-3-1024x576.jpg",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-19T18:55:42+00:00"
   },
   {
@@ -282,7 +282,7 @@
    "topic": "defense",
    "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-19T16:57:54+00:00"
   },
   {
@@ -293,7 +293,7 @@
    "topic": "defense",
    "summary": "First images show Blue Spear missile launcher aboard RSS Steadfast, offering a glimpse of Singapore’s evolving naval strike capability. The post Singapore’s Formidable C…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Singapore-anti-ship-missile-frigate.jpg?quality=85",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-19T16:24:15+00:00"
   },
   {
@@ -304,7 +304,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-19T16:08:20+00:00"
   },
   {
@@ -326,7 +326,7 @@
    "topic": "defense",
    "summary": "The U.S. and South Korea will cut short their annual joint military drills and scale back field training after Trump ordered a reduction in participation.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PF3FSR5DQBDSLFLRTFX6RQ7HRE.JPG",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-19T15:23:40+00:00"
   },
   {
@@ -348,7 +348,7 @@
    "topic": "ai",
    "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of Vent…",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/14iDGoOPdfaOw0DODBNL9w/7f4d8c6b70797d9bf23a623cbfa3fea3/6ca16f96-3171-4f7e-8c89-f466a3901415.png?w=300&q=30",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
@@ -359,7 +359,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-19T13:56:11+00:00"
   },
   {
@@ -370,19 +370,8 @@
    "topic": "defense",
    "summary": "The following is the Aug. 11, 2026, Congressional Research Service report: Russian Hybrid Warfare Activities in Europe: Considerations for Congress. From the report Foll…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-19-at-7.22.51-AM.png",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-19T11:24:21+00:00"
-  },
-  {
-   "title": "Rick Hendrick sends defiant message amid Hendrick Motorsports struggles: ‘Never going to surrender’",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzdscS1tbW5jZ3dIOHpRUkVIaFNuVXNZYUxpTThzMlNZUzlYOTlHbEk3eHZGNEJLYlUyY2NfYU4ybkFNZVk3Qk5wQTI2Wm9KbzMzd2VZc0w3UGQ4SVdjWnBCWlg5THYzT1dEZWdkQkpleTI2WTM0RDRVQjRFWlk0S1VFdlZpRWswV041QlluTUxibXhkOWVWeVl3cnZ4U1Q5TTRtR3VjUkJheDE5VlhhcXZDMGFubGJ6ZTJrNnJ2bWZoZ3Z0ME9nRA?oc=5",
-   "source": "On3",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "18h ago",
-   "published": "2026-08-19T11:00:18+00:00"
   },
   {
    "title": "Taiwan’s Tanks",
@@ -416,6 +405,17 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UGDAMLLEKNESBFEXLGBVR3LVRU.JPG",
    "age": "1d ago",
    "published": "2026-08-18T16:01:40+00:00"
+  },
+  {
+   "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
+   "source": "Daytona Beach News-Journal",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "2d ago",
+   "published": "2026-08-17T20:29:00+00:00"
   },
   {
    "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
