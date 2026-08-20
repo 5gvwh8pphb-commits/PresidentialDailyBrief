@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-20T16:23:44+00:00",
+ "generated": "2026-08-20T16:58:28+00:00",
  "count": 40,
  "withImage": 35,
  "bearsDay": false,
@@ -13,6 +13,7 @@
   "Fox News",
   "Motorsport.com",
   "NASCAR.com",
+  "NWI Times",
   "On3",
   "TechCrunch",
   "The War Zone",
@@ -21,6 +22,105 @@
  ],
  "items": [
   {
+   "title": "US announces $4.5B sale of four KC-46A refueling aircraft to Qatar",
+   "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“The proposed sale will increase Qatar’s capability to meet current and future threats by enhancing its defense capabilities, the US State Department said.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/09/240913_DVIDS_kc46_japan_4866234-scaled-e1726259068659-1024x577.jpg",
+   "age": "3m ago",
+   "published": "2026-08-20T16:54:40+00:00"
+  },
+  {
+   "title": "ActBlue co-founder pleads Fifth Amendment in closed-door House GOP grilling",
+   "url": "https://www.foxnews.com/politics/actblue-co-founder-pleads-fifth-amendment-closed-door-house-gop-grilling",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Matt DeBergalis pleaded the Fifth Amendment during his deposition before three House committees investigating ActBlue s fraud prevention standards.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/act-blue-offices-getty.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-08-20T16:48:04+00:00"
+  },
+  {
+   "title": "Ramp launches its own AI model router, called Router",
+   "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+   "age": "12m ago",
+   "published": "2026-08-20T16:46:00+00:00"
+  },
+  {
+   "title": "California AG tells CNBC that settling Paramount-WBD lawsuit would require 'robust structural remedies'",
+   "url": "https://www.cnbc.com/2026/08/20/california-ag-bonta-paramount-wbd-lawsuit-remedies.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "California AG Rob Bonta discussed the states' antitrust case to block the Paramount Skydance-Warner Bros. Discovery merger with CNBC's David Faber.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108352165-1787237664975-108352165-1787236932205-gettyimages-2290512238-META_TRIAL.jpeg?v=1787237713&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-08-20T16:42:56+00:00"
+  },
+  {
+   "title": "Michigan Dem invokes comparison to Jesus when pressed on socialist views: 'Radical in his time, too'",
+   "url": "https://www.foxnews.com/politics/michigan-dem-invokes-comparison-jesus-when-pressed-socialist-views-radical-his-time-too",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Michigan Democratic Senate nominee Abdul El-Sayed compared his progressive policies to Jesus Christ s teachings on a podcast earlier this year.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/abdul-el-sayed-michigan-senate-press-conference.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-08-20T16:39:45+00:00"
+  },
+  {
+   "title": "The Terminal List season 2 first preview drops with Chris Pratt returning as Navy SEAL James Reece",
+   "url": "https://www.foxnews.com/outkick-culture/terminal-list-season-2-first-preview-drops-chris-pratt-returning-navy-seal-james-reece",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Terminal List season 2 preview shows Chris Pratt s James Reece in a globe-trotting espionage thriller based on Jack Carr s True Believer.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/The_Terminal_List.jpg?ve=1&tl=1",
+   "age": "20m ago",
+   "published": "2026-08-20T16:38:22+00:00"
+  },
+  {
+   "title": "US approves possible $4.5 billion sale of KC-46As, equipment to Qatar",
+   "url": "https://www.defensenews.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The U.S. Department of State approved a possible $4.5 billion Foreign Military Sale to Qatar for up to four KC-46As and related equipment.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WTVICPRJFNBDLP7RUGBRIMZUAA.jpg",
+   "age": "22m ago",
+   "published": "2026-08-20T16:36:23+00:00"
+  },
+  {
+   "title": "Racer Sting Ray Robb gears up for Freedom 250 Grand Prix: 'This is more than just an IndyCar event'",
+   "url": "https://www.foxnews.com/outkick-sports/racer-sting-ray-robb-gears-freedom-250-grand-prix-more-than-indycar-event",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sting Ray Robb says the IndyCar Freedom 250 Grand Prix around Washington, D.C., is a once-in-a-lifetime celebration of America s 250th birthday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/sting-ray-robb-indianapolis-500-carb-day.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-08-20T16:26:10+00:00"
+  },
+  {
+   "title": "Three teams ranked outside the 2026 preseason AP Poll who will crash the party by season's end",
+   "url": "https://www.foxnews.com/outkick-sports/three-teams-ranked-outside-2026-preseason-ap-poll-crash-party-seasons-end",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Virginia Tech Hokies, South Carolina Gamecocks, and Florida Gators all missed the preseason AP Poll but have the talent to earn a ranking by January.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/nyck-harbor-1-111525.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-08-20T16:25:27+00:00"
+  },
+  {
    "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
    "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
    "source": "TechCrunch",
@@ -28,8 +128,19 @@
    "topic": "ai",
    "summary": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-   "age": "1m ago",
+   "age": "36m ago",
    "published": "2026-08-20T16:22:19+00:00"
+  },
+  {
+   "title": "DoD memo pushes for more contractor pricing info, potential direct software link",
+   "url": "https://breakingdefense.com/2026/08/dod-memo-pushes-for-more-contractor-pricing-info-potential-direct-software-link/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The new directive, signed off by Deputy Defense Secretary Steve Feinberg, is meant to “reset” the Pentagon’s expectations for supplier cost and pricing information.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/250225_feinberg_testimony_8885249-scaled-e1740510119294-1024x577.jpg",
+   "age": "38m ago",
+   "published": "2026-08-20T16:19:50+00:00"
   },
   {
    "title": "Bessent says U.S. likely won't restart large-scale Iran combat as it steps up economic pressure",
@@ -39,19 +150,8 @@
    "topic": "markets",
    "summary": "Bessent and President Donald Trump unveiled the economic operation nearly six months into the Iran war, which continues without a clear end in sight.",
    "image": "https://image.cnbcfm.com/api/v1/image/108352211-17872404112026-08-20t153741z_1726519747_rc2f2nag98je_rtrmadp_0_usa-trump.jpeg?v=1787240447&amp;w=1920&amp;h=1080",
-   "age": "9m ago",
+   "age": "44m ago",
    "published": "2026-08-20T16:14:24+00:00"
-  },
-  {
-   "title": "Tulsi Gabbard gives promising, emotional update on husband's successful bone cancer surgery",
-   "url": "https://www.foxnews.com/politics/tulsi-gabbard-promising-emotional-update-husbands-successful-bone-cancer-surgery",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tulsi Gabbard s emotional video reveals Abraham Williams is cancer free after sacral chordoma surgery, but frequent MRIs will monitor his recovery.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/tulsi-gabbard-husband-fox-news.jpeg?ve=1&tl=1",
-   "age": "12m ago",
-   "published": "2026-08-20T16:10:51+00:00"
   },
   {
    "title": "This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon",
@@ -61,7 +161,7 @@
    "topic": "defense",
    "summary": "Castelion aims at building more affordable and usable hypersonic weapons that can be churned out at high production rates. The post This Is The New Blackbeard ‘Cheap’ Hy…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Caselion-missile.jpg?quality=85",
-   "age": "14m ago",
+   "age": "48m ago",
    "published": "2026-08-20T16:09:39+00:00"
   },
   {
@@ -72,7 +172,7 @@
    "topic": "ai",
    "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
-   "age": "16m ago",
+   "age": "51m ago",
    "published": "2026-08-20T16:07:26+00:00"
   },
   {
@@ -83,30 +183,8 @@
    "topic": "markets",
    "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349367-1786649251374-drone_1024.png?v=1786649334&amp;w=1920&amp;h=1080",
-   "age": "16m ago",
+   "age": "51m ago",
    "published": "2026-08-20T16:07:24+00:00"
-  },
-  {
-   "title": "Marc Jacobs says he'd dress Luigi Mangione at trial in podcast interview with fashion designer",
-   "url": "https://www.foxnews.com/us/marc-jacobs-dress-luigi-mangione-trial-podcast-interview-fashion-designer",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Marc Jacobs said he d style Luigi Mangione for trial and called the confessed assassin a trendsetter whose red sweater sold out at Nordstrom.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/luigi-mangione-marc-jacobs-split-2.png?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-08-20T16:03:22+00:00"
-  },
-  {
-   "title": "Alex Murdaugh defense team lied about polygraph results, prosecutors allege in new filing",
-   "url": "https://www.foxnews.com/us/alex-murdaugh-defense-team-lied-polygraph-results-prosecutors-allege-new-filing",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Prosecutors allege Alex Murdaugh s attorney lied about polygraph results, claiming he never took a lie detector test before his 2023 murder trial.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/state-says-alex-murdaugh-lawyer-lied-about-clients-polygraph-test.jpg?ve=1&tl=1",
-   "age": "21m ago",
-   "published": "2026-08-20T16:01:54+00:00"
   },
   {
    "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
@@ -116,29 +194,7 @@
    "topic": "ai",
    "summary": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890326356_97f3ad26d5_k.jpg?resize=1200,801",
-   "age": "23m ago",
-   "published": "2026-08-20T16:00:00+00:00"
-  },
-  {
-   "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-   "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creat…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Header-Image.png?resize=1200,675",
-   "age": "23m ago",
-   "published": "2026-08-20T16:00:00+00:00"
-  },
-  {
-   "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-   "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a pr…",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/08/nif-1209-18047.jpg?resize=1200,927",
-   "age": "23m ago",
+   "age": "58m ago",
    "published": "2026-08-20T16:00:00+00:00"
   },
   {
@@ -149,7 +205,7 @@
    "topic": "markets",
    "summary": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
    "image": "https://image.cnbcfm.com/api/v1/image/108352209-1787240171676-108352209-1787239895330-gettyimages-2287276842-TRUMP_GM_MICHIGAN.jpeg?v=1787240189&amp;w=1920&amp;h=1080",
-   "age": "27m ago",
+   "age": "1h ago",
    "published": "2026-08-20T15:56:12+00:00"
   },
   {
@@ -160,52 +216,8 @@
    "topic": "defense",
    "summary": "“We believe HÜRJET has the potential to become not only the trainer aircraft of Türkiye and Spain, but also a training platform for NATO,” CEO Mehmet Demiroglu said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/06/IMG_4990-scaled-e1687456762892-1024x576.jpg",
-   "age": "28m ago",
+   "age": "1h ago",
    "published": "2026-08-20T15:55:13+00:00"
-  },
-  {
-   "title": "Walmart hikes full-year outlook and gets huge tariff refund, but stock falls on sales concerns",
-   "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Walmart is expected to report its fiscal second-quarter earnings on Thursday, offering a read on the consumer and the K-shaped economy.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108225096-1762985318201-gettyimages-2230322266-WALMART_EARNS.jpeg?v=1762985452&amp;w=1920&amp;h=1080",
-   "age": "32m ago",
-   "published": "2026-08-20T15:51:26+00:00"
-  },
-  {
-   "title": "Amazon just dropped this $190 Keurig coffee maker to $90 — its lowest price this year",
-   "url": "https://www.foxnews.com/deals/keurig-coffee-maker-deal-amazon",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Keurig K-Supreme Coffee Maker is down to $90, its lowest price of the year on Amazon, with customizable strength, size and iced coffee settings.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/ksupreme.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-08-20T15:50:01+00:00"
-  },
-  {
-   "title": "Clark Lea thought Vanderbilt had no shot at Jared Curtis — but the 5-Star 'misfit' chose to flip the script",
-   "url": "https://www.foxnews.com/outkick-sports/clark-lea-thought-vanderbilt-no-shot-jared-curtis-5-star-misfit-chose-flip-script",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jared Curtis recruited Vanderbilt, not the other way around. Jay Cutler, Nate Bargatze, and a Nashville NIL group helped Clark Lea land the five-star.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/vanderbilt-jared-curtis.png?ve=1&tl=1",
-   "age": "46m ago",
-   "published": "2026-08-20T15:37:03+00:00"
-  },
-  {
-   "title": "Bessent says Treasury buyback operation could be more than $4 billion",
-   "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bessent said his department is going \"make a market\" in the longer-dated securities where yields have been surging lately.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108293383-1776451634152-CNBC_INVESTINAMERICA_AC_041526_0207.jpg?v=1776451758&amp;w=1920&amp;h=1080",
-   "age": "48m ago",
-   "published": "2026-08-20T15:35:33+00:00"
   },
   {
    "title": "U.S. National Security Science & Technology Strategy",
@@ -215,7 +227,7 @@
    "topic": "defense",
    "summary": "The following is the White House National Security Science and Technology Strategy released earlier this week. From the report This document establishes a National Secur…",
    "image": null,
-   "age": "51m ago",
+   "age": "1h ago",
    "published": "2026-08-20T15:31:52+00:00"
   },
   {
@@ -226,7 +238,7 @@
    "topic": "defense",
    "summary": "USS George Washington (CVN-73) arrived in the U.S. Central Command area of responsibility yesterday, the combatant command announced on social media. The aircraft carrie…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9876799-scaled.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T14:40:01+00:00"
   },
   {
@@ -237,7 +249,7 @@
    "topic": "ai",
    "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Original-6723-photo-3-gv90-exterior-1152x648.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T14:35:58+00:00"
   },
   {
@@ -248,7 +260,7 @@
    "topic": "defense",
    "summary": "“It is critically important for us in this time, a time of not living in peace time that both in words and deeds to not make any steps to create an image that would indi…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260710_nato_summit_trump_GettyImages-2284609608-e1783693669801.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-20T14:24:00+00:00"
   },
   {
@@ -270,7 +282,7 @@
    "topic": "defense",
    "summary": "Task Force Lexington houses all of Army Cyber Command s AI efforts, including an AI red team.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/250620_DVIDS_army_computer_9097412-e1750444098988-1024x577.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-20T13:57:40+00:00"
   },
   {
@@ -281,7 +293,7 @@
    "topic": "ai",
    "summary": "People-search tool ClarityCheck left database containing more than 9M image files exposed.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1047996096-1152x648.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-20T13:29:54+00:00"
   },
   {
@@ -307,15 +319,15 @@
    "published": "2026-08-20T12:20:03+00:00"
   },
   {
-   "title": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
-   "url": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The National Security Science Technology Strategy (NSSTS) also outlines an array of second-tier or longer-term technologies to watch, notably quantum and biotech.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260819_DVIDS_sub_sailing_9353211-scaled-e1787169323902-1024x577.jpg",
+   "title": "Trees offer shade and beauty, but storms expose their risks",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9db88019-88c7-444a-b724-8bcf65ff7598.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Is that beautiful tree in your yard actually a disaster waiting to happen? The trees we once saw as comforting symbols of nature now look like potential weapons of destr…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/28/a28af5c7-5bd4-4fbb-83cf-442cd555284e/6a85f26ddef17.image.jpg?resize=300%2C225",
    "age": "4h ago",
-   "published": "2026-08-20T11:55:00+00:00"
+   "published": "2026-08-20T12:15:00+00:00"
   },
   {
    "title": "Hendrick driver set for 2027 return after NASCAR Cup Series snub",
@@ -347,7 +359,7 @@
    "topic": "defense",
    "summary": "A reusable space launch capability similar to SpaceX's Falcon 9 will degrade a key U.S. advantage in space access for national security as well as commercial application…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/chinese-reuable-space-launch-booster-milestones.jpg?quality=85",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-19T23:43:18+00:00"
   },
   {
@@ -358,7 +370,7 @@
    "topic": "defense",
    "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9873070-scaled.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-19T21:31:45+00:00"
   },
   {
@@ -391,7 +403,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-19T18:37:11+00:00"
   },
   {
@@ -402,7 +414,7 @@
    "topic": "defense",
    "summary": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JUWSLQLZPBGPHKEARH5QOPBCZI.jpg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-19T16:57:54+00:00"
   },
   {
@@ -448,17 +460,6 @@
    "image": null,
    "age": "1d ago",
    "published": "2026-08-19T13:56:11+00:00"
-  },
-  {
-   "title": "DARPA came close to finding a drone that can lift four times its own weight",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BFGNVLQDFVDZTNDXMT6WCFFDA4.webp",
-   "age": "1d ago",
-   "published": "2026-08-18T16:41:58+00:00"
   }
  ]
 }
