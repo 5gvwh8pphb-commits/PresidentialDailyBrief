@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-21",
+  "dateLabel": "Friday, August 21, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-21T09:20:33Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, August 20, 2026 close — stocks fell as Treasury-yield relief faded, Walmart tumbled on weak guidance, and Iran tensions pushed oil higher.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,641.16", "change": "-66.82", "changePct": "-0.87%", "sixMo": "+11%" },
+        { "name": "Dow",     "close": "52,759.21", "change": "-703.84", "changePct": "-1.32%", "sixMo": "+6.9%" },
+        { "name": "Nasdaq",  "close": "26,067.17", "change": "-263.92", "changePct": "-1.00%", "sixMo": "+15%" }
+      ],
+      "body": "The Dow led losses as Walmart shares sank roughly 9% on disappointing guidance, while the 30-year Treasury yield resumed climbing despite the Treasury's debt-buyback intervention earlier in the week, and Brent crude rose after Trump threatened 'economic warfare' against Iran.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "North Korea fires over 10 ballistic missiles as Trump-ordered US drills wind down",
+      "body": "North Korea launched more than 10 short-range ballistic missiles toward the sea off its east coast Thursday, prompting an emergency security meeting in Seoul, days after President Trump ordered a substantial reduction in the annual US-South Korea Ulchi Freedom Shield exercise in a bid to court Kim Jong Un; Trump has said he plans to visit Kim later this year.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "headline": "Taiwan tracks 14 Chinese ships, 7 PLA aircraft in latest 24-hour window",
+      "body": "Taiwan's Ministry of National Defense said it tracked seven PLA aircraft, eight PLA Navy vessels and six other official ships in the 24 hours to 6 a.m. Thursday, with five of the seven aircraft sorties entering Taiwan's northern, southwestern and eastern air defense identification zone; the ministry has now logged Chinese military aircraft 159 times and ships 247 times so far this month.",
+      "source": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/news/6424773"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "USS George Washington arrives in Middle East, leaving no US carrier in the Western Pacific",
+      "body": "The carrier USS George Washington reached the CENTCOM region Wednesday to relieve the USS Abraham Lincoln, whose crew has endured a record-length deployment marked by reports of poor morale and multiple overboard incidents; the handoff leaves the US without a forward-deployed aircraft carrier west of San Diego, underscoring the strain the Iran war has placed on the carrier fleet.",
+      "source": "Stars and Stripes",
+      "url": "https://www.stripes.com/branches/navy/2026-08-20/uss-george-washington-relieves-abraham-22608381.html"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "General Atomics unveils Wildfire drone as its pitch to succeed the MQ-9 Reaper",
+      "body": "General Atomics entered its new Wildfire unmanned aircraft into the Pentagon's competition for a next-generation medium-altitude, long-endurance ISR and strike drone, targeting a 10,000-nautical-mile ferry range, the ability to carry four Long Range Anti-Ship Missiles and control of up to 100 aircraft in semi-autonomous swarms; the push for a cheaper Reaper successor follows the loss of roughly a quarter of the US MQ-9 fleet during the Iran war.",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Anthropic to let enterprise customers store Claude data on their own cloud",
+      "body": "Anthropic plans to soften a June policy requiring 30 days of logged traffic on its most powerful models for cyberattack monitoring, saying business customers can now keep that required 30-day data on their own cloud infrastructure instead of Anthropic's; the shift follows months of pushback from more than 100 enterprise customers, including Salesforce, and comes as rival OpenAI touts a zero-retention safety system.",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-plans-change-enterprise-data-193219351.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears CB Kyler Gordon's roster spot in doubt as calf injury lingers",
+      "body": "Chicago Tribune's Brad Biggs reported that Gordon, still on the physically-unable-to-perform list with a calf injury that has kept him off the practice field all camp, has fading odds of making the initial 53-man roster before the Aug. 30 cutdown, with a season-opening stint on injured reserve now the more likely path.",
+      "source": "Chicago Tribune (Brad Biggs)",
+      "url": "https://heavy.com/sports/nfl/chicago-bears/kyler-gordon-biggs-roster-injury-update/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Byron heads to New Hampshire for a low-pressure tune-up before the playoffs",
+      "body": "William Byron and the No. 24 Hendrick Motorsports team head into this weekend's Dollar Tree 301 at New Hampshire Motor Speedway, set for Sunday, treating it as a low-key opportunity to build consistency before the NASCAR Cup Series playoffs begin next month; Byron won a Truck Series race at the track in 2016 but has yet to win there in Cup competition.",
+      "source": "Team Chevy / Speedway Media",
+      "url": "https://speedwaymedia.com/2026/08/19/team-chevy-nascar-race-advance-new-hampshire-motor-speedway-4/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
