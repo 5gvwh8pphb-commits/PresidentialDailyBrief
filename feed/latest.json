@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-21T15:55:24+00:00",
+ "generated": "2026-08-21T16:20:32+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": true,
@@ -13,9 +13,8 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Hendrick Motorsports",
+  "Motorsport.com",
   "Motorsports Wire",
-  "NWI Times",
   "On3",
   "TechCrunch",
   "The War Zone",
@@ -25,14 +24,80 @@
  ],
  "items": [
   {
+   "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
+   "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108291124-1776177476672-gettyimages-2270816604-IMF_WORLD_BANK.jpeg?v=1776177506&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-08-21T16:18:39+00:00"
+  },
+  {
+   "title": "US government lab is probing Chinese lidar for security vulnerabilities",
+   "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The security review is being performed by the Idaho National Laboratory, and the research is being funded by a company -- or a group of companies -- in the electric and …",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/01/hesai-baidu-getty.jpg?resize=1200,799",
+   "age": "18m ago",
+   "published": "2026-08-21T16:01:54+00:00"
+  },
+  {
+   "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+   "url": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Broadcom is in talks to raise upwards of $70 to $80 billion in debt for a chip financing deal, CNBC's David Faber reported on Friday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108317327-1780663281295-gettyimages-2279132019-BLOOMBERG_TECH.jpeg?v=1780663408&amp;w=1920&amp;h=1080",
+   "age": "21m ago",
+   "published": "2026-08-21T15:59:25+00:00"
+  },
+  {
+   "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+   "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108352672-17873152642022-03-28t233711z_1609630567_rc2vbt910szz_rtrmadp_0_global-inflation.jpeg?v=1787315381&amp;w=1920&amp;h=1080",
+   "age": "23m ago",
+   "published": "2026-08-21T15:56:37+00:00"
+  },
+  {
+   "title": "6 Bears players to watch in preseason game vs. Bengals",
+   "url": "https://www.chicagobears.com/news/6-bears-players-to-watch-in-preseason-game-vs-bengals",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/zoxal1yuot3xfc51qt8m.jpg",
+   "age": "24m ago",
+   "published": "2026-08-21T15:56:00+00:00"
+  },
+  {
+   "title": "NCAA wins Tenth Circuit 'stay', but faces more eligibility lawsuits from 2022 class athletes in chaotic time",
+   "url": "https://www.foxnews.com/outkick-sports/ncaa-wins-tenth-circuit-stay-faces-more-eligibility-lawsuits-2022-class-athletes-chaotic-time",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Tenth Circuit granted the NCAA a stay on the blanket waiver, but eligibility lawsuits filed in state court are only expected to increase from here.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/indiana-curt-cignetti-011926-2.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-08-21T15:47:59+00:00"
+  },
+  {
    "title": "I served as Trump’s NSA. SCOTUS need to stop courts putting the president's security at risk",
    "url": "https://www.foxnews.com/opinion/served-trumps-nsa-scotus-need-stop-courts-putting-presidents-security-risk",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Trump s former National Security Advisor reveals why the White House ballroom project is an urgent matter of national security and presidential safety.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/1200/675/donald-trump-ballroom-air-force-one.jpg?ve=1&tl=1",
-   "age": "12m ago",
+   "summary": "Trump s former national security advisor reveals why the White House ballroom project is an urgent matter of national security and presidential safety.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/white-house-ballroom-2.png?ve=1&tl=1",
+   "age": "38m ago",
    "published": "2026-08-21T15:42:29+00:00"
   },
   {
@@ -43,7 +108,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/07/30/08c21955-0551-4824-b6a4-29a83721d406/betmgm-1t500-promo.jpg",
-   "age": "14m ago",
+   "age": "39m ago",
    "published": "2026-08-21T15:41:08+00:00"
   },
   {
@@ -54,7 +119,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
-   "age": "16m ago",
+   "age": "41m ago",
    "published": "2026-08-21T15:38:46+00:00"
   },
   {
@@ -64,75 +129,9 @@
    "group": "Fox News",
    "topic": "world",
    "summary": "Alexander Vindman, a key witness in Trump s first impeachment, lost Florida s Democratic Senate primary to a socialist by double digits.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/alexander-vindman.jpg?ve=1&tl=1",
-   "age": "21m ago",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/donald-trump5.jpg?ve=1&tl=1",
+   "age": "46m ago",
    "published": "2026-08-21T15:33:36+00:00"
-  },
-  {
-   "title": "Jacob Misiorowski's MLB-leading ERA and WHIP make Milwaukee Brewers the pick against Atlanta Braves",
-   "url": "https://www.foxnews.com/outkick-sports/jacob-misiorowski-mlb-leading-era-whip-make-milwaukee-brewers-pick-against-atlanta-braves",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Chris Sale s Cy Young-caliber season faces its toughest test yet against Jacob Misiorowski and the league-leading Milwaukee Brewers at home.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/jacob-misiorowski-milwaukee-brewers-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "24m ago",
-   "published": "2026-08-21T15:30:29+00:00"
-  },
-  {
-   "title": "Pentagon officials mulling the firing of military newspaper Stars and Stripes publisher",
-   "url": "https://www.foxnews.com/media/pentagon-officials-mulling-firing-military-newspaper-stars-stripes-publisher",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Stars and Stripes Fox News Digital confirmed faces a leadership shakeup as Pentagon considers terminating publisher Max Lederer before retirement.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/pentagon-building-october-2025.jpg?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-08-21T15:28:55+00:00"
-  },
-  {
-   "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-   "url": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108352672-17873152642022-03-28t233711z_1609630567_rc2vbt910szz_rtrmadp_0_global-inflation.jpeg?v=1787315381&amp;w=1920&amp;h=1080",
-   "age": "27m ago",
-   "published": "2026-08-21T15:28:11+00:00"
-  },
-  {
-   "title": "6 Bears players to watch in preseason game vs. Bengals",
-   "url": "https://www.chicagobears.com/news/6-bears-players-to-watch-in-preseason-game-vs-bengals",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/zoxal1yuot3xfc51qt8m.jpg",
-   "age": "33m ago",
-   "published": "2026-08-21T15:21:47+00:00"
-  },
-  {
-   "title": "Ken Griffin says Citadel unwound more than 80% of risk tied to Situational Awareness portfolio",
-   "url": "https://www.cnbc.com/2026/08/21/citadel-situational-awareness-ken-griffin.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "In a letter to clients, Griffin addressed the firm's purchase of assets from Situational Awareness for the first time.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108302870-1787323104728-108302870-1778069039663-gettyimages-2274171505-AFP_A9WZ7RQ.jpeg?v=1787323120&amp;w=1920&amp;h=1080",
-   "age": "38m ago",
-   "published": "2026-08-21T15:17:07+00:00"
-  },
-  {
-   "title": "Trump admin taps former JPMorgan Chase exec Matt Zames to advise Social Security agency",
-   "url": "https://www.cnbc.com/2026/08/21/jpmorgan-matt-zames-social-security-administration.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Matt Zames is taking an unpaid position to help his former JPMorgan colleague Frank Bisignano tackle modernization of the SSA, CNBC has learned.",
-   "image": "https://image.cnbcfm.com/api/v1/image/104518447-GettyImages-646258184-zames.jpg?v=1787320106&amp;w=1920&amp;h=1080",
-   "age": "44m ago",
-   "published": "2026-08-21T15:10:31+00:00"
   },
   {
    "title": "Army cyber defenses need ‘dedicated funding’ for AI, top official says",
@@ -142,7 +141,7 @@
    "topic": "defense",
    "summary": "Dedicated funding is key, according to the Army s principal cyber advisor, because the service s cyber command cannot fund AI work strictly from their operational budget.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/9648679-scaled-e1777644034350-1024x577.jpg",
-   "age": "45m ago",
+   "age": "1h ago",
    "published": "2026-08-21T15:10:10+00:00"
   },
   {
@@ -153,7 +152,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "52m ago",
+   "age": "1h ago",
    "published": "2026-08-21T15:03:00+00:00"
   },
   {
@@ -179,6 +178,28 @@
    "published": "2026-08-21T14:30:23+00:00"
   },
   {
+   "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
+   "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108341784-17853378942026-07-29t150825z_238271640_rc2pnmak7062_rtrmadp_0_usa-stocks.jpeg?v=1785338016&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-08-21T14:16:56+00:00"
+  },
+  {
+   "title": "Making Monsters: Caleb Williams is ‘light years ahead’ of last year",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/121005/making-monsters-caleb-williams-is-light-years-ahead-of-last-year",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY291755381669605349.jpg?quality=90&#038;strip=all&#038;crop=12.078835270925,0,66.330971760924,100",
+   "age": "2h ago",
+   "published": "2026-08-21T14:00:00+00:00"
+  },
+  {
    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
    "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
    "source": "TechCrunch",
@@ -186,7 +207,7 @@
    "topic": "ai",
    "summary": "There's about to be a big fight to secure access to space.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-21T14:00:00+00:00"
   },
   {
@@ -208,7 +229,7 @@
    "topic": "ai",
    "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ftcms_8bad1114-5b27-4fc9-8102-1cb63e7f76fb-1152x648.jpeg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-21T13:11:35+00:00"
   },
   {
@@ -219,7 +240,7 @@
    "topic": "defense",
    "summary": "NSA Deputy Director Tim Kosiba said Beijing is playing spoiler the world over, alleging, for example, that Chinese companies provided GEOINT to the Iranians to help hit …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260820_china_drone_display_GettyImages-2288849250-e1787238480415.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-21T12:58:20+00:00"
   },
   {
@@ -241,7 +262,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2240588157.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-21T12:00:00+00:00"
   },
   {
@@ -252,7 +273,7 @@
    "topic": "defense",
    "summary": "A brief chat with the chief of the Army s Space and Missile Defense Command.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/PB13-pb-1024x576.png",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-21T12:00:00+00:00"
   },
   {
@@ -263,7 +284,7 @@
    "topic": "ai",
    "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole-1152x648.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-21T11:00:53+00:00"
   },
   {
@@ -274,7 +295,7 @@
    "topic": "ai",
    "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-21T11:00:36+00:00"
   },
   {
@@ -285,7 +306,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-21T10:00:19+00:00"
   },
   {
@@ -296,7 +317,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2244228413.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-21T10:00:00+00:00"
   },
   {
@@ -307,19 +328,8 @@
    "topic": "defense",
    "summary": "After Exercise Saber Junction in August and September, the battalion will return to its airborne infantry mission.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TVT3DSUTGFHTFMFJ6DXZRAAU7I.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-21T08:14:42+00:00"
-  },
-  {
-   "title": "Bears vs Bengals Preseason: How to watch, start time, odds, and more",
-   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/120924/bears-vs-bengals-preseason-how-to-watch-start-time-odds-and-more",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY27487684382310329.jpg?quality=90&#038;strip=all&#038;crop=0,0,75.035508730195,100",
-   "age": "11h ago",
-   "published": "2026-08-21T04:11:00+00:00"
   },
   {
    "title": "The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
@@ -340,7 +350,7 @@
    "topic": "defense",
    "summary": "The Washington's replacement of the Lincoln leaves no carrier in the Western Pacific and the Navy's struggle to meet demand may get far worse before it gets better. The …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GW-CENTCOM1.jpg?quality=85",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-20T23:10:13+00:00"
   },
   {
@@ -362,7 +372,7 @@
    "topic": "defense",
    "summary": "We can only imagine the crazy logistics that keep just a handful of F-117s flying, and a contract to help do this highlights one of the \"Black Jet's\" unique features. Th…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/f-117-emergency-tailhook-system-explosive-charges.jpg?quality=85",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-20T19:57:42+00:00"
   },
   {
@@ -384,7 +394,7 @@
    "topic": "defense",
    "summary": "The four-engine turboprop is expected to form a key new piece of China’s modernizing military transport fleet. The post Our Best Look At China’s New Y-15 Turboprop Airli…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/China-Aircraft-transport-new.jpg?quality=85",
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-20T18:13:10+00:00"
   },
   {
@@ -421,26 +431,15 @@
    "published": "2026-08-20T14:40:01+00:00"
   },
   {
-   "title": "Trees offer shade and beauty, but storms expose their risks",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9db88019-88c7-444a-b724-8bcf65ff7598.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Is that beautiful tree in your yard actually a disaster waiting to happen? The trees we once saw as comforting symbols of nature now look like potential weapons of destr…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/28/a28af5c7-5bd4-4fbb-83cf-442cd555284e/6a85f26ddef17.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-08-20T12:15:00+00:00"
-  },
-  {
-   "title": "NASCAR TV schedule: Hendrick Motorsports prepares for New Hampshire",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzY2cDJrdVpxeFhLMUMtbXNmSHctTHhJSXFRSzU2M3RFd2VpLVZ2TGYxZE5CbDNGXzlXQl95VGNDOFRRdTFpVGV3bDN1VTBLM1ZzZGJRckdoUmswS2IyaXotTjJ2QWcxS2N2SDNRZWhGcTFGaU45OGhHNEVSRmwyZUp4cHRKa0NMdWZQQUJpanhPQzl2RTh4ZGhDLXEzellKYThXTkNMQkxleTdPMkNSRmViakVneVp2VWN5WjRqNVVLa3c?oc=5",
-   "source": "Hendrick Motorsports",
+   "title": "The history of Hendrick Motorsports' most recent driver changes and how it worked out",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFU1S2lBZ2NqN0xCb01TbWYxa19LSVhMbTBDNlJFSjFxUy11d3VSSTI1ZWpEekJIVUlfZHlMaDliUUp3VnRHRnlDM25RM0RZQlpTdloxcVo1MkJBVEhFZkIybElIaHFsYng3QWpSZy1TTkJpOFp1N2dwYUl3OFBJdWVNUzNUUVhnbDJ6Um15cF85eWtTNS0ycUR4dVpFRTlHalNnS2NjdmZIQzQyVUZzZlFfX1hNZXEyeUNyamVMblZMUkd5VGRGaThB?oc=5",
+   "source": "Motorsport.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
    "age": "2d ago",
-   "published": "2026-08-19T14:51:00+00:00"
+   "published": "2026-08-19T16:08:20+00:00"
   },
   {
    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
