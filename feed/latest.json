@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-21T09:05:24+00:00",
+ "generated": "2026-08-21T09:57:51+00:00",
  "count": 40,
- "withImage": 36,
+ "withImage": 39,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -11,11 +11,8 @@
   "CHGO Bears",
   "CNBC",
   "ChicagoBears.com",
-  "Daytona Beach News-Journal",
   "Defense News",
   "Fox News",
-  "Motorsport.com",
-  "NASCAR.com",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -24,17 +21,6 @@
  ],
  "items": [
   {
-   "title": "Oil prices head for second weekly rise as U.S. vows to turn up economic pressure on Iran",
-   "url": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil prices eased Friday but remained on track for a second straight weekly gain as hopes of a swift reopening of the Strait of Hormuz faded to near-zero.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108320567-1781206171021-gettyimages-2280431547-FOSTERING_FUTURE_ACCOUNTS.jpeg?v=1781206206&amp;w=1920&amp;h=1080",
-   "age": "9m ago",
-   "published": "2026-08-21T08:55:28+00:00"
-  },
-  {
    "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
    "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
    "source": "CNBC",
@@ -42,8 +28,52 @@
    "topic": "markets",
    "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
    "image": "https://image.cnbcfm.com/api/v1/image/108341784-17853378942026-07-29t150825z_238271640_rc2pnmak7062_rtrmadp_0_usa-stocks.jpeg?v=1785338016&amp;w=1920&amp;h=1080",
-   "age": "28m ago",
-   "published": "2026-08-21T08:36:34+00:00"
+   "age": "21m ago",
+   "published": "2026-08-21T09:36:46+00:00"
+  },
+  {
+   "title": "Washington is driving America toward a debt crisis we can't ignore any longer",
+   "url": "https://www.foxnews.com/opinion/washington-driving-america-toward-debt-crisis-cant-ignore-longer",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "US debt nears $40 trillion with $86 trillion in unfunded Social Security and Medicare obligations, echoing an old warning about democracy.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/1200/675/captiol-building-money-.png?ve=1&tl=1",
+   "age": "56m ago",
+   "published": "2026-08-21T09:00:58+00:00"
+  },
+  {
+   "title": "Democrats can take the lead on one of the nation’s top issues – data centers",
+   "url": "https://www.foxnews.com/opinion/democrats-take-lead-nations-top-issues-data-centers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Data center moratoria threaten union jobs, tax revenue and AI innovation while ceding ground to Beijing, a Democrat argues against blanket opposition.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/microsoft-ai-data-center.jpg?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-21T09:00:43+00:00"
+  },
+  {
+   "title": "3 big questions to ask Mom and Dad before you make a major financial commitment",
+   "url": "https://www.foxnews.com/opinion/3-big-questions-ask-mom-dad-before-major-financial-commitment",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "At 35, you might have an MBA and a six-figure salary but still make terrible money decisions. Here s why calling your parents isn t a walk of shame.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/father-son-talk.jpg?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-21T09:00:26+00:00"
+  },
+  {
+   "title": "Ukraine’s ‘Equalizer’ bomb aims to blow up reliance on US, European weapons",
+   "url": "https://www.foxnews.com/politics/ukraines-equalizer-bomb-aims-blow-reliance-us-european-weapons",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ukraine s new Vyrivniuvach glide bomb lets MiG-29 and Su-27 pilots strike Russian forces from safer distances while reducing reliance on U.S. weapons.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/MiG-29.jpg?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-21T09:00:23+00:00"
   },
   {
    "title": "US Army to end experimental drone battalion in Europe",
@@ -53,7 +83,7 @@
    "topic": "defense",
    "summary": "After Exercise Saber Junction in August and September, the battalion will return to its airborne infantry mission.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TVT3DSUTGFHTFMFJ6DXZRAAU7I.jpg",
-   "age": "50m ago",
+   "age": "1h ago",
    "published": "2026-08-21T08:14:42+00:00"
   },
   {
@@ -64,41 +94,19 @@
    "topic": "markets",
    "summary": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
    "image": "https://image.cnbcfm.com/api/v1/image/108325001-1782152045983-gettyimages-2282261781-IRAN-CRISISSWISS-MEETING.jpeg?v=1782152072&amp;w=1920&amp;h=1080",
-   "age": "54m ago",
+   "age": "1h ago",
    "published": "2026-08-21T08:10:55+00:00"
   },
   {
-   "title": "Longest-serving US prisoner dies at 101 after escaping death penalty 8 times",
-   "url": "https://www.foxnews.com/us/longest-serving-us-prisoner-dies-101-escaping-death-penalty-8-times",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The longest-serving inmate in U.S. history died at 101 after escaping the death penalty eight times for the killing of a night watchman at a Connecticut yacht club.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Francis-Clifford-Smith-prisoner-death.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-08-21T07:00:41+00:00"
-  },
-  {
-   "title": "Charter plane crashes near remote radar site in western Alaska, killing all 8 aboard",
-   "url": "https://www.foxnews.com/us/charter-plane-8-aboard-crashes-remote-radar-site-western-alaska-report",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A Security Aviation charter flight carrying two pilots and six passengers crashed at a remote radar site near Cape Newenham, Alaska, killing all eight people aboard.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/alaska-dream-cruises-was-facing-financial-pressure-scaled.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-08-21T05:39:50+00:00"
-  },
-  {
-   "title": "‘Darth Vader’ uses dark side to mock controversial surveillance cameras: 'The Emperor is a fan of Flock'",
-   "url": "https://www.foxnews.com/us/darth-vader-uses-dark-side-mock-controversial-surveillance-cameras-emperor-fan-flock",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A man dressed as Darth Vader mocked Flock surveillance cameras at a San Diego City Council meeting, saying the technology would help find rebel scum.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/darth-vadar-flock-san-diego-meeting.png?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-08-21T05:13:33+00:00"
+   "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+   "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108352515-1787281829441-gettyimages-936532610-_vm26460.jpeg?v=1787290023&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-08-21T05:27:28+00:00"
   },
   {
    "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
@@ -112,6 +120,28 @@
    "published": "2026-08-21T05:00:01+00:00"
   },
   {
+   "title": "Bears vs Bengals Preseason: How to watch, start time, odds, and more",
+   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/120924/bears-vs-bengals-preseason-how-to-watch-start-time-odds-and-more",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY27487684382310329.jpg?quality=90&#038;strip=all&#038;crop=0,0,75.035508730195,100",
+   "age": "5h ago",
+   "published": "2026-08-21T04:11:00+00:00"
+  },
+  {
+   "title": "Left Tackle Struggles, Red Zone Success, and More at Bears-Bengals Joint Practice",
+   "url": "https://www.windycitygridiron.com/chicago-bears-training-camp/120968/left-tackle-struggles-red-zone-success-and-more-at-bears-bengals-joint-practice",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2962537342505153.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "8h ago",
+   "published": "2026-08-21T01:22:10+00:00"
+  },
+  {
    "title": "Giants-Dolphins brawl: Multiple players removed from joint practice, teams could face NFL punishment",
    "url": "https://www.cbssports.com/nfl/news/giants-dolphins-joint-practice-fight/",
    "source": "CBS Sports NFL",
@@ -119,7 +149,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/21/e6f63342-e8cb-4422-9435-6130c4adde40/gettyimages-2290658154-1.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-21T01:18:19+00:00"
   },
   {
@@ -130,7 +160,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/20/92a99165-b0bd-4983-9261-77f51a03756c/aaron-rodgers-nfl-afc-wild-card-round-houston-texans-at-pittsburgh-steelers.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-21T01:06:25+00:00"
   },
   {
@@ -141,7 +171,7 @@
    "topic": "ai",
    "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-21T00:23:36+00:00"
   },
   {
@@ -152,7 +182,7 @@
    "topic": "ai",
    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-21T00:13:44+00:00"
   },
   {
@@ -163,7 +193,7 @@
    "topic": "ai",
    "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fu…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-20T23:32:27+00:00"
   },
   {
@@ -174,7 +204,7 @@
    "topic": "defense",
    "summary": "Carrier availability and decisions made during the Iran war have exacerbated the US Navy's longstanding struggles with a frenzied operational tempo.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NMKT3HEOLRHJTPQEYG4UWW7EMQ.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-20T23:20:57+00:00"
   },
   {
@@ -185,7 +215,7 @@
    "topic": "defense",
    "summary": "The Washington's replacement of the Lincoln leaves no carrier in the Western Pacific and the Navy's struggle to meet demand may get far worse before it gets better. The …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GW-CENTCOM1.jpg?quality=85",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-20T23:10:13+00:00"
   },
   {
@@ -207,7 +237,7 @@
    "topic": "ai",
    "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-1152x648.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-20T21:40:52+00:00"
   },
   {
@@ -218,7 +248,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/20/759a479e-4295-4387-bebd-0e31d1efa355/sc.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-20T21:39:46+00:00"
   },
   {
@@ -229,7 +259,7 @@
    "topic": "ai",
    "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-20T21:25:25+00:00"
   },
   {
@@ -240,7 +270,7 @@
    "topic": "defense",
    "summary": "The United States, Iceland and NATO began the U.S-led biennial exercise Northern Viking 2026 (NV26) on Tuesday, which runs in Iceland and surrounding waters until Sept. …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9877840-scaled.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-20T20:41:07+00:00"
   },
   {
@@ -251,8 +281,19 @@
    "topic": "defense",
    "summary": "The U.S. Navy is leading a multinational effort to develop a new version of the Evolved SeaSparrow air defense missile.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-20T20:23:22+00:00"
+  },
+  {
+   "title": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
+   "url": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6G6VS56Z7BCLDDX3ZIW3ZVDQ3E.JPG",
+   "age": "13h ago",
+   "published": "2026-08-20T20:09:46+00:00"
   },
   {
    "title": "F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After ‘Retirement’",
@@ -262,7 +303,7 @@
    "topic": "defense",
    "summary": "We can only imagine the crazy logistics that keep just a handful of F-117s flying, and a contract to help do this highlights one of the \"Black Jet's\" unique features. Th…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/f-117-emergency-tailhook-system-explosive-charges.jpg?quality=85",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-20T19:57:42+00:00"
   },
   {
@@ -273,7 +314,7 @@
    "topic": "defense",
    "summary": "“It’s a big ask,” acknowledged Maj. Gen. Denise McPhail, chief of Army Network Command, but it could allow NETCOM to “leverage AI in that model to understand our vulnera…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8944263-e1787254586489.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-20T19:55:53+00:00"
   },
   {
@@ -284,8 +325,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/r0w9dmfgerkh44rq3hdv.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-20T19:24:26+00:00"
+  },
+  {
+   "title": "Bears Caleb Williams and T.J. Edwards talk after the joint practice (Open Thread)",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/120949/bears-caleb-williams-and-t-j-edwards-talk-after-the-joint-practice-open-thread",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2962535870174491.jpg?quality=90&#038;strip=all&#038;crop=0,0,62.545456698331,100",
+   "age": "14h ago",
+   "published": "2026-08-20T19:15:00+00:00"
   },
   {
    "title": "Drone companies, admin leaders meet for first White House ‘Drone Dominance’ meeting",
@@ -295,7 +347,7 @@
    "topic": "defense",
    "summary": "“The cavalry arrived here to meet your cavalry in private industry to make sure that we are not drone sufficient, from parity, but drone dominant,” Pentagon R E chief Em…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IMG_2621-scaled-e1787241010570-1024x577.jpeg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-20T18:24:00+00:00"
   },
   {
@@ -306,7 +358,7 @@
    "topic": "defense",
    "summary": "Army wants to field commercial EW systems to forces fast.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/Army-TLS-Manpack-8771417-e1777477078340-1024x574.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-20T18:14:53+00:00"
   },
   {
@@ -317,7 +369,7 @@
    "topic": "defense",
    "summary": "The four-engine turboprop is expected to form a key new piece of China’s modernizing military transport fleet. The post Our Best Look At China’s New Y-15 Turboprop Airli…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/China-Aircraft-transport-new.jpg?quality=85",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-20T18:13:10+00:00"
   },
   {
@@ -328,7 +380,7 @@
    "topic": "defense",
    "summary": "The following is the White House National Security Science and Technology Strategy released earlier this week. From the report This document establishes a National Secur…",
    "image": null,
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-20T15:31:52+00:00"
   },
   {
@@ -350,8 +402,19 @@
    "topic": "defense",
    "summary": "USS George Washington (CVN-73) arrived in the U.S. Central Command area of responsibility yesterday, the combatant command announced on social media. The aircraft carrie…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9876799-scaled.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-20T14:40:01+00:00"
+  },
+  {
+   "title": "Chicago Bears News: Joint practice with the Bengals today in Cincy",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/120907/chicago-bears-news-joint-practice-with-the-bengals-today-in-cincy",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290115824.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "23h ago",
+   "published": "2026-08-20T10:00:00+00:00"
   },
   {
    "title": "Antwaan Randle El relished chance to call plays",
@@ -365,17 +428,6 @@
    "published": "2026-08-19T19:54:14+00:00"
   },
   {
-   "title": "The history of Hendrick Motorsports' most recent driver changes and how it worked out",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFU1S2lBZ2NqN0xCb01TbWYxa19LSVhMbTBDNlJFSjFxUy11d3VSSTI1ZWpEekJIVUlfZHlMaDliUUp3VnRHRnlDM25RM0RZQlpTdloxcVo1MkJBVEhFZkIybElIaHFsYng3QWpSZy1TTkJpOFp1N2dwYUl3OFBJdWVNUzNUUVhnbDJ6Um15cF85eWtTNS0ycUR4dVpFRTlHalNnS2NjdmZIQzQyVUZzZlFfX1hNZXEyeUNyamVMblZMUkd5VGRGaThB?oc=5",
-   "source": "Motorsport.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-08-19T16:08:20+00:00"
-  },
-  {
    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
    "source": "VentureBeat AI",
@@ -387,17 +439,6 @@
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
-   "title": "Analysis: Hendrick rekindles youth movement by signing Zilisch for 2028",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk41TW11MmIxaU5qMllxdEtIRHotN3RZZVBJS0Q3a3J3TGdyTkVGSUhiYVBYa29lNXI5aHR1RG5pR1ZqMXZSNG9YS0JSTkZOM2JFUWpNem9pQ2dtc1dQLTItOXJKQ0ExUUlzY3RsR1laQXZSZUdhU1BmQ3JDY25DVTRTU1d4SHB6bU1PLXZQT0RBcWdmU3JOdnBhS3FFZEI0ODdYMElzZlFSMVlSaU5GTFNPaXRGS3gzU2VUcG5EWnhQc3JMT1dn0gHMAUFVX3lxTE9CMnhtblJURTVIU0M4ZEFkMXlfXy1BNUxmdXdYMkJnWHl1MVFpR3NQMFJOZnExODhGemowSFV5eE5qODVZT0tCejZkb05CaG5UMzVORWZ4V011bHhrbFBRUHZYeTdYX05OaFVnRzVfaEtyYWlFX0FZTTdGUExvejdFbW5weE9BbjZEYWlQdDk5U1puN0ZqVXEwNklJVXVENkZycEd0XzFOQlZXcDl0LTJ5eWYydHBwM01MQTB1NGgzVWt1ZW1hMExyZElUaA?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-08-19T13:56:11+00:00"
-  },
-  {
    "title": "Bears notebook: No end in sight for left tackle competition – or Kyler Gordon’s absences",
    "url": "https://allchgo.com/bears/bears-no-end-tackle-competition-kyler-gordon-absences/",
    "source": "CHGO Bears",
@@ -407,50 +448,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/18151548/2026-08-01T024940Z_351707217_MT1USATODAY29491817_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
    "age": "2d ago",
    "published": "2026-08-18T21:14:57+00:00"
-  },
-  {
-   "title": "Five Bears Takes Following Their Preseason Opener",
-   "url": "https://www.windycitygridiron.com/chicago-bears-depth-chart/120865/five-bears-takes-following-their-preseason-opener-browns-ben-johnson",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290085351.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2d ago",
-   "published": "2026-08-18T19:00:00+00:00"
-  },
-  {
-   "title": "Chicago Bears Question of the Day: Will Kyler Gordon ever be the same?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/120807/chicago-bears-question-of-the-day-will-kyler-gordon-ever-be-the-same",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2176133408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2d ago",
-   "published": "2026-08-18T15:00:00+00:00"
-  },
-  {
-   "title": "Making Monsters: A closer look at Bears’ rookie defensive tackle Jordan van den Berg",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/120817/chicago-bears-rookie-defensive-tackle-jordan-van-den-berg-interview",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/Screenshot-2026-08-17-at-4.41.22-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2d ago",
-   "published": "2026-08-18T12:00:00+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports hires NASCAR's top youngster as Alex Bowman replacement",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPLW5rcWZ6WmI0T2Z6WklkSnoyRzkweVl1TWRqeEUzbi1odmRWbjZNblZkUzhzZVoxY0JicmRyYVZRbEJnVDV6RjB0Y3pZb0dBaC1IQWI2Ti0wQmw2RDlScTQtWFFrc0ppOWl6djZiTW1xMW9ybXd3LXI2Y21mc0VDQ0o0c1RuU3J1U0N0YkM3elRmY2ZnQzVrU0JjNGk1TUlRdmdWeThadnV0dUhDQWNyNF83VzFWdFBGUmpnWF9YSGVpTVZBYl9JbUNyLXhZbHZZenBGSVZoRElIZw?oc=5",
-   "source": "Daytona Beach News-Journal",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-08-17T20:29:00+00:00"
   },
   {
    "title": "Monster in the making: Everyone can feel what Ben Johnson is building for the Bears",
