@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-21T09:57:51+00:00",
+ "generated": "2026-08-21T10:26:13+00:00",
  "count": 40,
- "withImage": 39,
+ "withImage": 36,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -13,6 +13,9 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "Motorsport.com",
+  "NASCAR.com",
+  "On3",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -21,6 +24,72 @@
  ],
  "items": [
   {
+   "title": "NATO member Romania scrambles F-16 fighter jets to destroy drone near critical European gas project",
+   "url": "https://www.cnbc.com/2026/08/21/romania-russia-ukraine-drone-gas-nato.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "It comes weeks after Romania’s Air Force destroyed a Russian drone in its airspace.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108352576-1787299060569-gettyimages-2177330955-urbanandsport-tactical240924_npw2I.jpeg?v=1787299099&amp;w=1920&amp;h=1080",
+   "age": "10m ago",
+   "published": "2026-08-21T10:15:18+00:00"
+  },
+  {
+   "title": "The 24-hour American diner is vanishing — here's what's driving the decline",
+   "url": "https://www.foxnews.com/food-drink/24-hour-american-diner-vanishing-heres-whats-driving-decline",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Red Arrow Diner keeps its griddles running 24/7 as Yelp data shows all-night restaurants fell 11 percent nationwide since 2020.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/red_arrow_waitress-1.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-21T10:00:54+00:00"
+  },
+  {
+   "title": "Fox News Digital Quiz: August 21, 2026",
+   "url": "https://www.foxnews.com/lifestyle/fox-news-digital-quiz-august-21-2026",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Fox News Digital News Quiz tests your knowledge of a New Jersey Democratic candidate s investments and an NFL rookie s film franchise decision.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/fox-news-quiz-august-21.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-21T10:00:48+00:00"
+  },
+  {
+   "title": "I was a sports columnist at the Seattle Times for 11 years. This is why I resigned",
+   "url": "https://www.foxnews.com/outkick-sports/sports-columnist-seattle-times-11-years-why-resigned",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A Seattle Times columnist resigned after his column defending Sophie Cunningham s stance on women s sports was spiked by multiple editors.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/2-split-with-whit-line.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-21T10:00:43+00:00"
+  },
+  {
+   "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
+   "url": "https://www.foxnews.com/politics/la-socialist-fumbled-answer-graham-platner-question-draws-groans-dem-audience",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Nithya Raman drew groans from the crowd at the Los Angeles mayoral debate over her decision to hire the firm behind Graham Platner s campaign.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nithya-raman-graham-platner.png?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-21T10:00:35+00:00"
+  },
+  {
+   "title": "Jeff Gordon addresses Red Bull complication in Connor Zilisch-Hendrick Motorsports deal",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlk5cDhNX1dXSDNpWUxoaXJrMXVPY1p1R21QUC1qam1SN0pzbU9rSXpSemVQMGFHWXRBdTIxdm5xSnRlUkdvWmE4YTZEcTRWaGIzRTdHNHVWRmVtODhxeEh1LUNGb2VGbnVhUmprWVQ1ZmF3U0h6Y2prcTlRMnE4YnZhbm5fcUc1b0FyeEpfaTdleU5XX3FyaUFmWnB1bnV2bjhYcUNSZzlmYkp4RnRSeExmTUZVRGpQaTRtaQ?oc=5",
+   "source": "On3",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "25m ago",
+   "published": "2026-08-21T10:00:19+00:00"
+  },
+  {
    "title": "Longer-dated Treasury yields rise as Bessent's bond buyback rally fizzles out",
    "url": "https://www.cnbc.com/2026/08/21/treasury-yields-bonds-inflation-rates.html",
    "source": "CNBC",
@@ -28,52 +97,19 @@
    "topic": "markets",
    "summary": "Concerns over the Treasury Department's debt repurchase program continue to weigh on markets.",
    "image": "https://image.cnbcfm.com/api/v1/image/108341784-17853378942026-07-29t150825z_238271640_rc2pnmak7062_rtrmadp_0_usa-stocks.jpeg?v=1785338016&amp;w=1920&amp;h=1080",
-   "age": "21m ago",
+   "age": "49m ago",
    "published": "2026-08-21T09:36:46+00:00"
   },
   {
-   "title": "Washington is driving America toward a debt crisis we can't ignore any longer",
-   "url": "https://www.foxnews.com/opinion/washington-driving-america-toward-debt-crisis-cant-ignore-longer",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "US debt nears $40 trillion with $86 trillion in unfunded Social Security and Medicare obligations, echoing an old warning about democracy.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/1200/675/captiol-building-money-.png?ve=1&tl=1",
-   "age": "56m ago",
-   "published": "2026-08-21T09:00:58+00:00"
-  },
-  {
-   "title": "Democrats can take the lead on one of the nation’s top issues – data centers",
-   "url": "https://www.foxnews.com/opinion/democrats-take-lead-nations-top-issues-data-centers",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Data center moratoria threaten union jobs, tax revenue and AI innovation while ceding ground to Beijing, a Democrat argues against blanket opposition.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/microsoft-ai-data-center.jpg?ve=1&tl=1",
-   "age": "57m ago",
-   "published": "2026-08-21T09:00:43+00:00"
-  },
-  {
-   "title": "3 big questions to ask Mom and Dad before you make a major financial commitment",
-   "url": "https://www.foxnews.com/opinion/3-big-questions-ask-mom-dad-before-major-financial-commitment",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "At 35, you might have an MBA and a six-figure salary but still make terrible money decisions. Here s why calling your parents isn t a walk of shame.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/father-son-talk.jpg?ve=1&tl=1",
-   "age": "57m ago",
-   "published": "2026-08-21T09:00:26+00:00"
-  },
-  {
-   "title": "Ukraine’s ‘Equalizer’ bomb aims to blow up reliance on US, European weapons",
-   "url": "https://www.foxnews.com/politics/ukraines-equalizer-bomb-aims-blow-reliance-us-european-weapons",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ukraine s new Vyrivniuvach glide bomb lets MiG-29 and Su-27 pilots strike Russian forces from safer distances while reducing reliance on U.S. weapons.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/MiG-29.jpg?ve=1&tl=1",
-   "age": "57m ago",
-   "published": "2026-08-21T09:00:23+00:00"
+   "title": "Bitcoin on track for 20% weekly gain as investor optimism floods back",
+   "url": "https://www.cnbc.com/2026/08/21/bitcoin-gain-cryptocurrency-investors-optimistic.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The flagship digital currency has enjoyed a strong week boosted by several contributing factors.",
+   "image": "https://image.cnbcfm.com/api/v1/image/100685077-GettyImages-167578473.jpg?v=1532564694&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-21T09:20:31+00:00"
   },
   {
    "title": "US Army to end experimental drone battalion in Europe",
@@ -83,7 +119,7 @@
    "topic": "defense",
    "summary": "After Exercise Saber Junction in August and September, the battalion will return to its airborne infantry mission.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TVT3DSUTGFHTFMFJ6DXZRAAU7I.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-21T08:14:42+00:00"
   },
   {
@@ -94,41 +130,8 @@
    "topic": "markets",
    "summary": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
    "image": "https://image.cnbcfm.com/api/v1/image/108325001-1782152045983-gettyimages-2282261781-IRAN-CRISISSWISS-MEETING.jpeg?v=1782152072&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-21T08:10:55+00:00"
-  },
-  {
-   "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
-   "url": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108352515-1787281829441-gettyimages-936532610-_vm26460.jpeg?v=1787290023&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-08-21T05:27:28+00:00"
-  },
-  {
-   "title": "'Perfect storm' brews for global food supply this winter as grain prices soar",
-   "url": "https://www.cnbc.com/2026/08/21/grain-price-russia-food-supply.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Fears over crop yields and farmers' ability to plant ahead of next year have come to the fore as wheat prices jump.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108351995-1787215957783-gettyimages-1576431047-na.jpeg?v=1787216068&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-08-21T05:00:01+00:00"
-  },
-  {
-   "title": "Bears vs Bengals Preseason: How to watch, start time, odds, and more",
-   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/120924/bears-vs-bengals-preseason-how-to-watch-start-time-odds-and-more",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY27487684382310329.jpg?quality=90&#038;strip=all&#038;crop=0,0,75.035508730195,100",
-   "age": "5h ago",
-   "published": "2026-08-21T04:11:00+00:00"
   },
   {
    "title": "Left Tackle Struggles, Red Zone Success, and More at Bears-Bengals Joint Practice",
@@ -138,7 +141,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2962537342505153.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-21T01:22:10+00:00"
   },
   {
@@ -149,7 +152,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/21/e6f63342-e8cb-4422-9435-6130c4adde40/gettyimages-2290658154-1.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-21T01:18:19+00:00"
   },
   {
@@ -160,7 +163,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/20/92a99165-b0bd-4983-9261-77f51a03756c/aaron-rodgers-nfl-afc-wild-card-round-houston-texans-at-pittsburgh-steelers.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-21T01:06:25+00:00"
   },
   {
@@ -171,7 +174,7 @@
    "topic": "ai",
    "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-21T00:23:36+00:00"
   },
   {
@@ -182,7 +185,7 @@
    "topic": "ai",
    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-21T00:13:44+00:00"
   },
   {
@@ -204,7 +207,7 @@
    "topic": "defense",
    "summary": "Carrier availability and decisions made during the Iran war have exacerbated the US Navy's longstanding struggles with a frenzied operational tempo.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NMKT3HEOLRHJTPQEYG4UWW7EMQ.jpg",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-20T23:20:57+00:00"
   },
   {
@@ -215,7 +218,7 @@
    "topic": "defense",
    "summary": "The Washington's replacement of the Lincoln leaves no carrier in the Western Pacific and the Navy's struggle to meet demand may get far worse before it gets better. The …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GW-CENTCOM1.jpg?quality=85",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-20T23:10:13+00:00"
   },
   {
@@ -226,7 +229,7 @@
    "topic": "ai",
    "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-20T22:00:11+00:00"
   },
   {
@@ -259,7 +262,7 @@
    "topic": "ai",
    "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-20T21:25:25+00:00"
   },
   {
@@ -281,19 +284,8 @@
    "topic": "defense",
    "summary": "The U.S. Navy is leading a multinational effort to develop a new version of the Evolved SeaSparrow air defense missile.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-20T20:23:22+00:00"
-  },
-  {
-   "title": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
-   "url": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6G6VS56Z7BCLDDX3ZIW3ZVDQ3E.JPG",
-   "age": "13h ago",
-   "published": "2026-08-20T20:09:46+00:00"
   },
   {
    "title": "F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After ‘Retirement’",
@@ -325,7 +317,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/r0w9dmfgerkh44rq3hdv.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-20T19:24:26+00:00"
   },
   {
@@ -336,7 +328,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2962535870174491.jpg?quality=90&#038;strip=all&#038;crop=0,0,62.545456698331,100",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-20T19:15:00+00:00"
   },
   {
@@ -347,7 +339,7 @@
    "topic": "defense",
    "summary": "“The cavalry arrived here to meet your cavalry in private industry to make sure that we are not drone sufficient, from parity, but drone dominant,” Pentagon R E chief Em…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IMG_2621-scaled-e1787241010570-1024x577.jpeg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-20T18:24:00+00:00"
   },
   {
@@ -358,7 +350,7 @@
    "topic": "defense",
    "summary": "Army wants to field commercial EW systems to forces fast.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/Army-TLS-Manpack-8771417-e1777477078340-1024x574.jpg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-20T18:14:53+00:00"
   },
   {
@@ -369,7 +361,7 @@
    "topic": "defense",
    "summary": "The four-engine turboprop is expected to form a key new piece of China’s modernizing military transport fleet. The post Our Best Look At China’s New Y-15 Turboprop Airli…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/China-Aircraft-transport-new.jpg?quality=85",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-20T18:13:10+00:00"
   },
   {
@@ -391,7 +383,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/hv8ng4lalncverzp2et9.jpg",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-20T15:00:00+00:00"
   },
   {
@@ -413,7 +405,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290115824.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-20T10:00:00+00:00"
   },
   {
@@ -428,6 +420,17 @@
    "published": "2026-08-19T19:54:14+00:00"
   },
   {
+   "title": "The history of Hendrick Motorsports' most recent driver changes and how it worked out",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFU1S2lBZ2NqN0xCb01TbWYxa19LSVhMbTBDNlJFSjFxUy11d3VSSTI1ZWpEekJIVUlfZHlMaDliUUp3VnRHRnlDM25RM0RZQlpTdloxcVo1MkJBVEhFZkIybElIaHFsYng3QWpSZy1TTkJpOFp1N2dwYUl3OFBJdWVNUzNUUVhnbDJ6Um15cF85eWtTNS0ycUR4dVpFRTlHalNnS2NjdmZIQzQyVUZzZlFfX1hNZXEyeUNyamVMblZMUkd5VGRGaThB?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-08-19T16:08:20+00:00"
+  },
+  {
    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
    "source": "VentureBeat AI",
@@ -439,6 +442,17 @@
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
+   "title": "Analysis: Hendrick rekindles youth movement by signing Zilisch for 2028",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk41TW11MmIxaU5qMllxdEtIRHotN3RZZVBJS0Q3a3J3TGdyTkVGSUhiYVBYa29lNXI5aHR1RG5pR1ZqMXZSNG9YS0JSTkZOM2JFUWpNem9pQ2dtc1dQLTItOXJKQ0ExUUlzY3RsR1laQXZSZUdhU1BmQ3JDY25DVTRTU1d4SHB6bU1PLXZQT0RBcWdmU3JOdnBhS3FFZEI0ODdYMElzZlFSMVlSaU5GTFNPaXRGS3gzU2VUcG5EWnhQc3JMT1dn0gHMAUFVX3lxTE9CMnhtblJURTVIU0M4ZEFkMXlfXy1BNUxmdXdYMkJnWHl1MVFpR3NQMFJOZnExODhGemowSFV5eE5qODVZT0tCejZkb05CaG5UMzVORWZ4V011bHhrbFBRUHZYeTdYX05OaFVnRzVfaEtyYWlFX0FZTTdGUExvejdFbW5weE9BbjZEYWlQdDk5U1puN0ZqVXEwNklJVXVENkZycEd0XzFOQlZXcDl0LTJ5eWYydHBwM01MQTB1NGgzVWt1ZW1hMExyZElUaA?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-08-19T13:56:11+00:00"
+  },
+  {
    "title": "Bears notebook: No end in sight for left tackle competition – or Kyler Gordon’s absences",
    "url": "https://allchgo.com/bears/bears-no-end-tackle-competition-kyler-gordon-absences/",
    "source": "CHGO Bears",
@@ -448,17 +462,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/18151548/2026-08-01T024940Z_351707217_MT1USATODAY29491817_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
    "age": "2d ago",
    "published": "2026-08-18T21:14:57+00:00"
-  },
-  {
-   "title": "Monster in the making: Everyone can feel what Ben Johnson is building for the Bears",
-   "url": "https://allchgo.com/bears/everyone-can-feel-what-ben-johnson-building-for-bears/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/16231952/Jahns_BenJohnson-1024x576.jpg",
-   "age": "3d ago",
-   "published": "2026-08-17T10:00:00+00:00"
   }
  ]
 }
