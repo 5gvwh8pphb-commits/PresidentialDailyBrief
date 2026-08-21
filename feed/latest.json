@@ -1,25 +1,48 @@
 {
- "generated": "2026-08-21T04:08:27+00:00",
+ "generated": "2026-08-21T05:01:10+00:00",
  "count": 40,
- "withImage": 35,
- "bearsDay": false,
+ "withImage": 39,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
-  "Beyond the Flag",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Motorsport.com",
-  "NASCAR.com",
+  "NWI Times",
   "TechCrunch",
-  "The Tennessean",
   "The War Zone",
   "USNI News",
-  "VentureBeat AI"
+  "VentureBeat AI",
+  "Windy City Gridiron"
  ],
  "items": [
+  {
+   "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+   "url": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108325001-1782152045983-gettyimages-2282261781-IRAN-CRISISSWISS-MEETING.jpeg?v=1782152072&amp;w=1920&amp;h=1080",
+   "age": "28m ago",
+   "published": "2026-08-21T04:32:59+00:00"
+  },
+  {
+   "title": "Bears vs Bengals Preseason: How to watch, start time, odds, and more",
+   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/120924/bears-vs-bengals-preseason-how-to-watch-start-time-odds-and-more",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2025newsml_MT1USATODAY27487684382310329.jpg?quality=90&#038;strip=all&#038;crop=0,0,75.035508730195,100",
+   "age": "50m ago",
+   "published": "2026-08-21T04:11:00+00:00"
+  },
   {
    "title": "Lindsay Clancy's ex-husband has quietly remarried and started over amid her murder trial",
    "url": "https://www.foxnews.com/us/lindsay-clancy-ex-husband-quietly-remarried-started-amid-murder-trial",
@@ -28,7 +51,7 @@
    "topic": "world",
    "summary": "Patrick Clancy testified about his children as Lindsay Clancy s defense argues postpartum psychosis.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/lindsay-clancy-husband-fox-news_001.jpg?ve=1&tl=1",
-   "age": "7m ago",
+   "age": "1h ago",
    "published": "2026-08-21T04:00:47+00:00"
   },
   {
@@ -39,7 +62,7 @@
    "topic": "markets",
    "summary": "Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in semiconductors.",
    "image": "https://image.cnbcfm.com/api/v1/image/108253347-1768520284055-gettyimages-2209624027-AFP_429A7YM.jpeg?v=1770939953&amp;w=1920&amp;h=1080",
-   "age": "8m ago",
+   "age": "1h ago",
    "published": "2026-08-21T03:59:53+00:00"
   },
   {
@@ -50,7 +73,7 @@
    "topic": "world",
    "summary": "Deferred contracts have existed in MLB for decades, with dozens of players across the league currently using them, not just the Los Angeles Dodgers.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/shohei-ohtani-featured-mlb.jpeg?ve=1&tl=1",
-   "age": "30m ago",
+   "age": "1h ago",
    "published": "2026-08-21T03:38:02+00:00"
   },
   {
@@ -61,7 +84,7 @@
    "topic": "world",
    "summary": "Caitlin Clark lashed out at Paige Bueckers after a halftime foul in the Indiana Fever vs. Dallas Wings game, sparking a fiery on-court exchange.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/caitlin-clark-paige-bueckers-indianapolis-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "57m ago",
+   "age": "1h ago",
    "published": "2026-08-21T03:11:11+00:00"
   },
   {
@@ -72,7 +95,7 @@
    "topic": "markets",
    "summary": "The U.S. government's efforts to manage pressure in the Treasury market risk merely shifting the problem down the road, according to JPMorgan's James Sullivan.",
    "image": "https://image.cnbcfm.com/api/v1/image/108254592-1768943730780-gettyimages-2256755088-JPMORGAN_TRUMP.jpeg?v=1784914858&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-21T02:48:10+00:00"
   },
   {
@@ -83,7 +106,7 @@
    "topic": "world",
    "summary": "Fernando Mendoza s second pass of the preseason game between the Las Vegas Raiders and Houston Texans was intercepted and returned 80 yards for a TD.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/fernando-mendoza-throws-raiders-texans.jpg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-21T02:28:15+00:00"
   },
   {
@@ -94,30 +117,41 @@
    "topic": "markets",
    "summary": "Japan's historic effort to prop up the yen may have had an unintended consequence: giving investors a better opportunity to put the carry trade back on.",
    "image": "https://image.cnbcfm.com/api/v1/image/108349853-1786723488619-gettyimages-2257994301-JAPAN_YEN.jpeg?v=1786723571&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-21T02:28:08+00:00"
   },
   {
-   "title": "Jury awards teens $550K after Oregon amusement park ride left them hanging upside down: report",
-   "url": "https://www.foxnews.com/us/jury-awards-teens-550k-oregon-amusement-park-ride-left-hanging-upside-down-report",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Video showed riders suspended vertically on the AtmosFEAR ride at Oaks Park after the spinning pendulum malfunctioned on opening day of summer 2024.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/09/931/523/Untitled-1.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-08-21T02:07:10+00:00"
+   "title": "Left Tackle Struggles, Red Zone Success, and More at Bears-Bengals Joint Practice",
+   "url": "https://www.windycitygridiron.com/chicago-bears-training-camp/120968/left-tackle-struggles-red-zone-success-and-more-at-bears-bengals-joint-practice",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2962537342505153.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-08-21T01:22:10+00:00"
   },
   {
-   "title": "Chinese humanoid robots' biggest obstacle: humans are still (mostly) better",
-   "url": "https://www.cnbc.com/2026/08/21/chinese-humanoid-robots-face-challenge-of-their-own-capabilities.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Humanoid robots still struggle to perform as efficiently as humans in most labor scenarios.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108352476-1787269803395-IMG_2461_2.jpeg?v=1787270825&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-08-21T01:56:01+00:00"
+   "title": "Giants-Dolphins brawl: Multiple players removed from joint practice, teams could face NFL punishment",
+   "url": "https://www.cbssports.com/nfl/news/giants-dolphins-joint-practice-fight/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/21/e6f63342-e8cb-4422-9435-6130c4adde40/gettyimages-2290658154-1.jpg",
+   "age": "3h ago",
+   "published": "2026-08-21T01:18:19+00:00"
+  },
+  {
+   "title": "Here's what prediction markets say about the Steelers: Use Polymarket promo code CBSSPORTS for $20 bonus",
+   "url": "https://www.cbssports.com/prediction/news/heres-what-prediction-markets-say-about-the-steelers-use-polymarket-promo-code-cbssports-for-20-bonus/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/20/92a99165-b0bd-4983-9261-77f51a03756c/aaron-rodgers-nfl-afc-wild-card-round-houston-texans-at-pittsburgh-steelers.jpg",
+   "age": "3h ago",
+   "published": "2026-08-21T01:06:25+00:00"
   },
   {
    "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
@@ -127,7 +161,7 @@
    "topic": "ai",
    "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2220872848.jpg?resize=1200,801",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-21T00:23:36+00:00"
   },
   {
@@ -138,7 +172,7 @@
    "topic": "ai",
    "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-21T00:13:44+00:00"
   },
   {
@@ -149,7 +183,7 @@
    "topic": "ai",
    "summary": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fu…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/BMs3e7-features.png?resize=1200,675",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-20T23:32:27+00:00"
   },
   {
@@ -160,7 +194,7 @@
    "topic": "defense",
    "summary": "Carrier availability and decisions made during the Iran war have exacerbated the US Navy's longstanding struggles with a frenzied operational tempo.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NMKT3HEOLRHJTPQEYG4UWW7EMQ.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-20T23:20:57+00:00"
   },
   {
@@ -171,30 +205,8 @@
    "topic": "defense",
    "summary": "The Washington's replacement of the Lincoln leaves no carrier in the Western Pacific and the Navy's struggle to meet demand may get far worse before it gets better. The …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GW-CENTCOM1.jpg?quality=85",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-20T23:10:13+00:00"
-  },
-  {
-   "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-   "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise …",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-   "age": "5h ago",
-   "published": "2026-08-20T22:36:37+00:00"
-  },
-  {
-   "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-   "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
-   "age": "5h ago",
-   "published": "2026-08-20T22:09:51+00:00"
   },
   {
    "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
@@ -204,19 +216,8 @@
    "topic": "ai",
    "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc-1152x648.jpeg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-20T22:00:11+00:00"
-  },
-  {
-   "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf",
-   "url": "https://www.cnbc.com/2026/08/20/bessent-warsh-fed-bond-market-treasury-yields.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bessent’s effort to tamp down long-term Treasury yields could force Warsh to clarify how far the Fed should go in coordinating on bonds and the balance sheet.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108341984-1785352838305-gettyimages-2288190361-wm025301_8kp9qjin.jpeg?v=1785797449&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-08-20T21:53:44+00:00"
   },
   {
    "title": "Europe cancels planned upgrades for Ariane 6 rocket",
@@ -226,8 +227,19 @@
    "topic": "ai",
    "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG-1152x648.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-20T21:40:52+00:00"
+  },
+  {
+   "title": "NFL fines Cowboys, Saints $500K each after joint practice fights get out of hand, per report",
+   "url": "https://www.cbssports.com/nfl/news/cowboys-saints-fined-joint-practice-fights/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/20/759a479e-4295-4387-bebd-0e31d1efa355/sc.jpg",
+   "age": "7h ago",
+   "published": "2026-08-20T21:39:46+00:00"
   },
   {
    "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
@@ -237,7 +249,7 @@
    "topic": "ai",
    "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8-1152x648.jpg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-20T21:25:25+00:00"
   },
   {
@@ -248,7 +260,7 @@
    "topic": "defense",
    "summary": "The United States, Iceland and NATO began the U.S-led biennial exercise Northern Viking 2026 (NV26) on Tuesday, which runs in Iceland and surrounding waters until Sept. …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9877840-scaled.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-20T20:41:07+00:00"
   },
   {
@@ -259,7 +271,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy is leading a multinational effort to develop a new version of the Evolved SeaSparrow air defense missile.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-20T20:23:22+00:00"
   },
   {
@@ -270,7 +282,7 @@
    "topic": "defense",
    "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6G6VS56Z7BCLDDX3ZIW3ZVDQ3E.JPG",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-20T20:09:46+00:00"
   },
   {
@@ -281,7 +293,7 @@
    "topic": "defense",
    "summary": "We can only imagine the crazy logistics that keep just a handful of F-117s flying, and a contract to help do this highlights one of the \"Black Jet's\" unique features. Th…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/f-117-emergency-tailhook-system-explosive-charges.jpg?quality=85",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-20T19:57:42+00:00"
   },
   {
@@ -292,19 +304,30 @@
    "topic": "defense",
    "summary": "“It’s a big ask,” acknowledged Maj. Gen. Denise McPhail, chief of Army Network Command, but it could allow NETCOM to “leverage AI in that model to understand our vulnera…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8944263-e1787254586489.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-20T19:55:53+00:00"
   },
   {
-   "title": "US Air Force flight to Antarctica turns back after Russian hazardous space activity warning",
-   "url": "https://www.defensenews.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "A U.S. Air Force C-17A Globemaster III taking off from Christchurch, New Zealand, returned after receiving a “potentially hazardous” space activity notice.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IMX4X3G4WZBZVFOUVEAKMYEQGY.jpg",
-   "age": "8h ago",
-   "published": "2026-08-20T19:10:05+00:00"
+   "title": "Bears training camp report: Joint practice with Bengals | Thursday, Aug. 20",
+   "url": "https://www.chicagobears.com/news/bears-training-camp-report-joint-practice-with-bengals-thursday-aug-20",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/r0w9dmfgerkh44rq3hdv.jpg",
+   "age": "9h ago",
+   "published": "2026-08-20T19:24:26+00:00"
+  },
+  {
+   "title": "Bears Caleb Williams and T.J. Edwards talk after the joint practice (Open Thread)",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/120949/bears-caleb-williams-and-t-j-edwards-talk-after-the-joint-practice-open-thread",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY2962535870174491.jpg?quality=90&#038;strip=all&#038;crop=0,0,62.545456698331,100",
+   "age": "9h ago",
+   "published": "2026-08-20T19:15:00+00:00"
   },
   {
    "title": "Drone companies, admin leaders meet for first White House ‘Drone Dominance’ meeting",
@@ -314,7 +337,7 @@
    "topic": "defense",
    "summary": "“The cavalry arrived here to meet your cavalry in private industry to make sure that we are not drone sufficient, from parity, but drone dominant,” Pentagon R E chief Em…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IMG_2621-scaled-e1787241010570-1024x577.jpeg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-20T18:24:00+00:00"
   },
   {
@@ -325,7 +348,7 @@
    "topic": "defense",
    "summary": "Army wants to field commercial EW systems to forces fast.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/Army-TLS-Manpack-8771417-e1777477078340-1024x574.jpg",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-20T18:14:53+00:00"
   },
   {
@@ -336,41 +359,8 @@
    "topic": "defense",
    "summary": "The four-engine turboprop is expected to form a key new piece of China’s modernizing military transport fleet. The post Our Best Look At China’s New Y-15 Turboprop Airli…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/China-Aircraft-transport-new.jpg?quality=85",
-   "age": "9h ago",
-   "published": "2026-08-20T18:13:10+00:00"
-  },
-  {
-   "title": "Wildfire Is General Atomics’ Successor To The MQ-9 Reaper",
-   "url": "https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Wildfire concept has been entered into a new Pentagon competition to find a next generation of medium-altitude, long-endurance ISR and strike drone. The post Wildfir…",
-   "image": "https://www.twz.com/wp-content/uploads/2025/04/mq-9-stock.jpg?quality=85",
-   "age": "9h ago",
-   "published": "2026-08-20T18:11:01+00:00"
-  },
-  {
-   "title": "Roblox must make changes after failing to block adults creeping on kids",
-   "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483-1024x648.jpg",
    "age": "10h ago",
-   "published": "2026-08-20T17:14:08+00:00"
-  },
-  {
-   "title": "US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar",
-   "url": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“The proposed sale will increase Qatar’s capability to meet current and future threats by enhancing its defense capabilities, the US State Department said.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/09/240913_DVIDS_kc46_japan_4866234-scaled-e1726259068659-1024x577.jpg",
-   "age": "11h ago",
-   "published": "2026-08-20T16:54:40+00:00"
+   "published": "2026-08-20T18:13:10+00:00"
   },
   {
    "title": "U.S. National Security Science & Technology Strategy",
@@ -380,8 +370,19 @@
    "topic": "defense",
    "summary": "The following is the White House National Security Science and Technology Strategy released earlier this week. From the report This document establishes a National Secur…",
    "image": null,
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-20T15:31:52+00:00"
+  },
+  {
+   "title": "Bears receivers Rome Odunze, Luther Burden III featured in NFL celebration commercial",
+   "url": "https://www.chicagobears.com/news/bears-receivers-rome-odunze-luther-burden-iii-featured-in-nfl-celebration-commercial",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/hv8ng4lalncverzp2et9.jpg",
+   "age": "14h ago",
+   "published": "2026-08-20T15:00:00+00:00"
   },
   {
    "title": "Carrier USS George Washington Now in the Middle East",
@@ -391,41 +392,41 @@
    "topic": "defense",
    "summary": "USS George Washington (CVN-73) arrived in the U.S. Central Command area of responsibility yesterday, the combatant command announced on social media. The aircraft carrie…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9876799-scaled.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-20T14:40:01+00:00"
   },
   {
-   "title": "Hendrick driver set for 2027 return after NASCAR Cup Series snub",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVpXaW1jbGpfUDU1bmo1T09UNmkxci1sZTlIV0JQb2N4ZUJpZlptX2lZVFQtOFhtTmVFdjNYSnZ3VFNsR19ROUgyRGRZLVhnbENlRDBQSkd4alBIdXlTQ3FRVmYzY0NPbmpfejJvaVktRnBrcUJES0dKQzFRWlNIWWxLNklzZkxHS3VPQ3Rwd3NoUE9vN0t0TmozMTdUekQ5?oc=5",
-   "source": "Beyond the Flag",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "17h ago",
-   "published": "2026-08-20T11:00:02+00:00"
+   "title": "Trees offer shade and beauty, but storms expose their risks",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9db88019-88c7-444a-b724-8bcf65ff7598.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Is that beautiful tree in your yard actually a disaster waiting to happen? The trees we once saw as comforting symbols of nature now look like potential weapons of destr…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/28/a28af5c7-5bd4-4fbb-83cf-442cd555284e/6a85f26ddef17.image.jpg?resize=300%2C225",
+   "age": "16h ago",
+   "published": "2026-08-20T12:15:00+00:00"
   },
   {
-   "title": "Marines are Training Fireteams to Deploy Combat Drones",
-   "url": "https://news.usni.org/2026/08/19/marines-training-fireteams-to-deploy-combat-drones",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Marine Corps on Friday wrapped up the inaugural Marine Corps Attack Drone Competition at Marine Corps Base (MCB) Quantico, Va., capping a summer of drone firsts for …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9873070-scaled.jpg",
-   "age": "1d ago",
-   "published": "2026-08-19T21:31:45+00:00"
+   "title": "Chicago Bears News: Joint practice with the Bengals today in Cincy",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/120907/chicago-bears-news-joint-practice-with-the-bengals-today-in-cincy",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290115824.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "19h ago",
+   "published": "2026-08-20T10:00:00+00:00"
   },
   {
-   "title": "The history of Hendrick Motorsports' most recent driver changes and how it worked out",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOFU1S2lBZ2NqN0xCb01TbWYxa19LSVhMbTBDNlJFSjFxUy11d3VSSTI1ZWpEekJIVUlfZHlMaDliUUp3VnRHRnlDM25RM0RZQlpTdloxcVo1MkJBVEhFZkIybElIaHFsYng3QWpSZy1TTkJpOFp1N2dwYUl3OFBJdWVNUzNUUVhnbDJ6Um15cF85eWtTNS0ycUR4dVpFRTlHalNnS2NjdmZIQzQyVUZzZlFfX1hNZXEyeUNyamVMblZMUkd5VGRGaThB?oc=5",
-   "source": "Motorsport.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Antwaan Randle El relished chance to call plays",
+   "url": "https://www.chicagobears.com/news/antwaan-randle-el-relished-chance-to-call-plays",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
    "summary": "",
-   "image": null,
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/pjvbu8rki2m7vdosf2cx.jpg",
    "age": "1d ago",
-   "published": "2026-08-19T16:08:20+00:00"
+   "published": "2026-08-19T19:54:14+00:00"
   },
   {
    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -439,26 +440,26 @@
    "published": "2026-08-19T14:18:12+00:00"
   },
   {
-   "title": "Analysis: Hendrick rekindles youth movement by signing Zilisch for 2028",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTk41TW11MmIxaU5qMllxdEtIRHotN3RZZVBJS0Q3a3J3TGdyTkVGSUhiYVBYa29lNXI5aHR1RG5pR1ZqMXZSNG9YS0JSTkZOM2JFUWpNem9pQ2dtc1dQLTItOXJKQ0ExUUlzY3RsR1laQXZSZUdhU1BmQ3JDY25DVTRTU1d4SHB6bU1PLXZQT0RBcWdmU3JOdnBhS3FFZEI0ODdYMElzZlFSMVlSaU5GTFNPaXRGS3gzU2VUcG5EWnhQc3JMT1dn0gHMAUFVX3lxTE9CMnhtblJURTVIU0M4ZEFkMXlfXy1BNUxmdXdYMkJnWHl1MVFpR3NQMFJOZnExODhGemowSFV5eE5qODVZT0tCejZkb05CaG5UMzVORWZ4V011bHhrbFBRUHZYeTdYX05OaFVnRzVfaEtyYWlFX0FZTTdGUExvejdFbW5weE9BbjZEYWlQdDk5U1puN0ZqVXEwNklJVXVENkZycEd0XzFOQlZXcDl0LTJ5eWYydHBwM01MQTB1NGgzVWt1ZW1hMExyZElUaA?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Bears notebook: No end in sight for left tackle competition – or Kyler Gordon’s absences",
+   "url": "https://allchgo.com/bears/bears-no-end-tackle-competition-kyler-gordon-absences/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-08-19T13:56:11+00:00"
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/18151548/2026-08-01T024940Z_351707217_MT1USATODAY29491817_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
+   "age": "2d ago",
+   "published": "2026-08-18T21:14:57+00:00"
   },
   {
-   "title": "Connor Zilisch will join Hendrick Motorsports, No. 48 car for 2028 NASCAR Cup season",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGpaS25JQTEtWWt3UHI4aEdOTlktSXZ6UWFiT0E4N1VMZF9XN05tT0FTemw0Vm9xU0l3UG5iZ21XTGpUcFVKMG5zRWJNVlhyRm1PNFRsSzYtckZTN2VTQ1FJRVpxYW1Ecm1xWnRFcmhCVHFRLTh1bHQ1OFI2SmpWQ3Q3aTROLWVYcjd6R203dW5EaExaNmFGeUZac2QySWtCb2RTbzhTOEZjSlA4X05OdkVrQnZXTzNIRWplQkU1ZVNZOE94SXFiSg?oc=5",
-   "source": "The Tennessean",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Monster in the making: Everyone can feel what Ben Johnson is building for the Bears",
+   "url": "https://allchgo.com/bears/everyone-can-feel-what-ben-johnson-building-for-bears/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/16231952/Jahns_BenJohnson-1024x576.jpg",
    "age": "3d ago",
-   "published": "2026-08-17T19:31:00+00:00"
+   "published": "2026-08-17T10:00:00+00:00"
   }
  ]
 }
