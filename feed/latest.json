@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-22T20:10:53+00:00",
+ "generated": "2026-08-22T20:45:13+00:00",
  "count": 40,
  "withImage": 40,
  "bearsDay": true,
@@ -13,6 +13,7 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -21,59 +22,114 @@
  ],
  "items": [
   {
-   "title": "Alex Palou tops final Freedom 250 Grand Prix practice session that had multiple red flags",
-   "url": "https://www.foxnews.com/outkick-sports/alex-palou-tops-final-freedom-250-grand-prix-practice-session-multiple-red-flags",
+   "title": "Paramount, California AG office reportedly plan to meet Monday to discuss settling WBD lawsuit",
+   "url": "https://www.cnbc.com/2026/08/22/paramount-california-ag-said-to-plan-meeting-on-settling-wbd-suit-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Paramount and the California A.G. office are set to meet Monday to discuss a settlement of the antitrust lawsuit over Paramount's Warner Bros. Discovery deal.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108334165-17839619082026-06-30t125836z_380056246_rc2fciazx5cx_rtrmadp_0_warner-bros-dis-m-a-paramount-britain.jpeg?v=1783961940&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-08-22T20:34:13+00:00"
+  },
+  {
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for NFL preseason, Bengals-Bears, MLB on Saturday",
+   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nfl-preseason-bengals-bears-mlb-saturday/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/07/30/08c21955-0551-4824-b6a4-29a83721d406/betmgm-1t500-promo.jpg",
+   "age": "12m ago",
+   "published": "2026-08-22T20:32:38+00:00"
+  },
+  {
+   "title": "Use DraftKings promo code to get $150 in bonus bets by targeting NFL preseason, Bengals-Bears, MLB on Saturday",
+   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-in-bonus-bets-by-targeting-nfl-preseason-bengals-bears-mlb-saturday/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
+   "age": "14m ago",
+   "published": "2026-08-22T20:30:23+00:00"
+  },
+  {
+   "title": "Federal judge blasts Rubio’s 75-country visa freeze as ‘Orwellian,’ strikes down policy",
+   "url": "https://www.foxnews.com/politics/federal-judge-blasts-rubio-75-country-visa-freeze-orwellian-strikes-down-policy",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Alex Palou topped the timesheets, but street ace Kyle Kirkwood seems like he has more pace left in him ahead of qualifying for the Freedom 250 Grand Prix.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/palou-practice.jpg?ve=1&tl=1",
-   "age": "30m ago",
-   "published": "2026-08-22T19:40:10+00:00"
+   "summary": "A federal judge ruled Secretary of State Marco Rubio lacked authority to order immigrant visa denials for applicants from 75 countries found eligible.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/rubio-trump-cabinet-meeting-fixed.png?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-08-22T20:27:01+00:00"
   },
   {
-   "title": "Wendy Williams delivers blunt 3-word plea in rare sighting amid guardianship battle",
-   "url": "https://www.foxnews.com/entertainment/wendy-williams-delivers-blunt-3-word-plea-rare-sighting-guardianship-battle",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Wendy Williams fired off a blunt three-word plea during a rare NYC outing, her first known public appearance since February amid her guardianship battle.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/wendy-williams-rare-sighting.jpg?ve=1&tl=1",
-   "age": "46m ago",
-   "published": "2026-08-22T19:24:31+00:00"
+   "title": "Nvidia customers reportedly warned about AI-related price hikes",
+   "url": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108341092-1785248242541-gettyimages-2285710732-JAPAN_NVIDIA.jpeg?v=1785248266&amp;w=1920&amp;h=1080",
+   "age": "18m ago",
+   "published": "2026-08-22T20:26:44+00:00"
   },
   {
-   "title": "Todd Blanche vows to 'come after' bad actors following $400M TikTok settlement",
-   "url": "https://www.foxnews.com/media/todd-blanche-vows-come-after-bad-actors-following-400m-tiktok-settlement",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Attorney General Todd Blanche says the $400M TikTok settlement sends a direct message to Big Tech that the DOJ will come after child privacy violators.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Acting-AG-Todd-Blanche-Committee-Confirmation.jpg?ve=1&tl=1",
-   "age": "48m ago",
-   "published": "2026-08-22T19:21:57+00:00"
-  },
-  {
-   "title": "Alabama Crimson Tide names starter for week one: Get to know Bama quarterback Keelon Russell",
-   "url": "https://www.foxnews.com/outkick-sports/alabama-crimson-tide-names-starter-week-one-get-know-bama-quarterback-keelon-russell",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Keelon Russell won Alabama s quarterback competition over Austin Mack, giving Kalen DeBoer a high-upside redshirt freshman from Duncanville.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/keelon-russell2.jpg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-08-22T19:20:58+00:00"
-  },
-  {
-   "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-   "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+   "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+   "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
-   "age": "1h ago",
-   "published": "2026-08-22T19:00:00+00:00"
+   "summary": "On the latest episode of Equity, we wonder why the DOJ is investigating startup board seats.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+   "age": "20m ago",
+   "published": "2026-08-22T20:24:20+00:00"
+  },
+  {
+   "title": "Hayden Panettiere's co-star Justin Chatwin 'pissed off' over Hollywood culture after her passing",
+   "url": "https://www.foxnews.com/entertainment/hayden-panettiere-co-star-justin-chatwin-pissed-off-hollywood-culture-after-her-passing",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Justin Chatwin slams Hollywood culture for failing people battling trauma and addiction as he grieves Sleepwalker co-star Hayden Panettiere.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/justin-chatwin-hayden-panettiere.jpg?ve=1&tl=1",
+   "age": "23m ago",
+   "published": "2026-08-22T20:21:33+00:00"
+  },
+  {
+   "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
+   "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1787125848&amp;w=1920&amp;h=1080",
+   "age": "26m ago",
+   "published": "2026-08-22T20:18:15+00:00"
+  },
+  {
+   "title": "World Cup energy carries into Freedom 250 Grand Prix as global fans celebrate America's historic birthday",
+   "url": "https://www.foxnews.com/outkick-sports/world-cup-energy-carries-freedom-250-grand-prix-global-fans-celebrate-americas-historic-birthday",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Freedom 250 Grand Prix along the National Mall draws World Cup-level international admiration for America s culture, people and patriotism.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/freedom-250-grand-prix-washington-dc-fox-news_-scaled.jpg?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-08-22T20:15:20+00:00"
+  },
+  {
+   "title": "Nashville hospital medication error leaves at least 1 patient paralyzed after routine surgery, 3 others hurt",
+   "url": "https://www.foxnews.com/us/nashville-hospital-medication-error-leaves-patient-paralyzed-routine-surgery-3-others-hurt",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Potassium phosphate was injected instead of an anesthetic into four patients spines during joint replacement surgeries at Ascension Saint Thomas Hospital.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/liquid-extracted-medical-vial-syringe.jpg?ve=1&tl=1",
+   "age": "38m ago",
+   "published": "2026-08-22T20:06:14+00:00"
   },
   {
    "title": "Chicago Bears support recent storm recovery and encourage community to join relief efforts",
@@ -83,6 +139,17 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/apmnqzx5czrgcop0j3ii.png",
+   "age": "1h ago",
+   "published": "2026-08-22T19:00:00+00:00"
+  },
+  {
+   "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+   "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
    "age": "1h ago",
    "published": "2026-08-22T19:00:00+00:00"
   },
@@ -105,7 +172,7 @@
    "topic": "defense",
    "summary": "China's fourth aircraft carrier, which could be nuclear-powered, is looking more and more like a real ship. The post China’s Next Aircraft Carrier Is Taking Shape appear…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/type-004-construction-progress.jpg?quality=85",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-22T17:29:15+00:00"
   },
   {
@@ -131,17 +198,6 @@
    "published": "2026-08-22T17:05:25+00:00"
   },
   {
-   "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8",
-   "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1787125848&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-08-22T17:01:18+00:00"
-  },
-  {
    "title": "OpenAI says California should strengthen its AI safety bill",
    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
    "source": "TechCrunch",
@@ -149,7 +205,7 @@
    "topic": "ai",
    "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-22T16:30:34+00:00"
   },
   {
@@ -164,28 +220,6 @@
    "published": "2026-08-22T16:00:00+00:00"
   },
   {
-   "title": "US battery startups have found a lifeline in defense",
-   "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "U.S. battery startups pulled in $500 million in grants from the Department of Energy, throwing a lifeline to an industry that was on the ropes after EV incentives were s…",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2157883094.jpeg?resize=1200,742",
-   "age": "4h ago",
-   "published": "2026-08-22T15:20:00+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to get $150 in bonus bets by targeting NFL preseason, Bears-Bengals, MLB on Saturday",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-in-bonus-bets-by-targeting-nfl-preseason-bears-bengals-mlb-saturday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
-   "age": "5h ago",
-   "published": "2026-08-22T14:52:25+00:00"
-  },
-  {
    "title": "NFL survivor pool picks, advice, strategy for Week 1, 2026: Avoid the Dallas Cowboys",
    "url": "https://www.cbssports.com/betting/news/nfl-survivor-pool-picks-advice-strategy-week-1-2026-avoid-the-dallas-cowboys/",
    "source": "CBS Sports NFL",
@@ -197,17 +231,6 @@
    "published": "2026-08-22T14:50:51+00:00"
   },
   {
-   "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
-   "url": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108352958-1787344743741-stav5_2.jpg?v=1787345001&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-08-22T14:00:01+00:00"
-  },
-  {
    "title": "USS Abraham Lincoln Leaves the Middle East After Almost 7 Months",
    "url": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months",
    "source": "USNI News",
@@ -215,19 +238,8 @@
    "topic": "defense",
    "summary": "Aircraft carrier USS Abraham Lincoln (CVN-72) has left the Middle East after almost seven months and is now in U.S. 7th Fleet, USNI News has learned. As of Saturday, Lin…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9872367-scaled.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-22T12:30:27+00:00"
-  },
-  {
-   "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-   "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108298316-1777383492077-gettyimages-2207562352-AFP_38UZ4BA.jpeg?v=1777383527&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-08-22T12:12:03+00:00"
   },
   {
    "title": "Chicago Bears 2026 Radio Network Affiliate Stations",
@@ -248,7 +260,7 @@
    "topic": "ai",
    "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-22T11:22:32+00:00"
   },
   {
@@ -270,7 +282,7 @@
    "topic": "defense",
    "summary": "Two mariners were killed in the past week and a half in the Strait of Hormuz by Iranian attacks. On Monday, an Iranian attack on MV Minoan Dignity in the strait left one…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-9.03.35-PM.png",
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-22T01:13:56+00:00"
   },
   {
@@ -292,7 +304,7 @@
    "topic": "ai",
    "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
-   "age": "20h ago",
+   "age": "21h ago",
    "published": "2026-08-21T23:32:17+00:00"
   },
   {
@@ -303,7 +315,7 @@
    "topic": "defense",
    "summary": "Now that's a door! The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GettyImages-51115842-copy.jpg?quality=85",
-   "age": "21h ago",
+   "age": "22h ago",
    "published": "2026-08-21T22:42:00+00:00"
   },
   {
@@ -314,19 +326,8 @@
    "topic": "defense",
    "summary": "The advanced drone could become a high-end collaborative companion to the Gripen E, and may also shape Saab’s next crewed combat aircraft. The post Saab Unveils Stealthy…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/saab-a3-mockup-copy.jpg?quality=85",
-   "age": "21h ago",
-   "published": "2026-08-21T22:40:10+00:00"
-  },
-  {
-   "title": "China’s Massive New Artificial Island In The South China Sea Emerges, Primed For Militarization",
-   "url": "https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "What was a submerged reef a year ago is now a 1,500 acre artificial island with a large runway under construction, as China's militarization of the South China Sea accel…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/Antelope-Reef-PRC-Buildup-in-South-China-Sea.png?quality=85",
    "age": "22h ago",
-   "published": "2026-08-21T22:03:14+00:00"
+   "published": "2026-08-21T22:40:10+00:00"
   },
   {
    "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
@@ -428,15 +429,15 @@
    "published": "2026-08-20T19:24:26+00:00"
   },
   {
-   "title": "Bears receivers Rome Odunze, Luther Burden III featured in NFL celebration commercial",
-   "url": "https://www.chicagobears.com/news/bears-receivers-rome-odunze-luther-burden-iii-featured-in-nfl-celebration-commercial",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/hv8ng4lalncverzp2et9.jpg",
+   "title": "Trees offer shade and beauty, but storms expose their risks",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9db88019-88c7-444a-b724-8bcf65ff7598.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Is that beautiful tree in your yard actually a disaster waiting to happen? The trees we once saw as comforting symbols of nature now look like potential weapons of destr…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/28/a28af5c7-5bd4-4fbb-83cf-442cd555284e/6a85f26ddef17.image.jpg?resize=300%2C225",
    "age": "2d ago",
-   "published": "2026-08-20T15:00:00+00:00"
+   "published": "2026-08-20T12:15:00+00:00"
   },
   {
    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
