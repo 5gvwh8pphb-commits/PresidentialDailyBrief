@@ -3,22 +3,22 @@
   "dateLabel": "Saturday, August 22, 2026",
   "slot": "by 6 AM CT",
   "window": "past 24h",
-  "generated": "2026-08-22T09:07:57Z",
+  "generated": "2026-08-22T16:11:42Z",
   "beats": [
     {
       "n": 1,
       "beat": "Market recap",
       "group": "markets",
-      "age": "~13h ago",
+      "age": "~20h ago",
       "empty": false,
       "kicker": "Prior-day market scorecard",
       "subline": "Friday, August 21, 2026 close — stocks rebounded across the board, though all three indexes still closed lower for the week amid persistent Treasury-yield stress.",
       "indices": [
-        { "name": "S&P 500", "close": "7,674.37", "change": "+33.21", "changePct": "+0.43%", "sixMo": "+11%" },
-        { "name": "Dow",     "close": "53,277.01", "change": "+517.80", "changePct": "+0.98%", "sixMo": "+7.4%" },
-        { "name": "Nasdaq",  "close": "26,180.45", "change": "+113.28", "changePct": "+0.43%", "sixMo": "+14%" }
+        { "name": "S&P 500", "close": "7,674.37", "change": "+33.21", "changePct": "+0.43%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,277.01", "change": "+517.80", "changePct": "+0.98%", "sixMo": "+8.8%" },
+        { "name": "Nasdaq",  "close": "26,180.45", "change": "+113.28", "changePct": "+0.43%", "sixMo": "+16%" }
       ],
-      "body": "Healthcare and crypto-linked shares led the bounce as bitcoin surged 22% for the week to top $76,900, while the 30-year Treasury yield held near 5.27% despite the Treasury doubling its long-bond buyback operations.",
+      "body": "Healthcare and crypto-linked shares led the bounce as bitcoin surged roughly 22% for the week to top $76,900, while the 30-year Treasury yield held near 5.27% despite the Treasury doubling its long-bond buyback operations.",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
     },
@@ -26,10 +26,10 @@
       "n": 2,
       "beat": "US-related international",
       "group": "security",
-      "age": "~6h ago",
+      "age": "~16h ago",
       "empty": false,
-      "headline": "US-Canada trade talks collapse, triggering 50% tariffs on a swath of Canadian goods",
-      "body": "Trade talks between Washington and Ottawa collapsed late Friday, prompting the US to invoke the never-before-used Section 338 of the 1930 Tariff Act and impose 50% tariffs just after midnight Saturday on roughly $20 billion of Canadian goods including hockey sticks, building materials, liquor and clothing; Prime Minister Mark Carney called the outcome insufficient and vowed Canada would match the tariffs dollar for dollar, while energy, potash and critical minerals were carved out.",
+      "headline": "US-Canada trade talks collapse, 50% tariffs take effect on Canadian goods",
+      "body": "Trade talks between Washington and Ottawa broke down late Friday, and the US imposed 50% tariffs just after midnight Saturday on roughly $20 billion of Canadian goods including cement, hockey sticks, building materials and clothing; Prime Minister Mark Carney vowed to match the tariffs 'dollar for dollar' and said retaliation would follow after Labour Day, while US Trade Representative Jamieson Greer blamed Canada for 'new demands and walk backs' on terms agreed earlier in the week.",
       "source": "NBC News",
       "url": "https://www.nbcnews.com/business/economy/trump-canada-tariffs-carney-rcna593510"
     },
@@ -37,12 +37,12 @@
       "n": 3,
       "beat": "China watch",
       "group": "security",
-      "age": "~1 day ago",
+      "age": "~1.5 days ago",
       "empty": false,
       "headline": "US Navy patrol plane transits Taiwan Strait days before planned Xi-Trump summit",
-      "body": "A US 7th Fleet P-8A Poseidon flew through international airspace over the Taiwan Strait on Friday in a mission the Navy said demonstrates commitment to a 'free and open Indo-Pacific'; Chinese forces tracked the aircraft throughout, and the transit comes weeks before Xi Jinping's expected visit to the US to meet President Trump as the two governments try to stabilize ties strained by Taiwan, trade and tech disputes.",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-navy-aircraft-transits-taiwan-strait-before-planned-xi-trump-meeting"
+      "body": "A US 7th Fleet P-8A Poseidon flew through international airspace over the Taiwan Strait on Friday in a mission the Navy said demonstrates commitment to a 'free and open Indo-Pacific'; Chinese forces tracked the aircraft throughout, with state media saying the 'situation was under control,' and the transit comes weeks before Xi Jinping's expected visit to the US to meet President Trump as the two governments try to stabilize ties strained by Taiwan, trade and tech disputes.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/military/article/3346400/us-navy-patrols-taiwan-strait-xi-trump-summit-triggering-pla-manoeuvres"
     },
     {
       "n": 4,
@@ -51,7 +51,7 @@
       "age": "~1 day ago",
       "empty": false,
       "headline": "CENTCOM says it has redirected 68 ships enforcing renewed Iran blockade",
-      "body": "US Central Command says American forces have redirected 68 commercial vessels, disabled three and boarded two since resuming the naval blockade of Iranian ports in mid-July, with more than 20 warships supporting the effort; Iran's parliament speaker says Tehran won't reopen the Strait of Hormuz until the blockade ends and its frozen assets are released.",
+      "body": "US Central Command says American forces have redirected 68 commercial vessels, disabled three and boarded two since resuming the naval blockade of Iranian ports in mid-July, with more than 20 warships supporting the effort; the carrier USS George Washington has now relieved the USS Abraham Lincoln, whose crew endured a deployment of more than 250 days without a port call.",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-68-vessels-redirected-so-far-iran-naval-blockade"
     },
@@ -62,7 +62,7 @@
       "age": "~2 days ago",
       "empty": false,
       "headline": "Marine Corps fields Bayonet underwater robots to hunt mines before troops hit the beach",
-      "body": "The Marine Corps has begun fielding Bayonet Autonomous Underwater Ground Vehicles — tracked crawlers that cross the seafloor, push through six-foot breaking surf and climb onto the beach — letting explosive ordnance disposal teams survey and clear the most dangerous stretch of an amphibious approach without first putting Marines in the water; the Bayonet 250 is now entering the Corps' inventory under a Littoral Explosive Ordnance Neutralization contract with Greensea IQ.",
+      "body": "The Marine Corps has begun fielding Bayonet Autonomous Underwater Ground Vehicles — tracked crawlers that cross the seafloor, push through six-foot breaking surf and climb onto the beach — letting explosive ordnance disposal teams survey and clear the most dangerous stretch of an amphibious approach without first putting Marines in the water; the Bayonet 250 is now entering the Corps' inventory under a contract with Greensea IQ.",
       "source": "Military.com",
       "url": "https://www.military.com/marines-field-underwater-robots-to-hunt-explosives-before-troops-hit-the-beach"
     },
@@ -73,7 +73,7 @@
       "age": "~2 days ago",
       "empty": false,
       "headline": "Anthropic targets an IPO that could match or beat SpaceX's record $86 billion raise",
-      "body": "Anthropic has confidentially filed a draft S-1 with the SEC and could go public as soon as this month, people familiar with the matter told Bloomberg, with the Claude maker's annualized revenue reportedly reaching roughly $65 billion in July as enterprise spending on Claude and AI agents accelerated; the company is working with Morgan Stanley, Goldman Sachs, JPMorgan and now Citigroup on the offering.",
+      "body": "Anthropic could go public as soon as this month after confidentially filing a draft S-1 with the SEC, people familiar with the matter told Bloomberg, with the Claude maker's annualized revenue reportedly reaching roughly $65 billion in July as enterprise spending on Claude and AI agents accelerated; the company is working with Morgan Stanley, Goldman Sachs, JPMorgan and Citigroup on the offering.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it"
     },
@@ -81,12 +81,12 @@
       "n": 7,
       "beat": "Chicago Bears",
       "group": "sports",
-      "age": "~2 days ago",
+      "age": "~1 day ago",
       "empty": false,
-      "headline": "Bears QB Tyson Bagent held out of Bengals game with lingering hamstring injury",
-      "body": "Head coach Ben Johnson said backup quarterback Tyson Bagent, who strained his hamstring in the preseason opener against Cleveland, did not travel with the team for the joint practices and preseason game at Cincinnati and remains 'week-to-week'; Case Keenum and Miller Moss are handling the bulk of the quarterback snaps in his absence.",
+      "headline": "Bears OC Press Taylor faces older brother Zac across the field in Cincinnati",
+      "body": "Bears offensive coordinator Press Taylor and Bengals head coach Zac Taylor — brothers who grew up in Norman, Oklahoma and both played quarterback in high school and junior college — face off for the sixth time as NFL coaches when Chicago plays at Cincinnati Saturday, a preseason meeting that won't count toward the family's 'Taylor Bro Bowl' trophy their father keeps in his office.",
       "source": "Chicago Sun-Times",
-      "url": "https://chicago.suntimes.com/bears/2026/08/20/bears-training-camp-bengals-tyson-bagent-no-practice-hamstring-week-to-week-ben-johnson-nfl"
+      "url": "https://chicago.suntimes.com/bears/2026/08/21/bears-bengals-preseason-zac-press-taylor-bro-bowl-trophy-brother-offensive-coordinator-head-coach-ben-johnson-exhibition-nfl"
     },
     {
       "n": 8,
@@ -95,7 +95,7 @@
       "age": "n/a",
       "empty": true,
       "headline": "No fresh news on this beat right now",
-      "body": "Byron's low-key build-up to this weekend's New Hampshire race was already reported in yesterday's brief, and no genuinely new roster, injury, schedule or sponsorship item surfaced within the recency window.",
+      "body": "Byron's low-key build-up to this weekend's New Hampshire race was already reported in a prior brief, and no new roster, injury, schedule or sponsorship item could be independently verified from a reputable source within the recency window.",
       "source": null,
       "url": null
     },
@@ -106,7 +106,7 @@
       "age": "n/a",
       "empty": true,
       "headline": "No fresh news on this beat right now",
-      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the stated-clerk transition and General Assembly actions already reported in prior briefs.",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
       "source": null,
       "url": null
     }
