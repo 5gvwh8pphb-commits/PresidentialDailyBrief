@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-23",
+  "dateLabel": "Sunday, August 23, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-23T09:02:11Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, August 21, 2026 close — stocks rose to snap a rough week, helped by a report of the fastest US business-activity growth in four years; markets have been closed since.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,674.37", "change": "+33.21", "changePct": "+0.43%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,277.01", "change": "+517.80", "changePct": "+0.98%", "sixMo": "+8.8%" },
+        { "name": "Nasdaq",  "close": "26,180.45", "change": "+113.28", "changePct": "+0.43%", "sixMo": "+16%" }
+      ],
+      "body": "Friday's rebound came as a business-activity survey showed the fastest growth in over four years, easing worry over the 30-year Treasury yield near 5.27%, though all three indexes still finished the week lower; no new session has traded since the close.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump declares 'economic D-Day' against Iran, threatens sanctions on trading partners",
+      "body": "President Trump vowed 'tremendous economic consequences' for any country continuing to trade with Iran, and Treasury Secretary Scott Bessent, who called it the 'greatest coordinated economic isolation in the history of the world,' is set to detail the new measures at a Monday press conference; Iran's parliamentary speaker dismissed the threat as evidence Washington 'is unable to prevail militarily.'",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/22/world/live-news/iran-war-trump"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "headline": "Taiwan tracks PLA aircraft crossing strait median line ahead of Xi-Trump summit prep",
+      "body": "Taiwan's Ministry of National Defense said it detected three PLA aircraft sorties, eight PLA Navy vessels and seven other official ships operating around the island in the 24 hours to 6 a.m. Saturday, with all three aircraft sorties crossing the Taiwan Strait median line into Taiwan's air defense identification zone; Taiwan's armed forces responded with combat air patrols, navy ships and coastal missile systems as both sides prepare for Xi Jinping's expected visit to meet President Trump next month.",
+      "source": "ROC Ministry of National Defense",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260822-roc-mnd01.htm"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "USS Abraham Lincoln leaves Middle East after nearly seven grueling months",
+      "body": "The carrier USS Abraham Lincoln has departed the Middle East for U.S. 7th Fleet, ending a record 274-day deployment marked by public complaints from sailors' families over shipboard conditions and a lack of port calls caused by the Iranian threat to logistics hubs; USS George Washington, which arrived days earlier, now carries the Navy's carrier presence supporting operations against Iran.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/08/22/uss-abraham-lincoln-leaves-the-middle-east-after-almost-7-months"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Laser-weapon, drone and hypersonic developments turned up this week all trace back to announcements more than 72 hours old or were already reported in a prior brief; nothing new and independently verifiable surfaced within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic's IPO filing will flag AI backlash as a risk factor, sources say",
+      "body": "Anthropic's coming IPO prospectus will disclose public opposition to AI and data centers as a risk factor, CNBC reported, as the Claude maker holds early 'test-the-water' meetings with bankers and investors ahead of a listing that could value the company around $2 trillion; a Gallup survey found seven in ten Americans oppose AI data center construction in their area.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "Bears LB Nephi Sewell carted off with knee injury against Bengals",
+      "body": "Sewell was carted off late in the first half of Saturday's preseason game at Cincinnati with a right knee injury, just a week after exiting the preseason opener in concussion protocol; backup quarterback Tyson Bagent also sat out the Bengals game with a hamstring injury.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/bears-lb-nephi-sewell-carted-004521430.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Byron qualifies third for Dollar Tree 301 in strong Hendrick showing",
+      "body": "William Byron will start third in Sunday's Dollar Tree 301 at New Hampshire Motor Speedway after a Hendrick Motorsports session that also put teammates Kyle Larson and Alex Bowman in the top 10; the top five qualifiers, led by pole-winner Tyler Reddick, were separated by just 0.052 seconds.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/news/2026/august/22/nascar-qualifying-results-byron-larson-bowman-new-hampshire-starting-lineup-for-sunday"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
