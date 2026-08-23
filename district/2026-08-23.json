@@ -1,0 +1,47 @@
+{
+  "date": "2026-08-23",
+  "dateLabel": "Sunday, August 23, 2026",
+  "slot": "Sundays 6 PM CT",
+  "window": "past 7 days",
+  "generated": "2026-08-23T07:55:04Z",
+  "note": "Very quiet week for administration across all fifteen entities; no hires, resignations, or board personnel actions cleared the 7-day window. The only fresh district news was storm-driven school closures at Valparaiso and Union Township as the region kept recovering from the Aug. 11 derecho.",
+  "covered": [
+    "Eastern Pulaski",
+    "East Porter Co",
+    "Hanover",
+    "LaPorte",
+    "Michigan City",
+    "MSD Boone Twp",
+    "MSD New Durham Twp",
+    "New Prairie",
+    "NISEC",
+    "School City of Hobart",
+    "Tri-Creek",
+    "Union Twp",
+    "Valparaiso",
+    "Porter County Trust",
+    "MASE Trust"
+  ],
+  "stories": [
+    {
+      "n": 1,
+      "district": "Valparaiso Community Schools",
+      "kind": "other",
+      "age": "~4 days ago",
+      "headline": "Storm outages shut Valparaiso schools Aug. 17, keep Northview dark a day longer",
+      "body": "Valparaiso Community Schools canceled classes district-wide Aug. 17 \"out of an abundance of caution\" as NIPSCO outages from the Aug. 11 derecho lingered, then kept Northview Elementary closed through Aug. 18 while the rest of the district reopened; all schools were back in full session by Aug. 19.",
+      "source": "Valparaiso Community Schools",
+      "url": "https://www.valpo.k12.in.us/apps/news/"
+    },
+    {
+      "n": 2,
+      "district": "Union Township School Corporation",
+      "kind": "other",
+      "age": "~6 days ago",
+      "headline": "Union Township schools closed again Aug. 17 with no power-restoration timeline",
+      "body": "Union Township School Corporation canceled classes Monday, Aug. 17 with no estimate for when electricity would be restored, the district's latest closure tied to the Aug. 11 derecho; buildings reopened Aug. 18 once power was back.",
+      "source": "Union Township School Corporation",
+      "url": "https://www.union.k12.in.us/news"
+    }
+  ]
+}
