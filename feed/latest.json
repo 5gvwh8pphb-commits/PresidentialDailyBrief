@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-24T17:54:32+00:00",
+ "generated": "2026-08-24T18:23:43+00:00",
  "count": 40,
  "withImage": 38,
  "bearsDay": false,
@@ -10,6 +10,7 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "On3",
   "TechCrunch",
   "The Tennessean",
@@ -25,19 +26,107 @@
    "topic": "markets",
    "summary": "The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's \"enablers.\"",
    "image": "https://image.cnbcfm.com/api/v1/image/108353429-1787592109229-108353429-1787592026369-gettyimages-2291861008-cs013502_4x5fe6kl.jpeg?v=1787592177&amp;w=1920&amp;h=1080",
-   "age": "5m ago",
-   "published": "2026-08-24T17:49:15+00:00"
+   "age": "1m ago",
+   "published": "2026-08-24T18:22:39+00:00"
   },
   {
-   "title": "Royce White predicts Enes Kanter Freedom will be suspended from WNBA events after run in with Natasha Cloud",
-   "url": "https://www.foxnews.com/outkick-sports/royce-white-predicts-enes-kanter-freedom-suspended-wnba-events-run-natasha-cloud",
+   "title": "Army Cyber created an ‘integrated fire’ cell for Epic Fury",
+   "url": "https://breakingdefense.com/2026/08/army-cyber-created-an-integrated-fire-cell-for-epic-fury/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“Over the past five months, the teams have really been able to hone their skills based on the work they re doing inside of a live environment and I think we re getting b…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/7758909-scaled-e1740165576715-1024x577.jpg",
+   "age": "6m ago",
+   "published": "2026-08-24T18:17:02+00:00"
+  },
+  {
+   "title": "Missouri assistant fire chief charged with murder after hidden video found on wife's phone, investigators say",
+   "url": "https://www.foxnews.com/us/missouri-assistant-fire-chief-charged-murder-hidden-video-found-wifes-phone-investigators-say",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Royce White predicts the WNBA will ban Enes Kanter Freedom from future events after his viral courtside exchange with Natasha Cloud in Chicago.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-freedom-featured-cloud.jpg?ve=1&tl=1",
-   "age": "11m ago",
-   "published": "2026-08-24T17:43:31+00:00"
+   "summary": "A hidden phone video and forensic blood spatter analysis unraveled Jeremy Perrien s claim that his wife Shelby Perrien shot herself during a drive, authorities say.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Fire-Chief-Murders-Wife-Missouri.jpg?ve=1&tl=1",
+   "age": "6m ago",
+   "published": "2026-08-24T18:16:48+00:00"
+  },
+  {
+   "title": "Card skimming scam is stealing food benefits nationwide",
+   "url": "https://www.foxnews.com/tech/card-skimming-scam-stealing-food-benefits-nationwide",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A single card skimmer can generate $1 million in stolen funds, and Secret Service video shows criminals installing them in under two seconds.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/vendor-swipes-customer-credit-card.jpg?ve=1&tl=1",
+   "age": "7m ago",
+   "published": "2026-08-24T18:15:49+00:00"
+  },
+  {
+   "title": "Tourists smash SUV window to free black bear trapped inside their vehicle in Gatlinburg",
+   "url": "https://www.foxnews.com/outkick-culture/tourists-smash-suv-window-free-black-bear-trapped-inside-vehicle-gatlinburg",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Video shows tourists in Gatlinburg smashing an SUV s rear window with a large rock to free a trapped black bear near Great Smoky Mountains National Park.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/wild-black-bear-inspects-green-car.jpg?ve=1&tl=1",
+   "age": "8m ago",
+   "published": "2026-08-24T18:15:04+00:00"
+  },
+  {
+   "title": "Iran tried to assassinate one of Netanyahu's sons, prime minister says",
+   "url": "https://www.foxnews.com/world/iran-tried-assassinate-netanyahu-son-prime-minister-says",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Benjamin Netanyahu claims Iran tried to murder one of his sons, urging enhanced protection for prime ministerial candidates during the election campaign.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/netanayhu-observes-qatar-airstrike.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-08-24T18:13:26+00:00"
+  },
+  {
+   "title": "Polish firm MESKO signs $2B deal to arm 4 NATO nations with MANPADS",
+   "url": "https://breakingdefense.com/2026/08/polish-firm-mesko-signs-2b-deal-to-arm-4-nato-nations-with-manpads/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The weapons will go towards Poland, Lithuania, Latvia and Norway under an EU program known as EDIRPA.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Screenshot-2026-08-24-134411-e1787593508356-1024x576.png",
+   "age": "17m ago",
+   "published": "2026-08-24T18:06:00+00:00"
+  },
+  {
+   "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+   "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfort…",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+   "age": "19m ago",
+   "published": "2026-08-24T18:03:55+00:00"
+  },
+  {
+   "title": "Kourtney Kardashian embraces summer in barely-there bikini during scenic getaway",
+   "url": "https://www.foxnews.com/entertainment/kourtney-kardashian-embraces-summer-barely-there-bikini-scenic-getaway",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kourtney Kardashian shared a 20-slide Instagram post featuring rock climbing, canyon boat rides and Travis Barker holding baby Rocky on a desert trip.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/new-york-kardashian-barker-max-sightings.jpg?ve=1&tl=1",
+   "age": "21m ago",
+   "published": "2026-08-24T18:02:06+00:00"
+  },
+  {
+   "title": "Navy Unveils New Anti-Air Missile Malice with a Range of 250 Nautical Miles",
+   "url": "https://news.usni.org/2026/08/24/navy-unveils-new-anti-air-missile-malice-with-a-range-of-250-nautical-miles",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-ra…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9879419-scaled.jpg",
+   "age": "28m ago",
+   "published": "2026-08-24T17:54:47+00:00"
   },
   {
    "title": "SOUTHCOM Strikes First Suspected Drug Boat in Two Months",
@@ -47,19 +136,8 @@
    "topic": "defense",
    "summary": "Forces with Joint Task Force Western Hemisphere – the new name for Joint Task Force Southern Spear – struck a low-profile vessel suspected of smuggling illicit narcotics…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-1.20.26-PM-scaled.png",
-   "age": "16m ago",
+   "age": "46m ago",
    "published": "2026-08-24T17:37:35+00:00"
-  },
-  {
-   "title": "EXCLUSIVE: LA ICE director reveals officers followed home, harassed as police fail to help in sanctuary city",
-   "url": "https://www.foxnews.com/politics/exclusive-la-ice-director-reveals-officers-followed-home-harassed-police-fail-help-sanctuary-city",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "ICE Los Angeles Field Office Director Thomas Giles reveals how California sanctuary policies force officers into dangerous public confrontations.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ice-la-director-arrest.png?ve=1&tl=1",
-   "age": "18m ago",
-   "published": "2026-08-24T17:36:19+00:00"
   },
   {
    "title": "California AG Rob Bonta cancels Paramount settlement meeting, citing 'lack of good faith'",
@@ -69,7 +147,7 @@
    "topic": "markets",
    "summary": "California AG Rob Bonta was scheduled to meet with Paramount representatives on Monday, he said, but canceled the meeting.",
    "image": "https://image.cnbcfm.com/api/v1/image/108291283-17761887412026-04-14t173855z_1901050978_rc2tnjaqsii3_rtrmadp_0_film-theaters-consolidation.jpeg?v=1783621409&amp;w=1920&amp;h=1080",
-   "age": "30m ago",
+   "age": "59m ago",
    "published": "2026-08-24T17:23:54+00:00"
   },
   {
@@ -80,30 +158,8 @@
    "topic": "markets",
    "summary": "Nvidia's race to manufacture Groq chips and make them available to customers highlight the growing importance in AI of low-latency inference.",
    "image": "https://image.cnbcfm.com/api/v1/image/108279787-1773856963026-gettyimages-2266693711-NVIDIA_GTC.jpeg?v=1779315606&amp;w=1920&amp;h=1080",
-   "age": "34m ago",
+   "age": "1h ago",
    "published": "2026-08-24T17:19:34+00:00"
-  },
-  {
-   "title": "Iran-linked hackers suspected in UK power-plant shutdown after alleged Minnesota water attack",
-   "url": "https://www.foxnews.com/politics/iran-linked-hackers-suspected-uk-power-plant-shutdown-alleged-minnesota-water-attack",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Iran-linked hackers allegedly forced a British power generator offline for four days, weeks after striking over 30 community water systems in Minnesota.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/power-lines-and-cityscape-1.jpg?ve=1&tl=1",
-   "age": "38m ago",
-   "published": "2026-08-24T17:15:51+00:00"
-  },
-  {
-   "title": "Phillies vs Mariners player props and over under picks as Philadelphia eyes 10th consecutive win",
-   "url": "https://www.foxnews.com/outkick-sports/phillies-vs-mariners-player-props-over-under-picks-philadelphia-eyes-10th-consecutive-win",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Zack Wheeler faces Logan Gilbert as the Philadelphia Phillies ride a nine-game win streak against the struggling Seattle Mariners in a key matchup.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/mlb-phillies-zack-wheeler-3-081725.jpg?ve=1&tl=1",
-   "age": "40m ago",
-   "published": "2026-08-24T17:14:06+00:00"
   },
   {
    "title": "Storm Shadow Cruise Missile Production Is Coming To Ukraine",
@@ -113,19 +169,8 @@
    "topic": "defense",
    "summary": "Britain is releasing classified data to enable local production, which opens the door to a slew of advantages for Ukraine. The post Storm Shadow Cruise Missile Productio…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/STORM-SHADOW.jpg?quality=85",
-   "age": "41m ago",
+   "age": "1h ago",
    "published": "2026-08-24T17:12:33+00:00"
-  },
-  {
-   "title": "Kelly Stafford knows how to make an 8-year-old's birthday party more entertaining: Jell-O shots",
-   "url": "https://www.foxnews.com/outkick-sports/kelly-stafford-knows-how-make-8-year-old-birthday-party-more-entertaining-jello-shots",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kelly Stafford shared her secret to surviving her daughter s 8th birthday party: Jell-O shots for the adults, proving kids parties can be fun.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/matthew-stafford-kelly-hall-espy-awards.jpg?ve=1&tl=1",
-   "age": "46m ago",
-   "published": "2026-08-24T17:08:26+00:00"
   },
   {
    "title": "Australia identifies future defense precinct site for AUKUS sub sustainment",
@@ -135,7 +180,7 @@
    "topic": "defense",
    "summary": "It has also conducted a keel laying ceremony for the first Hunter-class frigate",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Australia_Henderson_Defence_Precinct_defence_2026_Aug_S20262634-1024x582.jpg",
-   "age": "49m ago",
+   "age": "1h ago",
    "published": "2026-08-24T17:05:00+00:00"
   },
   {
@@ -168,7 +213,7 @@
    "topic": "defense",
    "summary": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5MYS3K4JSJDNBGF6U56W4MWKIM.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-24T16:12:51+00:00"
   },
   {
@@ -201,7 +246,7 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 24, 2026, based on Navy…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_24_26.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T15:20:52+00:00"
   },
   {
@@ -212,7 +257,7 @@
    "topic": "ai",
    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T15:00:00+00:00"
   },
   {
@@ -234,7 +279,7 @@
    "topic": "ai",
    "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersectio…",
    "image": "https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?resize=1200,632",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-24T14:18:47+00:00"
   },
   {
@@ -267,7 +312,7 @@
    "topic": "defense",
    "summary": "The event will be structured such that a promising demonstration could result in a purchase order that allows us to start building the production lines to get these syst…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/8929406-e1748899781813.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-24T13:06:14+00:00"
   },
   {
@@ -278,7 +323,7 @@
    "topic": "ai",
    "summary": "The Unibook is a weird entry-level laptop for people with patience.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/IMG_9264-1152x648-1787169907.jpeg",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-24T11:00:01+00:00"
   },
   {
@@ -300,7 +345,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-23T22:22:00+00:00"
   },
   {
@@ -315,6 +360,17 @@
    "published": "2026-08-23T14:30:16+00:00"
   },
   {
+   "title": "Northwest Indiana teachers brace for impact of back-to-school 'reentry'",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9fa3895c-8670-47d3-8eea-a07b5a9b4bae.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Teachers don’t just return to school—they reenter a pressure cooker. And this year, some are doing it while still dealing with the aftermath of a devastating storm and p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
+   "age": "1d ago",
+   "published": "2026-08-23T12:15:00+00:00"
+  },
+  {
    "title": "Volcanoes that made history",
    "url": "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
    "source": "Ars Technica",
@@ -324,6 +380,17 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
    "age": "1d ago",
    "published": "2026-08-23T11:02:54+00:00"
+  },
+  {
+   "title": "GEORGE GRENCHIK | Goldilocks and the summer's storms",
+   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_06fab387-12ab-4a57-b29c-f149580d7004.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Kudos to the people who spring into action when these kinds of emergencies strike.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "1d ago",
+   "published": "2026-08-23T11:00:00+00:00"
   },
   {
    "title": "AIM-424 “Malice” Very Long-Range Air-To-Air Missile Emerges From The Shadows (Updated)",
@@ -370,17 +437,6 @@
    "published": "2026-08-22T11:22:32+00:00"
   },
   {
-   "title": "2 Mariners Killed in Strait of Hormuz as Transits See Small Increase",
-   "url": "https://news.usni.org/2026/08/21/2-mariners-killed-in-strait-of-hormuz-as-transits-see-small-increase",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Two mariners were killed in the past week and a half in the Strait of Hormuz by Iranian attacks. On Monday, an Iranian attack on MV Minoan Dignity in the strait left one…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-9.03.35-PM.png",
-   "age": "2d ago",
-   "published": "2026-08-22T01:13:56+00:00"
-  },
-  {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
    "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-204",
    "source": "The War Zone",
@@ -390,61 +446,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GettyImages-51115842-copy.jpg?quality=85",
    "age": "2d ago",
    "published": "2026-08-21T22:42:00+00:00"
-  },
-  {
-   "title": "Saab Unveils Stealthy Supersonic ‘Fighter Drone’ Concept",
-   "url": "https://www.twz.com/air/saab-unveils-stealthy-supersonic-fighter-drone-concept",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The advanced drone could become a high-end collaborative companion to the Gripen E, and may also shape Saab’s next crewed combat aircraft. The post Saab Unveils Stealthy…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/saab-a3-mockup-copy.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-08-21T22:40:10+00:00"
-  },
-  {
-   "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
-   "url": "https://breakingdefense.com/2026/08/space-war-2040-spacecom-preps-for-attacks-on-ground-segments-eyes-cislunar-ops/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The Space Warfighting Environment 2040 is unique because it was deliberately written to be warfighter-first, not technology-first, an official at SPACECOM s Joint Forces…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260821_sat_comm_USAF-1024x576.png",
-   "age": "2d ago",
-   "published": "2026-08-21T18:31:13+00:00"
-  },
-  {
-   "title": "How Taiwan’s Elite Military Police Plan to Defend Taipei",
-   "url": "https://news.usni.org/2026/08/21/how-taiwans-elite-military-police-plan-to-defend-taipei",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "TAIPEI, TAIWAN – Torrential rainfall soaked two platoons’ worth of Republic of China Military Police the moment they stormed out the gates of Taipei Nangang Exhibition C…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/IMG_9095.jpg",
-   "age": "2d ago",
-   "published": "2026-08-21T18:19:44+00:00"
-  },
-  {
-   "title": "Taiwan proposes record $35 billion defense budget",
-   "url": "https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The new budget proposal will have to be approved by the opposition-controlled legislature.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/09/230918_taiwan_f16s_GettyImages-1249302776-scaled-e1695069880314-1024x577.jpg",
-   "age": "3d ago",
-   "published": "2026-08-21T17:06:33+00:00"
-  },
-  {
-   "title": "India seeks role in France’s sixth-generation fighter program",
-   "url": "https://www.defensenews.com/global/asia-pacific/2026/08/21/india-seeks-role-in-frances-sixth-generation-fighter-program/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "India hopes to gain key fighter-jet knowledge in a prospective partnership with France on a sixth-generation aircraft.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YJTVHES7WJGFBA4WQMMIKXR57M.jpg",
-   "age": "3d ago",
-   "published": "2026-08-21T12:52:08+00:00"
   },
   {
    "title": "Jeff Gordon addresses Red Bull complication in Connor Zilisch-Hendrick Motorsports deal",
