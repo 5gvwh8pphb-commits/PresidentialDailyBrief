@@ -1,30 +1,34 @@
 {
- "generated": "2026-08-24T04:13:19+00:00",
+ "generated": "2026-08-24T05:08:06+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 36,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
   "Defense News",
+  "FanBuzz",
   "Fox News",
+  "On3",
   "TechCrunch",
+  "The Tennessean",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "Lindsay Clancy's three child victims forgotten amid crowds of support: mother of six",
-   "url": "https://www.foxnews.com/us/lindsay-clancy-three-child-victims-forgotten-amid-crowds-support-mother-six",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Bethany Mandel says Lindsay Clancy s three child victims have been forgotten as crowds rally outside Plymouth Superior Court for the accused mother.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Clancy-Children-2.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-08-24T04:00:05+00:00"
+   "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
+   "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108330706-17833366882026-07-03t131929z_1683992226_rc2tvkas79wg_rtrmadp_0_iran-crisis-oil-exports.jpeg?v=1783336748&amp;w=1920&amp;h=1080",
+   "age": "8m ago",
+   "published": "2026-08-24T04:59:42+00:00"
   },
   {
    "title": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
@@ -34,8 +38,19 @@
    "topic": "markets",
    "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
    "image": "https://image.cnbcfm.com/api/v1/image/108353099-1787543848354-gettyimages-2291325110-1r1_3659_7ob4b0jb.jpeg?v=1787543865&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
-   "published": "2026-08-24T03:57:57+00:00"
+   "age": "10m ago",
+   "published": "2026-08-24T04:58:03+00:00"
+  },
+  {
+   "title": "Lindsay Clancy's three child victims forgotten amid crowds of support: mother of six",
+   "url": "https://www.foxnews.com/us/lindsay-clancy-three-child-victims-forgotten-amid-crowds-support-mother-six",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Bethany Mandel says Lindsay Clancy s three child victims have been forgotten as crowds rally outside Plymouth Superior Court for the accused mother.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Clancy-Children-2.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-24T04:00:05+00:00"
   },
   {
    "title": "WNBA player Natasha Cloud fires off pro-trans message following altercation with Enes Kanter Freedom",
@@ -45,7 +60,7 @@
    "topic": "world",
    "summary": "Natasha Cloud fired off a pro-trans message on Threads after her heated altercation with Enes Kanter Freedom during the Chicago Sky s loss to Indiana.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/natasha-cloud-enes-kanter-freedom-wnba.jpg?ve=1&tl=1",
-   "age": "34m ago",
+   "age": "1h ago",
    "published": "2026-08-24T03:39:04+00:00"
   },
   {
@@ -56,7 +71,7 @@
    "topic": "markets",
    "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
    "image": "https://image.cnbcfm.com/api/v1/image/108228550-1763579370604-gettyimages-2246549520-Alibaba_Building_in_Shanghai.jpeg?v=1763579516&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-24T02:55:22+00:00"
   },
   {
@@ -67,7 +82,7 @@
    "topic": "world",
    "summary": "Kim Zolciak denies allegations against her 15-year-old son KJ Biermann, citing a passed polygraph and lack of DNA evidence in the felony case.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kim-zolciak-kj-biermann.jpg?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T02:00:26+00:00"
   },
   {
@@ -78,7 +93,7 @@
    "topic": "world",
    "summary": "Christopher Hawley, a recent San Diego State University graduate, reportedly collapsed after riding X2 in 2022, and his family now alleges the attraction was dangerously…",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/christopher-hawley-4.jpg?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T01:50:05+00:00"
   },
   {
@@ -89,19 +104,30 @@
    "topic": "world",
    "summary": "Enes Kanter Freedom was escorted from Wintrust Arena after a heated courtside shouting match with Chicago Sky guard Natasha Cloud during a WNBA game.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-freedom-natasha-cloud-chicago-sky_001.jpg?ve=1&tl=1",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T01:26:49+00:00"
   },
   {
-   "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
-   "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108330706-17833366882026-07-03t131929z_1683992226_rc2tvkas79wg_rtrmadp_0_iran-crisis-oil-exports.jpeg?v=1783336748&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-08-24T00:59:57+00:00"
+   "title": "William Byron loses wheel at NASCAR New Hampshire race while in top 5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONWR6RjZHNWJKalVzZmpVMFZDcXFhX1AxdUNUd1hOWGM5YlkyNXBubUItTExGcWtaSC1RVWpRbmR6blVtX2N2SzM5Q3I0dFhWd3g4MDFzRmkxUjZuQnBsZ0YyMFFkVXRWcFRoS3A0eEx3SWZ3N21qQy15bG9FMDc2UlBOejNLQ1JtZFJ0VjlnemJ3OE5iVU5KX1BnQ1RCb1owOVBRWVFFWU1DT0tkanNjU3pfTnBVaHFQ?oc=5",
+   "source": "The Tennessean",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-08-23T22:22:00+00:00"
+  },
+  {
+   "title": "Suspensions Incoming for William Byron's Team After New Hampshire",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTkdieGEzYzZUQWtXR2o0cEFMaktVc1pqejVwNnlpNkw5SHdXVFA2WW9iRm1DSkhsS0owYXVZaU5IS2pqaDhhdDl0Z2JPRTdXTjRvZGtNNXBDbmJJV3R5eDBVTmJYeC1hcWJwSmNsTzNUR1FwQlkyMmZ3a2llMFVraC12YktaWHZHM19NWmpwZWdiNE9nUHFvSFpBRDQ3UWJPTk02X1llZWZWS0VpVkluWlBvdUtOc1Ru?oc=5",
+   "source": "FanBuzz",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-08-23T22:09:37+00:00"
   },
   {
    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -111,7 +137,7 @@
    "topic": "ai",
    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-23T20:01:36+00:00"
   },
   {
@@ -122,7 +148,7 @@
    "topic": "ai",
    "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
    "image": "https://techcrunch.com/wp-content/uploads/2018/10/uber-thumb.jpg?resize=1200,800",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-23T19:30:00+00:00"
   },
   {
@@ -133,7 +159,7 @@
    "topic": "ai",
    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-23T19:14:08+00:00"
   },
   {
@@ -144,7 +170,7 @@
    "topic": "markets",
    "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
    "image": "https://image.cnbcfm.com/api/v1/image/108315442-1780426534373-photo_181.jpg?v=1780511397&amp;w=1920&amp;h=1080",
-   "age": "10h ago",
+   "age": "11h ago",
    "published": "2026-08-23T17:58:06+00:00"
   },
   {
@@ -155,7 +181,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-23T16:03:00+00:00"
   },
   {
@@ -166,7 +192,7 @@
    "topic": "ai",
    "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-23T15:30:00+00:00"
   },
   {
@@ -177,7 +203,7 @@
    "topic": "ai",
    "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-23T14:30:16+00:00"
   },
   {
@@ -188,7 +214,7 @@
    "topic": "markets",
    "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
    "image": "https://image.cnbcfm.com/api/v1/image/108350603-1786995898579-Scharf_Fraser.jpg?v=1786995981&amp;w=1920&amp;h=1080",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-23T12:00:01+00:00"
   },
   {
@@ -199,7 +225,7 @@
    "topic": "ai",
    "summary": "Enormous eruptions altered Earth’s climate and societies all over the globe.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-23T11:02:54+00:00"
   },
   {
@@ -210,7 +236,7 @@
    "topic": "defense",
    "summary": "The Navy's newest extreme-range air-to-air missile is intended to be used by the F/A-18E/F Super Hornet, F-35C JSF and the upcoming F/A-XX. The post AIM-424 Malice Very …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/AIM-424-Missile.jpg?quality=85",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-23T04:50:49+00:00"
   },
   {
@@ -302,17 +328,6 @@
    "published": "2026-08-21T22:40:10+00:00"
   },
   {
-   "title": "China’s Massive New Artificial Island In The South China Sea Emerges, Primed For Militarization",
-   "url": "https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "What was a submerged reef a year ago is now a 1,500 acre artificial island with a large runway under construction, as China's militarization of the South China Sea accel…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/Antelope-Reef-PRC-Buildup-in-South-China-Sea.png?quality=85",
-   "age": "2d ago",
-   "published": "2026-08-21T22:03:14+00:00"
-  },
-  {
    "title": "Space war 2040: SPACECOM preps for attacks on ground segments, eyes cislunar ops",
    "url": "https://breakingdefense.com/2026/08/space-war-2040-spacecom-preps-for-attacks-on-ground-segments-eyes-cislunar-ops/",
    "source": "Breaking Defense",
@@ -368,6 +383,17 @@
    "published": "2026-08-21T15:10:10+00:00"
   },
   {
+   "title": "Hendrick Motorsports reveals major Corey Day status update for 2027",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1Q2Q3RhcFAxMWEyMmJCeS1KX1YtejhudkIxQTJSbW1tc1FnWHJCVmJzTzJWdGg0TVB0djA1SmdSdjNEQXE0Z2g2TXlxODc0VlAzendGOFdwMWpLTlpGcjdoQ0xsVE00SmphSGszdm9NNnFab2JMUlppWHBTRWU3QzlreW5kS3BWTkNVb1ZsLWtjS00?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "2d ago",
+   "published": "2026-08-21T15:03:44+00:00"
+  },
+  {
    "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
    "url": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race/",
    "source": "Breaking Defense",
@@ -390,15 +416,15 @@
    "published": "2026-08-21T12:52:08+00:00"
   },
   {
-   "title": "How the Army balances Patriot priorities and approaches Golden Dome",
-   "url": "https://breakingdefense.com/2026/08/how-the-army-balances-patriot-priorities-and-approaches-golden-dome/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "A brief chat with the chief of the Army s Space and Missile Defense Command.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/PB13-pb-1024x576.png",
+   "title": "Jeff Gordon addresses Red Bull complication in Connor Zilisch-Hendrick Motorsports deal",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlk5cDhNX1dXSDNpWUxoaXJrMXVPY1p1R21QUC1qam1SN0pzbU9rSXpSemVQMGFHWXRBdTIxdm5xSnRlUkdvWmE4YTZEcTRWaGIzRTdHNHVWRmVtODhxeEh1LUNGb2VGbnVhUmprWVQ1ZmF3U0h6Y2prcTlRMnE4YnZhbm5fcUc1b0FyeEpfaTdleU5XX3FyaUFmWnB1bnV2bjhYcUNSZzlmYkp4RnRSeExmTUZVRGpQaTRtaQ?oc=5",
+   "source": "On3",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
    "age": "2d ago",
-   "published": "2026-08-21T12:00:00+00:00"
+   "published": "2026-08-21T10:00:19+00:00"
   },
   {
    "title": "US Army to end experimental drone battalion in Europe",
@@ -423,17 +449,6 @@
    "published": "2026-08-20T23:20:57+00:00"
   },
   {
-   "title": "Arctic Exercise Northern Viking Kicks off with U.S., Iceland",
-   "url": "https://news.usni.org/2026/08/20/arctic-exercise-northern-viking-kicks-off-with-u-s-iceland",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The United States, Iceland and NATO began the U.S-led biennial exercise Northern Viking 2026 (NV26) on Tuesday, which runs in Iceland and surrounding waters until Sept. …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9877840-scaled.jpg",
-   "age": "3d ago",
-   "published": "2026-08-20T20:41:07+00:00"
-  },
-  {
    "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
    "url": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
    "source": "Defense News",
@@ -443,17 +458,6 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg",
    "age": "3d ago",
    "published": "2026-08-20T20:23:22+00:00"
-  },
-  {
-   "title": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
-   "url": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6G6VS56Z7BCLDDX3ZIW3ZVDQ3E.JPG",
-   "age": "3d ago",
-   "published": "2026-08-20T20:09:46+00:00"
   }
  ]
 }
