@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-24",
+  "dateLabel": "Monday, August 24, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-24T09:35:03Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2.5 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Week ended Friday, August 21, 2026 — all three indexes fell for the week, snapping a three-week win streak, as a climbing 30-year Treasury yield pressured stocks before a Friday rebound trimmed the losses.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,674.37", "change": "-1.4%", "heroLabel": "week", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,277.01", "change": "-0.8%", "heroLabel": "week", "sixMo": "+8.8%" },
+        { "name": "Nasdaq",  "close": "26,180.45", "change": "-2.1%", "heroLabel": "week", "sixMo": "+16%" }
+      ],
+      "body": "Friday's rally, sparked by a report showing the fastest US business-activity growth in over four years, wasn't enough to erase the week's losses; crude oil rose roughly 5% on Strait of Hormuz tensions, and the 30-year Treasury yield's climb toward 5.3% kept pressure on equities even as September rate-cut expectations held steady.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~4h ago",
+      "empty": false,
+      "headline": "Bessent previews 'economic D-Day' Iran sanctions ahead of Monday announcement",
+      "body": "Treasury Secretary Scott Bessent wrote in a Financial Times op-ed that 'at dawn begins an economic D-Day — the single greatest financial offensive ever marshalled against an adversary,' pledging to sever Iran's economic lifelines; he is set to detail the new sanctions, aimed at countries and entities still trading with Tehran, at a Monday press conference.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/24/us-iran-war-trump-hormuz-bessent-economic-sanctions-.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~3h ago",
+      "empty": false,
+      "headline": "Taiwan logs light PLA activity as it tracks aircraft, navy vessels near its territory",
+      "body": "Taiwan's Ministry of National Defense said it detected 2 PLA aircraft sorties, 7 PLA Navy vessels and 2 other official ships operating around the island in the 24 hours to 6 a.m. Monday, a relatively quiet reading as both militaries continue routine patrols ahead of Xi Jinping's expected visit to meet President Trump next month.",
+      "source": "ROC Ministry of National Defense",
+      "url": "https://aninews.in/news/world/asia/taiwan-detects-chinese-military-activity-around-its-territory20260824084834/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iran blacklists dozens of vessels, threatens seizures as US naval blockade continues",
+      "body": "Iran's state-run Persian Gulf Strait Authority published a 'Non-Compliant Vessels' list of roughly 46 ships and warned that vessels violating its Strait of Hormuz transit rules face fines, seizure or confiscation, as US Central Command continues enforcing its own blockade that has redirected 68 commercial vessels, disabled three and boarded two since mid-July.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/iran-publishes-vessel-blacklist-for-strait-of-hormuz-warns-of-seizure-12357754"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1.5 days ago",
+      "empty": false,
+      "headline": "Navy unveils AIM-424 'Malice' long-range air-to-air missile",
+      "body": "Raytheon's new AIM-424 Malice missile, publicly disclosed at the Tailhook symposium and already in flight testing, is built to strike targets beyond 250 nautical miles — far exceeding the AIM-120 AMRAAM's range — and is designed to fit the F/A-18E/F, F-35C and the future F/A-XX fighter.",
+      "source": "Naval News",
+      "url": "https://www.navalnews.com/naval-news/2026/08/us-navy-unveils-aim-424-malice-lraam/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~4h ago",
+      "empty": false,
+      "headline": "Claude hit by another multi-model outage early Monday",
+      "body": "Anthropic flagged elevated error rates on Claude Mythos 5, Fable 5, Opus 5 and Opus 4.8 starting at 5:06 a.m. UTC Monday, with partial outages across Claude.ai, the API, Claude Code and Claude Cowork; it's at least the eighth service disruption logged on Anthropic's status page in August, following a major outage on Aug. 6.",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Claude-faces-another-outage-as-errors-hit-multiple-models.1376666.0.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Monday's Bears coverage centers on Saturday's preseason result against Cincinnati, which the spoiler rule excludes; no new roster or injury development beyond what was already reported in prior briefs surfaced within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's New Hampshire race outcome is excluded by the spoiler rule, and no new roster, schedule or sponsorship item could be independently verified from a reputable source within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
