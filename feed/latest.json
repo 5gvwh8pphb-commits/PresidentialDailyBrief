@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-24T05:08:06+00:00",
+ "generated": "2026-08-24T06:00:17+00:00",
  "count": 40,
- "withImage": 36,
+ "withImage": 37,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -11,14 +11,47 @@
   "Defense News",
   "FanBuzz",
   "Fox News",
+  "NWI Times",
   "On3",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
-  "USNI News",
-  "Yahoo Sports"
+  "USNI News"
  ],
  "items": [
+  {
+   "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",
+   "url": "https://www.cnbc.com/2026/08/24/singapore-inflation-budget-iran-war.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Consumer prices rose 2.2% last month, compared with the 2.3% expected by economists polled by Reuters",
+   "image": "https://image.cnbcfm.com/api/v1/image/108311604-1779685434712-gettyimages-2079423195-Hkg4024776.jpeg?v=1779685484&amp;w=1920&amp;h=1080",
+   "age": "35m ago",
+   "published": "2026-08-24T05:24:43+00:00"
+  },
+  {
+   "title": "Enes Kanter Freedom opens up on confrontation with Natasha Cloud that led to ejection, WNBA pursuit",
+   "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-opens-confrontation-natasha-cloud-led-ejection-wnba-pursuit",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Enes Kanter Freedom says Natasha Cloud yelled vulgarities at him courtside after he cheered a Sophie Cunningham three-pointer at the Chicago Sky game.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-freedom-wintrust-arena.jpg?ve=1&tl=1",
+   "age": "49m ago",
+   "published": "2026-08-24T05:10:58+00:00"
+  },
+  {
+   "title": "Suspect in deaths of 5 found dead after cops uncover grim scene at rural property outside Portland",
+   "url": "https://www.foxnews.com/us/suspect-deaths-5-found-dead-cops-uncover-grim-scene-rural-property-outside-portland",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A suspect was found dead in Enumclaw, Washington, after five people were discovered killed at a Forest Grove, Oregon, property, according to officials.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/sheriff-five-body-murder-probe.png?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-24T05:02:51+00:00"
+  },
   {
    "title": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
    "url": "https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html",
@@ -27,7 +60,7 @@
    "topic": "markets",
    "summary": "Oil prices fell Monday as investors awaited details of what Washington has billed as its toughest-ever sanctions campaign against Iran.",
    "image": "https://image.cnbcfm.com/api/v1/image/108330706-17833366882026-07-03t131929z_1683992226_rc2tvkas79wg_rtrmadp_0_iran-crisis-oil-exports.jpeg?v=1783336748&amp;w=1920&amp;h=1080",
-   "age": "8m ago",
+   "age": "1h ago",
    "published": "2026-08-24T04:59:42+00:00"
   },
   {
@@ -38,7 +71,7 @@
    "topic": "markets",
    "summary": "The escalation came as both sides have missed a 60-day ceasefire window to reach a deal, closing off the formal truce mechanism to end the six-month war.",
    "image": "https://image.cnbcfm.com/api/v1/image/108353099-1787543848354-gettyimages-2291325110-1r1_3659_7ob4b0jb.jpeg?v=1787543865&amp;w=1920&amp;h=1080",
-   "age": "10m ago",
+   "age": "1h ago",
    "published": "2026-08-24T04:58:03+00:00"
   },
   {
@@ -49,7 +82,7 @@
    "topic": "world",
    "summary": "Bethany Mandel says Lindsay Clancy s three child victims have been forgotten as crowds rally outside Plymouth Superior Court for the accused mother.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Clancy-Children-2.jpg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-24T04:00:05+00:00"
   },
   {
@@ -60,7 +93,7 @@
    "topic": "world",
    "summary": "Natasha Cloud fired off a pro-trans message on Threads after her heated altercation with Enes Kanter Freedom during the Chicago Sky s loss to Indiana.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/natasha-cloud-enes-kanter-freedom-wnba.jpg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-24T03:39:04+00:00"
   },
   {
@@ -71,7 +104,7 @@
    "topic": "markets",
    "summary": "Alibaba shares plunged 10% after the tech giant priced a $10.2 billion share placement to fund its growing AI investments.",
    "image": "https://image.cnbcfm.com/api/v1/image/108228550-1763579370604-gettyimages-2246549520-Alibaba_Building_in_Shanghai.jpeg?v=1763579516&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T02:55:22+00:00"
   },
   {
@@ -86,28 +119,6 @@
    "published": "2026-08-24T02:00:26+00:00"
   },
   {
-   "title": "College grad reportedly dies in Six Flags roller coaster incident as family sues theme park",
-   "url": "https://www.foxnews.com/us/college-grad-reportedly-dies-six-flags-roller-coaster-incident-family-sues-theme-park",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Christopher Hawley, a recent San Diego State University graduate, reportedly collapsed after riding X2 in 2022, and his family now alleges the attraction was dangerously…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/christopher-hawley-4.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-08-24T01:50:05+00:00"
-  },
-  {
-   "title": "Enes Kanter Freedom ejected from Sky-Fever game after verbal altercation with Natasha Cloud",
-   "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-ejected-sky-fever-game-verbal-altercation-natasha-cloud",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Enes Kanter Freedom was escorted from Wintrust Arena after a heated courtside shouting match with Chicago Sky guard Natasha Cloud during a WNBA game.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-freedom-natasha-cloud-chicago-sky_001.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-08-24T01:26:49+00:00"
-  },
-  {
    "title": "William Byron loses wheel at NASCAR New Hampshire race while in top 5",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONWR6RjZHNWJKalVzZmpVMFZDcXFhX1AxdUNUd1hOWGM5YlkyNXBubUItTExGcWtaSC1RVWpRbmR6blVtX2N2SzM5Q3I0dFhWd3g4MDFzRmkxUjZuQnBsZ0YyMFFkVXRWcFRoS3A0eEx3SWZ3N21qQy15bG9FMDc2UlBOejNLQ1JtZFJ0VjlnemJ3OE5iVU5KX1BnQ1RCb1owOVBRWVFFWU1DT0tkanNjU3pfTnBVaHFQ?oc=5",
    "source": "The Tennessean",
@@ -115,7 +126,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-23T22:22:00+00:00"
   },
   {
@@ -126,7 +137,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-23T22:09:37+00:00"
   },
   {
@@ -148,7 +159,7 @@
    "topic": "ai",
    "summary": "The Dutch Data Protection Authority is fining Uber €825 million in the second largest penalty issued under Europe’s GDPR.",
    "image": "https://techcrunch.com/wp-content/uploads/2018/10/uber-thumb.jpg?resize=1200,800",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-23T19:30:00+00:00"
   },
   {
@@ -159,19 +170,8 @@
    "topic": "ai",
    "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-23T19:14:08+00:00"
-  },
-  {
-   "title": "Democratic House leader Jeffries meets with Jared Kushner as midterms loom",
-   "url": "https://www.cnbc.com/2026/08/23/democratic-leader-jeffries-meets-with-jared-kushner-as-midterms-loom.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Democrats are currently favored to win a majority in the House of Representatives after November's elections.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108315442-1780426534373-photo_181.jpg?v=1780511397&amp;w=1920&amp;h=1080",
-   "age": "11h ago",
-   "published": "2026-08-23T17:58:06+00:00"
   },
   {
    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions",
@@ -185,17 +185,6 @@
    "published": "2026-08-23T16:03:00+00:00"
   },
   {
-   "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-   "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-   "age": "13h ago",
-   "published": "2026-08-23T15:30:00+00:00"
-  },
-  {
    "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
    "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
    "source": "Ars Technica",
@@ -203,8 +192,19 @@
    "topic": "ai",
    "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2012/06/shackleton_center_cropped-1152x648.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-23T14:30:16+00:00"
+  },
+  {
+   "title": "Northwest Indiana teachers brace for impact of back-to-school 'reentry'",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9fa3895c-8670-47d3-8eea-a07b5a9b4bae.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Teachers don’t just return to school—they reenter a pressure cooker. And this year, some are doing it while still dealing with the aftermath of a devastating storm and p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
+   "age": "17h ago",
+   "published": "2026-08-23T12:15:00+00:00"
   },
   {
    "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill",
@@ -214,7 +214,7 @@
    "topic": "markets",
    "summary": "Citigroup and Wells Fargo have room to buy a big regional bank as regulators have opened the door to megadeals. Five regional banks make sense as targets.",
    "image": "https://image.cnbcfm.com/api/v1/image/108350603-1786995898579-Scharf_Fraser.jpg?v=1786995981&amp;w=1920&amp;h=1080",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-23T12:00:01+00:00"
   },
   {
@@ -227,6 +227,17 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1001695938-1152x648.jpg",
    "age": "18h ago",
    "published": "2026-08-23T11:02:54+00:00"
+  },
+  {
+   "title": "GEORGE GRENCHIK | Goldilocks and the summer's storms",
+   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_06fab387-12ab-4a57-b29c-f149580d7004.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Kudos to the people who spring into action when these kinds of emergencies strike.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "19h ago",
+   "published": "2026-08-23T11:00:00+00:00"
   },
   {
    "title": "AIM-424 “Malice” Very Long-Range Air-To-Air Missile Emerges From The Shadows (Updated)",
@@ -293,17 +304,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-21-at-9.03.35-PM.png",
    "age": "2d ago",
    "published": "2026-08-22T01:13:56+00:00"
-  },
-  {
-   "title": "Trump's space transportation policy calls for new spaceport on federal land",
-   "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg",
-   "age": "2d ago",
-   "published": "2026-08-21T23:32:17+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -383,17 +383,6 @@
    "published": "2026-08-21T15:10:10+00:00"
   },
   {
-   "title": "Hendrick Motorsports reveals major Corey Day status update for 2027",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV1Q2Q3RhcFAxMWEyMmJCeS1KX1YtejhudkIxQTJSbW1tc1FnWHJCVmJzTzJWdGg0TVB0djA1SmdSdjNEQXE0Z2g2TXlxODc0VlAzendGOFdwMWpLTlpGcjdoQ0xsVE00SmphSGszdm9NNnFab2JMUlppWHBTRWU3QzlreW5kS3BWTkNVb1ZsLWtjS00?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-08-21T15:03:44+00:00"
-  },
-  {
    "title": "‘Hot competition’: NSA deputy sounds alarm on China threat, AI race",
    "url": "https://breakingdefense.com/2026/08/hot-competition-nsa-deputy-sounds-alarm-on-china-threat-ai-race/",
    "source": "Breaking Defense",
@@ -458,6 +447,17 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MYFRPVBQDRGP3LE6Z2VZT5B6YA.jpg",
    "age": "3d ago",
    "published": "2026-08-20T20:23:22+00:00"
+  },
+  {
+   "title": "Trees offer shade and beauty, but storms expose their risks",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9db88019-88c7-444a-b724-8bcf65ff7598.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Is that beautiful tree in your yard actually a disaster waiting to happen? The trees we once saw as comforting symbols of nature now look like potential weapons of destr…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/28/a28af5c7-5bd4-4fbb-83cf-442cd555284e/6a85f26ddef17.image.jpg?resize=300%2C225",
+   "age": "3d ago",
+   "published": "2026-08-20T12:15:00+00:00"
   }
  ]
 }
