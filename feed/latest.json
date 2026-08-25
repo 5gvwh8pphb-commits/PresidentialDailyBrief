@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T09:05:22+00:00",
+ "generated": "2026-08-25T09:57:58+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
@@ -14,6 +14,7 @@
   "Defense News",
   "Fox News",
   "Motorsport.com",
+  "NWI Times",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
@@ -23,6 +24,61 @@
  ],
  "items": [
   {
+   "title": "SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse",
+   "url": "https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The SEC is seeking information from major Wall Street banks about trades and financing tied to AI-focused hedge fund Situational Awareness.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080",
+   "age": "10m ago",
+   "published": "2026-08-25T09:47:56+00:00"
+  },
+  {
+   "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
+   "url": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108326089-1782306762416-gettyimages-1237579291-AFP_9VP9ED.jpeg?v=1782306837&amp;w=1920&amp;h=1080",
+   "age": "31m ago",
+   "published": "2026-08-25T09:26:05+00:00"
+  },
+  {
+   "title": "BRUCE PEARL: Conservatives are attacking the very college sports bill that protects women",
+   "url": "https://www.foxnews.com/opinion/bruce-pearl-conservatives-attacking-college-sports-bill-protects-women",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Retired Auburn coach says critics wrongly claim the Protect College Sports Act guts Title IX, warning that inaction threatens women s and Olympic sports programs.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/us-capitol-dome-may-21-2026.jpeg?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-25T09:00:54+00:00"
+  },
+  {
+   "title": "Democrat mayor blasted by DHS for 'hunting down' property owners leasing to ICE: 'Unhinged'",
+   "url": "https://www.foxnews.com/politics/democrat-mayor-blasted-dhs-hunting-down-property-owners-leasing-ice-unhinged",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "DHS calls Boston Mayor Michelle Wu s effort to dissuade property owners from leasing parking to ICE unhinged, accusing her of hunting them down.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/michelle-wu-orange-mic.png?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-25T09:00:50+00:00"
+  },
+  {
+   "title": "Darline Graham faces make-or-break GOP runoff in historic bid to keep brother’s Senate seat",
+   "url": "https://www.foxnews.com/politics/darline-graham-faces-make-or-break-gop-runoff-historic-bid-keep-brother-senate-seat",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Republican primary runoffs in South Carolina and Oklahoma put Trump s endorsement record on the line after five gubernatorial picks fell short this cycle.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/trump-darline-graham-south-carolina5.jpg?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-25T09:00:36+00:00"
+  },
+  {
    "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
    "url": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones/",
    "source": "Defense News",
@@ -30,41 +86,19 @@
    "topic": "defense",
    "summary": "The Royal Netherlands Navy plans to equip its fleet with a new counter-UAS capability from defense firm Destinus.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3OGBHCGR2NGHBD4TNAASNFQ5VI.jpg",
-   "age": "14m ago",
+   "age": "1h ago",
    "published": "2026-08-25T08:50:44+00:00"
   },
   {
-   "title": "Gold price hovers at three-month high on dollar weakness, Treasury bond buyback plans",
-   "url": "https://www.cnbc.com/2026/08/25/gold-hits-over-three-month-high-on-dollar-weakness-treasury-bond-buyback-plans.html",
+   "title": "New Delhi draws in $73 billion in 11 weeks, powered by special deposits for non-resident Indians",
+   "url": "https://www.cnbc.com/2026/08/25/india-billion-foreign-inflows-rupee-weakness.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Gold prices fell Tuesday after rising to their highest in over three months.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108283781-1774564627659-gettyimages-2266129945-International_Gold_Price.jpeg?v=1776689017&amp;w=1920&amp;h=1080",
-   "age": "26m ago",
-   "published": "2026-08-25T08:39:14+00:00"
-  },
-  {
-   "title": "Bitcoin price extends gains as crypto rally gathers pace",
-   "url": "https://www.cnbc.com/2026/08/25/bitcoin-price-near-80000-cryptocurrency-ether-us-treasuries.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bitcoin initially surged past the $80,000 mark, as renewed inflows into spot bitcoin ETFs and improving risk appetite extended the recent crypto rally.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108273480-17726356822026-03-04t141724z_59018783_rc22pgawuafa_rtrmadp_0_usa-britain-cryptocurrency.jpeg?v=1772635700&amp;w=1920&amp;h=1080",
-   "age": "36m ago",
-   "published": "2026-08-25T08:29:11+00:00"
-  },
-  {
-   "title": "Treasury yields steady as traders await more economic data",
-   "url": "https://www.cnbc.com/2026/08/25/treasury-yields-steady-as-traders-await-more-economic-data-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury yields steadied on Tuesday as investors await more data releases for insights into the U.S. economic picture.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108275705-1773089008248-gettyimages-2265198826-AFP_A2L637G.jpeg?v=1773262146&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-25T07:48:57+00:00"
+   "summary": "India has attracted inflows of $73 billion in 11 weeks, driven mostly by foreign currency bank deposits made by non-resident Indians.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108212180-1760495994994-gettyimages-2232346848-INDIA_RUPEE.jpeg?v=1761586448&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-08-25T07:13:36+00:00"
   },
   {
    "title": "Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing",
@@ -78,28 +112,6 @@
    "published": "2026-08-25T07:00:01+00:00"
   },
   {
-   "title": "Arizona grandpa to undergo amputation after collapsing on scorching sidewalk",
-   "url": "https://www.foxnews.com/us/arizona-grandpa-undergo-amputation-collapsing-scorching-sidewalk",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A 72-year-old man collapsed on a 120-degree sidewalk in Arizona and suffered severe burns that will require above-knee amputation of his leg.",
-   "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
-   "age": "4h ago",
-   "published": "2026-08-25T04:58:34+00:00"
-  },
-  {
-   "title": "Lindsay Clancy trial: Postpartum is real, but child killing demands accountability, veteran prosecutor says",
-   "url": "https://www.foxnews.com/us/lindsay-clancy-trial-postpartum-real-child-killing-demands-accountability-veteran-prosecutor-says",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Veteran child abuse prosecutor Jonathan Hatami says public support for Lindsay Clancy is overshadowing the three children she is accused of killing.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/lindsay-clancy-supportesr-2.png?ve=1&tl=1",
-   "age": "5h ago",
-   "published": "2026-08-25T04:00:25+00:00"
-  },
-  {
    "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
    "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
    "source": "TechCrunch",
@@ -107,7 +119,7 @@
    "topic": "ai",
    "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/airbound-drone.jpg?resize=1200,800",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-25T03:30:00+00:00"
   },
   {
@@ -118,30 +130,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2291246322.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-25T02:13:24+00:00"
-  },
-  {
-   "title": "Illegal immigrant accused of fentanyl dealing linked to Virginia high school overdoses",
-   "url": "https://www.foxnews.com/us/illegal-immigrant-accused-fentanyl-dealing-linked-virginia-high-school-overdoses",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Isaac Melendez-Carranza, an illegal immigrant from El Salvador, allegedly dealt fentanyl near Park View High School in Loudoun County, Virginia.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/loudoun-county-isaac-melendez-carranza.jpg?ve=1&tl=1",
-   "age": "7h ago",
-   "published": "2026-08-25T01:57:08+00:00"
-  },
-  {
-   "title": "Houston Uber driver caught in wild police chase as officers seen on dashcam video hitching a ride in his car",
-   "url": "https://www.foxnews.com/us/houston-uber-driver-caught-wild-police-chase-officers-seen-dashcam-video-hitching-ride-his-car",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The dashcam video shows Houston police riding with the Uber driver for several minutes before spotting the suspect and resuming pursuit on foot.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/uber-police-chase.gif",
-   "age": "7h ago",
-   "published": "2026-08-25T01:45:11+00:00"
   },
   {
    "title": "Ship Struck In Strait Of Hormuz Hours After Trump’s “Economic D-Day” Campaign On Iran Unveiled",
@@ -151,7 +141,7 @@
    "topic": "defense",
    "summary": "As the U.S. attempts once again to pressure Iran into negotiating, it seems like Iran has given its answer to the U.S. in the form of another strike in the strait. The p…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Bessent.jpg?quality=85",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-25T00:25:25+00:00"
   },
   {
@@ -162,7 +152,7 @@
    "topic": "defense",
    "summary": "The USS Abraham Lincoln is finally heading home and will make its first full liberty port call in Thailand soon, after being at sea for nine months. The post Where Are T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/TWZ-Carrier-Fleet-Tracker-as-of-August-24-2026.png?quality=85",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-25T00:24:41+00:00"
   },
   {
@@ -173,7 +163,7 @@
    "topic": "ai",
    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-25T00:23:12+00:00"
   },
   {
@@ -184,7 +174,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-24T23:31:58+00:00"
   },
   {
@@ -195,7 +185,7 @@
    "topic": "ai",
    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-24T23:05:44+00:00"
   },
   {
@@ -206,7 +196,7 @@
    "topic": "ai",
    "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-24T21:45:53+00:00"
   },
   {
@@ -217,7 +207,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/24/56f52a98-3eb9-4b87-b307-bc2afacad174/porterjr.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-24T21:44:27+00:00"
   },
   {
@@ -228,7 +218,7 @@
    "topic": "ai",
    "summary": "Solid-state transformers could also benefit EV charging and someday households.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-24T21:32:16+00:00"
   },
   {
@@ -239,7 +229,7 @@
    "topic": "defense",
    "summary": "USS Gerald R. Ford (CVN-78) outperformed legacy Nimitz-class aircraft carriers in a test of the launch and recovery systems of the carrier, the Navy’s top officer said l…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/9614967-scaled.jpg",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-24T21:08:25+00:00"
   },
   {
@@ -261,7 +251,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/24/a364e3a2-5b02-4b4d-b666-d2e6ca27a901/deshaun-watson.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-24T20:11:42+00:00"
   },
   {
@@ -272,7 +262,7 @@
    "topic": "defense",
    "summary": "The big AIM-424 long-range air-to-air missile has grabbed headlines, but the Navy is also pursuing a new weapon for the exact opposite use case. The post Tiny Air-To-Air…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/navy-compact-internal-bay-f-35-air-to-air-missile.jpg?quality=85",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-24T19:39:41+00:00"
   },
   {
@@ -283,7 +273,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2025/10/12/4d4cde1e-5da3-49ab-b0fc-f02cc905331d/ashton-jeanty-raiders-imagn.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-24T19:13:17+00:00"
   },
   {
@@ -294,7 +284,7 @@
    "topic": "defense",
    "summary": "The Navy said that the missile is designed for 4th, 5th, and 6th generation aircraft platforms.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9879419-1-scaled-e1787594223875-1024x577.jpg",
-   "age": "13h ago",
+   "age": "14h ago",
    "published": "2026-08-24T19:13:00+00:00"
   },
   {
@@ -316,7 +306,7 @@
    "topic": "defense",
    "summary": "The A3, which Saab says may become the sales product, could enter service within ten years if the government decides to proceed with the aircraft.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IMG_2080-1-scaled-e1787596444140-1024x577.jpeg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-24T18:25:56+00:00"
   },
   {
@@ -327,7 +317,7 @@
    "topic": "defense",
    "summary": "“Over the past five months, the teams have really been able to hone their skills based on the work they re doing inside of a live environment and I think we re getting b…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/7758909-scaled-e1740165576715-1024x577.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-24T18:17:02+00:00"
   },
   {
@@ -338,7 +328,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-ra…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9879419-scaled.jpg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-24T17:54:47+00:00"
   },
   {
@@ -349,7 +339,7 @@
    "topic": "defense",
    "summary": "Forces with Joint Task Force Western Hemisphere – the new name for Joint Task Force Southern Spear – struck a low-profile vessel suspected of smuggling illicit narcotics…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-1.20.26-PM-scaled.png",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-24T17:37:35+00:00"
   },
   {
@@ -360,7 +350,7 @@
    "topic": "defense",
    "summary": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5MYS3K4JSJDNBGF6U56W4MWKIM.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-24T16:12:51+00:00"
   },
   {
@@ -373,17 +363,6 @@
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/10/gettyimages-2242052120.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "age": "17h ago",
    "published": "2026-08-24T16:00:00+00:00"
-  },
-  {
-   "title": "Patria to join with Ukraine’s General Cherry to make drones in Finland",
-   "url": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Finnish defense company Patria is teaming up with Ukrainian drone maker General Cherry to jointly develop drones and start production in Finland.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/362XVXUUWFCHDGSSU7MW3COL7E.jpg",
-   "age": "18h ago",
-   "published": "2026-08-24T14:45:18+00:00"
   },
   {
    "title": "Building Glass Houses: Chicago’s Fragile Defensive Line",
@@ -417,6 +396,28 @@
    "image": null,
    "age": "1d ago",
    "published": "2026-08-23T22:22:00+00:00"
+  },
+  {
+   "title": "Northwest Indiana teachers brace for impact of back-to-school 'reentry'",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9fa3895c-8670-47d3-8eea-a07b5a9b4bae.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Teachers don’t just return to school—they reenter a pressure cooker. And this year, some are doing it while still dealing with the aftermath of a devastating storm and p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
+   "age": "1d ago",
+   "published": "2026-08-23T12:15:00+00:00"
+  },
+  {
+   "title": "GEORGE GRENCHIK | Goldilocks and the summer's storms",
+   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_06fab387-12ab-4a57-b29c-f149580d7004.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Kudos to the people who spring into action when these kinds of emergencies strike.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "1d ago",
+   "published": "2026-08-23T11:00:00+00:00"
   },
   {
    "title": "Caleb Williams believes Bears offense will be 'rolling' heading into regular season",
