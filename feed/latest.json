@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T18:22:49+00:00",
+ "generated": "2026-08-25T19:06:27+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": true,
@@ -15,6 +15,7 @@
   "Fox News",
   "Hendrick Motorsports",
   "Motorsport.com",
+  "NWI Times",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
@@ -23,6 +24,39 @@
  ],
  "items": [
   {
+   "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+   "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The company's new fundraising total now stands at $232 million.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
+   "age": "2m ago",
+   "published": "2026-08-25T19:03:47+00:00"
+  },
+  {
+   "title": "NYC mom survives neck-slash attack on hiking trip in Arizona: 'I can’t die like this'",
+   "url": "https://www.foxnews.com/us/nyc-mom-survives-neck-slash-attack-hiking-trip-arizona-cant-die-like-this",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ring camera footage captures New York City mother Alexis Rowan fighting for her life after a stranger slashed her neck on an Arizona birthday hike.",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/nyc-hiker-stabbed-az.gif",
+   "age": "9m ago",
+   "published": "2026-08-25T18:57:04+00:00"
+  },
+  {
+   "title": "Mystery trio in headlamps and overalls emerges from Manhattan manhole, prompting NYPD probe",
+   "url": "https://www.foxnews.com/us/mystery-trio-headlamps-overalls-emerges-manhattan-manhole-prompting-nypd-probe",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The NYPD is reviewing surveillance video after three people in overalls and headlamps were caught emerging from a Manhattan manhole near Penn Station.",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/nyc-manhole-people.gif",
+   "age": "10m ago",
+   "published": "2026-08-25T18:56:01+00:00"
+  },
+  {
    "title": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
    "url": "https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html",
    "source": "CNBC",
@@ -30,30 +64,74 @@
    "topic": "markets",
    "summary": "Iran and Oman on Tuesday discussed a proposal to establish a jointly managed shipping route through the Strait of Hormuz.",
    "image": "https://image.cnbcfm.com/api/v1/image/108353259-17875758942026-08-24t081955z_1637237886_rc2t4na7ebz2_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1787575928&amp;w=1920&amp;h=1080",
-   "age": "just now",
-   "published": "2026-08-25T18:21:55+00:00"
+   "age": "12m ago",
+   "published": "2026-08-25T18:54:27+00:00"
   },
   {
-   "title": "Google Docs password leak reveals a costly security mistake",
-   "url": "https://www.foxnews.com/tech/google-docs-password-leak-reveals-costly-security-mistake",
+   "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+   "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "SpaceX plans to establish its Starbase, LA, in Vermillion Parish, which will \"support thousands of launches annually.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108339153-1784809147521-gettyimages-2286629926-mathalone-notitle260722_npJI3.jpeg?v=1784809187&amp;w=1920&amp;h=1080",
+   "age": "17m ago",
+   "published": "2026-08-25T18:48:33+00:00"
+  },
+  {
+   "title": "Antisemitic streamer finally makes Dem leader snap with rare rebuke: ‘Malicious’",
+   "url": "https://www.foxnews.com/politics/antisemitic-streamer-finally-makes-dem-leader-snap-rare-rebuke-malicious",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A contractor stored credentials in a Google Doc set to Anyone with the link, and Google Search autocomplete eventually surfaced the password string.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/2-Google-Docs-password-leak-reveals-a-costly-security-mistake-photo-2.jpg?ve=1&tl=1",
-   "age": "7m ago",
-   "published": "2026-08-25T18:15:24+00:00"
+   "summary": "House Minority Leader Rep. Hakeem Jeffries calls Hasan Piker s claim that Jewish Americans invite violence against themselves dangerous and antisemitic.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/hasan-piker-at-el-sayed-primary-night-event-detroit-michigan-august-4-2026.jpeg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-25T18:43:41+00:00"
   },
   {
-   "title": "Second lady Usha Vance fires back at pointed jab from Democratic Senate nominee Abdul El-Sayed",
-   "url": "https://www.foxnews.com/media/second-lady-usha-vance-fires-back-pointed-jab-democratic-senate-nominee-abdul-el-sayed",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Usha Vance responded to Senate nominee Abdul El-Sayed s remark that seemingly questioned whether JD Vance s Papaw would have accepted her Indian ethnicity.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/usha-vance-abdul-el-sayed-2.jpg?ve=1&tl=1",
-   "age": "10m ago",
-   "published": "2026-08-25T18:11:55+00:00"
+   "title": "Is the K-shaped economy ending? Finance pros weigh in",
+   "url": "https://www.cnbc.com/2026/08/25/k-shaped-economy-c-shaped-economy-may-be-changing.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The K-shaped economy may be changing. New data shows income and spending gaps are narrowing — but household finances tell a more complicated story.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108198065-17576820892025-09-12t124714z_1004487324_rc2bqga9sjlj_rtrmadp_0_usa-economy.jpeg?v=1757682121&amp;w=1920&amp;h=1080",
+   "age": "27m ago",
+   "published": "2026-08-25T18:39:14+00:00"
+  },
+  {
+   "title": "SpaceX will build a second, $100B ‘Starbase’ spaceport in Louisiana",
+   "url": "https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The company says it will start construction in 2027 and that a Starship rocket could take flight as soon as 2029.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+   "age": "39m ago",
+   "published": "2026-08-25T18:26:55+00:00"
+  },
+  {
+   "title": "US flexes new ship-sinking weapons at summer naval exercises",
+   "url": "https://breakingdefense.com/2026/08/us-flexes-new-ship-sinking-weapons-at-summer-naval-exercises/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "A B-2 bomber used a precision-guided, stealth air-launched anti-ship cruise missile against a decommissioned vessel, and the US Navy also rolled out unmanned boats to su…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/USAF_B-2_LRASM_Valiant_Shield_2026_DVIDS_9799170-scaled-e1787682298555-1024x575.jpg",
+   "age": "40m ago",
+   "published": "2026-08-25T18:25:36+00:00"
+  },
+  {
+   "title": "Your vote matters! Decide which Audience Choice sessions will make it to TechCrunch Founder Summit",
+   "url": "https://techcrunch.com/2026/08/25/your-vote-matters-decide-which-audience-choice-sessions-will-make-it-to-techcrunch-founder-summit/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Each year, we get a huge influx of applicants to speak at TechCrunch’s events, and this year’s Founder Summit in Boston on November 4 will be no different!",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/founder-summit-audience-choice.png?resize=1200,675",
+   "age": "43m ago",
+   "published": "2026-08-25T18:22:50+00:00"
   },
   {
    "title": "Chicago Bears announce roster moves",
@@ -63,7 +141,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ecko1z2z7rpb2tqhzdkh.jpg",
-   "age": "14m ago",
+   "age": "58m ago",
    "published": "2026-08-25T18:08:12+00:00"
   },
   {
@@ -74,19 +152,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/25/8159a9a4-9d7a-434a-904b-ecc9930d1f2e/cowboys.jpg",
-   "age": "16m ago",
+   "age": "1h ago",
    "published": "2026-08-25T18:05:58+00:00"
-  },
-  {
-   "title": "Dolly Parton dead at 80",
-   "url": "https://www.foxnews.com/entertainment/dolly-parton-dead-80",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dolly Parton, country music legend, has died after months of battling unknown health issues. Her grandson announced the news in a video posted to her Instagram page.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/dolly-parton.jpg?ve=1&tl=1",
-   "age": "19m ago",
-   "published": "2026-08-25T18:03:17+00:00"
   },
   {
    "title": "Tonight marks your last chance to save up to $300 on a TechCrunch Disrupt 2026 pass",
@@ -96,19 +163,8 @@
    "topic": "ai",
    "summary": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Save-Up-to-300-Horizontal.png?w=1200",
-   "age": "21m ago",
+   "age": "1h ago",
    "published": "2026-08-25T18:01:30+00:00"
-  },
-  {
-   "title": "GOP's Singer 'very prepared' to oust Dem Moskowitz in toss-up Florida race that could determine House majority",
-   "url": "https://www.foxnews.com/politics/gop-singer-very-prepared-oust-dem-moskowitz-toss-up-florida-race-determine-house-majority",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Scott Singer says Florida s redrawn 25th Congressional District gives Republicans a path to flip Jared Moskowitz s seat in a narrowly divided House.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/scott-singer.jpg?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-08-25T17:56:40+00:00"
   },
   {
    "title": "Damien Harris calls Dae'Quan Wright's move from NFL to NCAA transfer portal 'embarassing,' 'elementary'",
@@ -118,7 +174,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2025/12/20/02c365fe-7e9a-4aef-a7b1-36bc8943d005/daequan-wright-imagn.jpg",
-   "age": "29m ago",
+   "age": "1h ago",
    "published": "2026-08-25T17:53:13+00:00"
   },
   {
@@ -129,19 +185,8 @@
    "topic": "defense",
    "summary": "Warsaw says it doesn't have F-15EX procurement plans for now, but an AH-64 Apache precedent makes the development intriguing. The post Poland’s Name Appears in U.S. F-15…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/F-15EX-Eagle-II-flies-over-the-Gulf-of-America.jpg?quality=85",
-   "age": "29m ago",
+   "age": "1h ago",
    "published": "2026-08-25T17:53:10+00:00"
-  },
-  {
-   "title": "Claude Cowork finally remembers what you told the app in chat",
-   "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-   "age": "32m ago",
-   "published": "2026-08-25T17:50:33+00:00"
   },
   {
    "title": "Two unvaccinated people die from measles in Pennsylvania, officials confirm",
@@ -151,30 +196,8 @@
    "topic": "ai",
    "summary": "\"[P]eople are not familiar with this disease and don’t fully understand the potential severity.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2053751760-1152x648.jpg",
-   "age": "43m ago",
+   "age": "1h ago",
    "published": "2026-08-25T17:39:38+00:00"
-  },
-  {
-   "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
-   "url": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "SpaceX plans will establish its Starbase LA in Vermillion Parish in order to \"support thousands of launches annually.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108339153-1784809147521-gettyimages-2286629926-mathalone-notitle260722_npJI3.jpeg?v=1784809187&amp;w=1920&amp;h=1080",
-   "age": "47m ago",
-   "published": "2026-08-25T17:35:48+00:00"
-  },
-  {
-   "title": "Waymo robotaxis are headed to Munich",
-   "url": "https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Germany's autonomous vehicle regulations have made it a hotspot for autonomous vehicle testing and eventual commercial robotaxi deployment.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/waymo-SF-getty.jpg?resize=1200,800",
-   "age": "50m ago",
-   "published": "2026-08-25T17:32:03+00:00"
   },
   {
    "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport",
@@ -184,30 +207,8 @@
    "topic": "ai",
    "summary": "\"This will be a project like no other.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/spacex-1152x648.jpg",
-   "age": "56m ago",
-   "published": "2026-08-25T17:26:15+00:00"
-  },
-  {
-   "title": "Canada unveils retaliatory tariffs on about $20 billion of U.S. goods",
-   "url": "https://www.cnbc.com/2026/08/25/canada-trump-tariffs-trade-carney-leblanc.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Canadian trade negotiators left the U.S. last week after failing to clinch a trade deal that would stop President Donald Trump's new tariffs from taking effect.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353935-1787671662745-108353935-1787670688033-gettyimages-2290840317-AFP_C69Q2X9.jpeg?v=1787671682&amp;w=1920&amp;h=1080",
-   "age": "58m ago",
-   "published": "2026-08-25T17:24:35+00:00"
-  },
-  {
-   "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-   "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353987-1787674686467-gettyimages-2178039860-STANLEY_DRUCKENMILLER_INTERVIEW.jpeg?v=1787677397&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-08-25T17:15:50+00:00"
+   "published": "2026-08-25T17:26:15+00:00"
   },
   {
    "title": "Ukraine’s Newest USV Is A Super Sized Mothership Packed With Anti-Drone Interceptors",
@@ -217,7 +218,7 @@
    "topic": "defense",
    "summary": "Designed for days-long open ocean operations, the Magura MV11 can act as a floating counter-drone battery. The post Ukraine s Newest USV Is A Super Sized Mothership Pack…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/magura-mv11-sting-drone-interceptors-copy.jpg?quality=85",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-25T16:38:51+00:00"
   },
   {
@@ -250,7 +251,7 @@
    "topic": "defense",
    "summary": "A new DoD memo affecting Pentagon contractors, plus tech news out of Georgia.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/BO231-pb-1024x576.png",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-25T16:00:00+00:00"
   },
   {
@@ -261,7 +262,7 @@
    "topic": "defense",
    "summary": "The aircraft carrier USS Abraham Lincoln is expected to dock in Thailand next week, according to a Thai official.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GJDWPWMUA5EFLMORCZELY5TAHE.JPG",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-25T15:59:15+00:00"
   },
   {
@@ -272,7 +273,7 @@
    "topic": "defense",
    "summary": "Andrew Magliochetti was tapped by Hung Cao to become the first deputy assistant secretary of the Navy for the defense industrial base.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FVBG37GUZRALZCCDTCFIWHV6NI.JPG",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-25T15:39:49+00:00"
   },
   {
@@ -316,7 +317,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-1963334928.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-25T14:54:37+00:00"
   },
   {
@@ -327,19 +328,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
-   "published": "2026-08-25T14:42:25+00:00"
-  },
-  {
-   "title": "Navy establishes new defense industrial base office: Cao",
-   "url": "https://breakingdefense.com/2026/08/navy-establishes-new-defense-industrial-base-office-cao/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Andrew Magliochetti, who previously served as the director of the Navy’s Office of Small Business Programs, will oversee the Office of the Defense Industrial Base.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/9640021-scaled-e1777409978745-1024x577.jpg",
    "age": "4h ago",
-   "published": "2026-08-25T14:21:53+00:00"
+   "published": "2026-08-25T14:42:25+00:00"
   },
   {
    "title": "Bears unveil Rivalries uniform",
@@ -349,7 +339,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/zlqirggta5rsshtbj9af.png",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-25T14:02:00+00:00"
   },
   {
@@ -360,7 +350,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/k3trkrddbakb2ozlibdj.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-25T14:00:00+00:00"
   },
   {
@@ -371,7 +361,7 @@
    "topic": "defense",
    "summary": "The following is the Aug. 19, 2026, Congressional Research Service in focus report, The U.S. Army and the Golden Dome Program. From the Report What Is Golden Dome? The G…",
    "image": null,
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-25T13:31:53+00:00"
   },
   {
@@ -382,7 +372,7 @@
    "topic": "defense",
    "summary": "The C-17 flew to the Russian capital from a base just outside Washington, D.C., with a stop in Riga, Latvia. The post USAF C-17 Makes Extremely Rare Visit To Moscow appe…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/c-17-extremely-rare-moscow-trip.jpg?quality=85",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-25T13:06:11+00:00"
   },
   {
@@ -393,7 +383,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29646506510410928.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-25T12:00:00+00:00"
   },
   {
@@ -404,7 +394,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2291617763.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-25T10:00:00+00:00"
   },
   {
@@ -415,7 +405,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "18h ago",
+   "age": "19h ago",
    "published": "2026-08-24T23:31:58+00:00"
   },
   {
@@ -452,15 +442,26 @@
    "published": "2026-08-23T22:22:00+00:00"
   },
   {
-   "title": "Caleb Williams believes Bears offense will be 'rolling' heading into regular season",
-   "url": "https://www.chicagobears.com/news/caleb-williams-believes-bears-offense-will-be-rolling-heading-into-regular-season",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/sgltnlwoepfxbscj4dqw.jpg",
+   "title": "Northwest Indiana teachers brace for impact of back-to-school 'reentry'",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9fa3895c-8670-47d3-8eea-a07b5a9b4bae.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Teachers don’t just return to school—they reenter a pressure cooker. And this year, some are doing it while still dealing with the aftermath of a devastating storm and p…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
    "age": "2d ago",
-   "published": "2026-08-23T04:45:00+00:00"
+   "published": "2026-08-23T12:15:00+00:00"
+  },
+  {
+   "title": "GEORGE GRENCHIK | Goldilocks and the summer's storms",
+   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_06fab387-12ab-4a57-b29c-f149580d7004.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Kudos to the people who spring into action when these kinds of emergencies strike.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "2d ago",
+   "published": "2026-08-23T11:00:00+00:00"
   }
  ]
 }
