@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T11:54:43+00:00",
+ "generated": "2026-08-25T12:25:28+00:00",
  "count": 40,
  "withImage": 38,
  "bearsDay": true,
@@ -14,7 +14,6 @@
   "Defense News",
   "Fox News",
   "Motorsport.com",
-  "NWI Times",
   "TechCrunch",
   "The Tennessean",
   "The War Zone",
@@ -23,6 +22,94 @@
  ],
  "items": [
   {
+   "title": "Oil drops more than 3% on report U.S. plans to return evacuated diplomats to Middle East",
+   "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108347821-1786452090144-gettyimages-2289259661-img_8455.jpeg?v=1786452116&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-08-25T12:23:32+00:00"
+  },
+  {
+   "title": "Could Iran’s regime collapse? Experts assess Bessent’s bid to sever financial lifelines",
+   "url": "https://www.foxnews.com/world/could-irans-regime-collapse-experts-assess-bessents-bid-sever-financial-lifelines",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Scott Bessent s Economic D-Day against Iran sent the rial to an all-time low as experts debate whether maximum pressure can trigger regime change.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-protests-jan9.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-08-25T12:09:47+00:00"
+  },
+  {
+   "title": "New evidence in Lockerbie Pan Am Flight 103 bombing case pushes federal judge to postpone trial",
+   "url": "https://www.foxnews.com/us/new-evidence-lockerbie-pan-am-flight-103-bombing-case-pushes-federal-judge-postpone-trial",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A federal judge delayed the Pan Am Flight 103 bombing trial after defense attorneys said prosecutors handed them new evidence over the weekend.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/pan-am-suspect-wreckage.png?ve=1&tl=1",
+   "age": "23m ago",
+   "published": "2026-08-25T12:02:17+00:00"
+  },
+  {
+   "title": "Mysterious 3,000-year-old hoard with violently smashed sword emerges during construction project",
+   "url": "https://www.foxnews.com/travel/mysterious-3000-year-old-hoard-violently-smashed-sword-emerges-construction-project",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Metal detecting led archaeologists to a Bronze Age hoard of deformed sickles, a shattered sword blade and ingots deposited in a flooded Czech Republic wetland.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/CZECH-BRONZE-AGE-HOARD-FOUND-ANCIENT-HISTORY-ARCHAEOLOGY-DISCOVERY-1.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-08-25T12:00:14+00:00"
+  },
+  {
+   "title": "Nvidia’s dependence on hyperscalers faces big test in earnings report",
+   "url": "https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia is trying to expand its customer base by creating new financing options that allow for more clients to purchase its costly systems.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108344711-1785865814969-gettyimages-2266485386-NVIDIA_GTC.jpeg?v=1785865841&amp;w=1920&amp;h=1080",
+   "age": "25m ago",
+   "published": "2026-08-25T12:00:01+00:00"
+  },
+  {
+   "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
+   "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Luffu Link combines all day health sensing, voice logging, location awareness, and the ability to get help from trusted contacts into a single device, all without needin…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/luffu-link.png?resize=1200,754",
+   "age": "25m ago",
+   "published": "2026-08-25T12:00:00+00:00"
+  },
+  {
+   "title": "Five Bears Takes Following Their Preseason Week 2 Game In Cincinnati",
+   "url": "https://www.windycitygridiron.com/chicago-bears-preseason/121128/five-chicago-bears-takes-following-their-preseason-week-2-game-in-cincinnati",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29646506510410928.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "25m ago",
+   "published": "2026-08-25T12:00:00+00:00"
+  },
+  {
+   "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+   "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
+   "age": "25m ago",
+   "published": "2026-08-25T12:00:00+00:00"
+  },
+  {
    "title": "Charles Barkley declares WNBA is 'for women only' after ongoing transgender athlete debate",
    "url": "https://www.foxnews.com/media/charles-barkley-declares-wnba-women-only-transgender-athlete-debate",
    "source": "Fox News",
@@ -30,41 +117,8 @@
    "topic": "world",
    "summary": "Hall of Famer Charles Barkley declared the WNBA is for women only and criticized Adam Silver and Cathy Engelbert for not addressing the issue earlier.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/charles-barkley-nba-microphone.jpeg?ve=1&tl=1",
-   "age": "4m ago",
+   "age": "35m ago",
    "published": "2026-08-25T11:50:09+00:00"
-  },
-  {
-   "title": "DiJonai Carrington's '8/23' post ages like milk after Fever-Sky game, flies under the radar",
-   "url": "https://www.foxnews.com/outkick-sports/dijonai-carrington-8-23-post-ages-like-milk-fever-sky-game-flies-under-radar",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "DiJonai Carrington s 8/23 post backfired as Caitlin Clark drained eight 3-pointers and the Indiana Fever routed the Chicago Sky by 23 points.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dijonai-carrington-chicago-sky-wnba.jpg?ve=1&tl=1",
-   "age": "6m ago",
-   "published": "2026-08-25T11:48:12+00:00"
-  },
-  {
-   "title": "Oil drops 3% to 12-day low as Iran claims two-year plan to cope with Washington’s ‘economic D-Day’",
-   "url": "https://www.cnbc.com/2026/08/25/oil-prices-iran-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Investors shrugged off the latest developments in the U.S.-Iran war.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347821-1786452090144-gettyimages-2289259661-img_8455.jpeg?v=1786452116&amp;w=1920&amp;h=1080",
-   "age": "7m ago",
-   "published": "2026-08-25T11:47:43+00:00"
-  },
-  {
-   "title": "AI may answer some New Orleans 911 calls",
-   "url": "https://www.foxnews.com/tech/ai-answer-new-orleans-911-calls",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "New Orleans 911 uses Carbyne AI to triage repeat auto crash calls, but strict limits keep human call-takers in control of all other emergencies.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/1-AI-may-answer-some-New-Orleans-911-calls.jpg?ve=1&tl=1",
-   "age": "11m ago",
-   "published": "2026-08-25T11:42:47+00:00"
   },
   {
    "title": "Dick's Sporting Goods stock falls 15% as retailer misses expectations, cites 'challenging' footwear market",
@@ -74,7 +128,7 @@
    "topic": "markets",
    "summary": "Dick's Sporting Goods reported second fiscal quarter earnings on Tuesday that missed Wall Street expectations amid what it called a \"challenging\" environment.",
    "image": "https://image.cnbcfm.com/api/v1/image/108228539-1763579065685-gettyimages-2215310008-bb1_2800_jdshdwil.jpeg?v=1763579131&amp;w=1920&amp;h=1080",
-   "age": "12m ago",
+   "age": "43m ago",
    "published": "2026-08-25T11:41:49+00:00"
   },
   {
@@ -85,30 +139,8 @@
    "topic": "markets",
    "summary": "United is betting big on premium, international travel with a host of new routes.",
    "image": "https://image.cnbcfm.com/api/v1/image/108351507-1787145751977-gettyimages-2290225109-_mg_9951.jpeg?v=1787607602&amp;w=1920&amp;h=1080",
-   "age": "22m ago",
+   "age": "53m ago",
    "published": "2026-08-25T11:32:06+00:00"
-  },
-  {
-   "title": "Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines",
-   "url": "https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bugatti CEO Mate Rimac told CNBC he thinks high-end sports cars will continue to have combustion engines \"for a very long time\" even with the rise of EVs.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353335-1787582937692-MATE_RIMAC_STILL_1.jpg?v=1787583125&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
-   "published": "2026-08-25T11:30:01+00:00"
-  },
-  {
-   "title": "Abdul El-Sayed battles Jesse Watters over billionaires, Sharia law in tense interview and more top headlines",
-   "url": "https://www.foxnews.com/us/abdul-el-sayed-battles-jesse-watters-over-billionaires-sharia-law-tense-interview-more-top-headlines",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/88771a40-watters-el-sayed.png?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-08-25T11:28:34+00:00"
   },
   {
    "title": "Chicago Bears News: Questions abound as Bears look to finalize the 53-man roster amid injuries",
@@ -118,7 +150,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2291617763.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-25T10:00:00+00:00"
   },
   {
@@ -151,7 +183,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2291246322.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-25T02:13:24+00:00"
   },
   {
@@ -162,7 +194,7 @@
    "topic": "defense",
    "summary": "As the U.S. attempts once again to pressure Iran into negotiating, it seems like Iran has given its answer to the U.S. in the form of another strike in the strait. The p…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Bessent.jpg?quality=85",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-25T00:25:25+00:00"
   },
   {
@@ -173,7 +205,7 @@
    "topic": "defense",
    "summary": "The USS Abraham Lincoln is finally heading home and will make its first full liberty port call in Thailand soon, after being at sea for nine months. The post Where Are T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/TWZ-Carrier-Fleet-Tracker-as-of-August-24-2026.png?quality=85",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-25T00:24:41+00:00"
   },
   {
@@ -184,7 +216,7 @@
    "topic": "ai",
    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-   "age": "11h ago",
+   "age": "12h ago",
    "published": "2026-08-25T00:23:12+00:00"
   },
   {
@@ -197,17 +229,6 @@
    "image": null,
    "age": "12h ago",
    "published": "2026-08-24T23:31:58+00:00"
-  },
-  {
-   "title": "Oura is reportedly eyeing a September IPO that could value it at more than $16B",
-   "url": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "We all knew it was coming. The expected valuation may surprise, though.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-   "age": "12h ago",
-   "published": "2026-08-24T23:05:44+00:00"
   },
   {
    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -250,7 +271,7 @@
    "topic": "defense",
    "summary": "USS Gerald R. Ford (CVN-78) outperformed legacy Nimitz-class aircraft carriers in a test of the launch and recovery systems of the carrier, the Navy’s top officer said l…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/9614967-scaled.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-24T21:08:25+00:00"
   },
   {
@@ -261,7 +282,7 @@
    "topic": "ai",
    "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-1152x648.jpg",
-   "age": "14h ago",
+   "age": "15h ago",
    "published": "2026-08-24T21:04:48+00:00"
   },
   {
@@ -272,7 +293,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/24/a364e3a2-5b02-4b4d-b666-d2e6ca27a901/deshaun-watson.jpg",
-   "age": "15h ago",
+   "age": "16h ago",
    "published": "2026-08-24T20:11:42+00:00"
   },
   {
@@ -294,7 +315,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2025/10/12/4d4cde1e-5da3-49ab-b0fc-f02cc905331d/ashton-jeanty-raiders-imagn.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-24T19:13:17+00:00"
   },
   {
@@ -305,7 +326,7 @@
    "topic": "defense",
    "summary": "The Navy said that the missile is designed for 4th, 5th, and 6th generation aircraft platforms.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9879419-1-scaled-e1787594223875-1024x577.jpg",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-24T19:13:00+00:00"
   },
   {
@@ -316,7 +337,7 @@
    "topic": "defense",
    "summary": "The United States canceled a joint amphibious landing drill scheduled for next month with South Korea due to force availability.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XYNVFAZEMBG6DI4U56HWATNNCE.JPG",
-   "age": "16h ago",
+   "age": "17h ago",
    "published": "2026-08-24T19:05:10+00:00"
   },
   {
@@ -338,7 +359,7 @@
    "topic": "defense",
    "summary": "“Over the past five months, the teams have really been able to hone their skills based on the work they re doing inside of a live environment and I think we re getting b…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/7758909-scaled-e1740165576715-1024x577.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-24T18:17:02+00:00"
   },
   {
@@ -349,7 +370,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-ra…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9879419-scaled.jpg",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-24T17:54:47+00:00"
   },
   {
@@ -371,7 +392,7 @@
    "topic": "defense",
    "summary": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5MYS3K4JSJDNBGF6U56W4MWKIM.jpg",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-24T16:12:51+00:00"
   },
   {
@@ -382,7 +403,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/10/gettyimages-2242052120.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "19h ago",
+   "age": "20h ago",
    "published": "2026-08-24T16:00:00+00:00"
   },
   {
@@ -406,28 +427,6 @@
    "image": null,
    "age": "1d ago",
    "published": "2026-08-23T22:22:00+00:00"
-  },
-  {
-   "title": "Northwest Indiana teachers brace for impact of back-to-school 'reentry'",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9fa3895c-8670-47d3-8eea-a07b5a9b4bae.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Teachers don’t just return to school—they reenter a pressure cooker. And this year, some are doing it while still dealing with the aftermath of a devastating storm and p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
-   "age": "1d ago",
-   "published": "2026-08-23T12:15:00+00:00"
-  },
-  {
-   "title": "GEORGE GRENCHIK | Goldilocks and the summer's storms",
-   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_06fab387-12ab-4a57-b29c-f149580d7004.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Kudos to the people who spring into action when these kinds of emergencies strike.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "2d ago",
-   "published": "2026-08-23T11:00:00+00:00"
   },
   {
    "title": "Caleb Williams believes Bears offense will be 'rolling' heading into regular season",
