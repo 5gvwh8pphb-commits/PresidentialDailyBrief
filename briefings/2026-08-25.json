@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-25",
+  "dateLabel": "Tuesday, August 25, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-25T09:25:45Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~13h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, August 24, 2026 close — sliding memory-chip stocks dragged the Nasdaq lower while the Dow eked out a gain as Treasury unveiled its new Iran sanctions campaign.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,652.86", "change": "-21.51", "changePct": "-0.28%", "sixMo": "+11%" },
+        { "name": "Dow",     "close": "53,417.16", "change": "+140.15", "changePct": "+0.26%", "sixMo": "+8.6%" },
+        { "name": "Nasdaq",  "close": "25,980.19", "change": "-200.26", "changePct": "-0.76%", "sixMo": "+14%" }
+      ],
+      "body": "Micron fell 5.8% and AMD and Broadcom dropped more than 3% and 2% after reports that Nvidia plans to raise AI-server prices over 15% on rising memory costs, pressuring tech even as the broader market took Bessent's Iran sanctions rollout in stride.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Treasury unveils 'Operation Economic Outcast,' sanctions nearly 60 Iran-linked targets",
+      "body": "Treasury Secretary Scott Bessent detailed the sanctions campaign he'd previewed as an 'economic D-Day' at a Monday press conference, hitting nearly 60 entities, individuals and vessels tied to Iranian oil, shipping, gold, crypto and aviation revenue, and pledging a major foreign bank doing business with Tehran will be sanctioned by week's end.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/bessent-press-conference-iran-sanctions-economic-d-day/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Taiwan's latest available Ministry of National Defense tally (2 aircraft sorties, 7 PLAN vessels) is the same count already reported in Monday's brief, and no other China-related security development from a reputable outlet surfaced within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Army orders 3rd Cavalry Regiment to South Korea in rotational-force swap",
+      "body": "The Department of the Army announced Monday that the Fort Cavazos-based 3rd Cavalry Regiment will deploy to the Republic of Korea to relieve the 2nd Stryker Brigade Combat Team, 2nd Infantry Division, as part of the regular rotation of US forces on the peninsula.",
+      "source": "U.S. Army",
+      "url": "https://www.army.mil/article/294757/army_announces_upcoming_unit_deployments"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon plans December 'shoot-off' to fast-track counter-drone laser weapons",
+      "body": "Joint Interagency Task Force 401 will hold a live-fire 'shoot-off' of directed-energy prototypes this December, with systems that perform well eligible for an on-the-spot purchase order to start production; winning lasers would field at five bases, including Fort Bliss and Whiteman Air Force Base.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/08/pentagon-counter-drone-task-force-preps-shoot-off-for-directed-energy-prototypes/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Monday's only notable Anthropic item was the resolution of the multi-model outage already reported in yesterday's brief; no new Anthropic, Claude or other major AI story from a reputable outlet surfaced within the 24-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "Bagent says hamstring has recovered, expects to practice ahead of Titans finale",
+      "body": "Backup quarterback Tyson Bagent, who had been week-to-week and sat out the trip to Cincinnati, said on 670 The Score Monday evening 'I'm doing great, I am ready to go... I'll be practicing tomorrow,' pointing toward a possible return as the Bears prepare for Saturday's preseason finale at Tennessee.",
+      "source": "670 The Score",
+      "url": "https://atozsports.com/nfl/chicago-bears-news/bears-tyson-bagent-injury-update-ben-johnson-titans-case-keenum/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron entered for Saturday's regular-season-ending Daytona summer race",
+      "body": "William Byron is on NASCAR's entry list for Saturday's Coke Zero Sugar 400 at Daytona, the last regular-season race before the Chase field is set at Darlington; the race also decides the final wild-card cutline spot in the 16-driver playoff field.",
+      "source": "NASCAR.com",
+      "url": "https://www.nascar.com/news-media/2026/08/24/2026-nascar-cup-series-entry-list-for-daytona-international-speedway-summer-race/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
