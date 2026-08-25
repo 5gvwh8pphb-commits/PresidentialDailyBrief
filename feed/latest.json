@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-24T23:42:42+00:00",
+ "generated": "2026-08-25T00:37:35+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 36,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,7 +10,7 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "NWI Times",
+  "Motorsport.com",
   "On3",
   "TechCrunch",
   "The Tennessean",
@@ -20,15 +20,125 @@
  ],
  "items": [
   {
-   "title": "Teen hiker's disappearance ends in tragedy at national park with key question remaining",
-   "url": "https://www.foxnews.com/travel/teen-hiker-disappearance-ends-tragedy-national-park-key-question-remaining",
+   "title": "Ship Struck In Strait Of Hormuz Hours After Trump’s “Economic D-Day” Campaign On Iran Unveiled",
+   "url": "https://www.twz.com/news-features/ship-struck-in-strait-of-hormuz-hours-after-trumps-economic-d-day-campaign-on-iran-unveiled",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The new ship attack adds another challenge to Trump's push to extricate the U.S. from war with Iran. The post Ship Struck In Strait Of Hormuz Hours After Trump s Economi…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/Bessent.jpg?quality=85",
+   "age": "12m ago",
+   "published": "2026-08-25T00:25:25+00:00"
+  },
+  {
+   "title": "Where Are The Aircraft Carriers?: August 24, 2026",
+   "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-august-24-2026",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The USS Abraham Lincoln is finally heading home and will make its first full liberty port call in Thailand soon, after being at sea for nine months. The post Where Are T…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/TWZ-Carrier-Fleet-Tracker-as-of-August-24-2026.png?quality=85",
+   "age": "12m ago",
+   "published": "2026-08-25T00:24:41+00:00"
+  },
+  {
+   "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+   "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
+   "age": "14m ago",
+   "published": "2026-08-25T00:23:12+00:00"
+  },
+  {
+   "title": "Trump admin eyes historic mass visa revocation targeting up to 200K asylum seekers: report",
+   "url": "https://www.foxnews.com/politics/trump-admin-eyes-historic-mass-visa-revocation-targeting-200k-asylum-seekers",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The body of teenager Lily Hooper was apparently found in Nattai National Park bushland after an eight-day search, with NSW Police preparing a report for the coroner.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/AUSTRALIA-NATTAI-NATIONAL-PARK-DEATH-HIKER-WHAT-TO-KNOW-2.jpg?ve=1&tl=1",
-   "age": "12m ago",
-   "published": "2026-08-24T23:30:29+00:00"
+   "summary": "The Trump administration is reportedly preparing to revoke B1 and B2 visas held by up to 200,000 foreigners who applied for asylum in the United States.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/us-department-of-state.jpg?ve=1&tl=1",
+   "age": "19m ago",
+   "published": "2026-08-25T00:17:47+00:00"
+  },
+  {
+   "title": "Enes Kanter Freedom exposes Natasha Cloud's profane tirade on 'Ingraham Angle' after WNBA ejection",
+   "url": "https://www.foxnews.com/outkick-sports/enes-kanter-freedom-exposes-natasha-clouds-profane-tirade-ingraham-angle-wnba-ejection",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Enes Kanter Freedom reveals exactly what Natasha Cloud screamed at him courtside before security ejected him from the Indiana Fever-Chicago Sky game.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/enes-kanter-freedom-featured-cloud.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-25T00:15:17+00:00"
+  },
+  {
+   "title": "John Harbaugh calls it 'reasonable to assume' Malik Nabers will be available for Giants in Week 1 vs Cowboys",
+   "url": "https://www.foxnews.com/outkick-sports/john-harbaugh-calls-reasonable-assume-malik-nabers-available-giants-week-1-vs-cowboys",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Malik Nabers shed his red non-contact jersey at Giants training camp, and head coach John Harbaugh said it s reasonable to assume he ll play Week 1.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/malik-nabers-giants-vikings-metlife-stadium.jpg?ve=1&tl=1",
+   "age": "31m ago",
+   "published": "2026-08-25T00:06:02+00:00"
+  },
+  {
+   "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
+   "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108238393-1765214232072-108238393-1765211822234-gettyimages-2250111360-PARAMOUNT_NYSE.jpeg?v=1770743687&amp;w=1920&amp;h=1080",
+   "age": "32m ago",
+   "published": "2026-08-25T00:05:29+00:00"
+  },
+  {
+   "title": "Utah teen charged with killing mother, 8-year-old brother as mystery of final hours unravels: police",
+   "url": "https://www.foxnews.com/us/utah-teen-charged-killing-mother-8-year-old-brother-mystery-final-hours-unravels-police",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Utah juvenile murder case against the 17-year-old includes surveillance audio allegedly capturing an argument and three gunshots inside the family s home.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/jessica-orton-lyman-eli-painter-family-photo-utah.png?ve=1&tl=1",
+   "age": "36m ago",
+   "published": "2026-08-25T00:01:16+00:00"
+  },
+  {
+   "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+   "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108141052-1746462162675-gettyimages-2202369468-2025_nba_0226_pistonsvceltics_19.jpeg?v=1746462341&amp;w=1920&amp;h=1080",
+   "age": "48m ago",
+   "published": "2026-08-24T23:48:50+00:00"
+  },
+  {
+   "title": "Sydney Sweeney tells Tom Cruise to 'watch out' after strapping herself to top of airplane",
+   "url": "https://www.foxnews.com/entertainment/sydney-sweeney-tells-tom-cruise-watch-out-strapping-herself-top-airplane",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sydney Sweeney s video shows her strapped atop a flipping airplane, prompting the official Top Gun Instagram account to respond to her Tom Cruise joke.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/sweeney-cruise.jpg?ve=1&tl=1",
+   "age": "57m ago",
+   "published": "2026-08-24T23:39:37+00:00"
+  },
+  {
+   "title": "William Byron crew chief details dislodged wheel incident",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUjRabWw0dURfV1JZb2wzOTY1TExxNi0xT1diY3JHRFpGckcwSF8zeFE0bG9vcTl0eUp0cG9KeFJjQWhtUXJLQnc5allkWXFtV0lrQjZra1hkcXB3alBGbENJM2FwVG5OWXluYWJZTmhsYktSNWZZaUxva3VQQXRLSnQ4bDhzeEpXWnV5SHdhTmpJZU43X1dmMkNiNWM1c2lTbnN1QUpuV05WaE1TSzZV?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-08-24T23:31:58+00:00"
   },
   {
    "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates",
@@ -38,7 +148,7 @@
    "topic": "markets",
    "summary": "President Donald Trump said the U.S. will raise tariffs on imports of cars, trucks and auto parts from Canada to 50% on Jan. 1, 2027.",
    "image": "https://image.cnbcfm.com/api/v1/image/108352965-1787579279135-108352965-1787345577093-gettyimages-2290821906-AFP_C69G2KC.jpeg?v=1787579300&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
+   "age": "1h ago",
    "published": "2026-08-24T23:27:01+00:00"
   },
   {
@@ -49,7 +159,7 @@
    "topic": "markets",
    "summary": "Federal authorities are investigating how two insurers that are part of Mark Walter's business empire classified more than $20 billion in loans to his companies.",
    "image": "https://image.cnbcfm.com/api/v1/image/108351054-1787071953626-gettyimages-2268085899-ldn-l-dodgers-uniqlo-0326-kb33.jpeg?v=1787612339&amp;w=1920&amp;h=1080",
-   "age": "26m ago",
+   "age": "1h ago",
    "published": "2026-08-24T23:16:19+00:00"
   },
   {
@@ -60,74 +170,8 @@
    "topic": "ai",
    "summary": "We all knew it was coming. The expected valuation may surprise, though.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-   "age": "36m ago",
+   "age": "1h ago",
    "published": "2026-08-24T23:05:44+00:00"
-  },
-  {
-   "title": "Ole Miss had FBI agent sweep football facility for bugs after Lane Kiffin left for LSU",
-   "url": "https://www.foxnews.com/outkick-sports/ole-miss-fbi-agent-sweep-football-facility-bugs-lane-kiffin-left-lsu",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ole Miss officials feared electronic surveillance after Lane Kiffin took multiple assistants to LSU ahead of the college football playoff game.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/pete-golding-ole-miss-rebels-sugar-bowl-fox-news_.jpg?ve=1&tl=1",
-   "age": "43m ago",
-   "published": "2026-08-24T22:59:15+00:00"
-  },
-  {
-   "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
-   "url": "https://www.foxnews.com/world/putin-panicked-defiant-ukraine-marks-independence-day-under-russian-bombardment",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ukraine celebrated 35 years of independence amid fresh Russian attacks as an expert said Kyiv’s deep strikes and battlefield pressure have left Putin rattled.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/zelenskyy-putin-independence-day.jpg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-08-24T22:53:40+00:00"
-  },
-  {
-   "title": "'National Treasure' director predicts upcoming third film won't be able to 'ignore' politics",
-   "url": "https://www.foxnews.com/media/national-treasure-director-predicts-upcoming-third-film-wont-ignore-politics",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Director Jon Turteltaub said political polarization delayed National Treasure 3 and explained the finished script will have to address modern politics.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/national-treasure-sequel-still.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-24T22:41:55+00:00"
-  },
-  {
-   "title": "Kacey Musgraves divides fans with immigrant children’s plea, faces boycott calls to ‘shut up and sing’",
-   "url": "https://www.foxnews.com/entertainment/kacey-musgraves-divides-fans-immigrant-children-plea-faces-boycott-calls-shut-up-sing",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kacey Musgraves asked fans to donate to the Young Center for Immigrant Children s Rights during her tour opener, sparking a divided reaction on social media.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kacey-musgraves_001.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-24T22:41:36+00:00"
-  },
-  {
-   "title": "Paramount CEO David Ellison is at the final hurdle before buying WBD. So far, he can't clear it",
-   "url": "https://www.cnbc.com/2026/08/24/paramount-ceo-david-ellison-wbd-acquisition-final-hurdle.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "An antitrust challenge by a group of state attorneys general has left Paramount CEO David Ellison hunting for avenues to get his deal for WBD done.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108238393-1765214232072-108238393-1765211822234-gettyimages-2250111360-PARAMOUNT_NYSE.jpeg?v=1770743687&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-24T22:15:46+00:00"
-  },
-  {
-   "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-   "url": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108141052-1746462162675-gettyimages-2202369468-2025_nba_0226_pistonsvceltics_19.jpeg?v=1746462341&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-24T21:53:25+00:00"
   },
   {
    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
@@ -137,7 +181,7 @@
    "topic": "ai",
    "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-24T21:45:53+00:00"
   },
   {
@@ -148,7 +192,7 @@
    "topic": "ai",
    "summary": "Solid-state transformers could also benefit EV charging and someday households.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/deployed-SST-1152x648.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T21:32:16+00:00"
   },
   {
@@ -159,7 +203,7 @@
    "topic": "ai",
    "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T21:24:17+00:00"
   },
   {
@@ -170,7 +214,7 @@
    "topic": "defense",
    "summary": "USS Gerald R. Ford (CVN-78) outperformed legacy Nimitz-class aircraft carriers in a test of the launch and recovery systems of the carrier, the Navy’s top officer said l…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/9614967-scaled.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T21:08:25+00:00"
   },
   {
@@ -181,7 +225,7 @@
    "topic": "ai",
    "summary": "There are currently 3 categories. Without reason, RFK Jr. is considering changes.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2289379931-1152x648.jpg",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T21:04:48+00:00"
   },
   {
@@ -192,7 +236,7 @@
    "topic": "ai",
    "summary": "Zillow and Redfin reached a settlement with the FTC, which requires Redfin to reenter the rental advertising business.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zillow-website-1.jpg?w=1200",
-   "age": "2h ago",
+   "age": "3h ago",
    "published": "2026-08-24T20:45:33+00:00"
   },
   {
@@ -203,7 +247,7 @@
    "topic": "ai",
    "summary": "Monitor vendors are playing with fire.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-159905320-1024x648.jpg",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-24T20:17:41+00:00"
   },
   {
@@ -214,19 +258,8 @@
    "topic": "ai",
    "summary": "Make the most of Disrupt's crowds of potential investors and partners by exhibiting your startup from October 13-15.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
-   "age": "3h ago",
+   "age": "4h ago",
    "published": "2026-08-24T20:16:34+00:00"
-  },
-  {
-   "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
-   "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an inve…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-   "age": "3h ago",
-   "published": "2026-08-24T19:58:17+00:00"
   },
   {
    "title": "Tiny Air-To-Air Missile In Development For Stealthy U.S. Navy Combat Aircraft",
@@ -247,7 +280,7 @@
    "topic": "defense",
    "summary": "The Navy said that the missile is designed for 4th, 5th, and 6th generation aircraft platforms.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9879419-1-scaled-e1787594223875-1024x577.jpg",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-24T19:13:00+00:00"
   },
   {
@@ -258,7 +291,7 @@
    "topic": "defense",
    "summary": "The United States canceled a joint amphibious landing drill scheduled for next month with South Korea due to force availability.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XYNVFAZEMBG6DI4U56HWATNNCE.JPG",
-   "age": "4h ago",
+   "age": "5h ago",
    "published": "2026-08-24T19:05:10+00:00"
   },
   {
@@ -269,7 +302,7 @@
    "topic": "markets",
    "summary": "The Trump administration unveiled a plan to isolate Iran's economy by threatening to impose secondary sanctions on the Islamic Republic's \"enablers.\"",
    "image": "https://image.cnbcfm.com/api/v1/image/108353429-1787592109229-108353429-1787592026369-gettyimages-2291861008-cs013502_4x5fe6kl.jpeg?v=1787592177&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-24T18:32:36+00:00"
   },
   {
@@ -280,7 +313,7 @@
    "topic": "defense",
    "summary": "The A3, which Saab says may become the sales product, could enter service within ten years if the government decides to proceed with the aircraft.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IMG_2080-1-scaled-e1787596444140-1024x577.jpeg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-24T18:25:56+00:00"
   },
   {
@@ -291,7 +324,7 @@
    "topic": "defense",
    "summary": "“Over the past five months, the teams have really been able to hone their skills based on the work they re doing inside of a live environment and I think we re getting b…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/7758909-scaled-e1740165576715-1024x577.jpg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-24T18:17:02+00:00"
   },
   {
@@ -302,7 +335,7 @@
    "topic": "defense",
    "summary": "The weapons will go towards Poland, Lithuania, Latvia and Norway under an EU program known as EDIRPA.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Screenshot-2026-08-24-134411-e1787593508356-1024x576.png",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-24T18:06:00+00:00"
   },
   {
@@ -313,7 +346,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy is developing a long-range missile that the service claims can down aerial targets up to 250 nautical miles away. Officially designated the AIM-242 long-ra…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9879419-scaled.jpg",
-   "age": "5h ago",
+   "age": "6h ago",
    "published": "2026-08-24T17:54:47+00:00"
   },
   {
@@ -324,7 +357,7 @@
    "topic": "defense",
    "summary": "Forces with Joint Task Force Western Hemisphere – the new name for Joint Task Force Southern Spear – struck a low-profile vessel suspected of smuggling illicit narcotics…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-1.20.26-PM-scaled.png",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-24T17:37:35+00:00"
   },
   {
@@ -335,7 +368,7 @@
    "topic": "defense",
    "summary": "Britain is releasing classified data to enable local production, which opens the door to a slew of advantages for Ukraine. The post Storm Shadow Cruise Missile Productio…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/STORM-SHADOW.jpg?quality=85",
-   "age": "6h ago",
+   "age": "7h ago",
    "published": "2026-08-24T17:12:33+00:00"
   },
   {
@@ -346,7 +379,7 @@
    "topic": "defense",
    "summary": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5MYS3K4JSJDNBGF6U56W4MWKIM.jpg",
-   "age": "7h ago",
+   "age": "8h ago",
    "published": "2026-08-24T16:12:51+00:00"
   },
   {
@@ -357,7 +390,7 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 24, 2026, based on Navy…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_24_26.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-24T15:20:52+00:00"
   },
   {
@@ -368,7 +401,7 @@
    "topic": "defense",
    "summary": "Finnish defense company Patria is teaming up with Ukrainian drone maker General Cherry to jointly develop drones and start production in Finland.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/362XVXUUWFCHDGSSU7MW3COL7E.jpg",
-   "age": "8h ago",
+   "age": "9h ago",
    "published": "2026-08-24T14:45:18+00:00"
   },
   {
@@ -379,7 +412,7 @@
    "topic": "defense",
    "summary": "UK Prime Minister Andy Burnham is set to announce British support to help Ukraine improve its domestic production of long-range missiles.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/VS6LJ6LPDBDDJPHJRON2QNWJNE.JPG",
-   "age": "9h ago",
+   "age": "10h ago",
    "published": "2026-08-24T13:46:49+00:00"
   },
   {
@@ -394,28 +427,6 @@
    "published": "2026-08-23T22:22:00+00:00"
   },
   {
-   "title": "Northwest Indiana teachers brace for impact of back-to-school 'reentry'",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9fa3895c-8670-47d3-8eea-a07b5a9b4bae.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Teachers don’t just return to school—they reenter a pressure cooker. And this year, some are doing it while still dealing with the aftermath of a devastating storm and p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
-   "age": "1d ago",
-   "published": "2026-08-23T12:15:00+00:00"
-  },
-  {
-   "title": "GEORGE GRENCHIK | Goldilocks and the summer's storms",
-   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_06fab387-12ab-4a57-b29c-f149580d7004.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Kudos to the people who spring into action when these kinds of emergencies strike.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "1d ago",
-   "published": "2026-08-23T11:00:00+00:00"
-  },
-  {
    "title": "AIM-424 “Malice” Very Long-Range Air-To-Air Missile Emerges From The Shadows (Updated)",
    "url": "https://www.twz.com/air/aim-424-malice-very-long-range-air-to-air-missile-emerges-from-the-shadows",
    "source": "The War Zone",
@@ -425,17 +436,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/AIM-424-Missile.jpg?quality=85",
    "age": "1d ago",
    "published": "2026-08-23T04:50:49+00:00"
-  },
-  {
-   "title": "China’s Next Aircraft Carrier Is Taking Shape",
-   "url": "https://www.twz.com/sea/chinas-next-aircraft-carrier-is-taking-shape",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "China's fourth aircraft carrier, which could be nuclear-powered, is looking more and more like a real ship. The post China’s Next Aircraft Carrier Is Taking Shape appear…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/type-004-construction-progress.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-08-22T17:29:15+00:00"
   },
   {
    "title": "Hendrick Motorsports reveals major Corey Day status update for 2027",
