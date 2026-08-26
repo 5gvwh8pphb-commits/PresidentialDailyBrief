@@ -1,7 +1,7 @@
 {
- "generated": "2026-08-26T14:34:04+00:00",
+ "generated": "2026-08-26T16:09:05+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 36,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -12,7 +12,6 @@
   "CNBC",
   "ChicagoBears.com",
   "Defense News",
-  "FOX Sports",
   "Fox News",
   "Motorsport.com",
   "NWI Times",
@@ -21,9 +20,87 @@
   "The War Zone",
   "USNI News",
   "VentureBeat AI",
-  "Windy City Gridiron"
+  "Windy City Gridiron",
+  "Yahoo Sports"
  ],
  "items": [
+  {
+   "title": "Meta agrees to sweeping changes to restrict kids’ access to its apps as part of settlement with states",
+   "url": "https://techcrunch.com/2026/08/26/meta-agrees-to-sweeping-changes-to-restrict-kids-access-to-its-apps-as-part-of-settlement-with-states/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "One of the most notable changes is that Meta plans to implement a daily two-hour time limit for teens that can only be disabled with parental permission.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+   "age": "5m ago",
+   "published": "2026-08-26T16:03:14+00:00"
+  },
+  {
+   "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents",
+   "url": "https://www.cnbc.com/2026/08/26/china-hacker-federal-reserve-doj-nasa.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Hackers targeted networks \"operated by hospitals, telecommunications providers, power companies, financial institutions, and defense contractors,\" a filing said.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108087664-17370361472025-01-16t110011z_1059436574_rc2z7s94kknq_rtrmadp_0_usa-china-baicells.jpeg?v=1787756840&amp;w=1920&amp;h=1080",
+   "age": "6m ago",
+   "published": "2026-08-26T16:02:47+00:00"
+  },
+  {
+   "title": "What’s driving Sweden’s startup boom, from Lovable to Legora",
+   "url": "https://techcrunch.com/video/whats-driving-swedens-startup-boom-from-lovable-to-legora/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Vibe-coding darling Lovable just raised $400 million at a $13.3 billion valuation, roughly doubling its worth in eight months. But Lovable isn’t the only Stockholm start…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1193266208.jpg?resize=1200,800",
+   "age": "9m ago",
+   "published": "2026-08-26T16:00:00+00:00"
+  },
+  {
+   "title": "Federal judge strikes down Texas restriction on drag shows, offers people a 'simple' solution",
+   "url": "https://www.foxnews.com/politics/federal-judge-strikes-down-texas-restriction-drag-shows-offers-people-simple-solution",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Judge David Hittner blocked Ken Paxton from enforcing Texas Senate Bill 12, citing First Amendment protections for drag shows and free speech.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/931/523/drag-queen.jpg?ve=1&tl=1",
+   "age": "19m ago",
+   "published": "2026-08-26T15:49:50+00:00"
+  },
+  {
+   "title": "Radar makes podcasts searchable — and usable by AI agents",
+   "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI a…",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+   "age": "21m ago",
+   "published": "2026-08-26T15:47:28+00:00"
+  },
+  {
+   "title": "Court blocks Trump FCC order that could flood broadcast TV with more election ads",
+   "url": "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Republicans demanded that parties and fundraising committees be given lowest ad rates.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/vote-sign-1152x648-1787756253.jpg",
+   "age": "23m ago",
+   "published": "2026-08-26T15:45:07+00:00"
+  },
+  {
+   "title": "The ultimate dog-friendly road trip on Minnesota's North Shore from Duluth to Grand Marais",
+   "url": "https://www.foxnews.com/outkick-analysis/ultimate-dog-friendly-road-trip-minnesotas-north-shore-duluth-grand-marais",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "From Split Rock Lighthouse to Pincushion Mountain, a dog-friendly road trip reveals why Minnesota s North Shore demands more than three days.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/german-shepherd-grand-marais.jpg?ve=1&tl=1",
+   "age": "26m ago",
+   "published": "2026-08-26T15:42:22+00:00"
+  },
   {
    "title": "Meta settles social media addiction case with California, other states for $16.7 billion",
    "url": "https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html",
@@ -32,30 +109,129 @@
    "topic": "markets",
    "summary": "Meta and state attorneys general settled a federal trial centering on allegations that company misrepresented the extent of child-related mental health harms.",
    "image": "https://image.cnbcfm.com/api/v1/image/108267294-1771506727822-gettyimages-2261841364-SOCIAL_MEDIA_TRIAL.jpeg?v=1782239516&amp;w=1920&amp;h=1080",
-   "age": "just now",
-   "published": "2026-08-26T14:33:37+00:00"
+   "age": "30m ago",
+   "published": "2026-08-26T15:38:57+00:00"
   },
   {
-   "title": "CISA confirms hackers targeted over 100 US water systems during July",
-   "url": "https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
+   "title": "‘Shifted our whole mentality’: Army long-range EW system to go into production in 2027",
+   "url": "https://breakingdefense.com/2026/08/shifted-our-whole-mentality-army-long-range-ew-system-to-go-into-production-in-2027/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Army originally envisioned a larger, bespoke capability, but Mark Saxon, deputy project manager for Electromagnetic Warfare Collection, told Breaking Defense the bat…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9468265-e1787668290670.jpg",
+   "age": "34m ago",
+   "published": "2026-08-26T15:34:52+00:00"
+  },
+  {
+   "title": "Seven-year-old boy forced to hike Mt. Fuji alone after dad, older brother abandon him",
+   "url": "https://www.foxnews.com/outkick-analysis/seven-year-old-boy-forced-hike-mt-fuji-alone-dad-older-brother-abandon-him",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A father left his 7-year-old son alone at 8,000 feet on Mt. Fuji after the boy complained of fatigue, prompting police to intervene amid fog and rain.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/06/931/523/Mount-Fuji-2.png?ve=1&tl=1",
+   "age": "39m ago",
+   "published": "2026-08-26T15:29:49+00:00"
+  },
+  {
+   "title": "Week 1 NFL odds, lines, best bets, predictions: Computer model backs Eagles and Jaguars",
+   "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-picks-predictions-best-bets/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/14/42a71fd3-26b0-40e5-bd87-d6ffd046d6fb/devonta-smith-philadelphia-eagles-imagn-images.jpg",
+   "age": "43m ago",
+   "published": "2026-08-26T15:25:43+00:00"
+  },
+  {
+   "title": "What should Vikings do with J.J. McCarthy? Divorce seems inevitable after losing starting job to Kyler Murray",
+   "url": "https://www.cbssports.com/nfl/news/what-should-vikings-do-with-j-j-mccarthy/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/11/51ecd369-cb8f-4998-811d-2659f2a83ef1/jjmccarthy.jpg",
+   "age": "47m ago",
+   "published": "2026-08-26T15:21:35+00:00"
+  },
+  {
+   "title": "Fiscal Year 2025 Annual Report on Sexual Assault in the Military",
+   "url": "https://news.usni.org/2026/08/26/fiscal-year-2025-annual-report-on-sexual-assault-in-the-military",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the Fiscal Year 2025 Annual Report on Sexual Assault in the Military, published Aug. 21, 2026. Report Fact Sheet Background Each year, the Department of…",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-08-26T15:01:14+00:00"
+  },
+  {
+   "title": "Researchers get two genetic codes to work at the same time",
+   "url": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
    "topic": "ai",
-   "summary": "The federal cyber agency's warning comes amid a wave of suspected Iran-backed cyberattacks targeting critical water systems across the United States.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/water-waste-water-2099931275.jpg?resize=1200,917",
-   "age": "2m ago",
-   "published": "2026-08-26T14:31:05+00:00"
+   "summary": "Messing with the genetic code might have gotten a bit easier to do.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2080373895-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-08-26T15:00:34+00:00"
   },
   {
-   "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause",
-   "url": "https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html",
+   "title": "Ben Johnson Says the Bears Are Writing a ‘New Chapter’ in 2026",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/121303/ben-johnson-chicago-bears-are-writing-a-new-chapter-in-2026",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2278932705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1h ago",
+   "published": "2026-08-26T15:00:00+00:00"
+  },
+  {
+   "title": "Chicago Bears and CDW open nominations for 2026 Classroom Legends program",
+   "url": "https://www.chicagobears.com/news/chicago-bears-and-cdw-open-nominations-for-2026-classroom-legends-program",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/apda6u4opyquabyuvjed.jpg",
+   "age": "1h ago",
+   "published": "2026-08-26T15:00:00+00:00"
+  },
+  {
+   "title": "How a Ukrainian commander sped through the ‘kill zone’ to save wounded troops",
+   "url": "https://www.defensenews.com/global/2026/08/26/how-a-ukrainian-commander-sped-through-the-kill-zone-to-save-wounded-troops/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Vladyslav Polskyi, a former science teacher turned combat commander, saw two wounded soldiers stranded on the battlefield and knew he had to do something.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MEKJFLUMHBHMBCREVPAIWK4FZY.JPG",
+   "age": "1h ago",
+   "published": "2026-08-26T14:55:07+00:00"
+  },
+  {
+   "title": "William Byron’s Team Hit With NASCAR Suspensions Ahead of Daytona",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSExpbTRSWGEzTTdEZmh2WnRXSy1Vb0NRRWlMaU42OThzczhrYjFlUktEVlh1aHEtcEZub2VGZnBQNldIWGYyLXIxd0tMWGk2dmI4bWpRTmx6Vk5iV3gzX3A4elhoZ01ueHNlczJkcmhDcDZsZjJvQzVzNTNBeThNS09KWnc?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-08-26T14:50:39+00:00"
+  },
+  {
+   "title": "Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next",
+   "url": "https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Bill Gates warned governments are not adequately preparing for how AI could displace workers, strain social systems and create global risks.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108171040-17522615752025-05-08t140318z_734903116_rc2qdeamtlun_rtrmadp_0_health-gates-foundation.jpeg?v=1752261599&amp;w=1920&amp;h=1080",
-   "age": "3m ago",
-   "published": "2026-08-26T14:31:02+00:00"
+   "summary": "Paramount Skydance's acquisition of Warner Bros. Discovery is stalled due to an antitrust lawsuit, leaving WBD in limbo during a pivotal moment for media.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108334336-1783975362519-gettyimages-2285923979-dji_20260713093855_0155_d_lbcei8zc.jpeg?v=1783975391&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-26T14:31:47+00:00"
   },
   {
    "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -65,19 +241,8 @@
    "topic": "ai",
    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture…",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
-   "age": "4m ago",
+   "age": "1h ago",
    "published": "2026-08-26T14:30:00+00:00"
-  },
-  {
-   "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-   "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
-   "age": "14m ago",
-   "published": "2026-08-26T14:19:29+00:00"
   },
   {
    "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
@@ -87,7 +252,7 @@
    "topic": "ai",
    "summary": "\"We're living in this world of scarcity with the Moon.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/interlune.jpg",
-   "age": "19m ago",
+   "age": "1h ago",
    "published": "2026-08-26T14:14:52+00:00"
   },
   {
@@ -98,63 +263,8 @@
    "topic": "defense",
    "summary": "Poland’s minister of national defense said today that “at least” seven aircraft will be purchased, with his country receiving four by 2030.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/A330-MRTT-Spanish-Air-Force-in-flight-02_SP_MIA_AM_202411128_MRTT_EUROFIGHTER_REFUELLING-3366-e1787742212856-1024x577.jpg",
-   "age": "20m ago",
+   "age": "1h ago",
    "published": "2026-08-26T14:13:35+00:00"
-  },
-  {
-   "title": "Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe",
-   "url": "https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The empire of billionaire Los Angeles Dodgers owner Mark Walter has faced media scrutiny since he said he would sell his majority share of the LA Lakers.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108351054-1787071953626-gettyimages-2268085899-ldn-l-dodgers-uniqlo-0326-kb33.jpeg?v=1787612339&amp;w=1920&amp;h=1080",
-   "age": "21m ago",
-   "published": "2026-08-26T14:12:55+00:00"
-  },
-  {
-   "title": "Rutgers research dean accused of secretly recording 'upskirt' videos with cellphone, prosecutors say",
-   "url": "https://www.foxnews.com/us/rutgers-research-dean-accused-secretly-recording-upskirt-videos-cellphone-prosecutors-say",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Joshua Kohut, a Rutgers University research dean, faces invasion of privacy charges after investigators say they found upskirt videos on his device.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rutgers-research-dean-facing-charges-for-allegedly-filming-upskirt-videos-1.jpg?ve=1&tl=1",
-   "age": "24m ago",
-   "published": "2026-08-26T14:09:42+00:00"
-  },
-  {
-   "title": "EXCLUSIVE: State Dept reveals Portland Antifa connection to Hamas, Iran’s IRGC in sweeping terror action",
-   "url": "https://www.foxnews.com/politics/exclusive-state-dept-reveals-portland-antifa-connection-hamas-irans-irgc-sweeping-terror-action",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A State Department memo reveals how an Italy-based tech collective built encrypted tools used by Antifa, Hamas and Hezbollah to organize attacks.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/demonstrators-burn-flag-ice-detention-center_001.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-08-26T14:00:10+00:00"
-  },
-  {
-   "title": "SEEING DOUBLE: Second Dan Sullivan advances, setting up bizarre Alaska Senate ballot",
-   "url": "https://www.foxnews.com/politics/seeing-double-second-dan-sullivan-advances-setting-up-bizarre-alaska-senate-ballot",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dan Sullivan Jr. advances to Alaska s general election, complicating the race for Sen. Dan Sullivan as ranked-choice voting amplifies name confusion.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/dan-sullivan-alaska-senate-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "39m ago",
-   "published": "2026-08-26T13:55:01+00:00"
-  },
-  {
-   "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
-   "url": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/psychotherapy-1152x648.jpg",
-   "age": "40m ago",
-   "published": "2026-08-26T13:53:32+00:00"
   },
   {
    "title": "Why is William Byron's 2026 season so confusing despite driving NASCAR's iconic no. 24?",
@@ -164,19 +274,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "49m ago",
+   "age": "2h ago",
    "published": "2026-08-26T13:45:00+00:00"
-  },
-  {
-   "title": "Meta settles for $18 billion in lawsuit brought by 29 states over social media harms to children",
-   "url": "https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The lawsuit alleged that Meta knowingly designed platforms like Instagram and Facebook to addict children, despite knowing about the harms the platforms could pose to yo…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-   "age": "51m ago",
-   "published": "2026-08-26T13:43:01+00:00"
   },
   {
    "title": "The Chicago Bears’ left tackle battle may have gotten a little weirder",
@@ -186,7 +285,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/01/gettyimages-2242049379.jpg?quality=90&#038;strip=all&#038;crop=0,0,52.000003173828,100",
-   "age": "58m ago",
+   "age": "2h ago",
    "published": "2026-08-26T13:35:35+00:00"
   },
   {
@@ -197,7 +296,7 @@
    "topic": "defense",
    "summary": "Ukraine is now in possession of the intellectual property and permissions needed to build the high-tech European weapon domestically — in theory, that is.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T2YDQNWAHZBYTHOAOCEMO54JUM.jpg",
-   "age": "1h ago",
+   "age": "2h ago",
    "published": "2026-08-26T13:14:11+00:00"
   },
   {
@@ -208,30 +307,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/26/0e4bedac-e810-4f17-813d-761680b2d706/2024-09-07t080555z-1983696200-mt1usatoday24174676-rtrmadp-3-ncaa-football-vegas-kickoff-classic-southern-california-at-louisiana-state-1.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-26T13:00:29+00:00"
-  },
-  {
-   "title": "2026 CBS Sports NFL All-Breakout Team: Abdul Carter, Travis Hunter headline defensive rising stars",
-   "url": "https://www.cbssports.com/nfl/news/2026-nfl-all-breakout-team-top-defensive-players/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/25/f2164665-f85b-4a0e-9b2c-8e56f73e6aa5/allbreakoutteamdefense.png",
-   "age": "1h ago",
-   "published": "2026-08-26T12:43:59+00:00"
-  },
-  {
-   "title": "Cowboys' Joe Milton showing he's more than a big arm, but backup QB battle remains unsettled",
-   "url": "https://www.cbssports.com/nfl/news/cowboys-backup-qb-joe-milton-sam-howell/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/25/8159a9a4-9d7a-434a-904b-ecc9930d1f2e/cowboys.jpg",
-   "age": "2h ago",
-   "published": "2026-08-26T12:25:21+00:00"
   },
   {
    "title": "Two weeks in the dark: What the Northwest Indiana power crisis exposed",
@@ -241,19 +318,8 @@
    "topic": "local",
    "summary": "Two weeks without power have pushed some Region residents to the edge — and exposed troubling blind spots in how we prepare for the next disaster when, not if, it hits.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/f5/7f53ffbc-b006-4851-9000-2210f9d00e73/6a81fe4445a0d.image.jpg?resize=300%2C225",
-   "age": "2h ago",
-   "published": "2026-08-26T12:15:00+00:00"
-  },
-  {
-   "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-   "url": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/ollama-granite-1152x648-1787698912.jpg",
    "age": "3h ago",
-   "published": "2026-08-26T11:10:49+00:00"
+   "published": "2026-08-26T12:15:00+00:00"
   },
   {
    "title": "Chicago Bears News: Bears wrap up training camp with hard practice",
@@ -263,7 +329,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290101594.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
+   "age": "6h ago",
    "published": "2026-08-26T10:00:00+00:00"
   },
   {
@@ -274,7 +340,7 @@
    "topic": "defense",
    "summary": "The first-ever road bridge linking North Korea and Russia across the Tumen River appears close to completion, according to satellite imagery reviewed by De",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6HW2ZIKBAJFMRP4HV5FL7G4NPY.png",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-08-26T09:03:18+00:00"
   },
   {
@@ -285,19 +351,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/nhze8p65q1cx35rekumv.jpg",
-   "age": "12h ago",
+   "age": "13h ago",
    "published": "2026-08-26T02:14:11+00:00"
-  },
-  {
-   "title": "Bears Camp Report: Darnell Wright injured, Corners return, Jordan van den Berg with the ones, and more",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/121240/chicago-bears-camp-report-darnell-wright-injured-corners-return-jordan-van-den-berg-ones-swift",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY294916841246611637.jpg?quality=90&#038;strip=all&#038;crop=0,0,70.000004272461,100",
-   "age": "14h ago",
-   "published": "2026-08-26T00:15:00+00:00"
   },
   {
    "title": "Bears camp notebook: A grueling practice — and maybe a key injury — as Bears close out camp",
@@ -307,19 +362,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/25184740/2026-07-31T162351Z_1475696728_MT1USATODAY29487317_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
-   "age": "14h ago",
-   "published": "2026-08-25T23:50:48+00:00"
-  },
-  {
-   "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
-   "url": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Fedorov, a young reformer whose dismissal last month sparked weeks of protests, said Ukraine lacked any overall vision for how to win the conflict.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AZF7SUEZPJEDRAQ75IG2JZERPM.jpg",
    "age": "16h ago",
-   "published": "2026-08-25T22:10:54+00:00"
+   "published": "2026-08-25T23:50:48+00:00"
   },
   {
    "title": "William Byron crew members suspended as Hendrick names replacements",
@@ -329,19 +373,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "16h ago",
+   "age": "18h ago",
    "published": "2026-08-25T22:03:29+00:00"
-  },
-  {
-   "title": "2026 NASCAR Odds: William Byron Favored For Regular-Season Finale At Daytona",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnRqU3pNQk1zaVduUks4MFdxQ2l1SzFRMGt4SEZmWTZGRDNWVHk2N3R0Wnc2cHkwVldyQ0trbVp2VlQtQ051MEZ3Y3VBRXotTV9hTXpBby1WS2E4MHRoZ0Jqb1VTcE1VaXdaQjBUZkoyaUJJSElhSlBWSEJ1cU5jV0ZLUXRXbXVNQUYzcnd30gGOAUFVX3lxTE02Z2JiSTllbWpZNkdRbm9jbi1YZGxNMzFDSnp1Z3cwUndEYWFyVFZFVnJfdkh4dW1kdFVsWEplZVNjLU83TklZc3JGWUljcVFKd2xQUWRDSE91SWNvaWN6eG10YUFOcHNMM3ZlQ1E2eEtISUdOTTNveXNIMzlTRHFGSnhUckZPZkZpZUlLcmc?oc=5",
-   "source": "FOX Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "17h ago",
-   "published": "2026-08-25T21:19:24+00:00"
   },
   {
    "title": "The Mystery Of J-20 Fighter-Like Shapes Spotted In China Has Been Solved",
@@ -351,7 +384,7 @@
    "topic": "defense",
    "summary": "The peculiar fighter shapes started appearing on ramps in China years ago, but now we finally know at least one of their uses. The post The Mystery Of J-20 Fighter-Like …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/china-j-20-aircraft-fire-trainer-mystery-shapes.jpg?quality=85",
-   "age": "17h ago",
+   "age": "18h ago",
    "published": "2026-08-25T21:19:01+00:00"
   },
   {
@@ -362,7 +395,7 @@
    "topic": "defense",
    "summary": "The crew of USS Abraham Lincoln (CVN-72) is weeks away from wrapping a deployment that could be the second longest since the end of the Cold War, according to the USNI N…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9881248-scaled.jpg",
-   "age": "17h ago",
+   "age": "19h ago",
    "published": "2026-08-25T20:55:45+00:00"
   },
   {
@@ -373,7 +406,7 @@
    "topic": "defense",
    "summary": "Russia says companies need to buy their own air defenses to protect critical facilities, and those that haven't will be commandeered. The post Ukraine Situation Report: …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Ozon-Fire.jpg?quality=85",
-   "age": "18h ago",
+   "age": "20h ago",
    "published": "2026-08-25T19:42:25+00:00"
   },
   {
@@ -384,7 +417,7 @@
    "topic": "defense",
    "summary": "A B-2 bomber used a precision-guided, stealth air-launched anti-ship cruise missile against a decommissioned vessel, and the US Navy also rolled out unmanned boats to su…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/USAF_B-2_LRASM_Valiant_Shield_2026_DVIDS_9799170-scaled-e1787682298555-1024x575.jpg",
-   "age": "20h ago",
+   "age": "21h ago",
    "published": "2026-08-25T18:25:36+00:00"
   },
   {
@@ -395,19 +428,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ecko1z2z7rpb2tqhzdkh.jpg",
-   "age": "20h ago",
-   "published": "2026-08-25T18:08:12+00:00"
-  },
-  {
-   "title": "How a new Pentagon memo ‘resets’ industry requirements, plus highlights from TechNet",
-   "url": "https://breakingdefense.com/2026/08/how-a-new-pentagon-memo-resets-industry-requirements-plus-highlights-from-technet/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "A new DoD memo affecting Pentagon contractors, plus tech news out of Georgia.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/BO231-pb-1024x576.png",
    "age": "22h ago",
-   "published": "2026-08-25T16:00:00+00:00"
+   "published": "2026-08-25T18:08:12+00:00"
   },
   {
    "title": "Marine Corps Lab Accepts Surface Craft Prototype",
@@ -417,19 +439,8 @@
    "topic": "defense",
    "summary": "The Marine Corps Warfighting Laboratory recently accepted the first of two Ancillary Surface Craft prototypes, according to a news release published last week. Ancillary…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9877983.jpg",
-   "age": "23h ago",
-   "published": "2026-08-25T15:14:22+00:00"
-  },
-  {
-   "title": "Bears unveil Rivalries uniform",
-   "url": "https://www.chicagobears.com/news/bears-unveil-rivalries-uniform",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/zlqirggta5rsshtbj9af.png",
    "age": "1d ago",
-   "published": "2026-08-25T14:02:00+00:00"
+   "published": "2026-08-25T15:14:22+00:00"
   },
   {
    "title": "Bears 53-man roster projection: New clarity at left tackle, searching for depth in the defensive backfield",
@@ -452,17 +463,6 @@
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
    "age": "3d ago",
    "published": "2026-08-23T12:15:00+00:00"
-  },
-  {
-   "title": "GEORGE GRENCHIK | Goldilocks and the summer's storms",
-   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_06fab387-12ab-4a57-b29c-f149580d7004.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Kudos to the people who spring into action when these kinds of emergencies strike.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "3d ago",
-   "published": "2026-08-23T11:00:00+00:00"
   }
  ]
 }
