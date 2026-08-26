@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-26",
+  "dateLabel": "Wednesday, August 26, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-26T09:28:59Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, August 25, 2026 close — stocks rose across the board as falling oil prices eased bond-market pressure ahead of Nvidia's earnings.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,677.28", "change": "+24.42", "changePct": "+0.32%", "sixMo": "+11%" },
+        { "name": "Dow",     "close": "53,577.40", "change": "+160.24", "changePct": "+0.30%", "sixMo": "+8.3%" },
+        { "name": "Nasdaq",  "close": "26,151.30", "change": "+171.11", "changePct": "+0.66%", "sixMo": "+13%" }
+      ],
+      "body": "Brent crude fell below $90 a barrel on hopes for a revival of Strait of Hormuz shipping via new Iran-Oman talks, pulling Treasury yields lower and lifting tech shares; chipmakers snapped a seven-day slide, with Nvidia up roughly 2.5% ahead of Wednesday's earnings report.",
+      "source": "AP",
+      "url": "https://www.kvue.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-tuesday-8252026/616-35cac524-69ae-4a72-ad81-a53028e6cca3"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iran and Oman open talks on interim reopening of Strait of Hormuz shipping",
+      "body": "Iranian Foreign Minister Abbas Araghchi met his Omani counterpart Badr Albusaidi in Tehran Tuesday to discuss a temporary joint navigation corridor and a mine-clearing project meant to restore safe passage through the strait, which has been largely paralyzed since early in the war and normally carries about a fifth of the world's oil and LNG exports.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Satellite images show new radar-type structures rising on South China Sea islet",
+      "body": "Commercial satellite imagery reviewed by Reuters shows construction since March on Yagong Island near Antelope Reef in the Paracels; analysts say the three-pronged structure resembles other Chinese early-warning radar facilities and likely supports what could become China's largest military base in the archipelago.",
+      "source": "Reuters (via U.S. News)",
+      "url": "https://www.usnews.com/news/world/articles/2026-08-25/new-installations-emerge-on-islet-as-china-accelerates-south-china-sea-build-up"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US resumes lethal strikes on suspected drug boats in eastern Pacific after two-month pause",
+      "body": "US Southern Command carried out a 'lethal kinetic strike' on a low-profile vessel along established narco-trafficking routes in the eastern Pacific, killing two people; it's the first such strike in roughly two months, bringing the campaign's toll to about 223 killed in 67 strikes since last fall.",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/08/24/politics/us-military-strike-alleged-drug-boat-intl-hnk"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Marine Corps accepts first Australian-designed logistics-connector prototype for Indo-Pacific use",
+      "body": "The Marine Corps Warfighting Laboratory formally accepted the first of two Ancillary Surface Craft prototypes built to move Marines, vehicles and supplies between ships and austere shorelines, a capability the Corps has flagged as central to any future contested-logistics fight in the Indo-Pacific.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/08/25/marine-corps-lab-accepts-surface-craft-prototype"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic merges Claude's memory across chat and Claude Cowork",
+      "body": "Anthropic announced Claude will now carry what it learns in one product into others, with chat and Claude Cowork sharing a unified memory listed under Settings > Memory that users can edit or delete; sensitive topics like health and beliefs stay excluded from memory by default.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears activate Elliott and Hicks off PUP, sign Grier, place Sewell on injured reserve",
+      "body": "The Bears activated linebacker Keyshaun Elliott (back) and safety Elijah Hicks (shin) off the physically-unable-to-perform list Tuesday, signed linebacker Antonio Grier and placed linebacker Nephi Sewell on Reserve/Injured, trimming the PUP list to three players ahead of Saturday's preseason finale at Tennessee.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-august-25-2026"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron and Blaney set as co-favorites for Daytona's regular-season finale",
+      "body": "William Byron shares the best Coke Zero Sugar 400 odds at +850 with Ryan Blaney ahead of Saturday's Daytona race, the regular-season finale before the Chase field is set; Byron has already clinched his playoff berth, and NASCAR is rolling out a lower-downforce aero package for the race with no on-track practice beforehand.",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nascar/2026-nascar-odds-daytona-coke-zero-sugar-400"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
