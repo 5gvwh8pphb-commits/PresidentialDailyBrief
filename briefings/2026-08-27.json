@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-27",
+  "dateLabel": "Thursday, August 27, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-27T19:18:24Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~23h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, August 26, 2026 close — a quiet, mixed session as investors awaited Nvidia's earnings after the bell.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,675.70", "change": "-1.58", "changePct": "-0.02%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,463.88", "change": "-113.52", "changePct": "-0.21%", "sixMo": "+9.2%" },
+        { "name": "Nasdaq",  "close": "26,130.20", "change": "-21.10", "changePct": "-0.08%", "sixMo": "+14%" }
+      ],
+      "body": "Stocks drifted through a low-volume session as core PCE inflation matched forecasts at 3.3% year-over-year and traders held off ahead of Nvidia's earnings; Abercrombie & Fitch jumped 36% on a guidance raise, while Meta settled a 29-state social-media-addiction suit for $16.7 billion. Nvidia beat estimates and gave a strong outlook after the close, sending its shares up roughly 7.7% in after-hours trading.",
+      "source": "AP",
+      "url": "https://www.theepochtimes.com/bright/how-major-us-stock-indexes-fared-aug-26-post-6080039"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~13h ago",
+      "empty": false,
+      "headline": "Tanker hit by unidentified projectile in Strait of Hormuz hours after Trump declared it mine-free",
+      "body": "UKMTO reported early Thursday that a tanker transiting the Strait of Hormuz was struck by an unknown projectile, sparking a fire that was extinguished with no casualties; the strike came just two days after President Trump said the US Navy had cleared all mines from the strait's main shipping channel and warned Iran against laying new ones.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates/?id=135895428"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Philippines pitches 6.3% defense budget hike and more warships amid South China Sea standoffs",
+      "body": "Philippine Defense Secretary Gilberto Teodoro asked Congress for a 6.3% increase in the 2027 defense budget, including additional guided-missile corvettes and an $810 million modernization push featuring an expanded drone fleet, as Manila shifts toward external defense amid recurring confrontations with China in the South China Sea.",
+      "source": "Reuters (via South China Morning Post)",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3365188/philippines-expand-military-drone-fleet-south-china-sea-tensions-rise"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Rubio tells allies US does not plan new strikes on Iran 'for the time being'",
+      "body": "Secretary of State Marco Rubio told allied foreign ministers this week that Washington has no current plans for new military strikes on Iran, favoring continued economic pressure and the naval posture around the Strait of Hormuz instead, though officials said the military option remains available if Iran strikes first. The pause in US-Israeli strikes inside Iran has now stretched roughly four weeks.",
+      "source": "Axios (via Washington Examiner)",
+      "url": "https://www.washingtonexaminer.com/policy/foreign-policy/4700382/rubio-refrain-us-strikes-for-the-time-being-iran-economic-secondary-sanctions/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Army seeks up to 8,000 new short-range missiles a year to rebuild depleted stocks",
+      "body": "The Army issued a solicitation for contractors to supply as many as 8,000 short-range missiles annually, with initial deliveries due within two years of contract award, as the service races to backfill munitions shortages exposed by the Iran war and ongoing howitzer-shell production delays.",
+      "source": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Claude in Chrome becomes generally available with autonomous browser actions",
+      "body": "Anthropic rolled out Claude in Chrome to every paid plan Wednesday, letting Claude click, type, and navigate web pages on a user's behalf without approving every step, backed by a safety classifier screening each action and new defenses against prompt-injection attacks. Separately, Anthropic and Salesforce announced 'Claudeforce,' bringing Claude into Salesforce's CRM for pilot customers ahead of a September open beta.",
+      "source": "Anthropic",
+      "url": "https://claude.com/blog/claude-in-chrome-generally-available"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears trim practice reps as cutdown day looms after Saturday's finale at Tennessee",
+      "body": "At a stripped-down Wednesday practice before departing for Nashville, Caleb Williams and Tyson Bagent each threw red-zone touchdowns and undrafted receiver Kaden Davis kept working reps with the No. 1 offense, as Chicago heads into Saturday's preseason finale against the Titans with the 53-man roster deadline set for Sunday at 5 p.m. CT.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/bears-training-camp-report-wednesday-aug-26"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "NASCAR suspends two Byron crew members over loose-wheel violation from New Hampshire",
+      "body": "NASCAR suspended William Byron's rear-tire changer Orane Ossowski and jackman Allen Holman for the next two points races, the Coke Zero Sugar 400 at Daytona and the Southern 500 at Darlington, after a detached-wheel infraction on the No. 24 Hendrick Motorsports car at New Hampshire; no points penalty was issued against the team.",
+      "source": "Speedway Media",
+      "url": "https://speedwaymedia.com/2026/08/26/william-byrons-no-24-team-penalized-for-detached-wheel-at-new-hampshire/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
