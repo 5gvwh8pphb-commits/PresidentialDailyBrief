@@ -1,28 +1,157 @@
 {
- "generated": "2026-08-26T23:50:11+00:00",
+ "generated": "2026-08-27T05:38:55+00:00",
  "count": 40,
- "withImage": 38,
- "bearsDay": true,
+ "withImage": 36,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
+  "FOX Sports",
   "Fox News",
-  "NWI Times",
+  "Motorsport.com",
   "TechCrunch",
   "The Times of India",
   "The War Zone",
   "USNI News",
   "VentureBeat AI",
-  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
+  {
+   "title": "Z.ai shares surge 8% after releasing new AI model running only on Chinese chips",
+   "url": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Chinese AI company said it had already launched the model globally in stealth mode for a week.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108354924-1787796711275-gettyimages-2289885733-Zhipu.jpeg?v=1787796988&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-08-27T05:34:13+00:00"
+  },
+  {
+   "title": "Tanker attack tests Trump’s claim that Hormuz is a 'functioning strait'",
+   "url": "https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "An oil tanker was struck by an unidentified projectile in the Strait of Hormuz, keeping alive risks deterring vessesl from the vital energy corridor.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108347818-1786451933710-gettyimages-2289907998-img_8466.jpeg?v=1787534634&amp;w=1920&amp;h=1080",
+   "age": "9m ago",
+   "published": "2026-08-27T05:29:52+00:00"
+  },
+  {
+   "title": "Qantas shares jump after earnings as airline unveils new business-class seats",
+   "url": "https://www.cnbc.com/2026/08/27/qantas-shares-jump-on-earnings-as-airline-updates-business-class-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Qantas shares jumped 4% after the airline reported full-year earnings and introduced new business-class seats amid strong demand for premium travel.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107408598-1714552950673-gettyimages-2029238434-img_2382_uyz7t221.jpeg?v=1772664614&amp;w=1920&amp;h=1080",
+   "age": "36m ago",
+   "published": "2026-08-27T05:02:44+00:00"
+  },
+  {
+   "title": "Europe’s gas stores are running low — and prices could top 100 euros this winter",
+   "url": "https://www.cnbc.com/2026/08/27/europe-gas-storage-prices-winter-lng.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Europe’s gas stores are historically low for this time of year, as disrupted Middle East LNG flows raise the risk of sharply higher prices this winter.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108354332-1787726157129-gettyimages-2273756597-koutsokostas-notitle260502_npGAC.jpeg?v=1787726173&amp;w=1920&amp;h=1080",
+   "age": "38m ago",
+   "published": "2026-08-27T05:00:01+00:00"
+  },
+  {
+   "title": "Lindsay Clancy didn't show 'break with reality' as jury weighs psychosis defense: Susan Smith prosecutor",
+   "url": "https://www.foxnews.com/us/lindsay-clancy-didnt-show-break-with-reality-jury-weighs-psychosis-defense-susan-smith-prosecutor",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The prosecutor who secured a conviction for Susan Smith says Lindsay Clancy s defense never proved a break with reality as jurors prepare to deliberate Thursday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/clancy-split-2.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-27T04:00:45+00:00"
+  },
+  {
+   "title": "Florida driver fleeing traffic stop slams head-on into school bus carrying 19 children before fleeing on foot",
+   "url": "https://www.foxnews.com/us/florida-driver-fleeing-traffic-stop-slams-head-on-school-bus-carrying-19-children-before-fleeing-foot",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Video captures Qahiem Williams allegedly fleeing a traffic stop and slamming head-on into a Florida school bus carrying 19 children before fleeing on foot.",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/school-bus-crash-fox-news-001.gif",
+   "age": "1h ago",
+   "published": "2026-08-27T03:56:44+00:00"
+  },
+  {
+   "title": "PGA Tour Champions golfer Matt Gogel suspended six months for betting on PGA Tour events",
+   "url": "https://www.foxnews.com/outkick-sports/pga-tour-champions-golfer-matt-gogel-suspended-six-months-betting-pga-tour-events",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Matt Gogel claimed he unknowingly placed small recreational golf betting wagers in 2024, resulting in a six-month PGA Tour Champions suspension.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/matt-gogel-boeing-classic-snoqualmie.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-08-27T03:35:27+00:00"
+  },
+  {
+   "title": "TCU football pulls credentials from local newspaper for reporting on locker room assault story",
+   "url": "https://www.foxnews.com/outkick-sports/tcu-football-pulls-credentials-local-newspaper-reporting-locker-room-assault-story",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "TCU athletics rescinded the Fort Worth Star-Telegram s media credentials days before the Horned Frogs face Bill Belichick s North Carolina team in Dublin.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/sonny-dykes-reacts-byu-cougars-provo.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-08-27T03:08:44+00:00"
+  },
+  {
+   "title": "Backlash over Good Good Golf ad goes too far as stores pull merchandise, PGA Tour event potentially canceled",
+   "url": "https://www.foxnews.com/outkick-sports/backlash-good-good-golf-ad-stores-pull-merchandise-pga-tour-event-potentially-canceled",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Good Good Golf faces massive fallout as Dick s Sporting Goods, Golf Galaxy and PGA Tour Superstore pull merchandise from shelves over a controversial ad.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/garrett-clark-tour-championship-creator-classic-fox-news_.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-08-27T02:32:30+00:00"
+  },
+  {
+   "title": "Claims Swirl Around CIA Director’s Reason For Secret Moscow Visit, Nearly All Of Them Are Terrifying",
+   "url": "https://www.twz.com/news-features/claims-swirl-around-cia-directors-reason-for-secret-moscow-visit-nearly-all-of-them-are-terrifying",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "John Ratcliffe's surprise trip to Moscow may have marked a darker phase in the NATO-Russia standoff. The post Claims Swirl Around CIA Director s Reason For Secret Moscow…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/Putin-Hammer.jpg?quality=85",
+   "age": "3h ago",
+   "published": "2026-08-27T02:04:22+00:00"
+  },
+  {
+   "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
+   "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108236586-1764858457761-gettyimages-2221463641-BENIOFF_CIRCUIT.jpeg?v=1764858496&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-08-27T01:01:00+00:00"
+  },
+  {
+   "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+   "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+   "age": "5h ago",
+   "published": "2026-08-27T00:24:57+00:00"
+  },
   {
    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
    "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
@@ -31,73 +160,18 @@
    "topic": "ai",
    "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-   "age": "2m ago",
+   "age": "5h ago",
    "published": "2026-08-26T23:47:18+00:00"
   },
   {
-   "title": "Internet reacts to Georgia schoolteacher's groundbreaking invention, the 'fart corner'",
-   "url": "https://www.foxnews.com/outkick-culture/internet-reacts-georgia-schoolteacher-groundbreaking-invention-fart-corner",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A Georgia second-grade teacher created a designated fart corner stocked with Febreze, but the classroom flatulence policy is dividing opinions.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kid-holding-nose.jpg?ve=1&tl=1",
-   "age": "4m ago",
-   "published": "2026-08-26T23:45:45+00:00"
-  },
-  {
-   "title": "Justice Thomas recalls why he wasn't friends with Alito in law school: 'Clarence, you were scary'",
-   "url": "https://www.foxnews.com/politics/justice-thomas-recalls-wasnt-friends-alito-law-school-clarence-scary",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Clarence Thomas recalls asking Samuel Alito why they weren t friends at Yale Law School, and Alito s blunt answer involved combat boots and bib overalls.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/brett-kavanaugh-clarence-thomas-samuel-alito-inauguration.jpg?ve=1&tl=1",
-   "age": "12m ago",
-   "published": "2026-08-26T23:37:42+00:00"
-  },
-  {
-   "title": "Trump's lawyers put Dem AG on notice for targeting his family in NY fraud fight: 'Cannot stand'",
-   "url": "https://www.foxnews.com/politics/trumps-lawyers-put-dem-ag-notice-targeting-his-family-ny-fraud-fight",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump filed an appeal against New York Attorney General Letita James, arguing the $450 million penalty is unconstitutional and the case lacked authority.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/02/931/523/gettyimages-2016269570.jpg?ve=1&tl=1",
-   "age": "16m ago",
-   "published": "2026-08-26T23:33:56+00:00"
-  },
-  {
-   "title": "Commanders offense called 'worst I've ever seen' in years vs. Ravens: Fact or fiction from joint practice",
-   "url": "https://www.cbssports.com/nfl/news/commanders-ravens-joint-practice-takeaways/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/26/58af356b-68f3-45a2-b127-905bde0114ba/jayden-daniels.jpg",
-   "age": "28m ago",
-   "published": "2026-08-26T23:21:16+00:00"
-  },
-  {
-   "title": "Republicans are dismissing affordability. That could be a problem in November",
-   "url": "https://www.cnbc.com/2026/08/26/election-republicans-dismissing-affordability.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "President Donald Trump quipped that affordability was \"devised\" by Democrats, while Vice President JD Vance said groceries \"cost what they cost.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108313533-1780007961125-gettyimages-2277989579-AFP_B4CP782.jpeg?v=1787784629&amp;w=1920&amp;h=1080",
-   "age": "32m ago",
-   "published": "2026-08-26T23:17:46+00:00"
-  },
-  {
-   "title": "Meta’s $18B child-safety deal hinges on age verification tech that doesn’t work well",
+   "title": "Meta’s $18B child-safety deal hinges on age-verification tech that doesn’t work well",
    "url": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
    "summary": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2267997264.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-08-26T22:47:58+00:00"
   },
   {
@@ -108,30 +182,8 @@
    "topic": "defense",
    "summary": "The Navy is aiming to have at least a limited operational arsenal of Blackbeard hypersonic missiles within the next two years. The post Blackbeard Low-Cost Hypersonic Mi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/blackbeard-missile-testing-super-hornet-us-navy.jpg?quality=85",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-08-26T22:42:15+00:00"
-  },
-  {
-   "title": "Salesforce stock jumps 12% on AI growth and Anthropic investment gain",
-   "url": "https://www.cnbc.com/2026/08/26/salesforce-crm-q2-earnings-report-2027.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Salesforce's Anthropic stake led to higher profit in the latest quarter.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108236586-1764858457761-gettyimages-2221463641-BENIOFF_CIRCUIT.jpeg?v=1764858496&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-26T22:39:49+00:00"
-  },
-  {
-   "title": "CrowdStrike jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave",
-   "url": "https://www.cnbc.com/2026/08/26/crowdstrike-crwd-earnings-q2-2027.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "CrowdStrike shares have surged 61% this year to new highs as the threat from frontier AI has fueled demand for advanced security tools.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108216195-17612465932025-10-23t184722z_216618365_rc2shhavt0i3_rtrmadp_0_crowdstrike-hldg-ceo.jpeg?v=1761246644&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-26T22:20:20+00:00"
   },
   {
    "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
@@ -141,30 +193,8 @@
    "topic": "ai",
    "summary": "A dashing pirate, a butler, a killer clown, an alien mad scientist in drag—the man had range.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/horrorTOP-1152x648-1754745307.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-08-26T22:13:15+00:00"
-  },
-  {
-   "title": "Anthony Richardson, Joey Porter Jr. among potential trade candidates with NFL cutdown day looming",
-   "url": "https://www.cbssports.com/nfl/news/anthony-richardson-joey-porter-jr-among-potential-trade-candidates-with-nfl-cutdown-day-looming/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/14/b2403222-731d-4965-a8ce-3d04ca20d977/anthony-richardson.jpg",
-   "age": "1h ago",
-   "published": "2026-08-26T22:06:04+00:00"
-  },
-  {
-   "title": "NFL eliminates Pro Bowl after 75 years, but players will still receive annual honor",
-   "url": "https://www.cbssports.com/nfl/news/nfl-eliminates-pro-bowl-all-star-game/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/26/5526db2f-b9ee-4a02-a74f-6d75507e54f9/pro-bowl.jpg",
-   "age": "2h ago",
-   "published": "2026-08-26T21:46:17+00:00"
   },
   {
    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
@@ -174,7 +204,7 @@
    "topic": "ai",
    "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-08-26T21:37:39+00:00"
   },
   {
@@ -185,7 +215,7 @@
    "topic": "defense",
    "summary": "NAVAL SUPPORT ACTIVITY HAMPTON ROADS, Va. — Families of sailors assigned to the Theodore Roosevelt Carrier Strike Group are already preparing for a deployment that will …",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9766831-scaled.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-08-26T21:36:38+00:00"
   },
   {
@@ -196,7 +226,7 @@
    "topic": "ai",
    "summary": "Report shows Meta's challenges replacing people with AI agents.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-08-26T21:25:27+00:00"
   },
   {
@@ -207,7 +237,7 @@
    "topic": "defense",
    "summary": "The Navy’s top admiral says the service is changing how it does pre-deployment stocking and resupply and looking at different places to make port calls.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YSC7NDAUEBHXDABAVEBMGEEGQU.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-08-26T21:08:19+00:00"
   },
   {
@@ -218,7 +248,7 @@
    "topic": "defense",
    "summary": "The newly released Ground Combat Element 2040 is the Marine Corps' vision for fighting increasingly complex land battles. The post How Marine Rifle Squads Plan To Fight …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Marine-combat-2040.jpg?quality=85",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-08-26T21:01:15+00:00"
   },
   {
@@ -229,7 +259,7 @@
    "topic": "ai",
    "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/twitter-1152x648-1787776300.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-08-26T20:49:04+00:00"
   },
   {
@@ -240,7 +270,7 @@
    "topic": "defense",
    "summary": "The agreements, worth up to $2.2 billion, mark a step forward in the Janus program, an initiative to introduce microreactors to power installations.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PDANYKVISJHPZNFCEMK4BDRF2Y.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-08-26T20:48:16+00:00"
   },
   {
@@ -251,8 +281,19 @@
    "topic": "defense",
    "summary": "Up to $2.2 billion could be divvied up among the handful of vendors.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9775744-scaled-e1787765370435-1024x577.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-08-26T20:00:00+00:00"
+  },
+  {
+   "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+   "url": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg",
+   "age": "9h ago",
+   "published": "2026-08-26T19:50:52+00:00"
   },
   {
    "title": "Hegseth stands by LaNeve nomination amid reported lawmaker hesitation",
@@ -262,7 +303,7 @@
    "topic": "defense",
    "summary": "The Pentagon is attempting to lock in LaNeve s nomination for the next Army Chief of Staff amid lawmaker concerns and the potential departure of the service s secretary.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9620068-scaled-e1787768503338-1024x577.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-08-26T19:12:00+00:00"
   },
   {
@@ -273,30 +314,8 @@
    "topic": "defense",
    "summary": "The U.S. Army wants to purchase up to 8,000 new short-range missiles per year.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3G3XMBKCRVGRTKV2ENBLOXMZ5Q.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-08-26T18:51:30+00:00"
-  },
-  {
-   "title": "Bears training camp diaries with Sam Roush, Neville Gallimore | Week 4",
-   "url": "https://www.chicagobears.com/news/bears-training-camp-diaries-with-sam-roush-neville-gallimore-week-4",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wnyw1q3y0apvccfwhltq.jpg",
-   "age": "5h ago",
-   "published": "2026-08-26T18:44:00+00:00"
-  },
-  {
-   "title": "Bears training camp report: Wednesday, Aug. 26",
-   "url": "https://www.chicagobears.com/news/bears-training-camp-report-wednesday-aug-26",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/t7bp7o7rqhnsocoqxbeg.jpg",
-   "age": "5h ago",
-   "published": "2026-08-26T18:39:00+00:00"
   },
   {
    "title": "Navy Flight Demonstration Team Stand Down Ends, Growler Team Still Grounded",
@@ -306,7 +325,7 @@
    "topic": "defense",
    "summary": "The Navy has allowed some of its tactical demonstration teams to resume participation in air shows, Naval Air Forces recently confirmed to USNI News. All TACDEMO teams –…",
    "image": "https://news.usni.org/wp-content/uploads/2026/05/9696474-scaled.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-08-26T18:35:25+00:00"
   },
   {
@@ -317,19 +336,8 @@
    "topic": "defense",
    "summary": "The contract covers over a decade of potential work for US and international F-15 fighter jets.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/6959449-e1663854745103.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-08-26T18:30:16+00:00"
-  },
-  {
-   "title": "How to watch, listen to, stream Bears-Titans Preseason Week 3 game",
-   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-tennessee-titans-2026-week-3-preseason-listen-stream-tv-radio-football-online-nfl",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/whpmdcjad1fnyc8h49zb.jpg",
-   "age": "5h ago",
-   "published": "2026-08-26T18:19:00+00:00"
   },
   {
    "title": "U.S., Allies Kick Off Drills at Strategic Norwegian Island",
@@ -339,7 +347,7 @@
    "topic": "defense",
    "summary": "U.S., Norwegian and U.K. forces deployed Wednesday to Jan Mayen, a strategic island in the Norwegian Sea for a NATO Arctic Sentry enhanced Vigilance Activity. The trilat…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9570373-scaled.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-08-26T17:38:57+00:00"
   },
   {
@@ -350,19 +358,52 @@
    "topic": "defense",
    "summary": "Bradleys deploying swarms of uncrewed ground vehicles would give the US Army a horde of new options for scouting and attacking. The post Bradley Fighting Vehicle Lugging…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/bradley-fireant-ugv-swarms-us-army-testing.jpg?quality=85",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-08-26T17:16:14+00:00"
   },
   {
-   "title": "Ben Johnson Says the Bears Are Writing a ‘New Chapter’ in 2026",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/121303/ben-johnson-chicago-bears-are-writing-a-new-chapter-in-2026",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2278932705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
-   "published": "2026-08-26T15:00:00+00:00"
+   "title": "Air Force awards $766 million for B-52 radar modernization",
+   "url": "https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "One contract worth up to $603 million was issued to RTX subsidiary Raytheon, while a second valued at roughly $163 million was issued to B-52 prime contractor Boeing.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/B-52-scaled-e1787763849747-1024x577.jpg",
+   "age": "12h ago",
+   "published": "2026-08-26T17:06:02+00:00"
+  },
+  {
+   "title": "Italy to request EU defense loan after all, but scales back amount",
+   "url": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Italy has requested €8 billion euros ($9.3 billion) in cheap loans from the European Union’s SAFE program following earlier doubts about the move.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3MHMZCPPUFF4RBXP7AITWXNQJE.jpg",
+   "age": "12h ago",
+   "published": "2026-08-26T16:59:30+00:00"
+  },
+  {
+   "title": "4 Dead in SOUTHCOM Strike on Go-fast Vessel",
+   "url": "https://news.usni.org/2026/08/26/4-dead-in-southcom-strike-on-go-fast-vessel",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Forces with Joint Task Force Western Hemisphere struck a go-fast vessel suspected of drug trafficking on Tuesday, according to U.S. Southern Command. The strike – the se…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-10.43.50-AM-scaled.png",
+   "age": "13h ago",
+   "published": "2026-08-26T16:35:46+00:00"
+  },
+  {
+   "title": "J-10 Deal With Bangladesh Takes Shape As China’s Fighter Export Push Grows",
+   "url": "https://www.twz.com/air/j-10-deal-with-bangladesh-takes-shape-as-chinas-fighter-export-push-grows",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Bangladesh could be in line to order the export version of the J-10, while mounting evidence points to another potential customer. The post J-10 Deal With Bangladesh Tak…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/J-10CE-export.jpg?quality=85",
+   "age": "13h ago",
+   "published": "2026-08-26T16:15:31+00:00"
   },
   {
    "title": "William Byron’s Team Hit With NASCAR Suspensions Ahead of Daytona",
@@ -372,7 +413,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-08-26T14:50:39+00:00"
   },
   {
@@ -383,7 +424,7 @@
    "topic": "ai",
    "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture…",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-08-26T14:30:00+00:00"
   },
   {
@@ -394,74 +435,30 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-08-26T13:45:00+00:00"
   },
   {
-   "title": "The Chicago Bears’ left tackle battle may have gotten a little weirder",
-   "url": "https://www.windycitygridiron.com/chicago-bears-roster/121296/chicago-bears-left-tackle-battle-may-have-gotten-a-little-weirder-braxton-jones-ozzy",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
+   "title": "William Byron crew members suspended as Hendrick names replacements",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkNyTnNULWJxWWR5dXZkZGxBUU9KOTE1YVVFNEJlVU1SdFRvcmhORmZMclIydmMxQ3YwRERPOGFRMk9YWDJTeHdVQzQwWnFlakFjM21sTDE4Z0lBYXBDVnlxWDdzUGZ3aGFCYTR3c3VOV0U0MDdweGVvQ1NGWXNTb2NfdFhueEtLVDhRUVY2NDdTZzdBeHRUWlJsNFV0NjZ5R3ZvZGhKcGRwUFdPdGp0VjVCWVBXc0lvcGc?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/01/gettyimages-2242049379.jpg?quality=90&#038;strip=all&#038;crop=0,0,52.000003173828,100",
-   "age": "10h ago",
-   "published": "2026-08-26T13:35:35+00:00"
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-08-25T22:03:29+00:00"
   },
   {
-   "title": "Two weeks in the dark: What the Northwest Indiana power crisis exposed",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c967e08e-34d2-4c3a-89d4-987fe1723c4a.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Two weeks without power have pushed some Region residents to the edge — and exposed troubling blind spots in how we prepare for the next disaster when, not if, it hits.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/f5/7f53ffbc-b006-4851-9000-2210f9d00e73/6a81fe4445a0d.image.jpg?resize=300%2C225",
-   "age": "11h ago",
-   "published": "2026-08-26T12:15:00+00:00"
-  },
-  {
-   "title": "Chicago Bears News: Bears wrap up training camp with hard practice",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/121278/chicago-bears-news-bears-wrap-up-training-camp-with-hard-practice",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
+   "title": "2026 NASCAR Odds: William Byron Favored For Regular-Season Finale At Daytona",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMnRqU3pNQk1zaVduUks4MFdxQ2l1SzFRMGt4SEZmWTZGRDNWVHk2N3R0Wnc2cHkwVldyQ0trbVp2VlQtQ051MEZ3Y3VBRXotTV9hTXpBby1WS2E4MHRoZ0Jqb1VTcE1VaXdaQjBUZkoyaUJJSElhSlBWSEJ1cU5jV0ZLUXRXbXVNQUYzcnd30gGOAUFVX3lxTE02Z2JiSTllbWpZNkdRbm9jbi1YZGxNMzFDSnp1Z3cwUndEYWFyVFZFVnJfdkh4dW1kdFVsWEplZVNjLU83TklZc3JGWUljcVFKd2xQUWRDSE91SWNvaWN6eG10YUFOcHNMM3ZlQ1E2eEtISUdOTTNveXNIMzlTRHFGSnhUckZPZkZpZUlLcmc?oc=5",
+   "source": "FOX Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2290101594.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "13h ago",
-   "published": "2026-08-26T10:00:00+00:00"
-  },
-  {
-   "title": "Bears camp notebook: A grueling practice — and maybe a key injury — as Bears close out camp",
-   "url": "https://allchgo.com/bears/bears-notebook-grueling-practice-key-injury-close-camp/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/25184740/2026-07-31T162351Z_1475696728_MT1USATODAY29487317_RTRMADP_3_NFL-CHICAGO-BEARS-TRAINING-CAMP-1-1024x576.jpg",
-   "age": "23h ago",
-   "published": "2026-08-25T23:50:48+00:00"
-  },
-  {
-   "title": "Bears 53-man roster projection: New clarity at left tackle, searching for depth in the defensive backfield",
-   "url": "https://allchgo.com/bears/bears-53-roster-projection-left-tackle-depth-safety/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/23231910/2026-08-23T024114Z_700120750_MT1USATODAY29647212_RTRMADP_3_NFL-CHICAGO-BEARS-AT-CINCINNATI-BENGALS-1-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-08-24T11:00:00+00:00"
-  },
-  {
-   "title": "Northwest Indiana teachers brace for impact of back-to-school 'reentry'",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9fa3895c-8670-47d3-8eea-a07b5a9b4bae.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Teachers don’t just return to school—they reenter a pressure cooker. And this year, some are doing it while still dealing with the aftermath of a devastating storm and p…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/0c/60cd1328-beff-4e55-94d9-f84168f317c3/6a8908ae2e5e4.image.jpg?resize=300%2C200",
-   "age": "3d ago",
-   "published": "2026-08-23T12:15:00+00:00"
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-08-25T21:19:24+00:00"
   }
  ]
 }
