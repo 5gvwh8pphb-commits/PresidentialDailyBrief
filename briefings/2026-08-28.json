@@ -3,46 +3,46 @@
   "dateLabel": "Friday, August 28, 2026",
   "slot": "by 6 AM CT",
   "window": "past 24h",
-  "generated": "2026-08-28T11:32:31Z",
+  "generated": "2026-08-28T20:28:04Z",
   "beats": [
     {
       "n": 1,
       "beat": "Market recap",
       "group": "markets",
-      "age": "~16h ago",
+      "age": "~30m ago",
       "empty": false,
       "kicker": "Prior-day market scorecard",
-      "subline": "Thursday, August 27, 2026 close — a broad tech-led rally after Nvidia and Salesforce topped earnings forecasts.",
+      "subline": "Friday, August 28, 2026 close — stocks slipped as Fed Chair Kevin Warsh's Jackson Hole remarks tempered inflation optimism, though major indexes still closed out a positive week.",
       "indices": [
-        { "name": "S&P 500", "close": "7,730.99", "change": "+55.29", "changePct": "+0.7%", "sixMo": "+12%" },
-        { "name": "Dow",     "close": "53,569.44", "change": "+105.56", "changePct": "+0.2%", "sixMo": "+9.4%" },
-        { "name": "Nasdaq",  "close": "26,541.35", "change": "+411.16", "changePct": "+1.6%", "sixMo": "+17%" }
+        { "name": "S&P 500", "close": "7,711.76", "change": "-19.23", "changePct": "-0.25%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,559.99", "change": "-9.45", "changePct": "-0.02%", "sixMo": "+9.4%" },
+        { "name": "Nasdaq",  "close": "26,402.42", "change": "-138.93", "changePct": "-0.52%", "sixMo": "+16%" }
       ],
-      "body": "Chipmakers and other tech names led broad gains after Nvidia surged almost 9% on a stronger-than-expected revenue outlook, adding roughly $442 billion in market value in a single day, while Salesforce and other companies also beat profit estimates for the spring quarter.",
-      "source": "AP",
-      "url": "https://www.theepochtimes.com/bright/how-major-us-stock-indexes-fared-aug-27-post-6080511"
+      "body": "Chip stocks led the pullback after new Fed Chair Kevin Warsh used his first Jackson Hole address to say this summer's cooler inflation readings don't yet show underlying improvement, tempering rate-cut bets; Nvidia and Intel weighed on the Nasdaq, but all three indexes still finished the week higher.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html"
     },
     {
       "n": 2,
       "beat": "US-related international",
       "group": "security",
-      "age": "~18h ago",
+      "age": "~10h ago",
       "empty": false,
-      "headline": "UN envoy warns Gaza's Trump-brokered ceasefire plan is stalling amid Israeli strikes",
-      "body": "Nikolay Mladenov, the Board of Peace official leading President Trump's 20-point Gaza ceasefire plan, told the UN Security Council that continued Israeli strikes on the territory are undermining progress and warned the alternative to the US-brokered plan is another war, even as he said the effort has moved from negotiations into implementation.",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire"
+      "headline": "UK warns Israel against removing it from Gaza ceasefire coordination center",
+      "body": "The British government said any move by Israel to expel UK and other European officials from the US-backed Civil-Military Coordination Center in Gaza would 'undermine shared efforts,' after the Financial Times reported Israel was considering the expulsions; the warning comes as Trump's Gaza peace envoy Nikolay Mladenov continues to caution the ceasefire process risks a 'point of no return.'",
+      "source": "AP (via The Washington Post)",
+      "url": "https://www.washingtonpost.com/business/2026/08/28/middle-east-iran-israel-august-28-2026/b22c7fe2-a2ce-11f1-8606-1d40ad00172e_story.html"
     },
     {
       "n": 3,
       "beat": "China watch",
       "group": "security",
-      "age": "~20h ago",
-      "empty": false,
-      "headline": "Chinese warships shadow US-Philippine-Australian naval drill near contested Sabina Shoal",
-      "body": "Chinese destroyers, frigates, missile boats and coast guard vessels tracked a five-day US-Philippine-Australian maritime exercise in the West Philippine Sea, with a Chinese warship radioing a Philippine frigate near Sabina Shoal to assert Chinese sovereignty before the drill proceeded as planned without physical interference.",
-      "source": "Manila Times",
-      "url": "https://www.manilatimes.net/2026/08/27/news/national/chinese-warships-shadow-ph-us-australian-vessels-during-drills/2412797"
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, independently verifiable China or Taiwan development from a reputable outlet surfaced within the 72-hour window beyond items already reported in prior briefs (the Sabina Shoal shadowing incident and Philippine defense-budget request).",
+      "source": null,
+      "url": null
     },
     {
       "n": 4,
@@ -50,32 +50,32 @@
       "group": "security",
       "age": "~1 day ago",
       "empty": false,
-      "headline": "USS George Washington relieves the Lincoln in the Middle East after its 250-day, strain-plagued deployment",
-      "body": "The carrier USS George Washington arrived in the Middle East to relieve USS Abraham Lincoln, whose crew endured more than 250 continuous days at sea plus reported supply shortages and mental-health strain; the Navy is also sending USS Theodore Roosevelt from San Diego for a seven-plus-month deployment, and Washington's shift out of Asia leaves that theater without a carrier strike group.",
-      "source": "Military.com",
-      "url": "https://www.military.com/us-aircraft-carrier-arrives-in-middle-east-relieving-long-deployed-uss-lincoln"
+      "headline": "Pentagon to pull bulk of ~200 troops from Nigeria as anti-ISIS mission winds down",
+      "body": "The Pentagon plans to withdraw most of the roughly 200 troops sent to northeastern Nigeria this year to fight Islamic State-linked militants, the New York Times reported, with officials crediting the deployment for counterterrorism gains including a May raid that killed senior ISIS figure Abu Bilal al-Minuki; a small team of trainers and intelligence analysts will stay behind.",
+      "source": "New York Times (via Daily Trust)",
+      "url": "https://dailytrust.com/us-to-withdraw-troops-from-nigeria-after-counterterrorism-mission/"
     },
     {
       "n": 5,
       "beat": "Military technology",
       "group": "security",
-      "age": "~2 days ago",
+      "age": "~1 day ago",
       "empty": false,
-      "headline": "Army picks five firms to build $2.2 billion nuclear microreactor prototypes on bases",
-      "body": "The Army's Janus Program awarded up to $2.2 billion in Other Transaction Authority agreements to five nuclear-energy vendors to design, build and operate microreactor prototypes at five initial installations, aiming to get a reactor running on a base by September 2028 so critical missions can continue if the commercial grid fails.",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/"
+      "headline": "Raytheon completes $50 million expansion of Mississippi radar and jammer plant",
+      "body": "RTX's Raytheon finished a 17,000-square-foot, $50 million expansion of its Forest, Mississippi facility that will produce Next Generation Jammer Mid-Band pods for the Navy and Australia along with other airborne radar systems, adding roughly 100 high-skill jobs by 2028.",
+      "source": "RTX",
+      "url": "https://www.rtx.com/news/news-center/2026/08/27/rtxs-raytheon-completes-50-million-expansion-of-mississippi-manufacturing-facil"
     },
     {
       "n": 6,
       "beat": "AI news",
       "group": "ai",
-      "age": "~18h ago",
+      "age": "~6h ago",
       "empty": false,
-      "headline": "Anthropic previews a Model Hardware Standard to let Claude run lab and factory equipment",
-      "body": "Anthropic launched a research preview of its Model Hardware Standard, a model-agnostic spec letting Claude and other AI assistants discover and safely operate physical hardware like lab instruments and robots; in an early test a Genentech scientist had Claude autonomously run an experiment from a PDF protocol, and Anthropic plans to open-source the framework after the preview.",
-      "source": "Anthropic",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+      "headline": "Federal judge strikes down Pentagon's blacklisting of Anthropic as unlawful retaliation",
+      "body": "U.S. District Judge Rita Lin ruled the Defense Department violated Anthropic's First Amendment rights by branding it a supply-chain risk after the company refused to let Claude be used for mass surveillance or fully autonomous weapons, writing that 'the empty invocation of national security is not a blank check to punish and retaliate against government critics'; the administration is expected to appeal. Separately, Anthropic joined OpenAI, Google, Microsoft and 100-plus other firms in an open letter warning that AI-enabled cyberattacks will grow far more common in the coming months.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist"
     },
     {
       "n": 7,
@@ -95,7 +95,7 @@
       "age": "n/a",
       "empty": true,
       "headline": "No fresh news on this beat right now",
-      "body": "Coverage this week centers on Saturday's Daytona regular-season finale and last weekend's crew suspensions, both already reported in prior briefs; no new Byron-specific development surfaced within the 72-hour window.",
+      "body": "This week's coverage centers on Saturday's Daytona regular-season finale, but no independently verifiable, non-duplicate Byron-specific development could be confirmed within the 72-hour window beyond this week's crew suspensions and Daytona odds, both already reported in prior briefs.",
       "source": null,
       "url": null
     },
