@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-28T11:32:59+00:00",
+ "generated": "2026-08-28T13:30:38+00:00",
  "count": 40,
  "withImage": 38,
  "bearsDay": true,
@@ -14,7 +14,6 @@
   "Defense News",
   "Fox News",
   "Hendrick Motorsports",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -24,26 +23,92 @@
  ],
  "items": [
   {
-   "title": "Kirk Cousins dominates Raiders preseason quarterback play but coach Klint Kubiak still won't name the starter",
-   "url": "https://www.foxnews.com/outkick-sports/kirk-cousins-dominates-raiders-preseason-quarterback-play-coach-klint-kubiak-still-wont-name-starter",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kirk Cousins posted a 110.2 passer rating this preseason, yet coach Klint Kubiak still refuses to name the Las Vegas Raiders starting quarterback.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kirk-cousins-raiders-49ers-preseason-warmup.jpg?ve=1&tl=1",
-   "age": "9m ago",
-   "published": "2026-08-28T11:23:34+00:00"
+   "title": "Predicting first-time NFL All-Pros at every offensive position: Caleb Williams, Jahmyr Gibbs among young stars",
+   "url": "https://www.cbssports.com/nfl/news/nfl-all-pro-predictions-offense-caleb-williams-jahmyr-gibbs/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/28/9cc2230d-4d4f-4e7b-880f-2256da5aa31e/caleb-williams.jpg",
+   "age": "2m ago",
+   "published": "2026-08-28T13:27:44+00:00"
   },
   {
-   "title": "Uber Eats drone delivery could soon reach your home",
-   "url": "https://www.foxnews.com/tech/uber-eats-drone-delivery-reach-home",
+   "title": "a16z creates a $1.1B ‘Machine Age’ fund to ‘accelerate the physical buildout of AI’",
+   "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The firm, known for its focus on software, is going to start throwing more money at the hardware behind AI.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/andreessen-horowitz-office.jpg?resize=1200,800",
+   "age": "5m ago",
+   "published": "2026-08-28T13:24:43+00:00"
+  },
+  {
+   "title": "Taylen Green has our attention after NFL preseason debut: Rookie makes Browns' QB room even more complicated",
+   "url": "https://www.cbssports.com/nfl/news/taylen-green-makes-nfl-preseason-debut/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/28/87230345-0257-48f9-87f2-fd6057972381/taylen-green-browns.jpg",
+   "age": "10m ago",
+   "published": "2026-08-28T13:19:56+00:00"
+  },
+  {
+   "title": "Soros-backed DA accused of going easy on illegal immigrants gets squeezed by House GOP",
+   "url": "https://www.foxnews.com/politics/soros-backed-da-accused-going-easy-illegal-immigrants-gets-squeezed-house-gop",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Uber Eats drone delivery launches later this year through a Zipline partnership, starting in Dallas and Houston with a goal of one million daily flights.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/uber-eats-drone-delivery.jpg?ve=1&tl=1",
-   "age": "17m ago",
-   "published": "2026-08-28T11:15:55+00:00"
+   "summary": "Chairman Jim Jordan warns subpoenas are on the table for sanctuary jurisdiction prosecutors his committee accuses of going easy on illegal immigrants.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Descano-and-Kincaid-in-Congress-1.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-08-28T13:12:34+00:00"
+  },
+  {
+   "title": "House Dem Debbie Dingell places Trump's Lake Ontario name change in the crosshairs",
+   "url": "https://www.foxnews.com/politics/house-dem-debbie-dingell-places-trumps-lake-ontario-name-change-crosshairs",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Democratic Rep. Debbie Dingell plans to field proposal to nullify President Donald Trump s order on renaming Lake Ontario to Lake America.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dc02bd56-debbie-dingell-august-2026.jpg?ve=1&tl=1",
+   "age": "19m ago",
+   "published": "2026-08-28T13:11:36+00:00"
+  },
+  {
+   "title": "STEPHEN MOORE: Data centers aren’t just buildings. They are economic engines",
+   "url": "https://www.foxnews.com/opinion/stephen-moore-data-centers-arent-just-buildings-economic-engines",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Google has invested over $20 billion in Council Bluffs, Iowa, transforming the transcontinental railroad s Mile Zero into a data center crossroads.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/data-center-tour.png?ve=1&tl=1",
+   "age": "30m ago",
+   "published": "2026-08-28T13:00:32+00:00"
+  },
+  {
+   "title": "Anthropic gets its first court win over the Pentagon’s supply chain risk label",
+   "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply chain risk, handing the AI company a victory as its second Pentagon lawsuit continues…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+   "age": "44m ago",
+   "published": "2026-08-28T12:46:12+00:00"
+  },
+  {
+   "title": "College football Week 0 picks; NFL roster cutdown day looming; MLB call-up candidates",
+   "url": "https://www.cbssports.com/college-football/news/college-football-week-0-picks-nfl-roster-cutdown-mlb-candidates/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/28/0bdc09c3-4145-48df-8a91-2f22f405386e/gettyimages-2247401372-1.jpg",
+   "age": "44m ago",
+   "published": "2026-08-28T12:45:42+00:00"
   },
   {
    "title": "Iran calls for global pushback against U.S. sanctions, says diplomacy 'isn't impossible'",
@@ -52,20 +117,42 @@
    "group": "CNBC",
    "topic": "markets",
    "summary": "Iran said the conflict in the Gaza Strip has to end, Israel has to withdraw from Lebanon and also halt its attacks on Syria.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108355655-1787912744442-gettyimages-2289641696-IRAN-TEHRAN-FM-HEALTH_NEEDS.jpeg?v=1787912779&amp;w=1920&amp;h=1080",
-   "age": "17m ago",
-   "published": "2026-08-28T11:15:01+00:00"
+   "image": "https://image.cnbcfm.com/api/v1/image/108355655-1787917072063-108355655-1787912744442-gettyimages-2289641696-IRAN-TEHRAN-FM-HEALTH_NEEDS.jpg?v=1787917086&amp;w=1920&amp;h=1080",
+   "age": "51m ago",
+   "published": "2026-08-28T12:39:02+00:00"
   },
   {
-   "title": "Trump clears Supreme Court hurdle on mail ballots as states vow another fight and more top headlines",
-   "url": "https://www.foxnews.com/us/trump-clears-supreme-court-hurdle-mail-ballots-states-vow-another-fight-more-top-headlines",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/mail-in-voting-trump.png?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-08-28T11:10:31+00:00"
+   "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+   "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+   "age": "1h ago",
+   "published": "2026-08-28T12:21:06+00:00"
+  },
+  {
+   "title": "Devan Kaney: Bears fans passion was obvious from the start",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/121373/devan-kaney-chicago-bears-fans-passion-was-obvious-from-the-start-fox-32",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2192544922.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1h ago",
+   "published": "2026-08-28T12:00:00+00:00"
+  },
+  {
+   "title": "Russia is running out of cash due to its war in Ukraine: report",
+   "url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Russia’s war spending pushed the state to the brink of running out of cash this spring, according to a Bloomberg report, as Russian leaders double down.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/I6EOQ5CARBCIDOAPLLNSRU5GKQ.jpg",
+   "age": "1h ago",
+   "published": "2026-08-28T11:44:36+00:00"
   },
   {
    "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
@@ -74,31 +161,42 @@
    "group": "CNBC",
    "topic": "markets",
    "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108341945-1785350915776-gettyimages-2288187032-wmr56545_c1g9vmm9.jpeg?v=1787863248&amp;w=1920&amp;h=1080",
-   "age": "23m ago",
-   "published": "2026-08-28T11:09:49+00:00"
+   "image": "https://image.cnbcfm.com/api/v1/image/108355691-1787917135099-gettyimages-2291777347-FED_SYMPOSIUM.jpeg?v=1787917159&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-28T11:39:47+00:00"
   },
   {
-   "title": "Imax says it's open to a sale. Why is no one buying?",
-   "url": "https://www.cnbc.com/2026/08/28/imax-sale-potential-buyers.html",
+   "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
+   "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-08-28T11:15:05+00:00"
+  },
+  {
+   "title": "Rocket Report: Europe splashes some cash on launch startups; Pallas-1 nears debut",
+   "url": "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"From here on, Starlink missions out of Florida will fly on Starship.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/European_Launcher_Challenge_launch_service_providers_initial_capacity_pillars-1152x648.png",
+   "age": "2h ago",
+   "published": "2026-08-28T11:00:39+00:00"
+  },
+  {
+   "title": "Labor Department to propose expansion of association health plans, which could lower insurance costs for some workers",
+   "url": "https://www.cnbc.com/2026/08/28/trump-labor-department-proposal-association-health-insurance-plans.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Imax's stock and box office are breaking records, but studio conflicts and a soaring valuation complicate the list of who could bid for the company.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108311213-1779460294885-gettyimages-2201585805-vcg111550423487.jpeg?v=1787869213&amp;w=1920&amp;h=1080",
-   "age": "32m ago",
+   "summary": "The agency has submitted a rule proposal to the White House that could allow more workers to get health insurance through association health plans.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108205212-1759168332622-gettyimages-2175934641-US-WASHINGTON_DC-SEPTEMBER-UNEMPLOYMENT_RATE.jpeg?v=1787870041&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
    "published": "2026-08-28T11:00:01+00:00"
-  },
-  {
-   "title": "CFL odds, picks, predictions: Toronto vs. Saskatchewan featured in expert's best bets for Week 13",
-   "url": "https://www.cbssports.com/betting/news/cfl-odds-picks-predictions-toronto-vs-saskatchewan-featured-in-experts-best-bets-for-week-13/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/07/01/96b9b7a3-a3e0-4ef6-b61f-3283ad01ba50/chadkellyargos.jpg",
-   "age": "1h ago",
-   "published": "2026-08-28T10:00:59+00:00"
   },
   {
    "title": "Chicago Bears News: Practice against Tennessee Titans is in the books",
@@ -108,7 +206,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2291537377.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-28T10:00:00+00:00"
   },
   {
@@ -119,52 +217,8 @@
    "topic": "defense",
    "summary": "In hilly southern Lebanon, local forces are keen to maintain control over areas from which Israeli troops have withdrawn.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/R36W6CLDAFAWLONP3URIFGWXOA.JPG",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-08-28T09:50:51+00:00"
-  },
-  {
-   "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
-   "url": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Any-team.jpg?resize=1200,948",
-   "age": "1h ago",
-   "published": "2026-08-28T09:33:00+00:00"
-  },
-  {
-   "title": "Taylen Green makes NFL preseason debut: Former Arkansas standout has electric scramble, leads touchdown drive",
-   "url": "https://www.cbssports.com/nfl/news/taylen-green-makes-nfl-preseason-debut/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/28/87230345-0257-48f9-87f2-fd6057972381/taylen-green-browns.jpg",
-   "age": "8h ago",
-   "published": "2026-08-28T03:01:32+00:00"
-  },
-  {
-   "title": "Christian Gonzalez landing spots: Cowboys, Giants among trade candidates as Patriots CB seeks record contract",
-   "url": "https://www.cbssports.com/nfl/news/christian-gonzalez-landing-spots-cowboys-giants/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/28/8fcde86c-8b41-49d2-81c8-f1578cbb3f91/gettyimages-2246635201-1.jpg",
-   "age": "9h ago",
-   "published": "2026-08-28T02:16:16+00:00"
-  },
-  {
-   "title": "AI, athletes, and Keith Rabois: StrictlyVC is back in New York on September 10",
-   "url": "https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "A boutique StrictlyVC evening returns to New York's West Village on September 10 with Keith Rabois, Craig Shapiro, Jason Levien, Tristan Walker, Brynn Putnam, and Deven …",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Keith-Rabois.jpg?w=1024",
-   "age": "9h ago",
-   "published": "2026-08-28T02:02:44+00:00"
   },
   {
    "title": "NASA’s Hunt To Replace Its Iconic T-38 Talon Jets Kicks Off",
@@ -174,7 +228,7 @@
    "topic": "defense",
    "summary": "NASA T-38s have helped train astronauts for decades, but they are aging and the USAF's impending retirement of its Talon fleet will create new challenges. The post NASA …",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/nasa-t-38-successor-plans.jpg?quality=85",
-   "age": "10h ago",
+   "age": "12h ago",
    "published": "2026-08-28T00:43:01+00:00"
   },
   {
@@ -185,19 +239,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2287510634.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "11h ago",
+   "age": "13h ago",
    "published": "2026-08-28T00:00:00+00:00"
-  },
-  {
-   "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
-   "age": "12h ago",
-   "published": "2026-08-27T23:16:45+00:00"
   },
   {
    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
@@ -207,7 +250,7 @@
    "topic": "ai",
    "summary": "Standardized driver interface aims to let devices talk to AI and each other.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
-   "age": "13h ago",
+   "age": "15h ago",
    "published": "2026-08-27T22:15:43+00:00"
   },
   {
@@ -218,7 +261,7 @@
    "topic": "defense",
    "summary": "Russia's longer-range Iskanders will make it harder for Ukraine to successfully hunt and destroy them as part of a new campaign. The post Russia Is Now Using Longer-Rang…",
    "image": "https://www.twz.com/wp-content/uploads/2024/02/29/russia-tactical-nuclear-strike-threshold.jpg?quality=85",
-   "age": "13h ago",
+   "age": "15h ago",
    "published": "2026-08-27T21:52:57+00:00"
   },
   {
@@ -229,7 +272,7 @@
    "topic": "defense",
    "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installatio…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9893339.jpg",
-   "age": "13h ago",
+   "age": "15h ago",
    "published": "2026-08-27T21:46:58+00:00"
   },
   {
@@ -240,7 +283,7 @@
    "topic": "defense",
    "summary": "The Pentagon awarded a contract to X-Bow Systems in its race to develop a new anti-ballistic weapon for less than $750,000 per shot.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YRULYXIAL5CRDBWZQZFUJNGJFY.jpg",
-   "age": "14h ago",
+   "age": "16h ago",
    "published": "2026-08-27T20:58:09+00:00"
   },
   {
@@ -251,30 +294,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ytcqrtusiyilg7r3d2fm.jpg",
-   "age": "14h ago",
+   "age": "16h ago",
    "published": "2026-08-27T20:56:46+00:00"
-  },
-  {
-   "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-   "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "xAI accused of training Grok on real and AI-generated child pornography.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2280412936-1024x648.jpg",
-   "age": "14h ago",
-   "published": "2026-08-27T20:52:31+00:00"
-  },
-  {
-   "title": "GOP heads to Supreme Court after losing case over TV election ad prices",
-   "url": "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "GOP campaign committees want quick ruling before election ads ramp up next week.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/gop-logo-1152x648-1787858821.jpg",
-   "age": "15h ago",
-   "published": "2026-08-27T20:06:10+00:00"
   },
   {
    "title": "Navy Receives its Final Expeditionary Sea Base",
@@ -284,19 +305,8 @@
    "topic": "defense",
    "summary": "The U.S. Navy received its final Lewis B. Puller-class Expeditionary Sea Base this week as Military Sealift Command prepares for the return of three sidelined ships. Gen…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/646765557_1553906026735300_4785548589680734951_n.jpg",
-   "age": "15h ago",
+   "age": "17h ago",
    "published": "2026-08-27T20:02:59+00:00"
-  },
-  {
-   "title": "15,000 operational days lost due to US submarine maintenance delays, GAO finds",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Maintenance delays for U.S. submarines have \"resulted in an estimated $3.4 billion in costs to sustain\" crews and boats that were not operational.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PBWR2AEEDZEKRE3BRQEX32YUGE.jpg",
-   "age": "15h ago",
-   "published": "2026-08-27T19:46:27+00:00"
   },
   {
    "title": "How the Army benefits from diverse interceptors, plus a window into modernization",
@@ -306,7 +316,7 @@
    "topic": "defense",
    "summary": "The chief of the Army s Space and Missile Defense Command shares more from our recent interview in Huntsville, Ala.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/PB14-pb2-1024x576.png",
-   "age": "17h ago",
+   "age": "19h ago",
    "published": "2026-08-27T18:26:47+00:00"
   },
   {
@@ -317,7 +327,7 @@
    "topic": "defense",
    "summary": "While the report said the Navy had made progress cutting delays for operational subs, the problem would get worse — and costlier — for those destined for decommissioning.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260827_DVIDS_pasadena_sub_7895251-e1787844321580-1024x578.jpg",
-   "age": "17h ago",
+   "age": "19h ago",
    "published": "2026-08-27T18:17:04+00:00"
   },
   {
@@ -328,19 +338,19 @@
    "topic": "defense",
    "summary": "Meteor set the benchmark for Europe’s beyond-visual-range air combat, but the game is changing fast. The post What Europe Needs Next In Beyond-Visual-Range Air-To-Air Mi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Next-Gen-Air-To-Air-Missile-Europe.jpg?quality=85",
-   "age": "17h ago",
+   "age": "19h ago",
    "published": "2026-08-27T18:04:10+00:00"
   },
   {
-   "title": "Chicago Bears Injury Updates: Austin Booker is week-to-week",
-   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/121365/chicago-bears-injury-updates-austin-booker-is-week-to-week-marcus-davenport",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2256075922.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "18h ago",
-   "published": "2026-08-27T17:15:00+00:00"
+   "title": "Air Force seeks more portable C2, comms approach after studying Epic Fury",
+   "url": "https://breakingdefense.com/2026/08/air-force-seeks-more-portable-c2-comms-approach-after-studying-epic-fury/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“We have to be more agile and mobile and we need a case that is carriable by one person and can be run by one or two people, Brig. Gen. Jeffrey Phillips told Breaking De…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/Booz-1-e1787770174539-1024x577.jpg",
+   "age": "21h ago",
+   "published": "2026-08-27T16:00:00+00:00"
   },
   {
    "title": "U.S. Marine Corps Rehearses Deploying Air Defense Radar to the Philippines",
@@ -350,7 +360,7 @@
    "topic": "defense",
    "summary": "MANILA, PHILIPPINES – The U.S. Marine Corps is forward deploying an expeditionary air defense radar to the Southeast Asian archipelago in support of Manila’s defense mod…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9874332-1-scaled.jpg",
-   "age": "20h ago",
+   "age": "22h ago",
    "published": "2026-08-27T15:05:37+00:00"
   },
   {
@@ -361,19 +371,8 @@
    "topic": "ai",
    "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t …",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5ScHW6mZ2rQr3EvsxrwooK/43df8725b6e12cd4bcf550bb7b3b1cb4/Gravitee_hero.jpg?w=300&q=30",
-   "age": "21h ago",
-   "published": "2026-08-27T14:01:00+00:00"
-  },
-  {
-   "title": "Storm exposed Northwest Indiana's blind spots. Now what? 'Building trust,' expert says",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_6afc69b2-dd12-4513-a85c-7c63ee1d1cc8.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "We learned a painful lesson from the historic storm: Yesterday’s disaster plans may not work for tomorrow’s weather. Now comes the hard part—building a more resilient Re…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/d0/3d0431e2-48a0-4b98-80ce-a08e7288729c/6a838040df48f.image.jpg?resize=300%2C200",
    "age": "23h ago",
-   "published": "2026-08-27T12:15:00+00:00"
+   "published": "2026-08-27T14:01:00+00:00"
   },
   {
    "title": "When agents act on their own, governance has to live in the data layer",
@@ -383,7 +382,7 @@
    "topic": "ai",
    "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question …",
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-08-27T12:01:00+00:00"
   },
   {
@@ -442,15 +441,15 @@
    "published": "2026-08-26T14:50:39+00:00"
   },
   {
-   "title": "Two weeks in the dark: What the Northwest Indiana power crisis exposed",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c967e08e-34d2-4c3a-89d4-987fe1723c4a.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Two weeks without power have pushed some Region residents to the edge — and exposed troubling blind spots in how we prepare for the next disaster when, not if, it hits.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/f5/7f53ffbc-b006-4851-9000-2210f9d00e73/6a81fe4445a0d.image.jpg?resize=300%2C225",
+   "title": "Orchestration is the new challenge for CX in the age of AI agents",
+   "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+   "source": "VentureBeat AI",
+   "group": "VentureBeat AI",
+   "topic": "ai",
+   "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture…",
+   "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1RK5pjHAxWRLsDy5iAC3Iy/4f9c39b5925645c365440e487ffe2157/Tata_hero.jpg?w=300&q=30",
    "age": "1d ago",
-   "published": "2026-08-26T12:15:00+00:00"
+   "published": "2026-08-26T14:30:00+00:00"
   },
   {
    "title": "Bears camp notebook: A grueling practice — and maybe a key injury — as Bears close out camp",
