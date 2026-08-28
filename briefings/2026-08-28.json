@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-28",
+  "dateLabel": "Friday, August 28, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-28T11:32:31Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~16h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, August 27, 2026 close — a broad tech-led rally after Nvidia and Salesforce topped earnings forecasts.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,730.99", "change": "+55.29", "changePct": "+0.7%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,569.44", "change": "+105.56", "changePct": "+0.2%", "sixMo": "+9.4%" },
+        { "name": "Nasdaq",  "close": "26,541.35", "change": "+411.16", "changePct": "+1.6%", "sixMo": "+17%" }
+      ],
+      "body": "Chipmakers and other tech names led broad gains after Nvidia surged almost 9% on a stronger-than-expected revenue outlook, adding roughly $442 billion in market value in a single day, while Salesforce and other companies also beat profit estimates for the spring quarter.",
+      "source": "AP",
+      "url": "https://www.theepochtimes.com/bright/how-major-us-stock-indexes-fared-aug-27-post-6080511"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "UN envoy warns Gaza's Trump-brokered ceasefire plan is stalling amid Israeli strikes",
+      "body": "Nikolay Mladenov, the Board of Peace official leading President Trump's 20-point Gaza ceasefire plan, told the UN Security Council that continued Israeli strikes on the territory are undermining progress and warned the alternative to the US-brokered plan is another war, even as he said the effort has moved from negotiations into implementation.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Chinese warships shadow US-Philippine-Australian naval drill near contested Sabina Shoal",
+      "body": "Chinese destroyers, frigates, missile boats and coast guard vessels tracked a five-day US-Philippine-Australian maritime exercise in the West Philippine Sea, with a Chinese warship radioing a Philippine frigate near Sabina Shoal to assert Chinese sovereignty before the drill proceeded as planned without physical interference.",
+      "source": "Manila Times",
+      "url": "https://www.manilatimes.net/2026/08/27/news/national/chinese-warships-shadow-ph-us-australian-vessels-during-drills/2412797"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "USS George Washington relieves the Lincoln in the Middle East after its 250-day, strain-plagued deployment",
+      "body": "The carrier USS George Washington arrived in the Middle East to relieve USS Abraham Lincoln, whose crew endured more than 250 continuous days at sea plus reported supply shortages and mental-health strain; the Navy is also sending USS Theodore Roosevelt from San Diego for a seven-plus-month deployment, and Washington's shift out of Asia leaves that theater without a carrier strike group.",
+      "source": "Military.com",
+      "url": "https://www.military.com/us-aircraft-carrier-arrives-in-middle-east-relieving-long-deployed-uss-lincoln"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Army picks five firms to build $2.2 billion nuclear microreactor prototypes on bases",
+      "body": "The Army's Janus Program awarded up to $2.2 billion in Other Transaction Authority agreements to five nuclear-energy vendors to design, build and operate microreactor prototypes at five initial installations, aiming to get a reactor running on a base by September 2028 so critical missions can continue if the commercial grid fails.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Anthropic previews a Model Hardware Standard to let Claude run lab and factory equipment",
+      "body": "Anthropic launched a research preview of its Model Hardware Standard, a model-agnostic spec letting Claude and other AI assistants discover and safely operate physical hardware like lab instruments and robots; in an early test a Genentech scientist had Claude autonomously run an experiment from a PDF protocol, and Anthropic plans to open-source the framework after the preview.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Both Bears starting cornerbacks banged up in physical joint practice with Titans",
+      "body": "Jaylon Johnson left Thursday's joint practice with the Titans early with an apparent right-arm injury and sat out the rest of the session, while fellow starter Tyrique Stevenson got hurt breaking up a red-zone pass but returned to work with the starters, leaving Chicago's secondary thin less than three weeks before the Sept. 13 opener at Carolina.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/bears-brief-injury-scare-two-172524892.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Coverage this week centers on Saturday's Daytona regular-season finale and last weekend's crew suspensions, both already reported in prior briefs; no new Byron-specific development surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
