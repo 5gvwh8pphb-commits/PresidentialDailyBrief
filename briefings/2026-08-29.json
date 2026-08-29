@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-29",
+  "dateLabel": "Saturday, August 29, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-29T14:03:43Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, August 28, 2026 close — stocks slipped as new Fed Chair Kevin Warsh's Jackson Hole remarks tempered inflation optimism, though all three indexes still closed out a winning week.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,711.76", "change": "-19.23", "changePct": "-0.25%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,559.99", "change": "-9.45", "changePct": "-0.02%", "sixMo": "+9.4%" },
+        { "name": "Nasdaq",  "close": "26,402.42", "change": "-138.93", "changePct": "-0.52%", "sixMo": "+16%" }
+      ],
+      "body": "Chip stocks led the pullback after Warsh used his first Jackson Hole address as Fed chair to caution that this summer's cooler inflation readings don't yet show underlying improvement, tempering rate-cut bets; Nvidia and Intel weighed on the Nasdaq, but all three indexes still finished the week higher.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US, South Korea and Japan announce Freedom Edge drill as North Korea vows retaliation",
+      "body": "The three allies said they'll hold the multi-domain Freedom Edge exercise off South Korea's Jeju Island starting Sept. 7, a day after North Korea vowed to retaliate against what it called US hostilities; Pyongyang has cast the drill as evidence Washington intends to pressure both China and Russia, further dimming near-term prospects for renewed US-North Korea diplomacy.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US and Chinese officials meet to plan Xi's Washington visit as Trump hardens Iran-sanctions rhetoric toward Beijing",
+      "body": "US Ambassador David Perdue met China's Foreign Minister Wang Yi in Beijing to prepare for Xi Jinping's state visit to Washington expected around Sept. 24, even as Trump escalated warnings that new Iran sanctions could extend to Chinese banks handling Iranian oil money, a tension the administration is managing ahead of trade-truce extension talks.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/28/trump-x-meeting-us-china-iran-sanctions.html"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "CENTCOM declares Strait of Hormuz mine-free as a second US carrier heads to the Middle East",
+      "body": "Adm. Brad Cooper said Navy divers, SEALs and aircraft from all four services cleared Iranian sea mines from Hormuz's international shipping lanes using more than 20 warships, calling it a 'major milestone'; the USS Theodore Roosevelt strike group is set to sail from San Diego in the coming weeks for a seven-month deployment that will relieve the USS George Washington in the region.",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/aug/28/centcom-chief-says-strait-hormuz-cleared-iranian-placed-sea-mines/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Pentagon opened secretive Golden Dome missile-shield tests to outside tech companies",
+      "body": "Golden Dome deputy director Lt. Gen. Brian Gibson said the Pentagon invited private firms with unproven, not-yet-contracted technology to observe two recent tests of the space-based missile-defense shield's sensors, communications and interceptors working together, an unusual opening of the historically secretive program as it pushes toward an initial capability by 2028.",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/aug/27/new-details-emerging-secretive-tests-golden-dome-missile-defense/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic unveils a standard letting Claude safely operate lab and factory hardware",
+      "body": "The new Model Hardware Standard lets AI agents discover, read and write to physical equipment like robotic arms, microscopes and liquid handlers through a standardized driver that also encodes safety limits once buried in paper manuals; researchers at Genentech and Carnegie Mellon piloting the research preview used it to automate protein assays and run drug-discovery experiments roughly three times faster.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/anthropic-pushes-into-physical-world-with-new-standard-to-help-ai-agents-operate-machines.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~4h ago",
+      "empty": false,
+      "headline": "Ben Johnson says he's giving Bears players more ownership as cutdown weekend arrives",
+      "body": "Bears coach Ben Johnson told the Chicago Sun-Times he has pulled back on the harsh criticism that marked last year's NFC North title run, saying 'all I care about is, does it help us win or not,' as Chicago heads into Saturday's preseason finale at Tennessee; he's spent extra time with Caleb Williams on footwork and defensive recognition ahead of Sunday's 53-man roster deadline.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/29/bears-coach-ben-johnson-is-trying-to-move-the-team-forward-by-putting-it-in-his-players-hands"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Byron enters Daytona regular-season finale locked into the playoffs but chasing a better seed",
+      "body": "William Byron has already clinched a spot in NASCAR's Chase field, but Saturday night's Coke Zero Sugar 400 at Daytona could still swing his seeding anywhere from 7th to 16th; the Hendrick Motorsports driver, who has 11 top-10s and four top-5s this season without a win, was installed as a betting favorite for the regular-season finale.",
+      "source": "NASCAR.com",
+      "url": "https://www.nascar.com/news-media/2026/08/27/racing-insights-new-postseason-format-same-daytona-mystique/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
