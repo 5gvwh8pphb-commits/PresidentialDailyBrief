@@ -1,112 +1,86 @@
 {
- "generated": "2026-08-30T02:17:52+00:00",
+ "generated": "2026-08-30T08:25:24+00:00",
  "count": 40,
  "withImage": 40,
- "bearsDay": true,
+ "bearsDay": false,
  "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "VentureBeat AI",
-  "Windy City Gridiron"
+  "VentureBeat AI"
  ],
  "items": [
   {
-   "title": "Ryan Poles talks roster cutdown day on preseason broadcast",
-   "url": "https://www.chicagobears.com/news/ryan-poles-talks-roster-cutdown-day-on-preseason-broadcast",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/bears/uxrh2axggjmsnad1vkdd.jpg",
-   "age": "just now",
-   "published": "2026-08-30T04:01:00+00:00"
+   "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves",
+   "url": "https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuela-to-secure-more-than-65-billion-barrels-of-oil-reserves.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The U.S. struck a deal with Venezuela to get majority control of more than 65 billion barrels of oil reserves, Trump said in a social media post.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353481-1787597034044-gettyimages-2291340010-AFP_C6EK4VC.jpeg?v=1787597079&amp;w=1920&amp;h=1080",
+   "age": "57m ago",
+   "published": "2026-08-30T07:27:55+00:00"
   },
   {
-   "title": "Former California councilman's corruption unmasked after FBI finds cash buried in backyard",
-   "url": "https://www.foxnews.com/us/former-california-councilman-corruption-unmasked-fbi-finds-cash-buried-backyard",
+   "title": "Iceland votes on resuming EU membership talks as Trump's push for neighboring Greenland looms over debate",
+   "url": "https://www.foxnews.com/politics/iceland-votes-resuming-eu-membership-talks-trump-push-neighboring-greenland-looms-debate",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Ricardo Pacheco buried $62,900 in cash in his backyard as part of a bribery scheme involving Baldwin Park police union contracts and marijuana permits.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ricardo-pacheco-cash-bribery-case-composite.jpg?ve=1&tl=1",
-   "age": "19m ago",
-   "published": "2026-08-30T01:58:48+00:00"
+   "summary": "President Donald Trump s push to acquire Greenland added a new security dimension to Iceland s EU referendum, with 275,000 eligible voters weighing in.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/trump-greenland-split.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-08-30T05:44:44+00:00"
   },
   {
-   "title": "Footage of two planes stunning a rugby stadium with one of the wildest flyovers ever goes viral",
-   "url": "https://www.foxnews.com/outkick-sports/footage-two-planes-stunning-rugby-stadium-wildest-flyovers-viral",
+   "title": "North Carolina warns mobile petting zoo visitors of rabies exposure after baby goats test positive",
+   "url": "https://www.foxnews.com/us/north-carolina-warns-visitors-rabies-exposure-baby-goats-mobile-petting-zoo-test-positive",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A pair of Embraer E-Jets from Airlink buzzed a Cape Town rugby stadium at jaw-dropping altitude before the All Blacks vs. Springboks match began.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rugby-flyover-1.jpg?ve=1&tl=1",
-   "age": "27m ago",
-   "published": "2026-08-30T01:50:42+00:00"
-  },
-  {
-   "title": "Country duo Dan + Shay nearly broke up at height of success when their communication faltered",
-   "url": "https://www.foxnews.com/entertainment/country-duo-dan-shay-nearly-broke-height-success-communication-faltered",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dan + Shay reveal the late-night conversation at Dan Smyers home that saved their partnership after a 2021 communication breakdown nearly ended it all.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dan_shay.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-30T00:41:59+00:00"
-  },
-  {
-   "title": "NFL roster cuts tracker 2026: Players released by all 32 teams at 53-man roster cutdown deadline",
-   "url": "https://www.cbssports.com/nfl/news/nfl-cut-tracker-team-by-team-breakdown/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/28/2f12e9a2-5afd-4661-ab41-a4da3a696939/browns.jpg",
-   "age": "1h ago",
-   "published": "2026-08-30T00:35:16+00:00"
-  },
-  {
-   "title": "Division-II running back pronounced dead after medical emergency in team's season opener",
-   "url": "https://www.foxnews.com/outkick-sports/division-ii-running-back-pronounced-dead-after-medical-emergency-teams-season-opener",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "MicahJo Barnett scored a touchdown shortly before a fatal medical emergency struck during William Jewell College s season opener in Liberty, Missouri.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/college-football.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-30T00:18:21+00:00"
-  },
-  {
-   "title": "Raiders expected to name Kirk Cousins Week 1 starter over No. 1 pick Fernando Mendoza",
-   "url": "https://www.cbssports.com/nfl/news/raiders-starting-qb-kirk-cousins-fernando-mendoza/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/14/ec5eb32b-fab3-4922-9cfa-56f5760854bf/getty-kirk-cousins-raiders.jpg",
+   "summary": "Baby goats at Farm Adventures, a North Carolina mobile petting zoo, tested positive for rabies after a skunk entered their pen and bit them.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/petting-zoo-goats-rabies-children-north-carolina.jpg?ve=1&tl=1",
    "age": "4h ago",
-   "published": "2026-08-29T21:56:23+00:00"
+   "published": "2026-08-30T03:56:17+00:00"
   },
   {
-   "title": "NFL places new Seahawks cornerback Terrion Arnold on the commissioner's exempt list, per report",
-   "url": "https://www.cbssports.com/nfl/news/terrion-arnold-nfl-commissioners-exempt-list-seahawks/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2025/10/06/98f96389-360c-4d50-a94a-d24204e5d75c/getty-terrion-arnold-lions.jpg",
+   "title": "South Carolina police officer killed, another wounded in gunfight with suspect who had extensive record",
+   "url": "https://www.foxnews.com/us/south-carolina-police-officer-killed-another-wounded-gunfight-suspect-who-had-extensive-record",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Officer Christopher DeLong, 29, was killed while responding to a domestic dispute call in Columbia, South Carolina. He leaves behind a wife and two young children.",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/split-of-delong-and-the-shooting-scene.gif",
+   "age": "4h ago",
+   "published": "2026-08-30T03:51:52+00:00"
+  },
+  {
+   "title": "Retired Port Authority officers tell Mamdani, Hochul to stay away from Ground Zero on 9/11",
+   "url": "https://www.foxnews.com/us/retired-port-authority-officers-tell-mamdani-hochul-stay-away-from-ground-zero-9-11",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Retired Port Authority police officers are urging Zohran Mamdani and Kathy Hochul to skip the 25th anniversary 9/11 commemoration at Ground Zero.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/kathy-hochul-zohran-mamdani.jpeg?ve=1&tl=1",
    "age": "5h ago",
-   "published": "2026-08-29T20:48:15+00:00"
+   "published": "2026-08-30T03:00:33+00:00"
+  },
+  {
+   "title": "PGA Tour taps Donald Trump to reprise honorary chairman role for Presidents Cup, White House confirms",
+   "url": "https://www.foxnews.com/outkick-sports/pga-tour-taps-donald-trump-reprise-honorary-chairman-role-presidents-cup-white-house-confirms",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The PGA Tour announced Donald Trump as honorary chairman of the 2026 Presidents Cup at Medinah Country Club, continuing a tradition of world leaders.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Donald-Trump-presidents-cup.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-08-30T02:55:12+00:00"
   },
   {
    "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
@@ -116,7 +90,7 @@
    "topic": "markets",
    "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
    "image": "https://image.cnbcfm.com/api/v1/image/108352868-1787334273233-260820_cg_33_alphabet_soup_1920x1080_v2.png?v=1787334335&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-08-29T20:22:12+00:00"
   },
   {
@@ -127,7 +101,7 @@
    "topic": "markets",
    "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
    "image": "https://image.cnbcfm.com/api/v1/image/108319525-1781100739136-gettyimages-2260987885-AFP_97GF463.jpeg?v=1781100778&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-08-29T19:55:30+00:00"
   },
   {
@@ -138,7 +112,7 @@
    "topic": "defense",
    "summary": "Ukraine Situation Report: The new strategy prioritizes frequency over amplitude, wearing down the populace and exhausting air defenders. The post Russia Changing Missile…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Russian-Tactic-Change.jpg?quality=85",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-08-29T19:15:36+00:00"
   },
   {
@@ -149,7 +123,7 @@
    "topic": "markets",
    "summary": "OpenAI plans to end model access through Cursor on Nov. 12, citing concerns after SpaceX’s $60 billion acquisition of the coding startup.",
    "image": "https://image.cnbcfm.com/api/v1/image/108299329-17774844982026-04-29t174052z_1503926160_rc21zka40miz_rtrmadp_0_musk-openai-court.jpeg?v=1777484582&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-08-29T19:06:22+00:00"
   },
   {
@@ -160,8 +134,19 @@
    "topic": "ai",
    "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-08-29T18:41:59+00:00"
+  },
+  {
+   "title": "Trump administration weighs Yosemite land swap for private developer’s access road",
+   "url": "https://www.cnbc.com/2026/08/29/trump-yosemite-land-swap-kingsbarn.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Trump administration is considering a Yosemite land exchange that could give a developer more direct park access.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107232756-1682691899277-gettyimages-1485969252-mt_27943_afs5soil.jpeg?v=1713459800&amp;w=1920&amp;h=1080",
+   "age": "14h ago",
+   "published": "2026-08-29T18:21:49+00:00"
   },
   {
    "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
@@ -171,7 +156,7 @@
    "topic": "ai",
    "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/TechBBQ.jpg?resize=1200,800",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-08-29T17:51:10+00:00"
   },
   {
@@ -182,62 +167,29 @@
    "topic": "ai",
    "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-08-29T17:36:47+00:00"
   },
   {
-   "title": "Play Fantasy Sports with Windy City Gridiron!",
-   "url": "https://www.windycitygridiron.com/chicago-bears-roster/121276/play-fantasy-sports-with-windy-city-gridiron",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2056666591.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-08-29T17:00:00+00:00"
+   "title": "Hollywood celebs are getting into microdrama apps",
+   "url": "https://techcrunch.com/2026/08/29/hollywood-celebs-are-getting-into-microdrama-apps/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Several Hollywood celebs are ditching the massive eight-figure checks and exotic movie sets for a rising format: microdramas.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/12/shutterstock_movie_director.jpg?resize=1200,717",
+   "age": "16h ago",
+   "published": "2026-08-29T16:10:00+00:00"
   },
   {
-   "title": "Infectious energy? More like 'infectious disease' as Cam Skattebo ruffles feathers at Giants practice",
-   "url": "https://www.cbssports.com/nfl/news/cam-skattebo-ruffles-feathers-at-giants-practice/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/28/79c2ee42-d1eb-494b-9428-a277c3ff383f/gettyimages-2290069939-1.jpg",
-   "age": "10h ago",
-   "published": "2026-08-29T16:02:42+00:00"
-  },
-  {
-   "title": "Chicago Bears 53 Man Roster Prediction (Our last one, I promise)",
-   "url": "https://www.windycitygridiron.com/chicago-bears-roster/121355/chicago-bears-53-man-roster-prediction-our-last-one",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/05/gettyimages-2258025325.jpg?quality=90&#038;strip=all&#038;crop=0,0,89.818187855114,100",
-   "age": "11h ago",
-   "published": "2026-08-29T15:00:00+00:00"
-  },
-  {
-   "title": "6 Bears players to watch in preseason game vs. Titans",
-   "url": "https://www.chicagobears.com/news/6-bears-players-to-watch-in-preseason-game-vs-titans",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yxizyrvp2yxhxas2m35w.jpg",
-   "age": "11h ago",
-   "published": "2026-08-29T14:44:00+00:00"
-  },
-  {
-   "title": "Ben Johnson is the most influential person that I ve been around",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/121474/chicago-bears-ben-johnson-is-the-most-influential-person-that-ive-been-around-declan-doyle",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/08/gettyimages-2227690475.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "12h ago",
+   "title": "The Theragun Sense makes everyday recovery surprisingly easy",
+   "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause a…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/theragun-sense.png?resize=1200,788",
+   "age": "18h ago",
    "published": "2026-08-29T14:00:00+00:00"
   },
   {
@@ -248,7 +200,7 @@
    "topic": "ai",
    "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
-   "age": "15h ago",
+   "age": "21h ago",
    "published": "2026-08-29T10:50:31+00:00"
   },
   {
@@ -285,6 +237,17 @@
    "published": "2026-08-28T21:20:26+00:00"
   },
   {
+   "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+   "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270-1152x648.jpg",
+   "age": "1d ago",
+   "published": "2026-08-28T21:17:38+00:00"
+  },
+  {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
    "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-205",
    "source": "The War Zone",
@@ -294,17 +257,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/GettyImages-3060812.jpg?quality=85",
    "age": "1d ago",
    "published": "2026-08-28T20:36:00+00:00"
-  },
-  {
-   "title": "Bears thrilled to support Chicago State University football program",
-   "url": "https://www.chicagobears.com/news/bears-thrilled-to-support-chicago-state-university-football-program",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wjcf1hjde9cx2ufp99b5.jpg",
-   "age": "1d ago",
-   "published": "2026-08-28T19:58:00+00:00"
   },
   {
    "title": "The big defense spending priorities awaiting Congress in September",
@@ -340,6 +292,17 @@
    "published": "2026-08-28T18:18:39+00:00"
   },
   {
+   "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+   "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
+   "age": "1d ago",
+   "published": "2026-08-28T18:07:55+00:00"
+  },
+  {
    "title": "USAF Stands Up Unit To Fly HH-60W Helicopters In Doomsday Evacuation Role In Nation’s Capital",
    "url": "https://www.twz.com/air/usaf-stands-up-unit-to-fly-hh-60w-helicopters-in-doomsday-evacuation-role-in-nations-capital",
    "source": "The War Zone",
@@ -349,6 +312,28 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/08/hh-60w-5th-helicopter-squadron-continuity-of-government.jpg?quality=85",
    "age": "1d ago",
    "published": "2026-08-28T17:57:40+00:00"
+  },
+  {
+   "title": "Massive Expansion At China’s ‘Area 51’",
+   "url": "https://www.twz.com/news-features/chinas-area-51-is-undergoing-a-massive-expansion",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The buildout of the remote flight-test base has accelerated sharply, and large new hangars suggest a specific type of aircraft may be arriving in the near future. The po…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/China-Area-51-new-hangars-high-res.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-08-28T17:45:31+00:00"
+  },
+  {
+   "title": "U.S. Expanding B-52 Bomber Capacity At Moron Air Base In Spain",
+   "url": "https://www.twz.com/news-features/u-s-expanding-b-52-bomber-capacity-at-moron-air-base-in-spain",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The investment comes after Spain would not allow the U.S. to use Moron for long-range bomber missions against Iran. The post U.S. Expanding B-52 Bomber Capacity At Moron…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/B52-Spain.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-08-28T17:14:20+00:00"
   },
   {
    "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
@@ -395,6 +380,17 @@
    "published": "2026-08-28T15:44:05+00:00"
   },
   {
+   "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
+   "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "When people say, ‘Hey, we re at an inflection point,’ we are absolutely at an inflection point,” 16th Air Force commander Lt. Gen. Thomas Hensley said of AI threats to t…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/02/230210_DVIDS_cyber_dark_4259914-scaled-e1676042385196-1024x576.jpg",
+   "age": "1d ago",
+   "published": "2026-08-28T15:07:32+00:00"
+  },
+  {
    "title": "India turns to private sector to ramp up missile production",
    "url": "https://www.defensenews.com/global/asia-pacific/2026/08/28/india-turns-to-private-sector-to-ramp-up-missile-production/",
    "source": "Defense News",
@@ -406,15 +402,26 @@
    "published": "2026-08-28T14:14:15+00:00"
   },
   {
-   "title": "Bears training camp report: Joint practice with Titans | Thursday, Aug. 27",
-   "url": "https://www.chicagobears.com/news/bears-training-camp-report-joint-practice-with-titans-thursday-aug-27",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ytcqrtusiyilg7r3d2fm.jpg",
+   "title": "Russia is running out of cash due to its war in Ukraine: report",
+   "url": "https://www.defensenews.com/global/europe/2026/08/28/russia-is-running-out-of-cash-due-to-its-war-in-ukraine-report/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Russia’s war spending pushed the state to the brink of running out of cash this spring, according to a Bloomberg report, as Russian leaders double down.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/I6EOQ5CARBCIDOAPLLNSRU5GKQ.jpg",
+   "age": "1d ago",
+   "published": "2026-08-28T11:44:36+00:00"
+  },
+  {
+   "title": "Navy Finishes First Barracks Overhaul As Part of Quality of Life Initiatives",
+   "url": "https://news.usni.org/2026/08/27/navy-finishes-first-barracks-overhaul-as-part-of-quality-of-life-initiatives",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installatio…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9893339.jpg",
    "age": "2d ago",
-   "published": "2026-08-27T20:56:46+00:00"
+   "published": "2026-08-27T21:46:58+00:00"
   },
   {
    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -437,17 +444,6 @@
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30",
    "age": "2d ago",
    "published": "2026-08-27T12:01:00+00:00"
-  },
-  {
-   "title": "Bears running backs Roschon Johnson, Salvon Ahmed’s path to 53-man roster starts on special teams",
-   "url": "https://allchgo.com/bears/bears-roschon-johnson-salvon-ahmed-path-special-teams/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/26182858/2026-08-15T190713Z_721032276_MT1USATODAY29591526_RTRMADP_3_NFL-CLEVELAND-BROWNS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-08-27T10:00:00+00:00"
   },
   {
    "title": "Orchestration is the new challenge for CX in the age of AI agents",
