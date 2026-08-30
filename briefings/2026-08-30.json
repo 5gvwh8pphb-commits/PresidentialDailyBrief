@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-30",
+  "dateLabel": "Sunday, August 30, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-30T14:06:15Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, August 28, 2026 close — markets' last session before the weekend; stocks slipped on cautious Fed remarks but still closed out a winning week.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,711.76", "change": "-19.23", "changePct": "-0.25%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,559.99", "change": "-9.45", "changePct": "-0.02%", "sixMo": "+9.4%" },
+        { "name": "Nasdaq",  "close": "26,402.42", "change": "-138.93", "changePct": "-0.52%", "sixMo": "+16%" }
+      ],
+      "body": "Chip stocks led Friday's pullback after new Fed Chair Kevin Warsh used his first Jackson Hole address to caution that this summer's cooler inflation readings don't yet show underlying improvement; Nvidia and Intel weighed on the Nasdaq, but all three indexes still finished the week higher.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Treasury moves to cut a Dubai bank branch off from the dollar system in widening Iran sanctions push",
+      "body": "Treasury Secretary Scott Bessent proposed barring US banks from processing transactions tied to the UAE branches of Egypt's Banque Misr, saying investigators traced roughly $1.8 billion in suspected Iran-linked transfers through the bank since 2024; the action is part of the administration's 'Operation Economic Outcast' campaign to isolate Tehran financially as the war approaches its six-month mark.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/08/28/iran-war-economic-isolation-sanctions-trump-bessent/e779c9f8-a2f5-11f1-8606-1d40ad00172e_story.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US and China edge toward extending trade truce as Beijing weighs sending executives on Xi's Washington trip",
+      "body": "Ahead of Xi Jinping's planned Sept. 24 state visit to Washington, US and Chinese officials are discussing whether Chinese business leaders will join his delegation, mirroring Trump's May trip to Beijing, and one source described extending the countries' one-year Busan trade truce as 'almost certain' though talks continue.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3365440/chinese-executives-may-join-xis-us-trip-trade-truce-extension-almost-certain"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US anti-ISIS coalition winds down in Iraq's Kurdistan region as security pact expires",
+      "body": "A 2016 US-Kurdistan Regional Government security cooperation agreement, last updated in 2022, expires Sept. 30 alongside the broader anti-ISIS coalition's withdrawal from Iraq, but Kurdish officials said the change ends a specific funding mechanism rather than American military assistance; training, advising and logistics support are expected to continue.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/08/29/iraqs-kurdistan-region-says-us-military-support-not-ending-despite-expiry-of-agreement/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new military-technology development from a reputable outlet fell within the 72-hour window without duplicating recent briefs' coverage of Golden Dome testing and the Raytheon Mississippi plant expansion; other candidate stories (F-35 cost report, PAC-3 contract, Blackbeard hypersonic order) were all older than 72 hours.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Anthropic joins 100-plus tech firms warning AI-powered cyberattacks are coming within months",
+      "body": "Anthropic, OpenAI, Google, Microsoft and more than 100 other companies published an open letter warning that AI-enabled cyberattacks on hospitals, water utilities and other critical infrastructure will become far more common in the near term, urging organizations to make cybersecurity a C-suite priority while defenders still hold an edge.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Bears trade DT Gervon Dexter to Falcons for CB Clark Phillips III on cutdown day",
+      "body": "Chicago dealt the 2023 second-round pick to Atlanta for cornerback Clark Phillips III and a 2027 fifth-round pick as the Bears trimmed to the NFL's 53-man roster limit; Dexter started the last two seasons in Chicago, and new Falcons GM Ian Cunningham was the Bears' assistant GM when Chicago originally drafted him.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/30/bears-trade-falcons-gervon-dexter-clark-phillips-cornerback-cut-day-trade-draft-pick-atlanta"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron calls his team 'championship-capable' heading into NASCAR's 10-week playoff stretch",
+      "body": "William Byron said he still believes his No. 24 Hendrick Motorsports team can contend for a title despite an inconsistent 2026 season with crew chief Rudy Fugle still searching for full footing, adding that with such a tight points spread entering the Chase, it will come down to 'putting together 10 good weeks.'",
+      "source": "NASCAR.com",
+      "url": "https://www.nascar.com/news-media/2026/08/29/were-a-championship-capable-team-byron-optimistic-ahead-of-2026-chase/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
