@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-31T14:34:02+00:00",
+ "generated": "2026-08-31T20:27:35+00:00",
  "count": 40,
  "withImage": 39,
  "bearsDay": false,
@@ -11,22 +11,307 @@
   "Defense News",
   "Fox News",
   "NASCAR en Español",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "The Scottie vs Tiger comparison, Michael Block's party gets shut down, and a final word on YouTube golf drama",
-   "url": "https://www.foxnews.com/outkick-sports/scottie-vs-tiger-comparison-michael-block-party-shut-down-final-word-youtube-golf-drama",
+   "title": "Supreme Court says Trump can build White House ballroom as lawsuit continues",
+   "url": "https://www.cnbc.com/2026/08/31/supreme-court-white-house-ballroom.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Chief Justice John Roberts dissented with three liberal justices, saying, \"That construction is likely unlawful.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108349742-1786714330366-gettyimages-2289313258-ah803417.jpeg?v=1786714379&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-08-31T20:25:37+00:00"
+  },
+  {
+   "title": "FTC sues Amazon, accusing the e-commerce giant of misleading advertisers",
+   "url": "https://www.cnbc.com/2026/08/31/amazon-ftc-lawsuit-advertisers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The FTC sued Amazon, alleging the company misled advertisers through a deceptive auctioning system.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108262089-1770316901095-gettyimages-2259128608-AMAZON_EARNS.jpeg?v=1773702987&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-08-31T20:22:45+00:00"
+  },
+  {
+   "title": "Carrie Underwood honors Dolly Parton's faith and legacy during emotional concert tribute",
+   "url": "https://www.foxnews.com/entertainment/carrie-underwood-honors-dolly-parton-faith-legacy-emotional-concert-tribute",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Scottie Scheffler s Tour Championship win gives him 18 victories in three seasons, matching Tiger Woods at the same age in a striking comparison.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/scottie-scheffler-featured-par-talk-tiger.jpg?ve=1&tl=1",
+   "summary": "Carrie Underwood fought back tears while honoring Dolly Parton at Tanglewood Music Center, and shared what the country music legend meant to her.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dolly-parton-carrie-underwood.jpg?ve=1&tl=1",
+   "age": "5m ago",
+   "published": "2026-08-31T20:21:51+00:00"
+  },
+  {
+   "title": "Trump announced a massive oil deal with Venezuela. Why it won't lower gas prices anytime soon",
+   "url": "https://www.cnbc.com/2026/08/31/trump-venezuela-oil-gas-price.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "President Donald Trump announced Friday that the U.S. secured majority control over 65 billion barrels of Venezuela's proven oil reserves.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353493-1787598365293-gettyimages-2291340917-TRUMP_SCHOOL_CHOICE.jpeg?v=1787598388&amp;w=1920&amp;h=1080",
    "age": "6m ago",
-   "published": "2026-08-31T14:27:04+00:00"
+   "published": "2026-08-31T20:21:00+00:00"
+  },
+  {
+   "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+   "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Amazon is facing a new lawsuit from the FTC and 22 states for allegedly secretly charging businesses more for advertising.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
+   "age": "7m ago",
+   "published": "2026-08-31T20:20:25+00:00"
+  },
+  {
+   "title": "The Pentagon now has its own version of ChatGPT and Grok",
+   "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+   "age": "13m ago",
+   "published": "2026-08-31T20:13:45+00:00"
+  },
+  {
+   "title": "Trump's Canada tariff fight reaches critical point as House GOP summons trade chief",
+   "url": "https://www.foxnews.com/politics/trumps-canada-tariff-fight-reaches-critical-point-house-gop-summons-trade-chief",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jamieson Greer meets House Republicans as Trump s escalating trade war with Canada and 50% tariffs become a growing flashpoint for lawmakers.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/mark-carney-donald-trump-oval-office.jpg?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-08-31T20:13:31+00:00"
+  },
+  {
+   "title": "US Air Force chief of staff discusses ‘regional situation’ with Israeli military officials",
+   "url": "https://www.defensenews.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "U.S. Air Force Chief of Staff Ken Wilsbach visited Israel recently and met with Israel Defense Forces and Israeli Air Force top officials.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WQHSX3GJXZEGPHN3MNIKURPMDU.jpg",
+   "age": "17m ago",
+   "published": "2026-08-31T20:09:41+00:00"
+  },
+  {
+   "title": "New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work",
+   "url": "https://www.foxnews.com/world/new-report-exposes-intact-iranian-bunker-may-hide-regimes-ongoing-nuclear-work",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The bunkered Natanz structure was built between 2010 and 2017, raising urgent questions about Iran s uranium enrichment capabilities after two wars.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/iran-nuclear-weapons-2026.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-08-31T20:05:18+00:00"
+  },
+  {
+   "title": "Japan’s First Dedicated Missile Defense Warship Is A Monster",
+   "url": "https://www.twz.com/news-features/japans-first-dedicated-missile-defense-warship-is-a-monster",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Japan's first ASEV missile defense ship just had its huge radar mast installed, providing a new sense of scale for these cruiser-sized warships. The post Japan s First D…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/japan-huge-missile-defense-cruiser-taking-shape-new-mast-installed.jpg?quality=85",
+   "age": "25m ago",
+   "published": "2026-08-31T20:02:08+00:00"
+  },
+  {
+   "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+   "url": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The path toward the move still looks cluttered.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108356340-1788181285402-gettyimages-2292128100-FED_SYMPOSIUM.jpeg?v=1788181306&amp;w=1920&amp;h=1080",
+   "age": "48m ago",
+   "published": "2026-08-31T19:38:38+00:00"
+  },
+  {
+   "title": "Texas learns the hard way not to mock Florida high school football, Lindsey Vonn stuns & USC's poor showing!",
+   "url": "https://www.foxnews.com/outkick-sports/texas-learns-hard-way-not-mock-florida-high-school-football-lindsey-vonn-stuns-uscs-poor-showing",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A Texas high school football team learned a brutal lesson after disrespecting Florida s St. Thomas Aquinas, trailing 38-0 by halftime Friday night.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nik-bonitto-hayden-gamble-denver-broncos.jpg?ve=1&tl=1",
+   "age": "52m ago",
+   "published": "2026-08-31T19:35:06+00:00"
+  },
+  {
+   "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_k.jpg?resize=1200,800",
+   "age": "55m ago",
+   "published": "2026-08-31T19:32:21+00:00"
+  },
+  {
+   "title": "Stephen A Smith reveals Barack Obama privately called him after Biden criticism ahead of 2024 election",
+   "url": "https://www.foxnews.com/media/stephen-smith-reveals-barack-obama-privately-called-him-after-biden-criticism-ahead-2024-election",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Stephen A. Smith revealed Barack Obama called him before the 2024 election to discuss his impact, but would not appear on his podcast publicly.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/STEPHEN-A-OBAMA-CULTURE-TABLE.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-31T19:24:58+00:00"
+  },
+  {
+   "title": "Instagram puts new limits on undisclosed AI profiles",
+   "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+   "age": "1h ago",
+   "published": "2026-08-31T19:16:59+00:00"
+  },
+  {
+   "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
+   "url": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1660777497.jpg?resize=1200,799",
+   "age": "1h ago",
+   "published": "2026-08-31T19:02:06+00:00"
+  },
+  {
+   "title": "Bessent pushes back on Druckenmiller critique of bond intervention",
+   "url": "https://www.cnbc.com/2026/08/31/bessent-druckenmiller-bond-treasury-g20.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Bessent, at a G20 finance meeting, told CNBC he spoke with Stanley Druckenmiller after his critical op-ed was published and that their conversation went \"fine.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353986-1788192225830-108353986-1787674682312-gettyimages-2178039379-STANLEY_DRUCKENMILLER_INTERVIEW.jpg?v=1788192236&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-31T18:41:12+00:00"
+  },
+  {
+   "title": "USNI News Fleet and Marine Tracker: Aug. 31, 2026",
+   "url": "https://news.usni.org/2026/08/31/usni-news-fleet-and-marine-tracker-aug-31-2026",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Aug. 31, 2026, based on Navy…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/FT_8_27_26.jpg",
+   "age": "2h ago",
+   "published": "2026-08-31T17:57:58+00:00"
+  },
+  {
+   "title": "Japan seeks new extended-range missiles in record $55B defense budget request",
+   "url": "https://breakingdefense.com/2026/08/japan-seeks-new-extended-range-missiles-in-record-55b-defense-budget-request/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Other weapons sought include submarine-launched missiles and missile modules for underwater drones.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/USN_AGM-88G_AARGM-ER_NAVAIR_210422-N-UZ648-281-1024x577.jpg",
+   "age": "2h ago",
+   "published": "2026-08-31T17:53:48+00:00"
+  },
+  {
+   "title": "Greece inks $3.4B deal for multi-layered Israeli air defense system",
+   "url": "https://breakingdefense.com/2026/08/greece-inks-3-4b-deal-for-multi-layered-israeli-air-defense-system/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Defense cooperation between the two countries has increased in recent years as Israel sees Greece as a strategic partner in the Eastern Mediterranean.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IsraelGreece-e1788184489650-1024x577.png",
+   "age": "3h ago",
+   "published": "2026-08-31T17:16:41+00:00"
+  },
+  {
+   "title": "Japan’s ASM-3 Kai Supersonic Cruise Missile May Have An Air-To-Air Capability",
+   "url": "https://www.twz.com/air/japans-asm-3-kai-supersonic-cruise-missile-may-have-an-air-to-air-capability",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Japan calls the ASM-3 Kai an “air-to-surface/anti-air” weapon, potentially pointing to a new counter to large high-value airborne targets. The post Japan’s ASM-3 Kai Sup…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/F2-Supersonic-cruise-missile.jpg?quality=85",
+   "age": "3h ago",
+   "published": "2026-08-31T17:09:06+00:00"
+  },
+  {
+   "title": "Sweden signs French warship order to boost defense",
+   "url": "https://www.defensenews.com/global/europe/2026/08/31/sweden-signs-french-warship-order-to-boost-defense/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Sweden signed an order for four Naval Group frigates during a ceremony in Stockholm attended by French President Emmanuel Macron.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LHW2TOIOV5EETJC2OFX4UN76Z4.JPG",
+   "age": "3h ago",
+   "published": "2026-08-31T16:53:47+00:00"
+  },
+  {
+   "title": "Israel signs $3.5 billion air defense deal with Greece",
+   "url": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Israel and Greece signed a €3 billion ($3.5 billion) defense deal on Monday under which Israel will build a multi-layered air defense system for Greece.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UME342MJCFA7XLTHBBPMHMN2TQ.jpg",
+   "age": "3h ago",
+   "published": "2026-08-31T16:50:39+00:00"
+  },
+  {
+   "title": "Japan’s First Tomahawk Cruise Missile Destroyer Back from U.S.",
+   "url": "https://news.usni.org/2026/08/31/japans-first-tomahawk-cruise-missile-destroyer-back-from-u-s",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Japanese destroyer JS Chokai (DDG-176) returned on Sunday to its homeport of Sasebo, Japan, after one year in the U.S. being outfitted to be Tomahawk cruise missile capa…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/07/30a_01.jpg",
+   "age": "3h ago",
+   "published": "2026-08-31T16:36:51+00:00"
+  },
+  {
+   "title": "In the age of drones, a bigger fence around your facility doesn’t protect you anymore",
+   "url": "https://breakingdefense.com/2026/08/in-the-age-of-drones-a-bigger-fence-around-your-facility-doesnt-protect-you-anymore/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] Traditional thinking about how to protect facilities must adapt to new threats such as drones or downstream attacks.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/Constellis-1-1024x576.jpg",
+   "age": "4h ago",
+   "published": "2026-08-31T16:25:22+00:00"
+  },
+  {
+   "title": "Trial for accused mastermind of 9/11 attacks set for June 2028",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/31/trial-for-accused-mastermind-of-911-attacks-set-for-june-2028/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Khalid Sheikh Mohammed, the accused mastermind of the 9/11 attacks, and three co-defendants are slated for a trial before a military tribunal in June 2028.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6T5Y2WOLNZC7FEMPEYTXNNC2N4.JPG",
+   "age": "4h ago",
+   "published": "2026-08-31T16:05:36+00:00"
+  },
+  {
+   "title": "USS New Orleans Fire Response Hindered by Initial Confusion, Investigation Shows",
+   "url": "https://news.usni.org/2026/08/31/uss-new-orleans-fire-response-hindered-by-initial-confusion-investigation-shows",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "A single cigarette or vape may have started a fire in a storeroom onboard amphibious transport dock USS New Orleans (LPD-18) in August 2025 but key crew failures enabled…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/Screenshot-2026-08-31-at-11.10.29-AM.png",
+   "age": "4h ago",
+   "published": "2026-08-31T15:31:18+00:00"
   },
   {
    "title": "USS Abraham Lincoln’s visit to Thailand lifts hope and sex-tourism risk",
@@ -36,30 +321,8 @@
    "topic": "defense",
    "summary": "The USS Abraham Lincoln will visit Thailand this week. Thai officials are anticipating an economic boost but warning of sexual exploitation risks.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/H33U7A2ZWBGPBLTTQPWSNPX57Q.JPG",
-   "age": "18m ago",
+   "age": "6h ago",
    "published": "2026-08-31T14:15:49+00:00"
-  },
-  {
-   "title": "Jim Clyburn regrets supporting Clarence Thomas' SCOTUS appointment, calling it a 'mistake'",
-   "url": "https://www.foxnews.com/media/jim-clyburn-regrets-supporting-clarence-thomas-scotus-appointment-calling-mistake",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Rep. James Clyburn, D-S.C., called supporting Clarence Thomas during his 1991 confirmation hearing a mistake, saying the justice rebelled against his background.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/james-clyburn-clarence-thomas.jpg?ve=1&tl=1",
-   "age": "18m ago",
-   "published": "2026-08-31T14:15:03+00:00"
-  },
-  {
-   "title": "OpenAI's ad business shows blistering growth, hits $1 billion annualized revenue run rate",
-   "url": "https://www.cnbc.com/2026/08/31/open-ai-chatgpt-ads-revenue.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "OpenAI's move to serve ads in ChatGPT earlier this year drew ridicule from its chief rival, Anthropic, in the form of a Super Bowl commercial.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108343087-17854985552026-07-30t192440z_128594779_rc2jomayicqj_rtrmadp_0_usa-trump-altman.jpeg?v=1785498573&amp;w=1920&amp;h=1080",
-   "age": "27m ago",
-   "published": "2026-08-31T14:06:23+00:00"
   },
   {
    "title": "5 key questions the Army is still working out for its nuclear microreactor plan",
@@ -69,85 +332,30 @@
    "topic": "defense",
    "summary": "The Army s top energy official recently walked reporters through a series of questions he’s grappling with as part of the push to deploy nuclear microreactors at militar…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/waksman-e1787944976933-1024x577.jpg",
-   "age": "39m ago",
+   "age": "6h ago",
    "published": "2026-08-31T13:54:22+00:00"
   },
   {
-   "title": "New Zealand ground forces drill to dock onto larger armies",
-   "url": "https://www.defensenews.com/global/asia-pacific/2026/08/31/new-zealand-ground-forces-drill-to-dock-onto-larger-armies/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Kiwi ground forces train to integrate their units with larger armies, Australia's especially, for maximum effect in battle.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3ODHBSDUPRGANPH74BERVXJXYQ.JPG",
-   "age": "56m ago",
-   "published": "2026-08-31T13:37:12+00:00"
-  },
-  {
-   "title": "SEC lawyers, Lane Kiffin and Death Valley: College football’s Week 1 is set for for fireworks",
-   "url": "https://www.foxnews.com/outkick-sports/sec-lawyers-lane-kiffin-death-valley-college-football-week-1-set-fireworks",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Clemson-LSU in Death Valley, Notre Dame vs. Wisconsin at Lambeau Field and more highlight five days of college football over Labor Day weekend.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/lsu-lane-kiffin-speaks-press-conference.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-31T13:29:00+00:00"
-  },
-  {
-   "title": "Pittsburgh youth football coach loses his mind & fights opposing coaches, Maria Sharapova at the beach & Flair",
-   "url": "https://www.foxnews.com/outkick-sports/pittsburgh-youth-football-coach-loses-mind-fights-opposing-coaches-maria-sharapova-beach-flair",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "From Costco Christmas trees in August to a viral youth football coach meltdown, Monday Screencaps delivers despite a brutal weekend flu battle.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/maria-sharapova-french-open-roland-garros.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-31T13:22:07+00:00"
-  },
-  {
-   "title": "Ella Langley honors Dolly Parton with emotional 'Jolene' cover during Alabama concert",
-   "url": "https://www.foxnews.com/outkick-culture/ella-langley-honors-dolly-parton-emotional-jolene-cover-alabama-concert",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ella Langley delivered a powerful Jolene cover during her Alabama concert Friday, honoring Dolly Parton days after the icon s passing at 80.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/dolly-parton_003.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-31T13:13:28+00:00"
-  },
-  {
-   "title": "U.S., Iran exchange strikes for first time since July as Trump threatens strategic oil hub",
-   "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The latest attacks prompted oil prices to climb above $90 a barrel, as energy market participants monitored the prospect of renewed supply risks.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108352273-17872451872026-08-20t165456z_874129621_rc2k0na5imb6_rtrmadp_0_iran-crisis-usa-carrier.jpeg?v=1788126071&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-31T13:10:57+00:00"
-  },
-  {
-   "title": "Pentagon scraps public weapons testing reports amid oversight concerns",
-   "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Pentagon says cuts to its independent weapons testing office will save money, while critics warn they could lead to costly mistakes.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5HY33C5HRFBDTAY5U5JAXVLRDA.jpg",
-   "age": "1h ago",
-   "published": "2026-08-31T13:08:24+00:00"
-  },
-  {
-   "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
-   "url": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
+   "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+   "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
    "topic": "ai",
-   "summary": "Circleback is also introducing new pricing plans starting from $14 per month",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg?resize=1200,737",
-   "age": "1h ago",
-   "published": "2026-08-31T12:56:46+00:00"
+   "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag-1152x648.jpg",
+   "age": "6h ago",
+   "published": "2026-08-31T13:41:40+00:00"
+  },
+  {
+   "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
+   "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"We would need over half a million 4K TVs to fully display the single Roman image from our largest survey.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HRAzV1dXYAEXjHy-1152x648.jpg",
+   "age": "7h ago",
+   "published": "2026-08-31T13:01:09+00:00"
   },
   {
    "title": "Space Force struggling to integrate commercial space data: Officials",
@@ -157,41 +365,8 @@
    "topic": "defense",
    "summary": "We have to have a better linkage between our acquisitions officers, or staff, and our operators, Col. Tim Trimailo, head of the Space Systems Command s Commercial Space …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260828_DVIDS_space_data_9723205-scaled-e1787942502618-1024x577.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-08-31T12:42:00+00:00"
-  },
-  {
-   "title": "Aon CEO says insurance broker seeks to build 'premiere middle market platform' with purchase of rival USI",
-   "url": "https://www.cnbc.com/2026/08/31/aon-ceo-says-usi-deal-seeks-to-build-premiere-middle-market-insurance-platform.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The insurance broker said the merger will create the premiere U.S. middle-market platform.",
-   "image": "https://image.cnbcfm.com/api/v1/image/106898411-1623876964439-aon.jpg?v=1623877087&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-08-31T12:35:32+00:00"
-  },
-  {
-   "title": "Santoli: Why investors should be on high alert heading into September",
-   "url": "https://www.cnbc.com/2026/08/31/santoli-why-investors-should-be-on-high-alert-heading-into-september.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Investors should be on high alert because various key market metrics are coiling near consequential thresholds.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353950-1787671978490-Traders-20260825-AS-PRESS-1.jpg?v=1787672206&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-08-31T11:40:29+00:00"
-  },
-  {
-   "title": "Germany is stepping up on defense — and Washington should celebrate",
-   "url": "https://www.defensenews.com/opinion/2026/08/31/germany-is-stepping-up-on-defense-and-washington-should-celebrate/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "German defense firms are creating industrial partnerships with American companies, deepening the transatlantic defense production relationship.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/C6BJCPMH3RBC3JH75V24QZLIK4.jpg",
-   "age": "4h ago",
-   "published": "2026-08-31T10:30:12+00:00"
   },
   {
    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
@@ -201,52 +376,8 @@
    "topic": "ai",
    "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
-   "age": "4h ago",
-   "published": "2026-08-31T10:00:34+00:00"
-  },
-  {
-   "title": "U.S.-Iran escalation shows Washington's frustration with slow-moving sanctions",
-   "url": "https://www.cnbc.com/2026/08/31/us-trump-hormuz-iran-kharg-larak-oil-analysts-sanctions-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Renewed hostilities reopen the question of whether the conflict is grinding toward a settlement or further escalation.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108311028-1779432514944-gettyimages-2276029086-3e7a6436.jpeg?v=1779432590&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-08-31T06:59:11+00:00"
-  },
-  {
-   "title": "The Mecca pact explained, tankers for Qatar, and CENTCOM’s new drone force",
-   "url": "https://breakingdefense.com/2026/08/the-mecca-pact-explained-tankers-for-qatar-and-centcoms-new-drone-force/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Middle East Bureau Chief Agnes Helou recaps leading developments from the region before speaking with Dubai-based analyst Riad Kahwaji.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/MEDD15-pb-1024x576.png",
    "age": "10h ago",
-   "published": "2026-08-31T04:30:00+00:00"
-  },
-  {
-   "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-   "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-   "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
-   "age": "12h ago",
-   "published": "2026-08-31T02:34:00+00:00"
-  },
-  {
-   "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
-   "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q A, the CEO walks us through how AI, a controversial $350-plus EDGE ti…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/George-Arison.jpg?resize=800,1200",
-   "age": "12h ago",
-   "published": "2026-08-31T02:18:57+00:00"
+   "published": "2026-08-31T10:00:34+00:00"
   },
   {
    "title": "Take 5 story lines: Byron, the No. 24 and a Daytona ruckus in the regular-season finale",
@@ -256,7 +387,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "13h ago",
+   "age": "19h ago",
    "published": "2026-08-31T01:07:53+00:00"
   },
   {
@@ -267,7 +398,7 @@
    "topic": "defense",
    "summary": "Carrier USS Abraham Lincoln (CVN-72) passed through the Singapore Strait on Saturday en route to a planned port visit in Thailand, according to ship spotters. Several ph…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9872367-scaled.jpg",
-   "age": "15h ago",
+   "age": "21h ago",
    "published": "2026-08-30T23:12:37+00:00"
   },
   {
@@ -278,63 +409,8 @@
    "topic": "ai",
    "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-   "age": "16h ago",
+   "age": "22h ago",
    "published": "2026-08-30T21:40:56+00:00"
-  },
-  {
-   "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
-   "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
-   "age": "20h ago",
-   "published": "2026-08-30T18:33:44+00:00"
-  },
-  {
-   "title": "Why it matters that President Trump just dialed into a NASA news conference",
-   "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg",
-   "age": "20h ago",
-   "published": "2026-08-30T17:40:30+00:00"
-  },
-  {
-   "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-   "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a f…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
-   "age": "21h ago",
-   "published": "2026-08-30T16:54:25+00:00"
-  },
-  {
-   "title": "Inside Meta’s push to put robots to work in data centers",
-   "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The company is testing robots on tasks that can performed by technicians.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-   "age": "1d ago",
-   "published": "2026-08-30T11:03:47+00:00"
-  },
-  {
-   "title": "GEORGE GRENCHIK | Our generally good healthcare 'system'",
-   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_4977300b-7713-4b59-b6c4-eeb51842b638.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "1d ago",
-   "published": "2026-08-30T11:00:00+00:00"
   },
   {
    "title": "Russia Changing Missile And Drone Attack Strategy On Ukrainian Capital",
@@ -344,19 +420,8 @@
    "topic": "defense",
    "summary": "Ukraine Situation Report: The new strategy prioritizes frequency over amplitude, wearing down the populace and exhausting air defenders. The post Russia Changing Missile…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/Russian-Tactic-Change.jpg?quality=85",
-   "age": "1d ago",
-   "published": "2026-08-29T19:15:36+00:00"
-  },
-  {
-   "title": "I asked 100 companies for my data. Some deleted it instead.",
-   "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
    "age": "2d ago",
-   "published": "2026-08-29T10:50:31+00:00"
+   "published": "2026-08-29T19:15:36+00:00"
   },
   {
    "title": "Strait of Hormuz Tanker Transits Up But Still Below Pre–War Levels",
@@ -381,39 +446,6 @@
    "published": "2026-08-28T20:36:00+00:00"
   },
   {
-   "title": "The big defense spending priorities awaiting Congress in September",
-   "url": "https://breakingdefense.com/2026/08/the-big-defense-spending-priorities-awaiting-congress-in-september/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "There is a lot of business awaiting the House and Senate when they return to Washington.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/CRU30-pb-1024x576.png",
-   "age": "2d ago",
-   "published": "2026-08-28T19:24:25+00:00"
-  },
-  {
-   "title": "The devastation of NSA Bahrain is a national security warning",
-   "url": "https://www.defensenews.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "If NSA Bahrain is not reconstituted to pre-attack capabilities, it will fundamentally change how the U.S. Navy operates, the author of this op-ed writes.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MANNHDY5GFEKRK66KOSZXBHR6A.jpg",
-   "age": "2d ago",
-   "published": "2026-08-28T19:11:37+00:00"
-  },
-  {
-   "title": "USNI News Western Pacific Pulse: Aug. 28, 2026",
-   "url": "https://news.usni.org/2026/08/28/usni-news-western-pacific-pulse-aug-28-2026",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Strait of Malacca Aircraft carrier USS Abraham Lincoln…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9884720-scaled.jpg",
-   "age": "2d ago",
-   "published": "2026-08-28T18:18:39+00:00"
-  },
-  {
    "title": "USAF Stands Up Unit To Fly HH-60W Helicopters In Doomsday Evacuation Role In Nation’s Capital",
    "url": "https://www.twz.com/air/usaf-stands-up-unit-to-fly-hh-60w-helicopters-in-doomsday-evacuation-role-in-nations-capital",
    "source": "The War Zone",
@@ -421,41 +453,8 @@
    "topic": "defense",
    "summary": "Jolly Green II rescue helicopters offer a capability boost for VIP airlift and continuity of government roles, but there are questions about the plan. The post USAF Stan…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/hh-60w-5th-helicopter-squadron-continuity-of-government.jpg?quality=85",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-08-28T17:57:40+00:00"
-  },
-  {
-   "title": "Massive Expansion At China’s ‘Area 51’",
-   "url": "https://www.twz.com/news-features/chinas-area-51-is-undergoing-a-massive-expansion",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The buildout of the remote flight-test base has accelerated sharply, and large new hangars suggest a specific type of aircraft may be arriving in the near future. The po…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/China-Area-51-new-hangars-high-res.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-08-28T17:45:31+00:00"
-  },
-  {
-   "title": "U.S. Navy Wants New Standoff Aerial Torpedo for Carrier Aircraft",
-   "url": "https://news.usni.org/2026/08/28/u-s-navy-wants-new-standoff-aerial-torpedo-for-carrier-aircraft",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The U.S. Navy is looking to develop a next-generation standoff torpedo that can be carried by carrier-based aircraft and drones, USNI News has learned. A request for inf…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/8268771-scaled.jpg",
-   "age": "2d ago",
-   "published": "2026-08-28T15:55:59+00:00"
-  },
-  {
-   "title": "Military uses AV directed-energy system to ‘defeat’ drones at the border",
-   "url": "https://breakingdefense.com/2026/08/military-uses-av-directed-energy-system-to-defeat-drones-at-the-border/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The task force did not disclose exactly where the drones were engaged or who was suspected of flying them, but suggested they could have been used for reconnaissance by …",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9500756-e1787931863708.jpg",
-   "age": "2d ago",
-   "published": "2026-08-28T15:54:53+00:00"
   }
  ]
 }
