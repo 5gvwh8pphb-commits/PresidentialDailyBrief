@@ -1,109 +1,167 @@
 {
- "generated": "2026-08-31T00:58:53+00:00",
+ "generated": "2026-08-31T06:42:02+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 37,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
   "Defense News",
   "Fox News",
+  "Hendrick Motorsports",
+  "NASCAR en Español",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "VentureBeat AI"
+  "VentureBeat AI",
+  "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "Oil rises over 1% after U.S. forces strike two Iranian rocket launchers on Larak Island",
-   "url": "https://www.cnbc.com/2026/08/31/oil-prices-hormuz-iran-larak-island-centcom.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil rises Monday, amid heightened concerns over supply disruptions after U.S. forces struck two Iranian rocket launchers on Larak Island on Sunday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347819-1786452008208-gettyimages-2289371437-AFP_C4CF39M.jpeg?v=1786452035&amp;w=1920&amp;h=1080",
-   "age": "12m ago",
-   "published": "2026-08-31T00:46:46+00:00"
-  },
-  {
-   "title": "Alex Palou clinches fourth straight IndyCar title and fifth overall in doubleheader at Milwaukee Mile",
-   "url": "https://www.foxnews.com/outkick-sports/alex-palou-clinches-fourth-straight-indycar-title-fifth-overall-doubleheader-milwaukee-mile",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Alex Palou clinched his fourth straight IndyCar championship in Milwaukee, moving to third on the all-time list behind AJ Foyt and Scott Dixon.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/alex-palou5.jpg?ve=1&tl=1",
-   "age": "25m ago",
-   "published": "2026-08-31T00:33:49+00:00"
-  },
-  {
-   "title": "Billions in US aid to Ukraine under microscope as corruption rocks Zelenskyy’s inner circle",
-   "url": "https://www.foxnews.com/world/billions-us-aid-ukraine-under-microscope-corruption-rocks-zelenskyys-inner-circle",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Over 24 federal agencies oversee billions in U.S. defense aid to Ukraine as Zelenskyy dismisses officials amid widening anti-corruption probes, expert says.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/06/931/523/Zelenskyy-5.png?ve=1&tl=1",
-   "age": "28m ago",
-   "published": "2026-08-31T00:30:48+00:00"
-  },
-  {
-   "title": "U.S. strikes Iranian rocket launchers near Strait of Hormuz",
+   "title": "Trump threatens to blow up Iran's Kharg Island oil hub as hostilities escalate once again",
    "url": "https://www.cnbc.com/2026/08/30/us-iran-strikes-strait-hormuz.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
    "summary": "The last major U.S. strikes on Iran were carried out in late July.",
    "image": "https://image.cnbcfm.com/api/v1/image/108352273-17872451872026-08-20t165456z_874129621_rc2k0na5imb6_rtrmadp_0_iran-crisis-usa-carrier.jpeg?v=1788126071&amp;w=1920&amp;h=1080",
-   "age": "39m ago",
-   "published": "2026-08-31T00:19:15+00:00"
+   "age": "52m ago",
+   "published": "2026-08-31T05:49:48+00:00"
   },
   {
-   "title": "Abbey Gate survivor describes chaos before attack, says pullout was botched from the start",
-   "url": "https://www.foxnews.com/media/abbey-gate-survivor-describes-chaos-before-attack-says-pullout-botched-from-start",
+   "title": "Duffy teases 'unprecedented fraud crackdown' announcement with DHS, DOJ",
+   "url": "https://www.foxnews.com/politics/duffy-teases-unprecedented-fraud-crackdown-announcement-dhs-doj",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Tyler Vargas-Andrews says Marines were forced to improvise during the Afghanistan evacuation with no tents, food, or support during the withdrawal at Abbey Gate in Augus…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/08/931/523/Afghans-kabul-us.-evacuation44.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-08-31T00:16:01+00:00"
+   "summary": "Secretary of Transportation Sean Duffy teased a multi-agency fraud crackdown involving DHS, DOJ and ICE that is set to be announced on Monday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/sean-duffy-2.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-08-31T05:38:07+00:00"
   },
   {
-   "title": "San Diego Padres swept by Rays after outfielder drops fly ball over the fence for a home run: WATCH",
-   "url": "https://www.foxnews.com/outkick-sports/san-diego-padres-swept-rays-outfielder-drops-fly-ball-over-fence-home-run-watch",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The San Diego Padres saw their wild card hopes crumble when Samad Taylor dropped a routine fly ball, turning a sure out into a game-tying homer.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/mason-miller-jonny-deluca-home-run-tropicana.jpg?ve=1&tl=1",
-   "age": "59m ago",
-   "published": "2026-08-30T23:59:35+00:00"
-  },
-  {
-   "title": "K-beauty giant APR's shares up 100% this year ahead of U.S. Costco launch in September",
-   "url": "https://www.cnbc.com/2026/08/31/k-beauty-apr-costco-launch-september.html",
+   "title": "France is becoming the ‘poster child’ of sovereign debt problems as government borrowing costs hit near 2008 highs",
+   "url": "https://www.cnbc.com/2026/08/31/france-debt-bond-yields-budget.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "APR is accelerating its U.S. retail expansion with a Costco launch in September, as the K-beauty company's shares have surged nearly 100% this year.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108356125-1788090452797-gettyimages-2205793286-1s1a6390_1qtgybyn.jpeg?v=1788090464&amp;w=1920&amp;h=1080",
+   "summary": "France's debt burden and political gridlock are pushing borrowing costs toward levels not seen since 2008.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108341552-1785310333349-gettyimages-2284881924-AFP_B9VA2WE.jpeg?v=1785310365&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-08-30T23:55:09+00:00"
+   "published": "2026-08-31T05:08:47+00:00"
   },
   {
-   "title": "Curacao wins second Little League World Series in country's history, first since 2004",
-   "url": "https://www.foxnews.com/outkick-sports/curacao-wins-second-little-league-world-series-countrys-history-first-since-2004",
+   "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit",
+   "url": "https://www.cnbc.com/2026/08/31/china-xi-us-trump-visit-sco-brics-modi-india.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Chinese President Xi Jinping is expected to make his first visit to India before traveling to the U.S. for a meeting with U.S. President Donald Trump.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108356164-1788133531414-gettyimages-2292268542-AA_30082026_2933783.jpeg?v=1788133636&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-08-31T04:57:24+00:00"
+  },
+  {
+   "title": "The Mecca pact explained, tankers for Qatar, and CENTCOM’s new drone force",
+   "url": "https://breakingdefense.com/2026/08/the-mecca-pact-explained-tankers-for-qatar-and-centcoms-new-drone-force/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Middle East Bureau Chief Agnes Helou recaps leading developments from the region before speaking with Dubai-based analyst Riad Kahwaji.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/MEDD15-pb-1024x576.png",
+   "age": "2h ago",
+   "published": "2026-08-31T04:30:00+00:00"
+  },
+  {
+   "title": "BYD shares slide as fierce China competition dents first-half earnings",
+   "url": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "BYD shares slid after the automaker released its latest results on Friday, despite higher second-quarter profit and overseas growth.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108260528-1770089664242-gettyimages-2254778570-20260105-kpro0115.jpeg?v=1770328678&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-08-31T04:01:47+00:00"
+  },
+  {
+   "title": "Accused NC killer mom plans insanity defense — as retired judge says more may follow Lindsay Clancy strategy",
+   "url": "https://www.foxnews.com/us/accused-nc-killer-mom-plans-insanity-defense-retired-judge-says-more-may-follow-lindsay-clancy-strategy",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Curacao ended a 22-year title drought with an 11-2 rout of Nevada in the Little League World Series championship game on a dominant performance.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/curacaochamps.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-08-30T23:47:43+00:00"
+   "summary": "Andrea Faust s insanity defense in her son s killing draws direct parallels to Lindsay Clancy s postpartum psychosis case as jurors deliberate.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Lindsay-Clancy-Andrea-Faust.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-08-31T04:00:44+00:00"
+  },
+  {
+   "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+   "url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108355820-1787932538589-_05A6288.jpg?v=1787932815&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-08-31T03:47:28+00:00"
+  },
+  {
+   "title": "Rockies player benched after flipping off Braves fans, caught on video giving the bird",
+   "url": "https://www.foxnews.com/outkick-sports/rockies-player-benched-flipping-off-braves-fans-caught-video-giving-bird",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Cole Carrigg flipped off Atlanta Braves fans after a costly eighth-inning misplay, and Rockies manager Warren Schaeffer pulled him from the lineup.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rockies-cole-carrigg-1.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-08-31T02:51:11+00:00"
+  },
+  {
+   "title": "Many are making the argument that Jordan Travis was the greatest college QB of all time, and they aren't wrong",
+   "url": "https://www.foxnews.com/outkick-sports/many-making-argument-jordan-travis-greatest-college-qb-all-time-arent-wrong",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jordan Travis posted a 29-10 record with Florida State s Mike Norvell, but FSU has gone 8-17 since his departure from the Seminoles program.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/931/523/GettyImages-jordan-travis-1-copy.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-08-31T02:37:27+00:00"
+  },
+  {
+   "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+   "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
+   "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
+   "age": "4h ago",
+   "published": "2026-08-31T02:34:00+00:00"
+  },
+  {
+   "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+   "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q A, the CEO walks us through how AI, a controversial $350-plus EDGE ti…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/George-Arison.jpg?resize=800,1200",
+   "age": "4h ago",
+   "published": "2026-08-31T02:18:57+00:00"
+  },
+  {
+   "title": "Take 5 story lines: Byron, the No. 24 and a Daytona ruckus in the regular-season finale",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeFZoQjcyU2p2VGNSSVQ4VG9qXy1IdXpIbnRvSTlFSUY3QldRaVZTVFpOVkk4RDQ0R0VVZ2RFb2FNT0RoTHcyVW0wRURYVHhVRllXZHVPQmFfaVJrZWlOQzNLOERNNUVmMzhjMm0yUF84alpvMXJnYTB3RTBCSk4yU25oQjk1cnA2aG5uaU1uTmpDWWZiaFUxRHFaNktmcmIyLUg1QUxibVNxbW43U2F4NA?oc=5",
+   "source": "NASCAR en Español",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "5h ago",
+   "published": "2026-08-31T01:07:53+00:00"
   },
   {
    "title": "USS Abraham Lincoln Passes Through Singapore Strait En route to Thailand",
@@ -113,19 +171,8 @@
    "topic": "defense",
    "summary": "Carrier USS Abraham Lincoln (CVN-72) passed through the Singapore Strait on Saturday en route to a planned port visit in Thailand, according to ship spotters. Several ph…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9872367-scaled.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-08-30T23:12:37+00:00"
-  },
-  {
-   "title": "Aon nears $17 billion deal to buy insurance broker USI from KKR, WSJ reports",
-   "url": "https://www.cnbc.com/2026/08/30/aon-usi-17-billion-deal-talks.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Aon is nearing a roughly $17 billion deal, including debt, to acquire insurance brokerage USI from KKR, the Journal reported.",
-   "image": "https://image.cnbcfm.com/api/v1/image/106898411-1623876964439-aon.jpg?v=1623877087&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-08-30T22:05:32+00:00"
   },
   {
    "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
@@ -135,19 +182,8 @@
    "topic": "ai",
    "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-08-30T21:40:56+00:00"
-  },
-  {
-   "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials",
-   "url": "https://www.cnbc.com/2026/08/30/trump-nbc-election-comment-treasury-g20-reporter-access.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump's attack on NBC comes after the Treasury barred journalists from The New York Times, The Wall Street Journal and Bloomberg from attending the G20.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107302174-1695037986447-gettyimages-1672364210-NUP_202218_00370JPG.jpeg?v=1695038154&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-08-30T19:40:52+00:00"
   },
   {
    "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
@@ -157,7 +193,7 @@
    "topic": "ai",
    "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/LIUX-BIG-Factory-001.png?resize=1200,800",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-08-30T18:33:44+00:00"
   },
   {
@@ -168,7 +204,7 @@
    "topic": "ai",
    "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large-1152x648.jpg",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-08-30T17:40:30+00:00"
   },
   {
@@ -179,30 +215,8 @@
    "topic": "ai",
    "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a f…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-08-30T16:54:25+00:00"
-  },
-  {
-   "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-   "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-jaguar-ipace.jpg?resize=1200,633",
-   "age": "8h ago",
-   "published": "2026-08-30T16:03:00+00:00"
-  },
-  {
-   "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-   "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
-   "age": "9h ago",
-   "published": "2026-08-30T15:00:00+00:00"
   },
   {
    "title": "Inside Meta’s push to put robots to work in data centers",
@@ -212,7 +226,7 @@
    "topic": "ai",
    "summary": "The company is testing robots on tasks that can performed by technicians.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room-1152x648.jpg",
-   "age": "13h ago",
+   "age": "19h ago",
    "published": "2026-08-30T11:03:47+00:00"
   },
   {
@@ -223,7 +237,7 @@
    "topic": "local",
    "summary": "",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "13h ago",
+   "age": "19h ago",
    "published": "2026-08-30T11:00:00+00:00"
   },
   {
@@ -247,17 +261,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata-1024x648.jpg",
    "age": "1d ago",
    "published": "2026-08-29T10:50:31+00:00"
-  },
-  {
-   "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-   "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg",
-   "age": "2d ago",
-   "published": "2026-08-28T22:14:52+00:00"
   },
   {
    "title": "Strait of Hormuz Tanker Transits Up But Still Below Pre–War Levels",
@@ -381,17 +384,6 @@
    "published": "2026-08-28T15:44:05+00:00"
   },
   {
-   "title": "With AI hackers in mind, Air Forces Cyber develops defensive ‘campaign plan’",
-   "url": "https://breakingdefense.com/2026/08/with-ai-hackers-in-mind-air-forces-cyber-develops-defensive-campaign-plan/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "When people say, ‘Hey, we re at an inflection point,’ we are absolutely at an inflection point,” 16th Air Force commander Lt. Gen. Thomas Hensley said of AI threats to t…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/02/230210_DVIDS_cyber_dark_4259914-scaled-e1676042385196-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-08-28T15:07:32+00:00"
-  },
-  {
    "title": "India turns to private sector to ramp up missile production",
    "url": "https://www.defensenews.com/global/asia-pacific/2026/08/28/india-turns-to-private-sector-to-ramp-up-missile-production/",
    "source": "Defense News",
@@ -412,17 +404,6 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/I6EOQ5CARBCIDOAPLLNSRU5GKQ.jpg",
    "age": "2d ago",
    "published": "2026-08-28T11:44:36+00:00"
-  },
-  {
-   "title": "Navy Finishes First Barracks Overhaul As Part of Quality of Life Initiatives",
-   "url": "https://news.usni.org/2026/08/27/navy-finishes-first-barracks-overhaul-as-part-of-quality-of-life-initiatives",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Navy finished the first of its modernization projects meant to move sailors into shore housing as part of the Pentagon’s overall Barracks Task Force, the installatio…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/08/9893339.jpg",
-   "age": "3d ago",
-   "published": "2026-08-27T21:46:58+00:00"
   },
   {
    "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -456,6 +437,28 @@
    "image": "https://images.ctfassets.net/jdtwqhzvc2n1/9VRh8KJhBqcFviSV8ClXc/feea8ec8fe76ffa0bc5cdb3dd95e1492/EDB_hero.jpeg?w=300&q=30",
    "age": "3d ago",
    "published": "2026-08-27T12:01:00+00:00"
+  },
+  {
+   "title": "NASCAR on TV this weekend: Hendrick Motorsports looks for Cup, O'Reilly Series success at Daytona",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWlBoOVN2N1ROUDRlNGxXRHl3WXhieGRjcWhvVl9sSHJMbEpwdnBZOHdnZTZxZmFnaFpyRjRjMDRLaENWa3U0OHdqZ3lHQ0J5VmhLTFZLV18xUDBodkhQTWpOLWdfVThSMDRRMXhmenZpLTg0MlVWZ08xdFVsR0FFY0NPc0tfazlicFRjczlWX1FYTUpSeVFKYWdzQlBKbTJ6X2ozdGZ6cExCR25WdUFMSWNsUnhiSllmLXd0SHowVW1JTV9QWHpnNVF1cw?oc=5",
+   "source": "Hendrick Motorsports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-27T10:10:22+00:00"
+  },
+  {
+   "title": "William Byron’s Crew Hit With Major Penalties After New Hampshire Disaster",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNTItaTZaUWpCblNYYTI1ajFibklPM09HamRuaGdsc3R2ZlkweDlYbkJQYnJSRzFVVlZKM09qNjMzaWZ6ampRbElWdGt6a2xPdTBsZG1ZX2pjRm1hc2VMYW1PaGc0T2hOYmVpdWhEWDg0MF9UVC1VSFJiZDVCdzdkRnEzQQ?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-08-27T07:56:12+00:00"
   }
  ]
 }
