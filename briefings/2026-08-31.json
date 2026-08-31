@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-31",
+  "dateLabel": "Monday, August 31, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-08-31T16:26:06Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, August 28, 2026 close — a mostly calm week that ended with a modest Friday pullback, but all three indexes still finished higher for the week.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,711.76", "change": "+0.5%", "heroLabel": "week", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,559.99", "change": "+0.5%", "heroLabel": "week", "sixMo": "+9.4%" },
+        { "name": "Nasdaq",  "close": "26,402.42", "change": "+0.9%", "heroLabel": "week", "sixMo": "+16%" }
+      ],
+      "body": "Nvidia's biggest one-day gain in more than a year on Thursday powered the week's advance before stocks slipped Friday, as new Fed Chair Kevin Warsh's first Jackson Hole address cautioned that this summer's cooler inflation readings don't yet show durable improvement.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Trump announces deal giving US effective control of 65 billion barrels of Venezuelan oil reserves",
+      "body": "Trump said Secretary of State Marco Rubio and Defense Secretary Pete Hegseth negotiated an agreement with Venezuela's acting President Delcy Rodriguez giving Washington a 55% effective stake and cost-price buying rights across 17 oil fields, though neither government has released the deal's text or named the private operator that would run it.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5948229/trump-says-u-s-has-entered-deal-with-venezuela-to-take-control-of-65-billion-barrels-of-oil-reserves"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Chinese government ships around Taiwan hit a record 244 in July, coast guard says",
+      "body": "Taiwan's Coast Guard Administration said Chinese coast guard, research and other government vessels detected around Taiwan surged to a record 244 last month, nearly eight a day and up sharply from 55 in June, a tally that excludes the warships Beijing deploys near-daily; analysts say the expanded presence is partly aimed at mapping the strait for submarine warfare.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/28/2003863266"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US strikes Iranian mine-laying forces on Larak Island; Iran retaliates against bases in Jordan",
+      "body": "CENTCOM said it took 'limited, precise action' Sunday against Iranian Revolutionary Guard forces preparing to lay sea mines in the Strait of Hormuz, its first strike on Iran in more than a month; the IRGC responded hours later with a missile-and-drone attack it called 'Punishment of the Aggressor' on Jordan's King Hussein and Al Azraq air bases, which Jordan said it largely intercepted with no reported US casualties.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/08/30/politics/us-iran-strikes-larak-island"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan-bound Harpoon Coastal Defense System scores a direct hit in US Navy live-fire test",
+      "body": "The land-based Harpoon Coastal Defense System hit its target in a US Navy trial, a milestone toward completing Taiwan's $2.3 billion order for 100 mobile launchers and 400 Harpoon Block II missiles; Taiwan's navy has begun receiving launch, command-and-control and radar vehicles and is running acceptance and simulated-strike training ahead of full delivery by 2028.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/08/31/2003863406"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic to cut Claude Code's current weekly usage limits by about 17% starting Sept. 14",
+      "body": "Anthropic said it will permanently raise Claude Code's standard weekly limits by 25% above the pre-promotion baseline starting Sept. 14, replacing the temporary 50% boost in place since May; because that promotional boost is larger than the new permanent level, users will see roughly a 17% cut in weekly capacity compared with what they've had all summer.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears set initial 53-man roster, releasing Marcus Davenport and Jedrick Wills Jr. on cutdown day",
+      "body": "Chicago trimmed to the NFL's 53-man limit Sunday, releasing edge rusher Marcus Davenport, tackle Jedrick Wills Jr. and preseason standouts Maurice Alexander and Scotty Miller among others, while placing cornerback Kyler Gordon, linebacker Noah Sewell and defensive tackle Shemar Turner on reserve/PUP, sidelining that trio for at least the season's first four games.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/08/30/bears-set-53-man-roster-nfl-cut-day-sunday-deadline-ryan-poles-ben-johnson"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "NASCAR's 16-driver Chase field is set; Byron's team turns to Darlington prep",
+      "body": "With the regular season complete, NASCAR's 16-driver Chase field is now official, and William Byron's Hendrick Motorsports team says it has already begun setup work for next Sunday's Cook Out Southern 500, the Round of 16 opener at Darlington Raceway on Sept. 6 — a track Byron has called one of his team's strongest.",
+      "source": "NASCAR.com",
+      "url": "https://www.nascar.com/news-media/2026/08/30/2026-nascar-cup-series-chase-field-set-after-daytona/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
