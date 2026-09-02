@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-02T13:56:25+00:00",
+ "generated": "2026-09-02T17:32:21+00:00",
  "count": 40,
  "withImage": 39,
  "bearsDay": true,
@@ -13,6 +13,7 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -20,15 +21,37 @@
  ],
  "items": [
   {
-   "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
-   "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Uber is cutting small teams by nearly half and allowing about 1% of its workforce to continue working remotely.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108145509-1747239375790-gettyimages-2214413183-UBER_LAUNCH.jpeg?v=1747239440&amp;w=1920&amp;h=1080",
-   "age": "2m ago",
-   "published": "2026-09-02T13:53:45+00:00"
+   "title": "USS Abraham Lincoln Looks Like It’s Been Through Hell After 286 Days At Sea",
+   "url": "https://www.twz.com/sea/uss-abraham-lincoln-looks-like-its-been-through-hell-after-286-days-at-sea",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "We got our first good look at the Lincoln as it pulled into port in Thailand for its only liberty call of its entire cruise and after sustaining high-tempo combat ops fo…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/Lincoln-carrier-long-deployment-rust.jpg?quality=85",
+   "age": "4m ago",
+   "published": "2026-09-02T17:28:20+00:00"
+  },
+  {
+   "title": "Agent's Take: Cam Skattebo needs better advice as preseason antics wear thin for Giants",
+   "url": "https://www.cbssports.com/nfl/news/agents-take-cam-skattebos-giants/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/02/0e6fc166-416e-422f-92db-c262c38717ae/skattebo.jpg",
+   "age": "6m ago",
+   "published": "2026-09-02T17:25:40+00:00"
+  },
+  {
+   "title": "Israeli LORA Ballistic Missiles Fired From German Frigate",
+   "url": "https://www.twz.com/sea/israeli-lora-ballistic-missiles-fired-from-german-frigate",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "LORA could give Germany’s navy a way to strike highly defended and hardened targets hundreds of miles inland. The post Israeli LORA Ballistic Missiles Fired From German …",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/LORA-LAUNCH-AT-SEA.jpg?quality=85",
+   "age": "9m ago",
+   "published": "2026-09-02T17:22:58+00:00"
   },
   {
    "title": "New York Fed's Williams says yield surge due to strong economic prospects",
@@ -36,10 +59,230 @@
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The central bank policymaker in a CNBC interview did not commit on whether he thinks an interest rate hike is necessary.",
+   "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
    "image": "https://image.cnbcfm.com/api/v1/image/108287978-1775572555474-gettyimages-2269656472-WILLIAMS_INTERVIEW.jpeg?v=1775572583&amp;w=1920&amp;h=1080",
    "age": "10m ago",
-   "published": "2026-09-02T13:45:54+00:00"
+   "published": "2026-09-02T17:21:59+00:00"
+  },
+  {
+   "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+   "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into jo…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+   "age": "14m ago",
+   "published": "2026-09-02T17:18:13+00:00"
+  },
+  {
+   "title": "Florida police learn the hard way to not trust 'Crooked Jess' with money to buy crack for undercover operation",
+   "url": "https://www.foxnews.com/outkick-culture/florida-police-learn-hard-way-not-trust-crooked-jess-money-buy-crack-undercover-operation",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jessica Straubel Sanchez, aka Crooked Jess, allegedly vanished with $60 given by an undercover officer to buy crack cocaine in Pinellas County.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/pinellas-county-sheriff-deputy-elections-office.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-09-02T17:17:06+00:00"
+  },
+  {
+   "title": "Platner's replacement faces new Senate campaign headache tied to his son's lobbying",
+   "url": "https://www.foxnews.com/politics/platners-replacement-faces-new-senate-campaign-headache-tied-his-sons-lobbying",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Former State Senator Troy Jackson backed millions in public funds for Maine Maritime Academy while his son was a registered lobbyist for the school.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Troy-Jackson.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-09-02T17:16:40+00:00"
+  },
+  {
+   "title": "Southwest to debut airport lounges in four cities, with more to come",
+   "url": "https://www.cnbc.com/2026/09/02/southwest-airport-lounges.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The airline is partnering with Chase on the effort, saying it wants to build on that company's Sapphire Reserve Lounge Network.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108222786-1762472070235-gettyimages-2245403072-tdp-l-dia-rjs-7306.jpeg?v=1788365679&amp;w=1920&amp;h=1080",
+   "age": "17m ago",
+   "published": "2026-09-02T17:14:33+00:00"
+  },
+  {
+   "title": "X shifts US creator payouts from Stripe to X Money",
+   "url": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-28-at-10.24.40-AM.png?resize=1200,607",
+   "age": "19m ago",
+   "published": "2026-09-02T17:12:27+00:00"
+  },
+  {
+   "title": "NFL to commemorate 25th anniversary of 9/11 terrorist attacks across all its stadiums and even in Australia",
+   "url": "https://www.foxnews.com/outkick-sports/nfl-commemorate-25th-anniversary-9-11-terrorist-attacks-across-stadiums-australia",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The NFL will stencil Never Forget in every end zone and auction special 9/11 tribute coins as all Week 1 games mark the terror attacks 25th anniversary.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/World-Trade-Center.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-09-02T17:09:43+00:00"
+  },
+  {
+   "title": "Week 1 NFL odds, lines, best bets, predictions: Computer model backs Eagles and Jaguars",
+   "url": "https://www.cbssports.com/betting/news/week-1-nfl-2026-odds-lines-spreads-predictions-picks/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/07/24/86b794df-2d3e-4ccd-8a3e-be90ab628903/bhayshul-tuten-jacksonville-jaguars-imagn-images.jpg",
+   "age": "22m ago",
+   "published": "2026-09-02T17:09:38+00:00"
+  },
+  {
+   "title": "Klint Kubiak names Kirk Cousins starter over No. 1 pick Fernando Mendoza",
+   "url": "https://www.cbssports.com/nfl/news/klint-kubiak-names-kirk-cousins-starter-over-no-1-pick-fernando-mendoza/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/02/47a545ec-5399-4c8f-8737-045657e674e4/kirk-cousins-raiders.jpg",
+   "age": "23m ago",
+   "published": "2026-09-02T17:09:13+00:00"
+  },
+  {
+   "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+   "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and p…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+   "age": "23m ago",
+   "published": "2026-09-02T17:09:06+00:00"
+  },
+  {
+   "title": "One Chicago Bears Fan s Open Letter to Kyler Gordon",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/121809/an-open-letter-to-kyler-gordon-chicago-bears-ben-johnson-ryan-poles",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2256052678.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "32m ago",
+   "published": "2026-09-02T17:00:00+00:00"
+  },
+  {
+   "title": "Uber to cut 10% of workforce in bid to move 'simpler and faster'",
+   "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Uber is cutting small teams by nearly half and allowing about 1% of its workforce to continue working remotely.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108055209-1730320809343-gettyimages-2168360191-SKOREA_UBER_TECHNOLOGIES.jpeg?v=1747224485&amp;w=1920&amp;h=1080",
+   "age": "40m ago",
+   "published": "2026-09-02T16:52:04+00:00"
+  },
+  {
+   "title": "European Union Naval Force Intercepts Suspected Russian Shadow Fleet Tanker",
+   "url": "https://news.usni.org/2026/09/02/european-union-naval-force-intercepts-suspected-russian-shadow-fleet-tanker",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Italian Navy multi-purpose combat ship ITS Thaon di Revel (P430), flagship of EU Naval Force Mediterranean Irini, intercepted a Cameroon-flagged oil tanker suspected of …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/HRC9Ns5W0AASFiO.jpeg",
+   "age": "1h ago",
+   "published": "2026-09-02T16:30:29+00:00"
+  },
+  {
+   "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+   "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The DOJ proved to the court that Google acted illegally, but it won't get the big win it wanted.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-02T16:30:11+00:00"
+  },
+  {
+   "title": "Army awards $192M to Palantir and Anduril to produce TITAN system",
+   "url": "https://breakingdefense.com/2026/09/army-awards-192m-to-palantir-and-anduril-to-produce-titan-system/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The effort awards $127 million to Palantir and $65 million to Anduril.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/03/TITAN_Approved-e1709687316900.png",
+   "age": "1h ago",
+   "published": "2026-09-02T16:30:00+00:00"
+  },
+  {
+   "title": "In the rush to buy drones, make sure not to stockpile obsolescence",
+   "url": "https://breakingdefense.com/2026/09/in-the-rush-to-buy-drones-make-sure-not-to-stockpile-obsolescence/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "In this op-ed, the commander of the DCMA’s Unmanned Systems – Experimental Command (US-X) warns that unit cost can t be the driver when looking at small drones.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/250714_DVIDS_soldier_quadcopter_9123554-scaled-e1752516181507-1024x577.jpg",
+   "age": "2h ago",
+   "published": "2026-09-02T15:30:00+00:00"
+  },
+  {
+   "title": "Toyohiro Akiyama, first Japanese citizen and journalist in space, dies at 84",
+   "url": "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "He reported from space that only \"fat\" Japanese tree frogs enjoyed weightlessness.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090126a-lg-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-09-02T14:47:42+00:00"
+  },
+  {
+   "title": "Navy postpones new trainer jet proposal, award dates",
+   "url": "https://breakingdefense.com/2026/09/navy-postpones-new-trainer-jet-proposal-award-dates/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Textron Aviation Defense and SNC are currently competing for the Navy s Undergraduate Jet Training System program.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/Goshawk-scaled-e1780668938549-1024x577.jpg",
+   "age": "3h ago",
+   "published": "2026-09-02T14:12:21+00:00"
+  },
+  {
+   "title": "Chicago Bears launch Vamos Bears, new Spanish-language initiative for fans worldwide",
+   "url": "https://www.chicagobears.com/news/chicago-bears-launch-vamos-bears-new-spanish-language-initiative-for-fans-worldwide",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/mamrxqcvgv0llbnnae2k.jpg",
+   "age": "3h ago",
+   "published": "2026-09-02T14:00:00+00:00"
+  },
+  {
+   "title": "Question of the Day: After Jaylon Johnson, who do you trust in the secondary?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/121730/question-of-the-day-after-jaylon-johnson-who-do-you-trust-in-the-secondary",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/07/gettyimages-2256981148.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-09-02T14:00:00+00:00"
+  },
+  {
+   "title": "Chicago Bears presenta Vamos Bears, una nueva iniciativa en Español para aficionados de todo el mundo",
+   "url": "https://www.chicagobears.com/news/chicago-bears-presenta-vamos-bears-una-nueva-iniciativa-en-espanol-para-aficionados-de-todo-el-mundo",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/mamrxqcvgv0llbnnae2k.jpg",
+   "age": "3h ago",
+   "published": "2026-09-02T13:59:00+00:00"
   },
   {
    "title": "Report to Congress on South China Sea Disputes",
@@ -49,140 +292,30 @@
    "topic": "defense",
    "summary": "The following is the Aug. 25, 2026, Congressional Research Service report, China Primer: South China Sea Disputes. From the Report Multiple Asian governments assert sove…",
    "image": null,
-   "age": "12m ago",
+   "age": "3h ago",
    "published": "2026-09-02T13:43:42+00:00"
   },
   {
-   "title": "Energy Secretary Chris Wright tells CNBC more than 17 million barrels of oil transited Hormuz on Monday",
-   "url": "https://www.cnbc.com/2026/09/02/energy-secretary-chris-wright-tells-cnbc-that-more-than-17-million-barrels-of-oil-transited-hormuz-on-monday.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Energy Secretary spoke to CNBC's Brian Sullivan in Venezuela Wednesday, after President Donald Trump announced a massive oil deal with Caracas.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108340409-1785152244799-gettyimages-2286944338-AFP_C37F7YQ.jpeg?v=1785152321&amp;w=1920&amp;h=1080",
-   "age": "14m ago",
-   "published": "2026-09-02T13:42:11+00:00"
-  },
-  {
-   "title": "White House highlights 'steepest' ever decline in US casualties from cartels amid boat strikes",
-   "url": "https://www.foxnews.com/politics/white-house-highlights-steepest-decline-us-casualties-cartels-amid-boat-strikes",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Senior administration officials discuss the American military s actions under President Donald Trump against cartels in the Western Hemisphere.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/98fa5b08-president-donald-trump-august-21-2026.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-09-02T13:41:08+00:00"
-  },
-  {
-   "title": "What the Dallas Cowboys cheerleaders make per game might surprise you, Gotterup loves the USA & life pivots",
-   "url": "https://www.foxnews.com/outkick-sports/dallas-cowboys-cheerleaders-make-per-game-might-surprise-gotterup-loves-usa-life-pivots",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dallas Cowboys cheerleaders now reportedly earn $75/hr, a 400% salary increase, while Hooters quietly closes more stores across the country.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/nfl-cowboys-cheerleaders-090325-4.jpg?ve=1&tl=1",
-   "age": "17m ago",
-   "published": "2026-09-02T13:38:31+00:00"
-  },
-  {
-   "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
-   "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Though job creation held positive, August was the smallest gain since January and reflective of a broader slowdown in the labor market.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108303914-1783007688061-108303914-1778178939793-gettyimages-2275025925-jr_19173_tzqifexs.jpg?v=1783007698&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
-   "published": "2026-09-02T13:31:29+00:00"
-  },
-  {
-   "title": "Dem megadonor among 400 Jewish Michiganders labeled AIPAC insiders for denouncing El-Sayed's leftist campaign",
-   "url": "https://www.foxnews.com/politics/dem-megadonor-among-400-jewish-michiganders-labeled-aipac-insiders-denouncing-el-sayeds-leftist-campaign",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Over 400 Michigan Jewish Democrats signed a letter backing Mike Rogers, but former Rep. Andy Levin claims AIPAC is really driving the effort.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/El-Sayed-Levin.png?ve=1&tl=1",
-   "age": "29m ago",
-   "published": "2026-09-02T13:26:49+00:00"
-  },
-  {
-   "title": "NFL survivor pool picks, advice, best knockout strategy, Week 1, 2026: Fade the Dallas Cowboys",
-   "url": "https://www.cbssports.com/betting/news/nfl-survivor-picks-knockout-pool-strategy-guide-week-1-2026-fade-the-dallas-cowboys/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/02/10f7536a-8425-489e-8c2d-dc9c661a97b6/ceedee-lamb-dallas-cowboys-imagn-images.jpg",
-   "age": "34m ago",
-   "published": "2026-09-02T13:21:49+00:00"
-  },
-  {
-   "title": "Talarico’s ‘proud capitalist’ about-face collides with resurfaced call to ‘dismantle’ capitalism",
-   "url": "https://www.foxnews.com/politics/texas-dems-proud-capitalist-pitch-collides-resurfaced-call-dismantle-capitalism",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "James Talarico once called capitalism oppressive and predicted Texas fossil fuel industry was not gonna last in a 2020 Sierra Club Zoom call.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/james-talarico-primary-night-in-austin-texas-march-3-2026.jpeg?ve=1&tl=1",
-   "age": "44m ago",
-   "published": "2026-09-02T13:11:49+00:00"
-  },
-  {
-   "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
-   "url": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
+   "title": "The Army just used a 20-kilowatt laser to take out three drones",
+   "url": "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
    "topic": "ai",
-   "summary": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-   "age": "44m ago",
-   "published": "2026-09-02T13:11:47+00:00"
+   "summary": "The Army says its laser system can track and destroy hostile drones.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/locust-laser-1152x648.jpg",
+   "age": "4h ago",
+   "published": "2026-09-02T13:04:59+00:00"
   },
   {
-   "title": "Adobe is making its tools available in Slack",
-   "url": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Adobe-For-Slack_1.jpg?resize=1200,526",
-   "age": "46m ago",
-   "published": "2026-09-02T13:09:27+00:00"
-  },
-  {
-   "title": "Best NFL player for every franchise before and after 2000: Peyton Manning earns unique distinction",
-   "url": "https://www.cbssports.com/nfl/news/best-nfl-player-every-franchise-ebefore-after-2000/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/3d59664b-f0f7-4810-ab72-2368926237a9/bestplayereachfranchise-editorialartboard-1.png",
-   "age": "1h ago",
-   "published": "2026-09-02T12:41:45+00:00"
-  },
-  {
-   "title": "Physics AI is different and changes the way defense systems are designed",
-   "url": "https://breakingdefense.com/2026/09/physics-ai-is-different-and-changes-the-way-defense-systems-are-designed/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "[Sponsored] Models that replicate real-world physics streamline design, testing and iteration processes.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/industry_insight_luminary_copy_10_v5-1080p-frame-at-0m58s-1024x576.jpg",
-   "age": "1h ago",
-   "published": "2026-09-02T12:35:00+00:00"
-  },
-  {
-   "title": "Uber is laying off 10% of staff, or 3,300 people",
-   "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robo…",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
-   "age": "1h ago",
-   "published": "2026-09-02T12:14:35+00:00"
+   "title": "More than a mural, the growing tentacles of public art in Northwest Indiana",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_867f273f-bc23-4508-aedb-48ef406be838.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "How a giant octopus mural in Valparaiso—and a growing public-art movement—are changing the way Northwest Indiana communities look, feel and attract visitors.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/4f/f4f2507b-afc6-48a8-88d5-7b1af33262ca/6a972f0d95892.image.jpg?resize=300%2C225",
+   "age": "5h ago",
+   "published": "2026-09-02T12:15:00+00:00"
   },
   {
    "title": "Chicago Bears Mascot History: From Mr. Bear to Staley Da Bear",
@@ -192,74 +325,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/Mascot-cover-image.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
-   "published": "2026-09-02T12:00:00+00:00"
-  },
-  {
-   "title": "Making sense of Cowboys' surprising roster cuts ahead of 2026 season: Joe Milton, Jaydon Blue and more",
-   "url": "https://www.cbssports.com/nfl/news/making-sense-of-cowboys-surprising-roster-cuts/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/01/46b98b27-13b6-421c-a75b-772b96ef7958/gettyimages-2292511496.jpg",
-   "age": "2h ago",
-   "published": "2026-09-02T11:35:38+00:00"
-  },
-  {
-   "title": "Is Russia's rival to Starlink failing? Here's what we know.",
-   "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/rassvet_1-1152x648-1788302694.jpg",
-   "age": "2h ago",
-   "published": "2026-09-02T11:15:23+00:00"
-  },
-  {
-   "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-   "url": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-11477585601-1000x648.jpg",
-   "age": "2h ago",
-   "published": "2026-09-02T11:00:43+00:00"
-  },
-  {
-   "title": "Sweden to ‘evaluate’ adding French long-range strike missiles to new frigates",
-   "url": "https://breakingdefense.com/2026/09/sweden-to-evaluate-adding-french-long-range-strike-missiles-to-new-frigates/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "After inking a €4.3 billion frigate deal, Sweden’s defense minister told Breaking Defense Stockholm was keeping an “open mind” about additional cruise missiles.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260901_france_sweden_frigate_signing_JONAS-scaled-e1788281372436-1024x577.jpeg",
-   "age": "3h ago",
-   "published": "2026-09-02T10:30:00+00:00"
-  },
-  {
-   "title": "Chicago Bears News: James Lynch Jack Sanborn added to 53-man roster",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/121800/chicago-bears-news-james-lynch-jack-sanborn-added-to-53-man-roster",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2292627516.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
-   "published": "2026-09-02T10:00:00+00:00"
-  },
-  {
-   "title": "Europe’s airpower future is evolving. Here’s what to know.",
-   "url": "https://breakingdefense.com/2026/09/europes-airpower-future-is-evolving-heres-what-to-know/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Breaking Defense kicks off a new video series focused on how Europe is modernizing its manned and unmanned aircraft.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260902_euro_roundtable_PLAY.png",
    "age": "5h ago",
-   "published": "2026-09-02T08:45:00+00:00"
+   "published": "2026-09-02T12:00:00+00:00"
   },
   {
    "title": "German government blames Russia for Leipzig airport drone attack with explosives",
@@ -269,7 +336,7 @@
    "topic": "defense",
    "summary": "Russia was behind the failed explosive drone attack on Germany’s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TA6AZYV36ZEG5ECBT7MWRZDIJM.jpg",
-   "age": "5h ago",
+   "age": "8h ago",
    "published": "2026-09-02T08:33:53+00:00"
   },
   {
@@ -280,18 +347,18 @@
    "topic": "defense",
    "summary": "China’s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/S6NY3FZY4RDYTDC2DIWEJ3X3UE.jpg",
-   "age": "5h ago",
+   "age": "9h ago",
    "published": "2026-09-02T08:00:10+00:00"
   },
   {
-   "title": "After over 200 days at sea, USS Abraham Lincoln arrives in Thailand",
+   "title": "After 286 days at sea, USS Abraham Lincoln arrives in Thailand",
    "url": "https://www.defensenews.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
    "source": "Defense News",
    "group": "Defense News",
    "topic": "defense",
    "summary": "The USS Abraham Lincoln arrived in Thailand on Wednesday morning after more than 200 days at sea.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IWSGHW7JHNCJNAJB6NOTVZ6BYM.JPG",
-   "age": "9h ago",
+   "age": "13h ago",
    "published": "2026-09-02T04:16:40+00:00"
   },
   {
@@ -302,19 +369,8 @@
    "topic": "defense",
    "summary": "It should not come as too much of a surprise that China is using its massive commercial fleet to spy around the globe as they go about their business. The post Chinese C…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/chinese-cargo-ships-doubling-as-spy-ships.jpg?quality=85",
-   "age": "12h ago",
+   "age": "16h ago",
    "published": "2026-09-02T01:05:41+00:00"
-  },
-  {
-   "title": "What is your Chicago Bears 2026 record prediction?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/121794/what-is-your-chicago-bears-2026-record-prediction-ben-johnson-dennis-allen-caleb-williams",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2291634186.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "13h ago",
-   "published": "2026-09-02T00:00:00+00:00"
   },
   {
    "title": "Trump Nominates Hung Cao for SECNAV",
@@ -324,19 +380,8 @@
    "topic": "defense",
    "summary": "Acting Secretary of the Navy Hung Cao is President Donald Trump’s pick to be the permanent SECNAV, the president announced on Tuesday. “I am pleased to nominate a true W…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9890160-scaled.jpg",
-   "age": "14h ago",
+   "age": "17h ago",
    "published": "2026-09-01T23:38:17+00:00"
-  },
-  {
-   "title": "Here's our first look—and drive—of the 2027 Range Rover Electric",
-   "url": "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "333 miles of real-world range with uncompromised comfort and off-road ability.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/RANGE-ROVER-ELECTRIC-AND-CLASSIC-02_09_26-1152x648.jpg",
-   "age": "14h ago",
-   "published": "2026-09-01T23:01:52+00:00"
   },
   {
    "title": "Germany Formally Accuses Russia Of Attempted Drone Strike On Ukrainian An-124 Cargo Jet",
@@ -346,7 +391,7 @@
    "topic": "defense",
    "summary": "The news comes as Germany's power grid is also targeted, with separate incidents pointing to a widening threat in Germany and beyond. The post Germany Formally Accuses R…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/An-124-Leipzig-Halle-Airport.jpg?quality=85",
-   "age": "15h ago",
+   "age": "18h ago",
    "published": "2026-09-01T22:45:46+00:00"
   },
   {
@@ -357,74 +402,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/l3ibgkrb2ahw1qkxcdtc.jpg",
-   "age": "15h ago",
+   "age": "19h ago",
    "published": "2026-09-01T22:24:11+00:00"
-  },
-  {
-   "title": "Colts GM Chris Ballard blasts NFL players returning to college: 'Stupidest s--- I've ever heard'",
-   "url": "https://www.cbssports.com/nfl/news/chris-ballard-nfl-players-returning-college/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/01/925d8fe2-3502-48b4-9fe7-564033331eb0/gettyimages-1863302873-1.jpg",
-   "age": "16h ago",
-   "published": "2026-09-01T21:17:15+00:00"
-  },
-  {
-   "title": "Japanese, South Korean, Turkish Warships Under Consideration for New U.S. Frigate Competition",
-   "url": "https://news.usni.org/2026/09/01/japanese-south-korean-turkish-warships-under-consideration-for-new-u-s-frigate-competition",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The White House and U.S. Navy are considering frigate designs from South Korea, Japan and Turkey for a new class of warships, USNI News has learned. An international war…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/Collage-maker-project-September-01-2026-at-16.52.30.jpeg",
-   "age": "16h ago",
-   "published": "2026-09-01T21:10:28+00:00"
-  },
-  {
-   "title": "8 things we learned from Bears GM Ryan Poles",
-   "url": "https://www.chicagobears.com/news/8-things-we-learned-from-bears-gm-ryan-poles-53-man-roster-2026",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/jirx2ko7yqjvk1dunlop.jpg",
-   "age": "18h ago",
-   "published": "2026-09-01T19:41:51+00:00"
-  },
-  {
-   "title": "Japan Budget Requests Record $55.6B for Unmanned, Long Range Strike Capabilities",
-   "url": "https://news.usni.org/2026/09/01/japan-budget-requests-record-55-6b-for-unmanned-long-range-strike-capabilities",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Japan’s Ministry of Defense has requested a record 8.9 trillion yen – or $55.6 billion – for its Fiscal Year 2027 Defense Budget to prioritize artificial intelligence, u…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-01-at-3.05.08-PM.png",
-   "age": "18h ago",
-   "published": "2026-09-01T19:39:42+00:00"
-  },
-  {
-   "title": "Where Are The Aircraft Carriers?: USS Abraham Lincoln Escorted To Thailand As The Middle East Heats Up",
-   "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-uss-abraham-lincoln-escorted-to-thailand-as-the-middle-east-heats-up",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Navy pulled a cruiser from the George Washington Carrier Strike Group to escort USS Abraham Lincoln into the South China Sea under unclear circumstances. The post Wh…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/TWZ-Carrier-Fleet-Tracker-as-of-September-1-2026.png?quality=85",
-   "age": "18h ago",
-   "published": "2026-09-01T19:27:41+00:00"
-  },
-  {
-   "title": "Chicago Bears announce roster moves",
-   "url": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-practice-squad-2026",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/b92totsow5wvjk4xjdbp.jpg",
-   "age": "18h ago",
-   "published": "2026-09-01T19:00:00+00:00"
   },
   {
    "title": "The Bears and Kyler Gordon: Why it sounds as if the end is near",
@@ -434,8 +413,30 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/01111002/2024-10-15T202940Z_682533024_MT1USATODAY24497393_RTRMADP_3_NFL-LONDON-GAMES-JACKSONVILLE-JAGUARS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "21h ago",
+   "age": "1d ago",
    "published": "2026-09-01T16:42:36+00:00"
+  },
+  {
+   "title": "We tell addicts to get help. But how can we help them get there? | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_002a80ec-a259-4ce2-a119-5111045cace9.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "After 10 years of helping people battle addiction, Heartland Wellness Center has learned a hard lesson: Recovery is possible, but we need to make it easier to get there …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/f4/9f4e0616-1ed2-457c-9b35-2de6792fb61d/6a95c847bb38d.image.jpg?resize=300%2C169",
+   "age": "1d ago",
+   "published": "2026-09-01T12:15:00+00:00"
+  },
+  {
+   "title": "Is Northwest Indiana listening to the Aug. 11 storm warning? 5 key takeaways",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_8a92d0fa-b2f4-4b8f-821f-4f12447a90f4.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The lesson is clear: We can’t prepare for tomorrow’s disasters with yesterday’s assumptions. Building resilience means upgrading infrastructure and rebuilding public tru…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/b8/3b873ba3-5fa7-4e1c-b063-6226e111a65a/6a80cc0f8e9ae.image.jpg?resize=300%2C179",
+   "age": "1d ago",
+   "published": "2026-08-31T21:00:00+00:00"
   },
   {
    "title": "Bears finalize initial 53-man roster, cut LB Jack Sanborn, WR Kaden Davis: reactions",
@@ -456,7 +457,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/08/30085607/2025-12-08T012130Z_142105831_MT1USATODAY27769199_RTRMADP_3_GREEN-BAY-PACKERS-RUNNING-BACK-JOSH-JACOBS-8-RUNS-THROUGH-1-1024x576.jpg",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-08-30T14:00:01+00:00"
   }
  ]
