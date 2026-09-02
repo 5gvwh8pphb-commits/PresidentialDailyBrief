@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-02",
+  "dateLabel": "Wednesday, September 2, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-02T13:00:40Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, September 1, 2026 close — stocks fell across the board as fresh US strikes on Iran pushed oil above $95 and reignited inflation fears to start September.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,631.47", "change": "-54.67", "changePct": "-0.71%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "52,766.88", "change": "-419.02", "changePct": "-0.79%", "sixMo": "+8.8%" },
+        { "name": "Nasdaq",  "close": "26,099.77", "change": "-271.12", "changePct": "-1.03%", "sixMo": "+16%" }
+      ],
+      "body": "The Dow, S&P 500 and Nasdaq all closed lower as US strikes on Iranian targets and Tehran's retaliation sent Brent crude toward $95 a barrel and lifted Treasury yields to a 20-month high, reviving worries the Fed may need to hike rather than cut.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~7h ago",
+      "empty": false,
+      "headline": "US-Iran strikes send oil and bond yields surging, pushing the Fed toward a possible hike",
+      "body": "Fresh US strikes on Iran and Tehran's retaliation sent US Treasury yields to a 20-month high and pushed UK and Japanese borrowing costs toward multi-decade highs, reviving inflation fears just as Fed Governor Michael Barr said he'd back a rate hike at the September meeting if price pressures don't ease; at the G20 finance meeting, Treasury Secretary Scott Bessent said Washington wouldn't object if Japan intervened to support the yen, while Vladimir Putin offered Iran public, largely symbolic, support.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/us-iran-trump-war-escalation-latest-fed-rate-g20-bessent-yen-.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "Taiwan defense report says China is stepping up drills to blockade the island's air and sea routes",
+      "body": "Taiwan's Ministry of National Defense told the legislature in its new 2026 China Military Power Report that recent PLA exercises are increasingly focused on a 'joint blockade and control' of Taiwan's external air and sea routes, part of Beijing's push toward the capability to seize the island by 2027; the assessment lands weeks before Xi Jinping's planned Sept. 24 state visit to Washington.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "US strikes Iran again as Tehran fires missiles and drones at regional targets in response",
+      "body": "US Central Command hit Iranian targets Tuesday in response to an attempted mine-laying operation in the Strait of Hormuz, and Trump called the strikes 'large and powerful,' warning Iran would be hit 'much harder' if it retaliates further; Iranian state media said its forces launched retaliatory drone and missile strikes on US-linked targets in the region hours later.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/us-launched-large-powerful-strikes-iran-trump-says-rcna595581"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Air Force's MH-139 Grey Wolf helicopter reaches initial operational capability for ICBM security",
+      "body": "The Boeing-made MH-139 Grey Wolf, which offers nearly 50% more speed and double the troop capacity of the aging UH-1N Huey it replaces, officially hit initial operational capability Aug. 10, with the 40th Helicopter Squadron at Malmstrom Air Force Base now flying it on convoy-escort missions guarding the Minuteman III ICBM fields.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most advanced coding and knowledge-work models",
+      "body": "The new models handle up to a million tokens of context, add mid-conversation effort control, and cut cache-read pricing by 25% while API pricing holds at $10/$50 per million input/output tokens; Fable 5.1 is broadly available through the Claude API, while the less-restricted Mythos 5.1 stays limited to vetted users in Anthropic's Project Glasswing program for cybersecurity and life-sciences work.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Bears add three more players to practice squad as roster settles after cutdown day",
+      "body": "Chicago signed running back Zavier Scott, linebacker Buddy Johnson and offensive lineman Christian Jones to the practice squad Tuesday, joining returners like Salvon Ahmed and Caden Barnett plus veteran edge Marcus Davenport, with two spots still open as the team preps for its Sept. 13 opener at Carolina.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/chicago-bears-announce-additional-practice-191128636.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's Chase outlook and Darlington prep were already covered in recent briefs, and no new update surfaced within the 72-hour window that wouldn't either duplicate that coverage or risk revealing this week's on-track results.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly and stated clerk transition already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
