@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-03",
+  "dateLabel": "Thursday, September 3, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-03T11:29:25Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~16h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, September 2, 2026 close — stocks snapped a two-day losing streak as oil prices eased and a soft ADP jobs report cooled rate-hike fears.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,666.60", "change": "+35.13", "changePct": "+0.46%", "sixMo": "+11%" },
+        { "name": "Dow",     "close": "53,061.95", "change": "+295.07", "changePct": "+0.56%", "sixMo": "+8.5%" },
+        { "name": "Nasdaq",  "close": "26,217.83", "change": "+118.06", "changePct": "+0.45%", "sixMo": "+15%" }
+      ],
+      "body": "The S&P 500, Dow and Nasdaq all rose Wednesday as oil prices retreated from their Iran-conflict spike and New York Fed President John Williams said there were 'no clear signs' a September rate hike is needed; a weaker-than-expected ADP report showing just 38,000 private-sector jobs added in August further eased rate worries, even as the 10-year Treasury yield held near 4.79%.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Xi visits Egypt for the first time in a decade, pitching China as a Middle East stabilizer",
+      "body": "Xi Jinping arrived in Cairo and urged Middle East nations to reshape the region's security order and resist outside interference, a rare regional trip that comes as US influence has been strained by its ongoing war with Iran; China and Egypt signed a deal to expand their Suez Canal industrial zone, which already hosts about 200 companies and roughly $4 billion in investment.",
+      "source": "NPR/AP",
+      "url": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Trade, Taiwan and Iran loom over low-expectations Trump-Xi summit set for Sept. 24 in Washington",
+      "body": "With Xi Jinping due at the White House less than six weeks before the US midterms, analysts describe the planned summit as focused mainly on managing an uneasy status quo rather than producing breakthroughs, after the two leaders' May meeting in Beijing yielded few concrete wins; the White House has set low expectations that Trump can shift China's posture on Iran, even as both sides look to preserve their current trade truce.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/02/trump-xi-summit-iran-china-trade-elections.html"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1h ago",
+      "empty": false,
+      "headline": "Iran claims new attacks on US bases in Kuwait and UAE as wedding-strike allegations draw CENTCOM denial",
+      "body": "Iran's military said Thursday it launched missiles and drones at Ahmed Al Jaber Air Base in Kuwait and Al Minhad Air Base in the UAE, though US officials have not confirmed any impact; the claims come as Iran's Health Ministry says a US strike hit a wedding in Hormozgan province on Sept. 1, part of a toll it puts at least 18 dead across recent strikes, an allegation CENTCOM says it is investigating while insisting it 'never targets civilians.'",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-dismisses-diplomacy-tehran-says-wedding-hit-in-strike/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "Pentagon picks GE to build a new hypersonic test vehicle as it works to speed up flight testing",
+      "body": "The Defense Innovation Unit selected GE Aerospace as prime integrator for a liquid-fueled hypersonic test vehicle combining a dual-mode ramjet with a solid rocket booster, under a roughly 24-month program that includes flight tests meant to increase how often the US can fly hypersonic experiments; GE separately won a nearly $2.9 billion, five-year deal to supply parts for the F414 engines that power the Navy's F/A-18 Super Hornet and EA-18G Growler fleets.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/09/ge-wins-deals-for-f-a-18-engine-parts-hypersonic-test/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "OpenAI says its Astra model is the first to cross a 'Critical' cybersecurity risk threshold",
+      "body": "OpenAI said Astra independently found two zero-day vulnerabilities, escaped a browser sandbox, and chained flaws to gain root access on a hardened operating system during testing, the first time one of its models has met the 'Critical' bar under its Preparedness Framework; the company is holding back Astra's full cyber capabilities for a limited group of vetted testers while it strengthens safeguards, which now block about 91.5% of cyber-jailbreak attempts versus 59% for its predecessor.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears place safety Coby Bryant on injured reserve after August knee surgery",
+      "body": "Chicago put its $40 million offseason safety addition on IR this week and signed Marlen Sewell in response, with Bryant expected to miss at least the season's first several games and a full-season absence possible depending on recovery from his Aug. 11 knee surgery; the team also placed edge Hayden Large on IR and re-signed James Lynch and Jack Sanborn as it finalizes its roster ahead of the Sept. 13 opener at Carolina.",
+      "source": "NBC Sports",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-put-coby-bryant-and-hayden-large-on-ir-re-sign-james-lynch-and-jack-sanborn"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "Byron says the Chase title will go to whoever performs best over 10 races, not a clear favorite",
+      "body": "At NASCAR's Chase Media Day Wednesday, Byron said qualifying well and managing tires will be key at Sunday's Cook Out Southern 500 season-opener at Darlington, noting recent winners there have started from the top three, and downplayed the value of elaborate Chase strategy in favor of simply avoiding mistakes; he called his underdog positioning a plus, saying it takes pressure off his team.",
+      "source": "Speedway Media",
+      "url": "https://speedwaymedia.com/2026/09/02/chevrolet-ncs-at-chase-media-day-william-byron-media-availability-quotes/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the June General Assembly, stated clerk transition, and disciplinary cases already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
