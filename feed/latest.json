@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-03T14:06:51+00:00",
+ "generated": "2026-09-03T17:55:25+00:00",
  "count": 40,
- "withImage": 38,
+ "withImage": 39,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,43 +10,275 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-   "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+   "title": "How Drone Detection Is Evolving To Counter Smaller, Faster, And Swarm Threats",
+   "url": "https://www.twz.com/sponsored-content/how-drone-detection-is-evolving-to-counter-smaller-faster-and-swarm-threats",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Branded Content: Leonardo DRS explains how tactical radars form a central element of a layered counter-UAS threat detection system. The post How Drone Detection Is Evolv…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/08/Leo-DRS-lead.jpg?quality=85&w=2048",
+   "age": "8m ago",
+   "published": "2026-09-03T17:46:47+00:00"
+  },
+  {
+   "title": "To counter China, America’s next CCA needs a different mission",
+   "url": "https://breakingdefense.com/2026/09/to-counter-china-americas-next-cca-needs-a-different-mission/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Center for Strategic and Budgetary Assessments Greg Malandrino argues in this op-ed that a fight with China will require CCAs for defense as well as offense.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/HVAA-1-scaled-e1773355106478-1024x577.jpg",
+   "age": "16m ago",
+   "published": "2026-09-03T17:38:58+00:00"
+  },
+  {
+   "title": "FOX News Media announces extensive 9/11 anniversary coverage from Ground Zero, Pentagon and Shanksville",
+   "url": "https://www.foxnews.com/media/fox-news-media-announces-extensive-911-anniversary-coverage-ground-zero-pentagon-shanksville",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "FOX News Media announces extensive 9/11 anniversary coverage with live broadcasts from Ground Zero, Washington, D.C., and Shanksville, Pennsylvania.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/sept-11-memorial-flag.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-09-03T17:37:23+00:00"
+  },
+  {
+   "title": "Blue state governor candidate claims he ‘met Satan in person’ in resurfaced podcast episode",
+   "url": "https://www.foxnews.com/politics/blue-state-governor-candidate-claims-met-satan-person-resurfaced-podcast-episode",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Colorado Republican Victor Marx claimed on his podcast he met Satan in person while praying for a girl at a high-security Texas youth prison.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/victor-marx-june-4-2026.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-09-03T17:29:59+00:00"
+  },
+  {
+   "title": "Mamdani gives influencers special access as Signal use raises records-law questions",
+   "url": "https://www.foxnews.com/politics/mamdani-gives-influencers-special-access-signal-use-raises-records-law-questions",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Zohran Mamdani s City Hall uses a Signal group chat to feed talking points to 200-plus social media influencers, raising record-keeping concerns.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/ny-zohran-mamdani-022526-1.jpg?ve=1&tl=1",
+   "age": "28m ago",
+   "published": "2026-09-03T17:27:14+00:00"
+  },
+  {
+   "title": "GOP Sen Thom Tillis urges Trump to replace Pete Hegseth, blasts Pentagon leadership",
+   "url": "https://www.foxnews.com/politics/gop-sen-thom-tillis-urges-trump-replace-pete-hegseth-blasts-pentagon-leadership",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. Tillis called for President Trump to replace War Secretary Pete Hegseth, accusing the Pentagon chief of creating a leadership void at the top of our military ranks.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/d3180cf6-thom-tillis-august-2026.jpg?ve=1&tl=1",
+   "age": "28m ago",
+   "published": "2026-09-03T17:26:30+00:00"
+  },
+  {
+   "title": "Australia’s 'Queen of Infomercials' wants 'no-strings attached fun,' the O-dome is back & you’re not weird?",
+   "url": "https://www.foxnews.com/outkick-culture/australias-queen-infomercials-wants-no-strings-attached-fun-o-dome-back-youre-not-weird",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Trinity Rodman wore an I heart my boyfriend crop top to the US Open to support Ben Shelton, while Burning Man s Orgy Dome makes its return.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/rozz-switzer-return-godz-media-call.jpg?ve=1&tl=1",
+   "age": "36m ago",
+   "published": "2026-09-03T17:19:12+00:00"
+  },
+  {
+   "title": "ChargePoint CEO says 70% stock surge 'is the beginning of the momentum'",
+   "url": "https://www.cnbc.com/2026/09/03/chargepoint-ceo-50percent-stock-surge-is-the-beginning-of-the-momentum.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108213027-1760627921657-gettyimages-2240984013-WALLER_FED.jpeg?v=1776448550&amp;w=1920&amp;h=1080",
-   "age": "just now",
-   "published": "2026-09-03T14:06:03+00:00"
+   "summary": "The infrastructure company is toward the end of a three-year business plan that has boosted revenue and significantly cut the company's losses.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108358418-1788446023097-gettyimages-2169557788-CHARGEPOINT_EARNS.jpeg?v=1788446099&amp;w=1920&amp;h=1080",
+   "age": "50m ago",
+   "published": "2026-09-03T17:05:08+00:00"
   },
   {
-   "title": "Costco shoppers challenge influencer's claim that 'insane' chicken meal can feed family of five",
-   "url": "https://www.foxnews.com/food-drink/costco-shoppers-challenge-influencers-claim-insane-chicken-meal-can-feed-family-five",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Costco s new Honey Sesame Chicken Stir Fry sparked a heated debate online after an influencer claimed the $22 prepared meal could feed as many as five people.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/stori_fry.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-09-03T13:46:08+00:00"
+   "title": "Meet the 2026 Ig Nobel Prize winners",
+   "url": "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The annual award ceremony features miniature operas, scientific demos, and \"24/7\" lectures.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ignobel6-1152x648.jpg",
+   "age": "54m ago",
+   "published": "2026-09-03T17:00:37+00:00"
   },
   {
-   "title": "The ultimate college football tailgate playlist with 10 songs to get fired up for the season",
-   "url": "https://www.foxnews.com/outkick-sports/ultimate-college-football-tailgate-playlist-10-songs-fired-up-season",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "From Country Roads to Enter Sandman, this top-10 college football tailgate playlist covers rock anthems and country classics for pregame.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Wisconsin_Badgers_Uniforms.jpg?ve=1&tl=1",
-   "age": "21m ago",
-   "published": "2026-09-03T13:45:17+00:00"
+   "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb",
+   "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Xbox Game Pass subscribers will have cloud gaming capped starting in November.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108358445-1788447829721-gettyimages-2291589796-GERMANY_GAMESCOM.jpeg?v=1788447870&amp;w=1920&amp;h=1080",
+   "age": "55m ago",
+   "published": "2026-09-03T17:00:01+00:00"
+  },
+  {
+   "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+   "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/ultrahuman-ring-pro.jpg?resize=1200,800",
+   "age": "55m ago",
+   "published": "2026-09-03T17:00:00+00:00"
+  },
+  {
+   "title": "Oshkosh dangles JLTV bridge option for Marine Corps, but the deadline to take it is looming",
+   "url": "https://breakingdefense.com/2026/09/oshkosh-dangles-jltv-bridge-option-for-marine-corps-but-the-deadline-to-take-it-is-looming/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Delays at AM General to provide a new version of the JLTV to the Marines has led Oshkosh to step in with a solution.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/7376919-scaled-e1663702547702-1024x576.jpg",
+   "age": "56m ago",
+   "published": "2026-09-03T16:58:53+00:00"
+  },
+  {
+   "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.",
+   "url": "https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Major automakers in the U.S. are urging Congress to ban the domestic sale, import and manufacturing of Chinese connected vehicles, hardware and software.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108333834-1783918441707-gettyimages-2283163436-_DSC4514JPG.jpeg?v=1783918460&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-03T16:51:13+00:00"
+  },
+  {
+   "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+   "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108358351-1788440424844-108358351-1788440038288-gettyimages-2151605984-BLOOMBERG_TECHNOLOGY_SUMMIT.jpg?v=1788452709&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-03T16:43:22+00:00"
+  },
+  {
+   "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+   "url": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen …",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Circular-Ring-3-Slim-Lineup.png?resize=1200,1200",
+   "age": "1h ago",
+   "published": "2026-09-03T16:42:54+00:00"
+  },
+  {
+   "title": "UK Government Commits To Boom Refueling For RAF Tankers",
+   "url": "https://www.twz.com/air/uk-government-commits-to-boom-refueling-for-raf-tankers",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The next-generation Tempest fighter is driving the Royal Air Force to add a capability it currently lacks. The post UK Government Commits To Boom Refueling For RAF Tanke…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/Voyager-refuels-F-35Bs.jpg?quality=85",
+   "age": "1h ago",
+   "published": "2026-09-03T16:32:52+00:00"
+  },
+  {
+   "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
+   "url": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "A bipartisan group of lawmakers asked the Army to explain why it is shuttering a specialized drone battalion less than a year after establishing it.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2CR4F3J4A5DH3G3TUEHYXA6LQE.jpg",
+   "age": "1h ago",
+   "published": "2026-09-03T16:29:47+00:00"
+  },
+  {
+   "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+   "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+   "age": "1h ago",
+   "published": "2026-09-03T16:09:01+00:00"
+  },
+  {
+   "title": "Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'",
+   "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Canada has retaliated against President Donald Trump's 50% tariffs with \"dollar for dollar\" duties on U.S. goods, which are set to take effect next week.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108291197-1776182891819-gettyimages-2270831111-AFP_A7RQ38R.jpeg?v=1776182906&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-03T16:06:13+00:00"
+  },
+  {
+   "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+   "url": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Users can search for emails or draft documents using the new conversational feature.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Gmail-Live-Docs-Live-Keep-Live.jpeg?resize=1200,675",
+   "age": "1h ago",
+   "published": "2026-09-03T16:00:00+00:00"
+  },
+  {
+   "title": "U.S., U.K. Forces Use Virtual Summer Exercises to Go the Distance",
+   "url": "https://news.usni.org/2026/09/03/u-s-u-k-forces-use-virtual-summer-exercises-to-go-the-distance",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The U.S. military and U.K’s Royal Navy have conducted separate virtual exercises throughout the summer, simulating large scale operations with partner nations across the…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/FRPUE-20260713-XF0124-009.jpeg",
+   "age": "2h ago",
+   "published": "2026-09-03T15:06:33+00:00"
+  },
+  {
+   "title": "How Congress is trying to fund the E-7 Wedgetail program",
+   "url": "https://breakingdefense.com/2026/09/how-congress-is-trying-to-fund-the-e-7-wedgetail-program/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Wedgetail would replace the aging E3 Sentry for airborne early warning and control.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/CRU32-pb-1024x576.png",
+   "age": "2h ago",
+   "published": "2026-09-03T15:01:09+00:00"
+  },
+  {
+   "title": "Defense firms soar on ample military spending, testing manufacturing schemes",
+   "url": "https://www.defensenews.com/industry/2026/09/03/defense-firms-soar-on-ample-military-spending-testing-manufacturing-schemes/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "For the many billions of dollars governments spend on defense, companies are on the hook to get their production pipelines in place and deliver.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RQOS2ZIEWJAQXEWQT6OZ4XMSX4.jpg",
+   "age": "3h ago",
+   "published": "2026-09-03T14:35:13+00:00"
+  },
+  {
+   "title": "Belgium and India partner on local 70mm rocket assembly, wave of industry agreements",
+   "url": "https://breakingdefense.com/2026/09/belgium-and-india-partner-on-local-70mm-rocket-assembly-wave-of-industry-agreements/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Belgian defense officials said the cooperation will strengthen European security of rocket supply.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/GettyImages-2292716996-scaled-e1788443803947-1024x577.jpg",
+   "age": "3h ago",
+   "published": "2026-09-03T14:13:21+00:00"
   },
   {
    "title": "Report to Congress on the U.S. Army’s Patriot Air and Missile Defense System",
@@ -56,30 +288,19 @@
    "topic": "defense",
    "summary": "The following is the Aug. 27, 2026, Congressional Research Service report, U.S. Army’s Patriot Air and Missile Defense System. From the Report The Patriot air and missil…",
    "image": null,
-   "age": "22m ago",
+   "age": "4h ago",
    "published": "2026-09-03T13:44:23+00:00"
   },
   {
-   "title": "NFL leans further into blonde influencers with latest Netflix marketing blitz, a massive nose tackle & pivots",
-   "url": "https://www.foxnews.com/outkick-sports/nfl-leans-further-blonde-influencers-latest-netflix-marketing-blitz-massive-nose-tackle-pivots",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Thursday Screencaps celebrates a reader s 50-year love story that began with a chance encounter at a Toledo Ramada Inn and a shared passion for golf.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/alix-earle-120825-1.jpg?ve=1&tl=1",
-   "age": "38m ago",
-   "published": "2026-09-03T13:28:10+00:00"
-  },
-  {
-   "title": "When gunman forced his way into Virginia elementary school, superintendent says lockdown procedures worked",
-   "url": "https://www.foxnews.com/us/gunman-forced-way-virginia-elementary-school-superintendent-says-lockdown-procedures-worked",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Waynesboro police say a 19-year-old gunman entered Westwood Hills Elementary School and injured a staff member before school lockdown procedures kicked in.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/scene-virginia-elementary-shooting.png?ve=1&tl=1",
-   "age": "47m ago",
-   "published": "2026-09-03T13:19:01+00:00"
+   "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
+   "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/hugging_face_3-1152x648.jpg",
+   "age": "4h ago",
+   "published": "2026-09-03T13:34:13+00:00"
   },
   {
    "title": "GE Aerospace to provide marine gas turbine engines for South Korea’s KDDX destroyers",
@@ -89,74 +310,8 @@
    "topic": "defense",
    "summary": "It will supply 12 LM2500+G4 engines for six KDDX-class ships",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/KDDX-e1788441075884-1024x577.jpg",
-   "age": "51m ago",
+   "age": "4h ago",
    "published": "2026-09-03T13:14:59+00:00"
-  },
-  {
-   "title": "Hugging Face approached Nvidia’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
-   "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Nvidia CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI for developers and institutions worldwide.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&amp;w=1920&amp;h=1080",
-   "age": "56m ago",
-   "published": "2026-09-03T13:10:40+00:00"
-  },
-  {
-   "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday",
-   "url": "https://www.cnbc.com/2026/09/03/leon-black-sues-house-oversight-epstein-probe-subpoenas.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Black's attorneys say the NDAs being sought by the panel have nothing to do with his dealings with Jeffrey Epstein.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107375771-1708456916246-gettyimages-1230794654-BLACK_EPSTEIN.jpeg?v=1771952856&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-03T13:05:59+00:00"
-  },
-  {
-   "title": "America mocked the Amish and other groups over technology. Maybe they were right",
-   "url": "https://www.foxnews.com/opinion/america-mocked-amish-other-groups-technology-maybe-right",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "As Meta settled for up to $17 billion over claims its platforms harmed children, Hasidic smartphone restrictions started looking less backward.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/woman-smartphone-sofa-home.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-03T13:00:57+00:00"
-  },
-  {
-   "title": "Volunteer at TechCrunch Founder Summit in Boston",
-   "url": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make th…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/54571034038_4825307406_k.jpg?resize=1200,800",
-   "age": "1h ago",
-   "published": "2026-09-03T13:00:00+00:00"
-  },
-  {
-   "title": "Hermeus picks Anduril autonomy for Quarterhorse drone",
-   "url": "https://breakingdefense.com/2026/09/hermeus-picks-anduril-autonomy-for-quarterhorse-drone/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "In an exclusive interview with Breaking Defense, executives from both firms described a mutually beneficial arrangement.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/Hermeus-mk-2.1-1024x576.jpg",
-   "age": "1h ago",
-   "published": "2026-09-03T13:00:00+00:00"
-  },
-  {
-   "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-   "url": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "TikTok s comments section is getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice co…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-   "age": "1h ago",
-   "published": "2026-09-03T13:00:00+00:00"
   },
   {
    "title": "Chinese military analysts can’t wait for the US Navy’s battleship era",
@@ -166,41 +321,8 @@
    "topic": "defense",
    "summary": "A PLA assessment of the proposed Trump-class battleships probes for weaknesses.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IYHD67WXDZFPFCCL7Y2LGSVLC4.jpg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-09-03T12:58:34+00:00"
-  },
-  {
-   "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-   "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675",
-   "age": "1h ago",
-   "published": "2026-09-03T12:42:45+00:00"
-  },
-  {
-   "title": "Winning the information war is as much about ideas and perception as it is about data",
-   "url": "https://breakingdefense.com/2026/09/winning-the-information-war-is-as-much-about-ideas-and-perception-as-it-is-about-data/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "[Sponsored] Being able to tell the commander you don t need to do something is actually a pretty powerful message, as well.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Two-Six-1-1024x683.jpg",
-   "age": "1h ago",
-   "published": "2026-09-03T12:25:00+00:00"
-  },
-  {
-   "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-   "url": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Zoox-las-vegas-airport.jpg?resize=1200,900",
-   "age": "1h ago",
-   "published": "2026-09-03T12:12:56+00:00"
   },
   {
    "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
@@ -210,63 +332,8 @@
    "topic": "defense",
    "summary": "The U.S. Marine Corps is looking to acquire high-resolution 3D scanners to detect cracked body armor.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RBN4YGHLZZGMZHO26UUAM45MEU.jpg",
-   "age": "2h ago",
+   "age": "5h ago",
    "published": "2026-09-03T12:00:01+00:00"
-  },
-  {
-   "title": "How Meta will pull off massive changes to its social media apps",
-   "url": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Meta settled its child safety case. Now comes the hard part of actually implementing changes to its social media platforms. Here's what to expect.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108283711-1774557077741-gettyimages-2267943807-Zuckerberg_181_032626.jpeg?v=1774897810&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-09-03T12:00:01+00:00"
-  },
-  {
-   "title": "Estonian defense minister resigns following Ukrainian ammo procurement controversy",
-   "url": "https://breakingdefense.com/2026/09/estonian-defense-minister-resigns-following-ukrainian-ammunition-procurement-scandal/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Hanno Pevkur said on Estonian TV that while he wasn’t personally responsible for the contracts in question, “a leader must have both the courage and stature to take resp…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/10/estonia_minister_ukraine.jpg",
-   "age": "2h ago",
-   "published": "2026-09-03T11:55:37+00:00"
-  },
-  {
-   "title": "Anthropic's distillation battle turns to the dark web as China concerns swell",
-   "url": "https://www.cnbc.com/2026/09/03/anthropic-distillation-battle-turns-to-dark-web-china-concerns-swell.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Foreign adversaries have been illegally accessing American AI systems to train competing technology, and selling copycat versions at a lower price.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-09-03T11:45:01+00:00"
-  },
-  {
-   "title": "Iran war escalation raises concern over civilian death toll",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The recent escalation of the Iran war has cast renewed attention on its civilian toll after Iran reported four killed and dozens wounded at a wedding.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SU4NFBMQYVANVNS7PBI3FJGNJM.JPG",
-   "age": "11h ago",
-   "published": "2026-09-03T02:46:53+00:00"
-  },
-  {
-   "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
-   "age": "15h ago",
-   "published": "2026-09-02T23:01:00+00:00"
   },
   {
    "title": "Missile Shortage Has Now Hit Ukrainian F-16 Force",
@@ -276,19 +343,8 @@
    "topic": "defense",
    "summary": "The shortage is so acute that the air force frantically tracks incoming missile shipments and waits to see whether they arrive before Russia’s next aerial barrage. The p…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/UKRAINE-F-16.jpg?quality=85",
-   "age": "15h ago",
+   "age": "19h ago",
    "published": "2026-09-02T22:26:44+00:00"
-  },
-  {
-   "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Army moved its TITAN program from prototyping to production with a $192 million award to Palantir and Anduril this week.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/654LD2PW4VHNTBBRI7MLXMHSVY.jpg",
-   "age": "16h ago",
-   "published": "2026-09-02T21:43:17+00:00"
   },
   {
    "title": "Spending deal comes with a bonus: Blocking political control of grants",
@@ -298,7 +354,7 @@
    "topic": "ai",
    "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg",
-   "age": "16h ago",
+   "age": "20h ago",
    "published": "2026-09-02T21:20:03+00:00"
   },
   {
@@ -309,7 +365,7 @@
    "topic": "defense",
    "summary": "At least two Iranian oil tankers were struck by the U.S. as part of Trump's new tanker-for-a-tanker policy. The post Iranian Oil Tankers In The Cross Hairs Of New U.S. C…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Tanker-Attack-CENTCOM.jpg?quality=85",
-   "age": "17h ago",
+   "age": "21h ago",
    "published": "2026-09-02T20:47:04+00:00"
   },
   {
@@ -320,19 +376,8 @@
    "topic": "ai",
    "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png",
-   "age": "17h ago",
+   "age": "21h ago",
    "published": "2026-09-02T20:32:02+00:00"
-  },
-  {
-   "title": "GE wins deals for F/A-18 engine parts, hypersonic test",
-   "url": "https://breakingdefense.com/2026/09/ge-wins-deals-for-f-a-18-engine-parts-hypersonic-test/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The company was separately awarded one deal worth up to $2.9 billion to supply parts for its F414 engine, and another to provide a hypersonic test vehicle for the Defens…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9556368-scaled-e1773245659409-1024x576.jpg",
-   "age": "17h ago",
-   "published": "2026-09-02T20:23:26+00:00"
   },
   {
    "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
@@ -342,7 +387,7 @@
    "topic": "ai",
    "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/robocall-blocking-1152x648-1788376254.jpg",
-   "age": "18h ago",
+   "age": "22h ago",
    "published": "2026-09-02T19:54:27+00:00"
   },
   {
@@ -353,30 +398,8 @@
    "topic": "defense",
    "summary": "TAIPEI, TAIWAN – Woodland patterned Patriot missiles canted skywards as Republic of China Air Force operators wolfed down boxed meals for dinner nearby. Downrange of the…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/DSC01548-scaled.jpg",
-   "age": "18h ago",
+   "age": "22h ago",
    "published": "2026-09-02T19:39:47+00:00"
-  },
-  {
-   "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-   "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit-1152x648.jpg",
-   "age": "18h ago",
-   "published": "2026-09-02T19:37:08+00:00"
-  },
-  {
-   "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-   "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1-1152x648.jpg",
-   "age": "19h ago",
-   "published": "2026-09-02T18:13:54+00:00"
   },
   {
    "title": "Site Expansions Underpin Lockheed Martin’s Munitions Production Ramp",
@@ -386,7 +409,7 @@
    "topic": "defense",
    "summary": "Branded Content: Bigger sites, advanced manufacturing techniques, and boosting the workforce are key industry commitments to increased munitions production. The post Sit…",
    "image": "https://www.twz.com/wp-content/uploads/2026/08/THAAD-lead.jpg?quality=85&w=2048",
-   "age": "20h ago",
+   "age": "1d ago",
    "published": "2026-09-02T17:52:52+00:00"
   },
   {
@@ -397,63 +420,41 @@
    "topic": "defense",
    "summary": "After 265 days, USS Abraham Lincoln (CVN-72) has made a port call. On Wednesday, Abraham Lincoln pulled into Laem Chabang, Thailand, according to ship spotters. It is th…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9904942-scaled.jpg",
-   "age": "20h ago",
+   "age": "1d ago",
    "published": "2026-09-02T17:50:38+00:00"
   },
   {
-   "title": "USS Abraham Lincoln Looks Like It’s Been Through Hell After 286 Days At Sea",
-   "url": "https://www.twz.com/sea/uss-abraham-lincoln-looks-like-its-been-through-hell-after-286-days-at-sea",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "We got our first good look at the Lincoln as it pulled into port in Thailand for its only liberty call of its entire cruise and after sustaining high-tempo combat ops fo…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/Lincoln-carrier-long-deployment-rust.jpg?quality=85",
-   "age": "20h ago",
-   "published": "2026-09-02T17:28:20+00:00"
-  },
-  {
-   "title": "Israeli LORA Ballistic Missiles Fired From German Frigate",
-   "url": "https://www.twz.com/sea/israeli-lora-ballistic-missiles-fired-from-german-frigate",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "LORA could give Germany’s navy a way to strike highly defended and hardened targets hundreds of miles inland. The post Israeli LORA Ballistic Missiles Fired From German …",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/LORA-LAUNCH-AT-SEA.jpg?quality=85",
-   "age": "20h ago",
-   "published": "2026-09-02T17:22:58+00:00"
-  },
-  {
-   "title": "European Union Naval Force Intercepts Suspected Russian Shadow Fleet Tanker",
-   "url": "https://news.usni.org/2026/09/02/european-union-naval-force-intercepts-suspected-russian-shadow-fleet-tanker",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Italian Navy multi-purpose combat ship ITS Thaon di Revel (P430), flagship of EU Naval Force Mediterranean Irini, intercepted a Cameroon-flagged oil tanker suspected of …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/HRC9Ns5W0AASFiO.jpeg",
-   "age": "21h ago",
-   "published": "2026-09-02T16:30:29+00:00"
-  },
-  {
-   "title": "Report to Congress on South China Sea Disputes",
-   "url": "https://news.usni.org/2026/09/02/report-to-congress-on-south-china-sea-disputes-2",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is the Aug. 25, 2026, Congressional Research Service report, China Primer: South China Sea Disputes. From the Report Multiple Asian governments assert sove…",
-   "image": null,
+   "title": "More than a mural, the growing tentacles of public art in Northwest Indiana",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_867f273f-bc23-4508-aedb-48ef406be838.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "How a giant octopus mural in Valparaiso—and a growing public-art movement—are changing the way Northwest Indiana communities look, feel and attract visitors.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/4f/f4f2507b-afc6-48a8-88d5-7b1af33262ca/6a972f0d95892.image.jpg?resize=300%2C225",
    "age": "1d ago",
-   "published": "2026-09-02T13:43:42+00:00"
+   "published": "2026-09-02T12:15:00+00:00"
   },
   {
-   "title": "German government blames Russia for Leipzig airport drone attack with explosives",
-   "url": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Russia was behind the failed explosive drone attack on Germany’s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TA6AZYV36ZEG5ECBT7MWRZDIJM.jpg",
-   "age": "1d ago",
-   "published": "2026-09-02T08:33:53+00:00"
+   "title": "We tell addicts to get help. But how can we help them get there? | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_002a80ec-a259-4ce2-a119-5111045cace9.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "After 10 years of helping people battle addiction, Heartland Wellness Center has learned a hard lesson: Recovery is possible, but we need to make it easier to get there …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/f4/9f4e0616-1ed2-457c-9b35-2de6792fb61d/6a95c847bb38d.image.jpg?resize=300%2C169",
+   "age": "2d ago",
+   "published": "2026-09-01T12:15:00+00:00"
+  },
+  {
+   "title": "Is Northwest Indiana listening to the Aug. 11 storm warning? 5 key takeaways",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_8a92d0fa-b2f4-4b8f-821f-4f12447a90f4.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The lesson is clear: We can’t prepare for tomorrow’s disasters with yesterday’s assumptions. Building resilience means upgrading infrastructure and rebuilding public tru…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/b8/3b873ba3-5fa7-4e1c-b063-6226e111a65a/6a80cc0f8e9ae.image.jpg?resize=300%2C179",
+   "age": "2d ago",
+   "published": "2026-08-31T21:00:00+00:00"
   }
  ]
 }
