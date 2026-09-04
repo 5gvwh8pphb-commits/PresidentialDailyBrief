@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-04",
+  "dateLabel": "Friday, September 4, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-04T11:18:57Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~15h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, September 3, 2026 close — stocks posted their best day since Aug. 4 as bond yields eased on dovish Fed signals.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,747.71", "change": "+81.11", "changePct": "+1.06%", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "53,686.11", "change": "+624.16", "changePct": "+1.18%", "sixMo": "+10%" },
+        { "name": "Nasdaq",  "close": "26,584.06", "change": "+366.23", "changePct": "+1.40%", "sixMo": "+17%" }
+      ],
+      "body": "Federal Reserve Governor Christopher Waller signaled openness to holding rates steady if inflation keeps improving, easing the 10-year Treasury yield to 4.74% and tempering the geopolitical jitters from the Iran conflict that had weighed on sentiment earlier in the week.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Trump aides push to keep Iran war 'quiet' through the midterms, Reuters reports",
+      "body": "Senior aides including Vice President JD Vance and Secretary of State Marco Rubio are pushing to keep the seven-month Iran war contained until November's midterms after Trump's approval rating slid from 40% to 33% since fighting began, favoring economic pressure over further strikes for now while leaving the door open to ramping up military action after the Nov. 3 vote.",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/us-news/2026-09-02/ty-article/trump-aides-fearing-midterm-losses-push-to-keep-iran-war-quiet-for-now/000001a0-61a0-d9b7-abaf-e3f6b7850000"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Taiwan defense report says PLA is prioritizing joint island-landing capability",
+      "body": "Taiwan's Ministry of National Defense told the Legislative Yuan its new 2026 China Military Power Report places new emphasis on the PLA's push to field joint island-landing capability, citing Type 076 amphibious assault ships, self-elevating landing barges, upgraded Z-20 helicopters and unmanned transport helicopters; analysts estimate the buildup could mature between 2030 and 2035, and the report says the PLA still cannot yet execute a full-scale landing campaign.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863545"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iran hits US-linked bases in Kuwait and UAE for a second straight night",
+      "body": "Iran's military said it struck Ahmad al-Jaber Air Base in Kuwait and Al Minhad Air Base in the UAE before dawn Thursday with drones and missiles, targeting satellite-communications gear, equipment warehouses, fighter hangars, troop positions and radar sites in retaliation for US strikes; Kuwait's Defense Ministry said its air defenses intercepted the attack and called it 'blatant Iranian aggression,' with no US casualties reported.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Navy opens search for carrier-based Collaborative Combat Aircraft drones",
+      "body": "NAVAIR issued a request for information for its Collaborative Combat Aircraft Increment 1 program, seeking autonomous drones able to fly off Ford- and Nimitz-class carriers, carry up to four 2,500-pound weapons and hit roughly a $30 million unit cost, to fly alongside F-35Cs and the future F/A-XX; Anduril, Boeing, General Atomics and Northrop Grumman already hold conceptual CCA contracts, with industry responses due Sept. 18.",
+      "source": "Military Times",
+      "url": "https://www.militarytimes.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "Claude suffers a roughly three-hour worldwide outage",
+      "body": "A wave of 529 'Overloaded' errors knocked out claude.ai, the API, Claude Code and Claude Cowork starting around 9:26 a.m. ET Wednesday, affecting Mythos 5.1, Fable 5.1 and Opus 5/4.8/4.6; Anthropic says the issue was resolved by 12:27 p.m. ET, a reminder of the operational risk of leaning on cloud AI for daily workflows.",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Odunze and Swift leave Thursday's practice with injuries, both only questionable",
+      "body": "Wide receiver Rome Odunze left practice early after hobbling with a right-leg injury and running back D'Andre Swift came off holding his midsection, but both were listed only questionable for the Sept. 13 opener at Carolina, and ESPN's Adam Schefter reported Swift's issue was just a cramp.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/03/bears-practice-report-rb-dandre-swift-wr-rome-odunze-leave-with-injuries"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's Chase outlook, pit-crew swap and Daytona/Darlington prep were already reported in prior briefs, and no other update from a reputable outlet surfaced within the 72-hour window that wouldn't duplicate that coverage or risk revealing this week's on-track results.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "PCA presbyteries set September dates for a churchwide fast and prayer for revival",
+      "body": "Following the 53rd General Assembly's overture, presbyteries are appointing a day this month for congregations, RUF campus ministries, officers and members to fast and pray for 'the revival and renewal of the church,' with prayers for repentance, gospel advancement and church planting; Assembly moderator RE Mel Duncan has invited NAPARC sister churches and other evangelicals to join in.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/pca-call-to-prayer-and-fasting-for-revival/"
+    }
+  ]
+}
