@@ -1,63 +1,113 @@
 {
- "generated": "2026-09-04T00:30:45+00:00",
+ "generated": "2026-09-04T05:13:02+00:00",
  "count": 40,
  "withImage": 39,
- "bearsDay": false,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Windy City Gridiron",
+  "speedwaydigest.com"
  ],
  "items": [
   {
-   "title": "Trump names Adam Telle acting secretary of the Army following Dan Driscoll's resignation",
-   "url": "https://www.foxnews.com/us/trump-names-adam-telle-acting-secretary-army-following-dan-driscoll-resignation",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Adam Telle steps in as acting Army secretary after Dan Driscoll s resignation amid reported clashes with Pete Hegseth over Army readiness efforts.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/adam-telle.jpg?ve=1&tl=1",
-   "age": "16m ago",
-   "published": "2026-09-04T00:14:06+00:00"
+   "title": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
+   "url": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Global bond yields have surged as investors assess whether rising debt, tariffs, defense spending and energy shocks could keep inflation higher for longer.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108199776-1758101378069-gettyimages-2227303022-US_STOCKS_TARIFFS.jpeg?v=1759236869&amp;w=1920&amp;h=1080",
+   "age": "13m ago",
+   "published": "2026-09-04T05:00:02+00:00"
   },
   {
-   "title": "Popular pantry staple could get you stopped at airport security under little-known TSA rule",
-   "url": "https://www.foxnews.com/travel/popular-pantry-staple-could-get-you-stopped-airport-security-under-little-known-tsa-rule",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The TSA has reminded travelers that peanut butter is classified a liquid under carry-on rules at airports, sparking online debate over the popular food spread.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tsa-airport-security-checkpoint-screening.jpg?ve=1&tl=1",
-   "age": "28m ago",
-   "published": "2026-09-04T00:02:27+00:00"
+   "title": "Shein has made a shaky stock market entry. Can it get its mojo back?",
+   "url": "https://www.cnbc.com/2026/09/04/shein-ipo-fast-fashion-temu-competition.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Shein’s Hong Kong IPO puts the focus on how the fast-fashion retailer can reaccelerate growth as its low-cost model faces new pressures.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108188335-1755670941582-gettyimages-2221440600-AFP_63VU77Q.jpeg?v=1755670975&amp;w=1920&amp;h=1080",
+   "age": "23m ago",
+   "published": "2026-09-04T04:49:36+00:00"
   },
   {
-   "title": "Excavation set to begin on Trump administration's 250-foot triumphal arch amid legal battle",
-   "url": "https://www.foxnews.com/politics/excavation-begin-trump-administration-250-foot-triumphal-arch-amid-legal-battle",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Doug Burgum announced the start of excavation on the 250-foot Great Triumphal Arch in Washington, D.C., but a lawsuit challenges the project s authorization.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/triumph-memorial-001.jpg?ve=1&tl=1",
-   "age": "40m ago",
-   "published": "2026-09-03T23:50:10+00:00"
+   "title": "The sameness problem behind those unappetizing AI-generated menus",
+   "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
+   "age": "51m ago",
+   "published": "2026-09-04T04:21:03+00:00"
   },
   {
-   "title": "GOP candidate gets busted allegedly trying to plant drugs on his political rival",
-   "url": "https://www.foxnews.com/politics/gop-candidate-gets-busted-trying-plant-drugs-his-political-rival",
+   "title": "EU joins U.S. sanctions push on Iran as South Korea weighs Hormuz deployment",
+   "url": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The bloc's endorsement came as the Group of 20 finance ministers and central bank governors gathered in Asheville, North Carolina, earlier this week.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108357012-17882704522026-09-01t134517z_623833683_rc2danaqf2ox_rtrmadp_0_g20-finance.jpeg?v=1788270470&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-04T04:02:13+00:00"
+  },
+  {
+   "title": "Karen Read’s lawyer says Clancy defense attorney may be ‘cut from a different cloth’ as deliberations drag on",
+   "url": "https://www.foxnews.com/us/karen-read-lawyer-says-clancy-defense-attorney-may-be-cut-from-different-cloth-deliberations-drag-on",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Thomas Ross allegedly conspired to plant cocaine and Adderall in his Republican rival s purse, but his campaign manager wore a wire for the FBI.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cocaine-photo-edited-1.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-09-03T23:48:40+00:00"
+   "summary": "Karen Read s former defense attorney David Yannetti praised Lindsay Clancy s lawyer as jurors twice reported they could not reach a unanimous verdict.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/kevin-reddington-and-lindsay-clancy.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-04T04:00:15+00:00"
+  },
+  {
+   "title": "US military took down approximately 100 suspected cartel drones at southern border in August",
+   "url": "https://www.foxnews.com/politics/exclusive-us-military-took-down-approximately-100-suspected-cartel-drones-southern-border-august",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The U.S. military took down approximately 100 suspected cartel drones at the southern border in August using sophisticated laser systems, officials say.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/army-copy.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-04T03:58:08+00:00"
+  },
+  {
+   "title": "Caitlin Clark's record-breaking August sets the stage for her FIBA Women's World Cup debut",
+   "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-record-breaking-august-sets-stage-fiba-womens-world-cup-debut",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Caitlin Clark set multiple WNBA records in August, scoring or assisting on 44.7 points per game and more before her FIBA Women s World Cup debut.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/wnba-fever-caitlin-clark-052826-1.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-04T02:18:13+00:00"
+  },
+  {
+   "title": "Crusoe reportedly raises $3B at a $30B valuation",
+   "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+   "age": "4h ago",
+   "published": "2026-09-04T00:48:42+00:00"
   },
   {
    "title": "Trump taps Adam Telle as acting Army secretary",
@@ -67,19 +117,41 @@
    "topic": "defense",
    "summary": "Telle is currently serving as the Senate-confirmed assistant secretary of the Army for Civil Works.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9701443-scaled-e1788478562835-1024x576.jpg",
-   "age": "49m ago",
+   "age": "5h ago",
    "published": "2026-09-03T23:41:03+00:00"
   },
   {
-   "title": "Jennifer Aniston, boyfriend Jim Curtis’ chemistry shines as she reveals ‘deep fear’ during interview",
-   "url": "https://www.foxnews.com/entertainment/jennifer-aniston-boyfriend-jim-curtis-chemistry-shines-reveals-deep-fear-interview",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jennifer Aniston interviewed boyfriend Jim Curtis about The Book of Possibility at the 92nd Street Y, revealing a deep fear of public speaking.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jennifer-aniston-jim-curtis-elle-women-hollywood.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-03T23:28:59+00:00"
+   "title": "Former NFL quarterback Mark Sanchez to plead guilty in Indianapolis stabbing case",
+   "url": "https://www.cbssports.com/nfl/news/mark-sanchez-to-plead-guilty-in-stabbing-case/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/03/5447a74f-3aac-4b31-b532-aba298416b71/gettyimages-1948404917-1.jpg",
+   "age": "5h ago",
+   "published": "2026-09-03T23:30:33+00:00"
+  },
+  {
+   "title": "Bond between Caleb Williams, Kalif Raymond evident in practice",
+   "url": "https://www.chicagobears.com/news/bond-between-caleb-williams-kalif-raymond-evident-in-practice",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/lumun7vwbhl9gwyk4z1m.png",
+   "age": "5h ago",
+   "published": "2026-09-03T23:19:00+00:00"
+  },
+  {
+   "title": "Giants' Cam Skattebo considered retirement after gruesome injury; explains relationship with John Harbaugh",
+   "url": "https://www.cbssports.com/nfl/news/giants-cam-skattebo-says-he-considered-retirement/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2025/10/27/70ef4d95-485d-4507-bb13-ddf245627595/cam-skattebo.jpg",
+   "age": "6h ago",
+   "published": "2026-09-03T22:56:57+00:00"
   },
   {
    "title": "After ‘concerning’ losses, Air Force pushes to replace Reaper faster",
@@ -89,8 +161,19 @@
    "topic": "defense",
    "summary": "“There s no doubt if we try and pursue the exact same approach that we had with things like the MQ-9, we re going to get something that costs about the same as an MQ-9,”…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/MQ-9-1024x586.jpg",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-03T22:54:38+00:00"
+  },
+  {
+   "title": "Colts name Anthony Richardson backup QB: What's next for former first-rounder with trade request in rearview",
+   "url": "https://www.cbssports.com/nfl/news/colts-anthony-richardson-backup-qb-whats-next/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/03/9b6a288f-df9d-4c53-8883-1e7783366c57/gettyimages-2290752126-1.jpg",
+   "age": "6h ago",
+   "published": "2026-09-03T22:51:38+00:00"
   },
   {
    "title": "Oura files to go public",
@@ -100,19 +183,8 @@
    "topic": "ai",
    "summary": "The ring maker says that its business has shown significant revenue growth over the past year.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5.jpg?resize=1200,900",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-03T22:35:41+00:00"
-  },
-  {
-   "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
-   "url": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cybercab_76.jpg?resize=1200,675",
-   "age": "2h ago",
-   "published": "2026-09-03T22:18:30+00:00"
   },
   {
    "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
@@ -122,7 +194,7 @@
    "topic": "ai",
    "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483-1152x648.jpg",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-09-03T22:13:50+00:00"
   },
   {
@@ -133,7 +205,7 @@
    "topic": "markets",
    "summary": "Adobe announced Anil Chakravarthy as its next CEO, replacing Shantanu Narayen, who announced his departure last March.",
    "image": "https://image.cnbcfm.com/api/v1/image/108355107-1787834424220-gettyimages-2291687986-schneider-adobeoff260826_nppiC.jpeg?v=1787834460&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-09-03T21:59:29+00:00"
   },
   {
@@ -144,7 +216,7 @@
    "topic": "ai",
    "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02-1152x648.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-03T21:10:59+00:00"
   },
   {
@@ -155,41 +227,19 @@
    "topic": "defense",
    "summary": "Modern Japanese, South Korean, and Turkish frigate designs have emerged as possible contenders to meet increasingly urgent Navy demands. The post The Three Foreign Friga…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Foreign-Frigates-US-could-buy.jpg?quality=85",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-03T21:02:28+00:00"
   },
   {
-   "title": "Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations",
-   "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Treasury has proposed regulations that would strip thousands of private schools of their tax-exempt status and threaten a valuable tax break for donations.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108228682-17635880692025-11-19t213000z_63551236_rc2vzhakmg3c_rtrmadp_0_usa-trump-epstein-summers.jpeg?v=1763588180&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-09-03T21:00:21+00:00"
-  },
-  {
-   "title": "Startup ARR is less secure than ever, new research shows",
-   "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/PM-Images.jpg?resize=1200,855",
-   "age": "3h ago",
-   "published": "2026-09-03T20:59:23+00:00"
-  },
-  {
-   "title": "Lululemon stock plunges 15% on disappointing earnings and outlook",
-   "url": "https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Lululemon posted another quarter of disappointing results and a sales slowdown as the company struggles to turn its business around.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108356939-1788264108092-Shoppers_Walk_Past_a_Lululemon_Store_in_Hong_Kong-2282715103-Getty.jpg?v=1788264143&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-09-03T20:52:03+00:00"
+   "title": "Bears training camp diaries with Sam Roush, Neville Gallimore | Week 5",
+   "url": "https://www.chicagobears.com/news/bears-training-camp-diaries-with-sam-roush-neville-gallimore-week-5",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/tg4grl5vkzkbb0gy7nyp.jpg",
+   "age": "8h ago",
+   "published": "2026-09-03T21:00:00+00:00"
   },
   {
    "title": "Why the Army wants to deploy nuclear microreactors on US bases",
@@ -199,7 +249,7 @@
    "topic": "defense",
    "summary": "The ambitious energy plan raises several unanswered questions.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/PB15-pb2-1024x576.png",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-03T20:40:00+00:00"
   },
   {
@@ -210,7 +260,7 @@
    "topic": "defense",
    "summary": "Sailors and Marines assigned to USS San Antonio (LPD-17) interdicted and destroyed a second suspected narco logistics vessel in the Eastern Pacific on Wednesday in coord…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-4.12.11-PM.png",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-09-03T20:25:16+00:00"
   },
   {
@@ -221,7 +271,7 @@
    "topic": "ai",
    "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2259791135-1152x648.jpg",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-09-03T20:14:48+00:00"
   },
   {
@@ -232,19 +282,8 @@
    "topic": "defense",
    "summary": "The U.S. Army awarded a $464.8 million production contract to AeroVironment, Inc., this week for the Enduring-High Energy Laser program.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UFIKCIJ4NZAOTLTBGRZHXW3YFQ.jpg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-09-03T19:54:51+00:00"
-  },
-  {
-   "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
-   "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel-1000x648.jpg",
-   "age": "4h ago",
-   "published": "2026-09-03T19:52:06+00:00"
   },
   {
    "title": "Chinese Destroyer Involved in Fatal Collision Returns to South China Sea",
@@ -254,63 +293,19 @@
    "topic": "defense",
    "summary": "MANILA, PHILIPPINES – The PLAN destroyer that was involved in a fatal collision incident with a China Coast Guard cutter at Scarborough Shoal last summer is back in fron…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/image.png",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-09-03T19:50:30+00:00"
   },
   {
-   "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-   "url": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-austin-giga-getty.jpg?resize=1200,805",
-   "age": "4h ago",
-   "published": "2026-09-03T19:42:48+00:00"
-  },
-  {
-   "title": "Supreme Court urged to let states regulate sports bets on prediction markets",
-   "url": "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Circuit split raised the odds that SCOTUS will rule on Kalshi fight against states.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
-   "age": "4h ago",
-   "published": "2026-09-03T19:42:02+00:00"
-  },
-  {
-   "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-   "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108264378-1770816437743-108264378-1770816236827-gettyimages-2260443049-US_JOBS.jpg?v=1770816446&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-03T19:38:09+00:00"
-  },
-  {
-   "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-   "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-   "age": "4h ago",
-   "published": "2026-09-03T19:36:29+00:00"
-  },
-  {
-   "title": "Vance says Fed should lower interest rates: 'Would be nice to have some help'",
-   "url": "https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Vice President J.D. Vance's remarks came less than two weeks before the Federal Open Market Committee is set to convene and decide whether to adjust rates.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358544-1788458325945-gettyimages-2292759373-AFP_C7AP3JA.jpeg?v=1788458357&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-09-03T19:18:59+00:00"
+   "title": "NFL Week 1 Power Rankings and the Biggest Question for Each Team",
+   "url": "https://www.windycitygridiron.com/chicago-bears-power-rankings/121936/nfl-week-1-power-rankings-biggest-question-each-team-bears-rams-seahawks-ravens",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-1940263834.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "10h ago",
+   "published": "2026-09-03T19:00:00+00:00"
   },
   {
    "title": "Ukrainian Sea Drones Strike Russian Black Sea Resort Town Of Sochi For The First Time",
@@ -320,19 +315,8 @@
    "topic": "defense",
    "summary": "Ukraine Situation Report: The strike on Sochi's port highlights the increasing reach of Kyiv's drone boat attack campaign. The post Ukrainian Sea Drones Strike Russian B…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Nefrit-Attack-copy.jpg?quality=85",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-03T18:31:04+00:00"
-  },
-  {
-   "title": "Three exercises that pushed counter–UAS from prototype to proven",
-   "url": "https://breakingdefense.com/2026/09/three-exercises-that-pushed-counter-uas-from-prototype-to-proven/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "[Sponsored] Architecture that linked sensors, C2, RF effects, and lasers into a distributed c-UAS kill chain.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Halo-Shield-1B.jpg",
-   "age": "6h ago",
-   "published": "2026-09-03T18:03:00+00:00"
   },
   {
    "title": "First USAF F-15EX To Be Based In Japan Departs Boeing’s St. Louis Plant",
@@ -342,41 +326,19 @@
    "topic": "defense",
    "summary": "The first F-15EX bound for the Japanese base comes as the program grapples with future sustainment concerns. The post First USAF F-15EX To Be Based In Japan Departs Boei…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/F-15EX-for-Kadena.jpg?quality=85",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-03T18:00:43+00:00"
   },
   {
-   "title": "How Drone Detection Is Evolving To Counter Smaller, Faster, And Swarm Threats",
-   "url": "https://www.twz.com/sponsored-content/how-drone-detection-is-evolving-to-counter-smaller-faster-and-swarm-threats",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Branded Content: Leonardo DRS explains how tactical radars form a central element of a layered counter-UAS threat detection system. The post How Drone Detection Is Evolv…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/08/Leo-DRS-lead.jpg?quality=85&w=2048",
-   "age": "6h ago",
-   "published": "2026-09-03T17:46:47+00:00"
-  },
-  {
-   "title": "To counter China, America’s next CCA needs a different mission",
-   "url": "https://breakingdefense.com/2026/09/to-counter-china-americas-next-cca-needs-a-different-mission/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The Center for Strategic and Budgetary Assessments Greg Malandrino argues in this op-ed that a fight with China will require CCAs for defense as well as offense.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/HVAA-1-scaled-e1773355106478-1024x577.jpg",
-   "age": "6h ago",
-   "published": "2026-09-03T17:38:58+00:00"
-  },
-  {
-   "title": "UK Government Commits To Boom Refueling For RAF Tankers",
-   "url": "https://www.twz.com/air/uk-government-commits-to-boom-refueling-for-raf-tankers",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The next-generation Tempest fighter is driving the Royal Air Force to add a capability it currently lacks. The post UK Government Commits To Boom Refueling For RAF Tanke…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/Voyager-refuels-F-35Bs.jpg?quality=85",
-   "age": "7h ago",
-   "published": "2026-09-03T16:32:52+00:00"
+   "title": "Is Kentavius Street really the best Chicago Bears defensive tackle?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/121920/chicago-bears-kentavius-street-best-dt-in-camp-dennis-allen-ryan-poles",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2248608541.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "12h ago",
+   "published": "2026-09-03T17:00:00+00:00"
   },
   {
    "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
@@ -386,8 +348,19 @@
    "topic": "defense",
    "summary": "A bipartisan group of lawmakers asked the Army to explain why it is shuttering a specialized drone battalion less than a year after establishing it.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2CR4F3J4A5DH3G3TUEHYXA6LQE.jpg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-09-03T16:29:47+00:00"
+  },
+  {
+   "title": "Which NFL GMs have had the most to work with in the Draft?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/121764/which-nfl-gm-general-manager-work-draft-ryan-poles-john-lynch",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/04/gettyimages-2263571830.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "13h ago",
+   "published": "2026-09-03T15:25:05+00:00"
   },
   {
    "title": "U.S., U.K. Forces Use Virtual Summer Exercises to Go the Distance",
@@ -397,8 +370,19 @@
    "topic": "defense",
    "summary": "The U.S. military and U.K’s Royal Navy have conducted separate virtual exercises throughout the summer, simulating large scale operations with partner nations across the…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/FRPUE-20260713-XF0124-009.jpeg",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-09-03T15:06:33+00:00"
+  },
+  {
+   "title": "Chicago Bears Open Applications for 2026 Community All-Pros $107,000 Grant",
+   "url": "https://www.chicagobears.com/news/chicago-bears-open-applications-for-2026-community-all-pros-107-000-grant",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/y4polbp44oof8pixyjoo.jpg",
+   "age": "14h ago",
+   "published": "2026-09-03T15:00:00+00:00"
   },
   {
    "title": "Defense firms soar on ample military spending, testing manufacturing schemes",
@@ -408,52 +392,74 @@
    "topic": "defense",
    "summary": "For the many billions of dollars governments spend on defense, companies are on the hook to get their production pipelines in place and deliver.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RQOS2ZIEWJAQXEWQT6OZ4XMSX4.jpg",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-09-03T14:35:13+00:00"
   },
   {
-   "title": "Report to Congress on the U.S. Army’s Patriot Air and Missile Defense System",
-   "url": "https://news.usni.org/2026/09/03/report-to-congress-on-the-u-s-armys-patriot-air-and-missile-defense-system",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is the Aug. 27, 2026, Congressional Research Service report, U.S. Army’s Patriot Air and Missile Defense System. From the Report The Patriot air and missil…",
+   "title": "Voice of the Franchise: An inside look at how Caleb Williams is starting to lead the Bears",
+   "url": "https://allchgo.com/bears/inside-look-how-caleb-williams-starting-to-lead-bears/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/02222953/Caleb_Featured-1024x576.jpg",
+   "age": "19h ago",
+   "published": "2026-09-03T10:00:00+00:00"
+  },
+  {
+   "title": "Why Kyle Larson, Joey Logano and William Byron Can’t Be Overlooked",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcklnb2xSd2NwczhlRjVVNkNVbk1pbHdkVFk2QVBUdy14NHd0WV9xM0xveEs2Wllka0k4MlM3MVRtUXpWQXJiekVvV1BOUWhKZGtCOUJPR1R3WmVJTjNSQURYbTBENkUzam1pZm5sdURHWFQ0S241bzFaZFNFXzJwRlZUVEJXSFBBZU5NT0FZa0dkSUZOb3pabE9IUGtqakhZYnk0RzZ2LVZPMURmS2VERXRpVUZzUGlCRG1RYlhZb1Blc3RQOVdNbW51OEFsS21rNlVz?oc=5",
+   "source": "speedwaydigest.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
    "image": null,
-   "age": "10h ago",
-   "published": "2026-09-03T13:44:23+00:00"
-  },
-  {
-   "title": "Chinese military analysts can’t wait for the US Navy’s battleship era",
-   "url": "https://www.defensenews.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "A PLA assessment of the proposed Trump-class battleships probes for weaknesses.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IYHD67WXDZFPFCCL7Y2LGSVLC4.jpg",
-   "age": "11h ago",
-   "published": "2026-09-03T12:58:34+00:00"
-  },
-  {
-   "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. Marine Corps is looking to acquire high-resolution 3D scanners to detect cracked body armor.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RBN4YGHLZZGMZHO26UUAM45MEU.jpg",
-   "age": "12h ago",
-   "published": "2026-09-03T12:00:01+00:00"
-  },
-  {
-   "title": "Patriots at the Park",
-   "url": "https://news.usni.org/2026/09/02/patriots-at-the-park",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "TAIPEI, TAIWAN – Woodland patterned Patriot missiles canted skywards as Republic of China Air Force operators wolfed down boxed meals for dinner nearby. Downrange of the…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/DSC01548-scaled.jpg",
    "age": "1d ago",
-   "published": "2026-09-02T19:39:47+00:00"
+   "published": "2026-09-02T22:51:03+00:00"
+  },
+  {
+   "title": "More than a mural, the growing tentacles of public art in Northwest Indiana",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_867f273f-bc23-4508-aedb-48ef406be838.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "How a giant octopus mural in Valparaiso—and a growing public-art movement—are changing the way Northwest Indiana communities look, feel and attract visitors.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/4f/f4f2507b-afc6-48a8-88d5-7b1af33262ca/6a972f0d95892.image.jpg?resize=300%2C225",
+   "age": "1d ago",
+   "published": "2026-09-02T12:15:00+00:00"
+  },
+  {
+   "title": "The Bears and Kyler Gordon: Why it sounds as if the end is near",
+   "url": "https://allchgo.com/bears/bears-kyler-gordon-why-it-sounds-as-if-the-end-is-near/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/01111002/2024-10-15T202940Z_682533024_MT1USATODAY24497393_RTRMADP_3_NFL-LONDON-GAMES-JACKSONVILLE-JAGUARS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "2d ago",
+   "published": "2026-09-01T16:42:36+00:00"
+  },
+  {
+   "title": "We tell addicts to get help. But how can we help them get there? | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_002a80ec-a259-4ce2-a119-5111045cace9.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "After 10 years of helping people battle addiction, Heartland Wellness Center has learned a hard lesson: Recovery is possible, but we need to make it easier to get there …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/f4/9f4e0616-1ed2-457c-9b35-2de6792fb61d/6a95c847bb38d.image.jpg?resize=300%2C169",
+   "age": "2d ago",
+   "published": "2026-09-01T12:15:00+00:00"
+  },
+  {
+   "title": "Is Northwest Indiana listening to the Aug. 11 storm warning? 5 key takeaways",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_8a92d0fa-b2f4-4b8f-821f-4f12447a90f4.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The lesson is clear: We can’t prepare for tomorrow’s disasters with yesterday’s assumptions. Building resilience means upgrading infrastructure and rebuilding public tru…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/b8/3b873ba3-5fa7-4e1c-b063-6226e111a65a/6a80cc0f8e9ae.image.jpg?resize=300%2C179",
+   "age": "3d ago",
+   "published": "2026-08-31T21:00:00+00:00"
   }
  ]
 }
