@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-05",
+  "dateLabel": "Saturday, September 5, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-05T12:06:51Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~16h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 4, 2026 close — stocks slipped as a stronger-than-expected August jobs report raised the odds of a Fed rate hike.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,718.60", "change": "-29.11", "changePct": "-0.38%", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "53,414.25", "change": "-271.86", "changePct": "-0.51%", "sixMo": "+11%" },
+        { "name": "Nasdaq",  "close": "26,506.99", "change": "-77.11", "changePct": "-0.29%", "sixMo": "+17%" }
+      ],
+      "body": "Nonfarm payrolls jumped 162,000 in August, nearly triple the 55,000 economists expected, pushing Treasury yields higher and reviving worries the Federal Reserve may hold rates steady or even hike in September instead of cutting.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~5h ago",
+      "empty": false,
+      "headline": "Witkoff and Kushner arrive in Moscow with a new US proposal to end the Ukraine war",
+      "body": "Trump envoys Steve Witkoff and Jared Kushner met Vladimir Putin at the Kremlin on Saturday carrying an unpublished American proposal to end Russia's war in Ukraine, ahead of a planned Sunday stop in Kyiv to see Volodymyr Zelensky; expectations for a breakthrough are low, with people close to the Kremlin noting the pair's prior visits made little progress.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "Taiwan tracks 20 PLA aircraft and 11 ships in one of the larger single-day incursions in months",
+      "body": "Taiwan's Ministry of National Defense said 20 PLA aircraft sorties were detected from 8:24 a.m. Saturday, with 12 crossing the Taiwan Strait median line into the island's northern, central and southeastern air defense zones alongside 6 PLA Navy ships and 5 other official vessels, logged as a 'Joint Combat Readiness Patrol' and 'Air-Sea Joint Drill.'",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://www.tribuneindia.com/news/chinese-military/taiwan-detects-heightened-chinese-military-activity-around-its-territory-5"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US and Iran trade fresh strikes in the Strait of Hormuz while dueling on social media",
+      "body": "US Central Command released video of strikes on Iranian targets including two vessels in the Hormuz corridor this week as Washington and Tehran each pushed competing claims online; Treasury Secretary Scott Bessent said tanker traffic through the strait has actually risen to 15-17 million barrels a day, up from 5-7 million in August, undercutting fears the waterway would be shut down.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/09/04/u-s-iran-trade-strikes-in-strait-of-hormuz-as-both-battle-on-social-media"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "New Space Force chief takes command as a proposed 80% budget jump targets China's carrier-hunting satellites",
+      "body": "Gen. Douglas Schiess was sworn in Sept. 3 as the Space Force's third Chief of Space Operations, taking over a service pursuing a $71 billion fiscal 2027 budget request built around countering the 500-plus Chinese ISR satellites that form a targeting chain against US Navy carriers, including new funding for a resilient low-Earth-orbit constellation and an attack-survivable medium-Earth-orbit layer.",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/schiess-takes-command-of-space-force-as-the-service-prepares-for-expansion/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Commerce Secretary says Anthropic and the government are 'in tune' even as the Pentagon calls it a supply-chain risk",
+      "body": "Howard Lutnick said Anthropic and the administration are now 'in tune together' after months of tension, but Pentagon research chief Emil Michael countered days later that the company remains a 'designated supply chain risk' for the Defense Department, even as a federal judge sided with Anthropic on Aug. 27 over contradictions in the government's national-security claims and agencies like the Department of Energy and FCC keep expanding Claude use.",
+      "source": "FedScoop",
+      "url": "https://fedscoop.com/anthropic-government-responses-pentagon-battle-continues-claude/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "ESPN insider predicts Bears will still trade for an edge rusher before the season",
+      "body": "In his bold-predictions column for all 32 teams, ESPN's Dan Graziano said not to be surprised if GM Ryan Poles trades for a pass rusher opposite Montez Sweat, pointing to Chicago's roughly $17 million in fresh cap space from recent contract restructures and floating names like Dorance Armstrong, Kayvon Thibodeaux and Zaven Collins as possible fits.",
+      "source": "ESPN.com",
+      "url": "https://www.espn.com/nfl/story/_/id/49793475/2026-nfl-surprise-predictions-32-teams-stat-leaders-breakouts-fantasy-football"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's Chase outlook and Darlington prep were already covered in recent briefs, and today's practice and qualifying for the Cook Out Southern 500 hadn't happened yet at press time, so no new non-spoiler item qualified.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the churchwide fast-and-prayer call and General Assembly follow-up already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
