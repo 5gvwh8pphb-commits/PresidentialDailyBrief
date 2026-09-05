@@ -1,9 +1,9 @@
 {
- "generated": "2026-09-05T01:54:30+00:00",
+ "generated": "2026-09-05T06:29:27+00:00",
  "count": 40,
- "withImage": 39,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -14,13 +14,78 @@
   "Defense News",
   "Fox News",
   "NWI Times",
-  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
   "USNI News",
   "Windy City Gridiron"
  ],
  "items": [
+  {
+   "title": "From Trump’s takeover threats to a ‘northern neighborhood,’ why the EU chief is going to Greenland",
+   "url": "https://www.cnbc.com/2026/09/05/eu-greenland-von-der-leyen-trump-arctic.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The visit comes as Trump renews his push for greater U.S. control of the self-governing Danish territory.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108255388-1769033866107-gettyimages-2256899024-AFP_93KN49U.jpeg?v=1769676211&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-05T05:00:01+00:00"
+  },
+  {
+   "title": "Ukraine asks EU to fund first Patriot missiles buy",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Brussels is weighing a rare waiver that would let Kyiv tap its €90 billion loan for U.S.-made interceptors for the first time.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IBQQHLHUMFDNJABVXVAH7GCPYM.jpg",
+   "age": "1h ago",
+   "published": "2026-09-05T04:34:28+00:00"
+  },
+  {
+   "title": "LSU holds off on adding players with NFL ties as SEC lawsuit looms over program, Lane Kiffin",
+   "url": "https://www.foxnews.com/outkick-sports/lsu-holds-off-adding-players-nfl-ties-sec-lawsuit-looms-program-lane-kiffin",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Lane Kiffin s LSU Tigers held off adding former Ole Miss players to the roster Friday as the SEC s federal lawsuit and punishment threats intensified.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lane-kiffin-lsu-fall-practice-tiger-stadium.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-05T04:05:29+00:00"
+  },
+  {
+   "title": "All eyes were on USC to see if the Trojans could bounce back from nightmare tiny crowd at season opener",
+   "url": "https://www.foxnews.com/outkick-sports/usc-trojans-bounce-back-nightmare-tiny-crowd-season-opener",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "USC Trojans faced more scrutiny over sparse LA Coliseum crowds against Fresno State, but the stadium filled out by the second quarter on Friday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jayden-maiava.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-05T03:30:19+00:00"
+  },
+  {
+   "title": "Bears GM Ryan Poles in attendance at Miami-Stanford game",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/122022/chicago-bears-ryan-poles-miami-stanford",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/02/gettyimages-2253884133.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-09-05T03:15:26+00:00"
+  },
+  {
+   "title": "Venus and Serena Williams' highly anticipated US Open return ends in heartbreaking loss",
+   "url": "https://www.foxnews.com/outkick-sports/venus-serena-williams-highly-anticipated-us-open-return-ends-heartbreaking-loss",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Venus and Serena Williams returned to Arthur Ashe Stadium for a thrilling three-set US Open doubles match that kept fans on the edge of their seats.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/venus-serena-williams.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-05T02:52:11+00:00"
+  },
   {
    "title": "From cockroach milk to stepping on snakes, Ig Nobel awards celebrates science at its oddest",
    "url": "https://www.foxnews.com/world/cockroach-milk-stepping-snakes-ig-nobel-awards-celebrates-science-oddest",
@@ -29,19 +94,8 @@
    "topic": "world",
    "summary": "Cockroach milk, kissing evolution and the underwear soil test were among the unusual real studies honored at the Ig Nobel ceremony in Zurich.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/pia-viviani-atlant-bieri-ig-nobel-prize.jpg?ve=1&tl=1",
-   "age": "26m ago",
+   "age": "5h ago",
    "published": "2026-09-05T01:28:04+00:00"
-  },
-  {
-   "title": "DOJ ordered to freeze antitrust work with Canada as trade tensions intensify",
-   "url": "https://www.foxnews.com/politics/doj-ordered-freeze-antitrust-work-canada-trade-tensions-intensify",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Justice Department s antitrust division was directed to pause all cooperation with Canada amid the escalating U.S.-Canada trade war, according to a report.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/mark-carney-donald-trump-oval-office.jpg?ve=1&tl=1",
-   "age": "45m ago",
-   "published": "2026-09-05T01:09:14+00:00"
   },
   {
    "title": "Bunker Talk: Labor Day Weekend Edition",
@@ -51,30 +105,8 @@
    "topic": "defense",
    "summary": "Have a great and relaxing weekend gang! The post Bunker Talk: Labor Day Weekend Edition appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/9897221.jpg?quality=85",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-05T00:23:00+00:00"
-  },
-  {
-   "title": "TCU does an about-face after stripping local newspaper's credentials days before football season",
-   "url": "https://www.foxnews.com/outkick-sports/tcu-about-face-stripping-local-newspaper-credentials-days-before-football-season",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "TCU Athletics restored press credentials to the Fort Worth Star-Telegram days after pulling them over a report about Jacob Fields dismissal.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tcu-ireland.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-05T00:05:24+00:00"
-  },
-  {
-   "title": "Migrants spark outrage after video shows baby dolphin beaten during beach celebration",
-   "url": "https://www.foxnews.com/world/migrants-spark-outrage-video-shows-baby-dolphin-beaten-beach-celebration",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Video from Ceuta shows migrants pulling a dolphin calf from the water and striking it with a stick as outraged residents tried to intervene on the beach.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Ceuta-migrants-dolphin-001.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-05T00:05:10+00:00"
   },
   {
    "title": "USAF Wants MQ-9 Reaper Successor At A Fraction Of The Cost At $10M Each",
@@ -84,7 +116,7 @@
    "topic": "defense",
    "summary": "The USAF has aggressive cost and schedule goals for new drones to succeed the MQ-9 fleet that has suffered major losses. The post USAF Wants MQ-9 Reaper Successor At A F…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/mq-9-successor-cost-target-10-million.jpg?quality=85",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-09-04T23:43:14+00:00"
   },
   {
@@ -95,7 +127,7 @@
    "topic": "ai",
    "summary": "The round is being raised just months after the robot data startup exited from stealth.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-09-04T23:36:14+00:00"
   },
   {
@@ -106,7 +138,7 @@
    "topic": "ai",
    "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-09-04T23:15:11+00:00"
   },
   {
@@ -117,7 +149,7 @@
    "topic": "defense",
    "summary": "The ship pulled into Thailand earlier this week caked in rust and algae after 286 days at sea. The post USS Abraham Lincoln Is Getting A Badly Needed Scrubbing While In …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/USS-Lincoln-rust.jpg?quality=85",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-09-04T23:03:39+00:00"
   },
   {
@@ -128,19 +160,8 @@
    "topic": "ai",
    "summary": "\"Fundamentally, we want to learn about the origins of this planet and how it came to be like it is.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-09-04T22:49:17+00:00"
-  },
-  {
-   "title": "China’s Huge WZ-X Stealth Drone’s Strange Wing Configuration Confirmed",
-   "url": "https://www.twz.com/air/chinas-huge-wz-x-stealth-drones-strange-wing-configuration-confirmed",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "New photos of the WZ-X airborne give us a clearer view of the aircraft's unique wing design. The post China’s Huge WZ-X Stealth Drone s Strange Wing Configuration Confir…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/WZ-X.jpg?quality=85",
-   "age": "3h ago",
-   "published": "2026-09-04T22:42:01+00:00"
   },
   {
    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -150,7 +171,7 @@
    "topic": "ai",
    "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-1152x648.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-04T22:17:36+00:00"
   },
   {
@@ -161,7 +182,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/04/c412d3b4-7389-4e62-b389-83cd798c6167/rams.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-04T22:06:46+00:00"
   },
   {
@@ -172,7 +193,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/07/gettyimages-2255319785.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-09-04T21:30:00+00:00"
   },
   {
@@ -183,7 +204,7 @@
    "topic": "ai",
    "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-09-04T21:12:11+00:00"
   },
   {
@@ -194,7 +215,7 @@
    "topic": "defense",
    "summary": "Roughly $6.1 billion of military equipment was cleared for potential sales to Saudi Arabia, Oman and Iraq, spanning precision munitions to fighter jet sustainment, accor…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/kmu-572-scaled-e1788551656480-1024x577.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-04T20:24:05+00:00"
   },
   {
@@ -205,19 +226,8 @@
    "topic": "ai",
    "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-04T20:22:41+00:00"
-  },
-  {
-   "title": "Judge weighs how to dismiss Reflecting Pool vandalism charge against Olympian",
-   "url": "https://www.cnbc.com/2026/09/04/reflecting-pool-hearn-doj-trump-pirro.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "President Trump has said damage to the Reflecting Pool was due to vandalism, not to a flawed installation of a new liner as prosecutors say.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108332776-1783608345852-gettyimages-2285355780-2r1_8159_y4bcdo7i.jpeg?v=1788552518&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-09-04T20:22:09+00:00"
   },
   {
    "title": "Longtime Fox News host Maria Bartiromo disputes reports of termination",
@@ -227,7 +237,7 @@
    "topic": "markets",
    "summary": "Maria Bartiromo, the longtime host of Fox News and Fox Business programming, has disputed reports she was fired from the cable TV networks.",
    "image": "https://image.cnbcfm.com/api/v1/image/108359054-1788539004389-gettyimages-2243992399-z92_2885_82jmbmkz.jpeg?v=1788539030&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-04T20:17:13+00:00"
   },
   {
@@ -238,7 +248,7 @@
    "topic": "defense",
    "summary": "“If I were still in the building, I would say, ‘I m probably screwed now,' a former official told Breaking Defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/hegseth-april-30-scaled-e1777673504407-1024x577.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-04T20:11:31+00:00"
   },
   {
@@ -249,8 +259,19 @@
    "topic": "markets",
    "summary": "Tesla's long-awaited Cybercab update failed to dazzle investors.",
    "image": "https://image.cnbcfm.com/api/v1/image/108358940-1788527112511-gettyimages-2292810316-AFP_C7B322X.jpeg?v=1788550249&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-04T20:06:13+00:00"
+  },
+  {
+   "title": "Trump says he will spend up to $500 million of 'my money' to help Republicans in midterms",
+   "url": "https://www.cnbc.com/2026/09/04/trump-maga-inc-500-million-republicans-midterm-elections.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump's pledge would dramatically increase MAGA Inc.’s spending after the Trump-aligned PAC kept most of its $403 million war chest on the sidelines.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108359150-1788546308714-gettyimages-2293545582-ah806161_y1jg72lx.jpeg?v=1788546341&amp;w=1920&amp;h=1080",
+   "age": "10h ago",
+   "published": "2026-09-04T19:57:35+00:00"
   },
   {
    "title": "2026 Minnesota Vikings betting preview, predictions: Four NFL player props to target before Week 1",
@@ -260,7 +281,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2025/11/28/81060540-1a57-477d-bd18-451029bb48ac/justin-jefferson-minnesota-vikings-imagn-images.jpg",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-09-04T19:35:32+00:00"
   },
   {
@@ -271,7 +292,7 @@
    "topic": "defense",
    "summary": "The Air Force is accelerating its timeline for a cheaper, more expendable successor to the MQ-9A Reaper after combat losses.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Z3DSJOKNHZEUXA362MOWBOVFWQ.jpeg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-04T19:27:23+00:00"
   },
   {
@@ -282,7 +303,7 @@
    "topic": "defense",
    "summary": "U.S. President Donald Trump will use the Qatari-donated jet to travel to Ireland next week, the plane's first international trip since the swap in Turkey.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DKHZ55PEKZEPDOMBECJK4JPZQQ.JPG",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-04T18:58:02+00:00"
   },
   {
@@ -293,7 +314,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/04/a04e94ca-7c6a-4bee-b849-dd61157f89d5/dante-moore.jpg",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-09-04T18:45:29+00:00"
   },
   {
@@ -304,7 +325,7 @@
    "topic": "defense",
    "summary": "The Secure Space Network will deploy close to 50 SCIFs around the nation to improve access to classified information for smaller businesses to do work with the military.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/7766516-scaled-e1788543706796-1024x577.jpg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-09-04T17:46:10+00:00"
   },
   {
@@ -315,7 +336,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/03/gettyimages-2263607092.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-04T17:28:38+00:00"
   },
   {
@@ -326,19 +347,8 @@
    "topic": "defense",
    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Laem Chabang, Thailand Aircraft carrier USS Abraham Linc…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9904942-1-scaled.jpg",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-04T17:23:52+00:00"
-  },
-  {
-   "title": "2026 NFL Season Award Predictions: MVP",
-   "url": "https://www.windycitygridiron.com/general/121957/2026-nfl-season-award-predictions-mvp-caleb-williams-josh-allen-matthew-stafford",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/01/gettyimages-2256974092.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
-   "published": "2026-09-04T17:00:00+00:00"
   },
   {
    "title": "U.S., Iran Trade Strikes in Strait of Hormuz as Both Battle on Social Media",
@@ -348,7 +358,7 @@
    "topic": "defense",
    "summary": "The U.S. resumed attacking Iranian targets along the Strait of Hormuz this week as tensions over the waterway rose once again. In a video published by U.S. Central Comma…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-12.27.48-PM.png",
-   "age": "9h ago",
+   "age": "13h ago",
    "published": "2026-09-04T16:33:21+00:00"
   },
   {
@@ -359,7 +369,7 @@
    "topic": "defense",
    "summary": "Opposition from the U.S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ZYV46JUQSVFYPP7LSAGVWW5KBI.JPG",
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-09-04T15:27:01+00:00"
   },
   {
@@ -416,17 +426,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/02222953/Caleb_Featured-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-09-03T10:00:00+00:00"
-  },
-  {
-   "title": "Why Kyle Larson, Joey Logano and William Byron Can’t Be Overlooked",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcklnb2xSd2NwczhlRjVVNkNVbk1pbHdkVFk2QVBUdy14NHd0WV9xM0xveEs2Wllka0k4MlM3MVRtUXpWQXJiekVvV1BOUWhKZGtCOUJPR1R3WmVJTjNSQURYbTBENkUzam1pZm5sdURHWFQ0S241bzFaZFNFXzJwRlZUVEJXSFBBZU5NT0FZa0dkSUZOb3pabE9IUGtqakhZYnk0RzZ2LVZPMURmS2VERXRpVUZzUGlCRG1RYlhZb1Blc3RQOVdNbW51OEFsS21rNlVz?oc=5",
-   "source": "Speedway Digest",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-09-02T22:51:03+00:00"
   },
   {
    "title": "More than a mural, the growing tentacles of public art in Northwest Indiana",
