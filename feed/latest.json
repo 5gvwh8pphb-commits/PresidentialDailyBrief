@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-06T12:58:29+00:00",
+ "generated": "2026-09-06T15:58:47+00:00",
  "count": 40,
  "withImage": 40,
  "bearsDay": false,
@@ -10,32 +10,110 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
+   "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
+   "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108306327-1778680897174-gettyimages-2275447146-AFP_B2QM89F.jpeg?v=1778680915&amp;w=1920&amp;h=1080",
+   "age": "6m ago",
+   "published": "2026-09-06T15:52:07+00:00"
+  },
+  {
+   "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
+   "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108312455-1779885957667-gettyimages-2278350700-20260526-151940.jpeg?v=1779885978&amp;w=1920&amp;h=1080",
+   "age": "23m ago",
+   "published": "2026-09-06T15:35:16+00:00"
+  },
+  {
+   "title": "Michigan fans called out on social media for rushing field after Wolverines steal win over Western Michigan",
+   "url": "https://www.foxnews.com/outkick-sports/michigan-fans-called-out-social-media-rushing-field-wolverines-steal-win-western-michigan",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Michigan fans stormed the field after Bryce Underwood s Hail Mary saved a 13-12 win over Western Michigan, sparking college football debate.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/michigan-fans-featured.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-09-06T15:33:37+00:00"
+  },
+  {
+   "title": "Texas deputy screams and runs after 'dead' deer springs to feet in viral encounter",
+   "url": "https://www.foxnews.com/us/texas-deputy-screams-runs-dead-deer-springs-feet-viral-encounter",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The viral video has racked up over 10 million views as an East Texas sheriff s deputy discovers a motionless doe is very much alive during a night shift, a sheriff said.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/texas-deputy-deer-springs-up.jpg?ve=1&tl=1",
+   "age": "27m ago",
+   "published": "2026-09-06T15:31:23+00:00"
+  },
+  {
+   "title": "Bessent predicts oil prices could drop as low as $40 after Iran conflict ends and supply floods market",
+   "url": "https://www.foxnews.com/media/bessent-predicts-oil-prices-drop-low-40-iran-conflict-ends-supply-floods-market",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Treasury Secretary Scott Bessent predicted oil prices could drop to between $40 and $50 after the Iran conflict ends, citing massive supply ready to hit the market.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/scott-bessent-nov-2025.jpg?ve=1&tl=1",
+   "age": "39m ago",
+   "published": "2026-09-06T15:18:54+00:00"
+  },
+  {
+   "title": "Terry Bradshaw opens up about mortality after beating cancer twice: 'Am I going to heaven?'",
+   "url": "https://www.foxnews.com/media/terry-bradshaw-opens-mortality-beating-cancer-twice-going-heaven",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Terry Bradshaw reveals how two cancer diagnoses reshaped his Christian faith and marriage in a raw podcast interview ahead of his new memoir release.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/08/931/523/terry-bradshaw-nfl.jpg?ve=1&tl=1",
+   "age": "58m ago",
+   "published": "2026-09-06T15:00:13+00:00"
+  },
+  {
+   "title": "Pro wrestler Andy Williams, who performed as The Butcher, dead at 48",
+   "url": "https://www.foxnews.com/outkick-sports/pro-wrestler-andy-williams-performed-butcher-dead-48",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Andy Williams, known as The Butcher, collapsed after a match at Mr. Smalls Theater in Millvale, Pennsylvania, where doctors administered CPR.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/andy-williams-keith-buckley-gibson-brands-ap-music-awards-fox-news_.jpg?ve=1&tl=1",
+   "age": "58m ago",
+   "published": "2026-09-06T15:00:03+00:00"
+  },
+  {
    "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here",
    "url": "https://www.cnbc.com/2026/09/06/sugar-is-outperforming-the-stock-market-this-year-whats-driving-it.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The sweetener's prices surged this week, reflecting a sharp deterioration in the global supply outlook.",
+   "summary": "The sweetener's prices surged last week, reflecting a sharp deterioration in the global supply outlook.",
    "image": "https://image.cnbcfm.com/api/v1/image/107348242-1702653806473-gettyimages-1250817960-Sugar_Price_Rise.jpeg?v=1703592166&amp;w=1920&amp;h=1080",
-   "age": "10m ago",
-   "published": "2026-09-06T12:48:18+00:00"
+   "age": "2h ago",
+   "published": "2026-09-06T13:19:01+00:00"
   },
   {
-   "title": "Should you use a separate computer for online banking?",
-   "url": "https://www.foxnews.com/tech/should-use-separate-computer-online-banking",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A dedicated banking computer isolates your financial accounts from malware and phishing, but passwords, SIM swapping and outdated software remain risks.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/person-on-computer.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-09-06T12:16:14+00:00"
+   "title": "This Labor Day hits differently after the summer of storms in NWI",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_1b610aae-b03c-416c-a8b1-602b9734ce5b.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "After storms, power outages, damaged homes and long days of cleanup, Northwest Indiana has a lot to reflect on — especially the people who refused to stop showing up.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/fd/4fd5565c-d037-4ea1-8221-1b2b87fcace9/6a7bac8ec56c4.image.jpg?resize=300%2C225",
+   "age": "3h ago",
+   "published": "2026-09-06T12:15:00+00:00"
   },
   {
    "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at frenetic pace",
@@ -45,41 +123,19 @@
    "topic": "markets",
    "summary": "Anthropic, OpenAI, Meta and Google all released model updates this week, while Nvidia said it's acquiring open-source AI platform Hugging Face.",
    "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&amp;w=1920&amp;h=1080",
-   "age": "44m ago",
+   "age": "3h ago",
    "published": "2026-09-06T12:13:49+00:00"
   },
   {
-   "title": "Iran warns of ‘more painful’ response to U.S. attacks as economic pressure mounts",
-   "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+   "title": "AI data centers are transforming rural land markets — and fueling a backlash",
+   "url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359320-1788693543339-gettyimages-2292604250-AFP_C74Y6WE.jpeg?v=1788695254&amp;w=1920&amp;h=1080",
-   "age": "55m ago",
-   "published": "2026-09-06T12:02:47+00:00"
-  },
-  {
-   "title": "America's biggest beer-loving states revealed — see where yours ranks",
-   "url": "https://www.foxnews.com/food-drink/americas-biggest-beer-loving-states-revealed-see-where-yours-ranks",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "America s beer capital runs through Wisconsin for the second straight year, with the Midwest dubbed the nation s beer belt. Regional loyalty remains strong, experts say.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/beers_friends.jpg?ve=1&tl=1",
-   "age": "57m ago",
-   "published": "2026-09-06T12:00:52+00:00"
-  },
-  {
-   "title": "JD Vance's mother Beverly Vance reacts to vice president's 'childless cat ladies' spat with Taylor Swift",
-   "url": "https://www.foxnews.com/outkick-culture/jd-vance-mother-beverly-vance-reacts-vice-president-childless-cat-ladies-taylor-swift",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Beverly Vance said she had no idea Taylor Swift referenced JD Vance s childless cat ladies comment in her Kamala Harris endorsement post online.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/taylor-swift-travis-kelce-walk.jpg?ve=1&tl=1",
-   "age": "58m ago",
-   "published": "2026-09-06T12:00:17+00:00"
+   "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-06T12:00:01+00:00"
   },
   {
    "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
@@ -89,30 +145,19 @@
    "topic": "ai",
    "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-09-06T11:55:26+00:00"
   },
   {
-   "title": "AMB. GORDON SONDLAND: The Godfather Test -- How Putin turns every attack into a mystery—and gets away with it",
-   "url": "https://www.foxnews.com/opinion/gordon-sondland-godfather-test-putin-turns-every-attack-into-mystery-gets-away-with-it",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Former Amb. Gordon Sondland s Godfather Test urges NATO and the European Union to presume Vladimir Putin is behind cyberattacks and sabotage targeting the West.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/putin-meeting-missile-cruiser-varyag.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-06T11:50:48+00:00"
-  },
-  {
-   "title": "Dementia stole my grandmother from us. I am fighting to give families more time",
-   "url": "https://www.foxnews.com/opinion/dementia-stole-grandmother-fighting-give-families-more-time",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "After losing her grandmother to vascular dementia in Queens, New York, one advocate now leads the push for earlier Alzheimer s diagnosis nationwide.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/1200/675/caregiver-holding-hands-patient.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-06T11:50:27+00:00"
+   "title": "GEORGE GRENCHIK | Canada policy is latest justification for 'Trump Derangement Syndrome'",
+   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_b2b3c294-59ec-47a5-91a4-fa84741bfee2.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "4h ago",
+   "published": "2026-09-06T11:00:00+00:00"
   },
   {
    "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
@@ -122,7 +167,7 @@
    "topic": "ai",
    "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2198085330.jpg",
-   "age": "2h ago",
+   "age": "5h ago",
    "published": "2026-09-06T10:00:35+00:00"
   },
   {
@@ -133,7 +178,7 @@
    "topic": "ai",
    "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
    "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
-   "age": "14h ago",
+   "age": "17h ago",
    "published": "2026-09-05T22:49:55+00:00"
   },
   {
@@ -144,19 +189,8 @@
    "topic": "ai",
    "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
-   "age": "17h ago",
+   "age": "20h ago",
    "published": "2026-09-05T19:35:24+00:00"
-  },
-  {
-   "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-   "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347529-1786391464606-108347529-1786391400825-gettyimages-2277700921-0d6a1940_h7ptqyou.jpg?v=1786396230&amp;w=1920&amp;h=1080",
-   "age": "17h ago",
-   "published": "2026-09-05T19:12:53+00:00"
   },
   {
    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
@@ -166,7 +200,7 @@
    "topic": "ai",
    "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-   "age": "18h ago",
+   "age": "21h ago",
    "published": "2026-09-05T18:05:27+00:00"
   },
   {
@@ -177,7 +211,7 @@
    "topic": "ai",
    "summary": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Clucky.png?w=1200",
-   "age": "19h ago",
+   "age": "22h ago",
    "published": "2026-09-05T17:00:00+00:00"
   },
   {
@@ -188,19 +222,8 @@
    "topic": "ai",
    "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
-   "age": "21h ago",
+   "age": "1d ago",
    "published": "2026-09-05T15:17:36+00:00"
-  },
-  {
-   "title": "Trump’s state capitalism comes to the oil industry with his unprecedented Venezuela deal",
-   "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The deal comes eight months after Washington ousted former President Nicolás Maduro in a military raid.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358071-1788381299776-gettyimages-2292663260-RODRIGUEZ_WRIGHT_VENEZUELA.jpeg?v=1788381351&amp;w=1920&amp;h=1080",
-   "age": "21h ago",
-   "published": "2026-09-05T15:11:03+00:00"
   },
   {
    "title": "Oura is going public, but these smart ring companies are coming for its crown",
@@ -210,8 +233,19 @@
    "topic": "ai",
    "summary": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an ed…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
-   "age": "21h ago",
+   "age": "1d ago",
    "published": "2026-09-05T15:00:00+00:00"
+  },
+  {
+   "title": "Dear merchants: That 3% credit card fee? We shouldn't have to hunt for it | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_7e6d08f5-ad86-4abc-8466-cf7ba7ecd5aa.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Credit card surcharges for 3% or 4% are spreading across Northwest Indiana merchants, but customers shouldn’t have to play detective to find them. The issue is transpare…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/d0/1d05c5e6-eebd-507d-a888-118d36f632f1/60ff15049de04.image.jpg?resize=300%2C200",
+   "age": "1d ago",
+   "published": "2026-09-05T12:15:00+00:00"
   },
   {
    "title": "Ukraine asks EU to fund first Patriot missiles buy",
@@ -313,17 +347,6 @@
    "published": "2026-09-04T20:11:31+00:00"
   },
   {
-   "title": "U.S. Air Force Seeks Anti-Aircraft Guns To Protect Its Overseas Bases",
-   "url": "https://www.twz.com/land/u-s-air-force-seeks-anti-aircraft-guns-to-protect-its-overseas-bases",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The request for anti-drone and anti-cruise missile guns comes as the Air Force is pushing to take on more air defense responsibilities at its forward bases. The post U.S…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/Rheinmetall-Stationaere-Flugabwehr-Oerlikon-Skyshield.fbcb7be7-Firefly-Upscaler-2x-scale.jpg?quality=85",
-   "age": "1d ago",
-   "published": "2026-09-04T20:04:59+00:00"
-  },
-  {
    "title": "US Air Force speeds Reaper successor timeline after Iran losses",
    "url": "https://www.defensenews.com/news/your-military/2026/09/04/us-air-force-speeds-reaper-successor-timeline-after-iran-losses/",
    "source": "Defense News",
@@ -390,17 +413,6 @@
    "published": "2026-09-04T16:33:21+00:00"
   },
   {
-   "title": "Fixing the machine: Inside the Navy’s race to rebuild its aviator pipeline",
-   "url": "https://breakingdefense.com/2026/09/fixing-the-machine-inside-the-navys-race-to-rebuild-its-aviator-pipeline/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "An in-depth discussion with the service s chief of Naval Air Training Command.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg",
-   "age": "1d ago",
-   "published": "2026-09-04T15:47:45+00:00"
-  },
-  {
    "title": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
    "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
    "source": "Defense News",
@@ -408,7 +420,7 @@
    "topic": "defense",
    "summary": "Opposition from the U.S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ZYV46JUQSVFYPP7LSAGVWW5KBI.JPG",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-04T15:27:01+00:00"
   },
   {
@@ -419,7 +431,7 @@
    "topic": "defense",
    "summary": "The U.S. does not have enough engineers, technicians and assemblers to rebuild military space assets destroyed in a war with China or Russia, per RAND.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5VPYFGDXFFDDJPASSW4QF2CI44.png",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-04T13:50:33+00:00"
   },
   {
@@ -443,17 +455,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/09/image.png",
    "age": "2d ago",
    "published": "2026-09-03T19:50:30+00:00"
-  },
-  {
-   "title": "U.S., U.K. Forces Use Virtual Summer Exercises to Go the Distance",
-   "url": "https://news.usni.org/2026/09/03/u-s-u-k-forces-use-virtual-summer-exercises-to-go-the-distance",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The U.S. military and U.K’s Royal Navy have conducted separate virtual exercises throughout the summer, simulating large scale operations with partner nations across the…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/FRPUE-20260713-XF0124-009.jpeg",
-   "age": "2d ago",
-   "published": "2026-09-03T15:06:33+00:00"
   }
  ]
 }
