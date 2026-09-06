@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-06",
+  "dateLabel": "Sunday, September 6, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-06T12:25:42Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 4, 2026 close — stocks slipped as a stronger-than-expected August jobs report raised doubts about a near-term Fed rate cut; markets were shut over the weekend.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,718.60", "change": "-29.11", "changePct": "-0.38%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,414.25", "change": "-271.86", "changePct": "-0.51%", "sixMo": "+9.6%" },
+        { "name": "Nasdaq",  "close": "26,506.99", "change": "-77.11", "changePct": "-0.29%", "sixMo": "+16%" }
+      ],
+      "body": "Nonfarm payrolls jumped 162,000 in August, nearly triple the 55,000 economists expected, pushing Treasury yields higher and reviving worries the Federal Reserve may hold rates steady rather than cut in September. It remains the most recent close since the market was shut for the weekend.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-4-090900700.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~7h ago",
+      "empty": false,
+      "headline": "Witkoff and Kushner make first-ever Kyiv stop after Moscow talks with Putin",
+      "body": "Trump envoys Steve Witkoff and Jared Kushner met Volodymyr Zelensky in Kyiv on Sunday, their first visit to the Ukrainian capital, a day after presenting Vladimir Putin with an unpublished US proposal to end the war; Russia and Ukraine each agreed to hold off on aerial attacks on the other's capital to allow the visits, though no broader ceasefire is in place.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Taiwan's latest PLA activity figures (20 aircraft sorties, 6 PLAN ships) were already reported in yesterday's brief, and no new, distinct China-Taiwan or South China Sea development from a reputable outlet surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iran fires on a US carrier and destroyer in the Strait of Hormuz; US strikes three more tankers",
+      "body": "US Central Command said Iran's Revolutionary Guard fired ballistic missiles at a US Navy carrier and a destroyer patrolling near the Strait of Hormuz; both ships evaded the attack with no American casualties, and the US responded by striking three more Iranian oil tankers, extending a flare-up in the conflict after a month-long lull.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/05/us-military-strikes-three-iranian-tankers/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Golden Dome's space-based interceptor plan draws fresh scrutiny over cost and orbital physics",
+      "body": "Bloomberg reported that all 12 contractors on Trump's $185 billion Golden Dome missile-shield program, including RTX, Northrop Grumman and Anduril, have cleared an initial space-based interceptor milestone, but unresolved questions remain over how many hundreds or thousands of satellites would be needed for continuous coverage and over a disputed CBO cost estimate that Golden Dome's director says relied on incomplete information.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-04/trump-s-audacious-golden-dome-faces-challenges"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "OpenAI's new flagship GPT-6 Astra lands within reach of Claude Opus 5, at twice the price",
+      "body": "OpenAI began rolling out GPT-6 Astra on Sept. 3, its most capable model yet, touting a 'computer use' feature that navigates spreadsheets and web pages at superhuman speed; independent testing from Artificial Analysis found Astra roughly on par with Claude Opus 5 on everyday reasoning while leading on math and agentic-task benchmarks, but priced at exactly double Opus 5's rate per token.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/09/03/openai-debuts-gpt-6-astra-computer-use-greg-brockman-says-start-of-agi/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears WR Rome Odunze avoids serious injury after Thursday's practice scare",
+      "body": "Chicago Tribune's Dan Wiederer reported Odunze 'should be all good' after exiting Thursday's practice early with an apparent right-leg injury, though he still carries a question mark heading into the Sept. 13 opener at Carolina; the Bears' first Week 1 injury report is due Wednesday, Sept. 9.",
+      "source": "Chicago Tribune",
+      "url": "https://sports.yahoo.com/articles/rome-odunze-avoids-serious-injury-003026410.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron set to start 20th at Darlington after lightning wipes out Southern 500 qualifying",
+      "body": "With qualifying canceled by lightning ahead of Sunday's Cook Out Southern 500 — the opening race of the 2026 Chase — NASCAR set the lineup using a weighted formula based on owner points and each team's finish in the most recent race, slotting Byron's No. 24 Hendrick Chevrolet 20th to start the postseason opener.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/news/2026/september/05/nascar-cup-series-qualifying-cancelled-at-darlington"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the churchwide fast-and-prayer call already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
