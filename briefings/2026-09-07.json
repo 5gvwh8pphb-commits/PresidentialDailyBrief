@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-07",
+  "dateLabel": "Monday, September 7, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-07T14:29:07Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, September 4, 2026 close — a choppy week that ended lower after a stronger-than-expected August jobs report revived fears the Fed may hold rates steady rather than cut.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,718.60", "change": "+0.1%", "heroLabel": "week", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "53,414.25", "change": "-0.3%", "heroLabel": "week", "sixMo": "+9.6%" },
+        { "name": "Nasdaq",  "close": "26,506.99", "change": "+0.4%", "heroLabel": "week", "sixMo": "+16%" }
+      ],
+      "body": "Nonfarm payrolls jumped 162,000 in August, nearly triple the 55,000 economists expected, pushing Treasury yields higher and reviving worries the Federal Reserve may hold rates steady rather than cut in September; renewed US-Iran strikes in the Strait of Hormuz added to the week's volatility. The Nasdaq notched its third straight weekly gain while the Dow slipped for the week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/03/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Zelensky reviews Kyiv talks with Witkoff and Kushner as US promises next steps 'in the coming weeks'",
+      "body": "A day after the US envoys' first-ever Kyiv visit, Volodymyr Zelensky met his negotiating team Monday to review the talks and said 'the most important thing is to continue working actively and jointly so that diplomacy can succeed'; a White House official said both sides discussed a 'refreshed' peace proposal and Ukraine's winter air-defense needs, with concrete next steps to be announced in the coming weeks.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/06/witkoff-kushner-kyiv-ukraine-peace-talks"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Taiwan logs 13 PLA Navy ships in a single morning sweep, a notable jump from the prior day",
+      "body": "Taiwan's Ministry of National Defense said it detected 2 PLA aircraft sorties, 13 PLA Navy vessels and 4 other official ships operating around the island as of 6 a.m. Sunday, a sharp rise in naval presence from the 6 PLAN ships logged a day earlier, continuing what Taipei has labeled 'Joint Combat Readiness Patrol' activity.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260907-roc-mnd01.htm"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US and Iran remain locked in a 'tanker war' with no off-ramp in sight",
+      "body": "A day after Iran fired ballistic missiles at a US carrier and destroyer near the Strait of Hormuz and CENTCOM struck three more Iranian oil tankers in response, analysts told Al Jazeera the months-long, tit-for-tat conflict shows no sign of winding down, with CENTCOM commander Adm. Brad Cooper warning Tehran that further attacks on US ships would draw an even higher economic cost against Iran's tanker fleet.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon's quantum navigation test flies an aircraft over the Pacific for 4+ hours with no GPS",
+      "body": "The Defense Innovation Unit said a Honeywell quantum-sensor navigation system, tested aboard an Embraer 170 flying roughly 4 hours 23 minutes from Seattle's Puget Sound to southern Alaska and back, improved position accuracy by 89% over conventional GPS-denied backup methods by reading variations in Earth's magnetic field instead of satellite signals — a capability the Pentagon wants as a jam-proof alternative to GPS.",
+      "source": "GlobalSecurity.org / DoD",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260904-dodnews01.htm"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic locks in Sonnet 5's lower launch pricing instead of raising rates as planned",
+      "body": "Anthropic confirmed the introductory pricing for Claude Sonnet 5 ($2/$10 per million tokens) will remain the standard rate, scrapping a previously scheduled Sept. 1 increase to $3/$15; the move follows the Sept. 1 rollout of Fable 5.1 and Mythos 5.1, whose outputs now carry Anthropic's EU-mandated text watermark and which now also power Claude Security's vulnerability-scanning product.",
+      "source": "Anthropic",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Former Bears fullback Matt Suhey, blocker for Walter Payton on the '85 championship team, dies at 68",
+      "body": "Suhey, who played for the Bears from 1980-1989 and scored Chicago's first touchdown in its Super Bowl XX win, died in his sleep Saturday night; the Bears, in Carolina this week preparing for Sunday's season opener against the Panthers, paid tribute to him as one of the last blue-collar links to the 1985 championship team.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/06/former-bears-fb-matt-suhey-member-of-1985-championship-team-dies-at-68"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Cook Out Southern 500 at Darlington was the Chase opener, so every fresh Byron item today centers on how that race played out; per the spoiler rule for this beat, no race result from the past 7 days can be reported, and no other new, non-outcome Byron news surfaced within the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific development from a reputable outlet surfaced within the 72-hour window beyond the churchwide September fast-and-prayer call already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
