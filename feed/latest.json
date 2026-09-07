@@ -1,42 +1,112 @@
 {
- "generated": "2026-09-07T00:28:15+00:00",
+ "generated": "2026-09-07T05:01:48+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 36,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
+  "Catchfence",
   "Defense News",
   "Fox News",
+  "MotorBiscuit",
+  "NASCAR.com",
   "NWI Times",
   "TechCrunch",
+  "The Racing Experts",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "Rome ramps up security around Colosseum with new ‘red zone’ targeting criminals",
-   "url": "https://www.foxnews.com/world/rome-ramps-security-colosseum-red-zone-targeting-criminals",
+   "title": "US restricts government travel to Mexican border city over threat concerns",
+   "url": "https://www.foxnews.com/world/us-restricts-government-travel-mexican-border-city-threat-concerns",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Rome s new red zone around the Colosseum targets predatory crime and disorder after a violent July 1 confrontation involving roughly 50 people.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/colosseum-police.jpg?ve=1&tl=1",
-   "age": "8m ago",
-   "published": "2026-09-07T00:19:33+00:00"
+   "summary": "The U.S. Consulate in Nogales announced restricted government travel to essential daylight movement only over an unspecified threat in Sonora, Mexico.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mexican-border-town-travel-security-warning.png?ve=1&tl=1",
+   "age": "27m ago",
+   "published": "2026-09-07T04:34:03+00:00"
   },
   {
-   "title": "MLB tells umpire Doug Eddings he made a mistake in demanding Cardinals pitcher straighten his hat",
-   "url": "https://www.foxnews.com/outkick-sports/mlb-tells-umpire-doug-eddings-he-made-mistake-demanding-cardinals-pitcher-straighten-hat",
+   "title": "William Byron spins, suffers mechanical failure in Chase opener",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVM2cUtCYUROT1FuWFpaUk83TTA4VFhUXzN2MlY5V0xnUjZXRnZOYU9XaXA4RElMYWUyOHpJdWNVNmJvS0tuWVJuQmEyMGJuakhHenNMOXRwV3VJeTc4YUh6a0VWbVJxdV9hSUd3cXhJYmxFVGROVzgzTFQ1Zkxjd0huZy11WVVCS2w4SFZxQjQ5YXhSRGtsaUx4OGw1dlpBTjZJdFZFSkNjbEF1ZE1FajdB?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-09-07T03:41:57+00:00"
+  },
+  {
+   "title": "Barbara Eden, 95, says she’s ‘okay’ after last-minute cancelation of festival appearance",
+   "url": "https://www.foxnews.com/entertainment/barbara-eden-95-says-shes-okay-after-last-minute-cancelation-festival-appearance",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Umpire Doug Eddings told rookie pitcher Hancel Rincon to fix his tilted hat during his MLB debut, sparking an ejection and a reportedly rebuke from the league.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/oliver-marmol-argues-umpire-coors-field-fox-news_.jpg?ve=1&tl=1",
-   "age": "12m ago",
-   "published": "2026-09-07T00:15:51+00:00"
+   "summary": "Barbara Eden reassured fans after a sudden illness forced her to miss the Cinecon Classic Film Festival, revealing a new medication s side effects.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/barbara-eden-project-angel-food-ktla_001.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-07T02:49:24+00:00"
+  },
+  {
+   "title": "Time is now, Clemson Tigers and Dabo Swinney need to call it quits after historic run",
+   "url": "https://www.foxnews.com/outkick-sports/time-now-clemson-tigers-dabo-swinney-need-call-quits-historic-run",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Dabo Swinney s Clemson Tigers suffered a humiliating 51-10 loss to LSU, raising fresh questions about whether the program needs a coaching change.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dabo-swinney-clemson-tiger-stadium.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-07T02:41:18+00:00"
+  },
+  {
+   "title": "Bronson Reed returns to the ring leaner and meaner and looking like the future of WWE",
+   "url": "https://www.foxnews.com/outkick-sports/bronson-reed-returns-ring-leaner-meaner-looking-future-wwe",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Bronson Reed made a shocking return at Sunday Night s Main Event, unleashing a brutal chair assault on Oba Femi during his match with Bron Breakker.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bronson-reed-oba-femi-wrestling.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-07T02:31:38+00:00"
+  },
+  {
+   "title": "William Byron Suffers Major Setback at Darlington to Start The Chase",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeENzZmgtZGpTazc5dER5bV9rQmdLa0MtbmZtdTlQWVh0ZnhNN1R5eWFEakRteE5aX2s0d2ZrSU9QamF1SE85VmlsYVQ4OXJQRmNsbURqYjhZS1lmWGc4eUJsR3RnUkxRbWN5Z1FzM1lFOFgwUF80Ni0wWUt1blF5N2tWTXJwam8?oc=5",
+   "source": "MotorBiscuit",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "2h ago",
+   "published": "2026-09-07T02:09:08+00:00"
+  },
+  {
+   "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
+   "url": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Treasury yields face a test at 4.8%, with a sustained move above that potentially creating \"meaningful problems\" for other asset classes, said Miller Tabak.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108353364-17875852502026-08-24t152550z_1014179211_rc215nao2bai_rtrmadp_0_usa-stocks.jpeg?v=1787585353&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-09-07T02:01:52+00:00"
+  },
+  {
+   "title": "Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport",
+   "url": "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Mount Anak Krakatau’s eruption disrupted hundreds of flights across Indonesia, with flight cancellations extending into Monday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108359352-1788740387814-gettyimages-2293289816-AA_06092026_2940545.jpeg?v=1788740423&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-07T01:31:03+00:00"
   },
   {
    "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
@@ -46,41 +116,8 @@
    "topic": "markets",
    "summary": "",
    "image": "https://image.cnbcfm.com/api/v1/image/47565107-private_space_race--1612160365_v2.jpg?v=1349505474&amp;w=1920&amp;h=1080",
-   "age": "21m ago",
+   "age": "4h ago",
    "published": "2026-09-07T00:06:18+00:00"
-  },
-  {
-   "title": "Socialism 2026 speaker slams diet industry for policing 'Black fat flesh,' calls it 'body fascism'",
-   "url": "https://www.foxnews.com/media/socialism-2026-speaker-slams-diet-industry-policing-black-fat-flesh-calls-body-fascism",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A Socialism 2026 speaker argued that policing Black fat flesh anchors entire systems of governance, calling modern health standards body fascism.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/glp-1-1.jpg?ve=1&tl=1",
-   "age": "28m ago",
-   "published": "2026-09-07T00:00:15+00:00"
-  },
-  {
-   "title": "Trump appears to debut darker hair, sparking online buzz",
-   "url": "https://www.foxnews.com/politics/trump-appears-debut-darker-hair-sparking-online-buzz",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "New photos of President Trump stepping off Air Force One with what appeared to be a darker hairstyle have quickly fueled social media buzz.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-darker-hair-style-split.jpg?ve=1&tl=1",
-   "age": "48m ago",
-   "published": "2026-09-06T23:39:48+00:00"
-  },
-  {
-   "title": "Kansas State Wildcats' mascot forced to complete absurd amount of push-ups during 71-3 victory",
-   "url": "https://www.foxnews.com/outkick-sports/kansas-state-wildcats-mascot-forced-complete-absurd-amount-push-ups-during-71-3-victory",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Willie the Wildcat cranked out 394 push-ups after Kansas State scored 71 points against Nichols State, and he could barely raise his arms by the end.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/willie-wildcat-kansas-state-utah-utes.jpg?ve=1&tl=1",
-   "age": "55m ago",
-   "published": "2026-09-06T23:32:27+00:00"
   },
   {
    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
@@ -90,7 +127,7 @@
    "topic": "ai",
    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-09-06T21:41:06+00:00"
   },
   {
@@ -101,7 +138,7 @@
    "topic": "ai",
    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-06T20:47:37+00:00"
   },
   {
@@ -112,8 +149,19 @@
    "topic": "markets",
    "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
    "image": "https://image.cnbcfm.com/api/v1/image/108306327-1778680897174-gettyimages-2275447146-AFP_B2QM89F.jpeg?v=1778680915&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-09-06T19:41:23+00:00"
+  },
+  {
+   "title": "William Byron: NASCAR Cup Chase 2026 Preview",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LczFGNVgxVlJZQjJVQ2NUNDkxYmdlTlQzdU15QXVEMFdWa3ZDQ3FjaV9LdUQtX245ZTc4SkNPcFVseUFQd1lGYmdRVGY5bXhMa0dPejY5OHVBaDNfenBZaF9XWTBCb0hpOEZOWVdGTngwTGtNNFBj?oc=5",
+   "source": "The Racing Experts",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "10h ago",
+   "published": "2026-09-06T18:30:00+00:00"
   },
   {
    "title": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
@@ -123,19 +171,8 @@
    "topic": "defense",
    "summary": "With a sleek airframe the size of an A-5 Vigilante, its silhouette drew immediate attention from local aviation photographers who had never seen anything like it there. …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/RAVN-X-1-long-beach.jpg?quality=85",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-09-06T18:06:36+00:00"
-  },
-  {
-   "title": "SEC sues ISS as Trump administration ramps up scrutiny of proxy advisers",
-   "url": "https://www.cnbc.com/2026/09/06/sec-iss-proxy-adviser-subpoena.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The SEC sued Institutional Shareholder Services to enforce a subpoena as the Trump administration increases scrutiny of influential proxy advisers.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108312455-1779885957667-gettyimages-2278350700-20260526-151940.jpeg?v=1779885978&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-09-06T17:53:53+00:00"
   },
   {
    "title": "You still have time: 5 things to do before summer slips away",
@@ -145,7 +182,7 @@
    "topic": "local",
    "summary": "Labor Day weekend reminder: Five things to squeeze in before summer slips through your fingers — and none require a reservation, a suitcase or a fat wallet.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/88/a88427c6-8375-49eb-bdd7-e713710d48dd/6a9d92f25702c.image.jpg?resize=300%2C225",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-09-06T17:00:00+00:00"
   },
   {
@@ -156,7 +193,7 @@
    "topic": "ai",
    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-09-06T16:45:00+00:00"
   },
   {
@@ -167,7 +204,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-09-06T16:08:00+00:00"
   },
   {
@@ -178,19 +215,8 @@
    "topic": "local",
    "summary": "After storms, power outages, damaged homes and long days of cleanup, Northwest Indiana has a lot to reflect on — especially the people who refused to stop showing up.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/fd/4fd5565c-d037-4ea1-8221-1b2b87fcace9/6a7bac8ec56c4.image.jpg?resize=300%2C225",
-   "age": "12h ago",
+   "age": "16h ago",
    "published": "2026-09-06T12:15:00+00:00"
-  },
-  {
-   "title": "AI data centers are transforming rural land markets — and fueling a backlash",
-   "url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The data center buildout is driving up the price of rural land as some farmers and property owners buy in and others push back against development.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108354712-1787768514226-gettyimages-2292182187-dji_20260826130903_0048_d_q8u6ngun.jpeg?v=1787768547&amp;w=1920&amp;h=1080",
-   "age": "12h ago",
-   "published": "2026-09-06T12:00:01+00:00"
   },
   {
    "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
@@ -200,7 +226,7 @@
    "topic": "ai",
    "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-09-06T11:55:26+00:00"
   },
   {
@@ -211,7 +237,7 @@
    "topic": "local",
    "summary": "",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "13h ago",
+   "age": "18h ago",
    "published": "2026-09-06T11:00:00+00:00"
   },
   {
@@ -222,30 +248,19 @@
    "topic": "ai",
    "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2198085330.jpg",
-   "age": "14h ago",
+   "age": "19h ago",
    "published": "2026-09-06T10:00:35+00:00"
   },
   {
-   "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-   "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+   "title": "William Byron Embraces Underdog Role, Eyes Cup Series Chase Reset at Darlington Raceway",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWxIX3pMVENXLWl6WDZoOEFkME9LZS01VUpNM2xuQzdleWJOOTM3RVNZY2ZpeUZmQVhsQk85YXRqemdsQ0RGSWpjeUJqMVdUVFgzQnhmS012ZkxLZ2xqVFNEVE81Q2lVbk5XcHJPX2MzWUZvZnZEOXYtREpobzR6MzY5MjRSa1pzTXpkUGJCSUJNeGxvNkNyOUFaZWdGbnlLWHdLOVo4TVZZbWoyd0VuV21qNTc3bkw4SjE4b3hYZGxLcUxXWlVScWo1OE4xeTI3U1E?oc=5",
+   "source": "Catchfence",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
    "age": "1d ago",
-   "published": "2026-09-05T22:49:55+00:00"
-  },
-  {
-   "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
-   "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108347529-1786391464606-108347529-1786391400825-gettyimages-2277700921-0d6a1940_h7ptqyou.jpg?v=1786396230&amp;w=1920&amp;h=1080",
-   "age": "1d ago",
-   "published": "2026-09-05T19:12:53+00:00"
+   "published": "2026-09-05T21:00:58+00:00"
   },
   {
    "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
@@ -277,7 +292,7 @@
    "topic": "defense",
    "summary": "Brussels is weighing a rare waiver that would let Kyiv tap its €90 billion loan for U.S.-made interceptors for the first time.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IBQQHLHUMFDNJABVXVAH7GCPYM.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-05T04:34:28+00:00"
   },
   {
@@ -323,17 +338,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Mercury_Transfer_Module_separation-1152x648.jpg",
    "age": "2d ago",
    "published": "2026-09-04T22:49:17+00:00"
-  },
-  {
-   "title": "China’s Huge WZ-X Stealth Drone’s Strange Wing Configuration Confirmed",
-   "url": "https://www.twz.com/air/chinas-huge-wz-x-stealth-drones-strange-wing-configuration-confirmed",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "New photos of the WZ-X airborne give us a clearer view of the aircraft's unique wing design. The post China’s Huge WZ-X Stealth Drone s Strange Wing Configuration Confir…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/WZ-X.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-09-04T22:42:01+00:00"
   },
   {
    "title": "US clears $5B in JDAMs for Saudi Arabia, other Middle East deals",
