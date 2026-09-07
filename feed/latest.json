@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T05:01:48+00:00",
+ "generated": "2026-09-07T10:32:35+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": false,
@@ -11,113 +11,146 @@
   "Catchfence",
   "Defense News",
   "Fox News",
-  "MotorBiscuit",
-  "NASCAR.com",
   "NWI Times",
+  "Speedway Digest",
   "TechCrunch",
-  "The Racing Experts",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "motorbiscuit.com",
+  "nascar.com"
  ],
  "items": [
   {
-   "title": "US restricts government travel to Mexican border city over threat concerns",
-   "url": "https://www.foxnews.com/world/us-restricts-government-travel-mexican-border-city-threat-concerns",
+   "title": "Far-right AfD landslide in German state piles pressure on federal government",
+   "url": "https://www.cnbc.com/2026/09/07/afd-germany-economy-merz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The \"extraordinary\" result may be the \"most consequential German state-election result of the postwar era,\" according to analysts.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108359420-1788767938316-gettyimages-2293410718-GERMANY_ELECTION.jpeg?v=1788769195&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-09-07T10:28:25+00:00"
+  },
+  {
+   "title": "Bakery can't make handmade empanadas fast enough as tourists descend on nation's oldest city",
+   "url": "https://www.foxnews.com/food-drink/bakery-cant-make-handmade-empanadas-fast-enough-tourists-descend-nations-oldest-city",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The U.S. Consulate in Nogales announced restricted government travel to essential daylight movement only over an unspecified threat in Sonora, Mexico.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mexican-border-town-travel-security-warning.png?ve=1&tl=1",
-   "age": "27m ago",
-   "published": "2026-09-07T04:34:03+00:00"
+   "summary": "Baked empanadas at the Spanish Bakery Cafe have drawn crowds since 1965, connecting St. Augustine visitors to the city s deep Spanish roots.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/spanish-bakery-manager-holds-tray-of-viral-empanadas.jpg?ve=1&tl=1",
+   "age": "31m ago",
+   "published": "2026-09-07T10:00:51+00:00"
+  },
+  {
+   "title": "Prince William and Kate Middleton 'playing it cool' as Prince Harry and Meghan Markle return to the UK: expert",
+   "url": "https://www.foxnews.com/entertainment/prince-william-kate-middleton-playing-cool-prince-harry-meghan-markle-return-uk-expert",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Prince William and Kate Middleton are reportedly watching Prince Harry and Meghan Markle s UK return closely, with experts warning trust must be earned.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/royals_001.jpg?ve=1&tl=1",
+   "age": "31m ago",
+   "published": "2026-09-07T10:00:43+00:00"
+  },
+  {
+   "title": "Florida AG seeks death penalty for couple who allegedly held 4 children in ‘rolling prison’ for nearly 7 years",
+   "url": "https://www.foxnews.com/us/florida-ag-seeks-death-penalty-couple-allegedly-held-4-children-rolling-prison-nearly-7-years",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Florida Attorney General James Uthmeier says his office will seek the death penalty for two adults who allegedly confined four children to a truck cab.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/florida-tractor-trailer-child-neglect-inset.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-09-07T10:00:28+00:00"
+  },
+  {
+   "title": "China says it will pump $54 billion into banks and insurers — but their stocks still fell",
+   "url": "https://www.cnbc.com/2026/09/07/china-state-banks-lenders-insurers-capital-solvency-bankrupt-nim-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "With a bigger capital cushion, financial institutions may also be asked to do more to mobilize resources in capital markets, analysts say.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108359358-1788744345070-gettyimages-2286037889-img_0187.jpeg?v=1788744405&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-07T09:26:54+00:00"
+  },
+  {
+   "title": "Israel-Hezbollah clashes kill 11 as Mideast conflict escalation gathers pace after U.S.-Iran strikes",
+   "url": "https://www.cnbc.com/2026/09/07/us-iran-war-trump-hormuz-israel-hezbollah-fighting-strikes-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Lebanese President Joseph Aoun called on the U.S. to help stop Israeli attacks after Sunday strikes killed at least seven people.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108357473-1788317788529-gettyimages-2287992187-AA_02082026_2903424.jpeg?v=1788317810&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-07T09:26:27+00:00"
+  },
+  {
+   "title": "It’s Labor Day, not Union Day. American workers deserve freedom of choice",
+   "url": "https://www.foxnews.com/opinion/labor-day-not-union-day-american-workers-deserve-freedom-choice",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Union bosses exploit Labor Day to push coercive policies like the PRO Act, which would repeal right-to-work laws and force compulsory union dues.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/931/523/CHICAGO-TEACHERS-UNION-MEMBER.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-07T09:00:54+00:00"
+  },
+  {
+   "title": "Jaguar Land Rover to layoff thousands of jobs in $2.3 billion cost-saving overhaul",
+   "url": "https://www.cnbc.com/2026/09/07/jaguar-land-rover-jlr-job-cuts-autos.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The luxury carmaker is targeting £1.7 billion ($2.3 billion) in savings as it faces Chinese competition, a cyberattack and U.S. tariffs.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108216565-1761311857878-gettyimages-2238334459-cf206585_4ahw7dtk.jpeg?v=1761311957&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-09-07T08:00:56+00:00"
   },
   {
    "title": "William Byron spins, suffers mechanical failure in Chase opener",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVM2cUtCYUROT1FuWFpaUk83TTA4VFhUXzN2MlY5V0xnUjZXRnZOYU9XaXA4RElMYWUyOHpJdWNVNmJvS0tuWVJuQmEyMGJuakhHenNMOXRwV3VJeTc4YUh6a0VWbVJxdV9hSUd3cXhJYmxFVGROVzgzTFQ1Zkxjd0huZy11WVVCS2w4SFZxQjQ5YXhSRGtsaUx4OGw1dlpBTjZJdFZFSkNjbEF1ZE1FajdB?oc=5",
-   "source": "NASCAR.com",
+   "source": "nascar.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-07T03:41:57+00:00"
   },
   {
-   "title": "Barbara Eden, 95, says she’s ‘okay’ after last-minute cancelation of festival appearance",
-   "url": "https://www.foxnews.com/entertainment/barbara-eden-95-says-shes-okay-after-last-minute-cancelation-festival-appearance",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Barbara Eden reassured fans after a sudden illness forced her to miss the Cinecon Classic Film Festival, revealing a new medication s side effects.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/barbara-eden-project-angel-food-ktla_001.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-07T02:49:24+00:00"
+   "title": "Mechanical Issue Derails William Byron’s Strong Darlington Raceway Run",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVExCRm91M2hOa1pvN1AyVmJFd3NyTnFRZ2hhdTZDR2pNZFFzQkdwd1pNUHBHUmNtbEtqLWxVT3NLNG83Nk9sejdzOXE3bUV4NWY1VFhiczRvbU9teTNUWGJXWlpjdnJ2QnIyZ3VSNDljQlJjWFVpN05PcTlYSXVxWWxPYnk1N05ObUpkRzV2LTh4V2xpV3RpNGd4R2pDNkhORGtjXzk5VnlMbWtxVllDOU9FS1pzamd4UkFV?oc=5",
+   "source": "Catchfence",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "7h ago",
+   "published": "2026-09-07T03:18:38+00:00"
   },
   {
-   "title": "Time is now, Clemson Tigers and Dabo Swinney need to call it quits after historic run",
-   "url": "https://www.foxnews.com/outkick-sports/time-now-clemson-tigers-dabo-swinney-need-call-quits-historic-run",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dabo Swinney s Clemson Tigers suffered a humiliating 51-10 loss to LSU, raising fresh questions about whether the program needs a coaching change.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dabo-swinney-clemson-tiger-stadium.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-07T02:41:18+00:00"
-  },
-  {
-   "title": "Bronson Reed returns to the ring leaner and meaner and looking like the future of WWE",
-   "url": "https://www.foxnews.com/outkick-sports/bronson-reed-returns-ring-leaner-meaner-looking-future-wwe",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Bronson Reed made a shocking return at Sunday Night s Main Event, unleashing a brutal chair assault on Oba Femi during his match with Bron Breakker.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bronson-reed-oba-femi-wrestling.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-07T02:31:38+00:00"
+   "title": "Engine Failure Ends William Byron’s Southern 500, Leaves No. 24 Team in Playoff Hole",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRV9GNTQxaGduU01vcXlGX2NOVTVoUlBzanliM3JJeVYyWUtMa0VXUFRQXzh3U3VUQUtud0JTRWVQcHdZc1lZVkR4Q2lkVGxxcDlPb2hiRTRiUFJ2bFRhTUp6SmlmbmJkdGhXRk9zS3pvUWRSdWQ4Ry02NjMzb0NCNnpCTVJNN3dXTjNiQ2lYbjI0MGN2Y1Juc2E5UWdYYzNCZDlweE84ZG95VFBSVFhxYzNMbGZGSDRYQ2xMcDN6S2VlOHB0cHZ4S2VHZ0V4M25QMFViOG4xMUFHVXR5RDdJZmhOUG5WZ2QtWWc?oc=5",
+   "source": "Speedway Digest",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "7h ago",
+   "published": "2026-09-07T02:52:46+00:00"
   },
   {
    "title": "William Byron Suffers Major Setback at Darlington to Start The Chase",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeENzZmgtZGpTazc5dER5bV9rQmdLa0MtbmZtdTlQWVh0ZnhNN1R5eWFEakRteE5aX2s0d2ZrSU9QamF1SE85VmlsYVQ4OXJQRmNsbURqYjhZS1lmWGc4eUJsR3RnUkxRbWN5Z1FzM1lFOFgwUF80Ni0wWUt1blF5N2tWTXJwam8?oc=5",
-   "source": "MotorBiscuit",
+   "source": "motorbiscuit.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-09-07T02:09:08+00:00"
-  },
-  {
-   "title": "Treasury yields face 4.8% test as fiscal risks threaten to spill into other assets",
-   "url": "https://www.cnbc.com/2026/09/07/us-treasury-yields-markets-scott-bessent.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury yields face a test at 4.8%, with a sustained move above that potentially creating \"meaningful problems\" for other asset classes, said Miller Tabak.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353364-17875852502026-08-24t152550z_1014179211_rc215nao2bai_rtrmadp_0_usa-stocks.jpeg?v=1787585353&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-09-07T02:01:52+00:00"
-  },
-  {
-   "title": "Volcano eruption disrupts hundreds of flights at Southeast Asia's second-busiest airport",
-   "url": "https://www.cnbc.com/2026/09/07/flights-canceled-jakarta-airport-anak-krakatau-eruption-disrupts-regional-travel-volcano.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Mount Anak Krakatau’s eruption disrupted hundreds of flights across Indonesia, with flight cancellations extending into Monday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359352-1788740387814-gettyimages-2293289816-AA_06092026_2940545.jpeg?v=1788740423&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-09-07T01:31:03+00:00"
-  },
-  {
-   "title": "Data centers in space: Four big obstacles and Elon Musk's ambitious timeline",
-   "url": "https://www.cnbc.com/2026/09/07/data-centers-space-elon-musk-obstacles.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "",
-   "image": "https://image.cnbcfm.com/api/v1/image/47565107-private_space_race--1612160365_v2.jpg?v=1349505474&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-07T00:06:18+00:00"
   },
   {
    "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
@@ -127,7 +160,7 @@
    "topic": "ai",
    "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-09-06T21:41:06+00:00"
   },
   {
@@ -138,30 +171,8 @@
    "topic": "ai",
    "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-06T20:47:37+00:00"
-  },
-  {
-   "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen",
-   "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Iran warned of faster, heavier retaliation against U.S. attacks while acknowledging the war’s mounting toll on its economy.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108306327-1778680897174-gettyimages-2275447146-AFP_B2QM89F.jpeg?v=1778680915&amp;w=1920&amp;h=1080",
-   "age": "9h ago",
-   "published": "2026-09-06T19:41:23+00:00"
-  },
-  {
-   "title": "William Byron: NASCAR Cup Chase 2026 Preview",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LczFGNVgxVlJZQjJVQ2NUNDkxYmdlTlQzdU15QXVEMFdWa3ZDQ3FjaV9LdUQtX245ZTc4SkNPcFVseUFQd1lGYmdRVGY5bXhMa0dPejY5OHVBaDNfenBZaF9XWTBCb0hpOEZOWVdGTngwTGtNNFBj?oc=5",
-   "source": "The Racing Experts",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "10h ago",
-   "published": "2026-09-06T18:30:00+00:00"
   },
   {
    "title": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
@@ -171,7 +182,7 @@
    "topic": "defense",
    "summary": "With a sleek airframe the size of an A-5 Vigilante, its silhouette drew immediate attention from local aviation photographers who had never seen anything like it there. …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/RAVN-X-1-long-beach.jpg?quality=85",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-09-06T18:06:36+00:00"
   },
   {
@@ -182,7 +193,7 @@
    "topic": "local",
    "summary": "Labor Day weekend reminder: Five things to squeeze in before summer slips through your fingers — and none require a reservation, a suitcase or a fat wallet.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/88/a88427c6-8375-49eb-bdd7-e713710d48dd/6a9d92f25702c.image.jpg?resize=300%2C225",
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-09-06T17:00:00+00:00"
   },
   {
@@ -193,7 +204,7 @@
    "topic": "ai",
    "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-09-06T16:45:00+00:00"
   },
   {
@@ -204,7 +215,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/tesla-cybercab-street-getty.jpg?resize=1200,800",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-09-06T16:08:00+00:00"
   },
   {
@@ -215,7 +226,7 @@
    "topic": "local",
    "summary": "After storms, power outages, damaged homes and long days of cleanup, Northwest Indiana has a lot to reflect on — especially the people who refused to stop showing up.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/fd/4fd5565c-d037-4ea1-8221-1b2b87fcace9/6a7bac8ec56c4.image.jpg?resize=300%2C225",
-   "age": "16h ago",
+   "age": "22h ago",
    "published": "2026-09-06T12:15:00+00:00"
   },
   {
@@ -226,7 +237,7 @@
    "topic": "ai",
    "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
-   "age": "17h ago",
+   "age": "22h ago",
    "published": "2026-09-06T11:55:26+00:00"
   },
   {
@@ -237,7 +248,7 @@
    "topic": "local",
    "summary": "",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "18h ago",
+   "age": "23h ago",
    "published": "2026-09-06T11:00:00+00:00"
   },
   {
@@ -248,19 +259,8 @@
    "topic": "ai",
    "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2198085330.jpg",
-   "age": "19h ago",
-   "published": "2026-09-06T10:00:35+00:00"
-  },
-  {
-   "title": "William Byron Embraces Underdog Role, Eyes Cup Series Chase Reset at Darlington Raceway",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVWxIX3pMVENXLWl6WDZoOEFkME9LZS01VUpNM2xuQzdleWJOOTM3RVNZY2ZpeUZmQVhsQk85YXRqemdsQ0RGSWpjeUJqMVdUVFgzQnhmS012ZkxLZ2xqVFNEVE81Q2lVbk5XcHJPX2MzWUZvZnZEOXYtREpobzR6MzY5MjRSa1pzTXpkUGJCSUJNeGxvNkNyOUFaZWdGbnlLWHdLOVo4TVZZbWoyd0VuV21qNTc3bkw4SjE4b3hYZGxLcUxXWlVScWo1OE4xeTI3U1E?oc=5",
-   "source": "Catchfence",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
    "age": "1d ago",
-   "published": "2026-09-05T21:00:58+00:00"
+   "published": "2026-09-06T10:00:35+00:00"
   },
   {
    "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
