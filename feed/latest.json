@@ -1,100 +1,181 @@
 {
- "generated": "2026-09-08T00:47:24+00:00",
+ "generated": "2026-09-08T05:26:10+00:00",
  "count": 40,
  "withImage": 35,
- "bearsDay": false,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
-  "Beyond the Flag",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
-  "Catchfence",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "Frontstretch",
   "MotorBiscuit",
   "NASCAR.com",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Windy City Gridiron",
+  "beyondtheflag.com"
  ],
  "items": [
   {
-   "title": "Giants shockingly release longest-tenured player Darius Slayton as John Harbaugh era begins",
-   "url": "https://www.foxnews.com/outkick-sports/giants-shockingly-release-longest-tenured-player-darius-slayton-john-harbaugh-era-begins",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Darius Slayton posted a heartfelt farewell after the New York Giants surprisingly cut their longest-tenured player just days before Week 1.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/darius-slayton-giants-cowboys-metlife-stadium_001.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-09-08T00:32:09+00:00"
-  },
-  {
-   "title": "US forces sink narco-refueling station linked to Ecuadorian cartel in Pacific: SOUTHCOM",
-   "url": "https://www.foxnews.com/us/us-forces-sink-narco-refueling-station-linked-ecuadorian-cartel-pacific-southcom",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "U.S. forces sank a Los Choneros refueling vessel in the Eastern Pacific after SOUTHCOM said it supported at-sea drug trafficking operations.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/centcom-sep-7-_1_.gif",
-   "age": "22m ago",
-   "published": "2026-09-08T00:24:42+00:00"
-  },
-  {
-   "title": "Julia Louis-Dreyfus reveals ‘tons’ of friction behind the scenes of ‘Seinfeld’",
-   "url": "https://www.foxnews.com/entertainment/julia-louis-dreyfus-reveals-tons-friction-behind-scenes-seinfeld",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Julia Louis-Dreyfus opened up on the Friends Keep Secrets podcast about the arguments and hard work that shaped Seinfeld into a phenomenon.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/julia-louis-dreyfus-elaine-seinfeld.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-07T23:41:51+00:00"
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem",
-   "url": "https://www.cnbc.com/2026/09/07/cnbc-china-connection-weak-consumption-trade-deficit-g20.html",
+   "title": "Mistral bags $24 billion valuation as Samsung leads funding for Europe's AI champion",
+   "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "A Group of 20 finance meeting in the U.S. this month has now elevated the debate over whether China's exports have cost people in other countries their jobs.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359359-1788744413684-gettyimages-2292812000-China-Africa_Liner.jpeg?v=1788744428&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-07T23:00:01+00:00"
+   "summary": "Mistral is betting on open-weight AI models to help it compete with players like OpenAI and Anthropic.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&amp;w=1920&amp;h=1080",
+   "age": "26m ago",
+   "published": "2026-09-08T05:00:01+00:00"
   },
   {
-   "title": "Christine Taylor was asked to lose 10 pounds after landing Marcia Brady role in 'Brady Bunch Movie'",
-   "url": "https://www.foxnews.com/entertainment/christine-taylor-asked-lose-10-pounds-after-landing-marcia-brady-role-brady-bunch-movie",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Christine Taylor revealed she was asked to lose 10 pounds for her role as Marcia Brady in The Brady Bunch Movie during the Office Ladies podcast.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/christine-taylor-ransom-premiere-westwood.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-07T22:26:47+00:00"
-  },
-  {
-   "title": "Jimmy John's employee accused of opening fire on car, shooting 14-year-old girl in leg: police",
-   "url": "https://www.foxnews.com/us/jimmy-johns-employee-accused-opening-fire-car-shooting-14-year-old-girl-leg-police",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Police say that a dispute at a St. Louis Jimmy John s escalated into gunfire, leaving a 14-year-old girl wounded and an employee facing felony charges.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jimmy-johns-worker-adam-white-shooting.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-07T22:09:32+00:00"
-  },
-  {
-   "title": "Crashed Amazon cargo jet struck two vehicles, ended up 1,300 feet past runway, NTSB says",
-   "url": "https://www.cnbc.com/2026/09/07/crashed-amazon-cargo-jet-struck-two-vehicles-ended-up-1300-feet-past-runway-ntsb-says.html",
+   "title": "Cholesterol drug setback casts doubt over multibillion-dollar race",
+   "url": "https://www.cnbc.com/2026/09/08/novartis-cholesterol-setback-drug-race-eli-lilly-amgen.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The chair of the National Transportation Safety Board didn't provide details on the cause of the crash in Miami, which killed at least five people.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359491-1788809835140-gettyimages-2293457090-MIAMI_CARGO_CRASH.jpeg?v=1788809878&amp;w=1920&amp;h=1080",
+   "summary": "Novartis’ failure raises the stakes for Amgen and Eli Lilly in the race to turn lower Lp(a) levels into fewer heart attacks and strokes.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108297645-1777300177064-108297645-1777300126332-gettyimages-1902456631-20231205_225708-4595.jpg?v=1777314002&amp;w=1920&amp;h=1080",
+   "age": "26m ago",
+   "published": "2026-09-08T05:00:01+00:00"
+  },
+  {
+   "title": "Russian strikes continue following visit by Witkoff and Kushner to Kyiv",
+   "url": "https://www.foxnews.com/world/russian-strikes-continue-following-visit-witkoff-kushner-kyiv",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Russia launched ballistic and cruise missiles at Kyiv shortly after envoys Steve Witkoff and Jared Kushner s visit to the city for peace negotiations.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/zelenskyy-kushner-witkoff-kyiv-talks.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-08T04:25:39+00:00"
+  },
+  {
+   "title": "Global markets keep shrugging off shocks. Here's what could break that streak, according to HSBC",
+   "url": "https://www.cnbc.com/2026/09/08/global-markets-shrug-off-shocks-hsbc-sees-what-could-break-the-streak.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Markets have shrugged off a barrage of shocks in recent years but that resilience may not last forever, according to HSBC.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350417-1786980367682-NYSE_Traders-OB-Photo-20260817-CC-72.jpg?v=1786980440&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-08T04:02:43+00:00"
+  },
+  {
+   "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+   "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Wistron shares fall Tuesday after announcement of $1.5 billion global share sale",
+   "image": "https://image.cnbcfm.com/api/v1/image/108338267-1784689458606-gettyimages-2196620649-PSWAT_DSC05175.jpeg?v=1784689470&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-08T03:54:54+00:00"
+  },
+  {
+   "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+   "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construc…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Construction-worker-Ray-Bans.png?resize=1200,800",
    "age": "3h ago",
-   "published": "2026-09-07T21:36:12+00:00"
+   "published": "2026-09-08T02:16:39+00:00"
+  },
+  {
+   "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report",
+   "url": "https://www.foxnews.com/world/uk-moves-sanction-israeli-settlements-pm-burnham-risks-clash-trump-report",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Andy Burnham s UK sanctions targeting Israeli West Bank settlements spark fierce backlash from Benjamin Netanyahu s ministers and U.S. lawmakers.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-burnham.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-08T01:58:28+00:00"
+  },
+  {
+   "title": "FSU-SMU game turns into old-school football after stadium power outage wipes out in-game communication",
+   "url": "https://www.foxnews.com/outkick-sports/fsu-smu-game-turns-old-school-football-stadium-power-outage-wipes-in-game-communication",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A power outage plunged Doak Campbell Stadium into darkness minutes before kickoff, forcing SMU and Florida State to play without communications.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/fsu-smu-game-delayed-power-outage-fox-news_.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-08T01:33:26+00:00"
+  },
+  {
+   "title": "Popular TV host, media star faces hanging after conviction in major synthetic drug trafficking case",
+   "url": "https://www.foxnews.com/world/popular-tv-host-media-star-faces-hanging-conviction-major-synthetic-drug-trafficking-case",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sarah Khalifa was among 12 defendants sentenced to death after prosecutors accused the group of manufacturing and trafficking synthetic narcotics.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sara-khaliifa-thumb.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-08T01:27:42+00:00"
+  },
+  {
+   "title": "Up to Speed: Hendrick Motorsports in Danger of Worst Season in 33 Years",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFBBTWhFd2hsbTNTSUFHNlptRWplaUtuUEVFWE90UGo2cmx5UHloaExxdkF4dXpCVzRkb1cwLThkcXMtejRlSkV2NFFoSkJDTk5YSWFmaHhpay1ObkRndGJqdHFvV1dLSVZiQzdlSjJST3ZaUDVDVzhRZnRGcW11UnJDTVdMUHo3Nl9FWjg4bw?oc=5",
+   "source": "Frontstretch",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "4h ago",
+   "published": "2026-09-08T01:19:31+00:00"
+  },
+  {
+   "title": "NFL survivor pool picks, advice, best knockout strategy, Week 1, 2026: Fade the Dallas Cowboys",
+   "url": "https://www.cbssports.com/betting/news/nfl-survivor-picks-knockout-pool-predictions-strategy-guide-advice-week-1-2026-fade-the-dallas-cowboys/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/6098d88b-ebee-441b-b3bc-740b0411e48a/ceedee-lamb-george-pickens-cowboys.jpg",
+   "age": "5h ago",
+   "published": "2026-09-08T00:17:59+00:00"
+  },
+  {
+   "title": "Giants release Darius Slayton: Possible landing spots for veteran receiver",
+   "url": "https://www.cbssports.com/nfl/news/giants-release-darius-slayton-landing-spots/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/07/1fab9661-98d2-4985-ad34-ffcc16a59671/slayton.jpg",
+   "age": "6h ago",
+   "published": "2026-09-07T23:02:27+00:00"
+  },
+  {
+   "title": "Fantasy will become reality for Bears rookies Sunday",
+   "url": "https://www.chicagobears.com/news/fantasy-will-become-reality-for-bears-rookies-sunday",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wp7faqccrd8wqezcvvbm.jpg",
+   "age": "7h ago",
+   "published": "2026-09-07T21:53:57+00:00"
+  },
+  {
+   "title": "What to expect from Chicago Bears UDFA Skyler Thomas",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/122102/what-to-expect-from-chicago-bears-udfa-skyler-thomas-oregon-state-beavers",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2293179901.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "9h ago",
+   "published": "2026-09-07T19:30:00+00:00"
   },
   {
    "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -104,7 +185,7 @@
    "topic": "ai",
    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-07T19:24:00+00:00"
   },
   {
@@ -115,19 +196,8 @@
    "topic": "defense",
    "summary": "The $732 million acquisition comprises “just over” ten launchers together with a “substantial quantity” of ammunition, Defense Minister Pål Jonson said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Sweden-HIMARS-1-scaled-e1788807078176-1024x577.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-07T19:08:52+00:00"
-  },
-  {
-   "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there",
-   "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108259297-1769729925672-gettyimages-2238952208-AFP_77RB4T3.jpeg?v=1769730014&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-09-07T18:52:24+00:00"
   },
   {
    "title": "Rafael, Lower Saxony and Aurelius to develop Volkswagen site in Germany",
@@ -137,8 +207,19 @@
    "topic": "defense",
    "summary": "The agreement, if completed, would give Rafael a new production site in Germany, at a Volkswagen location slated to close.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/volkswagon-germany-scaled-e1777659574788-1024x577.jpg",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-09-07T18:40:10+00:00"
+  },
+  {
+   "title": "2026 NFL schedule: Week 1 kickoff times, matchups, TV, live streaming, plus rest of slate",
+   "url": "https://www.cbssports.com/nfl/news/2026-nfl-schedule-dates-times/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/19/29703982-883b-40b4-be3e-3f8f69ee7c86/getty-sam-darnold-seahawks.jpg",
+   "age": "11h ago",
+   "published": "2026-09-07T18:16:01+00:00"
   },
   {
    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
@@ -148,8 +229,41 @@
    "topic": "ai",
    "summary": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to …",
    "image": "https://techcrunch.com/wp-content/uploads/2018/11/GettyImages-491583120.jpg?resize=1200,838",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-07T18:02:29+00:00"
+  },
+  {
+   "title": "Breech's final record prediction for all 32 NFL teams, plus Falcons finally name starting QB for Week 1",
+   "url": "https://www.cbssports.com/nfl/news/breechs-final-record-prediction-for-all-32-nfl-teams-plus-falcons-finally-name-starting-qb-for-week-1/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/07/5fe8bf2d-c245-4472-9f8e-5e6a16b0670e/tua-tagovailoa-falcons.jpg",
+   "age": "12h ago",
+   "published": "2026-09-07T16:59:13+00:00"
+  },
+  {
+   "title": "Becoming the Bears’ defensive ‘eraser’: Tracking the development of Dillon Thieneman",
+   "url": "https://allchgo.com/bears/bears-defensive-eraser-dillon-thieneman-development/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/07110118/Bears_Article_DillonThieneman-1024x576.jpg",
+   "age": "12h ago",
+   "published": "2026-09-07T16:30:00+00:00"
+  },
+  {
+   "title": "2026 NFL Season Award Predictions: Defensive Rookie of the Year",
+   "url": "https://www.windycitygridiron.com/general/122066/2026-nfl-season-award-predictions-defensive-rookie-year-caleb-downs-rueben-bain-jr",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2291174143.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "13h ago",
+   "published": "2026-09-07T16:00:00+00:00"
   },
   {
    "title": "What we expect from the upcoming Apple launch",
@@ -159,7 +273,7 @@
    "topic": "ai",
    "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1182217069.jpg?resize=1200,800",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-07T15:58:00+00:00"
   },
   {
@@ -170,30 +284,30 @@
    "topic": "defense",
    "summary": "Acting Secretary of the Navy Hung Cao will need a Congressional waiver from both the House and the Senate to be eligible for confirmation as the permanent SECNAV, USNI N…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9914031-scaled.jpg",
-   "age": "10h ago",
+   "age": "14h ago",
    "published": "2026-09-07T14:46:21+00:00"
   },
   {
    "title": "Hendrick driver plummets after disastrous Darlington NASCAR playoff opener",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY1BPWEIzMTFIOUptaGhBS0oyQTdGWVlNYVpTZW5CWU1DSzdZT0NTcjgtUlBYRUZ4ZUtrMFhwN0Nzd1ZVSjYtckoxQ0FWZkxDWDVNekZVRV81WTlwcklJenV1Vmw4azk5d3hCOXYzTWI2MXo3ZzhaaEpmb3RkTmt6Mk9FV3RqYkllTjRQN0RwNGNkNXA1VHZBYTI2bWxDd1N6TlBjS0l2VWxaaGRLYXk0QUItWQ?oc=5",
-   "source": "Beyond the Flag",
+   "source": "beyondtheflag.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "11h ago",
+   "age": "15h ago",
    "published": "2026-09-07T13:30:00+00:00"
   },
   {
-   "title": "Greenland welcomes major funding boost from EU amid Trump’s annexation threats",
-   "url": "https://www.cnbc.com/2026/09/07/greenland-eu-trump-critical-minerals-arctic.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "It comes shortly after Icelanders voted to reject restarting EU membership talks and as Trump renews his push to acquire Greenland on national security grounds.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359457-1788784844559-gettyimages-2293369142-AFP_C7H926W.jpeg?v=1788784911&amp;w=1920&amp;h=1080",
-   "age": "11h ago",
-   "published": "2026-09-07T13:09:36+00:00"
+   "title": "2026 NFL Season Award Predictions: Offensive Rookie of the Year",
+   "url": "https://www.windycitygridiron.com/general/122062/2026-nfl-season-award-predictions-offensive-rookie-year-jeremiyah-love-jadarian-price",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2247740374.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "16h ago",
+   "published": "2026-09-07T13:00:00+00:00"
   },
   {
    "title": "Croatia buys South Korean rocket artillery after HIMARS purchase from the US",
@@ -203,7 +317,7 @@
    "topic": "defense",
    "summary": "In the aftermath of the Iran war, the U.S. government has flagged possible delays in deliveries of military gear, including HIMARS ammunition.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LOCPFR34MRCPZDFTSE7VZXQW7M.JPG",
-   "age": "11h ago",
+   "age": "16h ago",
    "published": "2026-09-07T12:52:42+00:00"
   },
   {
@@ -214,19 +328,8 @@
    "topic": "defense",
    "summary": "The U.S. Navy trialled a robotic towed connector to repeatedly capture, refuel and release an unmanned surface vessel (USV) last month as the sea service seeks to enable…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9907269-scaled.jpg",
-   "age": "12h ago",
+   "age": "16h ago",
    "published": "2026-09-07T12:28:50+00:00"
-  },
-  {
-   "title": "SpaceX rival launches rocket in historic first, says industry is 'desperate' for more",
-   "url": "https://www.cnbc.com/2026/09/07/isar-aerospace-spacex-rival-rocket-launch.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Isar Aerospace reached orbit on its second test flight as the German rocket startup looks to scale production amid booming satellite launch demand.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359455-1788783695273-c_Isar_Aerospace_Flight_2.jpg?v=1788783960&amp;w=1920&amp;h=1080",
-   "age": "12h ago",
-   "published": "2026-09-07T12:26:40+00:00"
   },
   {
    "title": "Report to Congress on U.S. Air Force Fighter Force Structure",
@@ -236,7 +339,7 @@
    "topic": "defense",
    "summary": "The following is the Sept. 4, 2026, Congressional Research Service report, Air Force Fighter Force Structure: Background and Issues for Congress. From the report include…",
    "image": null,
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-09-07T11:56:35+00:00"
   },
   {
@@ -247,7 +350,7 @@
    "topic": "ai",
    "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner-1152x648.png",
-   "age": "13h ago",
+   "age": "18h ago",
    "published": "2026-09-07T11:00:03+00:00"
   },
   {
@@ -258,19 +361,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "21h ago",
+   "age": "1d ago",
    "published": "2026-09-07T03:41:57+00:00"
-  },
-  {
-   "title": "Mechanical Issue Derails William Byron’s Strong Darlington Raceway Run",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVExCRm91M2hOa1pvN1AyVmJFd3NyTnFRZ2hhdTZDR2pNZFFzQkdwd1pNUHBHUmNtbEtqLWxVT3NLNG83Nk9sejdzOXE3bUV4NWY1VFhiczRvbU9teTNUWGJXWlpjdnJ2QnIyZ3VSNDljQlJjWFVpN05PcTlYSXVxWWxPYnk1N05ObUpkRzV2LTh4V2xpV3RpNGd4R2pDNkhORGtjXzk5VnlMbWtxVllDOU9FS1pzamd4UkFV?oc=5",
-   "source": "Catchfence",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "21h ago",
-   "published": "2026-09-07T03:18:38+00:00"
   },
   {
    "title": "William Byron Suffers Major Setback at Darlington to Start The Chase",
@@ -280,30 +372,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-09-07T02:09:08+00:00"
-  },
-  {
-   "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
-   "url": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/07/app-store-ios-2022-a.jpg?resize=1200,675",
-   "age": "1d ago",
-   "published": "2026-09-06T21:41:06+00:00"
-  },
-  {
-   "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-   "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-   "age": "1d ago",
-   "published": "2026-09-06T20:47:37+00:00"
   },
   {
    "title": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
@@ -339,17 +409,6 @@
    "published": "2026-09-06T10:00:35+00:00"
   },
   {
-   "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
-   "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
-   "age": "2d ago",
-   "published": "2026-09-05T15:17:36+00:00"
-  },
-  {
    "title": "Ukraine asks EU to fund first Patriot missiles buy",
    "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
    "source": "Defense News",
@@ -357,7 +416,7 @@
    "topic": "defense",
    "summary": "Brussels is weighing a rare waiver that would let Kyiv tap its €90 billion loan for U.S.-made interceptors for the first time.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IBQQHLHUMFDNJABVXVAH7GCPYM.jpg",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-09-05T04:34:28+00:00"
   },
   {
@@ -383,17 +442,6 @@
    "published": "2026-09-04T23:43:14+00:00"
   },
   {
-   "title": "USS Abraham Lincoln Is Getting A Badly Needed Scrubbing While In Thailand",
-   "url": "https://www.twz.com/sea/uss-abraham-lincoln-is-getting-a-badly-needed-scrubbing-while-in-thailand",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The ship pulled into Thailand earlier this week caked in rust and algae after 286 days at sea. The post USS Abraham Lincoln Is Getting A Badly Needed Scrubbing While In …",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/USS-Lincoln-rust.jpg?quality=85",
-   "age": "3d ago",
-   "published": "2026-09-04T23:03:39+00:00"
-  },
-  {
    "title": "US clears $5B in JDAMs for Saudi Arabia, other Middle East deals",
    "url": "https://breakingdefense.com/2026/09/us-clears-5b-in-jdams-for-saudi-arabia-other-middle-east-deals/",
    "source": "Breaking Defense",
@@ -405,17 +453,6 @@
    "published": "2026-09-04T20:24:05+00:00"
   },
   {
-   "title": "What options does the Pentagon have to cover its mounting FY26 operational costs?",
-   "url": "https://breakingdefense.com/2026/09/what-options-does-the-pentagon-have-to-cover-its-mounting-fy26-operational-costs/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“If I were still in the building, I would say, ‘I m probably screwed now,' a former official told Breaking Defense.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/hegseth-april-30-scaled-e1777673504407-1024x577.jpg",
-   "age": "3d ago",
-   "published": "2026-09-04T20:11:31+00:00"
-  },
-  {
    "title": "US Air Force speeds Reaper successor timeline after Iran losses",
    "url": "https://www.defensenews.com/news/your-military/2026/09/04/us-air-force-speeds-reaper-successor-timeline-after-iran-losses/",
    "source": "Defense News",
@@ -425,39 +462,6 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Z3DSJOKNHZEUXA362MOWBOVFWQ.jpeg",
    "age": "3d ago",
    "published": "2026-09-04T19:27:23+00:00"
-  },
-  {
-   "title": "Trump to travel aboard Qatari-donated Air Force One to Ireland",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/04/trump-to-travel-aboard-qatari-donated-air-force-one-to-ireland/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "U.S. President Donald Trump will use the Qatari-donated jet to travel to Ireland next week, the plane's first international trip since the swap in Turkey.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DKHZ55PEKZEPDOMBECJK4JPZQQ.JPG",
-   "age": "3d ago",
-   "published": "2026-09-04T18:58:02+00:00"
-  },
-  {
-   "title": "You get a SCIF, you get a SCIF: Pentagon unveils ‘Secure Space Network’",
-   "url": "https://breakingdefense.com/2026/09/you-get-a-scif-you-get-a-scif-pentagon-unveils-secure-space-network/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The Secure Space Network will deploy close to 50 SCIFs around the nation to improve access to classified information for smaller businesses to do work with the military.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/7766516-scaled-e1788543706796-1024x577.jpg",
-   "age": "3d ago",
-   "published": "2026-09-04T17:46:10+00:00"
-  },
-  {
-   "title": "USNI News Western Pacific Pulse: Sept. 4, 2026",
-   "url": "https://news.usni.org/2026/09/04/usni-news-western-pacific-pulse-sept-4-2026",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Laem Chabang, Thailand Aircraft carrier USS Abraham Linc…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9904942-1-scaled.jpg",
-   "age": "3d ago",
-   "published": "2026-09-04T17:23:52+00:00"
   }
  ]
 }
