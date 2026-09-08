@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-08T17:45:27+00:00",
+ "generated": "2026-09-08T20:27:08+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 40,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -13,26 +13,287 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Frontstretch",
-  "Hendrick Motorsports",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "Yahoo Sports"
+  "Windy City Gridiron"
  ],
  "items": [
   {
-   "title": "U.S. sanctions Iranian airlines in aim to tighten economic squeeze as war spreads, oil rises",
-   "url": "https://www.cnbc.com/2026/09/08/us-sanctions-iran-airlines-oil-economy-war.html",
+   "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait",
+   "url": "https://www.cnbc.com/2026/09/08/iran-us-sub-strait-hormuz.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The latest U.S. action under \"Operation Economic Outcast\" targets all Iranian airlines that were not already facing sanctions.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359767-1788876189618-gettyimages-2180328801-nikoubazl-iraniana241016_npBsN.jpeg?v=1788876212&amp;w=1920&amp;h=1080",
-   "age": "7m ago",
-   "published": "2026-09-08T17:37:49+00:00"
+   "summary": "The U.S. and Iran traded new attacks around the Strait of Hormuz, as President Donald Trump insists oil prices will drop fast once the Iran war ends.",
+   "image": "https://image.cnbcfm.com/api/v1/image/106137180-1568840625341rts2ne6y.jpg?v=1788892533&amp;w=1920&amp;h=1080",
+   "age": "10m ago",
+   "published": "2026-09-08T20:17:07+00:00"
+  },
+  {
+   "title": "Trump administration expresses 'profound concern' over Ford's ties to China",
+   "url": "https://www.cnbc.com/2026/09/08/ford-china-dot-sean-duffy.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "In a letter to Ford CEO Jim Farley, U.S. DOT Secretary Sean Duffy questioned the automaker's strategic trajectory involving Chinese companies.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108251932-17683326942026-01-13t192918z_542253059_rc2h0ja7qr1x_rtrmadp_0_usa-trump.jpeg?v=1768332714&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-09-08T20:15:28+00:00"
+  },
+  {
+   "title": "Burrito-eating record smashed, Elizabeth Holmes doc trailer captivates the nation, fictional dog list debate",
+   "url": "https://www.foxnews.com/outkick-sports/burrito-eating-record-smashed-elizabeth-holmes-doc-trailer-captivates-nation-fictional-dog-list-debate",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "This Happy Post-Labor Tuesday Nightcaps covers Nathan Fielder s Elizabeth Holmes documentary, Leah Shutkever s burrito record, and a dog tier list.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/leah-shutkever.jpg?ve=1&tl=1",
+   "age": "13m ago",
+   "published": "2026-09-08T20:14:02+00:00"
+  },
+  {
+   "title": "Joe Biden shares health update after prostate cancer diagnosis while issuing warning to others",
+   "url": "https://www.foxnews.com/health/joe-biden-shares-cancer-health-update-issuing-dire-warning-others",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Joe Biden revealed his radiation treatment from last fall worked as intended as he urged men to discuss prostate cancer screening with their doctors.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/joe-jill-biden-copy.jpg?ve=1&tl=1",
+   "age": "16m ago",
+   "published": "2026-09-08T20:10:12+00:00"
+  },
+  {
+   "title": "Navy, Marines Interdict Fourth Suspected Narco Refueling Station",
+   "url": "https://news.usni.org/2026/09/08/navy-marines-interdict-fourth-suspected-narco-refueling-station",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "U.S. forces with Joint Task Force Western Hemisphere interdicted the fourth floating refueling station on Monday, U.S. Southern Command announced via social media. U.S. …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-4.06.00-PM-scaled.png",
+   "age": "17m ago",
+   "published": "2026-09-08T20:09:32+00:00"
+  },
+  {
+   "title": "Lori Loughlin files for divorce from Mossimo Giannulli after nearly 29 years of marriage",
+   "url": "https://www.foxnews.com/entertainment/lori-loughlin-files-divorce-mossimo-giannulli-29-years-marriage",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Lori Loughlin filed for divorce from Mossimo Giannulli, citing irreconcilable differences and requesting a judge determine community property rights.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/lori-loughlin-and-mossimo-giannulli-in-2015.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-09-08T20:04:58+00:00"
+  },
+  {
+   "title": "Fetterman leans on unlikely GOP ally as Dems sharpen their knives over explosive report",
+   "url": "https://www.foxnews.com/politics/fetterman-leans-unlikely-gop-ally-dems-sharpen-knives-over-explosive-report",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Senate Democrat John Fetterman calls leaked staff texts about skipping constituent meetings smears as Dave McCormick defends him on social media.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/fetterman-54322.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-09-08T20:01:16+00:00"
+  },
+  {
+   "title": "Use FanDuel promo code to get $350 bonus bets by targeting Patriots-Seahawks, 49ers-Rams, Week 1 NFL betting",
+   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-patriots-seahawks-49ers-rams-week-1-nfl-betting/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/23/05aa9c08-e60d-4003-9aa2-2e081dfeac37/fanduel-bet-5-get-350.jpg",
+   "age": "26m ago",
+   "published": "2026-09-08T20:00:58+00:00"
+  },
+  {
+   "title": "Defense a key focus for new UK $10.6B, 4-year space spending plan",
+   "url": "https://breakingdefense.com/2026/09/defense-a-key-focus-for-new-uk-10-6b-4-year-space-spending-plan/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The largest MoD investment detailed in the new strategy is a planned £880 million between 2026/2027 and 2029/2030 for intelligence, surveillance and reconnaissance, and …",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/british-space-creative-1024x576.jpg",
+   "age": "28m ago",
+   "published": "2026-09-08T19:59:02+00:00"
+  },
+  {
+   "title": "Supreme Court forces TV stations to sell more election ads at steep discounts",
+   "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Republican victory means stations must offer lowest ad prices to political parties.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/gop-logo-1152x648-1787858821.jpg",
+   "age": "37m ago",
+   "published": "2026-09-08T19:50:00+00:00"
+  },
+  {
+   "title": "2026 NFL Season Award Predictions: Protector of the Year",
+   "url": "https://www.windycitygridiron.com/general/122094/2026-nfl-season-award-predictions-protector-of-the-year-darnell-wright-penei-sewell-lane-johnson",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2292435882.jpg?quality=90&#038;strip=all&#038;crop=10.328125630379,0,67.758518539949,100",
+   "age": "57m ago",
+   "published": "2026-09-08T19:30:00+00:00"
+  },
+  {
+   "title": "These dividend stocks could catch a tailwind from data center pushback",
+   "url": "https://www.cnbc.com/2026/09/08/these-dividend-stocks-could-catch-a-tailwind-from-data-center-pushback.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The backlash against artificial intelligence data centers could prove a tailwind for real estate investment trusts in the sector.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108039426-1727328143599-gettyimages-2171751221-pdjg3krrmw6r7nqtn2iw3f3cyu.jpeg?v=1754074690&amp;w=1920&amp;h=1080",
+   "age": "57m ago",
+   "published": "2026-09-08T19:29:41+00:00"
+  },
+  {
+   "title": "New Hampshire goes to the polls in primary for key open Senate seat",
+   "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Incumbent Sen. Jeanne Shaheen, D-N.H., will retire when her term ends in January.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108359844-1788882832757-NH.jpg?v=1788895467&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-08T19:25:59+00:00"
+  },
+  {
+   "title": "Marines Help Philippine Armed Forces Develop Strike Plans for BrahMos Anti-Ship Missile",
+   "url": "https://news.usni.org/2026/09/08/marines-help-philippine-armed-forces-develop-strike-plans-for-brahmos-anti-ship-missile",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "U.S. and Philippine Marines are training how to defend Manila’s coastal waters through maritime strike rehearsals that simulate the use of recently acquired BrahMos anti…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/9897963-scaled.jpg",
+   "age": "1h ago",
+   "published": "2026-09-08T19:13:31+00:00"
+  },
+  {
+   "title": "Top chipmakers embrace ASML’s $400M machines, agree to crucial chipmaking change",
+   "url": "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Chipmaking changes could boost productivity of new ASML machines by 40 percent.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ASML_HighNA_cleanroom_Veldhoven_068-1-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-08T19:12:53+00:00"
+  },
+  {
+   "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+   "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
+   "age": "1h ago",
+   "published": "2026-09-08T19:00:00+00:00"
+  },
+  {
+   "title": "Godzilla Minus Zero IMAX trailer teases King Ghidorah",
+   "url": "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Director Takashi Yamazaki's hotly anticipated sequel takes place two years after 2023 film's events.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/godzilla1-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-08T18:53:23+00:00"
+  },
+  {
+   "title": "Best betting apps, sportsbook promos for NFL Week 1: How, where to bet Seahawks vs. Patriots, NFL Kickoff Game",
+   "url": "https://www.cbssports.com/betting/news/best-betting-apps-sportsbook-promo-nfl-week-1-how-where-to-bet-seahawks-patriots-nfl-kickoff-game/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/f4c7e821-3c2d-4efc-b673-af73cf43e1bf/new-england-patriots.jpg",
+   "age": "1h ago",
+   "published": "2026-09-08T18:37:05+00:00"
+  },
+  {
+   "title": "Kyler Gordon Injury Update: He should be back with the Bears soon",
+   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/122190/kyler-gordon-injury-update-he-should-be-back-chicago-bears-soon-nfl-ben-johnson",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2256052631.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1h ago",
+   "published": "2026-09-08T18:30:00+00:00"
+  },
+  {
+   "title": "Trump Threatens Canadian Jets At The Center Of Army Aerial Surveillance Plans",
+   "url": "https://www.twz.com/air/trump-threatens-canadian-jets-at-the-center-of-army-aerial-surveillance-plans",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Threatening to block Bombardier sales in the U.S. is different than actually following through with it, but Canada also has a vote. The post Trump Threatens Canadian Jet…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/trump-threats-bombardier-military-impacts.jpg?quality=85",
+   "age": "1h ago",
+   "published": "2026-09-08T18:29:08+00:00"
+  },
+  {
+   "title": "Chiefs expect Patrick Mahomes to start against Broncos, but key lineman likely out",
+   "url": "https://www.cbssports.com/nfl/news/patrick-mahomes-injury-update-chiefs-qb/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/b164e573-9407-4411-aedf-8563172f5fd0/patrick-mahomes-chiefs-7.jpg",
+   "age": "2h ago",
+   "published": "2026-09-08T18:22:34+00:00"
+  },
+  {
+   "title": "Poland’s in-development fighting vehicle carries newfound defense-export drive",
+   "url": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Polish officials hope a new infantry fighting vehicle design will propel the country's weapons-export business.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/M6QPWBMQUFGA7P5FRTZGJJH2HQ.jpg",
+   "age": "2h ago",
+   "published": "2026-09-08T18:21:59+00:00"
+  },
+  {
+   "title": "USNI News Fleet and Marine Tracker: Sept. 8, 2026",
+   "url": "https://news.usni.org/2026/09/08/usni-news-fleet-and-marine-tracker-sept-8-2026",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Sept. 8, 2026, based on Navy…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/FT_9_8_26.jpg",
+   "age": "2h ago",
+   "published": "2026-09-08T18:16:40+00:00"
+  },
+  {
+   "title": "Braxton Jones to start season opener at left tackle",
+   "url": "https://www.chicagobears.com/news/braxton-jones-to-start-season-opener-at-left-tackle",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/i7xsismejkfuzhxwgtgp.jpg",
+   "age": "2h ago",
+   "published": "2026-09-08T17:56:30+00:00"
+  },
+  {
+   "title": "How to watch Apple’s foldable iPhone announcement",
+   "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/surprise-and-shine.webp?resize=1200,927",
+   "age": "2h ago",
+   "published": "2026-09-08T17:46:53+00:00"
   },
   {
    "title": "Chicago Bears Announce ‘26 Team Captains",
@@ -42,7 +303,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2183195764.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "10m ago",
+   "age": "2h ago",
    "published": "2026-09-08T17:35:23+00:00"
   },
   {
@@ -53,7 +314,7 @@
    "topic": "defense",
    "summary": "North Korea commissioned the second Choe Hyon-class destroyer, Kang Kon (52), on Sunday at Wonsan Port, state media Korean Central News Agency reported. Kang Kon was com…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/983c74764d50d46eed473d67779f45baa12354a6e87df42cd43185519748323d.jpg",
-   "age": "10m ago",
+   "age": "2h ago",
    "published": "2026-09-08T17:35:18+00:00"
   },
   {
@@ -64,30 +325,8 @@
    "topic": "ai",
    "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-   "age": "13m ago",
+   "age": "2h ago",
    "published": "2026-09-08T17:32:15+00:00"
-  },
-  {
-   "title": "Erika Kirk pens essay on grief as readers gain insights into wrenching past year",
-   "url": "https://www.foxnews.com/media/erika-kirk-pens-essay-grief-readers-gain-insights-wrenching-past-year",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Erika Kirk penned a New York Times essay on grief as the one-year anniversary of Charlie Kirk s fatal shooting at Utah Valley University approaches.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/erika-kirk-dec-2025.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-09-08T17:31:38+00:00"
-  },
-  {
-   "title": "Jelly Roll uninvited from law enforcement event after Trump jokes, but source says he had no knowledge of it",
-   "url": "https://www.foxnews.com/media/jelly-roll-uninvited-law-enforcement-event-after-trump-jokes-source-says-no-knowledge",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jelly Roll was formally uninvited from a Mar-a-Lago law enforcement fundraiser after his jokes about President Donald Trump while guest-hosting Jimmy Kimmel Live!",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/jelly-roll-jimmy-kimmel-live.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-09-08T17:29:40+00:00"
   },
   {
    "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
@@ -97,7 +336,7 @@
    "topic": "defense",
    "summary": "Hanwha representatives said the vehicle is fitted with a more powerful version of the stationary Cheongwang laser that protects the presidential compound.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SCEQVG3IYRGCXG5IJE5PD7HPWM.jpeg",
-   "age": "23m ago",
+   "age": "3h ago",
    "published": "2026-09-08T17:21:49+00:00"
   },
   {
@@ -108,41 +347,19 @@
    "topic": "defense",
    "summary": "The U.S. Air Force plans to acquire anti-aircraft guns to protect its overseas bases following Iranian attacks on U.S. bases in the Middle East.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YYAB74U6V5EUFDA56FN6TZYWKA.jpg",
-   "age": "29m ago",
+   "age": "3h ago",
    "published": "2026-09-08T17:15:42+00:00"
   },
   {
-   "title": "Bombardier points out U.S. footprint after Trump says aerospace giant must build in America",
-   "url": "https://www.cnbc.com/2026/09/07/trump-bombardier-cant-sell-in-us-unless-canada-aerospace-giant-builds-there.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump's announcement comes on the eve of Canadian retaliatory tariffs set to take effect Tuesday on $20 billion of U.S. goods.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359857-1788887183282-108359857-1788883737118-gettyimages-2286953276-dsc_3173_vpkf1cau.jpg?v=1788887192&amp;w=1920&amp;h=1080",
-   "age": "37m ago",
-   "published": "2026-09-08T17:08:01+00:00"
-  },
-  {
-   "title": "New Hampshire goes to the polls in primary for key open Senate seat",
-   "url": "https://www.cnbc.com/2026/09/08/new-hampshire-primary-senate-scott-brown-john-sununu-chris-pappas-karishma-manzur.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Incumbent Sen. Jeanne Shaheen, D-N.H., is retiring at the end of her term next year.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359844-1788882832757-NH.jpg?v=1788882989&amp;w=1920&amp;h=1080",
-   "age": "37m ago",
-   "published": "2026-09-08T17:07:40+00:00"
-  },
-  {
-   "title": "This data center stock is up over 1000% in the last five years. Trader Mike Khouw sees more gains",
-   "url": "https://www.cnbc.com/2026/09/08/this-data-center-stock-is-up-over-1000percent-in-the-last-five-years-trader-mike-khouw-sees-more-gains.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Vertiv shares are up a Micron-like 1043% over the past five years, so investors might be forgiven for profit taking.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359132-1788544833922-gettyimages-2286508421-hodasss.jpeg?v=1788544862&amp;w=1920&amp;h=1080",
-   "age": "38m ago",
-   "published": "2026-09-08T17:06:39+00:00"
+   "title": "Girls Flag Football Player of the Week: Lexie Hoobler | Week 1",
+   "url": "https://www.chicagobears.com/news/girls-flag-football-player-of-week-lexie-hoobler-week-1",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/m4sreh2uu5vwlhyd9iht.jpg",
+   "age": "3h ago",
+   "published": "2026-09-08T17:13:48+00:00"
   },
   {
    "title": "European missile-maker MBDA opens first industrial facility in Poland",
@@ -152,19 +369,8 @@
    "topic": "defense",
    "summary": "“At a time when Europe faces its most serious security challenges for generations, the opening of MBDA’s new site demonstrates that the relationship between our two nati…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/07/IMG_8695-scaled-e1721930312210-1024x577.jpg",
-   "age": "40m ago",
+   "age": "3h ago",
    "published": "2026-09-08T17:05:00+00:00"
-  },
-  {
-   "title": "Craig Carton blasts Michigan fans for storming field after controversial win: 'They’re a bunch of morons'",
-   "url": "https://www.foxnews.com/outkick-sports/craig-carton-blasts-michigan-fans-storming-field-controversial-win-bunch-morons",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Craig Carton ripped Michigan fans for storming the field after Bryce Underwood s controversial Hail Mary barely beat Western Michigan 13-12.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Michigan-fans-win-090826-1.jpg?ve=1&tl=1",
-   "age": "44m ago",
-   "published": "2026-09-08T17:00:34+00:00"
   },
   {
    "title": "Russia’s New Stealthy Lower-Cost Air-Launched Standoff Weapons On Display In Egypt",
@@ -174,52 +380,8 @@
    "topic": "defense",
    "summary": "Moscow is pitching a new generation of precision weapons abroad, even as the war that produced them complicates their export prospects. The post Russia’s New Stealthy Lo…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/RUSSIAN-ARMS-AT-EL-ALAMEIN-Firefly-Upscaler-2x-scale-copy.jpg?quality=85",
-   "age": "52m ago",
+   "age": "3h ago",
    "published": "2026-09-08T16:52:56+00:00"
-  },
-  {
-   "title": "Google complies with EU rules for travel searches, says the new results stink",
-   "url": "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The EU continues to go after Google search practices it sees as anticompetitive.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-blueprint-sketch-1152x648.jpg",
-   "age": "55m ago",
-   "published": "2026-09-08T16:49:55+00:00"
-  },
-  {
-   "title": "The White House made a \"Tetris\" clone. The Tetris Company was not amused.",
-   "url": "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Trump admin's propaganda \"arcade\" hits some apparent legal limits.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/buildthewall-1152x648-1788883606.png",
-   "age": "1h ago",
-   "published": "2026-09-08T16:31:21+00:00"
-  },
-  {
-   "title": "The secret to protecting next-gen spacecraft might be eggshells",
-   "url": "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "3D-printed aluminum eggshell arrays filled with water proved more effective at impact resistance.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/eggshells-1152x648.jpg",
-   "age": "1h ago",
-   "published": "2026-09-08T16:20:58+00:00"
-  },
-  {
-   "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-   "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-09-08T16:20:31+00:00"
   },
   {
    "title": "White House has lofty space launch ambitions, but experts question price tag",
@@ -229,19 +391,8 @@
    "topic": "defense",
    "summary": "The space industry lauded a new Trump administration 1,000-launches-a-year space policy, but experts told Breaking Defense that the current space infrastructure doesn’t …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/Falcon-9-launch-SSC-pic-scaled-e1785358505411-1024x577.jpeg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-09-08T16:11:18+00:00"
-  },
-  {
-   "title": "2026 NFC North Season Preview and Prediction: The Bears will repeat",
-   "url": "https://www.windycitygridiron.com/chicago-bears-roster/24480931/2026-nfc-north-season-preview-and-prediction-chicago-bears-lions-packers-vikings",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/12/gettyimages-2250018318.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
-   "published": "2026-09-08T16:00:00+00:00"
   },
   {
    "title": "Jordan van den Berg, Jayden Loving forge friendship while battling for roster spots",
@@ -251,85 +402,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/cj3afurcps0c80ci5imk.jpg",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-08T15:35:04+00:00"
-  },
-  {
-   "title": "Week 1 NFL picks, predictions for Kalshi, Polymarket, Underdog: Bears-Panthers, Packers-Vikings markets",
-   "url": "https://www.cbssports.com/prediction/news/week-1-nfl-picks-predictions-kalshi-polymarket-underdog-bears-panthers-packers-vikings-markets/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/726e4529-2dc5-458f-8c30-cf6da8bb4850/caleb-williams-bears.jpg",
-   "age": "2h ago",
-   "published": "2026-09-08T15:31:19+00:00"
-  },
-  {
-   "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-   "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
-   "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
-   "age": "2h ago",
-   "published": "2026-09-08T15:25:35+00:00"
-  },
-  {
-   "title": "2026 NFL Preseason All-Rookie Team: Fernando Mendoza, Caleb Downs headline selections",
-   "url": "https://www.cbssports.com/nfl/news/2026-nfl-all-rookie-team/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/abcb60a0-0f18-4a5d-9b7f-dcc6913e4662/gettyimages-2292360861-2.jpg",
-   "age": "2h ago",
-   "published": "2026-09-08T14:58:12+00:00"
-  },
-  {
-   "title": "Air Force braces for new era of AI-powered hacking, plus unpacking the Mecca pact",
-   "url": "https://breakingdefense.com/2026/09/air-force-braces-for-new-era-of-ai-powered-hacking-plus-unpacking-the-mecca-pact/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The proliferation of AI is forcing the USAF to rethink cyber defense, and a new regional defense pact could shake up arms sales in the Middle East.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/BO233-pb2-1024x576.png",
-   "age": "3h ago",
-   "published": "2026-09-08T14:43:44+00:00"
-  },
-  {
-   "title": "Use FanDuel promo code to get $350 bonus bets by targeting Patriots-Seahawks, 49ers-Rams, Week 1 NFL betting",
-   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-patriots-seahawks-49ers-rams-week-1-nfl-betting/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/23/05aa9c08-e60d-4003-9aa2-2e081dfeac37/fanduel-bet-5-get-350.jpg",
-   "age": "3h ago",
-   "published": "2026-09-08T14:34:46+00:00"
-  },
-  {
-   "title": "NASCAR paint scheme preview: WWT Raceway awaits Hendrick Motorsports Chevrolets",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3R0cWxDUHEwcWpPTG0yYXNEeGJlYkNoblJndW0zNDhDaGVTMjA3OW53VWRjenJ0cUdIanhSVWRiUVFrcUJKaGszekxSNjVQWHlwb1RXSnc4VVBmbjVjY1FNMFFWSjFPRll3X2Z1NmVxQVFJN1lpX3VXNlhIT2hTM051QnZ5NVRFOGd6OHBIdnNfR3hoelpfTnhHUV83RjlXNnNvOWw5NTdaSkhEX2NuYkNUQVN4SVhua0Z1NEJGUWJsX3ZpSWYxemh6bk12UkpRX01ob0VR?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3h ago",
-   "published": "2026-09-08T14:34:41+00:00"
-  },
-  {
-   "title": "Chicago Bears Rivalries Logo Glow-Up was the Star of the Reveal",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/122121/chicago-bears-rivalries-logo-glow-up-was-the-star-of-the-reveal-nike-sid-luckman",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-77827670.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
-   "published": "2026-09-08T14:00:00+00:00"
   },
   {
    "title": "Don’t know what to say to someone with cancer? Start here. | Davich",
@@ -339,52 +413,8 @@
    "topic": "local",
    "summary": "One lonely cancer patient awaiting radiation treatment changed everything. Now a cancer survivor is delivering comfort, kindness and hope to strangers across Northwest I…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/6a/06af4562-af6b-4230-a638-889b33e74e60/6a9f16bb53da2.image.jpg?resize=300%2C225",
-   "age": "5h ago",
-   "published": "2026-09-08T12:15:00+00:00"
-  },
-  {
-   "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
-   "url": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Swedish government said it needs more rocket artillery fast, signing off on a $733 million purchase of HIMARS weapons from the United States.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6QQMQT55LJDG5CFTSLQ6FPHT64.jpeg",
-   "age": "6h ago",
-   "published": "2026-09-08T10:47:22+00:00"
-  },
-  {
-   "title": "NASCAR Just Gave William Byron a Massive Reality Check",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWklQeGVsMU83aWtRZGtuNUFlMWtNZjF2ckRZYnFyekVqU3JhOVFNNWFqcVJCQk1fcXBFTXdqV2FrRDJGWjFOMUNqQXdhNEhhZ2prSVpWM0ZTTDd3S1NPMDFlRzdSelV4N2FUckh0eUZ2eE8xSEdKSjZzQlp2VnNPWVh1dVUydw?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
    "age": "8h ago",
-   "published": "2026-09-08T09:21:29+00:00"
-  },
-  {
-   "title": "Up to Speed: Hendrick Motorsports in Danger of Worst Season in 33 Years",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFBBTWhFd2hsbTNTSUFHNlptRWplaUtuUEVFWE90UGo2cmx5UHloaExxdkF4dXpCVzRkb1cwLThkcXMtejRlSkV2NFFoSkJDTk5YSWFmaHhpay1ObkRndGJqdHFvV1dLSVZiQzdlSjJST3ZaUDVDVzhRZnRGcW11UnJDTVdMUHo3Nl9FWjg4bw?oc=5",
-   "source": "Frontstretch",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "16h ago",
-   "published": "2026-09-08T01:19:31+00:00"
-  },
-  {
-   "title": "Fantasy will become reality for Bears rookies Sunday",
-   "url": "https://www.chicagobears.com/news/fantasy-will-become-reality-for-bears-rookies-sunday",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wp7faqccrd8wqezcvvbm.jpg",
-   "age": "19h ago",
-   "published": "2026-09-07T21:53:57+00:00"
+   "published": "2026-09-08T12:15:00+00:00"
   },
   {
    "title": "Becoming the Bears’ defensive ‘eraser’: Tracking the development of Dillon Thieneman",
@@ -398,28 +428,6 @@
    "published": "2026-09-07T16:30:00+00:00"
   },
   {
-   "title": "Hung Cao Needs House, Senate Waivers for SECNAV Confirmation",
-   "url": "https://news.usni.org/2026/09/07/hung-cao-needs-house-senate-waivers-for-secnav-confirmation",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Acting Secretary of the Navy Hung Cao will need a Congressional waiver from both the House and the Senate to be eligible for confirmation as the permanent SECNAV, USNI N…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9914031-scaled.jpg",
-   "age": "1d ago",
-   "published": "2026-09-07T14:46:21+00:00"
-  },
-  {
-   "title": "U.S. Navy Trials Robotic Towed Connector to Refuel USV",
-   "url": "https://news.usni.org/2026/09/07/u-s-navy-trials-robotic-towed-connector-to-refuel-usv",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The U.S. Navy trialled a robotic towed connector to repeatedly capture, refuel and release an unmanned surface vessel (USV) last month as the sea service seeks to enable…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9907269-scaled.jpg",
-   "age": "1d ago",
-   "published": "2026-09-07T12:28:50+00:00"
-  },
-  {
    "title": "Mysterious Black Jet That Emerged At Long Beach Airport Identified",
    "url": "https://www.twz.com/space/mysterious-black-jet-that-emerged-at-long-beach-airport-identified",
    "source": "The War Zone",
@@ -427,7 +435,7 @@
    "topic": "defense",
    "summary": "With a sleek airframe the size of an A-5 Vigilante, its silhouette drew immediate attention from local aviation photographers who had never seen anything like it there. …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/RAVN-X-1-long-beach.jpg?quality=85",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-06T18:06:36+00:00"
   },
   {
@@ -451,17 +459,6 @@
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/fd/4fd5565c-d037-4ea1-8221-1b2b87fcace9/6a7bac8ec56c4.image.jpg?resize=300%2C225",
    "age": "2d ago",
    "published": "2026-09-06T12:15:00+00:00"
-  },
-  {
-   "title": "Bunker Talk: Labor Day Weekend Edition",
-   "url": "https://www.twz.com/news-features/bunker-talk-labor-day-weekend-edition-4",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Have a great and relaxing weekend gang! The post Bunker Talk: Labor Day Weekend Edition appeared first on TWZ.",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/9897221.jpg?quality=85",
-   "age": "3d ago",
-   "published": "2026-09-05T00:23:00+00:00"
   }
  ]
 }
