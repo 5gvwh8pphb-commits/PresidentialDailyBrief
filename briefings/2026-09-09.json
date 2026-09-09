@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-09",
+  "dateLabel": "Wednesday, September 9, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-09T11:15:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, September 8, 2026 close — stocks slid as oil prices surged toward $100/bbl on escalating Middle East tensions.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,673.52", "change": "-45.08", "changePct": "-0.58%", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "52,786.07", "change": "-628.18", "changePct": "-1.18%", "sixMo": "+11%" },
+        { "name": "Nasdaq",  "close": "26,421.41", "change": "-85.58", "changePct": "-0.32%", "sixMo": "+16%" }
+      ],
+      "body": "Stocks fell to open a holiday-shortened week as Brent crude neared $100 a barrel on renewed fighting between the US and Iran and an attack on Saudi energy facilities, stoking inflation worries; the Dow took the brunt of the selling while the 10-year Treasury yield pushed toward a two-decade high.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Trump moves to ban $50 billion of Canadian goods as trade war escalates",
+      "body": "President Trump directed the removal of $50 billion in Canadian-origin products from federal procurement schedules and issued proclamations banning some Canadian alcohol, dairy and motorcycles starting Sept. 29, plus a 50% surcharge on a range of other goods beginning Sept. 15, after Canada's own retaliatory tariffs on $20 billion of US goods took effect Tuesday.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/08/trump-tariffs-canada-import-ban-alcohol-dairy-motorcycles"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "Philippine defense chief blasts Beijing after a note disputing the South China Sea ruling is passed to him mid-speech",
+      "body": "At the Seoul Defense Dialogue on Tuesday, a note relaying China's position that the 2016 South China Sea arbitration ruling is invalid was handed to Philippine Defense Secretary Gilberto Teodoro while he was speaking; he read it aloud and accused Beijing of 'coercion, bullying and aggression,' saying the Philippines faces daily incursions into its waters and exclusive economic zone from Chinese vessels.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/philippines-defense-chief-calls-out-china-note-interrupts-remarks-seoul-forum-coercion-bullying"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Iran strikes a US-used base in Jordan after CENTCOM destroys five Iranian oil tankers",
+      "body": "CENTCOM said it destroyed five Iranian oil tankers tied to the IRGC in the Gulf of Oman and near Kharg Island; Iran retaliated by firing roughly 20 ballistic missiles at the Al Azraq base in Jordan, used by US forces, claiming it destroyed hangars housing American fighter jets, while Jordan's military said its air defenses intercepted 18 of the 20 missiles. Iran also said it struck 10 ships near the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new US military-technology development from a reputable outlet cleared the 72-hour window today; the most recent items (quantum navigation, containerized missile tests, railgun revival) all date from earlier in the summer or last week's briefs.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic has locked in roughly $517 billion in compute leases over the past 11 months",
+      "body": "The Information reported Anthropic has signed compute-capacity agreements potentially worth up to $517 billion since October 2025, securing at least 14.8 gigawatts of power on top of the 1-2 GW it already had, with Amazon and Google alone accounting for over $300 billion; the company's annualized revenue has topped $65 billion as it races to keep pace with demand for Claude ahead of a possible IPO.",
+      "source": "The Information",
+      "url": "https://www.datacenterdynamics.com/en/news/anthropic-signed-517bn-in-compute-agreements-in-past-11-months/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Rome Odunze day-to-day with a foot injury, Ben Johnson hopeful he plays Week 1",
+      "body": "Head coach Ben Johnson said Odunze, who did not practice Tuesday, is 'more day-to-day right now' and unrelated to the stress fracture that cost him five games last season; Johnson said he's hopeful the receiver will be ready for Sunday's season opener at Carolina.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/08/bears-wr-rome-odunze-day-to-day-with-injury-ben-johnson-hopeful-hell-play-in-season-opener-vs-panthers"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Every fresh Byron item still centers on how Sunday's Cook Out Southern 500 at Darlington played out, which the spoiler rule bars reporting within 7 days; no other new, non-outcome Byron development surfaced within the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~2h ago",
+      "empty": false,
+      "headline": "PCA commission defends General Assembly's rejection of women-deacon overture against formal dissent",
+      "body": "Four teaching elders dissented from the 53rd General Assembly's rejection of Overture 37, which would have let local sessions decide whether qualified women could serve as deacons, arguing the Overtures Committee's grounds assumed what was in dispute; a five-member commission led by Ligon Duncan published an official answer defending the Assembly's decision as 'biblically faithful and constitutionally sufficient' in restricting the deacon office to men, closing the matter per church procedure.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/general-assembly-responds-to-dissent-regarding-overture-37/"
+    }
+  ]
+}
