@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T21:17:56+00:00",
+ "generated": "2026-09-10T23:16:14+00:00",
  "count": 40,
  "withImage": 35,
  "bearsDay": false,
@@ -11,47 +11,145 @@
   "Defense News",
   "Fox News",
   "NASCAR.com",
-  "NWI Times",
   "Speedway Digest",
+  "Sports Illustrated",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "heavy.com",
-  "si.com"
+  "heavy.com"
  ],
  "items": [
   {
-   "title": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles",
+   "title": "Bioweapon threat exposed as Anthropic sounds alarm on foreign actors plotting virus experiments",
+   "url": "https://www.foxnews.com/politics/bioweapon-threat-exposed-anthropic-sounds-alarm-foreign-actors-plotting-virus-experiments",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Researchers outside the United States used Anthropic s Claude to plan gain-of-function experiments on bird flu, chikungunya and dangerous toxins.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/othram-dna-forensics-labs-fox-news-001.jpeg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-09-10T22:57:34+00:00"
+  },
+  {
+   "title": "Texas A&M's Mike Elko describes fight between LSU, SEC over former NFL players as 'parenting'",
+   "url": "https://www.foxnews.com/outkick-sports/texas-am-mike-elko-describes-fight-lsu-sec-former-nfl-players-parenting",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Mike Elko compared the SEC s clash with Lane Kiffin and the LSU Tigers to parenting, saying the school backed down once dad raised his voice.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/mike-elko.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-09-10T22:50:46+00:00"
+  },
+  {
+   "title": "Prosecutor Joseph diGenova resigns from DOJ role investigating Trump-Russia probes",
+   "url": "https://www.foxnews.com/politics/prosecutor-joseph-digenova-resigns-from-doj-role-investigating-trump-russia-probes",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Joseph diGenova resigned from his Justice Department role investigating the alleged Grand Conspiracy surrounding the Trump-Russia investigations.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/joseph-digenova.png?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-09-10T22:46:19+00:00"
+  },
+  {
+   "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+   "url": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800",
+   "age": "46m ago",
+   "published": "2026-09-10T22:30:00+00:00"
+  },
+  {
+   "title": "Dolly Parton’s sister reveals ‘last thing’ country legend asked of her before death",
+   "url": "https://www.foxnews.com/entertainment/dolly-partons-sister-reveals-last-thing-country-legend-asked-her-before-death",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Stella Parton said that prayer was the last thing her sister, Dolly Parton, asked for before her death from a brief battle with cancer.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dolly-parton-silver-sparkles.jpg?ve=1&tl=1",
+   "age": "58m ago",
+   "published": "2026-09-10T22:17:25+00:00"
+  },
+  {
+   "title": "Nike shareholders reject transparency proposal as faith-based firm questions DEI commitments",
+   "url": "https://www.foxnews.com/outkick-sports/nike-shareholders-reject-transparency-proposal-faith-based-firm-questions-dei-commitments",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Tim Schwarzenberger explains why Nike s perfect Human Rights Campaign score and DEI ties sparked a shareholder proposal at its annual meeting.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/tokyo-rainbow-parade-2023.jpg?ve=1&tl=1",
+   "age": "59m ago",
+   "published": "2026-09-10T22:16:18+00:00"
+  },
+  {
+   "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+   "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-10T22:16:05+00:00"
+  },
+  {
+   "title": "Work At Underground Test Site A New Indicator Of Possible Strikes On Iran’s Pickaxe Mountain Bunker",
+   "url": "https://www.twz.com/news-features/work-at-underground-test-site-a-new-indicator-of-possible-strikes-on-irans-pickaxe-mountain-bunker",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Pickaxe Mountain presents immense targeting challenges and that's where a key test range in New Mexico comes in to play, just as it did for Midnight Hammer. The post Wor…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/test-site-new-mexico-iran-pickaxe-mountain.jpg?quality=85",
+   "age": "1h ago",
+   "published": "2026-09-10T22:01:50+00:00"
+  },
+  {
+   "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+   "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+   "age": "1h ago",
+   "published": "2026-09-10T21:51:59+00:00"
+  },
+  {
+   "title": "Oracle's stock edges up on earnings beat as cloud infrastructure revenue more than doubles",
    "url": "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
    "summary": "Oracle's results for the quarter came in stronger than expected, as did its revenue backlog.",
    "image": "https://image.cnbcfm.com/api/v1/image/108361331-1789060014865-gettyimages-1689129855-20090101230925-99-327233.jpeg?v=1789060080&amp;w=1920&amp;h=1080",
-   "age": "8m ago",
-   "published": "2026-09-10T21:09:37+00:00"
+   "age": "1h ago",
+   "published": "2026-09-10T21:42:47+00:00"
   },
   {
-   "title": "Trump signs act clearing the way for Medal of Honor monument on National Mall",
-   "url": "https://www.foxnews.com/politics/trump-signs-act-clearing-way-medal-honor-monument-national-mall",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump signed the act at the National Medal of Honor Museum in Arlington, Texas, after meeting 15 living recipients and touring the facility.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-medal-of-honor-act-signature.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-09-10T21:04:32+00:00"
+   "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+   "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
+   "age": "1h ago",
+   "published": "2026-09-10T21:35:00+00:00"
   },
   {
-   "title": "SEN McCORMICK: The heroic passengers of Flight 93 showed America how to stand united",
-   "url": "https://www.foxnews.com/opinion/sen-mccormick-heroic-passengers-flight-93-showed-america-stand-united",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Todd Beamer s famous Let s roll rallied Flight 93 passengers to charge al Qaeda hijackers, and their six-minute fight changed the course of 9/11.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/flight-93-memorial.jpg?ve=1&tl=1",
-   "age": "17m ago",
-   "published": "2026-09-10T21:00:03+00:00"
+   "title": "Houthis’ Stranglehold On Strategic Bab Al-Mandab Strait Grows Stronger",
+   "url": "https://www.twz.com/news-features/houthis-stranglehold-on-strategic-bab-al-mandab-strait-grows-stronger",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The capture of the port of Mokha and possibly the islands of Perim and Zuraq can give the Houthis key points of control over the Red Sea and the Strait. The post Houthis…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/Bab-el-mandeb.jpg?quality=85",
+   "age": "1h ago",
+   "published": "2026-09-10T21:28:44+00:00"
   },
   {
    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
@@ -61,7 +159,7 @@
    "topic": "ai",
    "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-   "age": "18m ago",
+   "age": "2h ago",
    "published": "2026-09-10T20:59:51+00:00"
   },
   {
@@ -72,7 +170,7 @@
    "topic": "ai",
    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-   "age": "20m ago",
+   "age": "2h ago",
    "published": "2026-09-10T20:57:30+00:00"
   },
   {
@@ -83,19 +181,8 @@
    "topic": "ai",
    "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg",
-   "age": "22m ago",
+   "age": "2h ago",
    "published": "2026-09-10T20:55:29+00:00"
-  },
-  {
-   "title": "Furo’s founders left Silicon Valley — and it’s paying off",
-   "url": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/furo-cofounders.jpg?resize=1200,900",
-   "age": "29m ago",
-   "published": "2026-09-10T20:48:00+00:00"
   },
   {
    "title": "Why the Pentagon picked an Indiana Navy base to host a nuclear microreactor",
@@ -105,7 +192,7 @@
    "topic": "defense",
    "summary": "The program is driving hard to meet President Trump’s 2028 deadline, officials said, but they have yet to release a formal solicitation, let alone pick a specific vendor…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/michael-dodd-scaled-e1789072270144-1024x577.jpg",
-   "age": "45m ago",
+   "age": "2h ago",
    "published": "2026-09-10T20:31:57+00:00"
   },
   {
@@ -116,30 +203,8 @@
    "topic": "defense",
    "summary": "The system’s open architecture could let Kyiv mix and match interceptors as its missile inventory evolves. The post Ukraine’s New Shershen SAM Can Fire A Wild Mix Of Ada…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Shershen-missiles.jpg?quality=85",
-   "age": "47m ago",
+   "age": "2h ago",
    "published": "2026-09-10T20:30:16+00:00"
-  },
-  {
-   "title": "'Lioness' star's casting in 'Landman' sends fans into a frenzy: 'Taylor Sheridan has me in a chokehold'",
-   "url": "https://www.foxnews.com/entertainment/lioness-stars-casting-landman-sends-fans-frenzy-taylor-sheridan-has-me-chokehold",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Michael Kelly will portray oil industry titan William Crockett in Landman season three, crossing over from his role in Taylor Sheridan s Lioness.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lioness-michael-kelly-billy-bob-thornton-ali-larter-demi-moore.jpg?ve=1&tl=1",
-   "age": "47m ago",
-   "published": "2026-09-10T20:30:07+00:00"
-  },
-  {
-   "title": "Trump faces reckoning as GOP figures label $5K promise a 'socialist vote-buying scheme'",
-   "url": "https://www.foxnews.com/politics/trump-faces-reckoning-gop-figures-label-5k-promise-socialist-vote-buying-scheme",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "President Donald Trump s $5,000 dividend proposal could cost over $1.2 trillion, sparking a fierce GOP debate over tariff revenue and national debt.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-midterm-convention-2.jpg?ve=1&tl=1",
-   "age": "51m ago",
-   "published": "2026-09-10T20:26:26+00:00"
   },
   {
    "title": "Iran attack on base in Jordan damaged American military aircraft, US official says",
@@ -149,7 +214,7 @@
    "topic": "defense",
    "summary": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XIOM4EON7ZB5FJUKWRHQQLUHQE.jpg",
-   "age": "55m ago",
+   "age": "2h ago",
    "published": "2026-09-10T20:22:31+00:00"
   },
   {
@@ -160,19 +225,8 @@
    "topic": "defense",
    "summary": "The companies solutions will move into the developmental phase, an Army spokesperson told Breaking Defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/20260813-SMD-dwoolfolk-010-1024x576.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-10T20:08:14+00:00"
-  },
-  {
-   "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-   "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-09-10T19:50:04+00:00"
   },
   {
    "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
@@ -182,7 +236,7 @@
    "topic": "markets",
    "summary": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
    "image": "https://image.cnbcfm.com/api/v1/image/108354182-1787691152020-gettyimages-2291508171-AFP_C6H6884.jpeg?v=1787691267&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-10T19:18:05+00:00"
   },
   {
@@ -193,7 +247,7 @@
    "topic": "ai",
    "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Envision-1152x648-1789054779.jpg",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-10T19:09:29+00:00"
   },
   {
@@ -204,7 +258,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-10T18:59:54+00:00"
   },
   {
@@ -215,7 +269,7 @@
    "topic": "markets",
    "summary": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
    "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-10T18:52:34+00:00"
   },
   {
@@ -226,18 +280,29 @@
    "topic": "ai",
    "summary": "App support is slim right now, but Google says more are coming.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Hero_Image_4.width-1600.format-webp-1152x648.png",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-10T18:41:09+00:00"
   },
   {
-   "title": "Day Signs Long-Term Deal With Hendrick, Will Run Cup Part-Time in 2027",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkNObXFpcVJOcXoxdm80eXBsbmF1bW1EZGEtdHczVk91Z3ZreFJWUk9HRHprR01Jc2hHZl96UC1ibGd2QVNIUVNkUTJ3RExWU1JNcmhmQk8wY2RQSjJkNXBuVmQ5dkZocFpFQ0tuaDduaDdLekJrbHRLaG92UG5yTlJYUW1HODVUOWFCN0dkd2ZZYURDU3ZsRTQtVTdGRWhGNTNkdTZfOFJyeVZxVHBEaUVoZw?oc=5",
-   "source": "si.com",
+   "title": "Corey Day Reaches Massive Deal With Hendrick Motorsports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjVqTzhoYmJJRF9JUWNZYkl0enRyUkIyQ2RfZVhVQkZ3WS1uOC1BQk8yQm52NGVEV3ZUY2dIa0ZFaVJQSHJHTWx1UkFyRHV5c0thcU5SNVF4TWJrVUtJd0FicnZzMHNOdjUyZ2tGYXc2d1h3cUF5WHE3emtJbE9nTzdiTjBuaTJLZHRXbg?oc=5",
+   "source": "heavy.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "2h ago",
+   "age": "4h ago",
+   "published": "2026-09-10T18:34:29+00:00"
+  },
+  {
+   "title": "Day Signs Long-Term Deal With Hendrick, Will Run Cup Part-Time in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTkNObXFpcVJOcXoxdm80eXBsbmF1bW1EZGEtdHczVk91Z3ZreFJWUk9HRHprR01Jc2hHZl96UC1ibGd2QVNIUVNkUTJ3RExWU1JNcmhmQk8wY2RQSjJkNXBuVmQ5dkZocFpFQ0tuaDduaDdLekJrbHRLaG92UG5yTlJYUW1HODVUOWFCN0dkd2ZZYURDU3ZsRTQtVTdGRWhGNTNkdTZfOFJyeVZxVHBEaUVoZw?oc=5",
+   "source": "Sports Illustrated",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "4h ago",
    "published": "2026-09-10T18:30:38+00:00"
   },
   {
@@ -248,19 +313,8 @@
    "topic": "defense",
    "summary": "The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt. Gen. Eyal Zamir said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220503_firefly_drone_soldier-e1651591684674-1024x577.jpg",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-10T18:30:00+00:00"
-  },
-  {
-   "title": "Corey Day Reaches Massive Deal With Hendrick Motorsports",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjVqTzhoYmJJRF9JUWNZYkl0enRyUkIyQ2RfZVhVQkZ3WS1uOC1BQk8yQm52NGVEV3ZUY2dIa0ZFaVJQSHJHTWx1UkFyRHV5c0thcU5SNVF4TWJrVUtJd0FicnZzMHNOdjUyZ2tGYXc2d1h3cUF5WHE3emtJbE9nTzdiTjBuaTJLZHRXbg?oc=5",
-   "source": "heavy.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2h ago",
-   "published": "2026-09-10T18:18:25+00:00"
   },
   {
    "title": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
@@ -270,7 +324,7 @@
    "topic": "markets",
    "summary": "The Boring Co.'s latest $3 billion financing round was led by the United Arab Emirates.",
    "image": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-09-10T18:15:59+00:00"
   },
   {
@@ -281,7 +335,7 @@
    "topic": "ai",
    "summary": "\"Bankruptcy cannot become the new land grab for AI.”",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2271644469-1024x648.jpg",
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-09-10T18:14:14+00:00"
   },
   {
@@ -292,7 +346,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-09-10T18:12:55+00:00"
   },
   {
@@ -303,7 +357,7 @@
    "topic": "defense",
    "summary": "U.S. forces with Joint Task Force Western Hemisphere struck a go-fast vessel in the Caribbean, killing three people, U.S. Southern Command announced late Wednesday. The …",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.22.10-PM-scaled.png",
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-09-10T17:38:24+00:00"
   },
   {
@@ -314,19 +368,8 @@
    "topic": "defense",
    "summary": "It s about driving big outcomes and giving the secretary and the president options, more options. We want to move away from things that look like persistent engagement, …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/6762559-scaled-e1782151740819-1024x577.jpg",
-   "age": "4h ago",
+   "age": "6h ago",
    "published": "2026-09-10T17:15:00+00:00"
-  },
-  {
-   "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-   "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359924-1788889959959-gettyimages-2293096739-US-NEW_YORK-DIESEL_PRICE-RECORD_HIGH.jpeg?v=1788890033&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-10T16:55:17+00:00"
   },
   {
    "title": "Operational F-15EXs Drop Live Bombs For The First Time",
@@ -336,7 +379,7 @@
    "topic": "defense",
    "summary": "The first unit to get the F-15EX is already moving away from its exclusive air-to-air mission roots. The post Operational F-15EXs Drop Live Bombs For The First Time appe…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/F-15EX-WITH-LIVE-BOMB-1.jpg?quality=85",
-   "age": "4h ago",
+   "age": "6h ago",
    "published": "2026-09-10T16:49:52+00:00"
   },
   {
@@ -347,7 +390,7 @@
    "topic": "defense",
    "summary": "The Mk 38 Mod 4 offers a major capability boost, especially against drones, and is now installed on at least one destroyer. The post Navy Destroyer Packs New Piggy-Backe…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/mk-38-mod-4-gun-weapon-system-on-uss-mustin.jpg?quality=85",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-09-10T16:12:29+00:00"
   },
   {
@@ -358,7 +401,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part o…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
-   "age": "5h ago",
+   "age": "7h ago",
    "published": "2026-09-10T16:07:37+00:00"
   },
   {
@@ -369,7 +412,7 @@
    "topic": "defense",
    "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3EEMQBIH3VCSFMOUGCG2ERY4G4.JPG",
-   "age": "6h ago",
+   "age": "8h ago",
    "published": "2026-09-10T14:26:04+00:00"
   },
   {
@@ -380,7 +423,7 @@
    "topic": "defense",
    "summary": "Bone fragments from the sword hand of a medieval Russian prince who won a famous victory over the Mongols have been sent to the front in Ukraine.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UXR4KK4YGJC45CHFLAYYSIGS7M.JPG",
-   "age": "7h ago",
+   "age": "9h ago",
    "published": "2026-09-10T14:16:04+00:00"
   },
   {
@@ -391,7 +434,7 @@
    "topic": "defense",
    "summary": "The clandestine Russian operation was carried out by Moscow’s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WWD44O3FZFHHDJU7G7OWANVKR4.jpg",
-   "age": "7h ago",
+   "age": "9h ago",
    "published": "2026-09-10T13:48:21+00:00"
   },
   {
@@ -402,19 +445,8 @@
    "topic": "defense",
    "summary": "The following is the U.K. Space Strategy, released Sept. 8, 2026. From the Report Space is entering a new era. One that is marked by enormous potential to transform the …",
    "image": null,
-   "age": "7h ago",
+   "age": "9h ago",
    "published": "2026-09-10T13:30:40+00:00"
-  },
-  {
-   "title": "Ukraine Carried Out Its Deepest Drone Strike On Russia Ever",
-   "url": "https://www.twz.com/news-features/ukraine-carried-out-its-deepest-drone-strike-on-russia-ever",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The strike hit an energy processing plant 1,700 miles from the Ukrainian border in Russia's gas-rich Arctic region. The post Ukraine Carried Out Its Deepest Drone Strike…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/Long-Range-Gas-Plant-Attack.jpg?quality=85",
-   "age": "23h ago",
-   "published": "2026-09-09T21:32:35+00:00"
   },
   {
    "title": "U.S. Destroyer Makes Port Call in Africa",
@@ -426,39 +458,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/09/USS-Ross.jpeg",
    "age": "1d ago",
    "published": "2026-09-09T18:19:39+00:00"
-  },
-  {
-   "title": "Beyond doctors and nurses: The healthcare jobs hiding in plain sight.",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_2f30f4c5-7c8a-4a79-8443-8195b7b05ece.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Don’t just look at the healthcare jobs you already know. Look behind the hospital doors. There might be a career there you’ve never heard of.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/0a/e0a9672a-b008-4260-bd25-96272d92fdca/69e801dd3dfac.image.jpg?resize=300%2C200",
-   "age": "1d ago",
-   "published": "2026-09-09T13:00:00+00:00"
-  },
-  {
-   "title": "A lost dog, a chance encounter and a tearful reunion after the storm",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_61626aac-ce25-4c4e-bd1e-2b717c632035.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A scared, starving dog wandering a church's prayer garden in Munster turned into an emotional reunion for a Gary couple whose home was destroyed in the Aug. 11 storm.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/15/e153f80e-446c-40a1-9a3a-f94dfa891640/6aa065753f5f1.image.jpg?resize=300%2C195",
-   "age": "1d ago",
-   "published": "2026-09-09T12:15:00+00:00"
-  },
-  {
-   "title": "Don’t know what to say to someone with cancer? Start here. | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_8af33b6c-ca4e-49cd-8656-f46e072e396c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "One lonely cancer patient awaiting radiation treatment changed everything. Now a cancer survivor is delivering comfort, kindness and hope to strangers across Northwest I…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/6a/06af4562-af6b-4230-a638-889b33e74e60/6a9f16bb53da2.image.jpg?resize=300%2C225",
-   "age": "2d ago",
-   "published": "2026-09-08T12:15:00+00:00"
   }
  ]
 }
