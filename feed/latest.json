@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-10T06:09:50+00:00",
+ "generated": "2026-09-10T11:34:06+00:00",
  "count": 40,
  "withImage": 35,
  "bearsDay": false,
@@ -11,112 +11,124 @@
   "Catchfence",
   "Defense News",
   "Fox News",
-  "Hendrick Motorsports",
-  "NASCAR.com",
+  "Frontstretch",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Yahoo Sports"
+  "Yahoo Sports",
+  "nascar.com"
  ],
  "items": [
   {
-   "title": "UBS CEO flags investor complacency as geopolitical and economic risks mount",
-   "url": "https://www.cnbc.com/2026/09/10/ubs-ceo-sergio-ermotti-investor-complacency-piling-risks-.html",
+   "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
+   "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The UBS top boss cautioned that investors face an increasingly complicated environment given multiple headwinds.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108360932-1788997814309-gettyimages-2259298040-SWITZERLAND_UBS.jpeg?v=1788998009&amp;w=1920&amp;h=1080",
-   "age": "6m ago",
-   "published": "2026-09-10T06:02:51+00:00"
+   "summary": "Macy's posted strong second fiscal quarter results on Thursday and raised its full-year guidance.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108022914-1724167828097-gettyimages-2162820740-US_PERSONAL_SPENDING.jpeg?v=1729111154&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-09-10T11:29:46+00:00"
   },
   {
-   "title": "World’s largest contract chipmaker TSMC sees August revenue surge over 53% to record high",
-   "url": "https://www.cnbc.com/2026/09/10/tsmc-august-revenue-chip-ai.html",
+   "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap",
+   "url": "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "TSMC reported monthly sales revenue for August on Thursday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108131999-17447197412025-04-15t055242z_53170504_rc25ydapqicb_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&amp;w=1920&amp;h=1080",
-   "age": "21m ago",
-   "published": "2026-09-10T05:47:52+00:00"
+   "summary": "The deal hands the continent's space industry a commercial boost as governments push for greater sovereign capabilities.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108003406-1720552729130-Ariane_6_first_liftoff.png?v=1720553006&amp;w=1920&amp;h=1080",
+   "age": "7m ago",
+   "published": "2026-09-10T11:26:16+00:00"
   },
   {
-   "title": "Coinbase CEO sees U.S. crypto regulation advancing regardless of Clarity Act vote",
-   "url": "https://www.cnbc.com/2026/09/10/coinbase-ceo-brian-armstrongto-us-regulatory-clarity-regardless-of-clarity-act-vote-crypto.html",
+   "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
+   "url": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/X6QLQ6JERZCIJL3SNAWW4NZMG4.jpg",
+   "age": "19m ago",
+   "published": "2026-09-10T11:14:42+00:00"
+  },
+  {
+   "title": "Illegal immigrant charged with nightmare kidnapping and sexual assault of 6-year-old girl in New Jersey",
+   "url": "https://www.foxnews.com/us/illegal-immigrant-charged-nightmare-kidnapping-sexual-assault-6-year-old-girl-new-jersey",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "An illegal immigrant from Guatemala allegedly kidnapped a 6-year-old girl from her New Jersey home and sexually assaulted her, investigators say.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Washington-Township-New-Jersey.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-09-10T11:00:46+00:00"
+  },
+  {
+   "title": "Let socialists rob from the rich 100% and you still won’t be able to pay the bills",
+   "url": "https://www.foxnews.com/opinion/let-socialists-rob-rich-100-percent-still-wont-able-pay-bills",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Tax the rich sounds simple, but Cato Institute estimates show seizing all top 400 billionaires wealth covers just 9% of the DSA s $71 trillion platform.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/elon-musk-trump-house-republicans-meeting.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-09-10T11:00:36+00:00"
+  },
+  {
+   "title": "9/11 death toll keeps growing decades later as toxic exposure haunts survivors",
+   "url": "https://www.foxnews.com/health/9-11-death-toll-keeps-growing-decades-later-toxic-exposure-haunts-survivors",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Volunteer EMT Mordechai Shedrowitzky shares how Ground Zero dust exposure led to years of hospitalizations, steroids and a rare airway disease diagnosis.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/9-11-first-responders-toxic-dust.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-09-10T11:00:35+00:00"
+  },
+  {
+   "title": "Trump's stunning vow steals show during night one keynote at GOP midterm convention and more top headlines",
+   "url": "https://www.foxnews.com/us/trumps-stunning-vow-steals-show-during-night-one-keynote-gop-midterm-convention-more-top-headlines",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/trump-midterm-convention-2.jpg?ve=1&tl=1",
+   "age": "40m ago",
+   "published": "2026-09-10T10:53:23+00:00"
+  },
+  {
+   "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
+   "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Coinbase CEO Brian Armstrong says U.S. crypto regulation could move forward regardless of the outcome of the Clarity Act.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108360980-1789007313713-gettyimages-2290597034-AFP_C62U9KQ.jpeg?v=1789007347&amp;w=1920&amp;h=1080",
+   "summary": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
+   "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&amp;w=1920&amp;h=1080",
    "age": "44m ago",
-   "published": "2026-09-10T05:24:52+00:00"
+   "published": "2026-09-10T10:49:29+00:00"
   },
   {
-   "title": "Ex-NFL cheerleader battles former gubernatorial aide in tight GOP primary race",
-   "url": "https://www.foxnews.com/politics/ex-nfl-cheerleader-battles-former-governor-aide-too-close-to-call-gop-primary",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Elaine Pelino and Aaron Guckian are locked in a Rhode Island Republican primary too close to call as the GOP eyes a historically blue state.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Aaron-Guckian-and-Elaine-Pelion.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-10T05:00:02+00:00"
-  },
-  {
-   "title": "An ECB rate hike is ‘all but certain’ — but investors divided on what comes next",
-   "url": "https://www.cnbc.com/2026/09/10/ecb-interest-rate-hike-lagarde-iran.html",
+   "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
+   "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The central bank is contending with rising prices, the consequences of the U.S.-Iran war, and surging government borrowing costs.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108320235-1781186107366-gettyimages-2280390387-GERMANY_ECB.jpeg?v=1781186133&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-10T05:00:02+00:00"
-  },
-  {
-   "title": "Drake Maye's terrible decision gifts Seahawks opening night win as Patriots left stunned to start NFL season",
-   "url": "https://www.foxnews.com/outkick-sports/drake-maye-terrible-decision-gifts-seahawks-opening-night-win-patriots-left-stunned-start-nfl-season",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Josh Jobe s acrobatic end-zone interception sealed the Seattle Seahawks 13-10 win, as Drake Maye threw three picks in the NFL season opener.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/drake-maye-patriots-seahawks-lumen-field.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-10T04:10:00+00:00"
-  },
-  {
-   "title": "Trump makes stunning first-of-its-kind cash promise in bid to rally GOP voters at Dallas midterm convention",
-   "url": "https://www.foxnews.com/politics/trump-makes-stunning-first-of-its-kind-cash-promise-bid-rally-gop-voters-dallas-midterm-convention",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "President Donald Trump promised a $5,000 Trump dividend to every adult citizen if Republicans keep Congress at the GOP midterm convention.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-midterm-convention-3.jpg?ve=1&tl=1",
+   "summary": "U.S. President Donald Trump has urged Iran \"not to get cute\" over activity at a suspected nuclear site on Pickaxe Mountain.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108338300-1784699984719-gettyimages-2265551532-ir_12_tunnel_construction_spoil_pile_nuclear_site_nov14_2025_vantor.jpeg?v=1784734321&amp;w=1920&amp;h=1080",
    "age": "2h ago",
-   "published": "2026-09-10T03:20:25+00:00"
+   "published": "2026-09-10T09:03:53+00:00"
   },
   {
-   "title": "Patriots' AJ Brown exits NFL season opener against Seahawks, ruled out with ankle injury",
-   "url": "https://www.foxnews.com/outkick-sports/patriots-aj-brown-exits-nfl-season-opener-against-seahawks-ruled-out-ankle-injury",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "New England Patriots newcomer A.J. Brown walked to the locker room wearing one cleat after receiving medical attention on the field in Week 1.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/AJ-Brown-holds-ankle.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-10T02:55:53+00:00"
-  },
-  {
-   "title": "Fetterman teases where his true loyalty lies after surprise appearance at GOP convention",
-   "url": "https://www.foxnews.com/politics/fetterman-teases-true-loyalty-surprise-appearance-gop-convention",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Senate Democrat John Fetterman drew a hard line after introducing Dave McCormick at the Republican National Committee s midterm convention.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/john-fetterman-and-chuck-schumer.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-10T02:55:14+00:00"
+   "title": "How Japan, South Korea are building up naval capabilities for China threat",
+   "url": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Japan and South Korea are stepping up their naval game in the face of China s phenomenal expansion.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/ASEV-e1788961707626-1024x577.jpg",
+   "age": "5h ago",
+   "published": "2026-09-10T06:29:00+00:00"
   },
   {
    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -126,7 +138,7 @@
    "topic": "ai",
    "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-10T00:00:37+00:00"
   },
   {
@@ -137,7 +149,7 @@
    "topic": "defense",
    "summary": "The U.S. arm of Israeli-based Elbit Systems has rebranded to Twenty-Six Defense, a new name that emphasizes the subsidiary’s American-made brand.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QI4DQZGWYBACXAFL6D2AJUXCVA.webp",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-09-09T23:32:12+00:00"
   },
   {
@@ -148,7 +160,7 @@
    "topic": "ai",
    "summary": "Mullenweg said in a company Slack message that it was against his will.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-09-09T23:14:29+00:00"
   },
   {
@@ -159,7 +171,7 @@
    "topic": "ai",
    "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-09T22:25:22+00:00"
   },
   {
@@ -170,7 +182,7 @@
    "topic": "defense",
    "summary": "DAWG is Trump administration initiative that essentially absorbed the Biden-era Replicator initiative designed to acquire thousands of low-cost “attritable” drones, part…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260909_DVIDS_soldier_drone_9918644-scaled-e1788991336218-1024x577.jpg",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-09T22:02:35+00:00"
   },
   {
@@ -181,7 +193,7 @@
    "topic": "ai",
    "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-09T21:43:34+00:00"
   },
   {
@@ -192,19 +204,8 @@
    "topic": "defense",
    "summary": "The strike hit an energy processing plant 1,700 miles from the Ukrainian border in Russia's gas-rich Arctic region. The post Ukraine Carried Out Its Deepest Drone Strike…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Long-Range-Gas-Plant-Attack.jpg?quality=85",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-09-09T21:32:35+00:00"
-  },
-  {
-   "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-   "url": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800",
-   "age": "9h ago",
-   "published": "2026-09-09T20:58:09+00:00"
   },
   {
    "title": "4 groups caught using the same Chrome and Windows exploit kit",
@@ -214,7 +215,7 @@
    "topic": "ai",
    "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-09-09T20:55:02+00:00"
   },
   {
@@ -225,7 +226,7 @@
    "topic": "defense",
    "summary": "The Navy is applying lessons learned from recent marathon carrier cruises to the USS Theodore Roosevelt, which conducted an unreported maintenance availability ahead of …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/TWZ-Aircraft-Carrier-Fleet-Tracker-as-of-September-9-2026-Topper.png?quality=85",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-09-09T20:49:19+00:00"
   },
   {
@@ -236,7 +237,7 @@
    "topic": "ai",
    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-09T20:27:40+00:00"
   },
   {
@@ -247,7 +248,7 @@
    "topic": "defense",
    "summary": "The ramjet-powered vehicle could give researchers and developers a new way to put hardware into sustained high-Mach flight environments. The post Hermeus Unveils Air-Lau…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/RamJet-X_04_Still.jpg?quality=85",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-09T20:23:34+00:00"
   },
   {
@@ -258,19 +259,8 @@
    "topic": "ai",
    "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg",
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-09-09T20:06:28+00:00"
-  },
-  {
-   "title": "Trump says oil and gas prices won't fall until 'right after' midterm election",
-   "url": "https://www.cnbc.com/2026/09/09/trump-oil-gas-prices-midterm-elections.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "President Donald Trump said energy prices that have been elevated due to the Iran war will not come down until after the midterm elections.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108360721-17889788012026-09-09t183035z_1818758107_rc2ufnag30cz_rtrmadp_0_usa-trump.jpeg?v=1788978818&amp;w=1920&amp;h=1080",
-   "age": "10h ago",
-   "published": "2026-09-09T19:52:11+00:00"
   },
   {
    "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
@@ -280,7 +270,7 @@
    "topic": "ai",
    "summary": "Apple's first foldable can be yours next month.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-1152x648.jpg",
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-09-09T19:42:00+00:00"
   },
   {
@@ -291,7 +281,7 @@
    "topic": "defense",
    "summary": "The move prompted lawmaker concern, but Army CTO Alex Miller downplayed the flap, saying the service just may not have told the full story fast enough.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9898290-scaled-e1788979614866-1024x577.jpg",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-09-09T19:25:00+00:00"
   },
   {
@@ -302,7 +292,7 @@
    "topic": "defense",
    "summary": "The UAV is designed to detect and engage high-value, time-sensitive targets at long range, the company said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260909_MSPO_warmate30_BART-scaled-e1788974272519-1024x577.jpg",
-   "age": "11h ago",
+   "age": "16h ago",
    "published": "2026-09-09T18:43:00+00:00"
   },
   {
@@ -313,19 +303,8 @@
    "topic": "defense",
    "summary": "A Navy destroyer made a port call to Africa last week as the U.S. military considers new destinations for its warships amid longer deployments to support the war with Ir…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/USS-Ross.jpeg",
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-09-09T18:19:39+00:00"
-  },
-  {
-   "title": "Lockheed Martin secures $950M Australian air battle management contract",
-   "url": "https://breakingdefense.com/2026/09/lockheed-martin-secures-950m-australian-air-battle-management-contract/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Lockheed Martin says the enhancements under Australia’s Project AIR6500 Tranche 2B will establish a “scalable path” for future improvements and integration of future tec…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/20260617raaf8700656_0003-1024x576.jpg",
-   "age": "12h ago",
-   "published": "2026-09-09T17:30:00+00:00"
   },
   {
    "title": "First Look At General Atomics’ Wildfire, Its Successor To The MQ-9 Reaper (Updated)",
@@ -335,7 +314,7 @@
    "topic": "defense",
    "summary": "The USAF is hunting for new lower-cost armed drones to perform the same missions as the MQ-9 in the wake of huge Reaper losses. The post First Look At General Atomics Wi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/general-atomics-wildfire-mq-9-successor-first-look_60d11c.jpg?quality=85",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-09-09T17:26:31+00:00"
   },
   {
@@ -346,7 +325,7 @@
    "topic": "defense",
    "summary": "The Royal Navy’s HMS Queen Elizabeth (R08) departed Saturday from Portsmouth, England, for a three-month deployment as the aircraft carrier prepares to return as the U.K…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/HRh0_j8akAAVOHD.jpeg",
-   "age": "13h ago",
+   "age": "18h ago",
    "published": "2026-09-09T16:38:49+00:00"
   },
   {
@@ -357,7 +336,7 @@
    "topic": "defense",
    "summary": "The Swedish government has tapped Saab to continue work on a next-generation fighter jet concept, keeping a wholly domestic iron in the fire.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XSEVXALHNNFXHIIH3MQP2CR43U.jpg",
-   "age": "14h ago",
+   "age": "19h ago",
    "published": "2026-09-09T15:52:02+00:00"
   },
   {
@@ -368,7 +347,7 @@
    "topic": "defense",
    "summary": "Recent attacks by the U.S. and Iran have shattered a month of relative calm, with both hitting military, shipping and energy assets.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2L3FJVREK5B6FLWYCY5WTKBCCU.JPG",
-   "age": "14h ago",
+   "age": "20h ago",
    "published": "2026-09-09T15:30:08+00:00"
   },
   {
@@ -379,30 +358,30 @@
    "topic": "defense",
    "summary": "The following is “Unseen Impacts: An Investigation into the Navy’s Response to Potential Traumatic Brain Injury and Mental Health Risks in Naval Aviation” published on S…",
    "image": null,
-   "age": "15h ago",
+   "age": "20h ago",
    "published": "2026-09-09T14:48:12+00:00"
   },
   {
-   "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
-   "url": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V6I2UDVZG5GU5OE7Y47WN3WP5Q.jpg",
-   "age": "16h ago",
-   "published": "2026-09-09T13:38:38+00:00"
+   "title": "Beyond doctors and nurses: The healthcare jobs hiding in plain sight.",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_2f30f4c5-7c8a-4a79-8443-8195b7b05ece.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Don’t just look at the healthcare jobs you already know. Look behind the hospital doors. There might be a career there you’ve never heard of.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/0a/e0a9672a-b008-4260-bd25-96272d92fdca/69e801dd3dfac.image.jpg?resize=300%2C200",
+   "age": "22h ago",
+   "published": "2026-09-09T13:00:00+00:00"
   },
   {
-   "title": "US Navy’s next-generation fighter decision to be unveiled soon, sources say",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TXGOMRWIQBGFXGOB64RKHTERYU.JPG",
-   "age": "16h ago",
-   "published": "2026-09-09T13:30:36+00:00"
+   "title": "A lost dog, a chance encounter and a tearful reunion after the storm",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_61626aac-ce25-4c4e-bd1e-2b717c632035.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A scared, starving dog wandering a church's prayer garden in Munster turned into an emotional reunion for a Gary couple whose home was destroyed in the Aug. 11 storm.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/15/e153f80e-446c-40a1-9a3a-f94dfa891640/6aa065753f5f1.image.jpg?resize=300%2C195",
+   "age": "23h ago",
+   "published": "2026-09-09T12:15:00+00:00"
   },
   {
    "title": "Updated: Navy, Marines Interdict Fifth Suspected Narco Refueling Station",
@@ -416,15 +395,15 @@
    "published": "2026-09-08T20:09:32+00:00"
   },
   {
-   "title": "NASCAR paint scheme preview: WWT Raceway awaits Hendrick Motorsports Chevrolets",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3R0cWxDUHEwcWpPTG0yYXNEeGJlYkNoblJndW0zNDhDaGVTMjA3OW53VWRjenJ0cUdIanhSVWRiUVFrcUJKaGszekxSNjVQWHlwb1RXSnc4VVBmbjVjY1FNMFFWSjFPRll3X2Z1NmVxQVFJN1lpX3VXNlhIT2hTM051QnZ5NVRFOGd6OHBIdnNfR3hoelpfTnhHUV83RjlXNnNvOWw5NTdaSkhEX2NuYkNUQVN4SVhua0Z1NEJGUWJsX3ZpSWYxemh6bk12UkpRX01ob0VR?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
+   "title": "Don’t know what to say to someone with cancer? Start here. | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_8af33b6c-ca4e-49cd-8656-f46e072e396c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "One lonely cancer patient awaiting radiation treatment changed everything. Now a cancer survivor is delivering comfort, kindness and hope to strangers across Northwest I…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/6a/06af4562-af6b-4230-a638-889b33e74e60/6a9f16bb53da2.image.jpg?resize=300%2C225",
    "age": "1d ago",
-   "published": "2026-09-08T14:34:41+00:00"
+   "published": "2026-09-08T12:15:00+00:00"
   },
   {
    "title": "NASCAR Just Gave William Byron a Massive Reality Check",
@@ -434,13 +413,24 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-08T09:21:29+00:00"
+  },
+  {
+   "title": "Up to Speed: Hendrick Motorsports in Danger of Worst Season in 33 Years",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFBBTWhFd2hsbTNTSUFHNlptRWplaUtuUEVFWE90UGo2cmx5UHloaExxdkF4dXpCVzRkb1cwLThkcXMtejRlSkV2NFFoSkJDTk5YSWFmaHhpay1ObkRndGJqdHFvV1dLSVZiQzdlSjJST3ZaUDVDVzhRZnRGcW11UnJDTVdMUHo3Nl9FWjg4bw?oc=5",
+   "source": "Frontstretch",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "2d ago",
+   "published": "2026-09-08T01:19:31+00:00"
   },
   {
    "title": "William Byron spins, suffers mechanical failure in Chase opener",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVM2cUtCYUROT1FuWFpaUk83TTA4VFhUXzN2MlY5V0xnUjZXRnZOYU9XaXA4RElMYWUyOHpJdWNVNmJvS0tuWVJuQmEyMGJuakhHenNMOXRwV3VJeTc4YUh6a0VWbVJxdV9hSUd3cXhJYmxFVGROVzgzTFQ1Zkxjd0huZy11WVVCS2w4SFZxQjQ5YXhSRGtsaUx4OGw1dlpBTjZJdFZFSkNjbEF1ZE1FajdB?oc=5",
-   "source": "NASCAR.com",
+   "source": "nascar.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
@@ -458,6 +448,17 @@
    "image": null,
    "age": "3d ago",
    "published": "2026-09-07T03:18:38+00:00"
+  },
+  {
+   "title": "You still have time: 5 things to do before summer slips away",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9ad60c15-5fb7-453a-9067-c6dfec298dc1.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Labor Day weekend reminder: Five things to squeeze in before summer slips through your fingers — and none require a reservation, a suitcase or a fat wallet.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/88/a88427c6-8375-49eb-bdd7-e713710d48dd/6a9d92f25702c.image.jpg?resize=300%2C225",
+   "age": "3d ago",
+   "published": "2026-09-06T17:00:00+00:00"
   }
  ]
 }
