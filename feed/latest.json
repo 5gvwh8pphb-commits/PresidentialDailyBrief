@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-10T15:26:08+00:00",
+ "generated": "2026-09-10T18:35:36+00:00",
  "count": 40,
- "withImage": 34,
+ "withImage": 35,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,16 +10,268 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "Frontstretch",
   "Hendrick Motorsports",
   "NASCAR.com",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Yahoo Sports"
+  "heavy.com"
  ],
  "items": [
+  {
+   "title": "Israeli military creates new branch focused on AI, drones and robotics",
+   "url": "https://breakingdefense.com/2026/09/israeli-military-creates-new-branch-focused-on-ai-drones-and-robotics/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt. Gen. Eyal Zamir said.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220503_firefly_drone_soldier-e1651591684674-1024x577.jpg",
+   "age": "5m ago",
+   "published": "2026-09-10T18:30:00+00:00"
+  },
+  {
+   "title": "Packers RB Josh Jacobs pleads no contest to domestic charges setting him up for an NFL suspension",
+   "url": "https://www.foxnews.com/outkick-sports/packers-rb-josh-jacobs-pleads-no-contest-domestic-charges-nfl-suspension",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Josh Jacobs pleaded no contest to misdemeanor battery and damage to property charges tied to his ex-girlfriend and now faces a likely NFL suspension.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nfl-packers-josh-jacobs-083026-1.jpg?ve=1&tl=1",
+   "age": "12m ago",
+   "published": "2026-09-10T18:22:55+00:00"
+  },
+  {
+   "title": "Trump's $1 trillion-plus 'dividend' plan meets immediate bipartisan pushback",
+   "url": "https://www.cnbc.com/2026/09/10/trump-dividend-midterms-gop.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Such a payout could cost more than $1 trillion and is likely to face legal obstacles.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&amp;w=1920&amp;h=1080",
+   "age": "16m ago",
+   "published": "2026-09-10T18:19:16+00:00"
+  },
+  {
+   "title": "Corey Day Reaches Massive Deal With Hendrick Motorsports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcjVqTzhoYmJJRF9JUWNZYkl0enRyUkIyQ2RfZVhVQkZ3WS1uOC1BQk8yQm52NGVEV3ZUY2dIa0ZFaVJQSHJHTWx1UkFyRHV5c0thcU5SNVF4TWJrVUtJd0FicnZzMHNOdjUyZ2tGYXc2d1h3cUF5WHE3emtJbE9nTzdiTjBuaTJLZHRXbg?oc=5",
+   "source": "heavy.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "17m ago",
+   "published": "2026-09-10T18:18:25+00:00"
+  },
+  {
+   "title": "Lindsay Clancy fixation and alleged plot to poison husband emerge as accused mom claims psychosis",
+   "url": "https://www.foxnews.com/us/lindsay-clancy-fixation-alleged-plot-poison-husband-emerge-accused-mom-claims-psychosis",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Corie A. Walsh s defense team claims a psychotic episode led to her son s death, but prosecutors allege she also had a plot to poison her husband.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/corie-walsh-split-003.jpg?ve=1&tl=1",
+   "age": "17m ago",
+   "published": "2026-09-10T18:18:07+00:00"
+  },
+  {
+   "title": "Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation",
+   "url": "https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Boring Co.'s latest $3 billion financing round was led by the United Arab Emirates.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&amp;w=1920&amp;h=1080",
+   "age": "19m ago",
+   "published": "2026-09-10T18:15:59+00:00"
+  },
+  {
+   "title": "Wedding called off due to Lindsay Clancy trial reaction, caca bucket used in affair ambush & innocently flirty",
+   "url": "https://www.foxnews.com/outkick-culture/wedding-called-off-lindsay-clancy-trial-reaction-caca-bucket-used-affair-ambush-innocently-flirty",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A Texas man s viral TikTok reveals he canceled his $200,000 wedding over his fiancée s reaction to the Lindsay Clancy trial just weeks before the ceremony.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lindsay-clancy-trial-courtroom-testimony.jpg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-09-10T18:11:18+00:00"
+  },
+  {
+   "title": "Corey Day signs long-term contract extension with Hendrick Motorsports; will make Cup debut in '27",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNjJTSEo4M0s5a3IyX3pfaTJCQnhwa3U1c2x2eXlEUk5Jb1RCbU5GdUp1NElKTVFWNXNXRE1ISGZjOVpxdjRPRUZRTzhlWUxRVlBtd21LZGtWS2NRdTNrVC1HUnZmWm82RjBiSzFfN0RqNkRfVUtDaTNpOU5xR19fZ0VfekJySkx4eWJydV9GWUZIeTExNFBsek8tWm5DYlRMM19aZng0clhHYnR0V212WV9ZQV92WjBDN2EzX0pBOGFsbW12WUJyQ1dhM1pqVVo3a3l0ZU9zMEtHdw?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "24m ago",
+   "published": "2026-09-10T18:10:50+00:00"
+  },
+  {
+   "title": "Amazon makes it easier to buy what you see on Prime Video",
+   "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Amazon is expanding shopping integrations across Prime Video, letting viewers discover products tied to thousands of shows, movies, and live sports through X-Ray, its sh…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/3.-X-Ray-Shop-Tab.png?resize=1200,675",
+   "age": "25m ago",
+   "published": "2026-09-10T18:10:36+00:00"
+  },
+  {
+   "title": "Caitlin Clark, Angel Reese show unity for Team USA at World Cup amid tense history",
+   "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-angel-reese-show-unity-team-usa-world-cup-amid-tense-history",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Caitlin Clark and Angel Reese connected repeatedly as Team USA set a Women s World Cup quarterfinal scoring record in a dominant win over Hungary.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/clark-reese-usa.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-09-10T18:03:27+00:00"
+  },
+  {
+   "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
+   "url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "OpenAI launched ChatGPT for Financial Services, targeting the labor-intensive research, modeling, and pitchbook tasks traditionally handled by junior bankers.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108361349-1789061236185-gettyimages-2221337331-kokovlis-notitle250625_npN2j.jpeg?v=1789061264&amp;w=1920&amp;h=1080",
+   "age": "34m ago",
+   "published": "2026-09-10T18:01:08+00:00"
+  },
+  {
+   "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+   "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676",
+   "age": "40m ago",
+   "published": "2026-09-10T17:54:44+00:00"
+  },
+  {
+   "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+   "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
+   "age": "50m ago",
+   "published": "2026-09-10T17:45:00+00:00"
+  },
+  {
+   "title": "AI is losing its stranglehold on the U.S. stock market. Here's why",
+   "url": "https://www.cnbc.com/2026/09/10/ai-is-losing-its-stranglehold-on-the-us-stock-market-heres-why.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "A key tech-stock volatility metric options traders have been watching all year is reversing.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108357833-1788364301709-Traders-OB-20260902-ACJ-PRESS-8.jpg?v=1788364539&amp;w=1920&amp;h=1080",
+   "age": "53m ago",
+   "published": "2026-09-10T17:42:24+00:00"
+  },
+  {
+   "title": "3 Killed in Strike on Alleged Drug Boat",
+   "url": "https://news.usni.org/2026/09/10/3-killed-in-strike-on-alleged-drug-boat",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "U.S. forces with Joint Task Force Western Hemisphere struck a go-fast vessel in the Caribbean, killing three people, U.S. Southern Command announced late Wednesday. The …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.22.10-PM-scaled.png",
+   "age": "57m ago",
+   "published": "2026-09-10T17:38:24+00:00"
+  },
+  {
+   "title": "DoD cyber strategy aims for ‘something big, something muscular’ in offensive ops",
+   "url": "https://breakingdefense.com/2026/09/dod-cyber-strategy-aims-for-something-big-something-muscular-in-offensive-ops/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "It s about driving big outcomes and giving the secretary and the president options, more options. We want to move away from things that look like persistent engagement, …",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/6762559-scaled-e1782151740819-1024x577.jpg",
+   "age": "1h ago",
+   "published": "2026-09-10T17:15:00+00:00"
+  },
+  {
+   "title": "Overlooking the obvious: The most likely way AI can enable terror attacks",
+   "url": "https://breakingdefense.com/2026/09/overlooking-the-obvious-the-most-likely-way-ai-can-enable-terror-attacks/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Nightmare scenarios of AI-engineered super-plagues or nuclear bombs have, understandably, attracted the most attention. But there is lots of lower-hanging fruit for terr…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/ai-terorist-scaled-e1788447525594-1024x577.jpg",
+   "age": "1h ago",
+   "published": "2026-09-10T17:00:00+00:00"
+  },
+  {
+   "title": "Operational F-15EXs Drop Live Bombs For The First Time",
+   "url": "https://www.twz.com/air/operational-f-15exs-drop-live-bombs-for-the-first-time",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The first unit to get the F-15EX is already moving away from its exclusive air-to-air mission roots. The post Operational F-15EXs Drop Live Bombs For The First Time appe…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/F-15EX-WITH-LIVE-BOMB-1.jpg?quality=85",
+   "age": "1h ago",
+   "published": "2026-09-10T16:49:52+00:00"
+  },
+  {
+   "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
+   "url": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Instagram-tagged-posts.png?resize=1200,675",
+   "age": "2h ago",
+   "published": "2026-09-10T16:31:25+00:00"
+  },
+  {
+   "title": "With reconciliation uncertain, Pentagon eyeing plan to retool FY27 priorities with Congress",
+   "url": "https://breakingdefense.com/2026/09/with-reconciliation-uncertain-pentagon-eyeing-plan-to-retool-fy27-priorities-with-congress/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "In exclusive comments to Breaking Defense, the Pentagon s comptroller acknowledged that some efforts may need to be pushed from FY27 into FY28 with help from lawmakers.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/jules-hurst-april-29-scaled-e1777486646940-1024x577.jpg",
+   "age": "2h ago",
+   "published": "2026-09-10T16:30:10+00:00"
+  },
+  {
+   "title": "Navy Destroyer Packs New ‘Piggy-Backed’ Point Defense System That Combines 30mm And .50 Cal Guns",
+   "url": "https://www.twz.com/sea/navy-destroyer-packs-new-piggy-backed-point-defense-system-that-combines-30mm-and-50-cal-guns",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The Mk 38 Mod 4 offers a major capability boost, especially against drones, and is now installed on at least one destroyer. The post Navy Destroyer Packs New Piggy-Backe…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/mk-38-mod-4-gun-weapon-system-on-uss-mustin.jpg?quality=85",
+   "age": "2h ago",
+   "published": "2026-09-10T16:12:29+00:00"
+  },
+  {
+   "title": "Sailors, Marines Deploy Long-range Missile Systems to Norway for Drills",
+   "url": "https://news.usni.org/2026/09/10/sailors-marines-deploy-long-range-missile-systems-to-norway-for-drills",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part o…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
+   "age": "2h ago",
+   "published": "2026-09-10T16:07:37+00:00"
+  },
+  {
+   "title": "Corey Day signs long-term contract extension with Hendrick Motorsports",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR0ZIMDlkanVQV3A5VVlyRTVMZ0VYUS1lUktCN0tYS2sxclpyWDA4UFRlWkV5cDVubnFmWERQWVVqX2NSNHNxLUtGN2pMM1k2WHJ4bnBCTVBwbkRaTVNPZnNwWFhXRDc2S2ZuLWVZaG92ajFVMXlCUlpXZS1TaXdiYmVpR2dqTmJ4NFdyWU1xVXdISFNZRFJyUF9DbFBTQ1M4b1dUd3l3cVhVZFNkazJSTFlKckJsekp3cFZhNTN3SDBKQ1lwd1NpTw?oc=5",
+   "source": "Hendrick Motorsports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3h ago",
+   "published": "2026-09-10T15:29:15+00:00"
+  },
   {
    "title": "General Atomics unveils ‘Wildfire’ drone to replace Reaper",
    "url": "https://breakingdefense.com/2026/09/general-atomics-unveils-wildfire-drone-to-replace-reaper/",
@@ -28,129 +280,8 @@
    "topic": "defense",
    "summary": "Pitched for the Massed Modular Aircraft program run by the Air Force and Defense Innovation Unit, General Atomics says its new drone design can exceed requirements set b…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Wildfire-1024x576.jpg",
-   "age": "9m ago",
+   "age": "3h ago",
    "published": "2026-09-10T15:17:03+00:00"
-  },
-  {
-   "title": "9/11 hero Welles Crowther's firehouse president reveals what shaped the 'man in the red bandana'",
-   "url": "https://www.foxnews.com/us/9-11-hero-welles-crowther-firehouse-president-reveals-what-shaped-man-red-bandana",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Welles Crowther s volunteer firehouse shaped the hero who saved 18 lives on 9/11. Its president reveals how training and community forged the legend.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Crowther_Empire.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-09-10T15:12:19+00:00"
-  },
-  {
-   "title": "The Boring Company raises $3B in round led by UAE",
-   "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
-   "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770",
-   "age": "18m ago",
-   "published": "2026-09-10T15:07:27+00:00"
-  },
-  {
-   "title": "Riley Green reveals how he builds his concert setlist with fans always as the top priority",
-   "url": "https://www.foxnews.com/outkick-culture/riley-green-reveals-how-he-builds-concert-setlist-fans-always-top-priority",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Riley Green revealed to Pat McAfee on Spotify how he builds every concert setlist by thinking like a working fan who saved up to buy a ticket.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Riley_Green_Lookout_Mountain.jpeg?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-09-10T15:03:40+00:00"
-  },
-  {
-   "title": "9/11 hero’s memory preserved through massive effort to ‘do good’ for vets, first responders: ‘His legacy’",
-   "url": "https://www.foxnews.com/politics/911-heros-memory-preserved-through-massive-effort-do-good-vets-first-responders-his-legacy",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tunnel to Towers 343 Homes Initiative honors Stephen Siller and the 9/11 firefighters with mortgage-free homes for fallen first responders families.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/new-york-firefighters.png?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-09-10T15:03:12+00:00"
-  },
-  {
-   "title": "Supreme Court again blocks Missouri from using Trump-backed congressional maps",
-   "url": "https://www.foxnews.com/politics/supreme-court-again-blocks-missouri-from-using-trump-backed-congressional-maps",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/gettyimages-2175611452.jpg?ve=1&tl=1",
-   "age": "25m ago",
-   "published": "2026-09-10T15:00:50+00:00"
-  },
-  {
-   "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
-   "url": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108203208-1758714033778-gettyimages-2236595528-179178_0142.jpeg?v=1777316014&amp;w=1920&amp;h=1080",
-   "age": "30m ago",
-   "published": "2026-09-10T14:55:39+00:00"
-  },
-  {
-   "title": "AI agents are flooding public services with new requests",
-   "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
-   "age": "32m ago",
-   "published": "2026-09-10T14:53:50+00:00"
-  },
-  {
-   "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
-   "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
-   "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&amp;w=1920&amp;h=1080",
-   "age": "33m ago",
-   "published": "2026-09-10T14:52:50+00:00"
-  },
-  {
-   "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-   "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359924-1788889959959-gettyimages-2293096739-US-NEW_YORK-DIESEL_PRICE-RECORD_HIGH.jpeg?v=1788890033&amp;w=1920&amp;h=1080",
-   "age": "34m ago",
-   "published": "2026-09-10T14:51:36+00:00"
-  },
-  {
-   "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
-   "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 18 Pro.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108360732-1789051519125-108360732-17889791162026-09-09t183658z_709713620_rc2ufna9okmb_rtrmadp_0_apple-event-1.jpg?v=1789051526&amp;w=1920&amp;h=1080",
-   "age": "40m ago",
-   "published": "2026-09-10T14:45:52+00:00"
-  },
-  {
-   "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-   "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630",
-   "age": "51m ago",
-   "published": "2026-09-10T14:34:09+00:00"
   },
   {
    "title": "Iran likely to reverse-engineer captured US underwater drone",
@@ -160,19 +291,8 @@
    "topic": "defense",
    "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3EEMQBIH3VCSFMOUGCG2ERY4G4.JPG",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-09-10T14:26:04+00:00"
-  },
-  {
-   "title": "Maven Robotics wants to steal your robot deployment deal",
-   "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
-   "age": "1h ago",
-   "published": "2026-09-10T14:17:37+00:00"
   },
   {
    "title": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
@@ -182,19 +302,8 @@
    "topic": "defense",
    "summary": "Bone fragments from the sword hand of a medieval Russian prince who won a famous victory over the Mongols have been sent to the front in Ukraine.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UXR4KK4YGJC45CHFLAYYSIGS7M.JPG",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-09-10T14:16:04+00:00"
-  },
-  {
-   "title": "Emirati EDGE Group delivers six unmanned helicopters to Angolan navy",
-   "url": "https://breakingdefense.com/2026/09/emirati-edge-group-delivers-six-unmanned-helicopters-to-angolan-navy/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The unmanned helos will be integrated on three corvettes that Angola purchased for over $1 billion in 2023.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260910_EDGE_unmanned_helo_Handout_sized-1024x576.jpg",
-   "age": "1h ago",
-   "published": "2026-09-10T14:09:55+00:00"
   },
   {
    "title": "NATO allies foil Russian subsea cable sabotage plot",
@@ -204,8 +313,19 @@
    "topic": "defense",
    "summary": "The clandestine Russian operation was carried out by Moscow’s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WWD44O3FZFHHDJU7G7OWANVKR4.jpg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-09-10T13:48:21+00:00"
+  },
+  {
+   "title": "NASCAR TV schedule for Gateway: Cup, O'Reilly Series broadcast info as Hendrick Motorsports heads to St. Louis",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVWxNdG16ejZQWjFFeDVKYXYyV2x3WGduRndHdVZRWEV5aWctT0xXQ09qM2NMX1pJbi1sVmgyQVdoTXUzemt3OUJUN1VQaS11ekljYUJwc3lFd2l5c3ZZbFdBWGNxUTRQbjFfQlZES2ROenptcms2VU1mS2x3M2w3aFp4al9hbUJaT0QtQVUtclh5bjM5a0xQN2ZxclhrM01FMDI1d3liNzRZRlhZM1BveC0tclhlck5jdHFIVXkya21ObmtsZTJCWkw0VTFjeVZHMGRFVHdxVlNUajdra3owd01odlhLMl91UEhpM2ZZcVk?oc=5",
+   "source": "Hendrick Motorsports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "4h ago",
+   "published": "2026-09-10T13:47:22+00:00"
   },
   {
    "title": "U.K. 2026 Space Strategy",
@@ -215,30 +335,8 @@
    "topic": "defense",
    "summary": "The following is the U.K. Space Strategy, released Sept. 8, 2026. From the Report Space is entering a new era. One that is marked by enormous potential to transform the …",
    "image": null,
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-09-10T13:30:40+00:00"
-  },
-  {
-   "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
-   "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The Saigak APC features an active protection system that the company says can defeat up to 20 First Person View (FPV) drones, amid a proliferation of the aircraft domina…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/IMG_20260909_151632721_HDR-scaled-e1789035199684-1024x577.jpg",
-   "age": "1h ago",
-   "published": "2026-09-10T13:29:15+00:00"
-  },
-  {
-   "title": "Netherlands to purchase its own GlobalEye aircraft, on top of NATO’s order",
-   "url": "https://breakingdefense.com/2026/09/netherlands-to-purchase-its-own-globaleye-aircraft-on-top-of-natos-order/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The plane, which would be delivered in 2031, would be owned directly by the Netherlands.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/globaleye-scaled-e1750268534637-1024x577.jpg",
-   "age": "2h ago",
-   "published": "2026-09-10T13:09:19+00:00"
   },
   {
    "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
@@ -248,7 +346,7 @@
    "topic": "ai",
    "summary": "\"Artemis II is done.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090926a-lg-1152x648.jpg",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-09-10T11:30:42+00:00"
   },
   {
@@ -259,7 +357,7 @@
    "topic": "defense",
    "summary": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/X6QLQ6JERZCIJL3SNAWW4NZMG4.jpg",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-09-10T11:14:42+00:00"
   },
   {
@@ -270,7 +368,7 @@
    "topic": "defense",
    "summary": "The strike hit an energy processing plant 1,700 miles from the Ukrainian border in Russia's gas-rich Arctic region. The post Ukraine Carried Out Its Deepest Drone Strike…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Long-Range-Gas-Plant-Attack.jpg?quality=85",
-   "age": "17h ago",
+   "age": "21h ago",
    "published": "2026-09-09T21:32:35+00:00"
   },
   {
@@ -281,7 +379,7 @@
    "topic": "ai",
    "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
-   "age": "18h ago",
+   "age": "21h ago",
    "published": "2026-09-09T20:55:02+00:00"
   },
   {
@@ -292,7 +390,7 @@
    "topic": "defense",
    "summary": "The Navy is applying lessons learned from recent marathon carrier cruises to the USS Theodore Roosevelt, which conducted an unreported maintenance availability ahead of …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/TWZ-Aircraft-Carrier-Fleet-Tracker-as-of-September-9-2026-Topper.png?quality=85",
-   "age": "18h ago",
+   "age": "21h ago",
    "published": "2026-09-09T20:49:19+00:00"
   },
   {
@@ -303,19 +401,8 @@
    "topic": "ai",
    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg",
-   "age": "18h ago",
+   "age": "22h ago",
    "published": "2026-09-09T20:27:40+00:00"
-  },
-  {
-   "title": "Hermeus Unveils Air-Launched Ramjet Test Vehicle for High-Speed Experiments",
-   "url": "https://www.twz.com/air/hermeus-unveils-air-launched-ramjet-test-vehicle-for-high-speed-experiments",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The ramjet-powered vehicle could give researchers and developers a new way to put hardware into sustained high-Mach flight environments. The post Hermeus Unveils Air-Lau…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/RamJet-X_04_Still.jpg?quality=85",
-   "age": "19h ago",
-   "published": "2026-09-09T20:23:34+00:00"
   },
   {
    "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
@@ -325,7 +412,7 @@
    "topic": "ai",
    "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg",
-   "age": "19h ago",
+   "age": "22h ago",
    "published": "2026-09-09T20:06:28+00:00"
   },
   {
@@ -336,41 +423,8 @@
    "topic": "defense",
    "summary": "A Navy destroyer made a port call to Africa last week as the U.S. military considers new destinations for its warships amid longer deployments to support the war with Ir…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/USS-Ross.jpeg",
-   "age": "21h ago",
-   "published": "2026-09-09T18:19:39+00:00"
-  },
-  {
-   "title": "First Look At General Atomics’ Wildfire, Its Successor To The MQ-9 Reaper (Updated)",
-   "url": "https://www.twz.com/air/first-look-at-general-atomics-wildfire-its-successor-to-the-mq-9-reaper",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The USAF is hunting for new lower-cost armed drones to perform the same missions as the MQ-9 in the wake of huge Reaper losses. The post First Look At General Atomics Wi…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/general-atomics-wildfire-mq-9-successor-first-look_60d11c.jpg?quality=85",
-   "age": "21h ago",
-   "published": "2026-09-09T17:26:31+00:00"
-  },
-  {
-   "title": "Carrier HMS Queen Elizabeth Returns to Sea After Extended Repair Period",
-   "url": "https://news.usni.org/2026/09/09/carrier-hms-queen-elizabeth-returns-to-sea-after-extended-repair-period",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Royal Navy’s HMS Queen Elizabeth (R08) departed Saturday from Portsmouth, England, for a three-month deployment as the aircraft carrier prepares to return as the U.K…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/HRh0_j8akAAVOHD.jpeg",
-   "age": "22h ago",
-   "published": "2026-09-09T16:38:49+00:00"
-  },
-  {
-   "title": "Congressional Report on Potential TBIs, Mental Health Risks in Naval Aviation",
-   "url": "https://news.usni.org/2026/09/09/congressional-report-on-potential-tbis-mental-health-risks-in-naval-aviation",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is “Unseen Impacts: An Investigation into the Navy’s Response to Potential Traumatic Brain Injury and Mental Health Risks in Naval Aviation” published on S…",
-   "image": null,
    "age": "1d ago",
-   "published": "2026-09-09T14:48:12+00:00"
+   "published": "2026-09-09T18:19:39+00:00"
   },
   {
    "title": "Beyond doctors and nurses: The healthcare jobs hiding in plain sight.",
@@ -395,17 +449,6 @@
    "published": "2026-09-09T12:15:00+00:00"
   },
   {
-   "title": "NASCAR paint scheme preview: WWT Raceway awaits Hendrick Motorsports Chevrolets",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3R0cWxDUHEwcWpPTG0yYXNEeGJlYkNoblJndW0zNDhDaGVTMjA3OW53VWRjenJ0cUdIanhSVWRiUVFrcUJKaGszekxSNjVQWHlwb1RXSnc4VVBmbjVjY1FNMFFWSjFPRll3X2Z1NmVxQVFJN1lpX3VXNlhIT2hTM051QnZ5NVRFOGd6OHBIdnNfR3hoelpfTnhHUV83RjlXNnNvOWw5NTdaSkhEX2NuYkNUQVN4SVhua0Z1NEJGUWJsX3ZpSWYxemh6bk12UkpRX01ob0VR?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-09-08T14:34:41+00:00"
-  },
-  {
    "title": "Don’t know what to say to someone with cancer? Start here. | Davich",
    "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_8af33b6c-ca4e-49cd-8656-f46e072e396c.html",
    "source": "NWI Times",
@@ -415,50 +458,6 @@
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/6a/06af4562-af6b-4230-a638-889b33e74e60/6a9f16bb53da2.image.jpg?resize=300%2C225",
    "age": "2d ago",
    "published": "2026-09-08T12:15:00+00:00"
-  },
-  {
-   "title": "NASCAR Just Gave William Byron a Massive Reality Check",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWklQeGVsMU83aWtRZGtuNUFlMWtNZjF2ckRZYnFyekVqU3JhOVFNNWFqcVJCQk1fcXBFTXdqV2FrRDJGWjFOMUNqQXdhNEhhZ2prSVpWM0ZTTDd3S1NPMDFlRzdSelV4N2FUckh0eUZ2eE8xSEdKSjZzQlp2VnNPWVh1dVUydw?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-09-08T09:21:29+00:00"
-  },
-  {
-   "title": "Up to Speed: Hendrick Motorsports in Danger of Worst Season in 33 Years",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFBBTWhFd2hsbTNTSUFHNlptRWplaUtuUEVFWE90UGo2cmx5UHloaExxdkF4dXpCVzRkb1cwLThkcXMtejRlSkV2NFFoSkJDTk5YSWFmaHhpay1ObkRndGJqdHFvV1dLSVZiQzdlSjJST3ZaUDVDVzhRZnRGcW11UnJDTVdMUHo3Nl9FWjg4bw?oc=5",
-   "source": "Frontstretch",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-09-08T01:19:31+00:00"
-  },
-  {
-   "title": "William Byron spins, suffers mechanical failure in Chase opener",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVM2cUtCYUROT1FuWFpaUk83TTA4VFhUXzN2MlY5V0xnUjZXRnZOYU9XaXA4RElMYWUyOHpJdWNVNmJvS0tuWVJuQmEyMGJuakhHenNMOXRwV3VJeTc4YUh6a0VWbVJxdV9hSUd3cXhJYmxFVGROVzgzTFQ1Zkxjd0huZy11WVVCS2w4SFZxQjQ5YXhSRGtsaUx4OGw1dlpBTjZJdFZFSkNjbEF1ZE1FajdB?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-09-07T03:41:57+00:00"
-  },
-  {
-   "title": "You still have time: 5 things to do before summer slips away",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_9ad60c15-5fb7-453a-9067-c6dfec298dc1.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Labor Day weekend reminder: Five things to squeeze in before summer slips through your fingers — and none require a reservation, a suitcase or a fat wallet.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/88/a88427c6-8375-49eb-bdd7-e713710d48dd/6a9d92f25702c.image.jpg?resize=300%2C225",
-   "age": "3d ago",
-   "published": "2026-09-06T17:00:00+00:00"
   }
  ]
 }
