@@ -1,46 +1,255 @@
 {
- "generated": "2026-09-10T11:34:06+00:00",
+ "generated": "2026-09-10T15:26:08+00:00",
  "count": 40,
- "withImage": 35,
+ "withImage": 34,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
-  "Catchfence",
   "Defense News",
   "Fox News",
   "Frontstretch",
+  "Hendrick Motorsports",
+  "NASCAR.com",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Yahoo Sports",
-  "nascar.com"
+  "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold",
-   "url": "https://www.cnbc.com/2026/09/10/macys-m-q2-2026-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Macy's posted strong second fiscal quarter results on Thursday and raised its full-year guidance.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108022914-1724167828097-gettyimages-2162820740-US_PERSONAL_SPENDING.jpeg?v=1729111154&amp;w=1920&amp;h=1080",
-   "age": "4m ago",
-   "published": "2026-09-10T11:29:46+00:00"
+   "title": "General Atomics unveils ‘Wildfire’ drone to replace Reaper",
+   "url": "https://breakingdefense.com/2026/09/general-atomics-unveils-wildfire-drone-to-replace-reaper/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Pitched for the Massed Modular Aircraft program run by the Air Force and Defense Innovation Unit, General Atomics says its new drone design can exceed requirements set b…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Wildfire-1024x576.jpg",
+   "age": "9m ago",
+   "published": "2026-09-10T15:17:03+00:00"
   },
   {
-   "title": "Amazon backs Ariane with rocket launch orders as Europe battles to close its space gap",
-   "url": "https://www.cnbc.com/2026/09/10/amazon-ariane-rocket-launch-space-spacex.html",
+   "title": "9/11 hero Welles Crowther's firehouse president reveals what shaped the 'man in the red bandana'",
+   "url": "https://www.foxnews.com/us/9-11-hero-welles-crowther-firehouse-president-reveals-what-shaped-man-red-bandana",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Welles Crowther s volunteer firehouse shaped the hero who saved 18 lives on 9/11. Its president reveals how training and community forged the legend.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Crowther_Empire.jpg?ve=1&tl=1",
+   "age": "13m ago",
+   "published": "2026-09-10T15:12:19+00:00"
+  },
+  {
+   "title": "The Boring Company raises $3B in round led by UAE",
+   "url": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+   "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1311710604.jpg?resize=1200,770",
+   "age": "18m ago",
+   "published": "2026-09-10T15:07:27+00:00"
+  },
+  {
+   "title": "Riley Green reveals how he builds his concert setlist with fans always as the top priority",
+   "url": "https://www.foxnews.com/outkick-culture/riley-green-reveals-how-he-builds-concert-setlist-fans-always-top-priority",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Riley Green revealed to Pat McAfee on Spotify how he builds every concert setlist by thinking like a working fan who saved up to buy a ticket.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Riley_Green_Lookout_Mountain.jpeg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-09-10T15:03:40+00:00"
+  },
+  {
+   "title": "9/11 hero’s memory preserved through massive effort to ‘do good’ for vets, first responders: ‘His legacy’",
+   "url": "https://www.foxnews.com/politics/911-heros-memory-preserved-through-massive-effort-do-good-vets-first-responders-his-legacy",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Tunnel to Towers 343 Homes Initiative honors Stephen Siller and the 9/11 firefighters with mortgage-free homes for fallen first responders families.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/new-york-firefighters.png?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-09-10T15:03:12+00:00"
+  },
+  {
+   "title": "Supreme Court again blocks Missouri from using Trump-backed congressional maps",
+   "url": "https://www.foxnews.com/politics/supreme-court-again-blocks-missouri-from-using-trump-backed-congressional-maps",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/1200/675/gettyimages-2175611452.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-09-10T15:00:50+00:00"
+  },
+  {
+   "title": "Kimmel says interview with Senate candidate Talarico won't air on ABC amid FCC threats",
+   "url": "https://www.cnbc.com/2026/09/10/abc-kimmel-talarico-fcc.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The deal hands the continent's space industry a commercial boost as governments push for greater sovereign capabilities.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108003406-1720552729130-Ariane_6_first_liftoff.png?v=1720553006&amp;w=1920&amp;h=1080",
-   "age": "7m ago",
-   "published": "2026-09-10T11:26:16+00:00"
+   "summary": "ABC has come under increased pressure from the FCC, and the Trump administration has raised concerns about equal air time for political candidates.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108203208-1758714033778-gettyimages-2236595528-179178_0142.jpeg?v=1777316014&amp;w=1920&amp;h=1080",
+   "age": "30m ago",
+   "published": "2026-09-10T14:55:39+00:00"
+  },
+  {
+   "title": "AI agents are flooding public services with new requests",
+   "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+   "age": "32m ago",
+   "published": "2026-09-10T14:53:50+00:00"
+  },
+  {
+   "title": "U.S. crude oil tops $100 again – last seen in May – as market braces for prolonged Iran war",
+   "url": "https://www.cnbc.com/2026/09/10/iran-us-oil-hormuz-supply-trump-military-brent-wti.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Oil prices remain elevated amid worries that escalating tensions in the Middle East could further exacerbate supply disruptions",
+   "image": "https://image.cnbcfm.com/api/v1/image/108361128-1789043876518-gettyimages-2293792094-boivin-photoill260909_np8Q3.jpeg?v=1789043906&amp;w=1920&amp;h=1080",
+   "age": "33m ago",
+   "published": "2026-09-10T14:52:50+00:00"
+  },
+  {
+   "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+   "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108359924-1788889959959-gettyimages-2293096739-US-NEW_YORK-DIESEL_PRICE-RECORD_HIGH.jpeg?v=1788890033&amp;w=1920&amp;h=1080",
+   "age": "34m ago",
+   "published": "2026-09-10T14:51:36+00:00"
+  },
+  {
+   "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO",
+   "url": "https://www.cnbc.com/2026/09/10/apple-makes-biggest-change-to-iphone-release-cadence-in-7-years.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "In John Ternus' first launch event as CEO, Apple announced its first foldable phone and the iPhone 18 Pro.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108360732-1789051519125-108360732-17889791162026-09-09t183658z_709713620_rc2ufna9okmb_rtrmadp_0_apple-event-1.jpg?v=1789051526&amp;w=1920&amp;h=1080",
+   "age": "40m ago",
+   "published": "2026-09-10T14:45:52+00:00"
+  },
+  {
+   "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+   "url": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Miro_Header-2400x1260-copy-1536x806-1.png?resize=1200,630",
+   "age": "51m ago",
+   "published": "2026-09-10T14:34:09+00:00"
+  },
+  {
+   "title": "Iran likely to reverse-engineer captured US underwater drone",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3EEMQBIH3VCSFMOUGCG2ERY4G4.JPG",
+   "age": "1h ago",
+   "published": "2026-09-10T14:26:04+00:00"
+  },
+  {
+   "title": "Maven Robotics wants to steal your robot deployment deal",
+   "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
+   "age": "1h ago",
+   "published": "2026-09-10T14:17:37+00:00"
+  },
+  {
+   "title": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
+   "url": "https://www.defensenews.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Bone fragments from the sword hand of a medieval Russian prince who won a famous victory over the Mongols have been sent to the front in Ukraine.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UXR4KK4YGJC45CHFLAYYSIGS7M.JPG",
+   "age": "1h ago",
+   "published": "2026-09-10T14:16:04+00:00"
+  },
+  {
+   "title": "Emirati EDGE Group delivers six unmanned helicopters to Angolan navy",
+   "url": "https://breakingdefense.com/2026/09/emirati-edge-group-delivers-six-unmanned-helicopters-to-angolan-navy/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The unmanned helos will be integrated on three corvettes that Angola purchased for over $1 billion in 2023.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260910_EDGE_unmanned_helo_Handout_sized-1024x576.jpg",
+   "age": "1h ago",
+   "published": "2026-09-10T14:09:55+00:00"
+  },
+  {
+   "title": "NATO allies foil Russian subsea cable sabotage plot",
+   "url": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The clandestine Russian operation was carried out by Moscow’s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WWD44O3FZFHHDJU7G7OWANVKR4.jpg",
+   "age": "1h ago",
+   "published": "2026-09-10T13:48:21+00:00"
+  },
+  {
+   "title": "U.K. 2026 Space Strategy",
+   "url": "https://news.usni.org/2026/09/10/u-k-2026-space-strategy",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the U.K. Space Strategy, released Sept. 8, 2026. From the Report Space is entering a new era. One that is marked by enormous potential to transform the …",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-09-10T13:30:40+00:00"
+  },
+  {
+   "title": "Ukrainian Armor eyes German industry partnership for newly unveiled land vehicles",
+   "url": "https://breakingdefense.com/2026/09/ukrainian-armor-eyes-german-industry-partnership-for-newly-unveiled-land-vehicles/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Saigak APC features an active protection system that the company says can defeat up to 20 First Person View (FPV) drones, amid a proliferation of the aircraft domina…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/IMG_20260909_151632721_HDR-scaled-e1789035199684-1024x577.jpg",
+   "age": "1h ago",
+   "published": "2026-09-10T13:29:15+00:00"
+  },
+  {
+   "title": "Netherlands to purchase its own GlobalEye aircraft, on top of NATO’s order",
+   "url": "https://breakingdefense.com/2026/09/netherlands-to-purchase-its-own-globaleye-aircraft-on-top-of-natos-order/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The plane, which would be delivered in 2031, would be owned directly by the Netherlands.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/globaleye-scaled-e1750268534637-1024x577.jpg",
+   "age": "2h ago",
+   "published": "2026-09-10T13:09:19+00:00"
+  },
+  {
+   "title": "Artemis II commander and pilot become NASA's first astronaut emeriti",
+   "url": "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"Artemis II is done.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/news-090926a-lg-1152x648.jpg",
+   "age": "3h ago",
+   "published": "2026-09-10T11:30:42+00:00"
   },
   {
    "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
@@ -50,151 +259,8 @@
    "topic": "defense",
    "summary": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/X6QLQ6JERZCIJL3SNAWW4NZMG4.jpg",
-   "age": "19m ago",
+   "age": "4h ago",
    "published": "2026-09-10T11:14:42+00:00"
-  },
-  {
-   "title": "Illegal immigrant charged with nightmare kidnapping and sexual assault of 6-year-old girl in New Jersey",
-   "url": "https://www.foxnews.com/us/illegal-immigrant-charged-nightmare-kidnapping-sexual-assault-6-year-old-girl-new-jersey",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "An illegal immigrant from Guatemala allegedly kidnapped a 6-year-old girl from her New Jersey home and sexually assaulted her, investigators say.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Washington-Township-New-Jersey.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-09-10T11:00:46+00:00"
-  },
-  {
-   "title": "Let socialists rob from the rich 100% and you still won’t be able to pay the bills",
-   "url": "https://www.foxnews.com/opinion/let-socialists-rob-rich-100-percent-still-wont-able-pay-bills",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tax the rich sounds simple, but Cato Institute estimates show seizing all top 400 billionaires wealth covers just 9% of the DSA s $71 trillion platform.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/elon-musk-trump-house-republicans-meeting.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-09-10T11:00:36+00:00"
-  },
-  {
-   "title": "9/11 death toll keeps growing decades later as toxic exposure haunts survivors",
-   "url": "https://www.foxnews.com/health/9-11-death-toll-keeps-growing-decades-later-toxic-exposure-haunts-survivors",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Volunteer EMT Mordechai Shedrowitzky shares how Ground Zero dust exposure led to years of hospitalizations, steroids and a rare airway disease diagnosis.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/9-11-first-responders-toxic-dust.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-09-10T11:00:35+00:00"
-  },
-  {
-   "title": "Trump's stunning vow steals show during night one keynote at GOP midterm convention and more top headlines",
-   "url": "https://www.foxnews.com/us/trumps-stunning-vow-steals-show-during-night-one-keynote-gop-midterm-convention-more-top-headlines",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/trump-midterm-convention-2.jpg?ve=1&tl=1",
-   "age": "40m ago",
-   "published": "2026-09-10T10:53:23+00:00"
-  },
-  {
-   "title": "'Extinction' warnings ramp up as more OpenAI, Anthropic researchers join calls for an AI slowdown",
-   "url": "https://www.cnbc.com/2026/09/10/openai-anthropic-ai-safety-slowdown-extinction.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "There is growing concern globally about the capability of AI, following numerous cyberattacks and security incidents in recent months by rogue models",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350358-1786976228145-gettyimages-2285051375-HL_IBENYOUSSEF_3228460.jpeg?v=1786976252&amp;w=1920&amp;h=1080",
-   "age": "44m ago",
-   "published": "2026-09-10T10:49:29+00:00"
-  },
-  {
-   "title": "Trump warns Tehran over Pickaxe Mountain activity; U.S.-Iran exchange attacks on ships near Hormuz",
-   "url": "https://www.cnbc.com/2026/09/10/iran-us-war-hormuz-pickaxe-mountain.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "U.S. President Donald Trump has urged Iran \"not to get cute\" over activity at a suspected nuclear site on Pickaxe Mountain.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108338300-1784699984719-gettyimages-2265551532-ir_12_tunnel_construction_spoil_pile_nuclear_site_nov14_2025_vantor.jpeg?v=1784734321&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-09-10T09:03:53+00:00"
-  },
-  {
-   "title": "How Japan, South Korea are building up naval capabilities for China threat",
-   "url": "https://breakingdefense.com/2026/09/how-japan-south-korea-are-building-up-naval-capabilities-for-china-threat/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Japan and South Korea are stepping up their naval game in the face of China s phenomenal expansion.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/ASEV-e1788961707626-1024x577.jpg",
-   "age": "5h ago",
-   "published": "2026-09-10T06:29:00+00:00"
-  },
-  {
-   "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-   "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-   "age": "11h ago",
-   "published": "2026-09-10T00:00:37+00:00"
-  },
-  {
-   "title": "Israeli-based defense company rebrands American subsidiary to Twenty-Six Defense",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/09/09/israeli-based-defense-company-rebrands-american-subsidiary-to-twenty-six-defense/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. arm of Israeli-based Elbit Systems has rebranded to Twenty-Six Defense, a new name that emphasizes the subsidiary’s American-made brand.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QI4DQZGWYBACXAFL6D2AJUXCVA.webp",
-   "age": "12h ago",
-   "published": "2026-09-09T23:32:12+00:00"
-  },
-  {
-   "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
-   "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Mullenweg said in a company Slack message that it was against his will.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg-bling-watch.jpg?resize=1200,799",
-   "age": "12h ago",
-   "published": "2026-09-09T23:14:29+00:00"
-  },
-  {
-   "title": "OpenAI adds a prominent AI doomer to its board of directors",
-   "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-   "age": "13h ago",
-   "published": "2026-09-09T22:25:22+00:00"
-  },
-  {
-   "title": "‘Truly concerns me’: DAWG director warns funding lapse could kill ‘momentum’",
-   "url": "https://breakingdefense.com/2026/09/truly-concerns-me-dawg-director-warns-funding-lapse-could-kill-momentum/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "DAWG is Trump administration initiative that essentially absorbed the Biden-era Replicator initiative designed to acquire thousands of low-cost “attritable” drones, part…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260909_DVIDS_soldier_drone_9918644-scaled-e1788991336218-1024x577.jpg",
-   "age": "13h ago",
-   "published": "2026-09-09T22:02:35+00:00"
-  },
-  {
-   "title": "Massachusetts hits data centers with new clean power rules",
-   "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
-   "age": "13h ago",
-   "published": "2026-09-09T21:43:34+00:00"
   },
   {
    "title": "Ukraine Carried Out Its Deepest Drone Strike On Russia Ever",
@@ -204,18 +270,18 @@
    "topic": "defense",
    "summary": "The strike hit an energy processing plant 1,700 miles from the Ukrainian border in Russia's gas-rich Arctic region. The post Ukraine Carried Out Its Deepest Drone Strike…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Long-Range-Gas-Plant-Attack.jpg?quality=85",
-   "age": "14h ago",
+   "age": "17h ago",
    "published": "2026-09-09T21:32:35+00:00"
   },
   {
-   "title": "4 groups caught using the same Chrome and Windows exploit kit",
+   "title": "Four groups caught using the same Chrome and Windows exploit kit",
    "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
    "source": "Ars Technica",
    "group": "Ars Technica",
    "topic": "ai",
    "summary": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/code-vulnerability-security-1000x648.jpg",
-   "age": "14h ago",
+   "age": "18h ago",
    "published": "2026-09-09T20:55:02+00:00"
   },
   {
@@ -226,7 +292,7 @@
    "topic": "defense",
    "summary": "The Navy is applying lessons learned from recent marathon carrier cruises to the USS Theodore Roosevelt, which conducted an unreported maintenance availability ahead of …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/TWZ-Aircraft-Carrier-Fleet-Tracker-as-of-September-9-2026-Topper.png?quality=85",
-   "age": "14h ago",
+   "age": "18h ago",
    "published": "2026-09-09T20:49:19+00:00"
   },
   {
@@ -237,7 +303,7 @@
    "topic": "ai",
    "summary": "\"We will not be relevant without a massive rocket at a massive cadence.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237740895-1024x648.jpg",
-   "age": "15h ago",
+   "age": "18h ago",
    "published": "2026-09-09T20:27:40+00:00"
   },
   {
@@ -248,7 +314,7 @@
    "topic": "defense",
    "summary": "The ramjet-powered vehicle could give researchers and developers a new way to put hardware into sustained high-Mach flight environments. The post Hermeus Unveils Air-Lau…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/RamJet-X_04_Still.jpg?quality=85",
-   "age": "15h ago",
+   "age": "19h ago",
    "published": "2026-09-09T20:23:34+00:00"
   },
   {
@@ -259,41 +325,8 @@
    "topic": "ai",
    "summary": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2199506955-1024x648.jpg",
-   "age": "15h ago",
+   "age": "19h ago",
    "published": "2026-09-09T20:06:28+00:00"
-  },
-  {
-   "title": "Apple's long-rumored foldable becomes reality with the $2,000 iPhone Duo",
-   "url": "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Apple's first foldable can be yours next month.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-iPhone-Duo-display-sizes-260909-1152x648.jpg",
-   "age": "15h ago",
-   "published": "2026-09-09T19:42:00+00:00"
-  },
-  {
-   "title": "Army ‘not walking away’ from UAVs despite reverting drone unit back to infantry",
-   "url": "https://breakingdefense.com/2026/09/army-not-walking-away-from-uavs-despite-reverting-drone-unit-back-to-infantry/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The move prompted lawmaker concern, but Army CTO Alex Miller downplayed the flap, saying the service just may not have told the full story fast enough.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9898290-scaled-e1788979614866-1024x577.jpg",
-   "age": "16h ago",
-   "published": "2026-09-09T19:25:00+00:00"
-  },
-  {
-   "title": "Poland’s WB Group unveils Warmate 30, latest in drone recon/strike system",
-   "url": "https://breakingdefense.com/2026/09/polands-wb-group-unveils-warmate-30-latest-in-drone-recon-strike-system/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The UAV is designed to detect and engage high-value, time-sensitive targets at long range, the company said.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260909_MSPO_warmate30_BART-scaled-e1788974272519-1024x577.jpg",
-   "age": "16h ago",
-   "published": "2026-09-09T18:43:00+00:00"
   },
   {
    "title": "U.S. Destroyer Makes Port Call in Africa",
@@ -303,7 +336,7 @@
    "topic": "defense",
    "summary": "A Navy destroyer made a port call to Africa last week as the U.S. military considers new destinations for its warships amid longer deployments to support the war with Ir…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/USS-Ross.jpeg",
-   "age": "17h ago",
+   "age": "21h ago",
    "published": "2026-09-09T18:19:39+00:00"
   },
   {
@@ -314,7 +347,7 @@
    "topic": "defense",
    "summary": "The USAF is hunting for new lower-cost armed drones to perform the same missions as the MQ-9 in the wake of huge Reaper losses. The post First Look At General Atomics Wi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/general-atomics-wildfire-mq-9-successor-first-look_60d11c.jpg?quality=85",
-   "age": "18h ago",
+   "age": "21h ago",
    "published": "2026-09-09T17:26:31+00:00"
   },
   {
@@ -325,30 +358,8 @@
    "topic": "defense",
    "summary": "The Royal Navy’s HMS Queen Elizabeth (R08) departed Saturday from Portsmouth, England, for a three-month deployment as the aircraft carrier prepares to return as the U.K…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/HRh0_j8akAAVOHD.jpeg",
-   "age": "18h ago",
+   "age": "22h ago",
    "published": "2026-09-09T16:38:49+00:00"
-  },
-  {
-   "title": "Saab tapped to continue work on Sweden’s next flagship fighter jet",
-   "url": "https://www.defensenews.com/global/europe/2026/09/09/saab-tapped-to-continue-work-on-swedens-next-flagship-fighter-jet/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Swedish government has tapped Saab to continue work on a next-generation fighter jet concept, keeping a wholly domestic iron in the fire.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XSEVXALHNNFXHIIH3MQP2CR43U.jpg",
-   "age": "19h ago",
-   "published": "2026-09-09T15:52:02+00:00"
-  },
-  {
-   "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/09/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Recent attacks by the U.S. and Iran have shattered a month of relative calm, with both hitting military, shipping and energy assets.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2L3FJVREK5B6FLWYCY5WTKBCCU.JPG",
-   "age": "20h ago",
-   "published": "2026-09-09T15:30:08+00:00"
   },
   {
    "title": "Congressional Report on Potential TBIs, Mental Health Risks in Naval Aviation",
@@ -358,7 +369,7 @@
    "topic": "defense",
    "summary": "The following is “Unseen Impacts: An Investigation into the Navy’s Response to Potential Traumatic Brain Injury and Mental Health Risks in Naval Aviation” published on S…",
    "image": null,
-   "age": "20h ago",
+   "age": "1d ago",
    "published": "2026-09-09T14:48:12+00:00"
   },
   {
@@ -369,7 +380,7 @@
    "topic": "local",
    "summary": "Don’t just look at the healthcare jobs you already know. Look behind the hospital doors. There might be a career there you’ve never heard of.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/0a/e0a9672a-b008-4260-bd25-96272d92fdca/69e801dd3dfac.image.jpg?resize=300%2C200",
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-09-09T13:00:00+00:00"
   },
   {
@@ -380,19 +391,19 @@
    "topic": "local",
    "summary": "A scared, starving dog wandering a church's prayer garden in Munster turned into an emotional reunion for a Gary couple whose home was destroyed in the Aug. 11 storm.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/15/e153f80e-446c-40a1-9a3a-f94dfa891640/6aa065753f5f1.image.jpg?resize=300%2C195",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-09-09T12:15:00+00:00"
   },
   {
-   "title": "Updated: Navy, Marines Interdict Fifth Suspected Narco Refueling Station",
-   "url": "https://news.usni.org/2026/09/08/navy-marines-interdict-fourth-suspected-narco-refueling-station",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "U.S. forces with Joint Task Force Western Hemisphere interdicted the fifth floating refueling station on Tuesday, U.S. Southern Command announced via social media. U.S. …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-4.06.00-PM-scaled.png",
-   "age": "1d ago",
-   "published": "2026-09-08T20:09:32+00:00"
+   "title": "NASCAR paint scheme preview: WWT Raceway awaits Hendrick Motorsports Chevrolets",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd3R0cWxDUHEwcWpPTG0yYXNEeGJlYkNoblJndW0zNDhDaGVTMjA3OW53VWRjenJ0cUdIanhSVWRiUVFrcUJKaGszekxSNjVQWHlwb1RXSnc4VVBmbjVjY1FNMFFWSjFPRll3X2Z1NmVxQVFJN1lpX3VXNlhIT2hTM051QnZ5NVRFOGd6OHBIdnNfR3hoelpfTnhHUV83RjlXNnNvOWw5NTdaSkhEX2NuYkNUQVN4SVhua0Z1NEJGUWJsX3ZpSWYxemh6bk12UkpRX01ob0VR?oc=5",
+   "source": "Hendrick Motorsports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "2d ago",
+   "published": "2026-09-08T14:34:41+00:00"
   },
   {
    "title": "Don’t know what to say to someone with cancer? Start here. | Davich",
@@ -402,7 +413,7 @@
    "topic": "local",
    "summary": "One lonely cancer patient awaiting radiation treatment changed everything. Now a cancer survivor is delivering comfort, kindness and hope to strangers across Northwest I…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/6a/06af4562-af6b-4230-a638-889b33e74e60/6a9f16bb53da2.image.jpg?resize=300%2C225",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-08T12:15:00+00:00"
   },
   {
@@ -430,24 +441,13 @@
   {
    "title": "William Byron spins, suffers mechanical failure in Chase opener",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVM2cUtCYUROT1FuWFpaUk83TTA4VFhUXzN2MlY5V0xnUjZXRnZOYU9XaXA4RElMYWUyOHpJdWNVNmJvS0tuWVJuQmEyMGJuakhHenNMOXRwV3VJeTc4YUh6a0VWbVJxdV9hSUd3cXhJYmxFVGROVzgzTFQ1Zkxjd0huZy11WVVCS2w4SFZxQjQ5YXhSRGtsaUx4OGw1dlpBTjZJdFZFSkNjbEF1ZE1FajdB?oc=5",
-   "source": "nascar.com",
+   "source": "NASCAR.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
    "age": "3d ago",
    "published": "2026-09-07T03:41:57+00:00"
-  },
-  {
-   "title": "Mechanical Issue Derails William Byron’s Strong Darlington Raceway Run",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVExCRm91M2hOa1pvN1AyVmJFd3NyTnFRZ2hhdTZDR2pNZFFzQkdwd1pNUHBHUmNtbEtqLWxVT3NLNG83Nk9sejdzOXE3bUV4NWY1VFhiczRvbU9teTNUWGJXWlpjdnJ2QnIyZ3VSNDljQlJjWFVpN05PcTlYSXVxWWxPYnk1N05ObUpkRzV2LTh4V2xpV3RpNGd4R2pDNkhORGtjXzk5VnlMbWtxVllDOU9FS1pzamd4UkFV?oc=5",
-   "source": "Catchfence",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-09-07T03:18:38+00:00"
   },
   {
    "title": "You still have time: 5 things to do before summer slips away",
