@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T21:25:57+00:00",
+ "generated": "2026-09-11T23:24:15+00:00",
  "count": 40,
  "withImage": 38,
  "bearsDay": true,
@@ -13,25 +13,124 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "MotorBiscuit",
   "NWI Times",
   "Racing America",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "Yahoo Sports"
+  "Windy City Gridiron"
  ],
  "items": [
   {
-   "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks",
+   "title": "30% of college students say violence acceptable way to stop speakers on campuses, survey finds",
+   "url": "https://www.foxnews.com/media/thirty-percent-college-students-say-violence-acceptable-way-stop-speakers-campuses-survey-finds",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Foundation for Individual Rights and Expression survey finds 30% of students find violence acceptable to stop speakers, one year after Charlie Kirk s assasination.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/charlie-kirk-turning-point-action-tucson.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-09-11T23:05:33+00:00"
+  },
+  {
+   "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+   "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+   "age": "25m ago",
+   "published": "2026-09-11T22:58:17+00:00"
+  },
+  {
+   "title": "WWE's Rey Mysterio reflects on Triplemania involvement, says he's unfazed going into match with 7-foot-3 giant",
+   "url": "https://www.foxnews.com/outkick-sports/wwe-rey-mysterio-reflects-triplemania-involvement-unfazed-match-7-foot-3-giant",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Rey Mysterio faces the 7-foot-3 Omos in the Triplemania 34 main event in Las Vegas, with Omos AAA future hanging in the balance of the match.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/rey-mysterio-austin-theory-monday-night-raw.jpg?ve=1&tl=1",
+   "age": "48m ago",
+   "published": "2026-09-11T22:35:56+00:00"
+  },
+  {
+   "title": "Adversaries Using Claude AI To Target Americans And Develop Missiles Is A Sign Of What’s To Come",
+   "url": "https://www.twz.com/news-features/adversaries-using-claude-ai-to-target-americans-and-develop-missiles-is-a-sign-of-whats-to-come",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "A new report from Anthropic presents a stark picture of how malign actors are using commercially available U.S. AI services despite safeguards. The post Adversaries Usin…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/anthropic-misue-report-iran-targeting-yemen-missiles.jpg?quality=85",
+   "age": "59m ago",
+   "published": "2026-09-11T22:24:17+00:00"
+  },
+  {
+   "title": "De Niro calls controversial Mamdani police comments 'ridiculous' as he defends mayor going to 9/11 service",
+   "url": "https://www.foxnews.com/media/de-niro-calls-controversial-mamdani-police-comments-ridiculous-defends-mayor-going-911-service",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Robert De Niro called Zohran Mamdani s defund the police comments ridiculous but argued the NYC mayor should still attend the 9/11 memorial.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/524/776ed3d1-054f-4703-aee2-a0684cfe1a38_DE-NIRO-US-TRUMP.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-11T22:21:30+00:00"
+  },
+  {
+   "title": "Bears-Panthers: Keys to a Chicago victory",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/122368/chicago-bears-carolina-panthers-keys-game-caleb-williams-dandre-swift-colston-loveland-jaelan-phillips",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2176770514.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1h ago",
+   "published": "2026-09-11T22:00:00+00:00"
+  },
+  {
+   "title": "Houthis Make Moves On Red Sea, U.S., Iran Go Tanker for Warship",
+   "url": "https://news.usni.org/2026/09/11/houthis-make-moves-on-red-sea-u-s-iran-go-tanker-for-warship",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Houthis in Yemen have seized Perim Island, a parcel of land that lies in the Red Sea in an amphibious assault, giving the Iranian-backed group a strategic foothold o…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/Perim_and_entire_Shaikh_Said_Peninsula-e1789162650787.jpg",
+   "age": "1h ago",
+   "published": "2026-09-11T21:41:53+00:00"
+  },
+  {
+   "title": "Random rewards enrich classic game-theory contests",
+   "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Simple games gain rich strategies in the face of noise.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830-1024x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-11T21:41:16+00:00"
+  },
+  {
+   "title": "USNI News Western Pacific Pulse: Sept. 11, 2026",
+   "url": "https://news.usni.org/2026/09/11/usni-news-western-pacific-pulse-sept-11-2026",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the South China Sea Aircraft carrier USS Abraham Lincoln (…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/9917077-1-scaled.jpg",
+   "age": "1h ago",
+   "published": "2026-09-11T21:39:18+00:00"
+  },
+  {
+   "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
    "url": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
    "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
    "image": "https://image.cnbcfm.com/api/v1/image/108348621-1786555918107-gettyimages-73737271-Huty1594110.jpeg?v=1786555996&amp;w=1920&amp;h=1080",
-   "age": "4m ago",
-   "published": "2026-09-11T21:21:28+00:00"
+   "age": "1h ago",
+   "published": "2026-09-11T21:35:14+00:00"
   },
   {
    "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
@@ -41,19 +140,19 @@
    "topic": "ai",
    "summary": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Keith-Rabois.jpg?resize=1200,896",
-   "age": "6m ago",
+   "age": "2h ago",
    "published": "2026-09-11T21:19:05+00:00"
   },
   {
-   "title": "Taylor Townsend wins US Open doubles final, praises black \"representation\"",
-   "url": "https://www.foxnews.com/outkick-sports/taylor-townsend-wins-us-open-doubles-final-praises-black-representation",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Taylor Townsend s victory speech at the US Open women s doubles final sparked debate after she highlighted race and representation at the podium.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/taylor-townsend-tennis-apology-002.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-09-11T21:05:07+00:00"
+   "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+   "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The strain lurking in the inflatable structure was hypervirulent.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-09-11T21:14:26+00:00"
   },
   {
    "title": "2026 NFL QB Rankings",
@@ -63,30 +162,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2291921946.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "25m ago",
+   "age": "2h ago",
    "published": "2026-09-11T21:00:00+00:00"
   },
   {
-   "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+   "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
    "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+   "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weigh…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-   "age": "26m ago",
+   "age": "2h ago",
    "published": "2026-09-11T20:59:47+00:00"
-  },
-  {
-   "title": "OpenAI’s feud with mathematicians is only escalating",
-   "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "age": "28m ago",
-   "published": "2026-09-11T20:57:36+00:00"
   },
   {
    "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026",
@@ -96,30 +184,19 @@
    "topic": "markets",
    "summary": "Dell sold about $16.4 billion of AI servers in its second quarter, RBC said.",
    "image": "https://image.cnbcfm.com/api/v1/image/108348675-1786560867014-gettyimages-2289703994-US_STOCKS.jpeg?v=1786560938&amp;w=1920&amp;h=1080",
-   "age": "37m ago",
+   "age": "2h ago",
    "published": "2026-09-11T20:48:19+00:00"
   },
   {
-   "title": "Gayle King stunned after learning dissenting Clancy trial juror was a Black man",
-   "url": "https://www.foxnews.com/media/gayle-king-stunned-after-learning-dissenting-clancy-trial-juror-black-man",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Co-host Gayle King was visibly stunned on CBS Mornings after learning the lone holdout juror in the Lindsay Clancy mistrial was reportedly a Black man.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/gayle-king-reacts.png?ve=1&tl=1",
-   "age": "54m ago",
-   "published": "2026-09-11T20:31:21+00:00"
-  },
-  {
-   "title": "Mark Wahlberg, Martha Stewart and others mark 25 years since 9/11 with emotional tributes",
-   "url": "https://www.foxnews.com/entertainment/mark-wahlberg-martha-stewart-mark-25-years-since-9-11-emotional-tributes",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Mark Wahlberg, Martha Stewart and Hugh Jackman lead Hollywood s emotional tributes marking the 25th anniversary of the Sept. 11 attacks.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mark-wahlberg-martha-stewart.jpg?ve=1&tl=1",
-   "age": "54m ago",
-   "published": "2026-09-11T20:31:04+00:00"
+   "title": "Trump's forced coal plant extensions thrown out by judge",
+   "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The Department of Energy declared an \"emergency\" when none existed.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg",
+   "age": "2h ago",
+   "published": "2026-09-11T20:32:59+00:00"
   },
   {
    "title": "'We are different': Ben Johnson, players ready to write 'a new chapter of Chicago Bears football'",
@@ -129,7 +206,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/trykzmnrbfmwyay1cwfy.jpg",
-   "age": "57m ago",
+   "age": "2h ago",
    "published": "2026-09-11T20:28:00+00:00"
   },
   {
@@ -140,7 +217,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2025/12/08/27a32890-3c8f-477e-96cc-42f9dc556d25/jalen-hurts-philadelphia-eagles-imagn-images-1.jpg",
-   "age": "59m ago",
+   "age": "2h ago",
    "published": "2026-09-11T20:26:45+00:00"
   },
   {
@@ -151,7 +228,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/11151825/2026-01-11T053901Z_934402716_MT1USATODAY27982773_RTRMADP_3_NFL-NFC-WILD-CARD-ROUND-GREEN-BAY-PACKERS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-11T20:23:45+00:00"
   },
   {
@@ -162,7 +239,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/11/384d49a9-3467-41b8-957d-4f3765f924d5/porter.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-11T20:21:08+00:00"
   },
   {
@@ -173,7 +250,7 @@
    "topic": "markets",
    "summary": "The CEO and chief investment officer at Fred Alger Management survived the attack by chance. He was tasked with reconstruction after 35 staffers died.",
    "image": "https://image.cnbcfm.com/api/v1/image/108361370-1789063135021-dan_chung_252v2.jpg?v=1789063361&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-11T20:21:01+00:00"
   },
   {
@@ -184,7 +261,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/pebcwgyhkvjt2qczzvcq.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-11T20:14:39+00:00"
   },
   {
@@ -195,19 +272,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/11/27b44243-3288-4874-85f7-03f22d21d756/gettyimages-2257892247.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-11T20:03:55+00:00"
-  },
-  {
-   "title": "Chicago Bears at Carolina Panthers: 3 Props to Play",
-   "url": "https://www.windycitygridiron.com/chicago-bears-odds/122430/chicago-bears-at-carolina-panthers-3-props-to-play",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2291777502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
-   "published": "2026-09-11T20:00:00+00:00"
   },
   {
    "title": "Bears at Panthers Predictions: Year 2 under Ben Johnson begins on the road",
@@ -217,19 +283,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/11124931/2026-08-23T024114Z_700120750_MT1USATODAY29647212_RTRMADP_3_NFL-CHICAGO-BEARS-AT-CINCINNATI-BENGALS-2-1-1024x576.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-11T20:00:00+00:00"
   },
   {
-   "title": "Bears extend D’Andre Swift to three-year, $33.75 million deal",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/122440/chicago-bears-dandre-swift-contract-extension",
+   "title": "Chicago Bears at Carolina Panthers: 3 Props to Play",
+   "url": "https://www.windycitygridiron.com/chicago-bears-odds/122430/chicago-bears-at-carolina-panthers-3-props-to-play",
    "source": "Windy City Gridiron",
    "group": "Windy City Gridiron",
    "topic": "bears",
    "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/10/gettyimages-2238173471.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
-   "published": "2026-09-11T19:47:38+00:00"
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2291777502.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-09-11T20:00:00+00:00"
   },
   {
    "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
@@ -239,19 +305,8 @@
    "topic": "defense",
    "summary": "While overall effectiveness is high, damage to US bases and assets in the Iran conflict shows gaps in air-and-missile-defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/L3Harris-wrapup-1-scaled-e1789155482620-1024x576.jpg",
-   "age": "1h ago",
+   "age": "3h ago",
    "published": "2026-09-11T19:41:08+00:00"
-  },
-  {
-   "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
-   "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/egypt1-1-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-09-11T18:49:39+00:00"
   },
   {
    "title": "Combat Patrol – Scarborough Shoal",
@@ -261,19 +316,8 @@
    "topic": "defense",
    "summary": "MANILA, PHILIPPINES – China’s posture at Scarborough Shoal is shifting to better counter Philippine forces at the disputed South China Sea hotspot, according to recent d…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/image-1.png",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-11T18:47:52+00:00"
-  },
-  {
-   "title": "Oracle tries to appease Stargate data center opponents with renewables push",
-   "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Project-Jupiter-data-center-construction-July-2026-1152x648.png",
-   "age": "3h ago",
-   "published": "2026-09-11T18:22:22+00:00"
   },
   {
    "title": "One Of These Missiles Is Set To Be The Army’s Next Mid-Tier Anti-Air Interceptor",
@@ -283,7 +327,7 @@
    "topic": "defense",
    "summary": "The new Enduring Shield system paired with AIM-9X Sidewinders already gives the Army its first mid-range air defense capability in decades. The post One Of These Missile…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/two-missiles-head-to-head-new-army-interceptor.jpg?quality=85",
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-09-11T17:45:20+00:00"
   },
   {
@@ -294,7 +338,7 @@
    "topic": "defense",
    "summary": "[Sponsored] Manufacturing scale, global sustainment, and next-gen tech are becoming inseparable.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/moog_-_radio_copy_01._video_v1-1080p-frame-at-0m35s-1024x576.jpg",
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-09-11T17:41:00+00:00"
   },
   {
@@ -305,7 +349,7 @@
    "topic": "defense",
    "summary": "The Pentagon is seeking artificial intelligence that can cut through the confusion of missile defense.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DHET4YSPTFGPTJPAC7HN2AZQAI.jpg",
-   "age": "3h ago",
+   "age": "5h ago",
    "published": "2026-09-11T17:38:56+00:00"
   },
   {
@@ -316,7 +360,7 @@
    "topic": "defense",
    "summary": "France is investing in a new Rafale configuration, along with drone wingmen, that aim to carry French tactical aviation deep into the 2030s. The post France Accelerates …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/RAFALE-AND-NEURON.jpg?quality=85",
-   "age": "4h ago",
+   "age": "6h ago",
    "published": "2026-09-11T17:13:31+00:00"
   },
   {
@@ -327,19 +371,19 @@
    "topic": "defense",
    "summary": "“We want to do as much as we can; I would love to continue to bring on new projects, new programs to the border and try it out, but we want to do it in a responsible way…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/241205_DVIDS_drone_swarm_5356116-scaled-e1733415596741-1024x577.jpg",
-   "age": "4h ago",
+   "age": "6h ago",
    "published": "2026-09-11T16:58:44+00:00"
   },
   {
    "title": "Hendrick Motorsports Locks Up Corey Day, Sets NASCAR Cup Debut for 2027",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGhieWtkU3VnUGpQNEM5ajNyS0R0eWNuWFNIQjF4VVdtQXh0OHZtTFltR1RQRnQ3NndaTFBITUFQN19peC1TaURRbUlqZUozdzA1YVc2clkyQ3JVTlYtQVlidHZrYXRjM2Y3bXNYMjVCMkI5UzJKYjZjR3gzdlVCaWhYQm1wR0gzS0NnSkFB?oc=5",
-   "source": "Yahoo Sports",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd1JIb2RGNUc1RUJKeV94QlVnMDhjSzJqMUJIZ21ZNzdOWjdXblBlVHFmeklWUUJ6akc1SndQdmlFMnpYb0VNcS1WVHhmbWxVUmRXRjFUSFlNSUQ4aWNNeXBWdy1zWlZJUjM5OW9VNlRuNVpneW5XNmZBckZmeDctSQ?oc=5",
+   "source": "MotorBiscuit",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "4h ago",
-   "published": "2026-09-11T16:44:14+00:00"
+   "age": "6h ago",
+   "published": "2026-09-11T16:47:09+00:00"
   },
   {
    "title": "Saudi crown prince sought US military help with Houthis, sources say",
@@ -349,19 +393,8 @@
    "topic": "defense",
    "summary": "Saudi Crown Prince Mohammed bin Salman reportedly sought assistance from President Donald Trump on Thursday to help fight Yemen’s Iran-aligned Houthis.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ANVCIEEFQZAZHKIAPMZO6V2K2Q.jpg",
-   "age": "4h ago",
+   "age": "6h ago",
    "published": "2026-09-11T16:32:18+00:00"
-  },
-  {
-   "title": "NASA moving at warp speed to set up US Space Academy",
-   "url": "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "NASA asks US states to show them the money.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998-1152x648-1789141845.jpg",
-   "age": "5h ago",
-   "published": "2026-09-11T16:20:43+00:00"
   },
   {
    "title": "Polish prime minister: Poland to develop its own Starlink",
@@ -371,7 +404,7 @@
    "topic": "defense",
    "summary": "Polish Prime Minister Donald Tusk said the project will pave the way for the launch of a Starlink-like system for the nation.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/4CNFOQD4CVFYTD2GAHQPHGBGW4.jpg",
-   "age": "6h ago",
+   "age": "8h ago",
    "published": "2026-09-11T15:21:31+00:00"
   },
   {
@@ -382,7 +415,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "7h ago",
+   "age": "9h ago",
    "published": "2026-09-11T14:20:59+00:00"
   },
   {
@@ -393,7 +426,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/mra1rymze54tncimgzxu.jpg",
-   "age": "7h ago",
+   "age": "9h ago",
    "published": "2026-09-11T13:33:00+00:00"
   },
   {
@@ -404,41 +437,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/10215657/2025-11-30T021344Z_22990140_MT1USATODAY27706603_RTRMADP_3_NFL-CHICAGO-BEARS-AT-PHILADELPHIA-EAGLES-1-1024x576.jpg",
-   "age": "11h ago",
+   "age": "13h ago",
    "published": "2026-09-11T10:00:00+00:00"
-  },
-  {
-   "title": "Work At Underground Test Site A New Indicator Of Possible Strikes On Iran’s Pickaxe Mountain Bunker",
-   "url": "https://www.twz.com/news-features/work-at-underground-test-site-a-new-indicator-of-possible-strikes-on-irans-pickaxe-mountain-bunker",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Pickaxe Mountain presents immense targeting challenges and that's where a key test range in New Mexico comes in to play, just as it did for Midnight Hammer. The post Wor…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/test-site-new-mexico-iran-pickaxe-mountain.jpg?quality=85",
-   "age": "23h ago",
-   "published": "2026-09-10T22:01:50+00:00"
-  },
-  {
-   "title": "3 Killed in Strike on Alleged Drug Boat",
-   "url": "https://news.usni.org/2026/09/10/3-killed-in-strike-on-alleged-drug-boat",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "U.S. forces with Joint Task Force Western Hemisphere struck a go-fast vessel in the Caribbean, killing three people, U.S. Southern Command announced late Wednesday. The …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.22.10-PM-scaled.png",
-   "age": "1d ago",
-   "published": "2026-09-10T17:38:24+00:00"
-  },
-  {
-   "title": "Sailors, Marines Deploy Long-range Missile Systems to Norway for Drills",
-   "url": "https://news.usni.org/2026/09/10/sailors-marines-deploy-long-range-missile-systems-to-norway-for-drills",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part o…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
-   "age": "1d ago",
-   "published": "2026-09-10T16:07:37+00:00"
   },
   {
    "title": "Beyond doctors and nurses: The healthcare jobs hiding in plain sight.",
