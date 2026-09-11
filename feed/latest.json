@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-11T06:12:54+00:00",
+ "generated": "2026-09-11T11:35:46+00:00",
  "count": 40,
  "withImage": 36,
  "bearsDay": true,
@@ -14,6 +14,7 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "Speedway Digest",
   "Sports Illustrated",
   "TechCrunch",
@@ -23,70 +24,114 @@
  ],
  "items": [
   {
-   "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
-   "url": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+   "title": "Oracle jumps 6% after reporting 30% revenue growth fueled by AI cloud demand",
+   "url": "https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108361397-1789066236273-gettyimages-2294007499-AFP_C7XV86B.jpeg?v=1789066532&amp;w=1920&amp;h=1080",
+   "summary": "Oracle's cloud infrastructure revenue jumped 121% since last year, reflecting demand for its AI cloud services.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108348677-1786560865437-gettyimages-2289704306-US_STOCKS.jpeg?v=1786560938&amp;w=1920&amp;h=1080",
+   "age": "13m ago",
+   "published": "2026-09-11T11:22:05+00:00"
+  },
+  {
+   "title": "Trump set to honor 9/11 victims and first responders at Pentagon and more top headlines",
+   "url": "https://www.foxnews.com/us/trump-set-honor-9-11-victims-first-responders-pentagon-more-top-headlines",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/524/trump-at-pentagon-9-11-memorial.jpg?ve=1&tl=1",
+   "age": "17m ago",
+   "published": "2026-09-11T11:17:49+00:00"
+  },
+  {
+   "title": "NFL allows stolen land acknowledgement disguised as a welcoming ceremony before Australia game",
+   "url": "https://www.foxnews.com/outkick-sports/nfl-allows-stolen-land-acknowledgement-disguised-welcoming-ceremony-australia-game",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Aunty Joy Murphy Wandin s leaf ritual and 60,000-year indigenous stolen land acknowledgement preceded the NFL s first Melbourne game at the MCG.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/aunty-joy-wandin-murphy-welcome-country.jpg?ve=1&tl=1",
    "age": "19m ago",
-   "published": "2026-09-11T05:53:13+00:00"
+   "published": "2026-09-11T11:16:44+00:00"
   },
   {
-   "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
-   "url": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+   "title": "Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown",
+   "url": "https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "U.S. Treasury Secretary Scott Bessent said that a large bank would be sanctioned next week.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108357019-17882708572026-09-01t134704z_616899999_rc2danaxerns_rtrmadp_0_g20-finance.jpeg?v=1788270873&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-11T04:29:39+00:00"
+   "summary": "Trump said he isn't concerned AI could cause human extinction as researchers at leading AI companies warn about rapid advances and lawmakers propose safeguards.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108361107-1789041210752-gettyimages-2294421522-dsc_9640_kog8cmka.jpeg?v=1789041231&amp;w=1920&amp;h=1080",
+   "age": "25m ago",
+   "published": "2026-09-11T11:10:36+00:00"
   },
   {
-   "title": "Modi and Xi are set to meet at BRICS with trade and border issues in spotlight",
-   "url": "https://www.cnbc.com/2026/09/11/china-india-modi-xi-brics-meeting-agenda.html",
+   "title": "A generation cannot remember 9/11. We have a duty to make sure they learn",
+   "url": "https://www.foxnews.com/opinion/generation-cannot-remember-9-11-duty-make-sure-they-learn",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The 9/11 Memorial Museum is bringing student workshops, lesson plans and digital learning to ensure over 100 million post-9/11 Americans never forget.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/ground-zero-memorial.jpg?ve=1&tl=1",
+   "age": "34m ago",
+   "published": "2026-09-11T11:00:55+00:00"
+  },
+  {
+   "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
+   "url": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "A meeting with Prime Minister Narendra Modi would be the clearest test yet of the tentative post-2020 reset between Asia’s two largest economies.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108052079-1729730342015-2024-10-23T140613Z_515394458_RC2CQAALPS60_RTRMADP_3_INDIA-CHINA.JPG?v=1756447094&amp;w=1920&amp;h=1080",
+   "summary": "Years after 9/11, the U.S. government is walking back some security screenings as threats and technology evolve.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108360850-1788988747198-gettyimages-2290214516-anotherday261795829_yvziezuj.jpeg?v=1789074467&amp;w=1920&amp;h=1080",
+   "age": "35m ago",
+   "published": "2026-09-11T11:00:01+00:00"
+  },
+  {
+   "title": "Can the 2026 Bears Measure Up to the Greatest Scoring Offense of All-Time?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/122344/can-the-2026-bears-measure-up-to-the-greatest-scoring-offense-of-all-time-denver-broncos-detroit-lions",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-455645701.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "35m ago",
+   "published": "2026-09-11T11:00:00+00:00"
+  },
+  {
+   "title": "India puts domestic industry at heart of new military equipment orders",
+   "url": "https://www.defensenews.com/global/asia-pacific/2026/09/11/india-puts-domestic-industry-at-heart-of-new-military-equipment-orders/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "India will source nearly all of $11.6 billion worth of recently approved military hardware from domestic manufacturers, the government said.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Y6OW7SG7VNBYVKVPSCSDDLL3XE.jpg",
+   "age": "54m ago",
+   "published": "2026-09-11T10:40:53+00:00"
+  },
+  {
+   "title": "Don’t worry about a regression: Bears QB Caleb Williams is built for the one-score world of the NFL",
+   "url": "https://allchgo.com/bears/bears-qb-caleb-williams-built-one-score-world-of-nfl/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/10215657/2025-11-30T021344Z_22990140_MT1USATODAY27706603_RTRMADP_3_NFL-CHICAGO-BEARS-AT-PHILADELPHIA-EAGLES-1-1024x576.jpg",
    "age": "1h ago",
-   "published": "2026-09-11T04:29:20+00:00"
+   "published": "2026-09-11T10:00:00+00:00"
   },
   {
-   "title": "Rams' disaster in Australia raises the question: Should the team have followed the 49ers there earlier?",
-   "url": "https://www.foxnews.com/outkick-sports/rams-disaster-australia-raises-question-should-team-followed-49ers-earlier",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Matthew Stafford and the Los Angeles Rams looked gassed in a 27-7 loss to the San Francisco 49ers in Melbourne as their travel strategy faces scrutiny.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/matthew-stafford-los-angeles-rams-melbourne.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-11T04:05:23+00:00"
-  },
-  {
-   "title": "‘I’m coming home’: Last words haunt a 9/11 daughter 25 years later as she builds a legacy in his honor",
-   "url": "https://www.foxnews.com/us/im-coming-home-last-words-haunt-911-daughter-25-years-later-builds-legacy-his-honor",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kayla Fallon Smith lost her father in the 9/11 World Trade Center attacks at age 8 and now runs a nonprofit offering equine therapy to veterans.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Kayla-Smith_001.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-11T04:00:47+00:00"
-  },
-  {
-   "title": "American Jessica Pegula falls to top-ranked Aryna Sabalenka in straight sets in US Open semifinal",
-   "url": "https://www.foxnews.com/outkick-sports/american-jessica-pegula-falls-top-ranked-aryna-sabalenka-straight-sets-us-open-semifinal",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Aryna Sabalenka dominated Jessica Pegula with 29 winners to reach the U.S. Open final, where Coco Gauff or Elena Rybakina awaits Saturday night.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Jessica-Pegula-Aryna-Sabalenka.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-11T03:10:31+00:00"
+   "title": "Chicago Bears News: Chicago Bears traveling to Carolina Panthers for opener Sunday",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/122372/chicago-bears-news-chicago-bears-traveling-to-carolina-panthers-for-opener-sunday",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/12/gettyimages-2177136354.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1h ago",
+   "published": "2026-09-11T10:00:00+00:00"
   },
   {
    "title": "Chicago Bears vs Carolina Panthers: Matchups, best bets, and more",
@@ -96,30 +141,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2176251883.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-09-11T02:34:52+00:00"
-  },
-  {
-   "title": "Megan Rapinoe says women's sports are facing 'regression' of 'equal rights' in new Kamala Harris interview",
-   "url": "https://www.foxnews.com/outkick-sports/megan-rapinoe-says-womens-sports-are-facing-regression-of-equal-rights-in-new-kamala-harris-interview",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kamala Harris joined Megan Rapinoe for a new interview touching on women s sports, politics, and a puzzling tangent about the boy next door.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/megan-rapinoe.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-11T02:31:12+00:00"
-  },
-  {
-   "title": "Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy",
-   "url": "https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump economic advisor Kevin Hassett owned as much as $5 million in Coinbase while serving as the White House's top economic advisor, his disclosure shows.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108291796-1776265284878-gettyimages-2270867711-IMF_WORLD_BANK.jpeg?v=1776265310&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-11T01:55:53+00:00"
   },
   {
    "title": "Corey Day Extends Hendrick Motorsports Deal, Sets NASCAR Cup Series Debut for 2027",
@@ -129,7 +152,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-11T01:03:14+00:00"
   },
   {
@@ -140,7 +163,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-11T00:11:25+00:00"
   },
   {
@@ -151,7 +174,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/23/49562cbc-16aa-48b8-9072-d891907280a7/draftkings-bet-5-get-200-promo.png",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-10T23:59:29+00:00"
   },
   {
@@ -162,7 +185,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/10/3ae3c17d-f6d2-4aa3-8dce-cb8966579a4a/ajbrown.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-10T23:58:23+00:00"
   },
   {
@@ -173,7 +196,7 @@
    "topic": "ai",
    "summary": "Collaborative Fund just bought into D.C. United and its stadium, with firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/DC-United.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-10T22:30:00+00:00"
   },
   {
@@ -184,7 +207,7 @@
    "topic": "ai",
    "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080-1152x648.jpg",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-10T22:16:05+00:00"
   },
   {
@@ -195,7 +218,7 @@
    "topic": "defense",
    "summary": "Pickaxe Mountain presents immense targeting challenges and that's where a key test range in New Mexico comes in to play, just as it did for Midnight Hammer. The post Wor…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/test-site-new-mexico-iran-pickaxe-mountain.jpg?quality=85",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-10T22:01:50+00:00"
   },
   {
@@ -206,7 +229,7 @@
    "topic": "ai",
    "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-10T21:51:59+00:00"
   },
   {
@@ -215,9 +238,9 @@
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+   "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-09-10T21:35:00+00:00"
   },
   {
@@ -228,7 +251,7 @@
    "topic": "defense",
    "summary": "The capture of the port of Mokha and possibly the islands of Perim and Zuraq can give the Houthis key points of control over the Red Sea and the Strait. The post Houthis…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Bab-el-mandeb.jpg?quality=85",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-09-10T21:28:44+00:00"
   },
   {
@@ -239,7 +262,7 @@
    "topic": "ai",
    "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-09-10T20:55:29+00:00"
   },
   {
@@ -250,7 +273,7 @@
    "topic": "defense",
    "summary": "The program is driving hard to meet President Trump’s 2028 deadline, officials said, but they have yet to release a formal solicitation, let alone pick a specific vendor…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/michael-dodd-scaled-e1789072270144-1024x577.jpg",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-10T20:31:57+00:00"
   },
   {
@@ -261,7 +284,7 @@
    "topic": "defense",
    "summary": "The system’s open architecture could let Kyiv mix and match interceptors as its missile inventory evolves. The post Ukraine’s New Shershen SAM Can Fire A Wild Mix Of Ada…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Shershen-missiles.jpg?quality=85",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-10T20:30:16+00:00"
   },
   {
@@ -272,7 +295,7 @@
    "topic": "defense",
    "summary": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XIOM4EON7ZB5FJUKWRHQQLUHQE.jpg",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-10T20:22:31+00:00"
   },
   {
@@ -283,19 +306,8 @@
    "topic": "defense",
    "summary": "The companies solutions will move into the developmental phase, an Army spokesperson told Breaking Defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/20260813-SMD-dwoolfolk-010-1024x576.jpg",
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-09-10T20:08:14+00:00"
-  },
-  {
-   "title": "Chicago Bears week 1 power rankings roundup",
-   "url": "https://www.windycitygridiron.com/chicago-bears-power-rankings/122310/chicago-bears-week-1-power-rankings-roundup-nfl",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2292138323.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "10h ago",
-   "published": "2026-09-10T20:00:00+00:00"
   },
   {
    "title": "5 things we learned from Bears coordinators",
@@ -305,7 +317,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wvkf8eaqcoyexvjhe71u.jpg",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-09-10T19:24:23+00:00"
   },
   {
@@ -316,7 +328,7 @@
    "topic": "ai",
    "summary": "Europe is looking inward, and perhaps to China, as the White House tries to cancel some NASA partnerships.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Envision-1152x648-1789054779.jpg",
-   "age": "11h ago",
+   "age": "16h ago",
    "published": "2026-09-10T19:09:29+00:00"
   },
   {
@@ -327,19 +339,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "11h ago",
+   "age": "16h ago",
    "published": "2026-09-10T18:59:54+00:00"
-  },
-  {
-   "title": "What Drake Maye’s rough Week 1 reminds us about Caleb Williams and the Bears",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/122336/what-drake-mayes-rough-week-1-reminds-us-about-caleb-williams-and-the-bears",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2294424705.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "11h ago",
-   "published": "2026-09-10T18:45:00+00:00"
   },
   {
    "title": "Day Signs Long-Term Deal With Hendrick, Will Run Cup Part-Time in 2027",
@@ -349,7 +350,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-09-10T18:30:38+00:00"
   },
   {
@@ -360,7 +361,7 @@
    "topic": "defense",
    "summary": "The battlefield is changing at a dizzying pace, and we are changing with it,” Israeli military Chief of Staff Lt. Gen. Eyal Zamir said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220503_firefly_drone_soldier-e1651591684674-1024x577.jpg",
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-09-10T18:30:00+00:00"
   },
   {
@@ -371,7 +372,7 @@
    "topic": "defense",
    "summary": "U.S. forces with Joint Task Force Western Hemisphere struck a go-fast vessel in the Caribbean, killing three people, U.S. Southern Command announced late Wednesday. The …",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.22.10-PM-scaled.png",
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-09-10T17:38:24+00:00"
   },
   {
@@ -382,19 +383,8 @@
    "topic": "defense",
    "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part o…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
-   "age": "14h ago",
+   "age": "19h ago",
    "published": "2026-09-10T16:07:37+00:00"
-  },
-  {
-   "title": "Adam Amin: Ben Johnson uses more tools in his bag than other coaches",
-   "url": "https://www.windycitygridiron.com/chicago-bears-podcasts/122325/adam-amin-ben-johnson-uses-more-tools-in-his-bag-than-other-coaches",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2265201835.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "14h ago",
-   "published": "2026-09-10T16:00:00+00:00"
   },
   {
    "title": "How to watch, listen to, stream Bears-Panthers Week 1 game",
@@ -404,7 +394,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/tltgtprzppcyyzl6vfva.jpg",
-   "age": "15h ago",
+   "age": "20h ago",
    "published": "2026-09-10T14:48:00+00:00"
   },
   {
@@ -415,19 +405,8 @@
    "topic": "defense",
    "summary": "Iran will almost certainly try to pry open the captured drone’s hardware, but the platform's software does carry built-in defenses, analysts say.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3EEMQBIH3VCSFMOUGCG2ERY4G4.JPG",
-   "age": "15h ago",
+   "age": "21h ago",
    "published": "2026-09-10T14:26:04+00:00"
-  },
-  {
-   "title": "Russia sends bones of medieval warrior prince to Ukraine front to boost morale",
-   "url": "https://www.defensenews.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Bone fragments from the sword hand of a medieval Russian prince who won a famous victory over the Mongols have been sent to the front in Ukraine.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UXR4KK4YGJC45CHFLAYYSIGS7M.JPG",
-   "age": "15h ago",
-   "published": "2026-09-10T14:16:04+00:00"
   },
   {
    "title": "U.K. 2026 Space Strategy",
@@ -437,7 +416,7 @@
    "topic": "defense",
    "summary": "The following is the U.K. Space Strategy, released Sept. 8, 2026. From the Report Space is entering a new era. One that is marked by enormous potential to transform the …",
    "image": null,
-   "age": "16h ago",
+   "age": "22h ago",
    "published": "2026-09-10T13:30:40+00:00"
   },
   {
@@ -450,6 +429,28 @@
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/xxmhwbzdcr7pkunygdnk.jpg",
    "age": "1d ago",
    "published": "2026-09-09T18:43:59+00:00"
+  },
+  {
+   "title": "Beyond doctors and nurses: The healthcare jobs hiding in plain sight.",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_2f30f4c5-7c8a-4a79-8443-8195b7b05ece.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Don’t just look at the healthcare jobs you already know. Look behind the hospital doors. There might be a career there you’ve never heard of.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/0a/e0a9672a-b008-4260-bd25-96272d92fdca/69e801dd3dfac.image.jpg?resize=300%2C200",
+   "age": "1d ago",
+   "published": "2026-09-09T13:00:00+00:00"
+  },
+  {
+   "title": "A lost dog, a chance encounter and a tearful reunion after the storm",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_61626aac-ce25-4c4e-bd1e-2b717c632035.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A scared, starving dog wandering a church's prayer garden in Munster turned into an emotional reunion for a Gary couple whose home was destroyed in the Aug. 11 storm.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/15/e153f80e-446c-40a1-9a3a-f94dfa891640/6aa065753f5f1.image.jpg?resize=300%2C195",
+   "age": "1d ago",
+   "published": "2026-09-09T12:15:00+00:00"
   },
   {
    "title": "Becoming the Bears’ defensive ‘eraser’: Tracking the development of Dillon Thieneman",
