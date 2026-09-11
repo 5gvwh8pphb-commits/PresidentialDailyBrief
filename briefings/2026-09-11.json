@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-11",
+  "dateLabel": "Friday, September 11, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-11T13:08:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, September 10, 2026 close — a fourth straight decline as US crude topped $100 a barrel for the first time since May.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,591.70", "change": "-44.66", "changePct": "-0.58%", "sixMo": "+12%" },
+        { "name": "Dow",     "close": "52,064.10", "change": "-316.56", "changePct": "-0.60%", "sixMo": "+9.1%" },
+        { "name": "Nasdaq",  "close": "26,081.72", "change": "-171.62", "changePct": "-0.65%", "sixMo": "+15%" }
+      ],
+      "body": "Stocks fell for a fourth consecutive session as oil prices climbed back to levels last seen in May amid ongoing Middle East tensions and Treasury yields pushed higher, deepening worries about inflation.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-9102026-136347719"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~9h ago",
+      "empty": false,
+      "headline": "Trump declines Saudi crown prince's request for direct US strikes on Yemen's Houthis",
+      "body": "Saudi Crown Prince Mohammed bin Salman called Trump twice Thursday urging strikes after Houthi threats to Red Sea shipping, but US officials say Trump has no plans for direct military action for now; Washington will still share intelligence and targeting data with Riyadh, with roughly 200 US troops already in Saudi Arabia providing non-kinetic support.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/11/houthis-yemen-saudi-trump-mbs-strikes"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Taiwan tracks 11 PLA aircraft sorties and 8 navy ships in latest 24-hour tally",
+      "body": "Taiwan's Ministry of National Defense said 11 PLA aircraft sorties, 8 PLA Navy ships and 2 official vessels operated around the island in the 24 hours to 6 a.m. Friday local time, with 10 of the 11 aircraft sorties entering Taiwan's southwestern and eastern air defense identification zones; Taiwan responded with combat air patrols, naval ships and coastal missile systems.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://www.mnd.gov.tw/en/News/PLAAct/87739"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "CENTCOM calls Iran's claim of striking two US Navy destroyers 'completely false'",
+      "body": "Iran's IRGC said its 'Ya Haidar Karrar' operation hit destroyers USS Delbert D. Black and USS John Paul Jones along with 8 tankers and 10 other vessels near the Strait of Hormuz, in what was described as the war's heaviest single day of shipping attacks; CENTCOM said no US Navy ship was struck and every Iranian attempt was defeated by the ships' defenses.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-plans-new-restricted-zone/?id=136249116"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Navy's F/A-XX sixth-generation fighter contract decision slips past its August deadline",
+      "body": "The Pentagon has yet to award the Navy's F/A-XX carrier fighter contract after missing its promised August timeline, with Boeing and Northrop Grumman still competing for the win; Congress has already allocated $972 million for fiscal 2026 development, far more than the Pentagon's original $74 million request, pressuring the Navy to decide soon.",
+      "source": "Hoodline",
+      "url": "https://hoodline.com/2026/09/pentagon-nears-decision-on-navy-s-next-stealth-jet-amid-years-of-delay/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Anthropic says state-linked actors in China, Russia and Iran tried to weaponize Claude for drone swarms and bioweapons research",
+      "body": "Anthropic's fourth threat intelligence report, covering activity disrupted from December 2025 to August 2026, detailed six cases of weapons-related software misuse -- three tied to China, two to Russia and one to Yemen -- including attempts at kamikaze drone swarms and missile navigation systems, plus Chinese labs trying to siphon Claude's outputs to train rival military models; none of the disrupted cases involved Anthropic's most advanced Fable or Mythos-class models, and the company banned the accounts involved.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Safety Xavier Woods added to Bears' injury report with a groin issue ahead of Sunday's opener",
+      "body": "Woods was a limited practice participant Thursday because of a groin injury, joining a Bears injury list that includes QB Tyson Bagent (back, did not practice) and WR Rome Odunze and OT Ozzy Trapilo (both limited), while defensive tackle Grady Jarrett and guard Joe Thuney sat out for rest ahead of Sunday's season opener at Carolina.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/xavier-woods-latest-addition-bears-192838853.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Every current Byron story ties back to his engine failure and resulting drop in the playoff standings at last week's Southern 500, which the spoiler rule bars reporting within 7 days; no other new, non-outcome Byron development cleared the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The denomination's freshest items -- Covenant College's curriculum overhaul and the churchwide September prayer-and-fasting call -- either fall outside the 72-hour window or were already reported in prior briefs, and no new PCA-specific story surfaced today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
