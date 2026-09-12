@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-12",
+  "dateLabel": "Saturday, September 12, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-12T12:26:53Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~16h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 11, 2026 close — stocks snapped a four-day skid as oil eased and inflation data matched forecasts.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,656.98", "change": "+65.28", "changePct": "+0.86%", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "52,573.29", "change": "+509.19", "changePct": "+0.98%", "sixMo": "+11%" },
+        { "name": "Nasdaq",  "close": "26,333.04", "change": "+251.31", "changePct": "+0.96%", "sixMo": "+16%" }
+      ],
+      "body": "The S&P 500, Dow and Nasdaq each rose roughly 1% as crude prices retreated from their recent spike and August's consumer inflation report landed close to expectations, easing the worries that had driven four straight days of losses.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-9112026-136375931"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Trump says Yemen's Houthis have asked the US not to target them as they seize Red Sea coast",
+      "body": "Speaking to reporters during a Saturday visit to Dublin, Trump said 'the Houthis called us, and they don't want to fight with us,' after the Iran-backed group seized the Red Sea port of Mocha and the rest of Yemen's Red Sea coastline; the comments follow Saudi Crown Prince Mohammed bin Salman's request for direct US strikes on the group, which Trump declined in favor of sharing intelligence and targeting data.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/trump-says-iran-backed-houthis-asked-us-not-to-target-them"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Carrier USS Abraham Lincoln patrols South China Sea after Thailand port call as PLA pressure on Taiwan continues",
+      "body": "The carrier USS Abraham Lincoln (CVN-72), cruiser USS Robert Smalls (CG-62) and destroyer USS Frank E. Petersen Jr. (DDG-121) are operating in the South China Sea after departing Thailand, while Chinese Y-9 intelligence aircraft flew repeated surveillance sorties over southwest Japan and the PLA kept up near-daily incursions into Taiwan's air defense identification zone.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/09/11/usni-news-western-pacific-pulse-sept-11-2026"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US disputes Iran's claim that it struck a Navy Saildrone unmanned vessel in the Strait of Hormuz",
+      "body": "Iran's IRGC said it destroyed an American Saildrone Explorer-class unmanned surface vessel, hull number 5838, at the strait's entrance and released footage of it burning, but US officials said all Saildrones are accounted for and fully operational; the claim came as a separate UKMTO warning reported four unidentified projectiles struck two vessels off Oman's Khasab coast, setting one ablaze, in the war's escalating shipping attacks.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "General Atomics unveils 'Wildfire' drone that could replace the MQ-9 Reaper years ahead of schedule",
+      "body": "The company says Wildfire exceeds the Pentagon's 8,000-nautical-mile self-deployment requirement, can carry at least 2,800 pounds including two Long-Range Anti-Ship Missiles, and could be fielded for the Air Force's Massed Modular Aircraft program years before the original fiscal 2031 target at roughly $10 million per unit versus up to $50 million for a Reaper.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/09/general-atomics-unveils-wildfire-drone-to-replace-reaper/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bipartisan Senate bill would let the government block unsafe AI models after an Anthropic researcher's viral warning",
+      "body": "Majority Leader John Thune, Commerce Chairman Ted Cruz and Sen. Amy Klobuchar are negotiating legislation creating a 'duty of care' for AI developers and government authority to block release of models posing catastrophic biological or nuclear risks, a push that gained momentum after former Anthropic researcher Jacob Coxon's resignation warning about self-improving AI drew more than 90 million views this week.",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/sep/11/us-senate-negotiators-consider-requiring-ai-firms-/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Bears' final injury report has Rome Odunze questionable but trending toward playing Sunday",
+      "body": "Odunze, dealing with a calf injury, was limited in practice all week but returned to the field Friday, with coach Ben Johnson saying 'he's looked good' while the team weighs his workload against the long season ahead of Sunday's opener at Carolina.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/11/bears-practice-report-is-wr-rome-odunze-in-or-out-vs-panthers-on-sunday"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Every current Byron story is framed around how he fared in last Sunday's Cook Out Southern 500 at Darlington, which the spoiler rule bars reporting within 7 days; no other new, non-outcome development cleared the window ahead of Sunday's Enjoy Illinois 300.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The denomination's most recent items -- the churchwide prayer-and-fasting call and byFaith's oldest-congregations feature -- were already reported in prior briefs, and no new PCA-specific story surfaced within the 72-hour window today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
