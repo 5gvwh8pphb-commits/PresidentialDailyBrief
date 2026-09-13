@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-13",
+  "dateLabel": "Sunday, September 13, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-13T13:33:33Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~42h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 11, 2026 close — stocks rose for a second day as crude oil pulled back from its recent spike and August's inflation report landed in line with forecasts.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,656.98", "change": "+65.28", "changePct": "+0.86%", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "52,573.29", "change": "+509.19", "changePct": "+0.98%", "sixMo": "+11%" },
+        { "name": "Nasdaq",  "close": "26,333.04", "change": "+251.31", "changePct": "+0.96%", "sixMo": "+16%" }
+      ],
+      "body": "Markets were closed for the weekend, so Friday's close remains the freshest read: all three major indexes gained roughly 1% as oil eased off its highs and the consumer inflation data removed one source of investor anxiety, extending a rebound from the prior four-day losing streak.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-9112026-136375931"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Trump says he'd 'love to see' a united Ireland during Dublin visit, breaking with US neutrality",
+      "body": "Meeting separately with Irish President Catherine Connolly and Prime Minister Micheál Martin in Dublin Saturday, Trump said of Irish reunification, 'I'd love to see it unified. I think it would be a fantastic thing,' while acknowledging 'the U.K. will have something to say about it, obviously'; the remark breaks decades of official US neutrality on the issue and drew a sharp response from Northern Ireland's pro-British Democratic Unionist Party.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-ireland-dublin-visit-irish-open-golf/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Philippines' defense chief and Beijing trade barbs after a note-passing clash at a Seoul security forum",
+      "body": "Philippine Defense Secretary Gilberto Teodoro Jr. publicly rebutted a note handed to him mid-panel at the Seoul Defense Dialogue that restated Beijing's rejection of the 2016 South China Sea arbitration ruling, calling China's actions 'coercion, bullying and aggression'; after China's foreign ministry accused him of 'theatrics,' Teodoro fired back, 'I am not an actor,' underscoring how unresolved the South China Sea dispute remains.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/11/china-philippine-south-china-sea-disputes-tensions-.html"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~5h ago",
+      "empty": false,
+      "headline": "Iranian commercial ship struck near the Strait of Hormuz, killing one crew member, as the US-Iran war grinds on",
+      "body": "Iranian state media said an unidentified projectile hit a commercial vessel near Hengam Island off Qeshm early Sunday, killing crew member Jamshid Rajabi and wounding four others in the first attack on a merchant hull inside Iranian coastal waters since the tanker campaign resumed; the strike came as Gulf Arab foreign ministers prepare to meet Iran's foreign minister in Oman Monday to discuss the crisis around a strait where the US Navy has maintained a blockade posture for months.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/13/middleeast/iran-hormuz-qeshm-attack-intl"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "A thorough search today turned up nothing new on military hardware or platforms inside the 72-hour window; recent items like the General Atomics Wildfire drone unveiling and Northrop Grumman's new Elkton propulsion center were already reported or fall outside the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~21h ago",
+      "empty": false,
+      "headline": "Anthropic's Dario Amodei calls for slowing AI development; OpenAI's Altman and Musk back him",
+      "body": "In an essay titled 'We Must Pace the Frontier,' Amodei warned that AI capabilities are advancing faster than researchers can understand or control and proposed embedding independent evaluators inside frontier labs, common safety standards, and eventual limits on dangerous capabilities like recursive self-improvement; Sam Altman said OpenAI would adopt the same evaluator-access commitment, while Elon Musk posted simply, 'Dario is right.'",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/sep/12/amodei-altman-musk-call-for-slowing-development-of/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Bears sign RB D'Andre Swift to a three-year extension through 2029 on the eve of the opener",
+      "body": "Chicago locked up its lead back with a three-year, $33.75 million extension including $27.5 million guaranteed after his career-best 2025 season; GM Ryan Poles said Swift 'epitomizes the values of the culture that we are building,' and coach Ben Johnson called him 'a fierce competitor and a loyal teammate.' The team also elevated QB Miller Moss and WR Kaden Davis from the practice squad for Sunday's opener at Carolina.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/roster-moves-chicago-bears-sign-rb-d-andre-swift-to-three-year-extension"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "William Byron qualifies 24th for the Enjoy Illinois 300 as the Round of 12 opens at Gateway",
+      "body": "Byron starts deep in the field for Sunday's 3:10 p.m. ET green flag at World Wide Technology Raceway in Madison, Illinois, the mile-and-a-quarter oval that opens the second round of the Cup Series playoffs; the Hendrick Motorsports driver has posted top-10 finishes at similarly sized tracks including Las Vegas, Kansas and Chicago earlier this season.",
+      "source": "Yardbarker",
+      "url": "https://www.yardbarker.com/nascar/articles/nascar_cup_series_starting_lineup_enjoy_illinois_300_at_gateway/s1_17702_44296123"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The denomination's active stories -- the churchwide September call to prayer and fasting and byFaith's oldest-congregations feature -- were already reported in prior briefs, and no new PCA-specific item surfaced within the 72-hour window today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
