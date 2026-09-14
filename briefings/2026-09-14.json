@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-14",
+  "dateLabel": "Monday, September 14, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-14T15:19:23Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~67h ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, September 11, 2026 close — a choppy, Labor Day-shortened week that ended lower despite a strong Friday rebound.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,656.98", "change": "-0.8%", "heroLabel": "week", "sixMo": "+13%" },
+        { "name": "Dow",     "close": "52,573.29", "change": "-1.6%", "heroLabel": "week", "sixMo": "+11%" },
+        { "name": "Nasdaq",  "close": "26,333.04", "change": "-0.7%", "heroLabel": "week", "sixMo": "+16%" }
+      ],
+      "body": "Markets were closed Monday for Labor Day, leaving a four-session week in which an oil-price spike tied to the widening Mideast conflict and caution ahead of the Fed's next meeting drove four straight losing days before Friday's in-line inflation report and a pullback in crude sparked a rebound that trimmed, but didn't erase, the week's declines.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-rise-103943781.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Houthi rebels seize Yemen's Mayun Island, closing off Saudi Arabia's last working oil export route",
+      "body": "Iran-backed Houthi forces captured the strategic island of Mayun (Perim) in the Bab el-Mandeb Strait on Friday; with the Strait of Hormuz already restricted by the US Navy's blockade and Saudi Arabia's own pipeline shut down as a precaution after an attack, Riyadh is left with no functioning corridor to move its crude, a development analysts say fits Iran's broader strategy of driving up global oil prices to pressure Washington.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Taiwan tracks fresh PLA aircraft and warship activity as Xi prepares to travel to Washington for a September 24 summit",
+      "body": "Taiwan's Ministry of National Defense detected 5 PLA aircraft sorties and 5 PLAN ships operating around the island as of Saturday morning, with 3 of the sorties crossing into Taiwan's southwestern and eastern air defense zones -- part of the steady drumbeat of Chinese military activity that continues even as Xi Jinping prepares for his second summit with Trump this year.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://www.mnd.gov.tw/en/news/PlaactList"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "CENTCOM says its Iran blockade has redirected 100 commercial ships in two months, with zero getting through",
+      "body": "US Central Command said the 'steel wall' naval blockade against Iranian ports, reinstated July 14, has redirected 100 commercial vessels over the past 60 days and that not a single ship has passed through without US forces' permission, underscoring how central the Navy's enforcement role has become to the broader war's economic-pressure campaign.",
+      "source": "Newsweek",
+      "url": "https://www.newsweek.com/iran-standoff-forces-us-to-redirect-100-ships-through-oil-chokepoint-12435605"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Ukrainian sea drone sinks a Russian naval drone in what's being called the first drone-vs-drone naval battle",
+      "body": "A Ukrainian Sargan-3000 unmanned surface vessel armed with a 12.7mm remote weapons station maneuvered alongside and sank a Russian Orcan-type naval drone in the Black Sea on Saturday, a milestone showing uncrewed platforms now fighting each other directly rather than just striking crewed ships -- a trend the Pentagon is watching closely as it builds out its own unmanned surface vessel programs.",
+      "source": "Naval News",
+      "url": "https://www.navalnews.com/naval-news/2026/09/worlds-first-naval-drone-duel-results-in-ukrainian-success/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~4h ago",
+      "empty": false,
+      "headline": "Anthropic's Dario Amodei tells CBS the industry has 'lied' about AI risk, commits to permanent third-party safety audits",
+      "body": "In a broadcast interview, the Anthropic CEO said AI capability growth is on a curve 'starting to get steeper' -- a warning sign the industry needs to slow down -- and announced Anthropic will give independent evaluators permanent, ongoing access to check its models against stated safety practices, comparing it to food-safety inspection; he also backed federal oversight, including a possible 'kill switch' for dangerous systems.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/anthropic-ceo-dario-amodei-on-ai-risks/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Rome Odunze played through his calf injury in the opener; Bears turn to a Week 2 home date with Minnesota",
+      "body": "Odunze, who had been questionable much of last week, suited up for Sunday's season opener at Carolina after NFL Network's Ian Rapoport reported he was expected to go; the Bears now shift focus to a Week 2 home game against the Vikings at Soldier Field on Sunday, September 20.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/injury-update-rome-odunze-among-four-players-questionable-for-sunday-s-season-opener-vs-panthers"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "William Byron's Round of 12 continues at Bristol's Bass Pro Shops Night Race on Saturday, Sept. 19",
+      "body": "Byron's Chase for the NASCAR Cup Series championship moves to the third race of the Round of 12 at Bristol Motor Speedway's concrete half-mile, with the Bass Pro Shops Night Race green-flagging at 7:30 p.m. ET on USA Network, PRN Radio and SiriusXM; Josef Newgarden will drive the Chevrolet pace car for the event.",
+      "source": "Bristol Motor Speedway",
+      "url": "https://www.bristolmotorspeedway.com/events/bass-pro-shops-night-race/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The denomination's recent items -- the September call to prayer and fasting, Fred Greco's confirmation as Stated Clerk, and the creation of two new presbyteries -- were already reported in prior briefs, and no new PCA-specific story surfaced within the 72-hour window today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
