@@ -1,97 +1,145 @@
 {
- "generated": "2026-09-14T02:15:03+00:00",
+ "generated": "2026-09-14T07:59:12+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 35,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
+  "Catchfence",
   "Defense News",
+  "Forbes",
   "Fox News",
-  "NWI Times",
+  "MotorBiscuit",
+  "Motorsport.com",
+  "NASCAR.com",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "Maryland dad blamed 'Satan' after 2-month-old daughter died from horrific head trauma",
-   "url": "https://www.foxnews.com/us/maryland-dad-blamed-satan-2-month-old-daughter-died-horrific-head-trauma",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A Maryland father blamed Satan for his 2-month-old daughter s fatal head trauma that led to her death, as he and the child s mother are facing child abuse charges.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/maryland-couple-satan-child-abuse.png?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-09-14T02:01:01+00:00"
-  },
-  {
-   "title": "Creepy 'Cat in the Hat' trend targets schools as costumed figure allegedly chases teen girl",
-   "url": "https://www.foxnews.com/us/creepy-cat-hat-trend-targets-schools-costumed-figure-allegedly-chases-teen-girl",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A person dressed as the Cat in the Hat allegedly chased a teen girl in British Columbia as the creepy trend sparks school threats nationwide.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cat-in-the-hat-creepy-social-media-trend-school-threats.png?ve=1&tl=1",
+   "title": "Iran says it destroys U.S. advanced drone over Hormuz as Middle East conflict intensifies",
+   "url": "https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Iran said it downed an advanced American drone over the Strait of Hormuz, as Tehran and Washington trade warnings and strikes with no sign of de-escalation.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108362281-1789370559002-gettyimages-1720200100-nikoubazl-iranunma231011_npkH6.jpeg?v=1789370654&amp;w=1920&amp;h=1080",
    "age": "34m ago",
-   "published": "2026-09-14T01:40:06+00:00"
+   "published": "2026-09-14T07:24:21+00:00"
   },
   {
-   "title": "The 10-year Treasury is closing in on 5%. How it gets there matters more",
+   "title": "Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record",
+   "url": "https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "U.S. diesel prices have surpassed $6 a gallon for the first time ever as the Ukraine and Iran wars drive broader energy supply concerns.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108362275-1789368803968-gettyimages-2295138337-0d6a0011_uvpp2wwm.jpeg?v=1789368871&amp;w=1920&amp;h=1080",
+   "age": "37m ago",
+   "published": "2026-09-14T07:22:01+00:00"
+  },
+  {
+   "title": "Yen appreciation has carry-trade seekers looking at these two currencies",
+   "url": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "",
+   "image": "https://image.cnbcfm.com/api/v1/image/108351296-1787104608957-gettyimages-2290361698-cfoto-chinesey260817_npHaO.jpeg?v=1787104839&amp;w=1920&amp;h=1080",
+   "age": "48m ago",
+   "published": "2026-09-14T07:10:37+00:00"
+  },
+  {
+   "title": "AI extinction warnings dominate headlines after ex-Anthropic employee's viral post",
+   "url": "https://www.foxnews.com/opinion/ai-extinction-warnings-dominate-headlines-after-ex-anthropic-employees-viral-post",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jacob Coxon s viral warning that AI could kill humanity sparked massive media coverage, but the White House and tech critics question the real motives.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/dario-amodei-ai-fox-news.png?ve=1&tl=1",
+   "age": "58m ago",
+   "published": "2026-09-14T07:00:24+00:00"
+  },
+  {
+   "title": "U.S. Treasury yields are steady as 10-year closes in on 5% ahead of Fed rates decision",
    "url": "https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
    "summary": "The 10-year Treasury yield is closing in on 5%, a level last touched in October 2023. Strategists say the drivers behind higher yields are more important.",
    "image": "https://image.cnbcfm.com/api/v1/image/108360492-1788966861917-108360492-1788966786169-gettyimages-2294331286-6k4a4976_umhwginm.jpg?v=1788966870&amp;w=1920&amp;h=1080",
-   "age": "35m ago",
-   "published": "2026-09-14T01:39:13+00:00"
+   "age": "1h ago",
+   "published": "2026-09-14T06:53:30+00:00"
   },
   {
-   "title": "Prediction markets are becoming more professionalized, but also harder to beat",
-   "url": "https://www.cnbc.com/2026/09/14/prediction-markets-efficient-win-lose-beat.html",
+   "title": "Trump touts White House renovations, says building was in ‘very bad condition’",
+   "url": "https://www.foxnews.com/politics/trump-touts-white-house-renovations-says-building-very-bad-condition",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "President Donald Trump said the White House looked like a dump before his renovations, saying the exterior skin was practically falling off.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-white-house-renovations.png?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-14T06:41:52+00:00"
+  },
+  {
+   "title": "Federal judge rules Trump admin plan to cut FEMA workforce in half is unlawful",
+   "url": "https://www.foxnews.com/politics/federal-judge-rules-trump-admin-plan-cut-fema-workforce-half-unlawful",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A federal judge ruled DHS unlawfully seized the Federal Emergency Management Agency s authority over staffing and pushed thousands of job cuts.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/fema-dhs-judge-ruling.png?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-14T05:17:50+00:00"
+  },
+  {
+   "title": "LA Clippers owner Steve Ballmer apologizes over team sanctions",
+   "url": "https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The institutionalization of prediction markets threatens to erode the edge of skilled traders who earn off mispricing and market inefficiencies, experts say.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358208-1788404642278-gettyimages-2267755446-au55b5fsji4g2ogkccrk443wrm.jpeg?v=1788404664&amp;w=1920&amp;h=1080",
-   "age": "37m ago",
-   "published": "2026-09-14T01:37:44+00:00"
+   "summary": "Ballmer said that the team is complying with the penalties, has paid the fines, and is \"moving forward.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108358072-1788381479834-gettyimages-2253968374-km3_3102_0l3wn4ow.jpeg?v=1788381518&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-14T04:58:46+00:00"
   },
   {
-   "title": "Jaxson Dart takes brutal hit early in Giants vs Cowboys opener but what happened next was kind of surprising",
-   "url": "https://www.foxnews.com/outkick-sports/jaxson-dart-takes-brutal-hit-early-giants-vs-cowboys-opener-what-happened-next-was-kind-surprising",
+   "title": "John Harbaugh's Giants on full display in bruising win over Cowboys to kick off NFL season",
+   "url": "https://www.foxnews.com/outkick-sports/john-harbaugh-giants-full-display-bruising-win-cowboys-kick-off-nfl-season",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Jaxson Dart took a brutal hit from DeMarvion Overshown along the sideline, but the Giants QB avoided the blue medical tent despite his concussion history.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jaxson-dart-giants-warming-up-metlife.jpg?ve=1&tl=1",
-   "age": "52m ago",
-   "published": "2026-09-14T01:22:31+00:00"
+   "summary": "Methodic runs, more mature Jaxson Dart, and chewing clock led to a perfect start to the John Harbaugh era for the New York Giants against the Dallas Cowboys.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/john-harbaugh-giants-metlife-stadium.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-09-14T03:58:58+00:00"
   },
   {
-   "title": "Mustachioed Red Sox rookie Payton Tolle opens game with immaculate inning, leaves Royals helpless",
-   "url": "https://www.foxnews.com/outkick-sports/mustachioed-red-sox-rookie-payton-tolle-opens-game-immaculate-inning-leaves-royals-helpless",
+   "title": "La Catalina ends Flammer's 1,128-day reign as AAA Reina de Reinas champion at Triplemania 34",
+   "url": "https://www.foxnews.com/outkick-sports/la-catalina-ends-flammers-1128-day-reign-aaa-reina-de-reinas-champion-triplemania-34",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Payton Tolle struck out the Kansas City Royals top three batters on nine pitches, throwing just the 125th immaculate inning in MLB history.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/redsox1234.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-14T00:35:29+00:00"
+   "summary": "Roxanne Perez already awaits as No. 1 contender after La Catalina ended Flammer s historic 1,128-day Reina de Reinas reign at Triplemania 34.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/la-catalina-flammer-triplemania-34.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-09-14T03:04:58+00:00"
   },
   {
-   "title": "New AP Poll Top 25 punishes Ohio State, Oklahoma, Oregon, Texas jumps to No 1 after big comeback",
-   "url": "https://www.foxnews.com/outkick-sports/ap-poll-top-25-punishes-ohio-state-oklahoma-oregon-texas-jumps-no-1-big-comeback",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The AP Top 25 poll reshuffled after Texas Longhorns topped Ohio State, but the Buckeyes five-spot drop exposes a flaw in how voters weigh losses.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/arch-manning-texas-longhorns-fox-news__004.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-14T00:23:54+00:00"
+   "title": "Hendrick Motorsports Takes Over Gateway as Kyle Larson Ends Long NASCAR Drought",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUVQtMld3b0lUdmYzZ01RQ0Mwem1ET1djazZkdDcxX3NMMDExWG9UNi0xTWo3VjM1T3I3TDNCbFhnbk0zZ1haTTAyd29NQVExbXREUlFWb0w4WU1UREpaa3JEc1Y0ekJkVkFJRU40SHo5R2lSWUlITFZnQldta1E?oc=5",
+   "source": "MotorBiscuit",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "7h ago",
+   "published": "2026-09-14T00:16:09+00:00"
   },
   {
    "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
@@ -101,7 +149,7 @@
    "topic": "ai",
    "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-09-13T21:56:52+00:00"
   },
   {
@@ -112,7 +160,7 @@
    "topic": "ai",
    "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles int…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Deven-Parekh.jpg?resize=1200,800",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-09-13T21:30:00+00:00"
   },
   {
@@ -123,7 +171,7 @@
    "topic": "ai",
    "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-13T20:49:38+00:00"
   },
   {
@@ -134,7 +182,7 @@
    "topic": "ai",
    "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/06/shrinking-yc.jpg?resize=1200,675",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-13T20:28:00+00:00"
   },
   {
@@ -145,63 +193,19 @@
    "topic": "ai",
    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-09-13T19:40:15+00:00"
   },
   {
-   "title": "Northwest Indiana nonprofit leaders fear shrinking funding, embrace growing demand",
-   "url": "https://nwitimes.com/news/article_380d633d-27e7-43d7-b412-f5b515dc4503.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Northwest Indiana nonprofits are continuing to grow in their demand and scope, but fear that resources continue to be scarce.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/6f/06f71543-7eb4-44d3-92b0-7c7f8f55a094/6a973c128ae5c.image.jpg?resize=300%2C191",
-   "age": "7h ago",
-   "published": "2026-09-13T19:15:00+00:00"
-  },
-  {
-   "title": "Washington scrambles to meet calls for AI guardrails while the window to act closes",
-   "url": "https://www.cnbc.com/2026/09/13/ai-congress-anthropic-openai-crisis.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The House is scheduled to be sent home in the coming days until after November's midterm elections, leaving a narrow window to pass any form of AI regulation.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108279107-1773772538515-gettyimages-2267071488-_s010514_2opooioo.jpeg?v=1773772591&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-09-13T17:48:53+00:00"
-  },
-  {
-   "title": "Anthropic's Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
-   "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "OpenAI CEO Sam Altman, Demis Hassabis, the chair of Google DeepMind, and Elon Musk have all welcomed Amodei's proposal.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108267419-1771518692466-gettyimages-2261864825-INDIA_AI_SUMMIT.jpeg?v=1776348710&amp;w=1920&amp;h=1080",
-   "age": "9h ago",
-   "published": "2026-09-13T16:39:24+00:00"
-  },
-  {
-   "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-   "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the techno…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
-   "age": "9h ago",
-   "published": "2026-09-13T16:30:00+00:00"
-  },
-  {
-   "title": "Vessel struck in Strait of Hormuz, UKMTO says, as prospects for U.S.-Iran diplomacy appear elusive",
-   "url": "https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The latest strike happened ahead of an expected meeting between Iranian and Gulf officials in Oman to sign an agreement for shipping through the strait.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108362187-1789305221263-gettyimages-2294402026-AA_12092026_2948733.jpeg?v=1789305248&amp;w=1920&amp;h=1080",
-   "age": "12h ago",
-   "published": "2026-09-13T13:38:23+00:00"
+   "title": "Hendrick Motorsports Has Its Eyes On NASCAR’s Next Generation",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSm9hUUZFdzRKU3VlT0N1Sm1ybnV6VEJ1dFZPaTBsVGgxY1dsSzkyay1ON2ZqQTIxZTZGczVXWmpqcFIwZXlCNEFSNG5oS2RTOTMzVmlPdkhoc1NCZGlmUjZsX0FKQVZDd04yR3F0NmI4cHVqM1RTaFFmSjdqQWpSak1OVHpzRTBLd2F4UWFpLVV2ZjNKaEdodE5FckxDaEhaZUJrMGx1c0dEOGFKbjRBSA?oc=5",
+   "source": "Forbes",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "15h ago",
+   "published": "2026-09-13T16:53:24+00:00"
   },
   {
    "title": "I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.",
@@ -211,19 +215,8 @@
    "topic": "ai",
    "summary": "The manufacturer has a service that lets owners repair their own equipment.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Deere-5ML-Tractor-1152x648.jpg",
-   "age": "15h ago",
+   "age": "20h ago",
    "published": "2026-09-13T11:00:41+00:00"
-  },
-  {
-   "title": "GEORGE GRENCHIK | 9/11 brings memories, and longing for unity",
-   "url": "https://nwitimes.com/opinion/columnists/guest-columnists/article_0a6d809d-641e-4771-bace-604d3df68f35.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "15h ago",
-   "published": "2026-09-13T11:00:00+00:00"
   },
   {
    "title": "First-Ever Kill Of A Drone Boat By Another Drone Boat Claimed By Ukraine",
@@ -235,6 +228,28 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Sargan-3000-kill.jpg?quality=85",
    "age": "1d ago",
    "published": "2026-09-12T21:34:16+00:00"
+  },
+  {
+   "title": "Hendrick Motorsports underscores long-term commitment to Corey Day",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRjc5S1hTdENaaFNYQWZGZWRxS3BmZWtaRGxKLVEzV3RsYTA0bE8zMml1UGM2TkkwSk1jVlRXc096NTBZUTcyN3NxaEtBQVo2OTVJRHJNb0ExMDZjS1MtX2RsUFhZTUE3YUZwSkZMSmZGYi1HS2lubklzRlhHVmRIYUgwcVhuN2ZNLV9tdFNwVjRxRnA5M2FfZWMxMzlRaVRFUXI3dA?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-09-12T21:29:16+00:00"
+  },
+  {
+   "title": "Hendrick Motorsports details 'The Corey Day Plan'",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT3FhNFBISUNudW5IQ1JDaUZIMHZLSkEwanlGenVqMFIwa0hDdm9xLVpVdHpGdllDWEJvY05STzg0dFdaeGIwTkJ3ZTAxTG1sYzdwOTIyYmdHVW53OVlvUUtRZy0zbFBBdjd4U2FudzUtbjl0ZmVzV21oWVpmaDd4U0pOWlFWbTljRUxIc0xwRmpleXQyNExvcEN0NDMzS2paeDFv?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-09-12T18:28:47+00:00"
   },
   {
    "title": "I spent $4,000 on a robot dog from China",
@@ -347,17 +362,6 @@
    "published": "2026-09-11T18:47:52+00:00"
   },
   {
-   "title": "One Of These Missiles Is Set To Be The Army’s Next Mid-Tier Anti-Air Interceptor",
-   "url": "https://www.twz.com/land/one-of-these-missiles-is-set-to-be-the-armys-next-mid-tier-anti-air-interceptor",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The new Enduring Shield system paired with AIM-9X Sidewinders already gives the Army its first mid-range air defense capability in decades. The post One Of These Missile…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/two-missiles-head-to-head-new-army-interceptor.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-09-11T17:45:20+00:00"
-  },
-  {
    "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
    "url": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base/",
    "source": "Breaking Defense",
@@ -435,6 +439,17 @@
    "published": "2026-09-11T14:18:50+00:00"
   },
   {
+   "title": "Corey Day Extends Hendrick Motorsports Deal, Sets NASCAR Cup Series Debut for 2027",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVDhTWlMtWHJ6OW1WQUIzeGRtLXh4NGlSeTdRU3VndmE1M2NHUTEyV3MxMWlBaXJ0dElrS290Z003aTBJVzgzcVlGb2JfenF5cU1pUlRLUHR3cWFYekFCN1VaamV6ZVQydUxYYTgzZVpwY1FpeUFVYWlfYVdmQ0FEOGZvMWZBbUFZQUkxY2RLcWxXUXViX09NMGk3LVJFcE5JTTdxbjBENVEzcnZrMkQwMEdROU9DZktGcE9HcDU5X0JaX0tTX1VRSDNQdw?oc=5",
+   "source": "Catchfence",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-09-11T01:03:14+00:00"
+  },
+  {
    "title": "3 Killed in Strike on Alleged Drug Boat",
    "url": "https://news.usni.org/2026/09/10/3-killed-in-strike-on-alleged-drug-boat",
    "source": "USNI News",
@@ -444,17 +459,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-10-at-12.22.10-PM-scaled.png",
    "age": "3d ago",
    "published": "2026-09-10T17:38:24+00:00"
-  },
-  {
-   "title": "Sailors, Marines Deploy Long-range Missile Systems to Norway for Drills",
-   "url": "https://news.usni.org/2026/09/10/sailors-marines-deploy-long-range-missile-systems-to-norway-for-drills",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The U.S. Navy and Marine Corps recently deployed the sea service’s long-range Containerized Launching System and Strike Master Coastal Defense System to Norway as part o…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9899154-scaled.jpg",
-   "age": "3d ago",
-   "published": "2026-09-10T16:07:37+00:00"
   }
  ]
 }
