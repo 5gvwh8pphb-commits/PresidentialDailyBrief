@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-15",
+  "dateLabel": "Tuesday, September 15, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-15T13:55:04Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, September 14, 2026 close — stocks slipped as AI-slowdown warnings hit chip stocks alongside rising oil prices and bond yields.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,604.29", "change": "-15.69", "changePct": "-0.21%", "sixMo": "+15%" },
+        { "name": "Dow", "close": "52,080.24", "change": "-340.96", "changePct": "-0.65%", "sixMo": "+12%" },
+        { "name": "Nasdaq", "close": "26,135.11", "change": "-51.31", "changePct": "-0.20%", "sixMo": "+18%" }
+      ],
+      "body": "Chip and AI-linked names led the pullback after Anthropic CEO Dario Amodei's call to slow frontier AI development drew pushback from Washington and Beijing alike; the 10-year Treasury yield touched its highest level since 2023 and oil rose on continued Middle East tensions.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "Venezuela joins US-hosted G20 energy summit in Houston as Washington seeks more oil deals",
+      "body": "A Venezuelan delegation, including its hydrocarbons minister and a PDVSA executive, is attending G20 energy meetings in Houston through September 16 at the Trump administration's invitation, even though Venezuela is not a G20 member. The move gives Caracas added diplomatic standing at a premier energy forum as global oil prices stay elevated amid the Middle East conflict.",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/americas/20260915-venezuela-to-join-g20-energy-meetings-in-texas-at-us-invitation"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "Taiwan tracks 20 PLA aircraft sorties and 7 Chinese navy ships ahead of Xi's Washington visit",
+      "body": "Taiwan's Ministry of National Defense reported 20 PLA aircraft sorties, seven PLA Navy vessels and six other official ships operating around the island as of Tuesday morning, with 15 sorties crossing into Taiwan's air defense identification zone. The activity precedes Xi Jinping's planned September 24 visit to Washington for a summit with President Trump.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://x.com/MoNDefense/status/2089880025508233270"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Oman postpones Gulf talks on easing Strait of Hormuz tensions as tanker war continues",
+      "body": "Oman called off a planned meeting between Iran and six Gulf states meant to de-escalate the Strait of Hormuz corridor after Saudi Arabia objected to proposed changes and Bahrain declined to attend. The postponement came as a tanker was struck near Hengam Island, which Iranian state media attributed to the US military, and as Brent crude rose to roughly $106.69 a barrel amid the months-long US-Iran naval conflict.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Golden Dome on track for 2028 after two secretive tests, Space Force general says",
+      "body": "At the Air, Space and Cyber Conference, Golden Dome director Gen. Michael Guetlein said the missile-defense shield -- which will lean on AI to help operators process data from space-based interceptors, radars and command-and-control systems now under contract -- has completed two secretive tests and remains on pace to deliver initial operational capability by summer 2028, with its price tag now around $185 billion.",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/sep/14/right-not-defended-urgency-golden-dome-missile-shield-focus-major/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Trump rejects AI-slowdown calls from Amodei as China dismisses the warnings as 'fearmongering'",
+      "body": "President Trump said his focus is on beating China in AI and that a strong president is the only guardrail the technology needs, rebuffing Anthropic CEO Dario Amodei's essay urging labs to deliberately slow model development, which OpenAI's Sam Altman and Elon Musk had both endorsed. China's Foreign Ministry called the warnings 'fearmongering' and part of a 'Cold War playbook' meant to contain Chinese AI.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The available Bears stories from the last day either recap the outcome of Sunday's Week 1 game, which the spoiler rule excludes, or duplicate the D'Andre Swift extension and Odunze injury items already reported in prior briefs; nothing new and eligible surfaced within the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The latest Byron coverage centers on his finishing position and points move at last weekend's Gateway race, which the spoiler rule excludes since it's within the past 7 days; the Bristol preview was already reported in yesterday's brief, and no new non-spoiler item surfaced today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "PCA's top court softens Burk Parsons's censure from suspension to admonition",
+      "body": "The Standing Judicial Commission upheld Central Florida Presbytery's finding that Ligonier Ministries' Burk Parsons engaged in harsh and domineering leadership, but reversed a slander charge and reduced his censure from indefinite suspension to admonition, citing steps he has taken to address the pattern. The commission voted 15-2 to concur, with six members recused or absent.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/sjc-issues-decision-in-te-burk-parsons-appeal/"
+    }
+  ]
+}
