@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-16",
+  "dateLabel": "Wednesday, September 16, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-16T12:33:53Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, September 15, 2026 close — stocks fell for a second straight session as Treasury yields hit their highest level since 2007 ahead of the Fed's decision.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,585.73", "change": "-34.25", "changePct": "-0.45%", "sixMo": "+13%" },
+        { "name": "Dow", "close": "52,093.11", "change": "-328.09", "changePct": "-0.63%", "sixMo": "+11%" },
+        { "name": "Nasdaq", "close": "25,981.57", "change": "-204.84", "changePct": "-0.78%", "sixMo": "+16%" }
+      ],
+      "body": "Chip and AI-linked names extended their slide as the 10-year Treasury yield climbed to its highest level since 2007 and oil stayed elevated on Middle East supply worries, with investors bracing for the Fed's Wednesday rate decision.",
+      "source": "Yahoo Finance",
+      "url": "https://sg.finance.yahoo.com/news/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Saudi crown prince meets CENTCOM chief in Jeddah as Houthis push toward Bab el-Mandeb Strait",
+      "body": "Mohammed bin Salman met Adm. Brad Cooper on Monday after separately pressing President Trump by phone for direct US strikes on Yemen's Houthis; Trump declined to authorize strikes but agreed to expand intelligence-sharing and targeting support for Saudi forces as the Iran-aligned group advances along the Red Sea coast toward the strategic Bab el-Mandeb chokepoint.",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/09/centcom-chief-meets-saudi-arabias-mbs-amid-houthi-gains-yemen"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Taiwan tracks 15 PLA aircraft sorties and 8 PLA Navy ships in latest 24-hour count",
+      "body": "Taiwan's Ministry of National Defense detected 15 PLA aircraft sorties, eight PLA Navy vessels and two official ships operating around the island in the 24 hours to 6 a.m. Wednesday, with 12 of the sorties crossing into Taiwan's northern, southwestern and eastern air defense zones as Beijing keeps up pressure ahead of Xi Jinping's September 24 Washington summit.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://www.mnd.gov.tw/en/News/PLAAct/87770"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~21h ago",
+      "empty": false,
+      "headline": "Pentagon inspector general puts Iran war cost at $33.4 billion, with up to 30 Reapers and dozens of other aircraft lost",
+      "body": "The first Lead Inspector General report on Operation Epic Fury tallies $33.4 billion in costs through June 29 -- $22.3 billion in expended munitions, $7.4 billion in obligations and $3.7 billion in equipment losses -- and counts as many as 30 MQ-9 Reapers along with F-15Es, an A-10 and helicopters destroyed; the report also lists 18 US troops killed and 417 wounded in the operation through that date.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/09/iran-war-costs-airplanes-buildings-stockpile-concerns-ig-report/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "Air Force secretary confirms for the first time that the US has weapons stationed in space",
+      "body": "Speaking at the Air, Space and Cyber Conference, Air Force Secretary Troy Meink said the US has fielded 'on-orbit space control weapons capable of defending the Joint Force against hostile adversary action' -- the first official US confirmation of space-based weapons, tied to the broader Golden Dome missile-defense buildup -- though he did not disclose what the weapons are or how they work.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5970937/us-weapons-space"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic picks Nasdaq for a possible October IPO reportedly approaching a $2 trillion valuation",
+      "body": "Anthropic has selected Nasdaq over the NYSE for its planned public listing, with Morgan Stanley, Goldman Sachs and JPMorgan leading an offering that could come as soon as October; the company has not yet filed publicly and must disclose financials at least 15 days before its investor roadshow begins, and the timing comes as AI-safety debate over frontier development continues to intensify.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-selects-nasdaq-planned-ipo-111027066.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Coverage since Sunday's opener centers on the game's result and its fallout, which the spoiler rule excludes, and this week's Week 2 injury-report items for the Vikings game could not be independently confirmed as current rather than recycled Week 1 reporting; nothing new and eligible surfaced within the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The available Byron coverage this week centers on his finishing position and Chase standings move at last weekend's Gateway race, which the spoiler rule excludes since it falls within the past 7 days, and the Bristol elimination-race preview was already reported in a prior brief; no new non-spoiler item surfaced today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The denomination's most recent items -- the Standing Judicial Commission's Burk Parsons ruling, reported yesterday, and the General Assembly's published response to the Overture 37 diaconate dissent, dated September 9 -- fall outside today's window, and no new PCA-specific story surfaced within 72 hours.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
