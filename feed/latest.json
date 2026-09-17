@@ -1,27 +1,134 @@
 {
- "generated": "2026-09-17T03:10:23+00:00",
+ "generated": "2026-09-17T08:47:06+00:00",
  "count": 40,
- "withImage": 37,
- "bearsDay": true,
+ "withImage": 36,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "FanBuzz",
+  "Forbes",
   "Fox News",
   "Hendrick Motorsports",
-  "On3",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron"
+  "on3.com"
  ],
  "items": [
+  {
+   "title": "Trump says U.S. ‘hopefully’ nearing end of Iran war as Saudi Arabia-Houthis trade strikes",
+   "url": "https://www.cnbc.com/2026/09/17/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump says the U.S. may be nearing the end of its nearly seven-month war with Iran, as he signals Tehran is open to a deal.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108364207-1789623411905-gettyimages-2283591551-AFP_B8WN4ZA.jpeg?v=1789623422&amp;w=1920&amp;h=1080",
+   "age": "50m ago",
+   "published": "2026-09-17T07:56:49+00:00"
+  },
+  {
+   "title": "West Virginia woman charged in death of ill husband she left on toilet for 19 hours",
+   "url": "https://www.foxnews.com/us/west-virginia-woman-charged-death-ill-husband-left-toilet-19-hours",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A West Virginia woman allegedly left her husband who had dementia and Alzheimer s on a toilet for 19 hours without food or medication, leading to his death.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/wv-woman-toilet-charged-husband-death.png?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-17T07:00:13+00:00"
+  },
+  {
+   "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+   "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108364209-1789623711420-gettyimages-2286791878-al1_5260_gz11tqfr.jpeg?v=1789623722&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-17T05:42:46+00:00"
+  },
+  {
+   "title": "20 states sue to block Trump admin rule that would make it harder for immigrants to obtain visas, green cards",
+   "url": "https://www.foxnews.com/politics/20-states-sue-block-trump-admin-rule-harder-immigrants-obtain-visas-green-cards",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "More than 20 states sued the Department of Homeland Security over a public charge rule that could increase green card denials based on Medicaid and SNAP use.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-and-mullin.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-17T05:33:43+00:00"
+  },
+  {
+   "title": "Bank of England set to defy Fed’s rate-hike lead, despite rising inflation",
+   "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Bank of England is expected to keep rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs keep pressure on prices.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108355817-1787935170986-108355817-1787932538588-_05A6238-1.jpg?v=1787943832&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-17T05:20:23+00:00"
+  },
+  {
+   "title": "A stronger dollar and rising yields: How the Fed’s rate hike could hit global markets",
+   "url": "https://www.cnbc.com/2026/09/17/fed-rate-hike-impact-globally-currency-yields.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Higher U.S. rates could also keep global bond yields elevated and weigh on equity valuations and economic growth.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108364037-17895893572026-09-16t200807z_1402825571_rc2iknai4t1v_rtrmadp_0_usa-fed-stocks.jpeg?v=1789589422&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-17T05:03:07+00:00"
+  },
+  {
+   "title": "Putin braces for election stress test as Russians ‘feel the pain’ of struggling economy",
+   "url": "https://www.cnbc.com/2026/09/17/russia-putin-state-duma-election-ukraine-war.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Russia’s upcoming election is expected to cement United Russia’s dominance, but voter turnout and its margin of victory could offer clues to public discontent.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108363462-1789536301329-gettyimages-2294906219-AFP_C8CT6TT.jpeg?v=1789536509&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-17T05:00:01+00:00"
+  },
+  {
+   "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+   "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
+   "age": "3h ago",
+   "published": "2026-09-17T05:00:00+00:00"
+  },
+  {
+   "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrif…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+   "age": "5h ago",
+   "published": "2026-09-17T03:30:00+00:00"
+  },
+  {
+   "title": "WATCH: Handcuffed inmate breaks free, punches deputy in wild courthouse escape attempt",
+   "url": "https://www.foxnews.com/us/handcuffed-inmate-breaks-free-punches-deputy-wild-courthouse-escape-attempt",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Video shows Timothy Reaggle allegedly slipping out of his handcuffs and punching a bailiff in an attempt to escape after his sentencing hearing at the Columbiana County …",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ohio-courthouse-inmate-slides-down-stairs.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-09-17T03:09:53+00:00"
+  },
   {
    "title": "Sam Leavitt injury bombshell sends LSU-Ole Miss showdown into chaotic mode, as Kiffin's return looms",
    "url": "https://www.foxnews.com/outkick-sports/sam-leavitt-injury-bombshell-sends-lsu-ole-miss-showdown-chaotic-mode-kiffin-return-looms",
@@ -30,7 +137,7 @@
    "topic": "world",
    "summary": "Sam Leavitt listed as doubtful on the SEC availability report days before LSU s showdown at Ole Miss, raising major questions about his status.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sam-leavitt-lsu-tigers-touchdown-celebration.jpg?ve=1&tl=1",
-   "age": "13m ago",
+   "age": "5h ago",
    "published": "2026-09-17T02:56:44+00:00"
   },
   {
@@ -41,41 +148,8 @@
    "topic": "world",
    "summary": "The FBS Oversight Committee confirmed Western Michigan would have beaten Michigan had Big Ten officials followed correct instant replay protocols.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/markel-dabney-michigan-wolverines-hail-mary.jpg?ve=1&tl=1",
-   "age": "48m ago",
+   "age": "6h ago",
    "published": "2026-09-17T02:22:21+00:00"
-  },
-  {
-   "title": "Democrat candidate seen sobbing, praying in patrol car after DUI arrest: Video",
-   "url": "https://www.foxnews.com/politics/democrat-candidate-seen-sobbing-praying-patrol-car-dui-arrest-video",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Police video shows Washington state Democrat Krista Perez admitting to drinking wine and begging to go home during her Tacoma DUI arrest in August.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/washington-democrat-dui-arrest-patrol-car.png?ve=1&tl=1",
-   "age": "58m ago",
-   "published": "2026-09-17T02:11:53+00:00"
-  },
-  {
-   "title": "Plane passengers scream in harrowing mid-flight video as violent shaking sends cabin ceiling panels flying",
-   "url": "https://www.foxnews.com/world/plane-passengers-scream-harrowing-mid-flight-video-violent-shaking-sends-cabin-ceiling-panels-flying",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A Sepehran Airlines flight in Iran carrying 127 passengers and crew returned to the airport after a reported tire blowout and possible engine damage.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/iran-plane-gif.gif",
-   "age": "1h ago",
-   "published": "2026-09-17T02:10:11+00:00"
-  },
-  {
-   "title": "Oil extends losses as Saudi Arabia reportedly offers ship-to-ship crude transfers after pipeline hit",
-   "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil prices fell as additional Saudi crude supplies eased concerns over disruptions to the kingdom’s exports.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108352657-17873141172026-08-21t100029z_470843486_rc24vmai1wk3_rtrmadp_0_venezuela-oil-exports.jpeg?v=1787314184&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-17T02:08:02+00:00"
   },
   {
    "title": "Snap tries to make the case again for its $2,200 smart glasses",
@@ -85,41 +159,8 @@
    "topic": "ai",
    "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-09-17T00:58:49+00:00"
-  },
-  {
-   "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
-   "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364134-1789598777418-108364134-17895980362026-09-16t223320z_1555640163_rc2mknadlrnb_rtrmadp_0_usa-trump.jpeg?v=1789598796&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-09-17T00:55:35+00:00"
-  },
-  {
-   "title": "Bears gear up to host Vikings in NFC North showdown",
-   "url": "https://www.chicagobears.com/news/bears-gear-up-to-host-vikings-in-nfc-north-showdown",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/kkxbjacofdlfpltpazud.jpg",
-   "age": "2h ago",
-   "published": "2026-09-17T00:54:00+00:00"
-  },
-  {
-   "title": "NFL Week 2 injury report: Lions down two starting offensive lineman vs. Bills, including Blake Miller",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-2-injury-report-lions-down-two-offensive-lineman-bills/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/16/5bd937a2-8912-4517-b57b-936d29a7560e/blake.jpg",
-   "age": "2h ago",
-   "published": "2026-09-17T00:17:29+00:00"
   },
   {
    "title": "Chairman Caine talks cislunar ops, plus a window into next-gen airlift",
@@ -129,30 +170,8 @@
    "topic": "defense",
    "summary": "We discuss top news from the final day of AFA 2026.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/AFA2026-day3-pb-1024x576.png",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-09-17T00:15:38+00:00"
-  },
-  {
-   "title": "House advances bill to rein in AI data center utility costs",
-   "url": "https://www.cnbc.com/2026/09/15/congress-ai-data-center-utility-costs.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The bipartisan legislation would create a regulatory framework states could adopt to prevent data center-related energy costs from being passed on to consumers.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108362661-1789414670042-gettyimages-2292179802-dji_20260826105109_0043_d_ip1gjufd.jpeg?v=1789512644&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-09-17T00:08:01+00:00"
-  },
-  {
-   "title": "Seahawks rule out Sam Darnold for Week 2, but potential timetable for return emerges",
-   "url": "https://www.cbssports.com/nfl/news/seattle-seahawks-rule-out-sam-darnold-for-week-2/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/16/f64ca64c-074a-4158-b602-08e5512ffc76/darnold.jpg",
-   "age": "3h ago",
-   "published": "2026-09-17T00:03:22+00:00"
   },
   {
    "title": "How The Air Force Patched Up A Shrapnel-Damaged KC-135",
@@ -162,7 +181,7 @@
    "topic": "defense",
    "summary": "In addition, pushing advanced repair work closer to the front lines was critical in keeping as many airframes supporting the mission as possible. The post How The Air Fo…",
    "image": "https://www.twz.com/wp-content/uploads/2026/04/KC135-Shrapnel-UK.jpg?quality=85",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-16T23:58:35+00:00"
   },
   {
@@ -173,7 +192,7 @@
    "topic": "ai",
    "summary": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1973276988.jpg?w=1024",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-16T23:50:07+00:00"
   },
   {
@@ -184,18 +203,18 @@
    "topic": "defense",
    "summary": "AI military targeting may move faster than humans can authenticate, critics warned during a Wednesday hearing in Washington.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7XNTWDHS5BHSLIVC42LLDS5KEQ.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-16T23:49:38+00:00"
   },
   {
-   "title": "Al Gore says the real AI risk isn’t data centers — it’s what industry leaders are warning about",
+   "title": "Al Gore says the real AI risk isn’t data centers",
    "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
    "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about whe…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Al-Gore.jpg?resize=1200,800",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-09-16T23:43:09+00:00"
   },
   {
@@ -206,19 +225,8 @@
    "topic": "defense",
    "summary": "As China moves at warp speed on uncrewed aerial logistics, Textron is offering a similar solution to the Pentagon with SkyCourier UX. The post Cessna Cuts Cockpit Out Of…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Sky-Courier-Unmanned-drone-Textron.jpg?quality=85",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-09-16T23:19:36+00:00"
-  },
-  {
-   "title": "Bears embodying Ben Johnson's 'no block, no rock' mantra",
-   "url": "https://www.chicagobears.com/news/bears-embodying-ben-johnson-s-no-block-no-rock-mantra",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ulkegqfpxz1gjejlmtsm.jpg",
-   "age": "4h ago",
-   "published": "2026-09-16T22:48:18+00:00"
   },
   {
    "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
@@ -228,19 +236,8 @@
    "topic": "ai",
    "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-1152x648.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-16T22:02:46+00:00"
-  },
-  {
-   "title": "Bears vs. Vikings Injury Report: Darnell Wright DNP, Swift Limited",
-   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/122952/chicago-bears-vs-minnesota-vikings-injury-report-darnell-wright-dnp-swift",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2257893561.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
-   "published": "2026-09-16T22:00:00+00:00"
   },
   {
    "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
@@ -250,19 +247,8 @@
    "topic": "ai",
    "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-681946574-713x648.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-16T21:42:09+00:00"
-  },
-  {
-   "title": "Use FanDuel promo code to get $350 in bonus bets for Lions-Bills, LSU-Ole Miss, NFL, MLB games on Wednesday",
-   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-lions-bills-lsu-ole-miss-nfl-mlb-games-wednesday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/993c1e65-485a-4a08-ae3c-6654b27707df/fanduel-promo-code-sept-2026.jpg",
-   "age": "5h ago",
-   "published": "2026-09-16T21:14:49+00:00"
   },
   {
    "title": "Navy, Pentagon Enter Into $1.7 Billion Housing Expansion in Newport News",
@@ -272,7 +258,7 @@
    "topic": "defense",
    "summary": "Hunt Military Communities entered into a deal with the Pentagon and Navy to create a $1.7 billion development that will bring more unaccompanied housing for junior sailo…",
    "image": "https://news.usni.org/wp-content/uploads/2023/05/1327013-1-4-scaled.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-16T21:14:22+00:00"
   },
   {
@@ -283,8 +269,19 @@
    "topic": "ai",
    "summary": "Group plans to be largely out of commission for several weeks.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-16T21:08:14+00:00"
+  },
+  {
+   "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
+   "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sunrise-1152x648.jpg",
+   "age": "12h ago",
+   "published": "2026-09-16T20:44:41+00:00"
   },
   {
    "title": "Space Force’s GMTI program gets a name, with Northrop as prime: General",
@@ -294,19 +291,8 @@
    "topic": "defense",
    "summary": "Separately, the Space Force plans to issue the first operational contracts for space domain awareness to commercial firms “very soon,” according to Space Force Col. Timo…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/05/moving-target-indicator-image-from-aircraft-IMASAR-e1683134466500.jpeg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-09-16T20:28:18+00:00"
-  },
-  {
-   "title": "Herron: Allen will get defense to improve",
-   "url": "https://www.windycitygridiron.com/chicago-bears-podcasts/122930/herron-allen-will-get-defense-to-improve",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2236080090.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "7h ago",
-   "published": "2026-09-16T20:00:00+00:00"
   },
   {
    "title": "Apache Crew Rescue Highlights Need For AI In Combat Says Joint Chiefs Chairman",
@@ -316,19 +302,8 @@
    "topic": "defense",
    "summary": "AI enabled troops to manage networks of unmanned systems across thousands of miles of water and to pull assets together for a quick rescue. The post Apache Crew Rescue H…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Apache-Rescue-Caine.jpg?quality=85",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-16T19:36:49+00:00"
-  },
-  {
-   "title": "Chicago Bears and Bears Care launch 2026 Real Bears Fans Wear Pink shirts",
-   "url": "https://www.chicagobears.com/news/chicago-bears-and-bears-care-launch-2026-real-bears-fans-wear-pink-shirts",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/gydi82gx6tsi2rhjzf57.png",
-   "age": "7h ago",
-   "published": "2026-09-16T19:30:00+00:00"
   },
   {
    "title": "Japan Air Self-Defense Force Recon Drone Crashes into Sea of Japan",
@@ -338,7 +313,7 @@
    "topic": "defense",
    "summary": "One of Japan Air Self-Defense Force’s RQ-4 Global Hawk Unmanned Aircraft System crashed into the Sea of Japan on Tuesday, the service announced. The reconnaissance drone…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/7090964-scaled.jpg",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-16T19:13:24+00:00"
   },
   {
@@ -349,19 +324,41 @@
    "topic": "defense",
    "summary": "SPACECOM also is focusing on developing the baseline capabilities, such as space domain awareness and satellite communications, to undertake cislunar operations, said Ge…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/240410_whiting_keynote_space_symposium_space_foundation-e1712757057987-1024x577.jpg",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-16T19:08:28+00:00"
   },
   {
-   "title": "Will the Vikings’ Dallas Turner stop the Bears in their tracks?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/122814/will-the-vikings-dallas-turner-stop-the-bears-in-their-tracks-braxton-jones",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2294689602.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
-   "published": "2026-09-16T18:30:00+00:00"
+   "title": "USAF Assessing Feasibility Of Restarting C-17 Production As Part Of Its Future Airlift Vision",
+   "url": "https://www.twz.com/air/usaf-assessing-feasibility-of-restarting-c-17-production-as-part-of-its-future-airlift-vision",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The USAF is about to kick off a larger review of next-generation airlift options, and is still refining requirements for new tankers. The post USAF Assessing Feasibility…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/C17-KC46.jpg?quality=85",
+   "age": "13h ago",
+   "published": "2026-09-16T19:08:16+00:00"
+  },
+  {
+   "title": "Rocket engines, helmet displays and ground robots: Last looks from AFA Day 3",
+   "url": "https://breakingdefense.com/2026/09/rocket-engines-helmet-displays-and-ground-robots-last-looks-from-afa-day-3/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Here are some parting sights from across the show floor at this year s conference.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/20260914_dwoolfolk_AFA_2026_057-1024x576.jpg",
+   "age": "14h ago",
+   "published": "2026-09-16T18:00:00+00:00"
+  },
+  {
+   "title": "One of the world’s most versatile attack planes is taking on the counter-UAS mission",
+   "url": "https://breakingdefense.com/2026/09/one-of-the-worlds-most-versatile-attack-planes-is-taking-on-the-counter-uas-mission/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] An airborne layer pushes drone engagements farther from defended assets and changes the cost-per-kill equation.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Embraer-1-1024x755.jpg",
+   "age": "14h ago",
+   "published": "2026-09-16T17:52:00+00:00"
   },
   {
    "title": "US ‘not prepared’ to respond to nuclear attacks in space, report says",
@@ -371,7 +368,7 @@
    "topic": "defense",
    "summary": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YURQMTZTQBBF3HR5OMUEIAFPPE.JPG",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-16T17:37:17+00:00"
   },
   {
@@ -382,7 +379,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-16T17:30:33+00:00"
   },
   {
@@ -393,8 +390,19 @@
    "topic": "defense",
    "summary": "The Israeli air force can look forward to yet another bomb type for its F-35 fleet.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AVJE7KZHKJDNHILQLAT6CSBHLY.jpg",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-16T17:15:01+00:00"
+  },
+  {
+   "title": "US military must adapt as formations will be ‘hunted’ by autonomous systems, Caine says",
+   "url": "https://www.defensenews.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Technology, such as AI and autonomous systems, is changing the character of war, Joint Chiefs of Staff Chairman Gen. Dan Caine said.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7FOWBNXUTJHOXEAKAX3HL2AYSI.JPG",
+   "age": "16h ago",
+   "published": "2026-09-16T16:41:30+00:00"
   },
   {
    "title": "Navy Awards $200M for Blackbeard Hypersonic Missile for Carrier Fighters",
@@ -404,19 +412,30 @@
    "topic": "defense",
    "summary": "The U.S. Navy awarded $200 million this week for the production of low-cost Blackbeard hypersonic missiles that will be fielded from the sea service’s carrier-based figh…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/mugu-web-05.jpg",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-09-16T16:35:44+00:00"
   },
   {
    "title": "Hendrick Motorsports bringing back iconic neon numbers for 2027",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR3pfMXhKOEJiMlZobmR0bGNBOVdVbnVlcW1lemc2WmEzd3RjSDFxYmVjWXh4TDdSOXFQVDZKZWY5bE1uN2JoM2JBb0VIYmhfeW9tRnpqR0RJQW5lVkJ6T3RIQU93bEpUUlYwQTlOaGYxRng4LThaanIzWWczYWtxNlpyaE9qZHFoUUlGbHJJVTlkTEhqdTZvaGpPZXY?oc=5",
-   "source": "On3",
+   "source": "on3.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-09-16T15:26:50+00:00"
+  },
+  {
+   "title": "U.S. Forces Interdict, Destroy Sixth Suspected Narco Refueling Station",
+   "url": "https://news.usni.org/2026/09/16/u-s-forces-interdict-destroy-sixth-suspected-narco-refueling-station",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "U.S. forces with Joint Task Force Western Hemisphere interdicted a floating refueling station suspected of supporting at-sea drug trafficking on Tuesday in the Eastern P…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-16-at-10.41.48-AM-scaled.png",
+   "age": "17h ago",
+   "published": "2026-09-16T15:02:36+00:00"
   },
   {
    "title": "Hendrick Motorsports returns to neon yellow numbers beginning in 2027",
@@ -426,41 +445,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "13h ago",
+   "age": "19h ago",
    "published": "2026-09-16T13:30:04+00:00"
   },
   {
-   "title": "10 Bears Things: The NFL scoring record might actually be worth paying attention to for Ben Johnson, Caleb Williams",
-   "url": "https://allchgo.com/bears/10-bears-things-scoring-record-ben-johnson-williams/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
+   "title": "Hendrick Motorsports Has Its Eyes On NASCAR’s Next Generation",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSm9hUUZFdzRKU3VlT0N1Sm1ybnV6VEJ1dFZPaTBsVGgxY1dsSzkyay1ON2ZqQTIxZTZGczVXWmpqcFIwZXlCNEFSNG5oS2RTOTMzVmlPdkhoc1NCZGlmUjZsX0FKQVZDd04yR3F0NmI4cHVqM1RTaFFmSjdqQWpSak1OVHpzRTBLd2F4UWFpLVV2ZjNKaEdodE5FckxDaEhaZUJrMGx1c0dEOGFKbjRBSA?oc=5",
+   "source": "Forbes",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/14115630/10things_ArticleTemplate-1-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-09-14T16:57:26+00:00"
-  },
-  {
-   "title": "‘It should have been worse’: Bears churn out 59 points but believe more was there",
-   "url": "https://allchgo.com/bears/bears-churn-out-59-points-but-believe-more-was-there/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/13190502/2026-09-13T173944Z_1678164664_MT1USATODAY29811289_RTRMADP_3_NFL-CHICAGO-BEARS-AT-CAROLINA-PANTHERS-2-1024x576.jpg",
+   "image": null,
    "age": "3d ago",
-   "published": "2026-09-14T00:03:25+00:00"
-  },
-  {
-   "title": "Bears 59, Panthers 37 | QB Caleb Williams, offense explodes in season opener: reactions",
-   "url": "https://allchgo.com/bears/bears-59-panthers-37-caleb-williams-offense-explodes/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/13155436/2026-09-13T180251Z_1995697186_MT1USATODAY29811558_RTRMADP_3_NFL-CHICAGO-BEARS-AT-CAROLINA-PANTHERS-1-1024x576.jpg",
-   "age": "3d ago",
-   "published": "2026-09-13T20:56:27+00:00"
+   "published": "2026-09-13T16:53:24+00:00"
   }
  ]
 }
