@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-17",
+  "dateLabel": "Thursday, September 17, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-17T13:49:29Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, September 16, 2026 close — stocks fell sharply after the Fed raised interest rates for the first time in three years and signaled more hikes to come.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,551.81", "change": "-33.92", "changePct": "-0.45%", "sixMo": "+13%" },
+        { "name": "Dow", "close": "51,461.90", "change": "-631.21", "changePct": "-1.21%", "sixMo": "+9.6%" },
+        { "name": "Nasdaq", "close": "25,978.42", "change": "-3.15", "changePct": "-0.01%", "sixMo": "+16%" }
+      ],
+      "body": "The Fed's unanimous quarter-point hike to a 3.75%-4% target range, and Chair Kevin Warsh's warning on persistent inflation, sent the Dow to its worst day in weeks; the S&P also fell but the Nasdaq closed nearly flat as resilient megacap tech offset pressure on rate-sensitive sectors.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~9h ago",
+      "empty": false,
+      "headline": "UN-backed investigators find 'reasonable grounds' the US committed war crimes in two Iran strikes that killed 178 civilians",
+      "body": "The Human Rights Council's International Fact-Finding Mission on Iran said a February 28 Tomahawk strike on a 'clearly identifiable' school in Minab and a Precision Strike Missile attack that scattered tungsten pellets over a sports complex and residential area in Lamerd killed at least 178 civilians and may constitute war crimes; the same report accused Iran's government of crimes against humanity against its own people.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5972934/us-iran-war-un-report-alleged-war-crimes"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "Taiwan detects 19 PLA aircraft sorties in a single day, with 17 crossing the Strait median line",
+      "body": "Taiwan's Ministry of National Defense recorded 19 PLA aircraft sorties, eight PLA Navy ships and two official ships operating around the island in the 24 hours to 6 a.m. Thursday local time, with 17 of the 19 sorties crossing the median line into Taiwan's northern, southwestern and eastern air defense zones as Beijing keeps up pressure ahead of Xi Jinping's September 24 Washington summit.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://www.mnd.gov.tw/en/News/PLAAct/87778"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US drone destroys two Iranian boats after an IRGC attempt to seize a Navy unmanned vessel in the Strait of Hormuz",
+      "body": "CENTCOM said Iranian small boats tried to take possession of a US unmanned surface vessel patrolling the strait on Monday, and that an American drone 'forcefully responded' by destroying both boats and killing most of those aboard -- the first announced US kinetic action in the six-month war since early September.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/15/us-iran-boats-navy-drone-strait-hormuz"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Air Force clears new B-52 engines and radar, aiming to keep the bomber flying into the 2050s",
+      "body": "Air Force acquisition chief William Bailey said the B-52's Commercial Engine Replacement Program has entered engineering and manufacturing development, swapping the bomber's 1960s-era Pratt & Whitney TF33 engines for Rolls-Royce F130s, while its Radar Modernization Program -- replacing 1980s analog radar with a new AESA system -- was cleared for low-rate production.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/09/15/air-force-moves-key-b-52-engine-and-radar-upgrades-forward/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~21h ago",
+      "empty": false,
+      "headline": "Anthropic merges Claude's chat and Cowork interfaces into one workspace, adds Docs and Slides tools",
+      "body": "Anthropic said Claude Chat and the agentic Cowork product are becoming a single unified interface rolling out to Pro and Max plans over the coming weeks, alongside two new beta tools -- Claude Docs and Claude Slides -- as the company pushes toward an all-in-one AI workspace for everyday chat and document work alike.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~21h ago",
+      "empty": false,
+      "headline": "Bears All-Pro right tackle Darnell Wright sits out practice with a knee injury ahead of the Vikings game",
+      "body": "Wright, who played all 75 offensive snaps and graded as Pro Football Focus' top overall offensive lineman in Sunday's win over Carolina, did not practice Wednesday because of a knee issue; defensive tackles Grady Jarrett (rest) and Neville Gallimore (illness) also sat out, while D'Andre Swift and several others were limited ahead of Sunday's home opener against Minnesota.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/16/bears-report-injury-darnell-wright-knee-neville-gallimore-grady-jarrett-vikings-kyler-murray-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Current Byron coverage centers on his finish and Chase-standings move from last weekend's Gateway race, which the spoiler rule excludes, and the only pre-Bristol preview content available was already reported in a prior brief; no new non-spoiler item surfaced within the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~10h ago",
+      "empty": false,
+      "headline": "PCA explains why it enforces trademark and copyright protection over its name and materials",
+      "body": "In a new denominational explainer, the PCA's stated clerk said the church 'must protect its intellectual property so our ministry's purposes are not compromised,' outlining why the PCA polices use of its name, logo and copyrighted materials -- including by look-alike groups -- and noting that consistent enforcement is legally required to keep those protections intact.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/protecting-the-pcas-shared-identity/"
+    }
+  ]
+}
