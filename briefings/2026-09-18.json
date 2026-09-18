@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-18",
+  "dateLabel": "Friday, September 18, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-18T13:13:03Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~19h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, September 17, 2026 close — stocks rallied as bond yields and oil prices eased in the wake of the Fed's rate hike.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,637.71", "change": "+85.90", "changePct": "+1.14%", "sixMo": "+14%" },
+        { "name": "Dow", "close": "51,779.85", "change": "+317.95", "changePct": "+0.62%", "sixMo": "+10%" },
+        { "name": "Nasdaq", "close": "26,418.29", "change": "+439.87", "changePct": "+1.69%", "sixMo": "+18%" }
+      ],
+      "body": "Wall Street bounced back from Wednesday's Fed-driven selloff as the 10-year Treasury yield retreated and Brent crude fell to roughly $104 a barrel after the Energy Secretary said Saudi Arabia's East-West pipeline -- an alternative route for oil stuck behind the Strait of Hormuz blockade -- would be restored soon; tech led the gains, with the Nasdaq outperforming.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-17-dow-sp-500-nasdaq-oil-fed-081248626.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Trump says the US is 'hopefully toward the end' of the Iran war, claims direct contact with Tehran",
+      "body": "President Trump said Wednesday that Iran had reached out to the US directly and was seeking a deal, raising the prospect of renewed diplomacy after seven months of war, but a senior Iranian security official accused him of sending 'mixed signals' and said Tehran would not negotiate until its conditions are met.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Rubio and Wang Yi hold call to finalize agenda for Xi's September 24 Washington summit",
+      "body": "Secretary of State Marco Rubio and Chinese Foreign Minister Wang Yi spoke Thursday to shape an agenda expected to cover trade, AI governance, and military-to-military ties ahead of Xi Jinping's visit next week, where Trump plans to personally greet him on arrival -- a courtesy not extended to other leaders this term. Asian allies remain worried Trump could soften US support for Taiwan in exchange for economic concessions.",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/09/17/2026/us-china-ramp-up-summit-preparations"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~9h ago",
+      "empty": false,
+      "headline": "Tanker struck by 'unknown projectile' in Strait of Hormuz, fire extinguished",
+      "body": "The UK Maritime Trade Operations center said a tanker transiting the Strait of Hormuz was hit early Friday, sparking a fire that crew later extinguished with no reported injuries; UKMTO did not identify the vessel or assign responsibility, the latest in a string of incidents disrupting shipping through the corridor since the naval blockade began.",
+      "source": "Arab News",
+      "url": "https://www.arabnews.com/middle-east/tanker-struck-by-unknown-projectile-in-hormuz-british-maritime-agency-3002197"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Air Force says Boeing's F-47 stealth fighter remains on track for a 2028 first flight",
+      "body": "Gen. Dale White, the Pentagon's director of Critical Major Weapons Systems, said the sixth-generation F-47 program has cleared its technology-maturation and risk-reduction work and 'we see no issues in front of us right now' toward flying within this administration; the jet, which beat out a Lockheed Martin bid in March 2025, will replace the F-22 with a planned buy of 185-200 aircraft.",
+      "source": "ClearanceJobs",
+      "url": "https://news.clearancejobs.com/2026/09/17/boeing-f-47-fighter-program-picks-up-speed-as-air-force-targets-first-flight/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Anthropic says Claude now leads 26% of the company's own AI research and development",
+      "body": "Anthropic said Claude autonomously leads about a quarter of its research and development work -- completing tasks end-to-end from a high-level prompt under human supervision -- up from essentially zero in February, while roughly 90% of R&D is done in close collaboration with the model; the announcement comes as Anthropic prepares for a planned IPO this fall.",
+      "source": "Associated Press",
+      "url": "https://abcnews.com/US/wireStory/anthropic-model-claude-helping-build-version-136547096"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Darnell Wright returns to limited practice Thursday after sitting out with a knee injury",
+      "body": "The Bears' All-Pro right tackle, who missed Wednesday's session, was back at Halas Hall in a limited role Thursday wearing sleeves on both legs but no hard brace; the team said it will monitor his response at Friday's practice before settling his designation for Sunday's home opener against the Vikings.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/17/bears-report-t-darnell-wright-returns-to-practice"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Available Byron coverage this week centers on his finishing position and Chase-standings move at last weekend's Gateway race, which the spoiler rule excludes since it falls within the past 7 days, and Saturday's Bristol preview content was already reported in a prior brief; no new non-spoiler item surfaced within the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The denomination's most recent items -- the trademark/copyright explainer and the September call to prayer and fasting -- were already reported in prior briefs, and no new PCA-specific story surfaced within the 72-hour window today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
