@@ -1,78 +1,147 @@
 {
- "generated": "2026-09-18T01:20:28+00:00",
+ "generated": "2026-09-18T06:07:04+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": false,
+ "withImage": 37,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Beyond the Flag",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "Hendrick Motorsports",
   "MotorBiscuit",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Windy City Gridiron"
  ],
  "items": [
   {
-   "title": "Ms Rachel urges 'every wealthy White celebrity' to match Macklemore's donation to Palestinian causes",
-   "url": "https://www.foxnews.com/media/ms-rachel-urges-every-wealthy-white-celebrity-match-macklemore-donation-palestinian-causes",
+   "title": "Bills cruise past Lions to christen new home behind Josh Allen's five-touchdown performance",
+   "url": "https://www.foxnews.com/outkick-sports/bills-cruise-past-lions-christen-new-home-josh-allen-five-touchdown-performance",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Children s YouTube star Ms. Rachel vowed to match singer Macklemore s $1 million donation to Palestinian causes and urged wealthy White celebrities to act.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ms-rachel-speaking.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-09-18T01:00:15+00:00"
+   "summary": "Highmark Stadium opens with underground heating coils, the world s largest snow-melt system and a 360-degree canopy as the Bills defeated the Lions.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Josh-Allen-Highmark-Stadium.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-18T04:26:30+00:00"
   },
   {
-   "title": "Patriots' TreVeyon Henderson explains siding with family over DCF in custody dispute involving gender identity",
-   "url": "https://www.foxnews.com/outkick-sports/patriots-treveyom-henderson-explains-siding-family-over-dcf-custody-dispute-gender-identity",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "TreVeyon Henderson defended his viral post about a Massachusetts family s custody battle over their daughter s gender transition during media day.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/nfl-patriots-treveyon-henderson-033126-1.jpg?ve=1&tl=1",
-   "age": "38m ago",
-   "published": "2026-09-18T00:42:23+00:00"
+   "title": "NFL Week 2 picks: Our experts face off on Giants at Rams, Bengals vs. Texans and more",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-2-picks-lions-bills-bengals-texans/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/16/4f00701d-79e2-4c63-8060-0e916baf8081/lions.jpg",
+   "age": "2h ago",
+   "published": "2026-09-18T04:00:09+00:00"
   },
   {
-   "title": "University event with Hasan Piker in Texas draws backlash from both sides of the aisle",
-   "url": "https://www.foxnews.com/media/university-event-hasan-piker-texas-draws-backlash-both-sides-aisle",
+   "title": "Archbishop of Canterbury withdraws award from Muslim cleric after past Osama bin Laden praise surfaces",
+   "url": "https://www.foxnews.com/world/archbishop-canterbury-withdraws-award-muslim-cleric-osama-bin-laden-praise-surfaces",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Hasan Piker s planned UT Austin event drew bipartisan backlash from Ted Cruz, Greg Abbott and Henry Cuellar over his past remarks on 9/11 and Hamas.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/HASAN-PIKER-DSA-HAT-2026.jpg?ve=1&tl=1",
-   "age": "38m ago",
-   "published": "2026-09-18T00:41:51+00:00"
+   "summary": "Maulana Hafiz Muhammad Tahir Mehmood Ashrafi received the Hubert Walter Award at Lambeth Palace days before past praise of Osama bin Laden surfaced.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/archbishop-sarah-mullally-lambeth-palace-interfaith-award.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-18T03:59:04+00:00"
   },
   {
-   "title": "ICE deports ex-Liberian fighter accused of torture, recruiting child soldiers",
-   "url": "https://www.foxnews.com/us/ice-deports-ex-liberian-fighter-accused-torture-recruiting-child-soldiers",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "ICE removed Amos Sheik Massaquoi from the United States to Liberia over alleged killings, torture and child soldier recruitment during the civil wars.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/amos-sheik-massaquoi-liberia-civil-war-ice-removal.png?ve=1&tl=1",
-   "age": "52m ago",
-   "published": "2026-09-18T00:28:15+00:00"
+   "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+   "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The decision was split 7-2, with board members Toichiro Asada and Ayano Sato dissenting from the hike.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108364205-1789623066424-gettyimages-2295400558-dsc02989_rz4zdho6.jpeg?v=1789623129&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-09-18T03:31:45+00:00"
   },
   {
-   "title": "Hasan Piker insists Middle East would be 'more stable' if Iran had nuclear weapons during Axios interview",
-   "url": "https://www.foxnews.com/media/hasan-piker-insists-middle-east-stable-iran-nuclear-weapons-axios-interview",
+   "title": "Bears vs. Vikings: How Chicago will keep the momentum going",
+   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/123045/bears-vs-vikings-how-chicago-will-keep-the-momentum-going",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/reuters-tagreuters.com2025newsml_MT1USATODAY27037058389011537.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "2h ago",
+   "published": "2026-09-18T03:23:09+00:00"
+  },
+  {
+   "title": "UN mission finds evidence signaling U.S. war crimes in Iran; Washington rejects report",
+   "url": "https://www.cnbc.com/2026/09/18/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The UN mission pointed out the missile strike on a primary school that killed over 150 people, as well as another airstrike which killed 22 civilians.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108359692-1788868554792-gettyimages-2293552508-AFP_C7KL3ZQ.jpeg?v=1788868568&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-09-18T03:09:22+00:00"
+  },
+  {
+   "title": "D.J. Moore injury: Bills wideout ruled out after injuring shoulder vs. Lions",
+   "url": "https://www.cbssports.com/nfl/news/d-j-moore-injury-bills-wideout-shoulder-injury/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/18/ef020042-25d1-4e7a-8b3c-d8a2e382c35c/moore26.jpg",
+   "age": "3h ago",
+   "published": "2026-09-18T02:13:12+00:00"
+  },
+  {
+   "title": "Juror who blocked Lindsay Clancy verdict disputes fellow jurors' claims: report",
+   "url": "https://www.foxnews.com/us/juror-who-blocked-lindsay-clancy-verdict-disputes-fellow-jurors-claims-report",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "In an interview with Axios, progressive Twitch streamer Hasan Piker said the Middle East would be more stable if Iran had nuclear weapons.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hasan-piker-feb-3-2026.jpg?ve=1&tl=1",
-   "age": "58m ago",
-   "published": "2026-09-18T00:22:12+00:00"
+   "summary": "Michael Desronvil, the holdout Lindsay Clancy juror, disputes fellow jurors claims he expressed doubts about the prosecution s case during deliberations.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/lindsay-clancy-trial-wed.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-09-18T01:44:13+00:00"
+  },
+  {
+   "title": "Oil prices fall as Saudi supply hopes outweigh fresh Houthi strikes",
+   "url": "https://www.cnbc.com/2026/09/18/oil-prices-today-brent-wti-saudi-arabia-houthi.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Oil prices fell on Friday as additional Saudi crude supplies help ease disruption fears.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108357250-1788288878932-gettyimages-2292525866-TSEdouard.jpeg?v=1788288933&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-09-18T01:35:38+00:00"
+  },
+  {
+   "title": "Brutal MLB collision leaves New York Mets first baseman Jared Young motionless on the field",
+   "url": "https://www.foxnews.com/outkick-sports/brutal-mlb-collision-leaves-new-york-mets-first-baseman-jared-young-motionless-field",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jared Young was stretchered off after Nolan McLean s knee struck him in the head during a collision on a Justin Crawford grounder at Citi Field.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mets-jared-young-1.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-09-18T01:33:02+00:00"
+  },
+  {
+   "title": "PFF is wrong about more than just Caleb Williams",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/123048/pff-is-wrong-about-more-than-just-caleb-williams-pro-football-focus",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2295089929.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "5h ago",
+   "published": "2026-09-18T00:40:00+00:00"
   },
   {
    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
@@ -82,8 +151,30 @@
    "topic": "ai",
    "summary": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mazama-oregon.jpeg?resize=1200,675",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-18T00:02:36+00:00"
+  },
+  {
+   "title": "Use FanDuel promo code to get $350 in bonus bets for Lions vs. Bills, NFL Thursday Night Football betting",
+   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-350-bonus-bets-bills-lions-nfl-thursday-night-football-betting/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/993c1e65-485a-4a08-ae3c-6654b27707df/fanduel-promo-code-sept-2026.jpg",
+   "age": "6h ago",
+   "published": "2026-09-17T23:48:27+00:00"
+  },
+  {
+   "title": "Use FanDuel promo code to land $350 in bonus bets for Lions vs. Bills on NFL Thursday Night Football",
+   "url": "https://www.cbssports.com/nfl/news/use-fanduel-promo-code-to-land-350-bonus-bets-lions-bills-nfl-thursday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/993c1e65-485a-4a08-ae3c-6654b27707df/fanduel-promo-code-sept-2026.jpg",
+   "age": "6h ago",
+   "published": "2026-09-17T23:46:14+00:00"
   },
   {
    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -93,7 +184,7 @@
    "topic": "ai",
    "summary": "The round values the data center giant at $30.9 billion.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-17T23:25:52+00:00"
   },
   {
@@ -104,30 +195,19 @@
    "topic": "ai",
    "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and…",
    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-17T23:21:17+00:00"
   },
   {
-   "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
-   "url": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
+   "title": "RFK Jr. names 8 new members to influential preventive medicine task force",
+   "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
    "topic": "ai",
-   "summary": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zoox-Robotaxi-Vegas-traffic.jpg?resize=1200,676",
-   "age": "2h ago",
-   "published": "2026-09-17T23:08:24+00:00"
-  },
-  {
-   "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development",
-   "url": "https://www.cnbc.com/2026/09/17/anthropic-shares-3-metrics-to-help-ai-companies-monitor-development.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Anthropic said it measured AI-led research and development, oversight of AI agents and compute allocation within the company.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108342837-1785448087702-gettyimages-2256654494-DAVOS_WEF_2026.jpeg?v=1785448353&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-09-17T22:22:53+00:00"
+   "summary": "The USPSTF sets insurance coverage from preventive services, like colonoscopies.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2268348621-1152x648.jpg",
+   "age": "7h ago",
+   "published": "2026-09-17T22:31:28+00:00"
   },
   {
    "title": "Army adds $234M in undefinitized contract funding for Black Hawk deal",
@@ -137,8 +217,19 @@
    "topic": "defense",
    "summary": "The news comes as Sikorsky’s 10th multiyear deal, awarded in 2022 by the Army, is set to conclude by the end of next calendar year.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/09/Lockheed-Black-Hawk-dvids-6546465-1024x683.jpg",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-09-17T22:20:54+00:00"
+  },
+  {
+   "title": "Small AI models let drones autonomously identify and attack battlefield targets",
+   "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Scaleout-Systems-ALMA-demo-1152x648.png",
+   "age": "7h ago",
+   "published": "2026-09-17T22:12:58+00:00"
   },
   {
    "title": "USMC Used Its Expeditionary Operations Playbook In Combat For First Time During Epic Fury",
@@ -148,7 +239,7 @@
    "topic": "defense",
    "summary": "The USMC set up remote forward refueling and rearming points for F-35Bs and other aircraft, as well as sensing locations during the war with Iran. The post USMC Used Its…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/31MEUFARP.jpg?quality=85",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-09-17T21:46:47+00:00"
   },
   {
@@ -159,30 +250,8 @@
    "topic": "defense",
    "summary": "ARLINGTON, Va. — The Navy is using virtual counseling to help meet the mental health needs of its sailors, a panel of suicide prevention experts told reporters Thursday.…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9802373-scaled.jpg",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-09-17T21:07:30+00:00"
-  },
-  {
-   "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
-   "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Huang's comment is the latest forecast from Nvidia and points to continuing massive growth for the next six quarters.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363600-1789563173894-gettyimages-2294939592-DREAMFORCE_2026.jpeg?v=1789678347&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-17T21:00:47+00:00"
-  },
-  {
-   "title": "As Republicans tout Trump's 'big beautiful bill,' here's who the tax breaks benefited most",
-   "url": "https://www.cnbc.com/2026/09/17/tax-breaks-trump-big-beautiful-bill.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "As the midterm elections approach, Republicans are touting President Donald Trump's \"big beautiful bill\" to voters. Here's who benefited from the tax cuts.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364635-1789677070399-gettyimages-2222880844-TRUMP_TAX_BILL.jpeg?v=1789677107&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-17T20:32:07+00:00"
   },
   {
    "title": "F-16 Crashes In Michigan",
@@ -192,7 +261,7 @@
    "topic": "defense",
    "summary": "Dramatic ATC audio of the incident has emerged. The post F-16 Crashes In Michigan appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/F-16-Crash-Michigan.jpg?quality=85",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-09-17T20:30:58+00:00"
   },
   {
@@ -203,7 +272,7 @@
    "topic": "defense",
    "summary": "The service lives of the B-1 Lancer and B-2 Spirit will be extended, with their pilots to be some of the first to fly the B-21 Raider.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XGB23ENHOFHY3IOHW57K3T3GSU.JPG",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-09-17T20:28:00+00:00"
   },
   {
@@ -214,19 +283,30 @@
    "topic": "defense",
    "summary": "“We are taking this opportunity to work with partners we have not worked with before, show them the products we have, and define what our path is to gaining share on tho…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/250903_DVIDS_pac3_mse_launch_8775345-scaled-e1756934380384-1024x577.jpg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-09-17T20:25:57+00:00"
   },
   {
-   "title": "Trump photo appears to reference Kennedy Center demolition, judge orders advance notice of any move to knock it down",
-   "url": "https://www.cnbc.com/2026/09/17/trump-kennedy-center-demolish-beatty.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "President Donald Trump wants his name on the Kennedy Center. But a judge has ruled it cannot be placed there without authorization by Congress.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364397-1789653618676-gettyimages-2295121247-AFP_C8L27KE.jpeg?v=1789653642&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-17T20:22:20+00:00"
+   "title": "Google announces new experimental \"CC\" AI agent for families",
+   "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Multiple family members can share data to help the agent make plans and complete tasks.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Google-CC-1152x648.png",
+   "age": "9h ago",
+   "published": "2026-09-17T20:24:34+00:00"
+  },
+  {
+   "title": "9 interesting things said by Bears coordinators in advance of home opener",
+   "url": "https://www.chicagobears.com/news/9-interesting-things-said-by-bears-coordinators-in-advance-of-home-opener",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/aydh8xtuh0q6agrtsqz7.jpg",
+   "age": "9h ago",
+   "published": "2026-09-17T20:23:19+00:00"
   },
   {
    "title": "Army has enough drones for each unit, now it needs to train soldiers to use them",
@@ -236,19 +316,19 @@
    "topic": "defense",
    "summary": "“Where we still have some work to do candidly is getting everybody trained at the appropriate level, Col. Gregory Merkl, Drone Dominance director for the Army, said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9301074-scaled-e1789676013843-1024x577.jpg",
-   "age": "5h ago",
+   "age": "9h ago",
    "published": "2026-09-17T20:16:22+00:00"
   },
   {
-   "title": "US clears $24B F-35 sale for Saudi Arabia",
-   "url": "https://breakingdefense.com/2026/09/us-clears-24b-f-35-sale-for-saudi-arabia/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The approval comes a year after President Donald Trump announced Riyadh would be permitted to buy the highly advanced stealth fighters, though lawmakers could still bloc…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/9833315-scaled-e1785354395771-1024x577.jpg",
-   "age": "5h ago",
-   "published": "2026-09-17T19:39:26+00:00"
+   "title": "Are Bears’ Kyler Gordon and Jaylon Johnson receiving bad medical advice?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/123038/are-bears-kyler-gordon-and-jaylon-johnson-receiving-bad-medical-advice",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/09/gettyimages-2177139814.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "10h ago",
+   "published": "2026-09-17T19:36:09+00:00"
   },
   {
    "title": "Navy Wants Containerized, Low-cost Interceptors to Defeat Cruise Missiles, Drones",
@@ -258,7 +338,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy wants to deploy containerized low-cost interceptors to defeat cruise missiles and attack drones, according to a request for white papers released Wednesday…",
    "image": "https://news.usni.org/wp-content/uploads/2023/10/USS-Savannah-Live-Fire-1-3.png",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-17T19:32:12+00:00"
   },
   {
@@ -269,8 +349,19 @@
    "topic": "defense",
    "summary": "The proposed $24 billion stealth fighter deal has major ramifications across the Middle East. The post F-35 Sale To Saudi Arabia Approved By State Department appeared fi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/06/f-35-epic-fury.jpg?quality=85",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-09-17T19:14:25+00:00"
+  },
+  {
+   "title": "Bears, Caleb Williams preparing for ‘mental war’ against Vikings, Brian Flores",
+   "url": "https://allchgo.com/bears/bears-caleb-williams-mental-war-vikings-brian-flores/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/17135529/2025-11-16T194649Z_1502790904_MT1USATODAY27605553_RTRMADP_3_NFL-CHICAGO-BEARS-AT-MINNESOTA-VIKINGS-1-1024x576.jpg",
+   "age": "10h ago",
+   "published": "2026-09-17T19:07:20+00:00"
   },
   {
    "title": "The US Army is looking for new drones to ferry blood supplies",
@@ -280,19 +371,8 @@
    "topic": "defense",
    "summary": "As part of the U.S. Army Blood Link project, the service is seeking new drones that can transport blood supplies in the field.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/K54D3RCM2NC5XJB6MW4ROBZ5AA.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-17T18:48:19+00:00"
-  },
-  {
-   "title": "New-Build F-16s For The USAF Is An Idea That Won’t Go Away, For Good Reason",
-   "url": "https://www.twz.com/air/new-build-f-16s-for-the-usaf-is-an-idea-that-wont-go-away-for-good-reason",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Lockheed’s F-16G pitch could be part of the answer to the Air Force's problem of trying to grow its increasingly geriatric fighter fleet. The post New-Build F-16s For Th…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/F16G-USAF.jpg?quality=85",
-   "age": "6h ago",
-   "published": "2026-09-17T18:46:56+00:00"
   },
   {
    "title": "Lockheed Martin gets first batch of Patriot interceptor parts from General Motors",
@@ -302,19 +382,8 @@
    "topic": "defense",
    "summary": "In an \"extraordinary\" 22-day turnaround, Lockheed Martin received its first shipment of critical components from General Motors for Patriot interceptors.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3ZKVONK3IRFFLCZPCVTXUEGQIY.JPG",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-17T18:44:33+00:00"
-  },
-  {
-   "title": "US Navy should target carriers in fight with China, report says",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "A U.S. think tank devised a strategy to target Chinese aircraft carriers by using similar tactics that China has planned against American ships.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CGFETTWBPNC6PJI4HVOCRP4GGA.jpg",
-   "age": "8h ago",
-   "published": "2026-09-17T17:14:35+00:00"
   },
   {
    "title": "Hendrick Motorsports Bringing Back Iconic Neon Numbers in 2027",
@@ -324,7 +393,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "13h ago",
    "published": "2026-09-17T16:13:01+00:00"
   },
   {
@@ -335,74 +404,30 @@
    "topic": "defense",
    "summary": "The Marine Corps trialled using an Unmanned Surface Vessel as part of its Littoral Explosive Ordnance Neutralization System last month. The USV trials were carried out b…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9938462-scaled.jpg",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-09-17T15:48:04+00:00"
   },
   {
-   "title": "Defense Primer: Control and Command of the U.S. Military",
-   "url": "https://news.usni.org/2026/09/17/defense-primer-control-and-command-of-the-u-s-military",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is the Sept. 11, 2026, Congressional Research Service defense primer, Control and Command of the U.S. Military. From the Report Congress has exercised over…",
-   "image": null,
-   "age": "11h ago",
-   "published": "2026-09-17T13:42:27+00:00"
-  },
-  {
-   "title": "5 Things to Know | Preliminary autopsy: Electrocution played role in Wanatah couple’s deaths",
-   "url": "https://nwitimes.com/news/article_82878988-ba2f-4c61-a1b5-17a09a47d580.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Preliminary autopsy results indicate electrocution played a role in the deaths of Patricia and Todd Rosenbaum, both 60, in rural Wanatah.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/28/82878988-ba2f-4c61-a1b5-17a09a47d580/6aab459b60257.preview.webp?crop=1763%2C926%2C0%2C125&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "15h ago",
-   "published": "2026-09-17T10:15:00+00:00"
-  },
-  {
-   "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-   "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/John-Ternus-Surprise-and-Shine-1152x648.jpg",
+   "title": "Bears gear up to host Vikings in NFC North showdown",
+   "url": "https://www.chicagobears.com/news/bears-gear-up-to-host-vikings-in-nfc-north-showdown",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/kkxbjacofdlfpltpazud.jpg",
    "age": "1d ago",
-   "published": "2026-09-16T22:02:46+00:00"
+   "published": "2026-09-17T00:54:00+00:00"
   },
   {
-   "title": "Epstein had huge cache of child sex pics; victims sue to find out who's in them",
-   "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-681946574-713x648.jpg",
+   "title": "Bears embodying Ben Johnson's 'no block, no rock' mantra",
+   "url": "https://www.chicagobears.com/news/bears-embodying-ben-johnson-s-no-block-no-rock-mantra",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ulkegqfpxz1gjejlmtsm.jpg",
    "age": "1d ago",
-   "published": "2026-09-16T21:42:09+00:00"
-  },
-  {
-   "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
-   "url": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Group plans to be largely out of commission for several weeks.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/astroid-international-meteor-organization.jpg",
-   "age": "1d ago",
-   "published": "2026-09-16T21:08:14+00:00"
-  },
-  {
-   "title": "Lionsgate releases a new trailer for Sunrise on the Reaping",
-   "url": "https://arstechnica.com/culture/2026/09/haymitch-gets-a-backstory-in-sunrise-on-the-reaping-trailer/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Also: Laika Studios debuts a stunning full-length trailer for its stop-motion feature, Wildwood.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/sunrise-1152x648.jpg",
-   "age": "1d ago",
-   "published": "2026-09-16T20:44:41+00:00"
+   "published": "2026-09-16T22:48:18+00:00"
   },
   {
    "title": "NASCAR Bristol TV schedule: Hendrick Motorsports heads to Tennessee for Cup, O'Reilly Series Chase races",
@@ -416,37 +441,15 @@
    "published": "2026-09-16T18:18:54+00:00"
   },
   {
-   "title": "Davich | The Gary you remember isn’t the Gary they’re surviving: 'It's still our home'",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_024fc050-9f94-4869-80c1-1cd998b58b65.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Former Gary residents remember the city that was. Those who stayed are living the city it became — and enduring hardships their nostalgic memories never prepared them fo…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/88/88836183-1c53-4e37-b76a-418a0a505fde/6a93332545850.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-09-16T12:15:00+00:00"
-  },
-  {
-   "title": "Take a trip around the world without leaving the Region",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_66af9f4d-8bde-42af-b97c-ee2cf57f23ee.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Here are 5 reasons to attend Sunday's 17th annual World Cultural Festival in downtown Valparaiso, featuring food, music and traditions from around the globe.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/37/03749137-2ab0-4b88-8e4a-5812eba5980d/6aa84fd9ee3aa.image.jpg?resize=300%2C225",
-   "age": "2d ago",
-   "published": "2026-09-15T13:00:00+00:00"
-  },
-  {
-   "title": "A spaghetti dinner in NWI became $10,000 of hope for Safe Haven Baby Boxes",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_fa249d4b-6c5a-46c7-b792-bfb272e9cd20.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "It started with $25 dinner tickets and homemade biscotti. It ended with $10,000 for an organization helping save vulnerable newborns. That’s grassroots giving in our Reg…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/2d/d2de2363-b959-4bcd-a2b9-f3aaaf57722a/6aa8384f4edbe.image.jpg?resize=300%2C190",
-   "age": "2d ago",
-   "published": "2026-09-15T12:15:00+00:00"
+   "title": "10 Bears Things: The NFL scoring record might actually be worth paying attention to for Ben Johnson, Caleb Williams",
+   "url": "https://allchgo.com/bears/10-bears-things-scoring-record-ben-johnson-williams/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/14115630/10things_ArticleTemplate-1-1024x576.jpg",
+   "age": "3d ago",
+   "published": "2026-09-14T16:57:26+00:00"
   },
   {
    "title": "Hendrick Motorsports news leaves one driver without a long-term deal",
