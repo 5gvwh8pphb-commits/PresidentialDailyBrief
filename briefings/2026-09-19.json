@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-19",
+  "dateLabel": "Saturday, September 19, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-19T12:45:26Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 18, 2026 close — stocks finished mixed in a triple-witching session that capped a volatile, Fed-driven week.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,650.50", "change": "+12.74", "changePct": "+0.17%", "sixMo": "+15%" },
+        { "name": "Dow", "close": "51,682.64", "change": "-95.40", "changePct": "-0.18%", "sixMo": "+12%" },
+        { "name": "Nasdaq", "close": "26,522.55", "change": "+104.24", "changePct": "+0.39%", "sixMo": "+20%" }
+      ],
+      "body": "The 10-year Treasury yield hovered near the 5% level as investors recalibrated to the Fed's first rate hike in three years; the Dow slipped while the S&P and Nasdaq eked out small gains, though the Dow and S&P still closed the week lower.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Trump announces Greenland security deal with Denmark, dropping annexation threats",
+      "body": "President Trump said the US and Denmark reached an agreement giving Washington 'permanent control' over Greenland's security and clearing the way for an expanded US military presence on the island, while Denmark keeps sovereignty; Danish PM Mette Frederiksen said the deal, to be signed next week by the US, Denmark and Greenland, preserves Greenlanders' right to self-determination and comes at no cost to the US.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-agreement-denmark-secure-permanent-control-greenlands-rcna598641"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan logs 28 PLA aircraft sorties in a day as China presses ahead of Xi's Washington summit",
+      "body": "Taiwan's Ministry of National Defense recorded 28 PLA aircraft sorties, seven PLA Navy ships and two official vessels around the island in the 24 hours to Friday morning, with 24 sorties crossing the median line into Taiwan's air defense zones; separately, a senior US official disputed reports that Beijing had threatened to cancel Xi Jinping's September 24 White House summit over a pending Taiwan arms sale.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://www.globalsecurity.org/wmd/library/news/taiwan/2026/taiwan-260918-roc-mnd01.htm"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Iran war enters its 10th day without an Iranian missile or drone launch, the longest lull of the conflict",
+      "body": "US Central Command has not announced new strikes on Iranian territory for 12 straight operational periods, and Iran has not fired ballistic missiles or drones at any host nation in 10 days, even as a Basij mobilization drew up to 330,000 participants Thursday; the White House rejected UN findings that earlier US strikes killed civilians, saying Iran is 'the only party committing war crimes' in the conflict.",
+      "source": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Space Force to launch prototype satellites this month that track aircraft and ground targets from orbit",
+      "body": "Air Force Secretary Troy Meink said prototype launches for the Space-Based Airborne Moving Target Indicator constellation, built by SpaceX under a $4.16 billion contract, are happening this month, with a companion ground-tracking constellation built with Northrop Grumman due within two years; officials say moving the sensing mission into orbit lets the military track mobile threats without exposing surveillance aircraft like AWACS to advanced enemy air defenses.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/09/17/space-force-advancing-on-orbit-tracking-for-airborne-and-ground-based-targets/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "Anthropic partners with Accenture to embed independent safety evaluators inside the company",
+      "body": "Anthropic said it will work with Accenture's Faculty AI unit to place independent evaluators -- with access to red-team models, run alignment assessments and test safeguards -- directly inside the company, with each side planning to invest at least $1 billion over five years; the move follows a September essay from CEO Dario Amodei committing Anthropic to embed outside evaluators in its development process.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/18/anthropic-accenture-ai-safety.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Bears' final injury report has no players out, with Darnell Wright fully cleared for Sunday's opener",
+      "body": "All-Pro right tackle Darnell Wright practiced fully Friday and carries no game designation after nursing a knee injury through the week, and every other Bear who appeared on this week's report -- including Grady Jarrett and Neville Gallimore -- was also cleared to play Sunday's noon home opener against the Vikings at Soldier Field.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/injury-update-no-bears-players-on-final-injury-report"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Byron starts fourth for Saturday's Bristol night race after qualifying is rained out",
+      "body": "Byron will roll off from the second row for the Cup Series' Bass Pro Shops Night Race at Bristol Motor Speedway after Friday's qualifying session was canceled by weather, with Kyle Larson inheriting the pole and Joey Logano and Denny Hamlin filling out the front rows; green flag is set for about 6:40 p.m. CT Saturday on USA Network.",
+      "source": "NASCAR.com",
+      "url": "https://racingnews.co/2026/09/18/nascar-lineup-tv-schedule-bristol-september-2026/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "PCA's top court reduces Burk Parsons' censure from suspension to admonition, upholds core misconduct finding",
+      "body": "The Standing Judicial Commission upheld the finding that Ligonier Ministries' Burk Parsons was harsh and domineering toward staff and congregants at Saint Andrew's Chapel, but reversed a slander charge and reduced his censure from indefinite suspension to admonition -- the same penalty he received in 2018; Parsons has since withdrawn from Central Florida Presbytery, whose congregation voted in December to leave the PCA.",
+      "source": "Church Leaders",
+      "url": "https://churchleaders.com/news/2222712-pastor-burk-parsons-suspension-pca-charges.html"
+    }
+  ]
+}
