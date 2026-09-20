@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-20",
+  "dateLabel": "Sunday, September 20, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-20T13:16:39Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~41h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 18, 2026 close — stocks finished mixed as a volatile, Fed-driven week wrapped up; markets were closed for the weekend, so this remains the freshest read.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,650.50", "change": "+12.74", "changePct": "+0.17%", "sixMo": "+15%" },
+        { "name": "Dow", "close": "51,682.64", "change": "-95.40", "changePct": "-0.18%", "sixMo": "+12%" },
+        { "name": "Nasdaq", "close": "26,522.55", "change": "+104.24", "changePct": "+0.39%", "sixMo": "+20%" }
+      ],
+      "body": "The S&P and Nasdaq eked out small gains while the Dow slipped as the 10-year Treasury yield hovered near 5% following the Fed's first rate hike in three years, though the Dow and S&P still closed the week lower overall.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~23h ago",
+      "empty": false,
+      "headline": "Trump bars CNN, MS NOW and Politico from White House grounds after 'FICTION and LIES' ban",
+      "body": "Reporters and a photographer from the three outlets were denied entry at the White House security booth Saturday, a day after President Trump said he was banning them 'effective immediately' over their coverage of his administration; CNN called the move an 'illegal assault' on its constitutional rights, and the outlets are expected to challenge the ban in court.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/business/media/trump-bans-cnn-ms-now-politico-white-house-rcna598609"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "China Coast Guard rams Philippine fisheries vessel in South China Sea days ahead of Xi's Washington summit",
+      "body": "A China Coast Guard cutter rammed a Philippine Bureau of Fisheries and Aquatic Resources vessel on a resupply run about 54 nautical miles off Palawan on Friday, inside Manila's exclusive economic zone -- the latest confrontation with a US treaty ally in contested waters just days before Xi Jinping's September 24 White House summit with President Trump, where a pending Taiwan arms sale remains a flashpoint.",
+      "source": "USNI News",
+      "url": "https://news.usni.org/2026/09/18/video-china-coast-guard-rams-philippine-fisheries-vessel-in-south-china-sea"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US forces carry out lethal strike on suspected drug-trafficking vessel in the Caribbean, killing four",
+      "body": "US Southern Command said Joint Task Force Western Hemisphere struck a go-fast vessel Saturday along an established narco-trafficking route in the Caribbean, killing four people it described as narco-terrorists; the strike is part of a monthslong campaign against cartel-linked trafficking networks that has now killed at least 231 people in more than 69 reported strikes over the past year.",
+      "source": "U.S. Southern Command",
+      "url": "https://www.southcom.mil/News/PressReleases/Article/4606750/lethal-kinetic-strike-september-19-2026/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "General Atomics' Mojave drone becomes first medium-endurance UAS to land and relaunch on a simulated battlefield trail",
+      "body": "General Atomics and Hanwha Aerospace flew the Mojave Short Takeoff and Landing aircraft from a South Korean air base to a live-fire training range, landed it on a rough tank-and-artillery maneuver trail, then relaunched it to resume the mission -- a first for a medium-altitude, long-endurance drone; a production version is due for critical design review in November with first flight targeted for 2027.",
+      "source": "Soldier Systems Daily",
+      "url": "https://soldiersystems.net/2026/09/18/ga-asi-mojave-first-uas-to-complete-battlefield-short-field-ops/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Chinese state-media outlet accuses Anthropic's revised privacy policy of exposing user data to US intelligence sharing",
+      "body": "A social-media account affiliated with China Central Television alleged that Anthropic's privacy policy lets the company share user data with US intelligence agencies whenever it deems necessary, without independent legal process, citing a pattern of policy revisions since 2023 that broadened data transfers and defaulted new chats into model training; Anthropic has said it shares only narrow technical indicators tied to suspected model-distillation activity by some Chinese firms.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Vikings turn to backup QB Carson Wentz for Sunday's matchup at Soldier Field with Kyler Murray in concussion protocol",
+      "body": "Minnesota arrives at Soldier Field for the Bears' Week 2 home opener with Carson Wentz starting in place of Kyler Murray, who remains in the NFL's concussion protocol; forecasters are calling for wind gusts of 20-30 mph at the noon CT kickoff, a factor both offensive game plans are accounting for.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/game-preview-vikings-vs-bears-2026-week-2"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Saturday night's Bristol Chase race just concluded and nearly all available coverage centers on the results, which the spoiler rule excludes; no non-spoiler Byron item -- injury, schedule, or sponsorship news -- surfaced within the window today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only new item circulating -- Burk Parsons' departure from the Central Florida Presbytery -- was already reported in yesterday's brief alongside the Standing Judicial Commission's ruling; no new PCA-specific story surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
