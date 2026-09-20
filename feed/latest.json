@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-20T16:37:10+00:00",
+ "generated": "2026-09-20T19:10:20+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 39,
  "bearsDay": false,
  "nascarDay": false,
  "sources": [
@@ -10,43 +10,132 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "New California law will penalize influencers don’t disclose political ads",
+   "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
+   "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108230204-17637585472025-11-21t205337z_1143851817_rc271ia6cvye_rtrmadp_0_usa-trump-mamdani.jpeg?v=1763758583&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-09-20T19:06:16+00:00"
+  },
+  {
+   "title": "Fat Bear Week bracket is set: meet the heavyweights, underdogs and defending champ in this year's tournament",
+   "url": "https://www.foxnews.com/outkick/fat-bear-week-bracket-set-meet-heavyweights-underdogs-defending-champ-tournament",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Forget March Madness. Fat Bear Week returns to Katmai National Park with 16 brown bears as defending champ Chunk faces rising star Bucky on Wednesday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/news-image-fox-news_024.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-09-20T19:00:15+00:00"
+  },
+  {
+   "title": "Is the AI industry really ready to slow down?",
+   "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+   "age": "14m ago",
+   "published": "2026-09-20T18:56:04+00:00"
+  },
+  {
+   "title": "Week 3 AP Top 25 poll reflects just how deep the SEC is this season with 10 teams represented",
+   "url": "https://www.foxnews.com/outkick-sports/week-3-ap-top-25-poll-reflects-how-deep-sec-season-10-teams-represented",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ole Miss surges into the AP Poll top 5 after its revenge win over LSU, while an impressive 10 SEC teams are ranked heading into a loaded week 4.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/traylon-ray-ole-miss.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-09-20T18:51:54+00:00"
+  },
+  {
+   "title": "America and China are fighting for the future of AI — chips are the battlefield",
+   "url": "https://www.foxnews.com/opinion/america-china-fighting-future-ai-chips-battlefield",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "President Donald Trump and Xi Jinping meet in Washington as Huawei races to build a rival AI chip ecosystem that could displace American semiconductor dominance.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/globalfoundries-ny-fab-chips.png?ve=1&tl=1",
+   "age": "21m ago",
+   "published": "2026-09-20T18:48:22+00:00"
+  },
+  {
+   "title": "Trump to meet with Mamdani in New York amid high-stakes midterm push",
+   "url": "https://www.foxnews.com/politics/trump-meet-mamdani-new-york-amid-high-stakes-midterm-push",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Zohran Mamdani will host Donald Trump at Gracie Mansion on Monday for their third face-to-face meeting to discuss issues affecting NYC residents.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/trump-mamdani-white-house-meeting.jpg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-09-20T18:45:41+00:00"
+  },
+  {
+   "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+   "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
+   "age": "37m ago",
+   "published": "2026-09-20T18:32:52+00:00"
+  },
+  {
+   "title": "Scary scene as Jayden Reed carted off on spine board during Packers game against the Jets",
+   "url": "https://www.foxnews.com/outkick-sports/scary-scene-jayden-reed-carted-off-spine-board-packers-game-jets",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jayden Reed was carted off on a spine board after a significant blow to the head on a swing pass from Jordan Love during the Packers-Jets game.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/jayden-reed-injury-packers-jets.jpg?ve=1&tl=1",
+   "age": "54m ago",
+   "published": "2026-09-20T18:15:56+00:00"
+  },
+  {
+   "title": "ScrollEd wants to turn textbooks into TikTok",
+   "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
+   "age": "1h ago",
+   "published": "2026-09-20T18:00:00+00:00"
+  },
+  {
+   "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
+   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Scott Bessent and China’s He Lifeng are holding talks on trade, AI and critical minerals ahead of Trump and Xi’s Sept. 24 summit.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108365418-17899186212026-09-20t050008z_1903970492_rc2z5ka0leoe_rtrmadp_0_usa-china.jpeg?v=1789918650&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-09-20T16:56:14+00:00"
+  },
+  {
+   "title": "New California law will penalize influencers who don’t disclose political ads",
    "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
    "summary": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1405560217.jpg?resize=1200,800",
-   "age": "7m ago",
+   "age": "2h ago",
    "published": "2026-09-20T16:30:00+00:00"
-  },
-  {
-   "title": "Obama criticizes Trump on approach to AI, escalates warning for stronger regulation",
-   "url": "https://www.foxnews.com/media/obama-criticizes-trump-approach-ai-escalates-warning-stronger-regulation",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Barack Obama slammed Trump s AI stance at Colgate University, warning the administration is neither capable nor willing to build a regulatory framework.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/barrack-obama-donald-trump.jpg?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-09-20T16:23:02+00:00"
-  },
-  {
-   "title": "California animal rescue operator charged with felonies for alleged 'inhumane and unsanitary conditions'",
-   "url": "https://www.foxnews.com/us/california-animal-rescue-operator-charged-felonies-alleged-inhumane-unsanitary-conditions",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Video shows the squalid conditions where 300 animals were found at Christine De Anda s unlicensed Los Angeles County kennel, leading to 35 charges.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/LA-animal-cruelty.gif",
-   "age": "29m ago",
-   "published": "2026-09-20T16:07:28+00:00"
   },
   {
    "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
@@ -56,52 +145,8 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/waymo-ojai-getty.jpg?resize=1200,800",
-   "age": "35m ago",
+   "age": "3h ago",
    "published": "2026-09-20T16:02:00+00:00"
-  },
-  {
-   "title": "Rutgers' Greg Schiano crashes out on official after costly penalty in tough loss to USC",
-   "url": "https://www.foxnews.com/outkick-sports/rutgers-greg-schiano-crashes-out-official-costly-penalty-tough-loss-usc",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Greg Schiano knocked down a field marker in a fiery sideline tantrum after a controversial illegal substitution call during Rutgers 42-35 loss to USC.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/greg-schiano-rutgers-southern-california_001.jpg?ve=1&tl=1",
-   "age": "58m ago",
-   "published": "2026-09-20T15:38:18+00:00"
-  },
-  {
-   "title": "Mississippi gov trolls Lane Kiffin, LSU after Ole Miss defeats Tigers in coach's return to Oxford",
-   "url": "https://www.foxnews.com/outkick-sports/mississippi-gov-trolls-lane-kiffin-lsu-ole-miss-defeats-tigers-coachs-return-oxford",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Mississippi Gov. Tate Reeves trolled Lane Kiffin after Ole Miss defeated LSU 32-24, mocking his $91 million LSU contract as an a-s whipping.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lane-kiffin-lsu-mississippi-football.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-20T15:05:26+00:00"
-  },
-  {
-   "title": "Trump says new arch will also deploy drones, position snipers and store ammo",
-   "url": "https://www.foxnews.com/politics/trump-says-new-arch-will-also-deploy-drones-position-snipers-store-ammo",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump says his 250-foot triumphal arch near Arlington Memorial Bridge will house drones, snipers and large quantities of ammunition storage.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/triumph-memorial-001.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-20T15:03:39+00:00"
-  },
-  {
-   "title": "A small but growing number of founders are betting on bringing people together offline",
-   "url": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam,…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/StrictlyVC-with-Brynn-Putnam-and-Tristan-Walker.jpg?resize=1200,800",
-   "age": "1h ago",
-   "published": "2026-09-20T15:00:00+00:00"
   },
   {
    "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
@@ -111,19 +156,8 @@
    "topic": "markets",
    "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
    "image": "https://image.cnbcfm.com/api/v1/image/108362154-1789217733683-gettyimages-2294794498-mg0011.jpeg?v=1789217766&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "4h ago",
    "published": "2026-09-20T14:23:53+00:00"
-  },
-  {
-   "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until…",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
-   "age": "2h ago",
-   "published": "2026-09-20T14:00:00+00:00"
   },
   {
    "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
@@ -133,8 +167,19 @@
    "topic": "markets",
    "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
    "image": "https://image.cnbcfm.com/api/v1/image/108364844-1789731895573-img_1793.jpg?v=1789768722&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-09-20T12:47:23+00:00"
+  },
+  {
+   "title": "Indiana company makes high-tech NFL helmets, protecting top football stars",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_87988a4b-8894-4168-8e56-5c1fe4f21b94.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Some of the NFL’s biggest stars, including Bears players, are wearing helmets made to better protect against head impacts. Many young players aren’t getting the same tec…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/c5/bc551d6c-a7ae-45a5-83aa-7acc5b9f54f9/6aaee474f3d2f.image.jpg?resize=300%2C200",
+   "age": "6h ago",
+   "published": "2026-09-20T12:15:00+00:00"
   },
   {
    "title": "Williams-Sonoma's stock has soared in a sluggish housing market. Here's how it won over Wall Street",
@@ -144,30 +189,8 @@
    "topic": "markets",
    "summary": "Williams-Sonoma is outperforming the furnishings industry due to its ability to grow profitability despite a weak housing backdrop.",
    "image": "https://image.cnbcfm.com/api/v1/image/108364650-1789678529033-gettyimages-2076695174-WILLIAMS_SONOMA_EARNS.jpeg?v=1789678782&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-09-20T12:00:01+00:00"
-  },
-  {
-   "title": "Budget airline king Bill Franke warms to first-class seats and premium upgrades",
-   "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Serial airline investor Bill Franke is embracing more upmarket changes like first-class seats.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107142593-1666971212990-ind.jpg?v=1666971248&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-20T12:00:01+00:00"
-  },
-  {
-   "title": "Caruso-Cabrera: The investing tailwinds for Latin America are the best in decades",
-   "url": "https://www.cnbc.com/2026/09/20/caruso-cabrera-the-investing-tailwinds-for-latin-america-are-the-best-in-decades.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "As measured by the iShares Latin America 40 ETF (ILF), the region is handily beating the S&P 500 year to date, up 15% compared to the S&P's 11% move",
-   "image": "https://image.cnbcfm.com/api/v1/image/108357852-1788366042856-gettyimages-2288381913-BRAZIL_RATE_DECISION.jpeg?v=1788366121&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-20T11:59:45+00:00"
   },
   {
    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -177,7 +200,7 @@
    "topic": "ai",
    "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
-   "age": "5h ago",
+   "age": "8h ago",
    "published": "2026-09-20T11:07:00+00:00"
   },
   {
@@ -188,7 +211,7 @@
    "topic": "ai",
    "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
-   "age": "6h ago",
+   "age": "9h ago",
    "published": "2026-09-20T10:00:02+00:00"
   },
   {
@@ -199,19 +222,19 @@
    "topic": "ai",
    "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
-   "age": "7h ago",
+   "age": "10h ago",
    "published": "2026-09-20T09:00:11+00:00"
   },
   {
-   "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-   "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-   "age": "19h ago",
-   "published": "2026-09-19T20:39:13+00:00"
+   "title": "They lost their home. Then they lost their dogs. Now, both are finally home | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_bc5ee889-282c-47b1-bb4d-ae1ca0eb2e54.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Aug. 11 storm took plenty from this Gary couple, including their two beloved dogs. But strangers, animal officers, and a newspaper column helped bring Sonny and Lulu…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/09/c0952462-3dd0-4c9e-a42e-a6480fbfc3f4/6aad807f49ad3.image.jpg?resize=300%2C256",
+   "age": "1d ago",
+   "published": "2026-09-19T12:15:00+00:00"
   },
   {
    "title": "Carrier USS Abraham Lincoln Pulls into Guam for Logistics Stop, Deployment Now at 302 Days",
@@ -234,17 +257,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
    "age": "1d ago",
    "published": "2026-09-19T11:10:43+00:00"
-  },
-  {
-   "title": "Rings around a tiny body have changed over the past decade",
-   "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png",
-   "age": "1d ago",
-   "published": "2026-09-19T10:00:06+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -309,7 +321,7 @@
    "topic": "defense",
    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea The Abraham Lincoln Carrier Strike Grou…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9942905-scaled.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-18T18:13:01+00:00"
   },
   {
@@ -320,7 +332,7 @@
    "topic": "defense",
    "summary": "The European Union also is funding a series of grant making projects designed to bring innovative technologies into the EU SST program, and support startups to strengthe…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/09/EU-space-surveillance--1024x576.png",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-18T18:10:12+00:00"
   },
   {
@@ -331,7 +343,7 @@
    "topic": "defense",
    "summary": "\"If the first thing you're putting through the breach isn't a robot, something's wrong.\" The post Marine Colonel Who Led Mideast Combat Deployment Wants His Own Drone Bo…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/USV-USS-Essex.jpg?quality=85",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-18T18:01:32+00:00"
   },
   {
@@ -342,7 +354,7 @@
    "topic": "defense",
    "summary": "The U.S. Department of State said on Thursday it had approved the potential sale of Lockheed Martin’s F-35 Lightning II fighter jets to Saudi Arabia.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V6IUKIMI3FBYZCB2HDTR2T43KI.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-18T17:44:31+00:00"
   },
   {
@@ -353,19 +365,8 @@
    "topic": "defense",
    "summary": "German defense minister Boris Pistorius called the F-35 “a promise that Germany will step up to defend itself and defend its allies.”",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/german-F-35-Side-View-scaled-e1789750834951-1024x577.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-18T17:10:33+00:00"
-  },
-  {
-   "title": "Why the ‘right to repair’ matters to the Pentagon",
-   "url": "https://breakingdefense.com/2026/09/why-the-right-to-repair-matters-to-the-pentagon/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The US military wants authorization to repair its systems without contractor support, which at the moment is easier said than done.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/CRU33-pb-1024x576.png",
-   "age": "1d ago",
-   "published": "2026-09-18T16:58:59+00:00"
   },
   {
    "title": "Japan Opens The Door To Acquiring Nuclear-Powered Submarines",
@@ -390,17 +391,6 @@
    "published": "2026-09-18T16:13:52+00:00"
   },
   {
-   "title": "New Details About Secretive RQ-170 Sentinel Drone Squadron Shared With New Award",
-   "url": "https://www.twz.com/air/new-details-about-secretive-rq-170-sentinel-drone-squadron-shared-with-new-award",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The 30th Reconnaissance Squadron is one of two units known to operate RQ-170s, and it is very rare to hear any details about its activities. The post New Details About S…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/new-rq-170-operational-details-30th-rs-award.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-09-18T15:16:47+00:00"
-  },
-  {
    "title": "US Air Force has a $14 billion supply hole, service officials say",
    "url": "https://www.defensenews.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
    "source": "Defense News",
@@ -410,6 +400,28 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2ID6QIZKFBHNHCKWSPONT5GMNU.jpg",
    "age": "2d ago",
    "published": "2026-09-18T14:35:13+00:00"
+  },
+  {
+   "title": "Lake Station school to retire jersey number of fallen police officer, Billy Taylor",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_7603d7e7-2420-47c9-89f8-fcfb6d59b1e5.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "No. 55 was more than a jersey or badge number. It was Billy Taylor. Forty years later, his school is retiring his football number to honor the teammate who always had yo…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/5a/c5a57d49-1dff-4e26-9813-e4c625a78850/693133e6ca193.image.jpg?resize=300%2C282",
+   "age": "2d ago",
+   "published": "2026-09-18T13:00:00+00:00"
+  },
+  {
+   "title": "What do you do with your life after the person you planned it with is gone? | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_ea162d27-706d-44c0-9c07-41311bac27b3.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "What happens to a man when the woman he planned to grow old with is suddenly gone? This 80-year-old Valparaiso widower found an answer and shares his blueprint for other…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/71/f71bd1f8-088e-11ee-832f-8f8899946c53/64862dbdd533a.image.jpg?resize=300%2C175",
+   "age": "2d ago",
+   "published": "2026-09-18T12:15:00+00:00"
   },
   {
    "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
@@ -434,26 +446,15 @@
    "published": "2026-09-18T09:01:16+00:00"
   },
   {
-   "title": "Virtual Counseling Gives Sailors More Mental Health Options",
-   "url": "https://news.usni.org/2026/09/17/virtual-counseling-gives-sailors-more-mental-health-options",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "ARLINGTON, Va. — The Navy is using virtual counseling to help meet the mental health needs of its sailors, a panel of suicide prevention experts told reporters Thursday.…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9802373-scaled.jpg",
-   "age": "2d ago",
-   "published": "2026-09-17T21:07:30+00:00"
-  },
-  {
-   "title": "US Air Force to extend service of B-1, B-2 bombers, official says",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The service lives of the B-1 Lancer and B-2 Spirit will be extended, with their pilots to be some of the first to fly the B-21 Raider.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XGB23ENHOFHY3IOHW57K3T3GSU.JPG",
-   "age": "2d ago",
-   "published": "2026-09-17T20:28:00+00:00"
+   "title": "5 Things to Know | Preliminary autopsy: Electrocution played role in Wanatah couple’s deaths",
+   "url": "https://nwitimes.com/news/article_82878988-ba2f-4c61-a1b5-17a09a47d580.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Preliminary autopsy results indicate electrocution played a role in the deaths of Patricia and Todd Rosenbaum, both 60, in rural Wanatah.",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-09-17T10:15:00+00:00"
   }
  ]
 }
