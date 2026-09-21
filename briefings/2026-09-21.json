@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-21",
+  "dateLabel": "Monday, September 21, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-21T15:20:17Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~67h ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, September 18, 2026 close — a choppy, Fed-driven week ended mixed, with the Nasdaq eking out a gain while the S&P and Dow slipped.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,650.50", "change": "-0.1%", "heroLabel": "week", "sixMo": "+15%" },
+        { "name": "Dow", "close": "51,682.64", "change": "-1.7%", "heroLabel": "week", "sixMo": "+12%" },
+        { "name": "Nasdaq", "close": "26,522.55", "change": "+0.7%", "heroLabel": "week", "sixMo": "+20%" }
+      ],
+      "body": "The Fed's first rate hike in three years dominated trading all week; semiconductor stocks sold off sharply early on after Anthropic and OpenAI leaders called for slowing frontier AI development over safety concerns, but chips and the broader market recouped most of that damage by Friday's close.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-18-2026"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Iran warns of 'new weapons' as Trump raises prospect of wiping out the regime",
+      "body": "Iran's Revolutionary Guard said Monday it would 'change the weapons and geography of the war' if the US launches a fresh attack, after President Trump said over the weekend his options for Tehran included letting it 'rot economically' or wiping out its leadership; Trump also said he'd likely be open to meeting Iranian President Masoud Pezeshkian at this week's UN General Assembly in New York.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/trump-wiping-out-iran-warns-new-weapons-rcna598954"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Taiwan to send Coast Guard ship on landmark Philippines visit in October amid China pressure",
+      "body": "Taiwan plans to send a Coast Guard vessel carrying about 100 officers to the Philippines next month -- reportedly the first such visit by a Taiwanese law-enforcement ship -- deepening unofficial security cooperation across the Luzon Strait as Chinese coast guard and military activity intensifies near both Taiwan and Philippine-held waters just days before Xi Jinping's September 24 Washington summit.",
+      "source": "The China-Global South Project",
+      "url": "https://chinaglobalsouth.com/2026/09/21/taiwan-coast-guard-philippines-visit-china-tensions/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "UN expert says US Caribbean and Pacific boat strikes amount to crimes against humanity",
+      "body": "UN Special Rapporteur Ben Saul concluded there are 'reasonable grounds to believe' that 68 US strikes killing 223 people over the past year constitute crimes against humanity of murder under customary international law, arguing that suspected drug traffickers had not staged an armed attack on the US that would justify a self-defense claim; the Pentagon has continued the strikes since the report, with a 69th strike over the weekend bringing the death toll to at least 231.",
+      "source": "OHCHR",
+      "url": "https://www.ohchr.org/en/press-releases/2026/09/united-states-un-experts-demand-end-unlawful-killings-sea-one-year-death"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Pentagon names top performers in second 'Gauntlet' drone competition at Fort Carson",
+      "body": "The Defense Department picked Perennial Autonomy as the top deep-strike performer, followed by Hyperscale, Neros, Skycutter and Swarm Defense Technologies, in the second round of its Drone Dominance Program competitions; the effort aims to field more than 200,000 low-cost one-way attack drones across the force by 2027, with a 'bomber' drone-focused Gauntlet 2.5 slated to start next month.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/09/18/drone-dominance-program-gauntlet-2-results/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Zero-click 'Plugin4Shell' flaw let attackers hijack Claude Code, Codex, Copilot and Gemini CLI plugins",
+      "body": "Security researchers disclosed a supply-chain vulnerability that bypassed the SHA-pinning safeguard AI coding agents use to lock plugins to a reviewed version, letting a malicious branch or commit swap in attacker-controlled code without any user action; Anthropic patched Claude Code in version 2.1.179 and OpenAI fixed Codex, while Microsoft's GitHub Copilot remained unpatched and Google said it won't fix the deprecated Gemini CLI.",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Caleb Williams set for MRI Monday after hamstring injury against Vikings",
+      "body": "Williams left Sunday's home opener in the fourth quarter after appearing to slip on the wet Soldier Field turf while scrambling and grasping at his right hamstring; the team says he's expected to have an MRI Monday to gauge severity, with early hope it's a Grade 1 strain, though it remains unclear whether he'll be ready for next Monday night's home game against Philadelphia.",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/news/bears-qb-caleb-williams-injury-vikings"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Nearly all available Byron coverage today centers on Saturday's Bristol Chase race result, which the spoiler rule excludes, and the wider playoff picture built around it; no non-spoiler item -- injury, schedule, or sponsorship news -- surfaced within the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Beyond routine presbytery meeting notices, no new PCA-specific story surfaced within the 72-hour window; the Burk Parsons censure ruling remains the most recent substantive item and was already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
