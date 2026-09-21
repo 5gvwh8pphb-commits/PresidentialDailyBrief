@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-21T08:04:08+00:00",
+ "generated": "2026-09-21T15:12:16+00:00",
  "count": 40,
  "withImage": 39,
  "bearsDay": false,
@@ -10,133 +10,275 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Yahoo Sports"
+  "sports.yahoo.com"
  ],
  "items": [
   {
-   "title": "CNBC Daily Open: May the 'AI Force' be with you",
-   "url": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
+   "title": "Trump admin won't give AI leaders a 'liability shield,' Bessent tells CNBC",
+   "url": "https://www.cnbc.com/2026/09/21/treasury-bessent-cnbc-squawk-trump-bond-affordabilty.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "President Trump announces the creation of an 'AI Force' as the technology looks set to be a key topic with Chinese President Xi Jinping this week.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108307517-1778845590060-gettyimages-2275740399-AFP_B2WE9YH.jpeg?v=1778845674&amp;w=1920&amp;h=1080",
+   "summary": "Bessent spoke with CNBC's \"Squawk Box\" about AI safety concerns and this week's summit between Chinese President Xi Jinping and President Donald Trump.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108365583-1789993348352-Besent1.jpg?v=1790002374&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-09-21T15:10:42+00:00"
+  },
+  {
+   "title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dead at 27: A life in photos",
+   "url": "https://www.foxnews.com/entertainment/presley-gerber-son-cindy-crawford-rande-gerber-dead-27-life-photos",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Cindy Crawford and Rande Gerber s son, Presley Gerber, died in a rehab facility at 27. We look back at his life in photos.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/1200/675/cindy-crawford-son-presley-gerber-dead-fox-news_009.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-09-21T15:02:01+00:00"
+  },
+  {
+   "title": "Trump sued by MS NOW, CNN, Politico over White House media ban",
+   "url": "https://www.cnbc.com/2026/09/21/trump-lawsuit-white-house-ban-ms-now-cnn-politico.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "President Donald Trump said he banned the three media outlets because of what he called \"cumulative stories,\" saying, \"You get sick of it.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108365161-17897625102026-09-18t201225z_1089786719_rc2wlna24jya_rtrmadp_0_usa-trump.jpeg?v=1789991723&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-09-21T15:00:38+00:00"
+  },
+  {
+   "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25,…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Puttagunta-Randle-Altman-Fenton-Vishria.png?resize=1200,675",
+   "age": "12m ago",
+   "published": "2026-09-21T15:00:00+00:00"
+  },
+  {
+   "title": "Paramount and state AGs will settle lawsuit, allowing Warner Bros. merger to proceed, reports say",
+   "url": "https://www.cnbc.com/2026/09/21/paramount-reaches-settlement-over-warner-bros-merger.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The antitrust lawsuit threatened to delay Paramount's acquisition until mid-2027 and to cost the company hundreds of millions of dollars in fees.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108292812-17763704442026-04-16t200446z_1569477726_rc2hqkakfjbx_rtrmadp_0_film-cinemacon.jpeg?v=1776370477&amp;w=1920&amp;h=1080",
+   "age": "12m ago",
+   "published": "2026-09-21T14:59:38+00:00"
+  },
+  {
+   "title": "‘American Idol’ contestant’s 100K texts with mistress show motive in wife’s murder, prosecutors say",
+   "url": "https://www.foxnews.com/us/american-idol-contestants-100k-texts-mistress-show-motive-wifes-murder-prosecutors-say",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Caleb Flynn allegedly texted his mistress about ways to kill his wife months before prosecutors say he staged Ashley Flynn s death as a break-in.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/ashley-caleb-flynn-2.png?ve=1&tl=1",
+   "age": "12m ago",
+   "published": "2026-09-21T14:59:28+00:00"
+  },
+  {
+   "title": "White House TV pool to suspend coverage of Trump events",
+   "url": "https://www.foxnews.com/media/white-house-tv-pool-to-suspend-coverage-of-trump-events",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "FOX News Media, ABC News, CBS News, CNN and NBC News agreed to suspend pooled White House coverage after Trump s attempted ban on CNN reporting.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Donald-Trump-Reporters-Ban.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-09-21T14:50:05+00:00"
+  },
+  {
+   "title": "White House TV pool won't cover Trump after press ban: CNN",
+   "url": "https://www.cnbc.com/2026/09/21/trump-white-house-press-pool-cnn-ban.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The decision comes as CNN, MS NOW and Politico said they are suing Trump to overturn his new ban of those three media outlets from the White House.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108365578-1789992470974-gettyimages-2295317537-AFP_C8QM8XX.jpeg?v=1789992501&amp;w=1920&amp;h=1080",
+   "age": "25m ago",
+   "published": "2026-09-21T14:46:27+00:00"
+  },
+  {
+   "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+   "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675",
+   "age": "32m ago",
+   "published": "2026-09-21T14:39:22+00:00"
+  },
+  {
+   "title": "Rising WNBA star Olivia Miles eclipses Caitlin Clark's rookie scoring record",
+   "url": "https://www.foxnews.com/outkick-sports/rising-wnba-star-olivia-miles-eclipses-caitlin-clark-rookie-scoring-record",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Olivia Miles surpassed Caitlin Clark s rookie scoring record with 790 points in 40 games after the Minnesota Lynx s win over the Connecticut Sun.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/olivia-miles-wnba-lynx-liberty_001.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-09-21T14:39:01+00:00"
+  },
+  {
+   "title": "Critics pounce as prominent Dem senator seems to make admission about party's far-left ‘fringe'",
+   "url": "https://www.foxnews.com/politics/critics-pounce-prominent-dem-senator-seems-make-admission-party-far-left-fringe",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Cory Booker seemed to dismiss Abdul El-Sayed as a fringe figure on Meet the Press, but their recent warm D.C. meeting tells a very different story.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/booker-el-sayed-split.jpg?ve=1&tl=1",
+   "age": "35m ago",
+   "published": "2026-09-21T14:36:59+00:00"
+  },
+  {
+   "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept 25.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_1-Speaker_Stein-16x9-Dark.png?resize=1200,675",
+   "age": "42m ago",
+   "published": "2026-09-21T14:30:00+00:00"
+  },
+  {
+   "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The Pentagon remains mum about defense contractors' plans to boost weapons production and delivery following a 21-day deadline for companies to send ideas.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YBSN5CBNHJBJ5IIQQY2XVJ32VQ.JPG",
+   "age": "49m ago",
+   "published": "2026-09-21T14:22:27+00:00"
+  },
+  {
+   "title": "U.S. Army Contracts First Batch of Maritime Precision Strike Missiles",
+   "url": "https://news.usni.org/2026/09/21/u-s-army-contracts-first-batch-of-maritime-precision-strike-missiles",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The U.S. Army contracted the first batch of Precision Strike Missiles designed to strike moving maritime targets last week. Lockheed Martin was awarded $1.2 billion by t…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/8966743.jpg",
+   "age": "52m ago",
+   "published": "2026-09-21T14:19:47+00:00"
+  },
+  {
+   "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m. PT, to save up to …",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/03/Startup-Battlefield-200-contestant_Disrupt-2024.jpg?resize=1200,1041",
+   "age": "57m ago",
+   "published": "2026-09-21T14:15:00+00:00"
+  },
+  {
+   "title": "US watching Chinese marine presence off Alaska, Arctic Coast Guard chief says",
+   "url": "https://www.defensenews.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The United States is watching China’s presence in its Arctic zone “very closely” amid increasing concerns, a senior U.S. Arctic military official said.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/V4NCXAKUUFAF3AXFI53MKYONOE.jpg",
    "age": "1h ago",
-   "published": "2026-09-21T06:41:34+00:00"
+   "published": "2026-09-21T14:11:40+00:00"
   },
   {
-   "title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dead at 27",
-   "url": "https://www.foxnews.com/entertainment/presley-gerber-son-cindy-crawford-rande-gerber-dead-27",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Cindy Crawford and Rande Gerber s son Presley Gerber, who signed with IMG Models and walked for Moschino and Calvin Klein, has died at age 27.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/presley-gerber-cindy-crawford-rande-gerber.jpg?ve=1&tl=1",
+   "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+   "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/1787270050672.jpg?resize=1200,800",
+   "age": "1h ago",
+   "published": "2026-09-21T13:49:00+00:00"
+  },
+  {
+   "title": "Hegseth to chair Pentagon’s new Homeland Defense advisory board",
+   "url": "https://www.defensenews.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The newly established Homeland Defense Board aims to fill a gap Pentagon leaders see in providing military guidance to homeland security missions.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7NL4WAXCF5CWDF6TJQRZALMJEU.jpg",
+   "age": "1h ago",
+   "published": "2026-09-21T13:27:18+00:00"
+  },
+  {
+   "title": "Nissan eyes increasing U.S. production as new Rogue hybrid launches",
+   "url": "https://www.cnbc.com/2026/09/21/nissan-2027-rogue-production.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nissan has two production shifts at its assembly plant in Smyrna, Tennessee, and adding another could mean hundreds, if not thousands, of new jobs.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108287605-1775512894581-NYIAS_04022026_DeVries-6.jpg?v=1775513264&amp;w=1920&amp;h=1080",
    "age": "2h ago",
-   "published": "2026-09-21T05:23:07+00:00"
+   "published": "2026-09-21T13:06:06+00:00"
   },
   {
-   "title": "Harrison Butker drills game-winner as Chiefs survive overtime thriller against Colts",
-   "url": "https://www.foxnews.com/outkick-sports/harrison-butker-drills-game-winner-chiefs-survive-overtime-thriller-colts",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Patrick Mahomes threw for 382 yards and three touchdowns as the Kansas City Chiefs outlasted the Indianapolis Colts in a wild overtime thriller.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/colts-chiefs-sunday-night-football-1_001.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-21T04:26:45+00:00"
+   "title": "After hitting pilot training goal, resolving shortage will take years, Air Force official says",
+   "url": "https://breakingdefense.com/2026/09/after-hitting-pilot-training-goal-resolving-shortage-will-take-years-air-force-official-says/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“It’s going to take 15 or 20 years to get those types of people,” said Air Force Lt. Gen. Clark Quinn.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/T-38-scaled-e1780329977436-1024x577.jpg",
+   "age": "2h ago",
+   "published": "2026-09-21T13:04:59+00:00"
   },
   {
-   "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
-   "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108249930-1767883114856-gettyimages-1457781967-_x3m2814.jpeg?v=1776772295&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-09-21T04:20:33+00:00"
-  },
-  {
-   "title": "Manhunt underway in California after armed suspect allegedly points gun at people, shoots at officers",
-   "url": "https://www.foxnews.com/us/manhunt-underway-california-after-armed-suspect-allegedly-points-gun-people-shoots-officers",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "California deputies urge local residents to lock their doors amid a manhunt for a suspect wanted for several felonies, including pointing a firearm at people.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/manhunt-california-forest-deputies-mugshot.png?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-21T04:11:08+00:00"
-  },
-  {
-   "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
-   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108365162-17897625102026-09-18t194849z_1464701728_rc2vlnax1dr1_rtrmadp_0_usa-trump.jpeg?v=1789762543&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-09-21T04:04:18+00:00"
-  },
-  {
-   "title": "Missing Carnival Panorama passenger jumped overboard off Mexico's coast",
-   "url": "https://www.foxnews.com/travel/missing-carnival-panorama-passenger-jumped-overboard-mexicos-coast",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A male passenger jumped overboard from the Carnival Panorama as it sailed from Puerto Vallarta back to Long Beach, triggering a major search.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/the-carnival-panorama-cruise-ship-itinerary-changes.jpg?ve=1&tl=1",
-   "age": "6h ago",
-   "published": "2026-09-21T01:17:24+00:00"
-  },
-  {
-   "title": "Taylor Swift has savage celebration after Travis Kelce scores first touchdown of 2026 season",
-   "url": "https://www.foxnews.com/outkick-sports/taylor-swift-savage-celebration-travis-kelce-scores-first-touchdown-2026-season",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Travis Kelce scored his first touchdown of the season and NBC cameras caught Taylor Swift pointing to her wedding ring during the end zone celebration.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/travis-kelce-touchdown-chiefs-colts.jpg?ve=1&tl=1",
-   "age": "6h ago",
-   "published": "2026-09-21T01:13:22+00:00"
-  },
-  {
-   "title": "Bessent calls meeting with China Vice Premier He Lifeng 'successful' ahead of Trump-Xi summit",
-   "url": "https://www.cnbc.com/2026/09/20/bessent-he-lifeng-trump-xi-summit.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108365418-17899186212026-09-20t050008z_1903970492_rc2z5ka0leoe_rtrmadp_0_usa-china.jpeg?v=1789918650&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-09-21T00:45:26+00:00"
-  },
-  {
-   "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
+   "title": "Apple Mac mini review: The new M6 impresses, but the price hike is rough",
+   "url": "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
    "topic": "ai",
-   "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_6Days-16X9-Dark.png?resize=1200,675",
-   "age": "10h ago",
-   "published": "2026-09-20T21:41:08+00:00"
+   "summary": "The M4 Mac mini was one of Apple's best values ever. This one, not so much.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3731-1152x648.jpeg",
+   "age": "2h ago",
+   "published": "2026-09-21T13:00:24+00:00"
   },
   {
-   "title": "World model companies are keeping a lot of secrets",
-   "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
+   "title": "Googlebooks launch October 4 starting at $899—here are the five models you can preorder today",
+   "url": "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
    "topic": "ai",
-   "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-   "age": "11h ago",
-   "published": "2026-09-20T20:29:07+00:00"
+   "summary": "Googlebooks offer premium hardware and deep smartphone integration, but you may not like the price.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HP-Googlebook-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-09-21T13:00:11+00:00"
+  },
+  {
+   "title": "European-made Black Hawk gets an armed upgrade",
+   "url": "https://breakingdefense.com/2026/09/european-made-black-hawk-gets-an-armed-upgrade/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] New kits turn Black Hawks into attack Hawks in just three hours.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Armed-Black-Hawk-Main-Image-1024x600.jpg",
+   "age": "3h ago",
+   "published": "2026-09-21T12:09:00+00:00"
+  },
+  {
+   "title": "Denmark says NATO shares responsibility for Arctic security under Greenland deal",
+   "url": "https://www.defensenews.com/global/europe/2026/09/21/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "An agreement on Greenland's security, including a role for NATO, is expected to be signed at the UN General Assembly in New York on Tuesday.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QQUBRNDB6RGFDKEUN5JGWWPOTE.jpg",
+   "age": "5h ago",
+   "published": "2026-09-21T09:52:22+00:00"
   },
   {
    "title": "Shahed-136 Clone Found By Florida Fisherman, Eglin AFB Admits It Lost A Drone",
@@ -146,63 +288,8 @@
    "topic": "defense",
    "summary": "The drone hauled in off Florida appears to be of the same family as those used by the U.S. military to strike Iran. The post Shahed-136 Clone Found By Florida Fisherman,…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/FLM136-fishing-boat-eglin.jpg?quality=85",
-   "age": "11h ago",
-   "published": "2026-09-20T20:09:32+00:00"
-  },
-  {
-   "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
-   "url": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Many of The Boring Company's announced project have not materialized.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-   "age": "12h ago",
-   "published": "2026-09-20T19:38:48+00:00"
-  },
-  {
-   "title": "Trump to meet with NYC Mayor Zohran Mamdani on Monday ahead of UN General Assembly",
-   "url": "https://www.cnbc.com/2026/09/20/trump-mamdani-gracie-mansion-meeting.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108230204-17637585472025-11-21t205337z_1143851817_rc271ia6cvye_rtrmadp_0_usa-trump-mamdani.jpeg?v=1763758583&amp;w=1920&amp;h=1080",
-   "age": "12h ago",
-   "published": "2026-09-20T19:06:16+00:00"
-  },
-  {
-   "title": "Is the AI industry really ready to slow down?",
-   "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-   "age": "13h ago",
-   "published": "2026-09-20T18:56:04+00:00"
-  },
-  {
-   "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-   "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
-   "age": "13h ago",
-   "published": "2026-09-20T18:32:52+00:00"
-  },
-  {
-   "title": "Indiana company makes high-tech NFL helmets, protecting top football stars",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_87988a4b-8894-4168-8e56-5c1fe4f21b94.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Some of the NFL’s biggest stars, including Bears players, are wearing helmets made to better protect against head impacts. Many young players aren’t getting the same tec…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/c5/bc551d6c-a7ae-45a5-83aa-7acc5b9f54f9/6aaee474f3d2f.image.jpg?resize=300%2C200",
    "age": "19h ago",
-   "published": "2026-09-20T12:15:00+00:00"
+   "published": "2026-09-20T20:09:32+00:00"
   },
   {
    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -212,7 +299,7 @@
    "topic": "ai",
    "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
-   "age": "20h ago",
+   "age": "1d ago",
    "published": "2026-09-20T11:07:00+00:00"
   },
   {
@@ -223,7 +310,7 @@
    "topic": "ai",
    "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-09-20T10:00:02+00:00"
   },
   {
@@ -234,19 +321,8 @@
    "topic": "ai",
    "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
-   "age": "23h ago",
-   "published": "2026-09-20T09:00:11+00:00"
-  },
-  {
-   "title": "They lost their home. Then they lost their dogs. Now, both are finally home | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_bc5ee889-282c-47b1-bb4d-ae1ca0eb2e54.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The Aug. 11 storm took plenty from this Gary couple, including their two beloved dogs. But strangers, animal officers, and a newspaper column helped bring Sonny and Lulu…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/09/c0952462-3dd0-4c9e-a42e-a6480fbfc3f4/6aad807f49ad3.image.jpg?resize=300%2C256",
    "age": "1d ago",
-   "published": "2026-09-19T12:15:00+00:00"
+   "published": "2026-09-20T09:00:11+00:00"
   },
   {
    "title": "Carrier USS Abraham Lincoln Pulls into Guam for Logistics Stop, Deployment Now at 302 Days",
@@ -256,19 +332,8 @@
    "topic": "defense",
    "summary": "Carrier USS Abraham Lincoln (CVN-72), the embarked Carrier Air Wing 9 and the guided-missile destroyer USS Frank Petersen (DDG-121) pulled into Guam on Saturday, accordi…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9950983-scaled.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-19T11:42:15+00:00"
-  },
-  {
-   "title": "Learning another language may be one of the best ways to keep your brain healthy",
-   "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Research suggests that bilingualism can offer cognitive benefits.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
-   "age": "1d ago",
-   "published": "2026-09-19T11:10:43+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -370,17 +435,6 @@
    "published": "2026-09-18T17:44:31+00:00"
   },
   {
-   "title": "First German F-35 rolls off the line",
-   "url": "https://breakingdefense.com/2026/09/first-german-f-35-rolls-off-the-line/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "German defense minister Boris Pistorius called the F-35 “a promise that Germany will step up to defend itself and defend its allies.”",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/german-F-35-Side-View-scaled-e1789750834951-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-09-18T17:10:33+00:00"
-  },
-  {
    "title": "VIDEO: China Coast Guard Rams Philippine Fisheries Vessel in South China Sea",
    "url": "https://news.usni.org/2026/09/18/video-china-coast-guard-rams-philippine-fisheries-vessel-in-south-china-sea",
    "source": "USNI News",
@@ -392,64 +446,9 @@
    "published": "2026-09-18T16:13:52+00:00"
   },
   {
-   "title": "US Air Force has a $14 billion supply hole, service officials say",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "As the force grapples with supply chain and maintenance issues, sustainment funding to fill the $14 billion gap is becoming increasingly necessary.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2ID6QIZKFBHNHCKWSPONT5GMNU.jpg",
-   "age": "2d ago",
-   "published": "2026-09-18T14:35:13+00:00"
-  },
-  {
-   "title": "Lake Station school to retire jersey number of fallen police officer, Billy Taylor",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_7603d7e7-2420-47c9-89f8-fcfb6d59b1e5.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "No. 55 was more than a jersey or badge number. It was Billy Taylor. Forty years later, his school is retiring his football number to honor the teammate who always had yo…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/5a/c5a57d49-1dff-4e26-9813-e4c625a78850/693133e6ca193.image.jpg?resize=300%2C282",
-   "age": "2d ago",
-   "published": "2026-09-18T13:00:00+00:00"
-  },
-  {
-   "title": "What do you do with your life after the person you planned it with is gone? | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_ea162d27-706d-44c0-9c07-41311bac27b3.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "What happens to a man when the woman he planned to grow old with is suddenly gone? This 80-year-old Valparaiso widower found an answer and shares his blueprint for other…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/71/f71bd1f8-088e-11ee-832f-8f8899946c53/64862dbdd533a.image.jpg?resize=300%2C175",
-   "age": "2d ago",
-   "published": "2026-09-18T12:15:00+00:00"
-  },
-  {
-   "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
-   "url": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Latvia will buy Czech Morana 155 mm howitzers, reversing an earlier decision to by the rival Archer artillery weapon from Sweden's BAE Systems Bofors.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SCX4X7IIMZAI3MQQJHEMCLLPOE.jpeg",
-   "age": "2d ago",
-   "published": "2026-09-18T11:01:43+00:00"
-  },
-  {
-   "title": "French Army wants to keep adversaries guessing on see-through battlefield",
-   "url": "https://www.defensenews.com/global/europe/2026/09/18/french-army-wants-to-keep-adversaries-guessing-on-see-through-battlefield/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The French Future Combat Command is looking at what Baratz called “frugal artificial intelligence,” designed to consume as little energy as possible.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UZU4TTCHD5DA7MTOR4ZXPU3RS4.jpg",
-   "age": "2d ago",
-   "published": "2026-09-18T09:01:16+00:00"
-  },
-  {
    "title": "Hendrick Motorsports to Bring Back Neon Yellow Numbers in 2027",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDJzd3UtSGtwSlg3UHZ0VHVtRlQ0cGhWbVE5TEkxa3Q3djlxYWpBWGhNSWRLODZ2REpkNE1ldHFkSENIeUtJdk9qUV8yUmx2R1BkcTZzQlZOUHBmdEdGTzlKbUNXd3pacXZRMlFaNXNGZGM3THlsNzVJLWhJRzczM29NekE3bVRlMFpCb0RB?oc=5",
-   "source": "Yahoo Sports",
+   "source": "sports.yahoo.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
