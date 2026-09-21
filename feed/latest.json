@@ -1,20 +1,88 @@
 {
- "generated": "2026-09-21T02:14:49+00:00",
+ "generated": "2026-09-21T08:04:08+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 39,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Yahoo Sports"
  ],
  "items": [
+  {
+   "title": "CNBC Daily Open: May the 'AI Force' be with you",
+   "url": "https://www.cnbc.com/2026/09/21/cnbc-daily-open-trump-china-ai-force.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "President Trump announces the creation of an 'AI Force' as the technology looks set to be a key topic with Chinese President Xi Jinping this week.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108307517-1778845590060-gettyimages-2275740399-AFP_B2WE9YH.jpeg?v=1778845674&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-21T06:41:34+00:00"
+  },
+  {
+   "title": "Presley Gerber, son of Cindy Crawford and Rande Gerber, dead at 27",
+   "url": "https://www.foxnews.com/entertainment/presley-gerber-son-cindy-crawford-rande-gerber-dead-27",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Cindy Crawford and Rande Gerber s son Presley Gerber, who signed with IMG Models and walked for Moschino and Calvin Klein, has died at age 27.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/presley-gerber-cindy-crawford-rande-gerber.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-21T05:23:07+00:00"
+  },
+  {
+   "title": "Harrison Butker drills game-winner as Chiefs survive overtime thriller against Colts",
+   "url": "https://www.foxnews.com/outkick-sports/harrison-butker-drills-game-winner-chiefs-survive-overtime-thriller-colts",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Patrick Mahomes threw for 382 yards and three touchdowns as the Kansas City Chiefs outlasted the Indianapolis Colts in a wild overtime thriller.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/colts-chiefs-sunday-night-football-1_001.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-21T04:26:45+00:00"
+  },
+  {
+   "title": "Chinese biopharma stocks jump as U.S. weighs keeping door open to drug deals",
+   "url": "https://www.cnbc.com/2026/09/21/chinese-biopharma-stocks-jump-as-us-plans-to-continue-drug-licensing-deals-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Chinese biopharma stocks rose on Monday after a report that the U.S. may continue to allow most drug licensing deals with Chinese firms.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108249930-1767883114856-gettyimages-1457781967-_x3m2814.jpeg?v=1776772295&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-21T04:20:33+00:00"
+  },
+  {
+   "title": "Manhunt underway in California after armed suspect allegedly points gun at people, shoots at officers",
+   "url": "https://www.foxnews.com/us/manhunt-underway-california-after-armed-suspect-allegedly-points-gun-people-shoots-officers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "California deputies urge local residents to lock their doors amid a manhunt for a suspect wanted for several felonies, including pointing a firearm at people.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/manhunt-california-forest-deputies-mugshot.png?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-21T04:11:08+00:00"
+  },
+  {
+   "title": "Iran vows 'painful' retaliation as Trump piles on pressure ahead of UN General Assembly meeting",
+   "url": "https://www.cnbc.com/2026/09/21/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump threatened to destroy Iran's economy or eliminate its leadership if Tehran doesn't strike a deal, complicating efforts at diplomacy.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108365162-17897625102026-09-18t194849z_1464701728_rc2vlnax1dr1_rtrmadp_0_usa-trump.jpeg?v=1789762543&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-21T04:04:18+00:00"
+  },
   {
    "title": "Missing Carnival Panorama passenger jumped overboard off Mexico's coast",
    "url": "https://www.foxnews.com/travel/missing-carnival-panorama-passenger-jumped-overboard-mexicos-coast",
@@ -23,7 +91,7 @@
    "topic": "world",
    "summary": "A male passenger jumped overboard from the Carnival Panorama as it sailed from Puerto Vallarta back to Long Beach, triggering a major search.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/the-carnival-panorama-cruise-ship-itinerary-changes.jpg?ve=1&tl=1",
-   "age": "57m ago",
+   "age": "6h ago",
    "published": "2026-09-21T01:17:24+00:00"
   },
   {
@@ -34,7 +102,7 @@
    "topic": "world",
    "summary": "Travis Kelce scored his first touchdown of the season and NBC cameras caught Taylor Swift pointing to her wedding ring during the end zone celebration.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/travis-kelce-touchdown-chiefs-colts.jpg?ve=1&tl=1",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-09-21T01:13:22+00:00"
   },
   {
@@ -45,52 +113,8 @@
    "topic": "markets",
    "summary": "Treasury Secretary Scott Bessent said his meeting with Chinese Vice Premier He Lifeng was \"successful\" ahead of the Sept. 24 Trump-Xi summit.",
    "image": "https://image.cnbcfm.com/api/v1/image/108365418-17899186212026-09-20t050008z_1903970492_rc2z5ka0leoe_rtrmadp_0_usa-china.jpeg?v=1789918650&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-09-21T00:45:26+00:00"
-  },
-  {
-   "title": "Patrick Clancy in his own words: Top takeaways from grieving father's first interview",
-   "url": "https://www.foxnews.com/us/patrick-clancy-his-own-words-top-takeaways-from-grieving-fathers-first-interview",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Patrick Clancy told 60 Minutes that baby Callan died in his arms after four agonizing days and recalled apologizing to his son in their final moments.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Clancy-Kids.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-21T00:44:13+00:00"
-  },
-  {
-   "title": "Cowboys' Cobie Durant gets stepped on in worst place possible during win over Commanders",
-   "url": "https://www.foxnews.com/outkick-sports/cowboys-cobie-durant-stepped-worst-place-possible-win-commanders",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Cobie Durant left the Dallas Cowboys 37-20 win over Washington after a teammate accidentally stepped on him while he was down in the end zone.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cobie-durant-injury-cowboys-commanders.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-21T00:32:07+00:00"
-  },
-  {
-   "title": "Chad Gilbert, New Found Glory founding member and lead guitarist, dead at 45",
-   "url": "https://www.foxnews.com/entertainment/chad-gilbert-new-found-glory-founding-member-lead-guitarist-dead-45",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Chad Gilbert, founding member and lead guitarist for New Found Glory, has died at the age of 45. He had battled adrenal cancer since 2021.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/chad-gilbert-new-found-glory-warped-tour.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-21T00:29:33+00:00"
-  },
-  {
-   "title": "Here are the 3 big things we're watching in the stock market this week",
-   "url": "https://www.cnbc.com/2026/09/20/here-are-the-3-big-things-were-watching-in-the-stock-market-this-week.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The week ahead is light on macroeconomic data, but investors can still expect plenty of market-moving headlines.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108217759-1761656513846-gettyimages-2235448475-META_CONNECT.jpeg?v=1769640322&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-09-20T23:42:00+00:00"
   },
   {
    "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -100,7 +124,7 @@
    "topic": "ai",
    "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_6Days-16X9-Dark.png?resize=1200,675",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-09-20T21:41:08+00:00"
   },
   {
@@ -111,7 +135,7 @@
    "topic": "ai",
    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-20T20:29:07+00:00"
   },
   {
@@ -122,7 +146,7 @@
    "topic": "defense",
    "summary": "The drone hauled in off Florida appears to be of the same family as those used by the U.S. military to strike Iran. The post Shahed-136 Clone Found By Florida Fisherman,…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/FLM136-fishing-boat-eglin.jpg?quality=85",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-09-20T20:09:32+00:00"
   },
   {
@@ -133,7 +157,7 @@
    "topic": "ai",
    "summary": "Many of The Boring Company's announced project have not materialized.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-09-20T19:38:48+00:00"
   },
   {
@@ -144,7 +168,7 @@
    "topic": "markets",
    "summary": "The mayor's press office said the meeting will take place at Gracie Mansion and \"will focus on issues affecting New York City and New Yorkers.\"",
    "image": "https://image.cnbcfm.com/api/v1/image/108230204-17637585472025-11-21t205337z_1143851817_rc271ia6cvye_rtrmadp_0_usa-trump-mamdani.jpeg?v=1763758583&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-09-20T19:06:16+00:00"
   },
   {
@@ -155,7 +179,7 @@
    "topic": "ai",
    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-20T18:56:04+00:00"
   },
   {
@@ -166,30 +190,19 @@
    "topic": "ai",
    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-20T18:32:52+00:00"
   },
   {
-   "title": "U.S. urges Americans to reconsider Middle East travel as Iran tensions rise",
-   "url": "https://www.cnbc.com/2026/09/20/us-middle-east-travel-warning-iran-war-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The State Department urged Americans to reconsider Middle East travel as Houthi attacks intensify and Iran keeps the Strait of Hormuz closed.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108362154-1789217733683-gettyimages-2294794498-mg0011.jpeg?v=1789217766&amp;w=1920&amp;h=1080",
-   "age": "11h ago",
-   "published": "2026-09-20T14:23:53+00:00"
-  },
-  {
-   "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-   "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364844-1789731895573-img_1793.jpg?v=1789768722&amp;w=1920&amp;h=1080",
-   "age": "13h ago",
-   "published": "2026-09-20T12:47:23+00:00"
+   "title": "Indiana company makes high-tech NFL helmets, protecting top football stars",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_87988a4b-8894-4168-8e56-5c1fe4f21b94.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Some of the NFL’s biggest stars, including Bears players, are wearing helmets made to better protect against head impacts. Many young players aren’t getting the same tec…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/c5/bc551d6c-a7ae-45a5-83aa-7acc5b9f54f9/6aaee474f3d2f.image.jpg?resize=300%2C200",
+   "age": "19h ago",
+   "published": "2026-09-20T12:15:00+00:00"
   },
   {
    "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
@@ -199,7 +212,7 @@
    "topic": "ai",
    "summary": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2216350484-1152x648.jpg",
-   "age": "15h ago",
+   "age": "20h ago",
    "published": "2026-09-20T11:07:00+00:00"
   },
   {
@@ -210,7 +223,7 @@
    "topic": "ai",
    "summary": "Unlike previous Ferrari four-seaters, this one is better for humans than cargo.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/2026-Ferrari-Purosangue-1-of-15-1152x648-1789751602.jpg",
-   "age": "16h ago",
+   "age": "22h ago",
    "published": "2026-09-20T10:00:02+00:00"
   },
   {
@@ -221,8 +234,19 @@
    "topic": "ai",
    "summary": "Isotope ratios provide a hint that the giants were actively managing temperatures.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1485364132-1152x648-1789756447.jpg",
-   "age": "17h ago",
+   "age": "23h ago",
    "published": "2026-09-20T09:00:11+00:00"
+  },
+  {
+   "title": "They lost their home. Then they lost their dogs. Now, both are finally home | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_bc5ee889-282c-47b1-bb4d-ae1ca0eb2e54.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Aug. 11 storm took plenty from this Gary couple, including their two beloved dogs. But strangers, animal officers, and a newspaper column helped bring Sonny and Lulu…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/09/c0952462-3dd0-4c9e-a42e-a6480fbfc3f4/6aad807f49ad3.image.jpg?resize=300%2C256",
+   "age": "1d ago",
+   "published": "2026-09-19T12:15:00+00:00"
   },
   {
    "title": "Carrier USS Abraham Lincoln Pulls into Guam for Logistics Stop, Deployment Now at 302 Days",
@@ -245,17 +269,6 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2181891613-1152x648.jpg",
    "age": "1d ago",
    "published": "2026-09-19T11:10:43+00:00"
-  },
-  {
-   "title": "Rings around a tiny body have changed over the past decade",
-   "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Chariklo is only about 250 km across, but it has two rings, and they're changing.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image-1-1152x648.png",
-   "age": "1d ago",
-   "published": "2026-09-19T10:00:06+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -368,28 +381,6 @@
    "published": "2026-09-18T17:10:33+00:00"
   },
   {
-   "title": "Why the ‘right to repair’ matters to the Pentagon",
-   "url": "https://breakingdefense.com/2026/09/why-the-right-to-repair-matters-to-the-pentagon/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The US military wants authorization to repair its systems without contractor support, which at the moment is easier said than done.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/CRU33-pb-1024x576.png",
-   "age": "2d ago",
-   "published": "2026-09-18T16:58:59+00:00"
-  },
-  {
-   "title": "Japan Opens The Door To Acquiring Nuclear-Powered Submarines",
-   "url": "https://www.twz.com/sea/japan-opens-the-door-to-acquiring-nuclear-powered-submarines",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Japan’s naval capabilities are evolving rapidly in the face of growing threats and so are its undersea requirements. The post Japan Opens The Door To Acquiring Nuclear-P…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/JAPAN-SUBMARINE-CREW.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-09-18T16:36:20+00:00"
-  },
-  {
    "title": "VIDEO: China Coast Guard Rams Philippine Fisheries Vessel in South China Sea",
    "url": "https://news.usni.org/2026/09/18/video-china-coast-guard-rams-philippine-fisheries-vessel-in-south-china-sea",
    "source": "USNI News",
@@ -410,6 +401,28 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2ID6QIZKFBHNHCKWSPONT5GMNU.jpg",
    "age": "2d ago",
    "published": "2026-09-18T14:35:13+00:00"
+  },
+  {
+   "title": "Lake Station school to retire jersey number of fallen police officer, Billy Taylor",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_7603d7e7-2420-47c9-89f8-fcfb6d59b1e5.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "No. 55 was more than a jersey or badge number. It was Billy Taylor. Forty years later, his school is retiring his football number to honor the teammate who always had yo…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/5a/c5a57d49-1dff-4e26-9813-e4c625a78850/693133e6ca193.image.jpg?resize=300%2C282",
+   "age": "2d ago",
+   "published": "2026-09-18T13:00:00+00:00"
+  },
+  {
+   "title": "What do you do with your life after the person you planned it with is gone? | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_ea162d27-706d-44c0-9c07-41311bac27b3.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "What happens to a man when the woman he planned to grow old with is suddenly gone? This 80-year-old Valparaiso widower found an answer and shares his blueprint for other…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/71/f71bd1f8-088e-11ee-832f-8f8899946c53/64862dbdd533a.image.jpg?resize=300%2C175",
+   "age": "2d ago",
+   "published": "2026-09-18T12:15:00+00:00"
   },
   {
    "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
@@ -434,26 +447,15 @@
    "published": "2026-09-18T09:01:16+00:00"
   },
   {
-   "title": "Virtual Counseling Gives Sailors More Mental Health Options",
-   "url": "https://news.usni.org/2026/09/17/virtual-counseling-gives-sailors-more-mental-health-options",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "ARLINGTON, Va. — The Navy is using virtual counseling to help meet the mental health needs of its sailors, a panel of suicide prevention experts told reporters Thursday.…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9802373-scaled.jpg",
+   "title": "Hendrick Motorsports to Bring Back Neon Yellow Numbers in 2027",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdDJzd3UtSGtwSlg3UHZ0VHVtRlQ0cGhWbVE5TEkxa3Q3djlxYWpBWGhNSWRLODZ2REpkNE1ldHFkSENIeUtJdk9qUV8yUmx2R1BkcTZzQlZOUHBmdEdGTzlKbUNXd3pacXZRMlFaNXNGZGM3THlsNzVJLWhJRzczM29NekE3bVRlMFpCb0RB?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
    "age": "3d ago",
-   "published": "2026-09-17T21:07:30+00:00"
-  },
-  {
-   "title": "US Air Force to extend service of B-1, B-2 bombers, official says",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The service lives of the B-1 Lancer and B-2 Spirit will be extended, with their pilots to be some of the first to fly the B-21 Raider.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XGB23ENHOFHY3IOHW57K3T3GSU.JPG",
-   "age": "3d ago",
-   "published": "2026-09-17T20:28:00+00:00"
+   "published": "2026-09-18T02:02:00+00:00"
   }
  ]
 }
