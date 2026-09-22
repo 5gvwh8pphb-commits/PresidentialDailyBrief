@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-22",
+  "dateLabel": "Tuesday, September 22, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-22T13:41:39Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, September 21, 2026 close — a broad tech-led rally sent the Nasdaq to a fresh record high.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,764.70", "change": "+114.20", "changePct": "+1.49%", "sixMo": "+19%" },
+        { "name": "Dow", "close": "52,048.83", "change": "+366.19", "changePct": "+0.71%", "sixMo": "+13%" },
+        { "name": "Nasdaq", "close": "27,122.09", "change": "+599.54", "changePct": "+2.26%", "sixMo": "+23%" }
+      ],
+      "body": "Stocks bounced back from a mostly lower week as Treasury yields and oil prices slipped; Intel jumped about 12% and AMD gained roughly 10% to cross a $1 trillion market cap, powering the Nasdaq to its first record close since June.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/21/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Trump addresses UN General Assembly as Iran war nears seven-month mark",
+      "body": "President Trump spoke to the UN General Assembly Tuesday, with Ambassador Mike Waltz saying the address would highlight peace deals, US actions in the Western Hemisphere, progress on the Gaza plan, and the need to ensure Iran never obtains a nuclear weapon; Iranian President Masoud Pezeshkian is scheduled to address the Assembly Wednesday.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/trump-address-united-nations-general-assembly-iran-war-rcna599085"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Top Senate Democrat warns Trump not to waver on Taiwan ahead of Xi summit",
+      "body": "Sen. Jeanne Shaheen, ranking Democrat on the Senate Foreign Relations Committee, said at the Concordia Summit that she hopes Trump 'will not say anything that indicates a lack of support for Taiwan' when he hosts Xi Jinping in Washington this week, as a pending $14 billion Taiwan arms sale remains a flashpoint Beijing wants scrapped before the September 24 meeting.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3368309/top-us-senate-democrat-warns-trump-not-waver-taiwan-xi-heads-washington"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "UN report says US boat strikes may amount to crimes against humanity as death toll hits 234",
+      "body": "A UN Special Rapporteur's report found 'reasonable grounds' that US strikes on suspected drug-trafficking boats in the Caribbean and eastern Pacific -- now 234 deaths across 70 strikes -- violate international law, but because the US isn't an ICC member and has no domestic statute criminalizing crimes against humanity, no court can try the cases; Secretary of State Rubio says every strike is reviewed by a legal officer, while the administration has sanctioned more than a dozen ICC judges and prosecutors.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/22/why-united-nations-says-us-boat-strikes-may-be-crimes-against-humanity"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Army's Scarlet Dragon exercise tests AI-linked defenses against 100-drone swarms",
+      "body": "The XVIII Airborne Corps ran a nine-day 'Scarlet Dragon' exercise at Fort Bragg combining radar, acoustic sensors and electronic warfare with AI-assisted threat prioritization to defend command posts and air-defense positions against simulated attacks by up to 100 drones at once; the Army says it's moving from evaluating individual counter-drone systems to validating networked, layered defenses at scale, with follow-on tests planned into 2027.",
+      "source": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/army-news/2026/u-s-army-tests-ai-and-electronic-warfare-to-stop-100-drone-swarms-from-overwhelming-battlefield-defenses"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Researchers used Claude Opus 5 to build a working exploit against OpenAI's systems overnight",
+      "body": "Security researchers at Hacktron chained a bug in Discourse forum image-processing with a flaw in OpenAI's single sign-on system to access an internal GitHub repository, a hack Claude Opus 4.8 couldn't reliably pull off until Anthropic's newly released Opus 5 built a working exploit overnight; Claude initially refused the request until researchers reframed it as a capture-the-flag exercise, and OpenAI patched the flaw within 14 hours and paid a $6,500 bounty.",
+      "source": "Malwarebytes",
+      "url": "https://www.malwarebytes.com/blog/news/2026/09/researchers-used-claude-to-hack-openai"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Ben Johnson says Caleb Williams is 'week to week' after Grade 1 hamstring strain",
+      "body": "Bears coach Ben Johnson said Monday that an MRI confirmed a Grade 1 hamstring strain for quarterback Caleb Williams, who is expected to be week-to-week and likely won't practice this week; Johnson stopped short of ruling Williams out for next Monday night's home game against Philadelphia, with Tyson Bagent in line to start if he can't go.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/49999247/bears-johnson-qb-williams-week-week-likely-miss"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Coverage in the window centers on Saturday's Bristol Chase race and Byron's resulting playoff-standings movement, which the spoiler rule excludes; no non-spoiler item -- injury, schedule, or sponsorship news -- surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; recent coverage centers on the June election of Stated Clerk Fred Greco and a denomination-wide September call to prayer and fasting, both already dated beyond this window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
