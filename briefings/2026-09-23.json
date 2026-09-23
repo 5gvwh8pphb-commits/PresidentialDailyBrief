@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-23",
+  "dateLabel": "Wednesday, September 23, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-23T13:54:56Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, September 22, 2026 close — a mixed, sector-split session: chip stocks drove the Nasdaq to a second straight record while financial-sector weakness pulled the Dow lower and the S&P 500 finished essentially flat.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,764.64", "change": "-0.06", "changePct": "-0.01%", "sixMo": "+19%" },
+        { "name": "Dow", "close": "51,863.69", "change": "-185.14", "changePct": "-0.36%", "sixMo": "+14%" },
+        { "name": "Nasdaq", "close": "27,244.28", "change": "+122.18", "changePct": "+0.45%", "sixMo": "+26%" }
+      ],
+      "body": "Chip stocks rose roughly 2% and oil slid toward $98 a barrel on hopes for Iran diplomacy, while financials fell about 1.9% and dragged on the Dow; the S&P 500 sits just 0.4% below its all-time high as markets watched the start of Xi Jinping's state visit.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/22/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Trump warns UN he'll 'annihilate' Iran's regime absent a deal, signs new Arctic defense pact with Greenland",
+      "body": "In his UN General Assembly address Tuesday, President Trump said he faces a 'big decision' on Iran -- a deal 'right after the election' or moves to 'annihilate the Islamic Republic' -- while touting his 'Board of Peace' and defending unrestrained US AI growth; after the speech he signed an agreement with Greenland and Denmark expanding US power to defend the Arctic territory.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Xi Jinping arrives in Washington today for first US capital visit in a decade as Taiwan arms sale looms over summit",
+      "body": "Xi and wife Peng Liyuan are due at Joint Base Andrews Wednesday afternoon, with Trump personally greeting them ahead of Thursday's White House summit; Beijing is expected to press Trump to halt a pending $14 billion Taiwan arms package and existing deliveries, though Taipei says it remains confident sales will continue and Trump has called the package a useful 'negotiating chip.'",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/23/2003864741"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "US and Iran hold first direct talks in months as CENTCOM reports no new strikes for 15 straight periods",
+      "body": "Special envoy Steve Witkoff and Jared Kushner met Iranian Foreign Minister Abbas Araghchi for a three-hour, Qatar-mediated session at UN headquarters Tuesday -- the first public US-Iran contact in months -- with Araghchi repeating Iran's terms to reopen the Strait of Hormuz: lifting the naval blockade, releasing frozen assets, and ending the war on all fronts including Lebanon; CENTCOM has not announced a strike on Iranian territory for 15 consecutive operational periods.",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/iran-and-us-held-direct-un-talks-islamic-republic-terms-reopen-hormuz-hardening"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Navy tests new AI-enabled mission-planning tool for autonomous strike aircraft at Gray Flag 2026",
+      "body": "During the Gray Flag 2026 exercise at Point Mugu Sea Range, the Navy demonstrated its Collaborative Autonomy Mission Planning (CAMP) system on an MQ-20 Avenger surrogate, letting operators build mission plans that autonomous aircraft then execute independently; officials called it a stepping stone toward fielding collaborative autonomy operationally, though no deployment date was set.",
+      "source": "Military Times",
+      "url": "https://www.militarytimes.com/news/your-navy/2026/09/22/navy-successfully-tests-new-autonomous-aircraft-feature-aimed-at-simplifying-mission-planning/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Opus 5.5, matching its top-tier model's performance at 40% lower cost",
+      "body": "Anthropic released Claude Opus 5.5 on Tuesday, saying it matches Claude Fable 5.1 on most work while running about 40% cheaper and over 30% faster than Opus 5, with pricing at $4/$20 per million input/output tokens and a 1M-token context window; Anthropic is also raising five-hour usage limits for Pro, Max, Team and Enterprise subscribers through October 22.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/22/anthropic-claude-opus-5-5/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Bears sign long snapper Scott Daly to active roster, return Nick McCloud to practice squad",
+      "body": "Chicago made a series of roster moves Tuesday, signing long snapper Scott Daly -- who spent the previous two seasons with the team before being let go this year -- to the active roster and bringing cornerback Nick McCloud back to the practice squad, while waiving long snapper Beau Garner and releasing offensive lineman Kyle Hergel from the practice squad.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/roster-moves-chicago-bears-announce-roster-moves"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Available coverage remains tied to the Round of 12 playoff picture and this weekend's Kansas race, both built on Saturday's Bristol result, which the spoiler rule excludes; no non-spoiler item -- injury, schedule, or sponsorship news -- surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; the items still circulating -- the denomination-wide September call to prayer and fasting and Fred Greco's election as Stated Clerk -- were already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
