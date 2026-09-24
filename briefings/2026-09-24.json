@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-24",
+  "dateLabel": "Thursday, September 24, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-24T13:49:12Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, September 23, 2026 close — stocks fell broadly as the 10-year Treasury yield jumped to its highest level since 2007.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,706.03", "change": "-58.61", "changePct": "-0.76%", "sixMo": "+17%" },
+        { "name": "Dow", "close": "51,511.59", "change": "-352.10", "changePct": "-0.68%", "sixMo": "+11%" },
+        { "name": "Nasdaq", "close": "26,936.04", "change": "-308.24", "changePct": "-1.13%", "sixMo": "+23%" }
+      ],
+      "body": "The 10-year Treasury yield climbed to about 5.1%, a 19-year high, after stronger-than-expected business-activity data raised the odds of another Fed rate hike; rate-sensitive tech names led the Nasdaq's decline as markets also looked ahead to Thursday's Trump-Xi summit in Washington.",
+      "source": "AP via ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9232026-136697299"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Zelenskyy urges Trump to arrange trilateral summit with Putin as Russian strikes kill six hours after their call",
+      "body": "Hours after speaking with Trump, Ukrainian President Zelenskyy said the two should move 'as quickly as possible' toward a trilateral meeting with Putin and proposed a ceasefire on energy-infrastructure strikes; Russian drone and missile attacks on Kyiv and Donetsk killed six people that same day, underscoring the gap between the diplomatic push and events on the ground.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/23/russian-drone-strikes-target-kyiv-infrastructure-after-zelenskyy-trump-talk"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Xi Jinping arrives at White House for high-stakes summit on trade, Taiwan, AI and the Iran war",
+      "body": "Xi's visit -- his first to Washington in over a decade -- includes a Rose Garden military review, a bilateral meeting and a state dinner Thursday; Beijing wants Trump to permanently halt the paused $14 billion Taiwan arms package and ease chip export curbs, while Taipei says it remains confident US arms sales will continue regardless of the summit's outcome.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/trump-xi-summit-meet-white-house-tensions-taiwan-trade-ai-rcna598073"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "USS Abraham Lincoln nears record deployment length as Navy blockade operations continue off Iran",
+      "body": "The carrier strike group made a brief Guam stop after 307 days deployed and is now steaming toward San Diego, approaching the USS Gerald R. Ford's deployment-length record, while USS George H.W. Bush continues Arabian Sea blockade operations nearly six months in, having redirected more than 110 commercial vessels for compliance as of September 21.",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-september-23-2026"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon's GenAI.mil platform grows to 1.7 million users as officials plan to push AI into classified networks",
+      "body": "Speaking at the DefenseTalks conference, Pentagon AI officials said roughly 500,000 of the platform's 1.7 million users are now daily 'power users' who have built 100,000 task-specific AI agents, and that frontier models will be extended beyond the unclassified network onto SIPR, JWICS and Special Access Programs.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/09/23/genai-mil-pentagon-frontier-models-defensetalks/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Marketplace, letting enterprise customers buy partner AI tools with committed spend",
+      "body": "The new marketplace centralizes more than 2,000 plugins and connectors, Claude-powered products from partners like CrowdStrike and Snowflake, and consulting services from firms including Accenture and Deloitte, letting customers apply their committed Anthropic spend toward third-party purchases.",
+      "source": "Claude (Anthropic)",
+      "url": "https://claude.com/blog/claude-marketplace"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears QB picture muddles further as Tyson Bagent enters concussion protocol ahead of Eagles game",
+      "body": "With Caleb Williams still week-to-week on a hamstring injury and Bagent now in the concussion protocol after relieving him Sunday, 38-year-old Case Keenum practiced Wednesday and is the likely starter for Monday night's home game against Philadelphia; coach Ben Johnson said the decision won't be final until later in the week and the team isn't planning to add another quarterback.",
+      "source": "Fox Sports",
+      "url": "https://www.foxsports.com/stories/nfl/case-keenum-caleb-williams-tyson-bagent-injury-update-bears-quarterbacks"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Byron's No. 24 rolls out its RAPTOR paint scheme for this weekend's Kansas Chase race",
+      "body": "Hendrick Motorsports previewed its paint schemes for Sunday's Kansas Speedway race, with Byron's charcoal-and-green RAPTOR livery -- now a primary scheme for the full 2026 season rather than a one-off -- set to run at the first mile-and-a-half track of the Round of 12.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/news/2026/september/22/nascar-paint-schemes-preview-hendrick-motorsports-goes-the-extra-mile-and-a-half-at-kansas"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "PCA sets 2027 General Assembly for Milwaukee, first Upper Midwest gathering since 1987",
+      "body": "The host committee announced the 2027 General Assembly theme 'Come and See,' to be held June 14-18 at Milwaukee's Baird Center, hosted jointly by the Wisconsin, Chicago Metro, Korean Central and Northern Illinois presbyteries -- only the 11th Assembly held outside the Southeast.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/come-and-see-gods-work-at-2027-general-assembly/"
+    }
+  ]
+}
