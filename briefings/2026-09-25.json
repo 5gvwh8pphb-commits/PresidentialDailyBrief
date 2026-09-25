@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-25",
+  "dateLabel": "Friday, September 25, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-25T14:13:48Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, September 24, 2026 close — a choppy, near-flat session as 10-year Treasury yields hit a fresh 19-year high and investors digested the Trump-Xi summit's conclusion.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,704.13", "change": "-1.90", "changePct": "-0.02%", "sixMo": "+18%" },
+        { "name": "Dow", "close": "51,349.98", "change": "-161.61", "changePct": "-0.31%", "sixMo": "+11%" },
+        { "name": "Nasdaq", "close": "26,939.37", "change": "+3.34", "changePct": "+0.01%", "sixMo": "+24%" }
+      ],
+      "body": "Longer-dated Treasury yields extended their climb, with the 10-year topping 5.15% intraday before easing to about 5.1%, pressuring rate-sensitive stocks even as all three indexes finished essentially flat; oil prices also firmed on hopes that diplomacy could eventually reopen the Strait of Hormuz.",
+      "source": "AP via ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-9242026-136734081"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~19h ago",
+      "empty": false,
+      "headline": "Senate narrowly rejects resolution to end US involvement in Iran war, 49-50",
+      "body": "Four Republicans -- Susan Collins, Lisa Murkowski, Rand Paul and Thom Tillis -- joined Democrats on Thursday's War Powers Resolution vote, with Pennsylvania's John Fetterman the lone Democrat opposed; the mostly symbolic measure, which would have directed Trump to end US involvement in the Iran conflict absent congressional authorization, fell one vote short.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/24/nx-s1-5980318/senate-iran-war-powers-vote"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Xi presses Trump to formally oppose Taiwan independence at first Washington summit in over a decade",
+      "body": "At Thursday's White House summit, Xi urged Trump to 'adhere to the correct position of opposing Taiwan independence,' according to Xinhua -- Beijing's first public push for Washington to go beyond its longstanding position that it 'does not support' independence; the two leaders called it a 'great meeting' touching trade, AI and Iran but announced no concrete agreements.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "CENTCOM holds fire on Iran for 18th straight period as officials say Strait of Hormuz flow is two-thirds restored",
+      "body": "US Central Command has now gone 18 consecutive operational windows without an announced strike on Iranian territory, and American officials say roughly 60-70% of pre-war oil flow through the Strait of Hormuz has been restored, even as Iran's president urges Washington to revive the collapsed Islamabad memorandum before readmitting inspectors and diluting its uranium stockpile.",
+      "source": "GlobalSecurity.org",
+      "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Navy stands up new command to standardize robotic and autonomous systems across the fleet",
+      "body": "The new Robotics and Autonomous Systems Warfighting Development Center, headquartered in Virginia Beach, will develop common tactics and procedures for the Navy's growing fleet of unmanned platforms; Chief of Naval Operations Adm. Daryl Caudle called it 'the critical bridge between capability development and operational employment' as the service works to field autonomous systems faster.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/09/navy-launches-robotics-and-autonomous-systems-warfighting-development-center/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic says Claude autonomously discovered a novel CRISPR-like gene-editing enzyme",
+      "body": "Anthropic's new biology lab reported that Claude, running roughly 950 parallel agents over 21 hours, flagged a previously unknown enzyme system in bacteriophage DNA capable of cutting, copying and pasting DNA much like CRISPR; human scientists validated the find in the lab, though CEO Dario Amodei noted Stanford researchers had previously identified a similar system.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears sign long snapper Beau Gardner to practice squad, release WR Scotty Miller",
+      "body": "Chicago brought back Gardner -- who made the initial 53-man roster before being cut after Week 2 -- to the practice squad on Thursday, waiving wide receiver Scotty Miller, who had signed with the team September 1, in the corresponding move.",
+      "source": "BVM Sports",
+      "url": "https://bvmsports.com/2026/09/24/bears-make-two-practice-squad-moves-thursday/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron set to start 29th at Kansas as NASCAR sets Round of 12 opener lineup by metric score",
+      "body": "NASCAR set the field for Sunday's Hollywood Casino 400 -- the Round of 12 opener -- using competition metric rather than a knockout qualifying session; Byron, in the No. 24 Chevrolet, is slotted 29th with a metric score of 10.200.",
+      "source": "Racing News",
+      "url": "https://racingnews.co/2026/09/24/nascar-qualifying-order-kansas-september-2026/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window beyond items already covered in prior briefs, including the 2027 General Assembly Milwaukee announcement; Covenant College's record-enrollment story was published a week ago and falls outside the window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
