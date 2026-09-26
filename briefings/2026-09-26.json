@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-26",
+  "dateLabel": "Saturday, September 26, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-26T13:25:02Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 25, 2026 close — stocks closed out their first winning week in three as oil prices eased and Treasury yields cooled from a 19-year high.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,743.41", "change": "+39.28", "changePct": "+0.5%", "sixMo": "+17%" },
+        { "name": "Dow", "close": "51,828.62", "change": "+478.64", "changePct": "+0.9%", "sixMo": "+12%" },
+        { "name": "Nasdaq", "close": "27,068.72", "change": "+129.34", "changePct": "+0.5%", "sixMo": "+23%" }
+      ],
+      "body": "A drop in Brent crude below $98 a barrel released some of the pressure that had built up on Wall Street this week, helping the 10-year Treasury yield ease back after briefly nearing its highest level since 2007; all three major indexes finished the week higher even though Thursday's Trump-Xi summit produced no concrete agreements.",
+      "source": "AP via WTOP News",
+      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-friday-9-25-2026"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Zelenskyy says Trump approved Ukraine license to build Patriot missiles; State Department disputes it's final",
+      "body": "Meeting on the sidelines of the UN General Assembly in New York, Zelenskyy said Trump told him 'I have made the final decision' on letting Ukraine produce Patriot interceptors domestically and discussed a possible energy-infrastructure ceasefire; the State Department said afterward that no final decision has actually been made, leaving the policy's status unresolved.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/25/europe/trump-zelensky-patriots-manufacture-intl"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Rubio says $14B Taiwan arms package remains delayed by US production capacity, not a policy shift",
+      "body": "Secretary of State Marco Rubio told reporters in New York that the long-paused Taiwan arms package is held up because selling weapons the US may need for itself must be weighed against military industrial capacity, not a change in Taiwan policy; four Senate Republicans, including Mitch McConnell, have pressed Rubio and Defense Secretary Hegseth on why the package hasn't been approved.",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/sep/24/marco-rubio-says-delay-arms-sales-taiwan-based-us-weapons-building/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~fresh today",
+      "empty": false,
+      "headline": "Trump reportedly rejects Iran's seven-day ceasefire offer, expects to resume strikes after the midterms",
+      "body": "The Wall Street Journal reports Trump turned down a Tehran proposal to reopen the Strait of Hormuz and restart nuclear talks in exchange for lifting the US naval blockade of Iranian ports, and privately expects to resume major strikes on Iran once November's midterm elections pass, though officials caution his position could still shift.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Air Force moves YFQ-42A and YFQ-44A drone fighters into operator-led testing at Creech AFB",
+      "body": "General Atomics' YFQ-42A Vengeance and Anduril's YFQ-44A Fury have both arrived at Creech Air Force Base's Experimental Operations Unit, where Airmen -- not contractors -- are now flying the autonomous Collaborative Combat Aircraft under combat-representative conditions to help determine how they'll be organized, armed and controlled alongside crewed fighters.",
+      "source": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/aerospace-news/2026/us-air-force-moves-collaborative-combat-aircraft-into-operational-testing-with-yfq-44a-and-yfq-42a"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic opens a public portal for developers to submit Claude plugins and MCP connectors",
+      "body": "The new self-service directory lets any paid Claude user submit an MCP connector or a bundled plugin, track it through review, and see usage analytics once live; Anthropic says MCP usage across its products is up 110x this year and the directory already lists more than 2,000 tools, built on the newly supported MCP 2.0 specification.",
+      "source": "Claude (Anthropic)",
+      "url": "https://claude.com/blog/build-plugins-for-claude"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Bears RB Kyle Monangai upgraded to full practice, CB Tyrique Stevenson returns limited ahead of Eagles",
+      "body": "Friday's injury report showed Monangai (knee) going from a non-participant to a full practice, easing concerns about his availability, while Stevenson (hamstring) returned in a limited capacity; Tyson Bagent (concussion) and kicker Cairo Santos (hip) both sat out again as the Bears prepare for Monday night's home game against Philadelphia.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/nfl/bears/onsi/caleb-williams-kyle-monangai-injury-updates-bears-friday-practice-report"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron brings strong Kansas track history into Sunday's Round of 12 race",
+      "body": "William Byron and the No. 24 Hendrick Motorsports Chevrolet head into Sunday's Hollywood Casino 400 at Kansas Speedway, a 1.5-mile track where he owns 10 career top-10 finishes including a seventh-place run in this year's spring race there, as the Round of 12 continues.",
+      "source": "RotoWire",
+      "url": "https://www.rotowire.com/racing/article/2026-hollywood-casino-400-preview-chase-intensifies-136467"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window beyond items already covered in prior briefs, including the 2027 General Assembly Milwaukee announcement; no other qualifying denominational news was found today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
