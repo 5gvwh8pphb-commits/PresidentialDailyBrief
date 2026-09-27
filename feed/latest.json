@@ -1,24 +1,97 @@
 {
- "generated": "2026-09-27T01:35:43+00:00",
+ "generated": "2026-09-27T07:17:51+00:00",
  "count": 40,
  "withImage": 40,
- "bearsDay": true,
+ "bearsDay": false,
  "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "Windy City Gridiron"
+  "USNI News"
  ],
  "items": [
+  {
+   "title": "Nicki Minaj urges young Americans to 'vote red' in 2026 midterms while doubling down on Trump support",
+   "url": "https://www.foxnews.com/politics/nicki-minaj-urges-young-americans-vote-red-2026-midterms-doubling-down-trump-support",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Nicki Minaj urged young Americans to vote red in midterm elections and revealed why she s made it her mission to support President Donald Trump.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/nicki-minaj-washington-dc.jpg?ve=1&tl=1",
+   "age": "38m ago",
+   "published": "2026-09-27T06:39:42+00:00"
+  },
+  {
+   "title": "'Knots Landing' star Ted Shackelford spotted with walker during rare Los Angeles outing at 80",
+   "url": "https://www.foxnews.com/entertainment/knots-landing-star-ted-shackelford-spotted-walker-rare-los-angeles-outing-80",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ted Shackelford, who starred on Knots Landing and The Young and the Restless, was photographed on a rare outing in Los Angeles with a walker.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ted-shackelford-suit.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-27T06:00:14+00:00"
+  },
+  {
+   "title": "'Funflation' is on the rise as hobbies get pricier, but consumers keep spending anyway",
+   "url": "https://www.cnbc.com/2026/09/27/funflation-consumer-spending-pricier-hobbies.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Consumers are spending more on hobbies like arts and crafts and outdoor sports, as it gets more expensive to travel due to increased airfare.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108367899-1790316607637-gettyimages-2257694906-_dsc5481.jpeg?v=1790316634&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-09-27T05:00:02+00:00"
+  },
+  {
+   "title": "Florida man, 76, with suspended license allegedly admits to driving under the influence of rum, cocaine",
+   "url": "https://www.foxnews.com/us/florida-man-76-suspended-license-allegedly-admits-driving-under-influence-rum-cocaine",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Charles Ducking, 76, allegedly showed deputies his rum cup and admitted to doing cocaine minutes before a traffic stop in Polk County, Florida.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/charles-ducking-florida-traffic-stop-rum-dui.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-09-27T04:46:44+00:00"
+  },
+  {
+   "title": "Hank Brown's last-second touchdown pass lifts Iowa to 20-19 win over Michigan in Big Ten",
+   "url": "https://www.foxnews.com/outkick-sports/hank-browns-last-second-touchdown-pass-lifts-iowa-20-19-win-michigan-big-ten",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Hank Brown s 16-yard scoring strike to Reece Vander Zee with 2 seconds left gave the Iowa Hawkeyes a dramatic 20-19 Big Ten win over Michigan.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Reece-Vander-Zee-Iowa-football.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-09-27T02:50:28+00:00"
+  },
+  {
+   "title": "Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran",
+   "url": "https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Danny Danon s viral Starlink video drew 9 million views, with nearly 40% of Instagram viewers in Iran, his office says, prompting a counter-campaign.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/danny-danon-unga-2026-starlink-display.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-09-27T02:04:33+00:00"
+  },
+  {
+   "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
+   "url": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675",
+   "age": "5h ago",
+   "published": "2026-09-27T01:40:30+00:00"
+  },
   {
    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -27,52 +100,8 @@
    "topic": "ai",
    "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
-   "age": "5m ago",
+   "age": "5h ago",
    "published": "2026-09-27T01:30:00+00:00"
-  },
-  {
-   "title": "Florida drops impressive offensive performance to pull off massive win over No. 4 Ole Miss",
-   "url": "https://www.foxnews.com/outkick-sports/florida-drops-impressive-offensive-performance-pull-off-massive-win-no-4-ole-miss",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Florida Gators stunned No. 4 Ole Miss in the Swamp with a dominant ground game as two running backs each rushed for over 100 yards in the win.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/baugh.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-27T00:04:51+00:00"
-  },
-  {
-   "title": "Enes Freedom rips Cheryl Reeve for saying women's sports advocates 'don’t want transgender people to exist'",
-   "url": "https://www.foxnews.com/outkick-sports/enes-freedom-rips-cheryl-reeve-for-saying-womens-sports-advocates-dont-want-transgender-people-to-exist",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Enes Kanter Freedom called on Cheryl Reeve to step down after the Lynx coach said the transgender athletes debate targets trans people s existence.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Cheryl-Reeve-and-Enes-Kante.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-26T23:32:55+00:00"
-  },
-  {
-   "title": "Pope Leo draws staggering 800,000 faithful to heart of Paris for massive outdoor Mass",
-   "url": "https://www.foxnews.com/world/pope-leo-draws-staggering-800000-faithful-heart-paris-massive-outdoor-mass",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Pope Leo XIV drew an estimated 800,000 to Place de la Concorde for a historic open-air Mass, urging French Catholics to share their faith openly.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Pope-Leo-Paris-blessing-Arc-de-Triomphe.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-26T23:25:29+00:00"
-  },
-  {
-   "title": "Ben Affleck admits his teenager roasted his dating history while at dinner",
-   "url": "https://www.foxnews.com/entertainment/ben-affleck-admits-teenager-roasted-dating-history-dinner",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ben Affleck revealed on Jimmy Kimmel Live! that his 17-year-old roasted his relationship history at dinner, proving he s not the cool dad.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/ben-affleck-tux.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-26T23:09:23+00:00"
   },
   {
    "title": "Boeing flags 737 Max software glitch affecting some automated approach functions",
@@ -82,19 +111,8 @@
    "topic": "markets",
    "summary": "Boeing identified a software issue on some 737 Max aircraft that can affect automated vertical navigation functions after a missed approach.",
    "image": "https://image.cnbcfm.com/api/v1/image/108250215-1767906239901-gettyimages-2249102626-BOEING_737_MAX.jpeg?v=1768321273&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-09-26T21:55:01+00:00"
-  },
-  {
-   "title": "Trump says he approved new fuel economy standards, rolling back Biden-era rules",
-   "url": "https://www.cnbc.com/2026/09/26/trump-fuel-economy-cafe-standards.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The new fuel economy standards will reverse the Biden administration's stricter policies meant to spur electric vehicle adoption.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108236093-1764784788711-gettyimages-2249777843-_m0a1995_il9os5ws.jpeg?v=1764784809&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-26T21:21:04+00:00"
   },
   {
    "title": "Insurers claim AI is already increasing healthcare costs",
@@ -104,7 +122,7 @@
    "topic": "ai",
    "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-09-26T21:02:06+00:00"
   },
   {
@@ -115,63 +133,8 @@
    "topic": "ai",
    "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-icon-badged-GettyImages-2246518404.jpg?resize=1200,795",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-26T20:24:45+00:00"
-  },
-  {
-   "title": "Bears vs. Eagles Injury Report: Tyson Bagent is Questionable",
-   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/123747/bears-vs-eagles-injury-report-tyson-bagent-is-questionable-saquon-barkley-caleb-williams",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2292626244.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
-   "published": "2026-09-26T20:13:22+00:00"
-  },
-  {
-   "title": "Injury Update: Bears rule out Caleb Williams, will start Tyson Bagent or Case Keenum vs. Eagles",
-   "url": "https://www.chicagobears.com/news/injury-update-bears-rule-out-caleb-williams-will-start-tyson-bagent-or-case-keenum-vs-eagles",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/h4alidp57lfkgnwbgy7e.jpg",
-   "age": "5h ago",
-   "published": "2026-09-26T20:05:46+00:00"
-  },
-  {
-   "title": "NFL injury report for Week 3: Updates on Caleb Williams, Puka Nacua, Sam Darnold, Nick Bosa, and more",
-   "url": "https://www.cbssports.com/nfl/news/nfl-injury-report-for-week-3/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/01/12/46acc610-a572-4fb4-aed3-c59544771e40/nico-collins-houston-texans-imagn-images.jpg",
-   "age": "5h ago",
-   "published": "2026-09-26T19:58:55+00:00"
-  },
-  {
-   "title": "Packers signing former first-round OL off Cowboys practice squad amid struggles, per report",
-   "url": "https://www.cbssports.com/nfl/news/packers-signing-cowboys-offensive-lineman/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/26/f74368af-5c15-4bb1-ac11-861727aa571a/template-pic.jpg",
-   "age": "6h ago",
-   "published": "2026-09-26T19:28:36+00:00"
-  },
-  {
-   "title": "NFL threatens Texans' Azeez Al-Shaair over messaging: Here's what the rulebook says",
-   "url": "https://www.cbssports.com/nfl/news/nfl-threatens-texans-azeez-al-shaair-over-messaging/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/26/bf1a3308-76e7-4b23-a814-00c8268b260d/azeez.png",
-   "age": "6h ago",
-   "published": "2026-09-26T19:09:54+00:00"
   },
   {
    "title": "Laser Weapons Will Be Deployed At Cape Canaveral Spaceport To Take Down Drones",
@@ -181,19 +144,8 @@
    "topic": "defense",
    "summary": "With the job of launching giant tubes packed with explosives and extremely expensive national security payloads on top, if anywhere could use lasers, it's the Cape. The …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Cape-Canaveral-drone-threat.jpg?quality=85",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-09-26T18:50:08+00:00"
-  },
-  {
-   "title": "Bears vs. Eagles Predictions: What’s left in the tank for QB Case Keenum?",
-   "url": "https://allchgo.com/bears/bears-vs-eagles-predictions-left-in-tank-case-keenum/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/25195606/2026-08-30T020116Z_1993375445_MT1USATODAY29695160_RTRMADP_3_CHICAGO-QUARTERBACK-CASE-KEENUM-11-DIRECTS-HIS-TEAM-1-1024x576.jpg",
-   "age": "7h ago",
-   "published": "2026-09-26T18:30:00+00:00"
   },
   {
    "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
@@ -203,7 +155,7 @@
    "topic": "ai",
    "summary": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social m…",
    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2217126338.jpg?w=1024",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-09-26T17:44:00+00:00"
   },
   {
@@ -214,7 +166,7 @@
    "topic": "markets",
    "summary": "OpenAI is conducting an extensive review of misaligned model activity after disclosures involving an Australian government portal and other websites.",
    "image": "https://image.cnbcfm.com/api/v1/image/108367086-1790191953634-gettyimages-2296171253-UNGA_2026.jpeg?v=1790192037&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-09-26T17:10:32+00:00"
   },
   {
@@ -225,41 +177,19 @@
    "topic": "markets",
    "summary": "A federal jury awarded Taction Technology more than $5.7 billion after finding Apple infringed claims from two haptics patents. Apple plans to appeal.",
    "image": "https://image.cnbcfm.com/api/v1/image/108360790-1788983095011-gettyimages-2293834700-AFP_C7UF98N.jpeg?v=1790433460&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-09-26T16:57:57+00:00"
   },
   {
-   "title": "Chicago Bears vs. Philadelphia Eagles: Week 3 Players to Watch",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/123727/chicago-bears-vs-philadelphia-eagles-week-3-players-to-watch",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2296288689.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-09-26T16:00:00+00:00"
-  },
-  {
-   "title": "Bears Discussion: Eagles previews, 2027 NFL Draft LB prospects, DFS, and more",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/123732/chicago-bears-podcast-week-3-eagles-mnf-preview",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2293177626.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "11h ago",
-   "published": "2026-09-26T14:00:00+00:00"
-  },
-  {
-   "title": "Chicago Bears Week 3 Flashbacks: Minnesota Miracle, Windy City Flyer, and More",
-   "url": "https://www.windycitygridiron.com/chicago-bears-history/123548/chicago-bears-week-3-flashbacks-a-miracle-in-minnesota-the-windy-city-flyer-and-a-chicago-tradition",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-104496530.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "13h ago",
-   "published": "2026-09-26T12:00:00+00:00"
+   "title": "Trump rejects Iran's conditional ceasefire proposal, WSJ reports, as Saudi coalition intercepts projectiles",
+   "url": "https://www.cnbc.com/2026/09/26/trump-rejects-irans-conditional-ceasefire-proposal-wsj-reports.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump expects renewed U.S. bombing of Iran after the midterm elections, The Wall Street Journal reports, as Saudi-backed forces intercept projectiles.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368439-1790424775469-gettyimages-2296584703-mms11214_2g823jbf.jpeg?v=1790425381&amp;w=1920&amp;h=1080",
+   "age": "16h ago",
+   "published": "2026-09-26T15:05:38+00:00"
   },
   {
    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
@@ -269,7 +199,7 @@
    "topic": "ai",
    "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-   "age": "14h ago",
+   "age": "20h ago",
    "published": "2026-09-26T10:45:09+00:00"
   },
   {
@@ -317,6 +247,17 @@
    "published": "2026-09-25T21:24:56+00:00"
   },
   {
+   "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
+   "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
+   "age": "1d ago",
+   "published": "2026-09-25T21:10:51+00:00"
+  },
+  {
    "title": "Navy Establishes New Deputy Chief Of Naval Operations to Support Failing Shore Infrastructure",
    "url": "https://news.usni.org/2026/09/25/navy-establishes-new-deputy-chief-of-naval-operations-to-support-failing-shore-infrastructure",
    "source": "USNI News",
@@ -348,17 +289,6 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/2026_Wind_River_Webinar_Featured-Image-1024x576.png",
    "age": "1d ago",
    "published": "2026-09-25T20:28:21+00:00"
-  },
-  {
-   "title": "Bears OC Press Taylor lauds Case Keenum for his professionalism",
-   "url": "https://www.chicagobears.com/news/bears-oc-press-taylor-lauds-case-keenum-for-his-professionalism",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/iesa9ftgb8s5bmrtp9e3.jpg",
-   "age": "1d ago",
-   "published": "2026-09-25T20:00:05+00:00"
   },
   {
    "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
@@ -394,6 +324,17 @@
    "published": "2026-09-25T19:45:00+00:00"
   },
   {
+   "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+   "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Ads appearing all over the Internet are trying to scam people.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop-1152x648.jpg",
+   "age": "1d ago",
+   "published": "2026-09-25T19:38:59+00:00"
+  },
+  {
    "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
    "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
    "source": "Defense News",
@@ -405,15 +346,26 @@
    "published": "2026-09-25T19:19:29+00:00"
   },
   {
-   "title": "DA BRAGGS BLOG: Caleb Williams’ injury hurts the Bears but be thankful it’s not much, much worse",
-   "url": "https://allchgo.com/bears/braggs-bears-caleb-williams-injury-thankful-not-worse/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/25135030/Braggs-1-1024x576.jpg",
+   "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
+   "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "In the wake of public debates about the health of physical US munitions, a senior Navy official said the cyber magazine isn t infinite either.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/6762559-scaled-e1782151740819-1024x577.jpg",
    "age": "1d ago",
-   "published": "2026-09-25T18:55:47+00:00"
+   "published": "2026-09-25T19:12:45+00:00"
+  },
+  {
+   "title": "Latvia To Order Anduril’s Barracuda Cruise Missile For Long-Range Strike Capability",
+   "url": "https://www.twz.com/news-features/latvia-to-order-andurils-barracuda-cruise-missile-for-long-range-strike-capability",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The missile deal would drastically expand Riga’s precision-fire reach as NATO’s eastern flank races to build up its conventional long-range strike capabilities. The post…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/ANDURIL-BARRACUDA-500M-1.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-09-25T18:49:40+00:00"
   },
   {
    "title": "Chinese Cutters, Warships Block Philippine Resupply Mission to Second Thomas Shoal",
@@ -427,6 +379,39 @@
    "published": "2026-09-25T18:14:56+00:00"
   },
   {
+   "title": "US Navy stands up hub to prepare unmanned systems for combat",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PNEAP2E7RNEX5DRMKKILVXNYFU.jpg",
+   "age": "1d ago",
+   "published": "2026-09-25T18:13:48+00:00"
+  },
+  {
+   "title": "South Korea inducts first locally developed fighter jet into air force",
+   "url": "https://breakingdefense.com/2026/09/south-korea-inducts-first-locally-developed-fighter-jet-into-air-force/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Introduction of KF-21 into South Korea s military marks a significant milestone for country s defense industry",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/KAI_KF-21-prototype_004_1st_flight-1024x577.jpg",
+   "age": "1d ago",
+   "published": "2026-09-25T17:58:58+00:00"
+  },
+  {
+   "title": "Marines Rushing To Equip Amphibious Combat Vehicles With New Anti-Drone Jammers",
+   "url": "https://www.twz.com/land/marines-rushing-to-equip-amphibious-combat-vehicles-with-new-anti-drone-jammers",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The USMC says an urgent need for Anduril Pulsar-L systems ties in with larger plans to boost the ACV's defenses against drones. The post Marines Rushing To Equip Amphibi…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/marine-rush-order-pulsar-l-ew-acv-fleet.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-09-25T17:56:15+00:00"
+  },
+  {
    "title": "USNI News Western Pacific Pulse: Sept. 25, 2026",
    "url": "https://news.usni.org/2026/09/25/usni-news-western-pacific-pulse-sept-25-2026",
    "source": "USNI News",
@@ -438,26 +423,37 @@
    "published": "2026-09-25T16:43:29+00:00"
   },
   {
-   "title": "Girls Flag Football Player of the Week: Moriah Herr | Week 4",
-   "url": "https://www.chicagobears.com/news/girls-flag-football-player-of-the-week-moriah-herr-week-4",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/hv47fo48gjtjldmcgsbk.png",
+   "title": "Thales in ‘quite advanced’ talks with NATO countries on AI-powered command software",
+   "url": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "French firm Thales is “quite advanced” in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/SXOQVQPKZBHC5LQYJD3R7EEG2A.jpg",
    "age": "1d ago",
-   "published": "2026-09-25T13:36:29+00:00"
+   "published": "2026-09-25T15:34:42+00:00"
   },
   {
-   "title": "CHGO Q&A with Ozzy Trapilo: Why Bears LT feels like ‘a football player again’",
-   "url": "https://allchgo.com/bears/ozzy-trapilo-bears-feels-like-football-player-again/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/24131158/IMG_2300-1024x576.jpeg",
+   "title": "‘We Absolutely Need to Change,’ Says New Navy Maintenance Head",
+   "url": "https://news.usni.org/2026/09/24/we-absolutely-need-to-change-says-new-navy-maintenance-head",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "VIRGINIA BEACH, Va. — Not quite two months on the job, a submariner turned head of the Navy’s vast maintenance operation promised his office would create a more nimble o…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/9885728-1.jpg",
    "age": "2d ago",
-   "published": "2026-09-24T18:25:22+00:00"
+   "published": "2026-09-24T21:04:48+00:00"
+  },
+  {
+   "title": "Autonomous Aircraft Executes Mission Plan in Collaborative Tool Test, Navy Says",
+   "url": "https://news.usni.org/2026/09/24/autonomous-aircraft-executes-mission-plan-in-collaborative-tool-test-navy-says",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The U.S Navy recently demonstrated that an autonomous aircraft can receive a mission plan and execute that mission as part of the Collaborative Autonomy Mission Planning…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/9956434-scaled.jpg",
+   "age": "2d ago",
+   "published": "2026-09-24T16:34:00+00:00"
   }
  ]
 }
