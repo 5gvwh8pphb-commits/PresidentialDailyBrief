@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-27",
+  "dateLabel": "Sunday, September 27, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-27T14:19:41Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, September 25, 2026 close — stocks closed out their first winning week in three as oil prices eased and Treasury yields cooled from a 19-year high.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,743.41", "change": "+39.28", "changePct": "+0.5%", "sixMo": "+17%" },
+        { "name": "Dow", "close": "51,828.62", "change": "+478.64", "changePct": "+0.9%", "sixMo": "+12%" },
+        { "name": "Nasdaq", "close": "27,068.72", "change": "+129.34", "changePct": "+0.5%", "sixMo": "+23%" }
+      ],
+      "body": "A drop in Brent crude released some of the pressure that had built up on Wall Street this week, helping the 10-year Treasury yield ease back after briefly nearing its highest level since 2007; all three major indexes finished the week higher even though Thursday's Trump-Xi summit produced no concrete agreements. Markets were closed Saturday and Sunday, so Friday's close remains the most recent session.",
+      "source": "AP via KARE 11",
+      "url": "https://www.kare11.com/article/syndication/associatedpress/how-major-us-stock-indexes-fared-friday-9252026/616-a99a4da6-3669-4183-a268-1564e4367558"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bipartisan senators press Trump to rescind Putin's invitation to December G20 summit in Miami",
+      "body": "Fourteen senators, led by Armed Services Chair Roger Wicker (R-Miss.) and Jeanne Shaheen (D-N.H.), wrote Trump warning that hosting Russian President Vladimir Putin at the Dec. 14-15 G20 summit risks 'legitimizing and normalizing' a government that continues striking Ukrainian civilian targets; Secretary of State Marco Rubio confirmed the invitation earlier in the week.",
+      "source": "Deseret News",
+      "url": "https://www.deseret.com/politics/2026/09/26/john-curtis-republican-senators-question-trump-invite-putin-miami/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US and China agree to open an AI 'communication channel' after Trump-Xi summit",
+      "body": "The White House said the two countries will establish a direct channel to discuss AI-related incidents, an outgrowth of Thursday's Trump-Xi summit that otherwise produced no concrete trade or Taiwan agreements; the move comes as both militaries continue racing to field AI-enabled weapons and autonomous systems.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump publicly rejects Iran's offer to reopen the Strait of Hormuz within seven days",
+      "body": "Iranian Foreign Minister Abbas Araghchi had proposed reopening the strait and resuming nuclear talks within a week if the US lifted its naval blockade of Iranian ports, waived oil sanctions and expanded the ceasefire to include Lebanon; Trump rejected the plan Saturday, telling reporters Iran is 'losing so badly,' and posted a map relabeling the waterway 'Trump Strait.'",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Pentagon awards Kongsberg $404M to expand Naval Strike Missile production, advances Sentinel ICBM work",
+      "body": "Friday's Department of War contract announcements included $404.4 million to Kongsberg for full-rate production of the Naval Strike Missile launcher and weapon control system, plus a $111.4 million modification to Northrop Grumman's Sentinel (Ground Based Strategic Deterrent) ICBM program, pushing that contract's cumulative value past $13.4 billion.",
+      "source": "GlobalSecurity.org (DoD contract announcements)",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/09/dod-contracts_4612013.htm"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic signs $11.6 billion, 7-year cloud deal with Akamai to meet surging compute demand",
+      "body": "The agreement, the largest in Akamai's history, taps its distributed cloud infrastructure for Anthropic's growing CPU workloads and could expand to roughly $20 billion; Akamai is also giving Anthropic a warrant convertible into up to about 5% of its stock, an unusual structure tying the vendor's fortunes to Anthropic's growth.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears rule out QB Caleb Williams for Monday's game vs. Eagles, Case Keenum to start",
+      "body": "Williams, sidelined by a hamstring injury that kept him out of practice all week, will miss his first career start; the Bears turn to third-string QB Case Keenum while Tyson Bagent remains questionable in the concussion protocol. Coaches say the injury is not considered long-term.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/26/bears-caleb-williams-rule-out-eagles-monday-night-football-eagles-hamstring-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Byron will start 8th at Kansas after NASCAR qualifying washed out by rain",
+      "body": "With Saturday's Cup Series qualifying session rained out, NASCAR set Sunday's Hollywood Casino 400 lineup by competition metric instead, slotting Byron's No. 24 Chevrolet eighth as the Round of 12 continues at the 1.5-mile track.",
+      "source": "Hendrick Motorsports",
+      "url": "https://www.hendrickmotorsports.com/news/2026/september/26/nascar-cup-qualifying-canceled-kyle-larson-second-william-byron-eighth-in-kansas-starting-lineup"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window beyond items already covered in prior briefs, including the 2027 General Assembly Milwaukee announcement and the churchwide call to prayer and fasting.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
