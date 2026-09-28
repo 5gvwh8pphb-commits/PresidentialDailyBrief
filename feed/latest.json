@@ -1,30 +1,143 @@
 {
- "generated": "2026-09-28T01:50:35+00:00",
+ "generated": "2026-09-28T07:54:33+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 37,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
   "Defense News",
   "Fox News",
+  "Frontstretch",
+  "Hendrick Motorsports",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "heavy.com"
  ],
  "items": [
   {
-   "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-   "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
+   "title": "CNBC Daily Open: A tale of two truces",
+   "url": "https://www.cnbc.com/2026/09/28/daily-open-iran-war-trump-xi-summit.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce comp…",
-   "image": "https://image.cnbcfm.com/api/v1/image/108359543-1788833216665-gettyimages-2292683397-img_8748.jpeg?v=1788833249&amp;w=1920&amp;h=1080",
-   "age": "10m ago",
-   "published": "2026-09-28T01:40:02+00:00"
+   "summary": "Chinese president's state visit to Washington appears to have produced more personal diplomacy than breakthroughs.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368275-1790360270029-gettyimages-2297113625-wm026444_cpuufdhs.jpeg?v=1790360308&amp;w=1920&amp;h=1080",
+   "age": "14m ago",
+   "published": "2026-09-28T07:39:36+00:00"
+  },
+  {
+   "title": "UK police 'investigate Iran link' to alleged bomb threat against base hosting U.S. Air Force",
+   "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "U.K. counter-terrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces",
+   "image": "https://image.cnbcfm.com/api/v1/image/108322136-1781551424604-gettyimages-2267404848-ln2_2955_bksja5in.jpeg?v=1781551458&amp;w=1920&amp;h=1080",
+   "age": "24m ago",
+   "published": "2026-09-28T07:30:14+00:00"
+  },
+  {
+   "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
+   "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368523-1790555833450-gettyimages-2296994711-kbd21875_2op2pdja.jpeg?v=1790556666&amp;w=1920&amp;h=1080",
+   "age": "32m ago",
+   "published": "2026-09-28T07:22:06+00:00"
+  },
+  {
+   "title": "Sen Kennedy says no living politicians should have buildings named after them after Trump's moves",
+   "url": "https://www.foxnews.com/politics/sen-kennedy-says-no-living-politicians-should-have-buildings-named-after-them-after-trumps-moves",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. John Kennedy has proposed barring living politicians from having buildings named after them as Trump pushes to rename the Kennedy Center.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sen-john-kennedy-save-america-act.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-09-28T06:48:04+00:00"
+  },
+  {
+   "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait",
+   "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-28T06:34:26+00:00"
+  },
+  {
+   "title": "Madonna dominates VMAs with Artist of the Year win after showstopping opening performance",
+   "url": "https://www.foxnews.com/entertainment/madonna-dominates-vmas-artist-year-win-showstopping-opening-performance",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Madonna commanded attention at the MTV VMAs, winning seven awards and opening the show with star-studded performance.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/madonna-vmas-thumb.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-28T04:32:59+00:00"
+  },
+  {
+   "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+   "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/truecaller-scam-checker-image-feature.jpg?resize=1200,800",
+   "age": "3h ago",
+   "published": "2026-09-28T04:30:00+00:00"
+  },
+  {
+   "title": "Denver Broncos storm back from down 16-0 at halftime to beat Los Angeles Rams in instant classic",
+   "url": "https://www.foxnews.com/outkick-sports/denver-broncos-storm-back-down-16-0-halftime-beat-los-angeles-rams-instant-classic",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Bo Nix accounted for three second-half touchdowns as the Denver Broncos erased a 16-0 deficit against the Los Angeles Rams in a wild comeback.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bo-nix-denver-broncos-pass-fox-news_.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-28T04:26:24+00:00"
+  },
+  {
+   "title": "Texas man arrested after 'intentionally' crashing into a closed Kroger to use bathroom: cops",
+   "url": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A 60-year-old Texas man crashed his vehicle into a closed Kroger because he needed to use the bathroom and now faces criminal mischief charges.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/kroger-emergency-bathroom-stop-texas-crash.png?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-09-28T04:19:36+00:00"
+  },
+  {
+   "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+   "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-09-28T04:12:20+00:00"
+  },
+  {
+   "title": "Thinkin’ Out Loud: Hendrick Motorsports Is Doing It Again",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjFpZGoyOTZid2pSc2tiUjkydzJZYWd4OS13blhreGFjQVEyQ2phOEZPWXJVUEk4aUlFYng0UDhTYUxYa0VrdzJ4V1JpU2tGMjBZak9Fa25tVDQ1NlFYLXA1bm96Wl9mUTV3NTIxUDAzZjRJZ2RMWW9hWjZrRkdodjAyaXdwcE5fd1V5Mk0wUkZ6aEtoeGlN?oc=5",
+   "source": "Frontstretch",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-09-28T01:36:14+00:00"
   },
   {
    "title": "Benjamin Satterley, pro wrestling star known as Pac, dead at 40",
@@ -34,85 +147,8 @@
    "topic": "world",
    "summary": "Benjamin Satterley, known as Pac, challenged for the AEW National Championship at All Out just one day before his death was announced at age 40.",
    "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/adrian-neville-wrestlemania-33-orlando-fla.jpg?ve=1&tl=1",
-   "age": "21m ago",
+   "age": "6h ago",
    "published": "2026-09-28T01:29:18+00:00"
-  },
-  {
-   "title": "Attorney for lone holdout juror in Lindsay Clancy mistrial pushes back on claims of refusing the law",
-   "url": "https://www.foxnews.com/us/attorney-lone-holdout-juror-lindsay-clancy-mistrial-pushes-back-claims-refusing-law",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lindsay Clancy s holdout juror had zero doubt about his position, his attorney tells Kayleigh McEnany, citing a mountain of evidence for conviction.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Michael-Clancy-1.jpg?ve=1&tl=1",
-   "age": "30m ago",
-   "published": "2026-09-28T01:19:42+00:00"
-  },
-  {
-   "title": "Northern Star shares pop as Australian gold miner rejects $27-billion takeover proposal",
-   "url": "https://www.cnbc.com/2026/09/28/northern-star-shares-gold-fields-takeover-bid.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Northern Star shares jumped more than 9% after the Australian gold miner rejected a takeover proposal from Gold Fields.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368526-1790557271934-gettyimages-2296818410-dji_20260114110702_0136_d.jpeg?v=1790557290&amp;w=1920&amp;h=1080",
-   "age": "31m ago",
-   "published": "2026-09-28T01:19:23+00:00"
-  },
-  {
-   "title": "Houston Astros secure the most embarrassing kind of Major League Baseball history with AL West win",
-   "url": "https://www.foxnews.com/outkick-sports/houston-astros-secure-most-embarrassing-kind-major-league-baseball-history-al-west-win",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Houston Astros clinched the AL West at 81-81, becoming the worst division-winning team in Major League Baseball history over a full season.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/yainer-diaz-double-astros-athletics-fox-news_.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-28T00:44:18+00:00"
-  },
-  {
-   "title": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
-   "url": "https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Five men arrested near RAF Fairford may have planned a complex, coordinated VBIED attack on U.S. strategic bombers, a former intelligence official says.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/fairford-trump-split-1.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-28T00:34:26+00:00"
-  },
-  {
-   "title": "Oil gains over 1% as Trump rejects Iranian proposal to reopen Hormuz Strait",
-   "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-28T00:32:09+00:00"
-  },
-  {
-   "title": "Angels reach historic 100-loss low with season-closing defeat against Mariners as new era looms",
-   "url": "https://www.foxnews.com/outkick-sports/angels-reach-historic-100-loss-low-season-closing-defeat-against-mariners-new-era-looms",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Mike Trout watched from the dugout as the Los Angeles Angels fell 7-3 to the Mariners, crossing the 100-loss mark for the first time in 65 years.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sammy-peralta-angels-mariners-seattle.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-28T00:22:59+00:00"
-  },
-  {
-   "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
-   "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368448-1790434254308-gettyimages-2296657510-TRUMP_WH_DEPART.jpeg?v=1790434277&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-09-27T21:38:59+00:00"
   },
   {
    "title": "Anthropic’s CEO is about to have dinner with President Trump",
@@ -122,7 +158,7 @@
    "topic": "ai",
    "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-27T20:34:28+00:00"
   },
   {
@@ -133,19 +169,8 @@
    "topic": "ai",
    "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-27T19:57:30+00:00"
-  },
-  {
-   "title": "Anthropic CEO Amodei set to meet with Trump after missing state dinner",
-   "url": "https://www.cnbc.com/2026/09/27/dario-amodei-set-to-have-dinner-with-trump-after-missing-state-dinner.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "As top tech CEOs rubbed elbows at President Trump's glitzy dinner for Chinese President Xi on Thursday, Anthropic's CEO was noticeably absent.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108342843-1785448090042-gettyimages-2280291466-ANTHROPIC_CIRCUIT.jpeg?v=1785448353&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-09-27T19:13:27+00:00"
   },
   {
    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
@@ -155,7 +180,7 @@
    "topic": "ai",
    "summary": "\"AI is the devil and I its maker.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-27T16:30:00+00:00"
   },
   {
@@ -166,7 +191,7 @@
    "topic": "defense",
    "summary": "British police on Sunday arrested five men on suspicion of explosive and terrorism offenses near an air base that hosts U.S. Air Force personnel.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AKMBHJ4NGZGDBJWPEPEJPWVHIE.JPG",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-27T16:19:38+00:00"
   },
   {
@@ -177,7 +202,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-27T16:02:00+00:00"
   },
   {
@@ -188,19 +213,8 @@
    "topic": "defense",
    "summary": "VIRGINIA BEACH, Va. — Both U.S. and foreign designs for the next small-surface combatant are under consideration after the cancellation of the Constellation-class guided…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/680018947_122110144148985384_3628097066774778081_n.jpg",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-09-27T15:30:22+00:00"
-  },
-  {
-   "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
-   "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to …",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Senn_Black_M5_Product_KV_Full_Format_HighRes.jpeg?resize=1200,675",
-   "age": "10h ago",
-   "published": "2026-09-27T15:00:00+00:00"
   },
   {
    "title": "British Police Arrest Men Driving Toward U.S. Bomber Base In The U.K. With Suspected Explosives",
@@ -210,7 +224,7 @@
    "topic": "defense",
    "summary": "RAF Fairford is a key hub for U.S. bomber and other operations, and was a major launch point for strikes on Iran earlier this year. The post British Police Arrest Men Dr…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Fairford-Arrests-Incident.jpg?quality=85",
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-09-27T14:36:26+00:00"
   },
   {
@@ -221,7 +235,7 @@
    "topic": "ai",
    "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-1152x648.jpg",
-   "age": "14h ago",
+   "age": "20h ago",
    "published": "2026-09-27T11:00:12+00:00"
   },
   {
@@ -234,6 +248,17 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Cape-Canaveral-drone-threat.jpg?quality=85",
    "age": "1d ago",
    "published": "2026-09-26T18:50:08+00:00"
+  },
+  {
+   "title": "Hendrick Motorsports Steps Into Joe Gibbs Racing-Spire Legal Battle",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOTY2OGx0SEVOSUZwcDEwdVVWemQ5cnZlVkstR3dObmJjcE0xOEpLYWxOeUZxM3RNVzZyWU0ycncybVFKWDMwZHk0dHpZWkNVT0h2Zk1MUEVlNGl0SmFHV24xRU1OM3dBX1JFRHJXbVJOd0J2TnloVVlPZ2tub2RiV1hn?oc=5",
+   "source": "heavy.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-09-26T17:10:09+00:00"
   },
   {
    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
@@ -289,17 +314,6 @@
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UVUT2Y7UUVBIJML47MKLS6DJFM.JPG",
    "age": "2d ago",
    "published": "2026-09-25T21:24:56+00:00"
-  },
-  {
-   "title": "Tesla workers balk at training Optimus humanoid robots as replacements",
-   "url": "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Despite challenges, Tesla aims for 1,000 Optimus robots per week by end of 2026.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Tesla-Optimus-V3-humanoid-robot-1152x648.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T21:10:51+00:00"
   },
   {
    "title": "Navy Establishes New Deputy Chief Of Naval Operations to Support Failing Shore Infrastructure",
@@ -390,17 +404,6 @@
    "published": "2026-09-25T19:12:45+00:00"
   },
   {
-   "title": "Latvia To Order Anduril’s Barracuda Cruise Missile For Long-Range Strike Capability",
-   "url": "https://www.twz.com/news-features/latvia-to-order-andurils-barracuda-cruise-missile-for-long-range-strike-capability",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The missile deal would drastically expand Riga’s precision-fire reach as NATO’s eastern flank races to build up its conventional long-range strike capabilities. The post…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/ANDURIL-BARRACUDA-500M-1.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-09-25T18:49:40+00:00"
-  },
-  {
    "title": "Chinese Cutters, Warships Block Philippine Resupply Mission to Second Thomas Shoal",
    "url": "https://news.usni.org/2026/09/25/chinese-cutters-warships-block-philippine-resupply-mission-to-second-thomas-shoal",
    "source": "USNI News",
@@ -423,17 +426,6 @@
    "published": "2026-09-25T18:13:48+00:00"
   },
   {
-   "title": "South Korea inducts first locally developed fighter jet into air force",
-   "url": "https://breakingdefense.com/2026/09/south-korea-inducts-first-locally-developed-fighter-jet-into-air-force/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Introduction of KF-21 into South Korea s military marks a significant milestone for country s defense industry",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/KAI_KF-21-prototype_004_1st_flight-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T17:58:58+00:00"
-  },
-  {
    "title": "USNI News Western Pacific Pulse: Sept. 25, 2026",
    "url": "https://news.usni.org/2026/09/25/usni-news-western-pacific-pulse-sept-25-2026",
    "source": "USNI News",
@@ -454,6 +446,17 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9885728-1.jpg",
    "age": "3d ago",
    "published": "2026-09-24T21:04:48+00:00"
+  },
+  {
+   "title": "NASCAR TV schedule this weekend: Hendrick Motorsports, Cup and Truck Series roll into Kansas",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFNvWDZDNk1udUVDbHdzWEp4Z09PMFRJSUk5X2doUEkyZXdzN2lqNWlneWJXV3JMVTBZdm02WVJkTVhCSVBUUHpfZEVEamxBaGlJa2xoeDVFREJuMkt2UkpLQTZpekZkWDBfRXE5Mzd4dUFEeFJaYnlxRTZfX0E4SjFHLVRZRWI2TFF2WnQ4NHV5Z2dMdjRHc2JSQkYwZU5ocGpPX1l5SDh0akVWTWhlSWphUzJ6SHpJTWZYTGpENkF5R28zbWZNRjFvbjdncjQ?oc=5",
+   "source": "Hendrick Motorsports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-09-24T13:31:24+00:00"
   }
  ]
 }
