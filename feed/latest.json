@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-28T16:13:23+00:00",
+ "generated": "2026-09-28T22:10:45+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 39,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,154 +10,341 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
-   "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Former Disney CEO Bob Chapek was ousted from his role as CEO in late 2022, less than three years after taking the post, and replaced by Iger.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&amp;w=1920&amp;h=1080",
-   "age": "11m ago",
-   "published": "2026-09-28T16:02:17+00:00"
-  },
-  {
-   "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
-   "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&amp;w=1920&amp;h=1080",
-   "age": "11m ago",
-   "published": "2026-09-28T16:01:50+00:00"
-  },
-  {
-   "title": "Blue city funds immigrant activist program with taxpayer dollars, critics say it 'shuts citizens out'",
-   "url": "https://www.foxnews.com/politics/blue-city-funds-immigrant-activist-program-taxpayer-dollars-critics-say-shuts-citizens",
+   "title": "Once again, no one knows when Josh Simmons will return — perhaps including the Chiefs",
+   "url": "https://www.foxnews.com/outkick-sports/josh-simmons-return-timeline-unclear-chiefs",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Boston Mayor Michelle Wu s office offers $575 taxpayer-funded scholarships training immigrants in civic engagement and community organizing.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/boston-mayor-wu-ice-body-camera-footage-release-002.jpg?ve=1&tl=1",
+   "summary": "Josh Simmons has played just eight of 20 games since being drafted, and Andy Reid s vague updates on the Chiefs left tackle only deepen the mystery.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/nfl-chiefs-josh-simmons-102225-2.jpg?ve=1&tl=1",
+   "age": "6m ago",
+   "published": "2026-09-28T22:04:01+00:00"
+  },
+  {
+   "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
+   "url": "https://breakingdefense.com/2026/09/us-uk-test-sm-6-other-missiles-on-sinkex-target-frigate/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The joint exercise saw the test of several muntions but the final blow was delivered by an Mk 48 Advanced Capability Torpedo, a Navy official said.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/8087683-1024x576.jpg",
+   "age": "10m ago",
+   "published": "2026-09-28T22:00:00+00:00"
+  },
+  {
+   "title": "Phillies manager Don Mattingly delivers expletive-laden speech as team makes playoffs after Game 162 win",
+   "url": "https://www.foxnews.com/outkick-sports/phillies-manager-don-mattingly-delivers-expletive-laden-speech-team-makes-playoffs-game-162-win",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Don Mattingly s expletive-filled locker room speech fired up the Philadelphia Phillies after clinching the final NL Wild Card spot in Game 162.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Don-Mattingly-Phillies.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-09-28T21:55:31+00:00"
+  },
+  {
+   "title": "DHS send ominous warning as migrant caravan heads toward US-Mexico border from Honduras",
+   "url": "https://www.foxnews.com/us/dhs-send-ominous-warning-migrant-caravan-heads-toward-us-mexico-border-from-honduras",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A Honduran migrant caravan numbered in the hundreds has crossed into Mexico and is moving north as DHS warns the days of catch and release are over.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/migrants-travel-in-caravan.jpg?ve=1&tl=1",
+   "age": "17m ago",
+   "published": "2026-09-28T21:53:10+00:00"
+  },
+  {
+   "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
+   "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
+   "age": "21m ago",
+   "published": "2026-09-28T21:49:10+00:00"
+  },
+  {
+   "title": "'Insulting': Ex-Trump official's 'dishonest' campaign ad triggers conservative revolt",
+   "url": "https://www.foxnews.com/politics/insulting-ex-trump-officials-dishonest-campaign-ad-triggers-conservative-revolt",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "GOP Arkansas Gov. Sarah Huckabee Sanders reelection ad depicting a white-male welfare recipient named Brad drew conservative backlash online.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/sarah-huckabee-sanders-trump.png?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-09-28T21:46:18+00:00"
+  },
+  {
+   "title": "Comedian Matt Rife says he ditched Hollywood's old playbook for success after hitting 'rock bottom'",
+   "url": "https://www.foxnews.com/media/comedian-matt-rife-ditched-hollywoods-playbook-success-hitting-rock-bottom",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Matt Rife reveals he hated TikTok but the platform s viral reach gave him what years of chasing Hollywood s traditional comedy pipeline never could.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/matt-rife-us-open-tennis-blue-carpet.jpg?ve=1&tl=1",
    "age": "25m ago",
-   "published": "2026-09-28T15:47:47+00:00"
+   "published": "2026-09-28T21:45:28+00:00"
   },
   {
-   "title": "UK airbase terror suspects being released on bail as Iran denies connection",
-   "url": "https://www.foxnews.com/world/uk-airbase-terror-suspects-released-bail-iran-denies-connection",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Five RAF Fairford terror suspects were released on bail as counter terrorism policing probes possible foreign state involvement in the plot.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/police-raf-fairford-england.jpg?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-09-28T15:46:31+00:00"
-  },
-  {
-   "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
-   "url": "https://www.foxnews.com/outkick-sports/americans-win-presidents-cup-depth-schefflers-complicated-sunday-overwhelming-sense-false-hope",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Scottie Scheffler s classy putt concession and testy NBC interview defined a dramatic Sunday as the U.S. narrowly avoided Presidents Cup disaster.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/par-talk-928-featured.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-09-28T15:31:08+00:00"
-  },
-  {
-   "title": "DHS tears into MS NOW after host touts ‘anti-authoritarian’ ICE monitoring group",
-   "url": "https://www.foxnews.com/media/dhs-tears-ms-now-host-touts-anti-authoritarian-ice-monitoring-group",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "DHS slammed MS NOW for featuring activists who train ICE Watch volunteers and are now turning their organizing efforts toward the midterm elections.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/phone-hacker-ice-agent.png?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-09-28T15:30:45+00:00"
-  },
-  {
-   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second …",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-De-Jong-Amin-Lee_16x9-Dark.png?resize=1200,675",
-   "age": "43m ago",
-   "published": "2026-09-28T15:30:00+00:00"
-  },
-  {
-   "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
-   "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
-   "age": "44m ago",
-   "published": "2026-09-28T15:29:21+00:00"
-  },
-  {
-   "title": "Mavi bets on the AI boom creating demand for a new kind of accountant",
-   "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Accounting staffing company Mavi emerges from stealth with $4million in funding.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mavi.jpg?resize=1200,800",
-   "age": "46m ago",
-   "published": "2026-09-28T15:26:46+00:00"
-  },
-  {
-   "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
-   "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+   "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
+   "url": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368717-1790599580416-AP4672736060371713.jpg?v=1790599594&amp;w=1920&amp;h=1080",
+   "summary": "AMD previously invested in World Labs before the acquisition, which is the chipmaker's second biggest on record.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108302225-1777987368584-gettyimages-2254257193-AFP_89QD2TJ.jpeg?v=1777987486&amp;w=1920&amp;h=1080",
+   "age": "29m ago",
+   "published": "2026-09-28T21:41:25+00:00"
+  },
+  {
+   "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+   "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
+   "age": "41m ago",
+   "published": "2026-09-28T21:29:18+00:00"
+  },
+  {
+   "title": "Claims Swirl Around U.S. Marines Injured Aboard Mystery Vessel Attacked In The Strait Of Hormuz",
+   "url": "https://www.twz.com/news-features/claims-swirl-around-u-s-marines-injured-aboard-mystery-vessel-attacked-in-the-strait-of-hormuz",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "At the center of suspicions is a former Royal Mail ship with its own fascinating backstory, but what it was doing at the time is unclear. The post Claims Swirl Around U.…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/St.-Helena-Ship.jpg?quality=85",
+   "age": "44m ago",
+   "published": "2026-09-28T21:26:40+00:00"
+  },
+  {
+   "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
+   "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
+   "age": "44m ago",
+   "published": "2026-09-28T21:26:19+00:00"
+  },
+  {
+   "title": "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
+   "url": "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368454-1790435057228-gettyimages-2296660349-TRUMP_WH_DEPART.jpeg?v=1790435080&amp;w=1920&amp;h=1080",
    "age": "50m ago",
-   "published": "2026-09-28T15:22:47+00:00"
+   "published": "2026-09-28T21:20:00+00:00"
   },
   {
-   "title": "Republicans zero in on key player accused of helping Democrat fundraising giant hide foreign cash",
-   "url": "https://www.foxnews.com/politics/republicans-zero-key-player-accused-helping-democrat-fundraising-giant-hide-foreign-cash",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "House Republicans summon ActBlue attorney Ronald Machen for a closed-door interview, citing contradictions in his prior statements on donor verification.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ActBlue-CEO-Regina-Wallace-Jones-House-hearing.jpg?ve=1&tl=1",
-   "age": "58m ago",
-   "published": "2026-09-28T15:15:13+00:00"
+   "title": "EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments",
+   "url": "https://news.usni.org/2026/09/28/eu-needs-more-ships-for-red-sea-european-navies-adjust-hormuz-deployments",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The European Union is asking its members to increase the number of ships deployed with European Naval Force Aspides, which is tasked with accompanying merchant ships in …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/minerva_cp_31_8_logo.jpg",
+   "age": "1h ago",
+   "published": "2026-09-28T20:55:06+00:00"
   },
   {
-   "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-   "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+   "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
+   "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2213954141-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-28T20:49:39+00:00"
+  },
+  {
+   "title": "Michael Burry believes the AI bubble 'may burst' sooner than he first believed",
+   "url": "https://www.cnbc.com/2026/09/28/michael-burry-believes-the-ai-bubble-may-burst-sooner-than-he-first-believed.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The famed short seller is switching to puts with expiries in June for his major tech short bets.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108231762-1764085435434-108231762-1764085364402-gettyimages-498540380-88290117.jpg?v=1769446729&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-28T20:43:14+00:00"
+  },
+  {
+   "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+   "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough t…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-call.png?resize=1200,800",
+   "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800",
    "age": "1h ago",
-   "published": "2026-09-28T15:00:00+00:00"
+   "published": "2026-09-28T20:39:33+00:00"
   },
   {
-   "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-   "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+   "title": "New device captures carbon dioxide by pumping it across a battery",
+   "url": "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The design requires less energy to capture CO2 than current systems.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1695996169-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-28T20:31:06+00:00"
+  },
+  {
+   "title": "Boeing 737 Max 10 certification delayed by software issue, FAA says",
+   "url": "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107256668-1686758919563-gettyimages-1241994183-farnborough_airshow-20-18-07-2022.jpeg?v=1686758967&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-28T20:16:04+00:00"
+  },
+  {
+   "title": "Supreme Court Justice Alito will not participate in big climate change case next week",
+   "url": "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108328727-1782831495932-108328727-1782831415459-gettyimages-2278340792-supreme_court_2206.jpg?v=1782831504&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-28T20:13:00+00:00"
+  },
+  {
+   "title": "To keep drug prices high, pharma has been piling up the patents",
+   "url": "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Add-on patents have increased drug patent periods from two years to over six.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/prescription-thicket-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-09-28T19:53:37+00:00"
+  },
+  {
+   "title": "Shopify opens checkout to browser-based AI agents",
+   "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675",
-   "age": "1h ago",
-   "published": "2026-09-28T15:00:00+00:00"
+   "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+   "age": "2h ago",
+   "published": "2026-09-28T19:33:57+00:00"
+  },
+  {
+   "title": "Tesla delays Roadster 2 event again due to bad weather",
+   "url": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/11/tesla-roadster-2.jpg?resize=1200,822",
+   "age": "2h ago",
+   "published": "2026-09-28T19:27:27+00:00"
+  },
+  {
+   "title": "The AI boom took over Climate Week and not everyone is happy about it",
+   "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1126706015.jpg?resize=1200,856",
+   "age": "2h ago",
+   "published": "2026-09-28T19:21:59+00:00"
+  },
+  {
+   "title": "Shipbuilder Behind Failed Constellation Class Wants Back Into The U.S. Navy Frigate Business",
+   "url": "https://www.twz.com/sea/shipbuilder-behind-failed-constellation-class-wants-back-into-the-u-s-navy-frigate-game",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Fincantieri wants to leverage its U.S. infrastructure for another new frigate as the Navy is once again looking for foreign 'production ready' designs. The post Shipbuil…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/fremm-evo-for-us-navy-potential.jpg?quality=85",
+   "age": "3h ago",
+   "published": "2026-09-28T19:06:32+00:00"
+  },
+  {
+   "title": "China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone",
+   "url": "https://news.usni.org/2026/09/28/china-claims-expanded-zone-around-scarborough-shoal-deploys-new-drone",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Chinese forces rehearsed enforcing Beijing’s claim to Scarborough Shoal with drones and boarding drills on Sunday amid state media claims that China has extended its con…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-2.45.06-PM-scaled.png",
+   "age": "3h ago",
+   "published": "2026-09-28T18:51:50+00:00"
+  },
+  {
+   "title": "Russia raises 2027 military spending by 27%, budget documents show",
+   "url": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Russia plans to spend 17.1 trillion roubles, or $202 billion, on defense in 2027, a 27% increase.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/C6W2GYEKSVCT3HW7HH2XI5E6HE.JPG",
+   "age": "4h ago",
+   "published": "2026-09-28T18:07:08+00:00"
+  },
+  {
+   "title": "USNI News Fleet and Marine Tracker: Sept. 28, 2026",
+   "url": "https://news.usni.org/2026/09/28/usni-news-fleet-and-marine-tracker-sept-28-2026",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Sept. 28, 2026, based on Nav…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/FT_9_28_26.jpg",
+   "age": "4h ago",
+   "published": "2026-09-28T18:01:35+00:00"
+  },
+  {
+   "title": "NASCAR to further inspect William Byron's car after Kansas in 2026",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcl9MZmxwQk5mb2Zxby1XWWdCRkxtb1EyR2xjN1RzSFB6T3Q4Ym5Sd1U3VHlxSGJnNUQ0ZmdJWWJpa0tYUHN2SE5MWEVCSS1UM3dmVGQ1UFBZa1BvVkZwaXlpNTVoSWtwVkpnQVRMQTAwSW8yME92SHhVVk90cWVHMG5rQVM4c0FuTjFDUlppdw?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "5h ago",
+   "published": "2026-09-28T16:50:21+00:00"
+  },
+  {
+   "title": "Mystery Shoulder-Fired Surface-To-Air Missile Appears In Russian Service",
+   "url": "https://www.twz.com/land/mystery-shoulder-fired-surface-to-air-missile-appears-in-russian-service",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "An unusual MANPADS raises questions about foreign weapons and Moscow’s military ties with Beijing and Tehran. The post Mystery Shoulder-Fired Surface-To-Air Missile Appe…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/MYSTERY-MANPADS-copy.jpg?quality=85",
+   "age": "5h ago",
+   "published": "2026-09-28T16:36:42+00:00"
+  },
+  {
+   "title": "UK to gather defense CEOs for ‘closed-door’ Russian security briefing",
+   "url": "https://breakingdefense.com/2026/09/uk-to-gather-defense-ceos-for-closed-door-russian-security-briefing/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The government warned the Russian state and its proxies knowingly seek to disrupt businesses and organisations that underpin the British way of life or are vital to the …",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/FLEET-20260612-XN0416-138-scaled-e1781631004261-1024x577.jpg",
+   "age": "5h ago",
+   "published": "2026-09-28T16:22:42+00:00"
   },
   {
    "title": "EU nails down five defense priority areas to channel common spending",
@@ -167,7 +354,7 @@
    "topic": "defense",
    "summary": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QRXYUNWA5NFS7JR5G4SJ5PSKF4.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-09-28T14:59:45+00:00"
   },
   {
@@ -178,30 +365,8 @@
    "topic": "defense",
    "summary": "As governments increasingly seek to broaden industrial advantages, if the US is going to follow suit, its justifications should be clear, exceptional and subject to cons…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/GettyImages-2270759445-e1784823974895.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-09-28T14:56:12+00:00"
-  },
-  {
-   "title": "Nvidia share buyback plan gets $150 billion boost",
-   "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108354000-1787675996078-gettyimages-2266718119-NVIDIA_GTC.jpeg?v=1787832025&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-28T14:46:36+00:00"
-  },
-  {
-   "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
-   "url": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Zervos is joining the Treasury Department as counselor to Bessent, adding a prominent markets voice to the administration's economic policy team.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-28T14:14:45+00:00"
   },
   {
    "title": "USS Theodore Roosevelt Deploys From San Diego, USS Abraham Lincoln Near Hawaii",
@@ -211,7 +376,7 @@
    "topic": "defense",
    "summary": "Carrier USS Theodore Roosevelt (CVN-71) quietly departed Sunday from San Diego to sail across the Pacific for what is expected to be an extended Middle East deployment, …",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/TR1.jpeg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-09-28T14:13:56+00:00"
   },
   {
@@ -222,7 +387,7 @@
    "topic": "defense",
    "summary": "“Defense does not face a shortage of capital. It faces barriers that make expanded investment, particularly in critical bottleneck areas, more difficult,” a new study by…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/646604copy-1024x576.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-09-28T12:45:00+00:00"
   },
   {
@@ -233,19 +398,8 @@
    "topic": "defense",
    "summary": "British government leaders are converging around the message that the defense sector will be key in energizing the nation's anemic growth.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RVG25F554RBMLE5ABAFAFD4IA4.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-28T11:13:11+00:00"
-  },
-  {
-   "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
-   "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-1152x648.jpg",
-   "age": "5h ago",
-   "published": "2026-09-28T11:00:09+00:00"
   },
   {
    "title": "Israel’s Uvision, Estonia’s Lendurai to integrate systems for NATO military",
@@ -255,7 +409,7 @@
    "topic": "defense",
    "summary": "The companies did not disclose which military the teaming effort is for.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/20260610_111147-1024x577.jpg",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-09-28T08:13:00+00:00"
   },
   {
@@ -266,7 +420,7 @@
    "topic": "defense",
    "summary": "British police on Sunday arrested five men on suspicion of explosive and terrorism offenses near an air base that hosts U.S. Air Force personnel.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AKMBHJ4NGZGDBJWPEPEJPWVHIE.JPG",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-09-27T16:19:38+00:00"
   },
   {
@@ -292,28 +446,6 @@
    "published": "2026-09-27T14:36:26+00:00"
   },
   {
-   "title": "Northwest Indiana’s disaster safety net faces new test on 'Blue Sky Day' chances | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f1030a5e-15e1-4f42-9bce-88b7607de012.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The Aug. 11 storm exposed a hidden vulnerability in Northwest Indiana’s disaster response: The people residents depend on during a crisis can become victims, too.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/fa/1fa6c9f7-1473-4b6f-bf79-c345fbcae98a/6a80d3447ee0e.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-09-27T13:00:00+00:00"
-  },
-  {
-   "title": "How the Smithsonian became the latest front in Trump’s culture war",
-   "url": "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-1152x648.jpg",
-   "age": "1d ago",
-   "published": "2026-09-27T11:00:12+00:00"
-  },
-  {
    "title": "Laser Weapons Will Be Deployed At Cape Canaveral Spaceport To Take Down Drones",
    "url": "https://www.twz.com/news-features/space-force-getting-lasers-to-kill-drones-over-cape-canaveral-spaceport",
    "source": "The War Zone",
@@ -321,140 +453,8 @@
    "topic": "defense",
    "summary": "With the job of launching giant tubes packed with explosives and extremely expensive national security payloads on top, if anywhere could use lasers, it's the Cape. The …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Cape-Canaveral-drone-threat.jpg?quality=85",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-26T18:50:08+00:00"
-  },
-  {
-   "title": "Your consumer complaints are piling up. Here’s what I’m hearing | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_5340810c-7708-4cd1-8e1b-4c0b09d3d99c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A 94-year-old without phone service. An $88 Xfinity refund. A complaint about an elderly couple’s treatment at a Portage restaurant. And a Gary resident wondering about …",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/37/9377d246-dac3-4f28-b296-7a2a942472a1/6ab6fc8d721c4.image.jpg?resize=300%2C290",
-   "age": "2d ago",
-   "published": "2026-09-26T12:15:00+00:00"
-  },
-  {
-   "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
-   "url": "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-   "age": "2d ago",
-   "published": "2026-09-26T10:45:09+00:00"
-  },
-  {
-   "title": "Can Trump ever be wrong? His pick to lead FDA refused to say.",
-   "url": "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Heidi Overton faced questions focused on vaccines, birth control, and vapes.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296270903-1024x648.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T23:00:26+00:00"
-  },
-  {
-   "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
-   "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-208",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "I wonder if the leaves are changing color out there? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/GettyImages-2281264798.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-09-25T21:54:37+00:00"
-  },
-  {
-   "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
-   "url": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UVUT2Y7UUVBIJML47MKLS6DJFM.JPG",
-   "age": "2d ago",
-   "published": "2026-09-25T21:24:56+00:00"
-  },
-  {
-   "title": "Navy Establishes New Deputy Chief Of Naval Operations to Support Failing Shore Infrastructure",
-   "url": "https://news.usni.org/2026/09/25/navy-establishes-new-deputy-chief-of-naval-operations-to-support-failing-shore-infrastructure",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "WASHINGTON NAVY YARD – Navy shore infrastructure will be in failing condition by 2037 if the sea service continues to use its current funding schedule, the new deputy ch…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9902112-scaled.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T21:07:32+00:00"
-  },
-  {
-   "title": "Blackbeard Hypersonic Missile Seen Flying On F/A-18 Super Hornet For The First Time",
-   "url": "https://www.twz.com/air/blackbeard-hypersonic-missile-seen-flying-on-f-a-18-super-hornet-for-the-first-time",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Navy is pushing to get Blackbeard, a lower-cost and fast-to-produce standoff weapon, into operational service by 2028 at the latest. The post Blackbeard Hypersonic M…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/blackbeard-hypersonic-super-hornet-flight-testing.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-09-25T20:37:08+00:00"
-  },
-  {
-   "title": "Building logistics networks that survive contested environments",
-   "url": "https://breakingdefense.com/2026/09/building-logistics-networks-that-survive-contested-environments/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Explore how software, edge AI and resilient connectivity can strengthen military logistics in contested environments. Join Breaking Defense on Oct. 21 and earn 1 CPE cre…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/2026_Wind_River_Webinar_Featured-Image-1024x576.png",
-   "age": "2d ago",
-   "published": "2026-09-25T20:28:21+00:00"
-  },
-  {
-   "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
-   "url": "https://breakingdefense.com/2026/09/dc-circuit-panel-upholds-pentagons-ban-on-anthropic-so-what-comes-next/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Pentagon CTO Emil Michael crowed “The hammer of justice has smashed AnthropicAI[’s] arguments.” The AI titan hinted at an appeal — but they may not be allowed one.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/anthropic-1-scaled-e1773078524623-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T19:50:44+00:00"
-  },
-  {
-   "title": "Trump administration obligates $307M for military aid to Ukraine",
-   "url": "https://www.defensenews.com/global/europe/2026/09/25/trump-administration-obligates-307m-for-military-aid-to-ukraine/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Trump administration has made legally binding commitments to spend almost all of the $400 million Congress approved for military aid to Ukraine.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6OHP4RMOTJGBDJWVWP4HUIWN6U.JPG",
-   "age": "2d ago",
-   "published": "2026-09-25T19:49:34+00:00"
-  },
-  {
-   "title": "Chinese Cutters, Warships Block Philippine Resupply Mission to Second Thomas Shoal",
-   "url": "https://news.usni.org/2026/09/25/chinese-cutters-warships-block-philippine-resupply-mission-to-second-thomas-shoal",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Chinese warships and cutters blocked a Philippine resupply mission to Second Thomas Shoal on Thursday in the most significant development at the disputed South China Sea…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/Seirra-Madre.jpeg",
-   "age": "2d ago",
-   "published": "2026-09-25T18:14:56+00:00"
-  },
-  {
-   "title": "USNI News Western Pacific Pulse: Sept. 25, 2026",
-   "url": "https://news.usni.org/2026/09/25/usni-news-western-pacific-pulse-sept-25-2026",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In U.S. 7th Fleet Area of Operations The Abraham Lincoln Ca…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9950983-scaled.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T16:43:29+00:00"
   }
  ]
 }
