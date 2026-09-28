@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-28",
+  "dateLabel": "Monday, September 28, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-28T17:03:58Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Week ended Friday, September 25, 2026 — all three major indexes closed higher, snapping a three-week Dow losing streak as oil prices eased and long-term Treasury yields hit their highest level since 2007.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,743.41", "change": "+1.2%", "heroLabel": "week", "sixMo": "+17%" },
+        { "name": "Dow", "close": "51,828.62", "change": "+0.3%", "heroLabel": "week", "sixMo": "+12%" },
+        { "name": "Nasdaq", "close": "27,068.72", "change": "+2.1%", "heroLabel": "week", "sixMo": "+23%" }
+      ],
+      "body": "Tech led the week's gains, with Meta up nearly 13% and Microsoft up over 4%, as falling oil prices tied to easing Iran tensions offset a 10-year Treasury yield that briefly touched its highest mark since 2007. Markets were closed over the weekend, so Friday's close remains the most recent session.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "UK anti-terror police arrest five men near US-run RAF Fairford air base",
+      "body": "British officers cordoned off the area and evacuated roughly 85 households after three suspicious vehicles approached the Gloucestershire base — a hub for US B-1 and B-52 bomber operations against Iran since February — around 12:45 a.m. Saturday; five men remain in custody on explosives and terrorism-act charges, and Trump said the suspects had been under surveillance and were 'looking to do big damage,' though no motive or Iran link has been confirmed.",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/uk-police-arrest-explosives-act-major-incident-us/story?id=136793301"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "Beijing's push to curb US arms sales to Taiwan 'failed to gain traction' at Trump-Xi summit",
+      "body": "A senior US national security official said Xi Jinping's three-day Washington visit produced a trade-truce extension to January 10 and a new AI incident-notification channel, but Beijing's attempt to pressure Washington into reducing Taiwan arms sales went nowhere; Washington reaffirmed that US-Taiwan ties rest on national interest and shared democratic values, and officials urged Taiwan to keep building asymmetric defenses and semiconductor leverage.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/28/2003865009"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump rejects Iran's Hormuz proposal but expects a new round of talks this week",
+      "body": "Trump told Axios that Qatari-mediated indirect talks with Iran, last held on the sidelines of the UN General Assembly, will resume this week even after he rejected Tehran's offer to reopen the Strait of Hormuz and restart nuclear talks in exchange for lifting the US naval blockade; Washington is holding firm on demanding nuclear concessions while Iran wants any deal centered on the blockade and strait access.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/27/trump-iran-war-hormuz-blockade-negotiations"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new military-technology story surfaced within the 72-hour window that wasn't already covered in a prior brief; the most recent Pentagon contract announcements (Kongsberg's Naval Strike Missile award, Northrop Grumman's Sentinel ICBM modification) were reported here Sunday, and no new contracts had posted as of this writing.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Anthropic and OpenAI push for independent AI safety testing, float a joint self-regulatory body",
+      "body": "The two companies' CEOs are warning in essays, UN speeches and social posts that frontier models are powerful enough to need independent testing before release, and are working with Google on a self-regulatory 'standards authority' for frontier AI rather than expanded oversight from the federal CAISI office; Trump has previously dismissed AI safety warnings as a hoax, and adviser David Sacks calls the push fearmongering.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/09/28/google-openai--anthropic-plan-their-own-finra-style-ai-safety-regulator/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Caleb Williams' hamstring injury described as Grade 2, with a 3-4 week recovery window",
+      "body": "Sources tell ESPN that Williams' hamstring strain, which sidelines him for Monday night's game against the Eagles, is a Grade 2 injury with a typical three-to-four week recovery timeline; head coach Ben Johnson called the medical report 'somewhat encouraging,' and Tyson Bagent has cleared the concussion protocol to serve as Case Keenum's backup.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50036929/sources-caleb-williams-injury-considered-3-4-week-line"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's Kansas Speedway race fell within the 7-day spoiler window, and no new non-result Byron news — injury, schedule, or sponsorship — surfaced within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window beyond items already covered in prior briefs, including the 2027 General Assembly Milwaukee announcement and Stated Clerk Fred Greco's recent updates.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
