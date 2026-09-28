@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-28T07:54:33+00:00",
+ "generated": "2026-09-28T16:13:23+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 40,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,178 +10,253 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "Frontstretch",
-  "Hendrick Motorsports",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "heavy.com"
+  "USNI News"
  ],
  "items": [
   {
-   "title": "CNBC Daily Open: A tale of two truces",
-   "url": "https://www.cnbc.com/2026/09/28/daily-open-iran-war-trump-xi-summit.html",
+   "title": "Ex-Disney CEO Bob Chapek says he raised concerns with the board 'weekly' during Iger power battle",
+   "url": "https://www.cnbc.com/2026/09/28/disney-bob-chapek-bob-iger-power-battle-board.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Chinese president's state visit to Washington appears to have produced more personal diplomacy than breakthroughs.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368275-1790360270029-gettyimages-2297113625-wm026444_cpuufdhs.jpeg?v=1790360308&amp;w=1920&amp;h=1080",
-   "age": "14m ago",
-   "published": "2026-09-28T07:39:36+00:00"
+   "summary": "Former Disney CEO Bob Chapek was ousted from his role as CEO in late 2022, less than three years after taking the post, and replaced by Iger.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107116506-1662762534450-gettyimages-1243031526-pinocchio310150.jpeg?v=1693994401&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-09-28T16:02:17+00:00"
   },
   {
-   "title": "UK police 'investigate Iran link' to alleged bomb threat against base hosting U.S. Air Force",
-   "url": "https://www.cnbc.com/2026/09/28/iran-war-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "U.K. counter-terrorism police are understood to be investigating a potential link with Iran after an alleged bomb threat against an air base hosting U.S. forces",
-   "image": "https://image.cnbcfm.com/api/v1/image/108322136-1781551424604-gettyimages-2267404848-ln2_2955_bksja5in.jpeg?v=1781551458&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
-   "published": "2026-09-28T07:30:14+00:00"
-  },
-  {
-   "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-   "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368523-1790555833450-gettyimages-2296994711-kbd21875_2op2pdja.jpeg?v=1790556666&amp;w=1920&amp;h=1080",
-   "age": "32m ago",
-   "published": "2026-09-28T07:22:06+00:00"
-  },
-  {
-   "title": "Sen Kennedy says no living politicians should have buildings named after them after Trump's moves",
-   "url": "https://www.foxnews.com/politics/sen-kennedy-says-no-living-politicians-should-have-buildings-named-after-them-after-trumps-moves",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sen. John Kennedy has proposed barring living politicians from having buildings named after them as Trump pushes to rename the Kennedy Center.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/sen-john-kennedy-save-america-act.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-09-28T06:48:04+00:00"
-  },
-  {
-   "title": "Brent crude tops $107 as Trump rejects Iranian proposal to reopen Hormuz Strait",
-   "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Iran offered to reopen the key shipping route and restart negotiations with the U.S. within seven days, if the Trump administration agreed to Tehran's conditions.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-28T06:34:26+00:00"
-  },
-  {
-   "title": "Madonna dominates VMAs with Artist of the Year win after showstopping opening performance",
-   "url": "https://www.foxnews.com/entertainment/madonna-dominates-vmas-artist-year-win-showstopping-opening-performance",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Madonna commanded attention at the MTV VMAs, winning seven awards and opening the show with star-studded performance.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/madonna-vmas-thumb.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-28T04:32:59+00:00"
-  },
-  {
-   "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
-   "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/truecaller-scam-checker-image-feature.jpg?resize=1200,800",
-   "age": "3h ago",
-   "published": "2026-09-28T04:30:00+00:00"
-  },
-  {
-   "title": "Denver Broncos storm back from down 16-0 at halftime to beat Los Angeles Rams in instant classic",
-   "url": "https://www.foxnews.com/outkick-sports/denver-broncos-storm-back-down-16-0-halftime-beat-los-angeles-rams-instant-classic",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Bo Nix accounted for three second-half touchdowns as the Denver Broncos erased a 16-0 deficit against the Los Angeles Rams in a wild comeback.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bo-nix-denver-broncos-pass-fox-news_.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-28T04:26:24+00:00"
-  },
-  {
-   "title": "Texas man arrested after 'intentionally' crashing into a closed Kroger to use bathroom: cops",
-   "url": "https://www.foxnews.com/us/texas-man-arrested-intentionally-crashing-closed-kroger-use-bathroom-cops",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A 60-year-old Texas man crashed his vehicle into a closed Kroger because he needed to use the bathroom and now faces criminal mischief charges.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/kroger-emergency-bathroom-stop-texas-crash.png?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-09-28T04:19:36+00:00"
-  },
-  {
-   "title": "SpaceX prepares to send Starship rocket to orbit for first time",
+   "title": "SpaceX launches its massive Starship rocket into orbit for the first time",
    "url": "https://www.cnbc.com/2026/09/28/spacex-prepares-to-send-starship-rocket-to-orbit-for-first-time.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Elon Musk's SpaceX is poised to launch a historic test flight of its massive Starship rocket early Monday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108316182-17805085522025-08-24t021649z_1310053315_rc29dgawwehx_rtrmadp_0_spacex-starship-musk.jpeg?v=1780508593&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-09-28T04:12:20+00:00"
+   "summary": "Elon Musk's SpaceX launched a historic test flight of its massive Starship rocket early Monday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-09-28T16:01:50+00:00"
   },
   {
-   "title": "Thinkin’ Out Loud: Hendrick Motorsports Is Doing It Again",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYjFpZGoyOTZid2pSc2tiUjkydzJZYWd4OS13blhreGFjQVEyQ2phOEZPWXJVUEk4aUlFYng0UDhTYUxYa0VrdzJ4V1JpU2tGMjBZak9Fa25tVDQ1NlFYLXA1bm96Wl9mUTV3NTIxUDAzZjRJZ2RMWW9hWjZrRkdodjAyaXdwcE5fd1V5Mk0wUkZ6aEtoeGlN?oc=5",
-   "source": "Frontstretch",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "6h ago",
-   "published": "2026-09-28T01:36:14+00:00"
-  },
-  {
-   "title": "Benjamin Satterley, pro wrestling star known as Pac, dead at 40",
-   "url": "https://www.foxnews.com/outkick-sports/benjamin-satterley-pro-wrestling-star-known-pac-dead-40",
+   "title": "Blue city funds immigrant activist program with taxpayer dollars, critics say it 'shuts citizens out'",
+   "url": "https://www.foxnews.com/politics/blue-city-funds-immigrant-activist-program-taxpayer-dollars-critics-say-shuts-citizens",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Benjamin Satterley, known as Pac, challenged for the AEW National Championship at All Out just one day before his death was announced at age 40.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/adrian-neville-wrestlemania-33-orlando-fla.jpg?ve=1&tl=1",
-   "age": "6h ago",
-   "published": "2026-09-28T01:29:18+00:00"
+   "summary": "Boston Mayor Michelle Wu s office offers $575 taxpayer-funded scholarships training immigrants in civic engagement and community organizing.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/boston-mayor-wu-ice-body-camera-footage-release-002.jpg?ve=1&tl=1",
+   "age": "25m ago",
+   "published": "2026-09-28T15:47:47+00:00"
   },
   {
-   "title": "Anthropic’s CEO is about to have dinner with President Trump",
-   "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+   "title": "UK airbase terror suspects being released on bail as Iran denies connection",
+   "url": "https://www.foxnews.com/world/uk-airbase-terror-suspects-released-bail-iran-denies-connection",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Five RAF Fairford terror suspects were released on bail as counter terrorism policing probes possible foreign state involvement in the plot.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/police-raf-fairford-england.jpg?ve=1&tl=1",
+   "age": "26m ago",
+   "published": "2026-09-28T15:46:31+00:00"
+  },
+  {
+   "title": "Americans win Presidents Cup on depth, Scheffler's complicated Sunday, and an overwhelming sense of false hope",
+   "url": "https://www.foxnews.com/outkick-sports/americans-win-presidents-cup-depth-schefflers-complicated-sunday-overwhelming-sense-false-hope",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Scottie Scheffler s classy putt concession and testy NBC interview defined a dramatic Sunday as the U.S. narrowly avoided Presidents Cup disaster.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/par-talk-928-featured.jpg?ve=1&tl=1",
+   "age": "42m ago",
+   "published": "2026-09-28T15:31:08+00:00"
+  },
+  {
+   "title": "DHS tears into MS NOW after host touts ‘anti-authoritarian’ ICE monitoring group",
+   "url": "https://www.foxnews.com/media/dhs-tears-ms-now-host-touts-anti-authoritarian-ice-monitoring-group",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "DHS slammed MS NOW for featuring activists who train ICE Watch volunteers and are now turning their organizing efforts toward the midterm elections.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/phone-hacker-ice-agent.png?ve=1&tl=1",
+   "age": "42m ago",
+   "published": "2026-09-28T15:30:45+00:00"
+  },
+  {
+   "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-   "age": "11h ago",
-   "published": "2026-09-27T20:34:28+00:00"
+   "summary": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second …",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-De-Jong-Amin-Lee_16x9-Dark.png?resize=1200,675",
+   "age": "43m ago",
+   "published": "2026-09-28T15:30:00+00:00"
   },
   {
-   "title": "Can Muse overcome Meta’s trust issues?",
-   "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+   "title": "Physical AI chip developer SiMa.ai hits $1.45B valuation",
+   "url": "https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-   "age": "11h ago",
-   "published": "2026-09-27T19:57:30+00:00"
+   "summary": "The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+   "age": "44m ago",
+   "published": "2026-09-28T15:29:21+00:00"
   },
   {
-   "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-   "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+   "title": "Mavi bets on the AI boom creating demand for a new kind of accountant",
+   "url": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "\"AI is the devil and I its maker.\"",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
-   "age": "15h ago",
-   "published": "2026-09-27T16:30:00+00:00"
+   "summary": "Accounting staffing company Mavi emerges from stealth with $4million in funding.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mavi.jpg?resize=1200,800",
+   "age": "46m ago",
+   "published": "2026-09-28T15:26:46+00:00"
+  },
+  {
+   "title": "Meta hires MongoDB CEO CJ Desai to lead enterprise unit. MongoDB shares crater",
+   "url": "https://www.cnbc.com/2026/09/28/mongodb-meta-cj-desai.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Desai will lead the new Meta Enterprise Platform unit and report to CEO Mark Zuckerberg.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368717-1790599580416-AP4672736060371713.jpg?v=1790599594&amp;w=1920&amp;h=1080",
+   "age": "50m ago",
+   "published": "2026-09-28T15:22:47+00:00"
+  },
+  {
+   "title": "Republicans zero in on key player accused of helping Democrat fundraising giant hide foreign cash",
+   "url": "https://www.foxnews.com/politics/republicans-zero-key-player-accused-helping-democrat-fundraising-giant-hide-foreign-cash",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "House Republicans summon ActBlue attorney Ronald Machen for a closed-door interview, citing contradictions in his prior statements on donor verification.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/ActBlue-CEO-Regina-Wallace-Jones-House-hearing.jpg?ve=1&tl=1",
+   "age": "58m ago",
+   "published": "2026-09-28T15:15:13+00:00"
+  },
+  {
+   "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
+   "url": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough t…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-call.png?resize=1200,800",
+   "age": "1h ago",
+   "published": "2026-09-28T15:00:00+00:00"
+  },
+  {
+   "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sorbom-Kirtley-16x9-Dark.png?resize=1200,675",
+   "age": "1h ago",
+   "published": "2026-09-28T15:00:00+00:00"
+  },
+  {
+   "title": "EU nails down five defense priority areas to channel common spending",
+   "url": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QRXYUNWA5NFS7JR5G4SJ5PSKF4.jpg",
+   "age": "1h ago",
+   "published": "2026-09-28T14:59:45+00:00"
+  },
+  {
+   "title": "If Washington is going to be a shareholder, it should act like one",
+   "url": "https://breakingdefense.com/2026/09/if-washington-is-going-to-be-a-shareholder-it-should-act-like-one/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "As governments increasingly seek to broaden industrial advantages, if the US is going to follow suit, its justifications should be clear, exceptional and subject to cons…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/GettyImages-2270759445-e1784823974895.jpg",
+   "age": "1h ago",
+   "published": "2026-09-28T14:56:12+00:00"
+  },
+  {
+   "title": "Nvidia share buyback plan gets $150 billion boost",
+   "url": "https://www.cnbc.com/2026/09/28/nvidia-share-buyback-plan-gets-150-billion-boost.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia said the buyback boost marks the largest share repurchase authorization increase in history.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108354000-1787675996078-gettyimages-2266718119-NVIDIA_GTC.jpeg?v=1787832025&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-28T14:46:36+00:00"
+  },
+  {
+   "title": "Treasury Secretary Scott Bessent hires Wall Street economist David Zervos",
+   "url": "https://www.cnbc.com/2026/09/28/david-zervos-treasury-department-scott-bessent.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Zervos is joining the Treasury Department as counselor to Bessent, adding a prominent markets voice to the administration's economic policy team.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108193937-17569303332025-09-03t150149z_497087102_rc2ekgaqfpn3_rtrmadp_0_usa-stocks.jpeg?v=1756930358&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-09-28T14:14:45+00:00"
+  },
+  {
+   "title": "USS Theodore Roosevelt Deploys From San Diego, USS Abraham Lincoln Near Hawaii",
+   "url": "https://news.usni.org/2026/09/28/uss-theodore-roosevelt-deploys-from-san-diego-uss-abraham-lincoln-near-hawaii",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Carrier USS Theodore Roosevelt (CVN-71) quietly departed Sunday from San Diego to sail across the Pacific for what is expected to be an extended Middle East deployment, …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/TR1.jpeg",
+   "age": "1h ago",
+   "published": "2026-09-28T14:13:56+00:00"
+  },
+  {
+   "title": "As private investment in defense increases, some bottlenecks in funding: AIA-Bain",
+   "url": "https://breakingdefense.com/2026/09/as-private-investment-in-defense-increases-some-bottlenecks-in-funding-aia-bain/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“Defense does not face a shortage of capital. It faces barriers that make expanded investment, particularly in critical bottleneck areas, more difficult,” a new study by…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/646604copy-1024x576.jpg",
+   "age": "3h ago",
+   "published": "2026-09-28T12:45:00+00:00"
+  },
+  {
+   "title": "UK’s Healey puts defense in focus for reindustrialization push",
+   "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "British government leaders are converging around the message that the defense sector will be key in energizing the nation's anemic growth.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RVG25F554RBMLE5ABAFAFD4IA4.jpg",
+   "age": "5h ago",
+   "published": "2026-09-28T11:13:11+00:00"
+  },
+  {
+   "title": "Microsoft goes quiet after church groups ask for 1% of data center costs",
+   "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "“Microsoft claims to want to be a good neighbor, but the jury is still out.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/microsoft-data-center-champion-1152x648.jpg",
+   "age": "5h ago",
+   "published": "2026-09-28T11:00:09+00:00"
+  },
+  {
+   "title": "Israel’s Uvision, Estonia’s Lendurai to integrate systems for NATO military",
+   "url": "https://breakingdefense.com/2026/09/israels-uvision-estonias-lendurai-to-integrate-systems-for-nato-military/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The companies did not disclose which military the teaming effort is for.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/20260610_111147-1024x577.jpg",
+   "age": "8h ago",
+   "published": "2026-09-28T08:13:00+00:00"
   },
   {
    "title": "Terror suspects wanted to do ‘big damage’ to air base used by US, Trump says",
@@ -191,19 +266,8 @@
    "topic": "defense",
    "summary": "British police on Sunday arrested five men on suspicion of explosive and terrorism offenses near an air base that hosts U.S. Air Force personnel.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AKMBHJ4NGZGDBJWPEPEJPWVHIE.JPG",
-   "age": "15h ago",
+   "age": "23h ago",
    "published": "2026-09-27T16:19:38+00:00"
-  },
-  {
-   "title": "TechCrunch Mobility: AV companies pick their lanes",
-   "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
-   "age": "15h ago",
-   "published": "2026-09-27T16:02:00+00:00"
   },
   {
    "title": "HII FF(X) Patrol Frigate Program Progressing as Navy Considers Foreign Options",
@@ -213,7 +277,7 @@
    "topic": "defense",
    "summary": "VIRGINIA BEACH, Va. — Both U.S. and foreign designs for the next small-surface combatant are under consideration after the cancellation of the Constellation-class guided…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/680018947_122110144148985384_3628097066774778081_n.jpg",
-   "age": "16h ago",
+   "age": "1d ago",
    "published": "2026-09-27T15:30:22+00:00"
   },
   {
@@ -224,8 +288,19 @@
    "topic": "defense",
    "summary": "RAF Fairford is a key hub for U.S. bomber and other operations, and was a major launch point for strikes on Iran earlier this year. The post British Police Arrest Men Dr…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/Fairford-Arrests-Incident.jpg?quality=85",
-   "age": "17h ago",
+   "age": "1d ago",
    "published": "2026-09-27T14:36:26+00:00"
+  },
+  {
+   "title": "Northwest Indiana’s disaster safety net faces new test on 'Blue Sky Day' chances | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f1030a5e-15e1-4f42-9bce-88b7607de012.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Aug. 11 storm exposed a hidden vulnerability in Northwest Indiana’s disaster response: The people residents depend on during a crisis can become victims, too.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/fa/1fa6c9f7-1473-4b6f-bf79-c345fbcae98a/6a80d3447ee0e.image.jpg?resize=300%2C225",
+   "age": "1d ago",
+   "published": "2026-09-27T13:00:00+00:00"
   },
   {
    "title": "How the Smithsonian became the latest front in Trump’s culture war",
@@ -235,7 +310,7 @@
    "topic": "ai",
    "summary": "The Smithsonian has faced withering pressure from the Trump administration.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2287653556-1152x648.jpg",
-   "age": "20h ago",
+   "age": "1d ago",
    "published": "2026-09-27T11:00:12+00:00"
   },
   {
@@ -250,15 +325,15 @@
    "published": "2026-09-26T18:50:08+00:00"
   },
   {
-   "title": "Hendrick Motorsports Steps Into Joe Gibbs Racing-Spire Legal Battle",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOTY2OGx0SEVOSUZwcDEwdVVWemQ5cnZlVkstR3dObmJjcE0xOEpLYWxOeUZxM3RNVzZyWU0ycncybVFKWDMwZHk0dHpZWkNVT0h2Zk1MUEVlNGl0SmFHV24xRU1OM3dBX1JFRHJXbVJOd0J2TnloVVlPZ2tub2RiV1hn?oc=5",
-   "source": "heavy.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-09-26T17:10:09+00:00"
+   "title": "Your consumer complaints are piling up. Here’s what I’m hearing | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_5340810c-7708-4cd1-8e1b-4c0b09d3d99c.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A 94-year-old without phone service. An $88 Xfinity refund. A complaint about an elderly couple’s treatment at a Portage restaurant. And a Gary resident wondering about …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/37/9377d246-dac3-4f28-b296-7a2a942472a1/6ab6fc8d721c4.image.jpg?resize=300%2C290",
+   "age": "2d ago",
+   "published": "2026-09-26T12:15:00+00:00"
   },
   {
    "title": "Tesla’s big electric truck faces an even bigger infrastructure challenge",
@@ -268,7 +343,7 @@
    "topic": "ai",
    "summary": "The 500-mile Semi arrives as charging gaps still limit electric trucking.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/teslasemi-1024x648.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-09-26T10:45:09+00:00"
   },
   {
@@ -292,17 +367,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/09/GettyImages-2281264798.jpg?quality=85",
    "age": "2d ago",
    "published": "2026-09-25T21:54:37+00:00"
-  },
-  {
-   "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-   "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T21:36:20+00:00"
   },
   {
    "title": "Ukraine’s deadly AI training platform for drone tech opens to UK companies",
@@ -371,39 +435,6 @@
    "published": "2026-09-25T19:49:34+00:00"
   },
   {
-   "title": "Navy’s shipyard revamp could cost more than $200 billion: GAO",
-   "url": "https://breakingdefense.com/2026/09/navys-shipyard-revamp-could-cost-more-than-200-billion-gao/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The Navy originally estimated that the Shipyard Infrastructure Optimization Program (SIOP) would cost approximately $21 billion.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/08/210512-N-LX838-1230-scaled-e1659707922643-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T19:45:00+00:00"
-  },
-  {
-   "title": "US appeals court upholds Pentagon’s blacklisting of Anthropic",
-   "url": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "A federal appeals court upheld the Pentagon’s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6N7EZFKZOZF27FAT4MFMPHS25I.JPG",
-   "age": "2d ago",
-   "published": "2026-09-25T19:19:29+00:00"
-  },
-  {
-   "title": "‘Cyber magazine’ can run out ‘pretty damn quick’ in modern conflict: Admiral",
-   "url": "https://breakingdefense.com/2026/09/cyber-magazine-can-run-out-pretty-damn-quick-in-modern-conflict-admiral/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "In the wake of public debates about the health of physical US munitions, a senior Navy official said the cyber magazine isn t infinite either.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/6762559-scaled-e1782151740819-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T19:12:45+00:00"
-  },
-  {
    "title": "Chinese Cutters, Warships Block Philippine Resupply Mission to Second Thomas Shoal",
    "url": "https://news.usni.org/2026/09/25/chinese-cutters-warships-block-philippine-resupply-mission-to-second-thomas-shoal",
    "source": "USNI News",
@@ -415,17 +446,6 @@
    "published": "2026-09-25T18:14:56+00:00"
   },
   {
-   "title": "US Navy stands up hub to prepare unmanned systems for combat",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PNEAP2E7RNEX5DRMKKILVXNYFU.jpg",
-   "age": "2d ago",
-   "published": "2026-09-25T18:13:48+00:00"
-  },
-  {
    "title": "USNI News Western Pacific Pulse: Sept. 25, 2026",
    "url": "https://news.usni.org/2026/09/25/usni-news-western-pacific-pulse-sept-25-2026",
    "source": "USNI News",
@@ -435,28 +455,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/09/9950983-scaled.jpg",
    "age": "2d ago",
    "published": "2026-09-25T16:43:29+00:00"
-  },
-  {
-   "title": "‘We Absolutely Need to Change,’ Says New Navy Maintenance Head",
-   "url": "https://news.usni.org/2026/09/24/we-absolutely-need-to-change-says-new-navy-maintenance-head",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "VIRGINIA BEACH, Va. — Not quite two months on the job, a submariner turned head of the Navy’s vast maintenance operation promised his office would create a more nimble o…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/9885728-1.jpg",
-   "age": "3d ago",
-   "published": "2026-09-24T21:04:48+00:00"
-  },
-  {
-   "title": "NASCAR TV schedule this weekend: Hendrick Motorsports, Cup and Truck Series roll into Kansas",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRFNvWDZDNk1udUVDbHdzWEp4Z09PMFRJSUk5X2doUEkyZXdzN2lqNWlneWJXV3JMVTBZdm02WVJkTVhCSVBUUHpfZEVEamxBaGlJa2xoeDVFREJuMkt2UkpLQTZpekZkWDBfRXE5Mzd4dUFEeFJaYnlxRTZfX0E4SjFHLVRZRWI2TFF2WnQ4NHV5Z2dMdjRHc2JSQkYwZU5ocGpPX1l5SDh0akVWTWhlSWphUzJ6SHpJTWZYTGpENkF5R28zbWZNRjFvbjdncjQ?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-09-24T13:31:24+00:00"
   }
  ]
 }
