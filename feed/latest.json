@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-29T08:46:16+00:00",
+ "generated": "2026-09-29T15:12:25+00:00",
  "count": 40,
  "withImage": 39,
  "bearsDay": true,
@@ -13,6 +13,7 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -21,59 +22,279 @@
  ],
  "items": [
   {
-   "title": "Anthropic warns investors of AI’s 'existential risk to humanity' in IPO prospectus, reports say",
-   "url": "https://www.cnbc.com/2026/09/29/anthropic-warns-ai-existential-risks-ipo-filing-reuters.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Anthropic's IPO filing dedicates 80 pages to the risks of AI, nearly double the 48 pages it spends discussing its business plans, according to Reuters.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&amp;w=1920&amp;h=1080",
-   "age": "2m ago",
-   "published": "2026-09-29T08:43:59+00:00"
+   "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+   "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Instinct founder said that the platform is growing 10% day-by-day",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+   "age": "just now",
+   "published": "2026-09-29T15:12:07+00:00"
   },
   {
-   "title": "Mistral CEO says U.S. AI safety debate masks competitors’ 'negligence'",
-   "url": "https://www.cnbc.com/2026/09/29/mistral-ai-safety-openai-anthropic.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Mistral CEO Arthur Mensch criticized rivals’ AI safety arguments as the industry faces scrutiny after several AI agents took unauthorized actions.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108266601-1771392963474-gettyimages-2219062309-FRANCE_VIVATECH.jpeg?v=1771393101&amp;w=1920&amp;h=1080",
-   "age": "26m ago",
-   "published": "2026-09-29T08:20:04+00:00"
+   "title": "NFL Week 4 Power Rankings: Biggest September Surprises",
+   "url": "https://www.windycitygridiron.com/chicago-bears-power-rankings/123877/nfl-week-4-power-rankings-biggest-september-surprises-49ers-bears-packers-bills-ravens",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297459408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "12m ago",
+   "published": "2026-09-29T15:00:00+00:00"
   },
   {
-   "title": "Treasury yields ease as inflation concerns persist",
-   "url": "https://www.cnbc.com/2026/09/29/treasury-yields-bonds.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury yields eased early Tuesday amid persistent concerns over inflationary pressures.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368836-17906098212026-09-28t153558z_113683162_rc2dsnar625l_rtrmadp_0_usa-stocks.jpeg?v=1790609915&amp;w=1920&amp;h=1080",
-   "age": "29m ago",
-   "published": "2026-09-29T08:17:15+00:00"
+   "title": "After losing his voice to cancer, this founder is building “glasses for voice”",
+   "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Uhura Bionics, a TechCrunch Disrupt 2026 Battlefield 200, wants to replace flat, robotics voice devices with one that carries emotions.",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1362873121.jpg?resize=1200,800",
+   "age": "12m ago",
+   "published": "2026-09-29T15:00:00+00:00"
   },
   {
-   "title": "CNBC Daily Open: AI’s creators sound the alarm — while others keep building the infrastructure",
-   "url": "https://www.cnbc.com/2026/09/29/daily-open-ai-nvidia-anthropic-openai-samsung.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "When the AI boom first took off, companies were competing to see what their AI models can do. Now, they reassure investors of what their models CAN'T do.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108364673-1789680332561-gettyimages-2295176589-AFP_C8MM2DH.jpeg?v=1789680624&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-29T07:27:18+00:00"
-  },
-  {
-   "title": "At least 40 rescued, 2 dead as boat capsizes after machete fight near Puerto Rico",
-   "url": "https://www.foxnews.com/world/least-40-rescued-2-dead-boat-capsizes-machete-fight-near-puerto-rico",
+   "title": "Apple's $250M Siri settlement: How to claim up to $95",
+   "url": "https://www.foxnews.com/tech/apple-250m-siri-settlement-claim-95",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A machete fight aboard a makeshift migrant boat near Mona Island caused it to capsize, leaving survivors stranded in open waters for over 12 hours.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Puerto-Rico-boat-capsized-people-rescued.png?ve=1&tl=1",
+   "summary": "The $250 million Apple Siri AI settlement is now accepting claims, with eligible iPhone owners potentially receiving up to $95 per device.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/apple-iphone-siri-settlement.jpg?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-09-29T14:57:38+00:00"
+  },
+  {
+   "title": "Oura shelves its $2.2B IPO citing ‘uncertainty’ in the market",
+   "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5-2.jpg?resize=1200,841",
+   "age": "15m ago",
+   "published": "2026-09-29T14:56:55+00:00"
+  },
+  {
+   "title": "Ravens facing unexpected crisis at key offensive position heading into Week 4 game vs. Titans",
+   "url": "https://www.cbssports.com/nfl/news/ravens-crisis-offense-week-4-game-vs-titans/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/04b40037-7c2d-41d3-97db-39bbc29e9f21/ravens-jpeg.jpg",
+   "age": "18m ago",
+   "published": "2026-09-29T14:53:48+00:00"
+  },
+  {
+   "title": "Estonia blames Russia in arson attack on military robotics firm Milrem",
+   "url": "https://www.defensenews.com/global/europe/2026/09/29/estonia-blames-russia-in-arson-attack-on-military-robotics-firm-milrem/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YDOXTUX33VA7XJRF5NC6MTTFHY.jpg",
+   "age": "19m ago",
+   "published": "2026-09-29T14:52:40+00:00"
+  },
+  {
+   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Yankees-Red Sox, Cubs-Padres, MLB Tuesday",
+   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-yankees-red-sox-cubs-padres-mlb-tuesday/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
+   "age": "24m ago",
+   "published": "2026-09-29T14:48:17+00:00"
+  },
+  {
+   "title": "Skydivers watch plane vanish from sight, make split-second decision to jump",
+   "url": "https://www.foxnews.com/travel/skydivers-watch-plane-vanish-sight-make-split-second-decision-jump",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Skydive Milwaukee jumpers spotted a single-engine plane vanish behind trees near East Troy, then leaped from their own aircraft to reach victims and try to help.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/WI-SKYDIVERS-RESCUE-PLANE-CRASH-TRAVEL-1.jpg?ve=1&tl=1",
+   "age": "27m ago",
+   "published": "2026-09-29T14:44:49+00:00"
+  },
+  {
+   "title": "Hero cop stopped synagogue massacre in Canada as Jewish group calls for armed guards",
+   "url": "https://www.foxnews.com/world/hero-armed-cop-stopped-synagogue-massacre-canada-jewish-group-calls-armed-guards",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Yom Kippur attack outside Sons of Jacob Synagogue in Belleville has intensified demands for armed security at Jewish institutions across Canada.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bellville-synagogue-shooting-canada.jpg?ve=1&tl=1",
+   "age": "27m ago",
+   "published": "2026-09-29T14:44:42+00:00"
+  },
+  {
+   "title": "Estonia accuses Russia of ordering August arson attack on Milrem",
+   "url": "https://breakingdefense.com/2026/09/estonia-accuses-russia-of-ordering-august-arson-attack-on-milrem/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Despite Russia’s ongoing “reckless campaign of hostile actions,” it is “failing to undermine our unity and support for Ukraine,” NATO Secretary General Mark Rutte said t…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/20260616_122640-1024x577.jpg",
+   "age": "30m ago",
+   "published": "2026-09-29T14:42:16+00:00"
+  },
+  {
+   "title": "US forces exiting Iraq after 2 decades, leaving opening for Iran",
+   "url": "https://www.defensenews.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "U.S. forces are set to depart from their last bases in Iraq by Wednesday, a move celebrated as a victory by Iran and its allies.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TMGJG4YFUJC5FBS55ARIXHX7UQ.JPG",
+   "age": "31m ago",
+   "published": "2026-09-29T14:40:57+00:00"
+  },
+  {
+   "title": "Fruit flies remember their larval diet, which influences their longevity",
+   "url": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1914127482-1152x648.jpg",
+   "age": "33m ago",
+   "published": "2026-09-29T14:39:25+00:00"
+  },
+  {
+   "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
+   "url": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Alaska Airlines is overhauling its Alaska and Hawaiian cabins to include brand-new top-tier suites, a premium economy class and other features.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368513-1790550250137-Hawaiian_A330_Leihk_Suites_rendering_001.JPG?v=1790550287&amp;w=1920&amp;h=1080",
+   "age": "35m ago",
+   "published": "2026-09-29T14:37:09+00:00"
+  },
+  {
+   "title": "Consumer optimism slides sharply as fears escalate over rising prices and jobs",
+   "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Conference Board's Consumer Confidence Index tumbled to 81.9, a decline of 6.7 points and a reading well below the forecast for 89.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369303-1790685687796-gettyimages-2297102375-AFP_C9LU96J.jpeg?v=1790685734&amp;w=1920&amp;h=1080",
+   "age": "35m ago",
+   "published": "2026-09-29T14:36:47+00:00"
+  },
+  {
+   "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
+   "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&amp;w=1920&amp;h=1080",
+   "age": "40m ago",
+   "published": "2026-09-29T14:32:15+00:00"
+  },
+  {
+   "title": "Drone-hunting on the border, plus turmoil at an Air Force think tank",
+   "url": "https://breakingdefense.com/2026/09/drone-hunting-on-the-border-plus-turmoil-at-an-air-force-think-tank/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "NORTHCOM is testing ways to counter drone incursions, while an Air Force institute focused on China faces questions about its future.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Bo235-pb-1024x576.png",
+   "age": "49m ago",
+   "published": "2026-09-29T14:22:39+00:00"
+  },
+  {
+   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+   "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Similar performance, security tradeoffs also seen in current public models.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg",
+   "age": "49m ago",
+   "published": "2026-09-29T14:22:31+00:00"
+  },
+  {
+   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+   "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
    "age": "1h ago",
-   "published": "2026-09-29T06:53:07+00:00"
+   "published": "2026-09-29T14:10:00+00:00"
+  },
+  {
+   "title": "MAJIK Faktory opens its doors for a night of food, makers and ‘Taste the Hype’",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_da5e844c-fb7f-482a-b443-0622f2bcee4f.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Want a taste of what’s being made in Michigan City? MAJIK Faktory is opening its doors for a First Friday celebration that puts local makers in the spotlight.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/1a/81a21fbb-42a2-4f46-b41e-f15e89722425/6abac2a376622.image.jpg?resize=300%2C225",
+   "age": "1h ago",
+   "published": "2026-09-29T14:00:00+00:00"
+  },
+  {
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Yankees-Red Sox, Cubs-Padres, MLB today",
+   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-yankees-red-sox-cubs-padres-mlb-today/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+   "age": "1h ago",
+   "published": "2026-09-29T13:29:31+00:00"
+  },
+  {
+   "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
+   "url": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Both firms are working under earlier Pentagon contracts to demonstrate rendezvous and proximity operators that could also support future orbital warfare.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2019/04/GSSAPsatAFSPC-e1677017263840-1024x575.jpg",
+   "age": "2h ago",
+   "published": "2026-09-29T12:58:01+00:00"
+  },
+  {
+   "title": "Gary’s storm aftermath sparked more than anger. It exposed an old divide | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_318a3f28-bf22-4557-a1db-262ca35743ad.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A question about whether old-school Gary residents could have survived today’s storm aftermath sparked anger, memories and a much bigger debate: Who gets to tell Gary’s …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/b9/db913408-665a-528d-b5f7-4eda2bdce33f/634f0d8103993.image.jpg?resize=300%2C161",
+   "age": "2h ago",
+   "published": "2026-09-29T12:15:00+00:00"
+  },
+  {
+   "title": "French artillery regiment reorganizes guns to survive drone threats",
+   "url": "https://www.defensenews.com/global/2026/09/29/french-artillery-regiment-reorganizes-guns-to-survive-drone-threats/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "A French artillery formation is trialing a new organization of its gun units and support procedures, prompted by drone lessons from the war in Ukraine.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FSLAMLS7TNEHXF6BVVSBDIKQTM.jpg",
+   "age": "4h ago",
+   "published": "2026-09-29T10:34:09+00:00"
+  },
+  {
+   "title": "Chicago Bears News: Bears 3rd string QB demolish Philadelphia Eagles",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/123883/chicago-bears-news-bears-3rd-string-qb-demolish-philadelphia-eagles",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297629487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "5h ago",
+   "published": "2026-09-29T10:00:00+00:00"
   },
   {
    "title": "Bears vs. Jets odds: Opening lines for Week 4 matchup",
@@ -83,63 +304,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2295120976.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-09-29T06:09:58+00:00"
-  },
-  {
-   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an ex…",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1399936043.jpg?resize=1200,675",
-   "age": "3h ago",
-   "published": "2026-09-29T05:13:43+00:00"
-  },
-  {
-   "title": "State Department considers sharing passport records for voter citizenship checks",
-   "url": "https://www.foxnews.com/politics/state-department-considers-sharing-passport-records-voter-citizenship-checks",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The State Department is assessing how to share passport records with state and local officials to verify citizenship on voter registration rolls.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/rubio-trump-state-department.png?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-09-29T04:26:53+00:00"
-  },
-  {
-   "title": "Lindsay Clancy's push to probe holdout juror hits snag before pivotal retrial hearing",
-   "url": "https://www.foxnews.com/us/lindsay-clancy-push-probe-holdout-juror-hits-snag-pivotal-retrial-hearing",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lindsay Clancy returns to court in person as her defense pushes a double jeopardy motion and seeks to investigate holdout juror Michael Desronvil.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/lindsay-clancy-trial-plymouth_001.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-09-29T04:00:08+00:00"
-  },
-  {
-   "title": "Case Keenum finds Fountain of Youth as Chicago Bears Dominate Philadelphia Eagles",
-   "url": "https://www.windycitygridiron.com/chicago-bears-scores-results/123863/case-keenum-finds-fountain-of-youth-as-chicago-bears-dominate-philadelphia-eagles-on-monday-night-football",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297629045.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
-   "published": "2026-09-29T03:54:50+00:00"
-  },
-  {
-   "title": "Case Keenum's performance in win over Eagles should tell Bears this: Don't rush back Caleb Williams",
-   "url": "https://www.foxnews.com/outkick-sports/case-keenum-performance-win-eagles-should-tell-bears-dont-rush-back-caleb-williams",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Case Keenum finished 24-of-34 with two passing touchdowns and a rushing score, raising a key question about Caleb Williams return timeline.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Case-Keenum-Bears.jpg?ve=1&tl=1",
-   "age": "5h ago",
-   "published": "2026-09-29T03:32:35+00:00"
   },
   {
    "title": "Bears 27, Eagles 7: QB Case Keenum steals show in return to starting stage",
@@ -149,7 +315,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/28221637/2026-09-29T022302Z_1905942841_MT1USATODAY29947091_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-1024x683.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-09-29T03:19:21+00:00"
   },
   {
@@ -160,74 +326,8 @@
    "topic": "defense",
    "summary": "This post will be updated as new information becomes available. Four personnel were injured in a landing mishap aboard USS Dwight D. Eisenhower (CVN-69) on Monday, USNI …",
    "image": "https://news.usni.org/wp-content/uploads/2026/05/9667243-scaled.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-09-29T03:08:10+00:00"
-  },
-  {
-   "title": "Dillon Thieneman’s first NFL interception couldn’t have come at a better time",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/123852/dillon-thieneman-first-nfl-interception-couldnt-have-come-at-a-better-time-chicago-bears",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297631346.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "7h ago",
-   "published": "2026-09-29T01:36:35+00:00"
-  },
-  {
-   "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-   "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
-   "age": "8h ago",
-   "published": "2026-09-29T00:30:00+00:00"
-  },
-  {
-   "title": "Bears vs. Eagles live game message board and fan discussion",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/123787/bears-vs-eagles-live-game-message-board-and-fan-discussion",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297621429.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
-   "published": "2026-09-29T00:11:00+00:00"
-  },
-  {
-   "title": "Eagles vs. Bears picks, player props: Expert's best bets for Monday Night Football in NFL Week 3",
-   "url": "https://www.cbssports.com/betting/news/eagles-vs-bears-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-3/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/01/10/00f35673-8d15-451b-bb04-29a6454c2ea9/saquon-barkley-philadelphia-eagles-imagn-images.jpg",
-   "age": "8h ago",
-   "published": "2026-09-29T00:08:07+00:00"
-  },
-  {
-   "title": "OpenAI reportedly ditches model over safety concerns",
-   "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-   "age": "9h ago",
-   "published": "2026-09-28T23:39:20+00:00"
-  },
-  {
-   "title": "Eagles vs. Bears odds, spread, NFL picks, predictions, best bets: Monday Night Football betting preview",
-   "url": "https://www.cbssports.com/betting/news/eagles-bears-odds-spread-nfl-picks-predictions-best-bets-monday-night-football-betting-preview/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/28/4c22bf5f-2686-4d58-9636-3df543b4911a/saquon-barkley-eagles.jpg",
-   "age": "10h ago",
-   "published": "2026-09-28T22:44:12+00:00"
   },
   {
    "title": "Heavily Damaged Submarine USS Connecticut Now Won’t Return To Service Until 2027",
@@ -237,52 +337,8 @@
    "topic": "defense",
    "summary": "The Navy hoped Connecticut would be back by 2025, then this year, and it is now planning for its final retirement with repairs still underway. The post Heavily Damaged S…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/uss-connecticut-repair-schedule-slips-to-2027.jpg?quality=85",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-09-28T22:44:02+00:00"
-  },
-  {
-   "title": "Use FanDuel promo code to get $250 in bonus bets for Eagles vs. Bears on Monday Night Football in NFL Week 3",
-   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-eagles-bears-monday-night-football-nfl-week-3/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/20/d13a1e29-7c4b-469e-9dbb-b5c7e26a2c57/1920x1080.jpg",
-   "age": "10h ago",
-   "published": "2026-09-28T22:25:34+00:00"
-  },
-  {
-   "title": "Boeing \"incredibly excited\" to serve as nation's only astronaut transportation",
-   "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"We couldn't provide detailed pricing to the CLD suppliers.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/starliner_thrusters1-1152x648.jpg",
-   "age": "10h ago",
-   "published": "2026-09-28T22:24:33+00:00"
-  },
-  {
-   "title": "US, UK test SM-6, other missiles on SINKEX target frigate",
-   "url": "https://breakingdefense.com/2026/09/us-uk-test-sm-6-other-missiles-on-sinkex-target-frigate/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The joint exercise saw the test of several muntions but the final blow was delivered by an Mk 48 Advanced Capability Torpedo, a Navy official said.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/8087683-1024x576.jpg",
-   "age": "10h ago",
-   "published": "2026-09-28T22:00:00+00:00"
-  },
-  {
-   "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-   "url": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-   "age": "10h ago",
-   "published": "2026-09-28T21:49:10+00:00"
   },
   {
    "title": "Claims Swirl Around U.S. Marines Injured Aboard Mystery Vessel Attacked In The Strait Of Hormuz",
@@ -292,19 +348,8 @@
    "topic": "defense",
    "summary": "At the center of suspicions is a former Royal Mail ship with its own fascinating backstory, but what it was doing at the time is unclear. The post Claims Swirl Around U.…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/St.-Helena-Ship.jpg?quality=85",
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-09-28T21:26:40+00:00"
-  },
-  {
-   "title": "SpaceX's Starship goes orbital, deploying first next-gen Starlinks",
-   "url": "https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Starship had already flown 99 percent of the way to low-Earth orbit. Monday's flight added the last bit.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg",
-   "age": "11h ago",
-   "published": "2026-09-28T21:26:19+00:00"
   },
   {
    "title": "EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments",
@@ -314,7 +359,7 @@
    "topic": "defense",
    "summary": "The European Union is asking its members to increase the number of ships deployed with European Naval Force Aspides, which is tasked with accompanying merchant ships in …",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/minerva_cp_31_8_logo.jpg",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-09-28T20:55:06+00:00"
   },
   {
@@ -325,7 +370,7 @@
    "topic": "defense",
    "summary": "Fincantieri wants to leverage its U.S. infrastructure for another new frigate as the Navy is once again looking for foreign 'production ready' designs. The post Shipbuil…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/fremm-evo-for-us-navy-potential.jpg?quality=85",
-   "age": "13h ago",
+   "age": "20h ago",
    "published": "2026-09-28T19:06:32+00:00"
   },
   {
@@ -336,19 +381,8 @@
    "topic": "defense",
    "summary": "Chinese forces rehearsed enforcing Beijing’s claim to Scarborough Shoal with drones and boarding drills on Sunday amid state media claims that China has extended its con…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-2.45.06-PM-scaled.png",
-   "age": "13h ago",
+   "age": "20h ago",
    "published": "2026-09-28T18:51:50+00:00"
-  },
-  {
-   "title": "Russia raises 2027 military spending by 27%, budget documents show",
-   "url": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Russia plans to spend 17.1 trillion roubles, or $202 billion, on defense in 2027, a 27% increase.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/C6W2GYEKSVCT3HW7HH2XI5E6HE.JPG",
-   "age": "14h ago",
-   "published": "2026-09-28T18:07:08+00:00"
   },
   {
    "title": "NASCAR to further inspect William Byron's car after Kansas in 2026",
@@ -358,19 +392,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "15h ago",
+   "age": "22h ago",
    "published": "2026-09-28T16:50:21+00:00"
-  },
-  {
-   "title": "UK to gather defense CEOs for ‘closed-door’ Russian security briefing",
-   "url": "https://breakingdefense.com/2026/09/uk-to-gather-defense-ceos-for-closed-door-russian-security-briefing/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The government warned the Russian state and its proxies knowingly seek to disrupt businesses and organisations that underpin the British way of life or are vital to the …",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/FLEET-20260612-XN0416-138-scaled-e1781631004261-1024x577.jpg",
-   "age": "16h ago",
-   "published": "2026-09-28T16:22:42+00:00"
   },
   {
    "title": "Game Preview: Eagles vs. Bears | 2026 Week 3",
@@ -380,30 +403,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/v5j91s9tjwmfydpkxm1l.jpg",
-   "age": "17h ago",
+   "age": "23h ago",
    "published": "2026-09-28T15:33:00+00:00"
-  },
-  {
-   "title": "EU nails down five defense priority areas to channel common spending",
-   "url": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QRXYUNWA5NFS7JR5G4SJ5PSKF4.jpg",
-   "age": "17h ago",
-   "published": "2026-09-28T14:59:45+00:00"
-  },
-  {
-   "title": "If Washington is going to be a shareholder, it should act like one",
-   "url": "https://breakingdefense.com/2026/09/if-washington-is-going-to-be-a-shareholder-it-should-act-like-one/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "As governments increasingly seek to broaden industrial advantages, if the US is going to follow suit, its justifications should be clear, exceptional and subject to cons…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/GettyImages-2270759445-e1784823974895.jpg",
-   "age": "17h ago",
-   "published": "2026-09-28T14:56:12+00:00"
   },
   {
    "title": "Bears collaborate with local artist Fedz on Latino Heritage Month gameday poster",
@@ -413,19 +414,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/sg11kc4bm0wzdzi85jor.jpg",
-   "age": "18h ago",
+   "age": "1d ago",
    "published": "2026-09-28T14:19:00+00:00"
-  },
-  {
-   "title": "UK’s Healey puts defense in focus for reindustrialization push",
-   "url": "https://www.defensenews.com/global/europe/2026/09/28/uks-healey-puts-defense-in-focus-for-reindustrialization-push/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "British government leaders are converging around the message that the defense sector will be key in energizing the nation's anemic growth.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RVG25F554RBMLE5ABAFAFD4IA4.jpg",
-   "age": "21h ago",
-   "published": "2026-09-28T11:13:11+00:00"
   },
   {
    "title": "The RUNDOWN: Everything you need to know about the Bears in Week 3 against the Eagles",
@@ -437,6 +427,17 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/27152027/2025-10-19T164402Z_484675269_MT1USATODAY27368957_RTRMADP_3_NFL-NEW-ORLEANS-SAINTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-09-27T20:24:26+00:00"
+  },
+  {
+   "title": "Northwest Indiana’s disaster safety net faces new test on 'Blue Sky Day' chances | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f1030a5e-15e1-4f42-9bce-88b7607de012.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Aug. 11 storm exposed a hidden vulnerability in Northwest Indiana’s disaster response: The people residents depend on during a crisis can become victims, too.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/fa/1fa6c9f7-1473-4b6f-bf79-c345fbcae98a/6a80d3447ee0e.image.jpg?resize=300%2C225",
+   "age": "2d ago",
+   "published": "2026-09-27T13:00:00+00:00"
   },
   {
    "title": "Injury Update: Bears rule out Caleb Williams, will start Tyson Bagent or Case Keenum vs. Eagles",
