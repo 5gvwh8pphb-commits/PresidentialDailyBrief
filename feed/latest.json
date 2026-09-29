@@ -1,7 +1,7 @@
 {
- "generated": "2026-09-29T15:12:25+00:00",
+ "generated": "2026-09-29T20:03:50+00:00",
  "count": 40,
- "withImage": 39,
+ "withImage": 37,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
@@ -13,24 +13,311 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
   "Windy City Gridiron",
-  "Yahoo Sports"
+  "Yahoo Sports",
+  "heavy.com",
+  "on3.com"
  ],
  "items": [
   {
-   "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-   "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+   "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+   "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The artificial intelligence luncheon comes as calls for a slowdown and regulation reach a fever pitch",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369714-1790707327000-gettyimages-2297223922-AFP_C9Q39NT.jpeg?v=1790707365&amp;w=1920&amp;h=1080",
+   "age": "6m ago",
+   "published": "2026-09-29T19:57:21+00:00"
+  },
+  {
+   "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+   "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Instinct founder said that the platform is growing 10% day-by-day",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
-   "age": "just now",
-   "published": "2026-09-29T15:12:07+00:00"
+   "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+   "age": "11m ago",
+   "published": "2026-09-29T19:52:37+00:00"
+  },
+  {
+   "title": "Verdict reached in 'American Idol' alum Caleb Flynn's murder trial",
+   "url": "https://www.foxnews.com/us/verdict-reached-american-idol-alum-caleb-flynn-murder-trial",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Alleigha Botner s testimony revealed 107,000 messages with Caleb Flynn, including chilling texts sent just hours before Ashley Flynn was killed.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/ashley-caleb-flynn-2.png?ve=1&tl=1",
+   "age": "12m ago",
+   "published": "2026-09-29T19:50:52+00:00"
+  },
+  {
+   "title": "Russia’s Jet-Powered Shahed Drones Are Quickly Evolving As Ukraine Scrambles To Blunt Their Damage",
+   "url": "https://www.twz.com/news-features/russias-jet-powered-shahed-drones-are-quickly-evolving-as-ukraine-scrambles-to-blunt-their-damage",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The Geran-4 one-way attack drone uses speed and altitude to evade low-cost interceptors Ukraine depends heavily upon. The post Russia s Jet-Powered Shahed Drones Are Qui…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/Gean-4-Ukraine-drone-jet-shahed.jpg?quality=85",
+   "age": "13m ago",
+   "published": "2026-09-29T19:50:49+00:00"
+  },
+  {
+   "title": "Stephen A Smith and ESPN should consider a full-time reunion with Skip Bayless",
+   "url": "https://www.foxnews.com/outkick-sports/stephen-smith-espn-consider-full-time-reunion-skip-bayless",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Skip Bayless returned to First Take for a monthly role, but a full-time reunion with Stephen A. Smith could revitalize ESPN s debate show.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/stephen-a-smith-skip-bayless-paley-center-media.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-09-29T19:30:37+00:00"
+  },
+  {
+   "title": "Dumping stocks after Trump’s 2016 win was ‘stupid,’ NYU professor admits",
+   "url": "https://www.foxnews.com/media/dumping-stocks-after-trumps-2016-win-stupid-nyu-professor-admits",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Scott Galloway reveals his emotional reaction to Trump s 2016 election victory led to what he calls his biggest investment mistake, costing him dearly.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/scott-galloway-pivot-mia-fox-news_-scaled.jpg?ve=1&tl=1",
+   "age": "33m ago",
+   "published": "2026-09-29T19:30:07+00:00"
+  },
+  {
+   "title": "Ford CEO says it's 'too late' for Europe to fend off Chinese automakers, but not U.S.",
+   "url": "https://www.cnbc.com/2026/09/29/ford-ceo-jim-farley-china-automakers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "CEO Jim Farley's warning comes on the heels of a high-profile visit last week by Chinese President Xi Jinping with President Donald Trump",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369758-1790709686991-gettyimages-2297232145-_c3a4940.jpeg?v=1790709749&amp;w=1920&amp;h=1080",
+   "age": "34m ago",
+   "published": "2026-09-29T19:28:53+00:00"
+  },
+  {
+   "title": "Homeowners are sitting on record equity – and not using it",
+   "url": "https://www.cnbc.com/2026/09/29/homeowners-are-sitting-on-record-equity-and-not-using-it.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "U.S. homeowners have more housing wealth than ever before, thanks to fast-rising home prices over the last several years. But they aren't spending much of it.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108323579-1781729855506-gettyimages-2281471644-US_HOUSING.jpeg?v=1790616156&amp;w=1920&amp;h=1080",
+   "age": "40m ago",
+   "published": "2026-09-29T19:23:06+00:00"
+  },
+  {
+   "title": "Week 4 NFL odds, picks, predictions: Computer model backs Giants and Seahawks",
+   "url": "https://www.cbssports.com/betting/news/week-4-2026-nfl-odds-picks-predictions-bets/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/09/aa1d1300-01b9-4b95-aecb-9f3a46bba083/cam-skattebo-new-york-giants-imagn-images.jpg",
+   "age": "41m ago",
+   "published": "2026-09-29T19:22:03+00:00"
+  },
+  {
+   "title": "Prediction market traders think the U.S. added more jobs in September than economists estimate",
+   "url": "https://www.cnbc.com/2026/09/29/prediction-market-traders-september-jobs-report-will-beat-estimates.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The higher-than-consensus expectations are a bet that the U.S. had another strong month of job growth.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368227-1790357107027-gettyimages-2297111152-jr_18705_hfko6fmx.jpeg?v=1790357497&amp;w=1920&amp;h=1080",
+   "age": "51m ago",
+   "published": "2026-09-29T19:11:51+00:00"
+  },
+  {
+   "title": "Case Keenum's performance vs. Eagles shows Bears shouldn't rush Caleb Williams' return from injury",
+   "url": "https://www.cbssports.com/nfl/news/case-keenums-performance-vs-eagles-bears-dont-rush-caleb-williams/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/0da42429-4ebf-4162-9998-5aaa9971ffd5/keenumm.jpg",
+   "age": "53m ago",
+   "published": "2026-09-29T19:10:19+00:00"
+  },
+  {
+   "title": "Navy Partially Accepts Carrier John F. Kennedy from HII Newport News Shipbuilding",
+   "url": "https://news.usni.org/2026/09/29/navy-partially-accepts-carrier-john-f-kennedy-from-hii-newport-news-shipbuilding",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The future USS John F. Kennedy (CVN-79) achieved preliminary acceptance Tuesday, one of the last steps before the aircraft carrier formally joins the Navy fleet. JFK, th…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/DCS26-220-168-scaled.jpg",
+   "age": "1h ago",
+   "published": "2026-09-29T19:00:14+00:00"
+  },
+  {
+   "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
+   "url": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during D…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/nachonacho2-e1790701460628.jpg?w=768",
+   "age": "1h ago",
+   "published": "2026-09-29T18:48:03+00:00"
+  },
+  {
+   "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
+   "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
+   "age": "1h ago",
+   "published": "2026-09-29T18:45:00+00:00"
+  },
+  {
+   "title": "Commanders' Jayden Daniels opting against elbow surgery until after season, per report",
+   "url": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-elbow-surgery-later-date/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/9292b6fc-1a09-4018-9991-edd790849bae/j.jpg",
+   "age": "1h ago",
+   "published": "2026-09-29T18:40:31+00:00"
+  },
+  {
+   "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+   "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "So is SpaceX just being selfish or what?",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/KSC-20211027-PH-SPX02_0003orig-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-29T18:34:00+00:00"
+  },
+  {
+   "title": "Navy Identifies EA-18G Growler As Type Involved In Mishap Aboard USS Dwight D. Eisenhower Last Night",
+   "url": "https://www.twz.com/sea/navy-identifies-ea-18g-growler-as-type-involved-in-mishap-aboard-uss-dwight-d-eisenhower-last-night",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The failure of an arresting wire is one of the worst nightmares for naval aircrew and sailors working on the flight deck. The post Navy Identifies EA-18G Growler As Type…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/Growler-mishap.jpg?quality=85",
+   "age": "1h ago",
+   "published": "2026-09-29T18:33:16+00:00"
+  },
+  {
+   "title": "Army awards up to $7B in sprawling counter-drone IDIQ",
+   "url": "https://breakingdefense.com/2026/09/army-awards-up-to-7b-in-sprawling-counter-drone-idiq/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Army awarded 10 companies for a variety of counter-drone tech including sensors, effectors and C2 systems, Brent Ingraham, the head of ASA(ALT), told reporters.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9898286-1024x683.jpg",
+   "age": "1h ago",
+   "published": "2026-09-29T18:30:00+00:00"
+  },
+  {
+   "title": "The drone war will be won on the factory floor, not just the front line",
+   "url": "https://breakingdefense.com/2026/09/the-drone-war-will-be-won-on-the-factory-floor-not-just-the-front-line/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] From FPV drones to autonomous rotorcraft, scale and repeatability are becoming as important as innovation.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Robinson-Article-Lead-Image_Breaking-Defense_600x300_v1.png",
+   "age": "1h ago",
+   "published": "2026-09-29T18:16:00+00:00"
+  },
+  {
+   "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+   "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1840671728-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-09-29T18:11:09+00:00"
+  },
+  {
+   "title": "Apple pressured to explain Trump role in ICE-tracking app removals",
+   "url": "https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Lawmaker rejects Apple excuse for banning ICE-tracking apps as unconstitutional.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2237457256-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-09-29T17:29:14+00:00"
+  },
+  {
+   "title": "Raytheon nets potential $20.7 billion AMRAAM deal",
+   "url": "https://breakingdefense.com/2026/09/raytheon-nets-potential-20-7-billion-amraam-deal/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Separately, L3Harris announced it won a $6 billion contract from Lockheed Martin for THAAD interceptor propulsion systems.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260929_DVIDS_amraam_closeup_9245688-scaled-e1790693990165-1024x577.jpg",
+   "age": "3h ago",
+   "published": "2026-09-29T16:59:08+00:00"
+  },
+  {
+   "title": "Full F-47 Production Line “Not Too Far Away”: USAF General",
+   "url": "https://www.twz.com/air/full-f-47-production-line-not-too-far-away-usaf-general",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Boeing has been proceeding with a multi-billion-dollar expansion of its facilities in St. Louis as the F-47 program continues to ramp up. The post Full F-47 Production L…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/09/f-47-production-line-taking-shape.jpg?quality=85",
+   "age": "3h ago",
+   "published": "2026-09-29T16:53:51+00:00"
+  },
+  {
+   "title": "Makin Island Amphibious Ready Group Deploys from San Diego",
+   "url": "https://news.usni.org/2026/09/29/makin-island-amphibious-ready-group-deploys-from-san-diego",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Makin Island Amphibious Ready Group quietly departed Monday from San Diego for a scheduled deployment, USNI News has learned. Big-deck amphibious warship USS Makin I…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/HTV1aEOXoAAaYl_.jpeg",
+   "age": "3h ago",
+   "published": "2026-09-29T16:40:16+00:00"
+  },
+  {
+   "title": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
+   "url": "https://www.defensenews.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The Defense Department has awarded Raytheon a multiyear contract worth up to $20.7 billion to build Advanced Medium-Range Air-to-Air Missiles, or AMRAAMs.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CRHVBXG55BEEZG5AMNI5PZ6IGQ.jpg",
+   "age": "3h ago",
+   "published": "2026-09-29T16:18:42+00:00"
+  },
+  {
+   "title": "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX",
+   "url": "https://www.defensenews.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "A decommissioned U.S. guided-missile frigate was sent to the bottom of the Atlantic on Sept. 25 during a joint U.S.-U.K. naval exercise.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/Q3ZA3FMXWVGXJM5XU7N3YUZ3TA.png",
+   "age": "3h ago",
+   "published": "2026-09-29T16:11:08+00:00"
+  },
+  {
+   "title": "Don’t cancel the Chicago Bears’ season just yet",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/123903/dont-cancel-the-chicago-bears-season-just-yet-ben-johnson-nfl",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297637608.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "4h ago",
+   "published": "2026-09-29T16:00:00+00:00"
   },
   {
    "title": "NFL Week 4 Power Rankings: Biggest September Surprises",
@@ -40,52 +327,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297459408.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "12m ago",
+   "age": "5h ago",
    "published": "2026-09-29T15:00:00+00:00"
-  },
-  {
-   "title": "After losing his voice to cancer, this founder is building “glasses for voice”",
-   "url": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Uhura Bionics, a TechCrunch Disrupt 2026 Battlefield 200, wants to replace flat, robotics voice devices with one that carries emotions.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1362873121.jpg?resize=1200,800",
-   "age": "12m ago",
-   "published": "2026-09-29T15:00:00+00:00"
-  },
-  {
-   "title": "Apple's $250M Siri settlement: How to claim up to $95",
-   "url": "https://www.foxnews.com/tech/apple-250m-siri-settlement-claim-95",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The $250 million Apple Siri AI settlement is now accepting claims, with eligible iPhone owners potentially receiving up to $95 per device.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/apple-iphone-siri-settlement.jpg?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-09-29T14:57:38+00:00"
-  },
-  {
-   "title": "Oura shelves its $2.2B IPO citing ‘uncertainty’ in the market",
-   "url": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/oura-ring-5-2.jpg?resize=1200,841",
-   "age": "15m ago",
-   "published": "2026-09-29T14:56:55+00:00"
-  },
-  {
-   "title": "Ravens facing unexpected crisis at key offensive position heading into Week 4 game vs. Titans",
-   "url": "https://www.cbssports.com/nfl/news/ravens-crisis-offense-week-4-game-vs-titans/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/04b40037-7c2d-41d3-97db-39bbc29e9f21/ravens-jpeg.jpg",
-   "age": "18m ago",
-   "published": "2026-09-29T14:53:48+00:00"
   },
   {
    "title": "Estonia blames Russia in arson attack on military robotics firm Milrem",
@@ -95,195 +338,30 @@
    "topic": "defense",
    "summary": "Russian special services were behind the fire at a building used by an Estonian military robotics company last month, the government in Tallinn said.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YDOXTUX33VA7XJRF5NC6MTTFHY.jpg",
-   "age": "19m ago",
+   "age": "5h ago",
    "published": "2026-09-29T14:52:40+00:00"
   },
   {
-   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Yankees-Red Sox, Cubs-Padres, MLB Tuesday",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-yankees-red-sox-cubs-padres-mlb-tuesday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
+   "title": "NASCAR Cup Series Driver Challenges Denny Hamlin After Troubling Hendrick Claim",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQnB6eEgxSHlSelc2V09sSzVhdFVYLXFtdzJRUjMwYUpMQ2hENE1JZm96SWlSYVc3dk9tS2d6SmJEUUN5V1loa2xzbFQ1R3VzbFZnaENHbnZIOVd2UThEenBfbk9wSGlLQVRfVndkcVh2Umhici12VWVMeWtGQ1EtaXVTbmlTOXNwX0RrdnpfSmlvNERlZjExQW1RSkd4WERndmdIcDRiV3lLQmpXMmp3YnJn?oc=5",
+   "source": "heavy.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-09-29T13:19:31+00:00"
+  },
+  {
+   "title": "'This is special': Case Keenum delivers impressive performance in Bears' primetime victory",
+   "url": "https://www.chicagobears.com/news/this-is-special-case-keenum-delivers-impressive-performance-in-bears-primetime-victory",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
    "topic": "bears",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
-   "age": "24m ago",
-   "published": "2026-09-29T14:48:17+00:00"
-  },
-  {
-   "title": "Skydivers watch plane vanish from sight, make split-second decision to jump",
-   "url": "https://www.foxnews.com/travel/skydivers-watch-plane-vanish-sight-make-split-second-decision-jump",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Skydive Milwaukee jumpers spotted a single-engine plane vanish behind trees near East Troy, then leaped from their own aircraft to reach victims and try to help.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/WI-SKYDIVERS-RESCUE-PLANE-CRASH-TRAVEL-1.jpg?ve=1&tl=1",
-   "age": "27m ago",
-   "published": "2026-09-29T14:44:49+00:00"
-  },
-  {
-   "title": "Hero cop stopped synagogue massacre in Canada as Jewish group calls for armed guards",
-   "url": "https://www.foxnews.com/world/hero-armed-cop-stopped-synagogue-massacre-canada-jewish-group-calls-armed-guards",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Yom Kippur attack outside Sons of Jacob Synagogue in Belleville has intensified demands for armed security at Jewish institutions across Canada.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bellville-synagogue-shooting-canada.jpg?ve=1&tl=1",
-   "age": "27m ago",
-   "published": "2026-09-29T14:44:42+00:00"
-  },
-  {
-   "title": "Estonia accuses Russia of ordering August arson attack on Milrem",
-   "url": "https://breakingdefense.com/2026/09/estonia-accuses-russia-of-ordering-august-arson-attack-on-milrem/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Despite Russia’s ongoing “reckless campaign of hostile actions,” it is “failing to undermine our unity and support for Ukraine,” NATO Secretary General Mark Rutte said t…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/20260616_122640-1024x577.jpg",
-   "age": "30m ago",
-   "published": "2026-09-29T14:42:16+00:00"
-  },
-  {
-   "title": "US forces exiting Iraq after 2 decades, leaving opening for Iran",
-   "url": "https://www.defensenews.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "U.S. forces are set to depart from their last bases in Iraq by Wednesday, a move celebrated as a victory by Iran and its allies.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TMGJG4YFUJC5FBS55ARIXHX7UQ.JPG",
-   "age": "31m ago",
-   "published": "2026-09-29T14:40:57+00:00"
-  },
-  {
-   "title": "Fruit flies remember their larval diet, which influences their longevity",
-   "url": "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Eating less protein as larvae may limit their ability to produce proteins as adults.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1914127482-1152x648.jpg",
-   "age": "33m ago",
-   "published": "2026-09-29T14:39:25+00:00"
-  },
-  {
-   "title": "Alaska Airlines unveils massive premium cabin overhaul in high-end travel race",
-   "url": "https://www.cnbc.com/2026/09/29/alaska-airlines-hawaiian-new-cabins.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Alaska Airlines is overhauling its Alaska and Hawaiian cabins to include brand-new top-tier suites, a premium economy class and other features.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368513-1790550250137-Hawaiian_A330_Leihk_Suites_rendering_001.JPG?v=1790550287&amp;w=1920&amp;h=1080",
-   "age": "35m ago",
-   "published": "2026-09-29T14:37:09+00:00"
-  },
-  {
-   "title": "Consumer optimism slides sharply as fears escalate over rising prices and jobs",
-   "url": "https://www.cnbc.com/2026/09/29/consumer-optimism-slides-sharply-as-fears-escalate-over-rising-prices-and-jobs.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Conference Board's Consumer Confidence Index tumbled to 81.9, a decline of 6.7 points and a reading well below the forecast for 89.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369303-1790685687796-gettyimages-2297102375-AFP_C9LU96J.jpeg?v=1790685734&amp;w=1920&amp;h=1080",
-   "age": "35m ago",
-   "published": "2026-09-29T14:36:47+00:00"
-  },
-  {
-   "title": "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says",
-   "url": "https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump called the new website, America.gov, \"a restoration of America's founding promise.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369398-1790691949621-gettyimages-2297173674-TRUMP_AMERICAGOV.jpeg?v=1790691976&amp;w=1920&amp;h=1080",
-   "age": "40m ago",
-   "published": "2026-09-29T14:32:15+00:00"
-  },
-  {
-   "title": "Drone-hunting on the border, plus turmoil at an Air Force think tank",
-   "url": "https://breakingdefense.com/2026/09/drone-hunting-on-the-border-plus-turmoil-at-an-air-force-think-tank/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "NORTHCOM is testing ways to counter drone incursions, while an Air Force institute focused on China faces questions about its future.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Bo235-pb-1024x576.png",
-   "age": "49m ago",
-   "published": "2026-09-29T14:22:39+00:00"
-  },
-  {
-   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-   "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Similar performance, security tradeoffs also seen in current public models.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg",
-   "age": "49m ago",
-   "published": "2026-09-29T14:22:31+00:00"
-  },
-  {
-   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-   "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
-   "age": "1h ago",
-   "published": "2026-09-29T14:10:00+00:00"
-  },
-  {
-   "title": "MAJIK Faktory opens its doors for a night of food, makers and ‘Taste the Hype’",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_da5e844c-fb7f-482a-b443-0622f2bcee4f.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Want a taste of what’s being made in Michigan City? MAJIK Faktory is opening its doors for a First Friday celebration that puts local makers in the spotlight.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/1a/81a21fbb-42a2-4f46-b41e-f15e89722425/6abac2a376622.image.jpg?resize=300%2C225",
-   "age": "1h ago",
-   "published": "2026-09-29T14:00:00+00:00"
-  },
-  {
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Yankees-Red Sox, Cubs-Padres, MLB today",
-   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-yankees-red-sox-cubs-padres-mlb-today/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "1h ago",
-   "published": "2026-09-29T13:29:31+00:00"
-  },
-  {
-   "title": "DIU, Space Force team up to kick-start buys of commercial sats for monitoring GEO",
-   "url": "https://breakingdefense.com/2026/09/diu-space-force-team-up-to-kick-start-buys-of-commercial-sats-for-monitoring-geo/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Both firms are working under earlier Pentagon contracts to demonstrate rendezvous and proximity operators that could also support future orbital warfare.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2019/04/GSSAPsatAFSPC-e1677017263840-1024x575.jpg",
-   "age": "2h ago",
-   "published": "2026-09-29T12:58:01+00:00"
-  },
-  {
-   "title": "Gary’s storm aftermath sparked more than anger. It exposed an old divide | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_318a3f28-bf22-4557-a1db-262ca35743ad.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A question about whether old-school Gary residents could have survived today’s storm aftermath sparked anger, memories and a much bigger debate: Who gets to tell Gary’s …",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/b9/db913408-665a-528d-b5f7-4eda2bdce33f/634f0d8103993.image.jpg?resize=300%2C161",
-   "age": "2h ago",
-   "published": "2026-09-29T12:15:00+00:00"
-  },
-  {
-   "title": "French artillery regiment reorganizes guns to survive drone threats",
-   "url": "https://www.defensenews.com/global/2026/09/29/french-artillery-regiment-reorganizes-guns-to-survive-drone-threats/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "A French artillery formation is trialing a new organization of its gun units and support procedures, prompted by drone lessons from the war in Ukraine.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FSLAMLS7TNEHXF6BVVSBDIKQTM.jpg",
-   "age": "4h ago",
-   "published": "2026-09-29T10:34:09+00:00"
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/xcatduxlp8gs8bg52nfq.jpg",
+   "age": "6h ago",
+   "published": "2026-09-29T13:15:13+00:00"
   },
   {
    "title": "Chicago Bears News: Bears 3rd string QB demolish Philadelphia Eagles",
@@ -293,19 +371,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297629487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-09-29T10:00:00+00:00"
-  },
-  {
-   "title": "Bears vs. Jets odds: Opening lines for Week 4 matchup",
-   "url": "https://www.windycitygridiron.com/chicago-bears-odds/123770/bears-vs-jets-odds-week-4-opening-lines-point-spread-total",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2295120976.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-09-29T06:09:58+00:00"
   },
   {
    "title": "Bears 27, Eagles 7: QB Case Keenum steals show in return to starting stage",
@@ -315,74 +382,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/28221637/2026-09-29T022302Z_1905942841_MT1USATODAY29947091_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-1024x683.jpg",
-   "age": "11h ago",
+   "age": "16h ago",
    "published": "2026-09-29T03:19:21+00:00"
   },
   {
-   "title": "Four Injured After Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered",
+   "title": "UPDATED: Four Injured After Growler Landing Mishap Aboard USS Dwight D. Eisenhower, Crew Safely Recovered",
    "url": "https://news.usni.org/2026/09/28/four-injured-after-landing-mishap-aboard-uss-dwight-d-eisenhower-crew-safely-recovered",
    "source": "USNI News",
    "group": "USNI News",
    "topic": "defense",
    "summary": "This post will be updated as new information becomes available. Four personnel were injured in a landing mishap aboard USS Dwight D. Eisenhower (CVN-69) on Monday, USNI …",
    "image": "https://news.usni.org/wp-content/uploads/2026/05/9667243-scaled.jpg",
-   "age": "12h ago",
-   "published": "2026-09-29T03:08:10+00:00"
-  },
-  {
-   "title": "Heavily Damaged Submarine USS Connecticut Now Won’t Return To Service Until 2027",
-   "url": "https://www.twz.com/sea/heavily-damaged-submarine-uss-connecticut-now-wont-return-to-service-until-2027",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Navy hoped Connecticut would be back by 2025, then this year, and it is now planning for its final retirement with repairs still underway. The post Heavily Damaged S…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/uss-connecticut-repair-schedule-slips-to-2027.jpg?quality=85",
    "age": "16h ago",
-   "published": "2026-09-28T22:44:02+00:00"
-  },
-  {
-   "title": "Claims Swirl Around U.S. Marines Injured Aboard Mystery Vessel Attacked In The Strait Of Hormuz",
-   "url": "https://www.twz.com/news-features/claims-swirl-around-u-s-marines-injured-aboard-mystery-vessel-attacked-in-the-strait-of-hormuz",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "At the center of suspicions is a former Royal Mail ship with its own fascinating backstory, but what it was doing at the time is unclear. The post Claims Swirl Around U.…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/St.-Helena-Ship.jpg?quality=85",
-   "age": "17h ago",
-   "published": "2026-09-28T21:26:40+00:00"
-  },
-  {
-   "title": "EU Needs More Ships for Red Sea; European Navies Adjust Hormuz Deployments",
-   "url": "https://news.usni.org/2026/09/28/eu-needs-more-ships-for-red-sea-european-navies-adjust-hormuz-deployments",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The European Union is asking its members to increase the number of ships deployed with European Naval Force Aspides, which is tasked with accompanying merchant ships in …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/minerva_cp_31_8_logo.jpg",
-   "age": "18h ago",
-   "published": "2026-09-28T20:55:06+00:00"
-  },
-  {
-   "title": "Shipbuilder Behind Failed Constellation Class Wants Back Into The U.S. Navy Frigate Business",
-   "url": "https://www.twz.com/sea/shipbuilder-behind-failed-constellation-class-wants-back-into-the-u-s-navy-frigate-game",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Fincantieri wants to leverage its U.S. infrastructure for another new frigate as the Navy is once again looking for foreign 'production ready' designs. The post Shipbuil…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/fremm-evo-for-us-navy-potential.jpg?quality=85",
-   "age": "20h ago",
-   "published": "2026-09-28T19:06:32+00:00"
-  },
-  {
-   "title": "China Claims Expanded Zone Around Scarborough Shoal, Deploys New Drone",
-   "url": "https://news.usni.org/2026/09/28/china-claims-expanded-zone-around-scarborough-shoal-deploys-new-drone",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Chinese forces rehearsed enforcing Beijing’s claim to Scarborough Shoal with drones and boarding drills on Sunday amid state media claims that China has extended its con…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-28-at-2.45.06-PM-scaled.png",
-   "age": "20h ago",
-   "published": "2026-09-28T18:51:50+00:00"
+   "published": "2026-09-29T03:08:10+00:00"
   },
   {
    "title": "NASCAR to further inspect William Byron's car after Kansas in 2026",
@@ -392,7 +404,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-09-28T16:50:21+00:00"
   },
   {
@@ -403,7 +415,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/v5j91s9tjwmfydpkxm1l.jpg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-09-28T15:33:00+00:00"
   },
   {
@@ -429,26 +441,15 @@
    "published": "2026-09-27T20:24:26+00:00"
   },
   {
-   "title": "Northwest Indiana’s disaster safety net faces new test on 'Blue Sky Day' chances | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f1030a5e-15e1-4f42-9bce-88b7607de012.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The Aug. 11 storm exposed a hidden vulnerability in Northwest Indiana’s disaster response: The people residents depend on during a crisis can become victims, too.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/fa/1fa6c9f7-1473-4b6f-bf79-c345fbcae98a/6a80d3447ee0e.image.jpg?resize=300%2C225",
-   "age": "2d ago",
-   "published": "2026-09-27T13:00:00+00:00"
-  },
-  {
-   "title": "Injury Update: Bears rule out Caleb Williams, will start Tyson Bagent or Case Keenum vs. Eagles",
-   "url": "https://www.chicagobears.com/news/injury-update-bears-rule-out-caleb-williams-will-start-tyson-bagent-or-case-keenum-vs-eagles",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
+   "title": "Hendrick Motorsports enters JGR-Spire legal battle to protect trade secrets",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGxqVEpyLXMyRjA0N1FMdkVsQnRwdDJGZUYweS01NE9yXzQwaUFSMDFiY0ZQaktUcUFBdERnRmRFWXZ0REYwd2w4ZjcwRUh3MHcyN2tNb1JWQXlSUGoxb3VoM1l2WVN0RFJtMVgzUXpjZm9OclBrZmZGZDhOd3RjYlMwZTdCcHBhNjFwcWgzamxIZzB4aFpoMWpKazBJMHd4Tm9vTHR5OHdwdm9a?oc=5",
+   "source": "on3.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/h4alidp57lfkgnwbgy7e.jpg",
+   "image": null,
    "age": "2d ago",
-   "published": "2026-09-26T20:05:46+00:00"
+   "published": "2026-09-27T00:16:47+00:00"
   },
   {
    "title": "Bears vs. Eagles Predictions: What’s left in the tank for QB Case Keenum?",
@@ -458,7 +459,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/25195606/2026-08-30T020116Z_1993375445_MT1USATODAY29695160_RTRMADP_3_CHICAGO-QUARTERBACK-CASE-KEENUM-11-DIRECTS-HIS-TEAM-1-1024x576.jpg",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-09-26T18:30:00+00:00"
   }
  ]
