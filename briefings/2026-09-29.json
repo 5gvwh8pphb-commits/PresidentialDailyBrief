@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-29",
+  "dateLabel": "Tuesday, September 29, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-29T15:05:33Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, September 28, 2026 close — all three major indexes fell as the 10-year Treasury yield climbed to its highest level since 2007 and Trump rejected Iran's latest peace overture.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,683.69", "change": "-59.72", "changePct": "-0.77%", "sixMo": "+21%" },
+        { "name": "Dow", "close": "51,481.51", "change": "-347.11", "changePct": "-0.67%", "sixMo": "+14%" },
+        { "name": "Nasdaq", "close": "26,820.38", "change": "-248.34", "changePct": "-0.92%", "sixMo": "+28%" }
+      ],
+      "body": "Rising Treasury yields pressured stocks broadly to start the week, while Trump's rejection of Iran's offer to trade Strait of Hormuz access for an end to the US naval blockade pushed oil prices higher and weighed further on sentiment.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Five men arrested near US-linked RAF Fairford released on bail as Iran, Russia links probed",
+      "body": "UK counter-terrorism police released the five Britons, ages 23-25, on strict bail after questioning over the weekend's bomb-disposal callout near the Gloucestershire base used by American bombers; investigators say they are pursuing multiple lines of inquiry into possible Iran, Russia or non-state militant involvement, while Iran has denied any link.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan says US arms-sale talks continue unchanged after Trump-Xi summit, $14B package still on hold",
+      "body": "Defense Minister Wellington Koo told reporters Washington has repeatedly reassured Taipei that US Taiwan policy is unchanged since last week's summit and that discussions on pending military sales are ongoing, even as a roughly $14 billion arms package remains in abeyance and the first F-16V fighters reportedly sit in Hawaii awaiting delivery.",
+      "source": "Reuters via U.S. News",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-28/taiwan-says-it-is-in-continuous-talks-with-us-about-arms-sales"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Last US troops set to exit Iraq's remaining bases by September 30, ending 20-year mission",
+      "body": "American forces are completing withdrawal from Iraq's final military installations this week under the 2024 drawdown agreement, closing out more than two decades of deployment that cost over 4,500 American lives; Iraqi security officials warn the pullout is premature and could open a security vacuum for Iran-backed armed groups.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Pentagon awards Raytheon $20.7 billion contract to accelerate AMRAAM missile production",
+      "body": "The multiyear award pushes RTX's Raytheon business to ramp up output of the air-to-air missile, also used in the NASAMS system defending Washington and supplied to Ukraine and other allies, as the Pentagon works through munitions shortfalls exposed by conflicts in the Middle East and Ukraine, following the same playbook as July's $58.6 billion Patriot interceptor deal with Lockheed Martin.",
+      "source": "The Spokesman-Review",
+      "url": "https://www.spokesman.com/stories/2026/sep/28/pentagon-awards-rtxs-raytheon-207-billion-contract/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Anthropic releases Claude Sonnet 5.5, over 30% faster and cheaper at the same price",
+      "body": "The new model, available now on Claude.ai and via AWS, Google Cloud and Azure, generates output more than 30% faster and costs up to 30% less per task than Sonnet 5 in Anthropic's testing while keeping the same per-token pricing; Anthropic positions it as the everyday workhorse alongside the more capable Opus 5.5, with a cost-focused Haiku 5.5 coming in the weeks ahead.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~9h ago",
+      "empty": false,
+      "headline": "Coach Ben Johnson calls Caleb Williams' hamstring 'week-to-week,' won't name Sunday's starter",
+      "body": "A day after Case Keenum filled in for the injured Williams, head coach Ben Johnson said the quarterback's hamstring situation remains week-to-week and declined to commit to a starter for Sunday's game against the Jets, while praising Keenum's performance under center.",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/videos/bears-hc-johnson-gives-update-on-caleb-williams"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only Byron coverage in the past 72 hours centers on Sunday's Kansas race result, which falls within the 7-day spoiler window, and no new non-result item — injury, schedule, or sponsorship — surfaced beyond that.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window beyond items already covered in prior briefs, including the 2027 General Assembly Milwaukee announcement and Stated Clerk Fred Greco's recent updates.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
