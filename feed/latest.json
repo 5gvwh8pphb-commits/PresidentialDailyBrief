@@ -1,10 +1,11 @@
 {
- "generated": "2026-09-30T09:07:28+00:00",
+ "generated": "2026-09-30T16:00:02+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
+  "AOL.com",
   "Ars Technica",
   "Breaking Defense",
   "CBS Sports NFL",
@@ -13,47 +14,267 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
+  "On3",
   "TechCrunch",
   "The War Zone",
   "USNI News",
   "Windy City Gridiron",
-  "Yahoo Sports",
-  "heavy.com",
-  "motorsportswire.usatoday.com"
+  "heavy.com"
  ],
  "items": [
   {
-   "title": "Boeing rises 3% after securing U.S. navy deal to develop next-generation fighter jet",
-   "url": "https://www.cnbc.com/2026/09/29/boeing-fighter-contract-pentagon.html",
+   "title": "How to watch, listen to, stream Bears-Jets Week 4 game",
+   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-new-york-jets-week-4-listen-stream-tv-radio-football-online-nfl",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/jhjs7ml8gnsmev7v4tks.jpg",
+   "age": "just now",
+   "published": "2026-09-30T16:34:00+00:00"
+  },
+  {
+   "title": "One NFL team is facing a nightmare early schedule not seen in the last 40 seasons",
+   "url": "https://www.cbssports.com/nfl/news/miami-dolphins-schedule-2026-nfl-history/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/30/075341ff-9ac5-4d2a-882e-5a8ebe091589/hafley.jpg",
+   "age": "2m ago",
+   "published": "2026-09-30T15:57:42+00:00"
+  },
+  {
+   "title": "Instinct’s new product recommendations are giving some users the ick",
+   "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
+   "age": "3m ago",
+   "published": "2026-09-30T15:56:28+00:00"
+  },
+  {
+   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting MLB Playoffs, Yankees-Red Sox on Wednesday",
+   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-mlb-playoffs-yankees-red-sox-wednesday/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
+   "age": "3m ago",
+   "published": "2026-09-30T15:56:23+00:00"
+  },
+  {
+   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+   "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The Department of War and the U.S. Navy said Tuesday that it's chosen aircraft manufacturer Boeing to develop its next generation of fighter jets.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108226723-1763384980852-gettyimages-2246569382-UAE_AIRSHOW.jpeg?v=1774464861&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
-   "published": "2026-09-30T08:51:44+00:00"
+   "summary": "The probe adds to the mounting scrutiny that OpenAI and Anthropic have been facing over their safety practices following the Hugging Face hack.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108238255-17652000292025-12-08t080346z_276670915_rc27cia7uvdx_rtrmadp_0_usa-court-ftc-firing.jpeg?v=1765200048&amp;w=1920&amp;h=1080",
+   "age": "5m ago",
+   "published": "2026-09-30T15:54:38+00:00"
   },
   {
-   "title": "SEN RAND PAUL: Our budget deficit is out of control. Congress must pass my Six Penny Plan",
-   "url": "https://www.foxnews.com/opinion/sen-rand-paul-budget-deficit-out-of-control-congress-must-pass-six-penny-plan",
+   "title": "Panthers put starting cornerbacks Jaycee Horn, Mike Jackson on IR: Options for Carolina include Trevon Diggs",
+   "url": "https://www.cbssports.com/nfl/news/panthers-cornerbacks-jaycee-horn-mike-jackson-ir-options-trevon-diggs/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/30/e26cb0ef-d8a6-4900-9987-218ea89444ea/jaycee-horn-panthers.jpg",
+   "age": "8m ago",
+   "published": "2026-09-30T15:51:29+00:00"
+  },
+  {
+   "title": "Teen killer avoids state’s first female execution in over 200 years – for now",
+   "url": "https://www.foxnews.com/us/teen-killer-avoids-states-first-female-execution-over-200-years-for-now",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The U.S. national debt has surpassed $40 trillion, and my Six Penny Plan aims to balance the budget within five years by cutting six pennies per dollar.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/national-debt-ceiling.jpg?ve=1&tl=1",
-   "age": "16m ago",
-   "published": "2026-09-30T08:50:39+00:00"
+   "summary": "Christa Pike s execution was halted by a Sixth Circuit Court of Appeals stay in a 2-1 split decision, leaving Tennessee s death penalty case unresolved.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/christa-pike-at-trial.png?ve=1&tl=1",
+   "age": "9m ago",
+   "published": "2026-09-30T15:50:33+00:00"
   },
   {
-   "title": "Russia targets data centers in Kyiv as NATO condemns Moscow’s ‘irresponsible nuclear rhetoric’",
-   "url": "https://www.cnbc.com/2026/09/30/ukraine-war-russia-nato-nuclear-kyiv.html",
+   "title": "Trump's latest global tariffs face trade court challenge",
+   "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Russia intensifies attacks on Ukraine’s data centers and communications infrastructure, targeting facilities in Kyiv.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369192-1790666892298-gettyimages-2297040998-AFP_C9KH7T4.jpeg?v=1790757062&amp;w=1920&amp;h=1080",
+   "summary": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369019-1790626408243-gettyimages-2297606349-kbd14093_8akqq6yo.jpeg?v=1790626453&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-09-30T15:44:56+00:00"
+  },
+  {
+   "title": "White Sox look to close out Houston Astros in two games after dominant playoff opener",
+   "url": "https://www.foxnews.com/outkick-betting/white-sox-close-houston-astros-two-games-dominant-playoff-opener",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sean Burke and Hunter Brown face off as the Chicago White Sox look to eliminate the Houston Astros and close out the best-of-three playoff series.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/munetaka-murakami-white-sox-wildcard-fox-news_.jpg?ve=1&tl=1",
+   "age": "31m ago",
+   "published": "2026-09-30T15:28:35+00:00"
+  },
+  {
+   "title": "Early Prime Day coffee and tea deals: $100 Keurig, 31% off Cuisinart kettles and more",
+   "url": "https://www.foxnews.com/deals/october-prime-day-coffee-tea-deals",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Early October Prime Day deals include coffee makers from Keurig and Ninja, Cuisinart kettles, espresso machines, travel mugs and more.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/jira-generated-image-static-f4ff4422-c230-4abb-bc62-c5a1e292f74c.png?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-09-30T15:27:45+00:00"
+  },
+  {
+   "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+   "url": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/11/harbinger-fedex-electric-delivery-truck-series-c-funding-scaled-1.jpg?resize=1200,800",
    "age": "34m ago",
-   "published": "2026-09-30T08:33:09+00:00"
+   "published": "2026-09-30T15:26:02+00:00"
+  },
+  {
+   "title": "Senate expected to vote on stock trading ban, data center bill before election recess",
+   "url": "https://www.cnbc.com/2026/09/30/senate-stock-trading-ban-data-center-election.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Senate will vote on bills that would ban members from trading stocks while in office, and to address data center-related utility costs, amid Democratic opposition.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369459-1790695639030-gettyimages-2264232523-RATEPAYER_PROTECTION_PLEDGE.jpeg?v=1790695687&amp;w=1920&amp;h=1080",
+   "age": "40m ago",
+   "published": "2026-09-30T15:19:39+00:00"
+  },
+  {
+   "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+   "url": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Pledge signed by President Trump and top AI leaders misspells the United States.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+   "age": "1h ago",
+   "published": "2026-09-30T14:50:55+00:00"
+  },
+  {
+   "title": "US withdraws last remaining troops out of Iraq",
+   "url": "https://breakingdefense.com/2026/09/us-withdraws-last-remaining-troops-out-of-iraq/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“As we step back and hand full primary responsibility for Iraq’s security to the Government of Iraq and the brave people of Iraq, US and Coalition forces stationed acros…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/490183-1024x622.jpg",
+   "age": "1h ago",
+   "published": "2026-09-30T14:04:24+00:00"
+  },
+  {
+   "title": "U.S. to Transfer Surveillance Aircraft to the Philippine Coast Guard",
+   "url": "https://news.usni.org/2026/09/30/u-s-to-transfer-surveillance-aircraft-to-the-philippine-coast-guard",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "MANILA, PHILIPPINES – The U.S. will transfer three King Air turboprop planes equipped for maritime domain awareness operations to the Philippine Coast Guard, the Pentago…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-9.55.45-AM-scaled.png",
+   "age": "1h ago",
+   "published": "2026-09-30T14:04:22+00:00"
+  },
+  {
+   "title": "10 Thoughts on the NFL, Week 3 Edition: All Hail Case Keenum",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/123953/10-thoughts-on-the-nfl-week-3-edition-all-hail-case-keenum-patriots-packers-falcons",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297760535.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "2h ago",
+   "published": "2026-09-30T14:00:00+00:00"
+  },
+  {
+   "title": "Riyadh gets closer to F-35s, Damascus presses sovereignty and an expert take on Iran",
+   "url": "https://breakingdefense.com/2026/09/riyadh-gets-closer-to-f-35s-damascus-presses-sovereignty-and-an-expert-take-on-iran/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Middle East Bureau Chief Agnes Helou reviews top news from the region before speaking with defense analyst Ryan Bohl.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/MEDD16-pb-1024x576.png",
+   "age": "2h ago",
+   "published": "2026-09-30T13:30:16+00:00"
+  },
+  {
+   "title": "Chicago Bears Midweek Musings: Phenomenal",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/124016/chicago-bears-midweek-musings-phenomenal",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297642122.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-09-30T13:00:00+00:00"
+  },
+  {
+   "title": "The Army has ‘owned the night’; now it must own the electromagnetic spectrum",
+   "url": "https://breakingdefense.com/2026/09/the-army-has-owned-the-night-now-it-must-own-the-electromagnetic-spectrum/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] Spectrum awareness, resilient connectivity and electronic warfare defenses are becoming central to decision advantage on the modern battlefield.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9823663-1-1024x683.jpg",
+   "age": "3h ago",
+   "published": "2026-09-30T12:28:00+00:00"
+  },
+  {
+   "title": "70 years later, Hobart High’s Class of 1956 still showing up for the future | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_64123169-747e-4da3-a410-7737f8b7c1d4.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Classmates from across the country returned home for their 70th reunion, sharing memories and giving $1,650 to Hobart Historical Society to preserve some of the history …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/01/301c4131-336f-4c87-bed1-6e85becf4173/6abc06061916f.image.jpg?resize=300%2C282",
+   "age": "3h ago",
+   "published": "2026-09-30T12:15:00+00:00"
+  },
+  {
+   "title": "UAE turns to Russian shadow airline for missions in Africa: Investigation",
+   "url": "https://www.defensenews.com/global/mideast-africa/2026/09/30/uae-turns-to-russian-shadow-airline-for-missions-in-africa-investigation/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The company behind these planes, Aviacon Zitotrans, has been sanctioned by the United States, Canada and Ukraine for its support in Russia’s war effort.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HV4FHNLFANGKJBSFXNHOKHKSWI.jpg",
+   "age": "3h ago",
+   "published": "2026-09-30T12:06:52+00:00"
+  },
+  {
+   "title": "Bears Question of the Day: Should Bagent or Keenum start vs. the Jets?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/123939/question-of-the-day-should-bagent-or-keenum-start-vs-the-jets",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297629487.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "4h ago",
+   "published": "2026-09-30T12:00:00+00:00"
+  },
+  {
+   "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+   "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/https-1152x648.jpg",
+   "age": "4h ago",
+   "published": "2026-09-30T11:15:14+00:00"
   },
   {
    "title": "Ukraine’s former defense minister launches ‘Manhattan Project’ for killer robots",
@@ -63,96 +284,19 @@
    "topic": "defense",
    "summary": "Mykhailo Fedorov told Defense News he wants humanoid-like robots on the battlefield within six months and an assault without infantry within a year.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6BUGOIBZ65EMXAPEIU3HLFJ6GA.jpg",
-   "age": "37m ago",
+   "age": "7h ago",
    "published": "2026-09-30T08:29:57+00:00"
   },
   {
-   "title": "Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
-   "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108366663-1790145926116-gettyimages-2285914300-4069_48_489_02_07_2026.jpeg?v=1790752323&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-09-30T07:47:42+00:00"
-  },
-  {
-   "title": "Ohio cancer patient sues hospital after surgeon allegedly amputated wrong leg",
-   "url": "https://www.foxnews.com/us/ohio-cancer-patient-sues-hospital-surgeon-allegedly-amputated-wrong-leg",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "An Ohio woman is now a double amputee after her surgeon allegedly chopped off the wrong leg when she underwent a required amputation procedure.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Selby-General-Hospital-Ohio.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-09-30T06:49:32+00:00"
-  },
-  {
    "title": "NASCAR reveals status of William Byron's No. 24 car at R&D Center",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeGpIMWpfMTl4aklheWd1VjFFMTM0M1hGQnl5dFdUYlkzRjB5bVNWV0FONDRzZVN4MVlxdTNVYlVicDlneFA4WGg0SkhBM0stdmJUakc4Z2hDR01md1NiWVpZQ0k0RWpQeDlPUlc0ams3OFRhSFBuWkFHVTNQOUtabThHeG5NNlJQbmZVZ19RQUtabzhtWjdtRklvNGx3WkdRb2VyeG0weXppVmthaG5TdkFZdFpiRFJYU0piUnhpaEhvd1ViYkxaZXllclB2ZGNBeXZ3b21hS3d0UQ?oc=5",
-   "source": "motorsportswire.usatoday.com",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTS0tN2pLeC1mZ0ZCLWZlTkdSdnN6d0xnT05pc0ppX3hoU0YwWkxuRHdlUlI4Z18yTThHamhva2tKVGhRcUZzZ203NmFieHRBQ0ZZSmtCWXFybDMzbUJXRFJzaWVrajZKOXl3anoxdEo0UHg4cXZZd0FmRUFtNnpORzRtLVpabWM?oc=5",
+   "source": "AOL.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-09-30T05:15:00+00:00"
-  },
-  {
-   "title": "Utah man released after decades on death row as DNA evidence excludes him from 1985 killing",
-   "url": "https://www.foxnews.com/us/utah-man-released-decades-death-row-dna-evidence-excludes-1985-killing",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A Utah man who spent decades on death row was released on bail after DNA evidence excluded him from the 1985 killing of a police chief s aunt.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/douglas-carter-freed-utah-death-row.png?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-09-30T04:55:01+00:00"
-  },
-  {
-   "title": "Apple Pay finally launches in India after years on the sidelines",
-   "url": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1814216780-e1711055311427.jpg?resize=1200,674",
-   "age": "4h ago",
-   "published": "2026-09-30T04:08:00+00:00"
-  },
-  {
-   "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-   "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108219320-1771513159177-108219320-17618308652025-10-30t045346z_297624320_rc20mhalr2rm_rtrmadp_0_usa-china-shenzhen.jpg?v=1771516417&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-09-30T03:39:08+00:00"
-  },
-  {
-   "title": "Are you confident in the Bears and their quarterback room?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/123949/chicago-bears-and-their-quarterback-room-case-keenum-tyson-bagent-caleb-williams-nfl",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/reuters-tagreuters.com2026newsml_MT1USATODAY280368671716018368.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
-   "published": "2026-09-30T03:32:05+00:00"
-  },
-  {
-   "title": "What Boeing’s F/A-XX win means for the company, and what challenges come next",
-   "url": "https://breakingdefense.com/2026/09/what-boeings-f-a-xx-win-means-for-the-company-and-what-challenges-come-next/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The selection also raises questions about how Boeing’s workforce will take on another major program.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/06/Boeing-HQ-e1719847032260-1024x575.jpg",
-   "age": "7h ago",
-   "published": "2026-09-30T01:55:49+00:00"
   },
   {
    "title": "What Boeing’s New Rendering Of Its Winning F/A-XX Fighter Tells Us",
@@ -162,7 +306,7 @@
    "topic": "defense",
    "summary": "With new F/A-XX art and Boeing having now won both the USAF and Navy's next-gen fighter contracts, we can compare concepts. The post What Boeing s New Rendering Of Its W…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/FAXX.jpg?quality=85",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-09-30T00:22:05+00:00"
   },
   {
@@ -173,41 +317,8 @@
    "topic": "defense",
    "summary": "The Pentagon recently announced a $450 million investment in The Elmet Group to strengthen the U.S. supply chain for the critical mineral tungsten.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XBWCAECBJRFNVH7FFJ3LNF6SDQ.JPG",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-09-30T00:03:53+00:00"
-  },
-  {
-   "title": "Chicago Bears Week 4 power rankings roundup",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/123951/chicago-bears-week-4-power-rankings-roundup",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297117664.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-09-30T00:00:00+00:00"
-  },
-  {
-   "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-   "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
-   "age": "9h ago",
-   "published": "2026-09-29T23:30:55+00:00"
-  },
-  {
-   "title": "Bears outplay and outcoach the Eagles",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/123792/chicago-bears-outplay-and-outcoach-philadelphia-eagles-ben-johnson-dennis-allen-case-keenum",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2297639022.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "10h ago",
-   "published": "2026-09-29T22:45:00+00:00"
   },
   {
    "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
@@ -217,41 +328,8 @@
    "topic": "ai",
    "summary": "Retatrutide is a triple-hormone obesity drug simulating GLP-1, GIP, and glucagon.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-09-29T22:30:37+00:00"
-  },
-  {
-   "title": "Navy to purchase 30 MUSVs following at-sea testing",
-   "url": "https://breakingdefense.com/2026/09/navy-to-purchase-30-musvs-following-at-sea-testing/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The contracts come as the Navy expands its marketplace for unmanned systems and moves into the second phase of the MUSV program.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220513-N-OA516-1038-scaled-e1653508351355-1024x576.jpg",
-   "age": "10h ago",
-   "published": "2026-09-29T22:25:05+00:00"
-  },
-  {
-   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-   "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot downlo…",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
-   "age": "10h ago",
-   "published": "2026-09-29T22:20:59+00:00"
-  },
-  {
-   "title": "US Navy selects Boeing to build next-generation F/A-XX fighter",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Boeing has officially been selected to build the Navy’s sixth-generation carrier-based strike fighter, dubbed F/A-XX.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MZFJ5YIWNZBLXDJ2BLAGT4XZ54.jpg",
-   "age": "10h ago",
-   "published": "2026-09-29T22:20:07+00:00"
   },
   {
    "title": "Navy Orders 30 Drone Ships To Finally Advance Its ‘Medium’ Uncrewed Vessel Ambitions",
@@ -261,7 +339,7 @@
    "topic": "defense",
    "summary": "The Navy has taken an important step toward fielding larger USV fleets, an area where it has persistently struggled in the past. The post Navy Orders 30 Drone Ships To F…",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/usn-musv-drone-boat-contracts.jpg?quality=85",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-09-29T22:14:04+00:00"
   },
   {
@@ -272,19 +350,8 @@
    "topic": "ai",
    "summary": "New sculpture depicts AI leaders escaping a sinking ship.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-09-29T21:52:58+00:00"
-  },
-  {
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Red Sox-Yankees, Cubs-Padres, MLB picks",
-   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-red-sox-yankees-cubs-padres-mlb-picks/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "11h ago",
-   "published": "2026-09-29T21:45:42+00:00"
   },
   {
    "title": "Boeing Picked to Build Navy’s F/A-XX Carrier Fighter in Estimated $20B Deal",
@@ -294,41 +361,8 @@
    "topic": "defense",
    "summary": "Boeing will build the Navy’s next-generation fighter after decades of indecision on the future of the carrier air wing, according to a Tuesday Pentagon announcement. The…",
    "image": "https://news.usni.org/wp-content/uploads/2026/09/boeing_fa-xx_concept_-_hd.jpg",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-09-29T21:42:33+00:00"
-  },
-  {
-   "title": "Boeing Wins F/A-XX Next Generation Navy Stealth Fighter Contract (Updated)",
-   "url": "https://www.twz.com/air/boeing-wins-f-a-xx-next-generation-navy-stealth-fighter-contract",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "F/A-XX has been a very highly anticipated contract award, especially after the Pentagon previously tried to freeze the program. The post Boeing Wins F/A-XX Next Generati…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/FAXX-Boeing-Win-Navy.jpg?quality=85",
-   "age": "11h ago",
-   "published": "2026-09-29T21:40:30+00:00"
-  },
-  {
-   "title": "Boeing wins Navy next-gen fighter F/A-XX competition",
-   "url": "https://breakingdefense.com/2026/09/boeing-navy-ngad-faxx-next-gen-fighter-competition-northrop/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Boeing s win gives it a monopoly on American sixth-gen fighters, following its 2025 selection to build the F-47.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Boeing-faax-BIG-1024x612.jpg",
-   "age": "11h ago",
-   "published": "2026-09-29T21:26:24+00:00"
-  },
-  {
-   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-   "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg",
-   "age": "11h ago",
-   "published": "2026-09-29T21:14:49+00:00"
   },
   {
    "title": "3 Louisiana Shipyards to Build 30 Drone Ships in $1.2B Navy MUSV Deal",
@@ -338,19 +372,8 @@
    "topic": "defense",
    "summary": "Three Louisiana-based shipyards will build unmanned surface vessels for the U.S. Navy following recent at-sea testing, the service announced Tuesday. The three companies…",
    "image": "https://news.usni.org/wp-content/uploads/2026/05/Saronic-Marauder-MUSV-3-1536x882.jpg.jpeg",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-09-29T21:14:12+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Yankees-Red Sox, Padres-Cubs, MLB playoffs",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-yankees-red-sox-padres-cubs-mlb-playoffs/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
-   "age": "12h ago",
-   "published": "2026-09-29T20:51:27+00:00"
   },
   {
    "title": "Bears rookie safety Dillon Thieneman nabs ‘huge’ first interception, defense shuts down Eagles",
@@ -360,30 +383,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/29151423/2026-09-29T015522Z_845452791_MT1USATODAY29946836_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-09-29T20:21:41+00:00"
-  },
-  {
-   "title": "Giants release Odell Beckham Jr.: Landing spots for veteran pass-catcher include Rams",
-   "url": "https://www.cbssports.com/nfl/news/new-york-giants-release-odell-beckham-jr/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/23ca76c4-a351-4930-b4a5-0d270f8e5910/obj.jpg",
-   "age": "12h ago",
-   "published": "2026-09-29T20:21:37+00:00"
-  },
-  {
-   "title": "UPDATED: Navy Partially Accepts Carrier John F. Kennedy, HII Newport News Awarded USS Harry S. Truman Overhaul Contract",
-   "url": "https://news.usni.org/2026/09/29/navy-partially-accepts-carrier-john-f-kennedy-from-hii-newport-news-shipbuilding",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The future USS John F. Kennedy (CVN-79) achieved preliminary acceptance Tuesday, one of the last steps before it formally joins the fleet, as carrier USS Harry S. Truman…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/DCS26-220-168-scaled.jpg",
-   "age": "14h ago",
-   "published": "2026-09-29T19:00:14+00:00"
   },
   {
    "title": "Bears' Week 5 game vs. Packers moved to noon CT kickoff",
@@ -393,8 +394,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/kpd9zbmjmgbn1o2cw7pn.jpg",
-   "age": "17h ago",
+   "age": "1d ago",
    "published": "2026-09-29T15:30:00+00:00"
+  },
+  {
+   "title": "MAJIK Faktory opens its doors for a night of food, makers and ‘Taste the Hype’",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_da5e844c-fb7f-482a-b443-0622f2bcee4f.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Want a taste of what’s being made in Michigan City? MAJIK Faktory is opening its doors for a First Friday celebration that puts local makers in the spotlight.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/1a/81a21fbb-42a2-4f46-b41e-f15e89722425/6abac2a376622.image.jpg?resize=300%2C225",
+   "age": "1d ago",
+   "published": "2026-09-29T14:00:00+00:00"
   },
   {
    "title": "NASCAR Cup Series Driver Challenges Denny Hamlin After Troubling Hendrick Claim",
@@ -404,7 +416,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "19h ago",
+   "age": "1d ago",
    "published": "2026-09-29T13:19:31+00:00"
   },
   {
@@ -415,8 +427,30 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/xcatduxlp8gs8bg52nfq.jpg",
-   "age": "19h ago",
+   "age": "1d ago",
    "published": "2026-09-29T13:15:13+00:00"
+  },
+  {
+   "title": "Gary’s storm aftermath sparked more than anger. It exposed an old divide | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_318a3f28-bf22-4557-a1db-262ca35743ad.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A question about whether old-school Gary residents could have survived today’s storm aftermath sparked anger, memories and a much bigger debate: Who gets to tell Gary’s …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/b9/db913408-665a-528d-b5f7-4eda2bdce33f/634f0d8103993.image.jpg?resize=300%2C161",
+   "age": "1d ago",
+   "published": "2026-09-29T12:15:00+00:00"
+  },
+  {
+   "title": "Kyle Larson pushes back on Denny Hamlin’s Hendrick-Toyota claim",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN2tsZzY5NW1kR3h5MXd1VlZmY2FJZ2lSWkV1bzM3T3VSQ204Y2sxWkFjRlBYWHJibHpsQVdRbkhRYVJBT2JISHJRYjh0ZklCUTdkT3RNUFNoU05LNDVCNmNsSUl2WGFmX3YwMEdYQmU4d3JUM3E3Sk9DSV9SLVRya1RGTFJ6b0ZPU3ZKYlQxMGVQUjJMd0Y4LXYzYw?oc=5",
+   "source": "On3",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-09-29T11:24:55+00:00"
   },
   {
    "title": "Bears 27, Eagles 7: QB Case Keenum steals show in return to starting stage",
@@ -428,39 +462,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/28221637/2026-09-29T022302Z_1905942841_MT1USATODAY29947091_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-1024x683.jpg",
    "age": "1d ago",
    "published": "2026-09-29T03:19:21+00:00"
-  },
-  {
-   "title": "NASCAR to further inspect William Byron's car after Kansas in 2026",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcl9MZmxwQk5mb2Zxby1XWWdCRkxtb1EyR2xjN1RzSFB6T3Q4Ym5Sd1U3VHlxSGJnNUQ0ZmdJWWJpa0tYUHN2SE5MWEVCSS1UM3dmVGQ1UFBZa1BvVkZwaXlpNTVoSWtwVkpnQVRMQTAwSW8yME92SHhVVk90cWVHMG5rQVM4c0FuTjFDUlppdw?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-09-28T16:50:21+00:00"
-  },
-  {
-   "title": "Game Preview: Eagles vs. Bears | 2026 Week 3",
-   "url": "https://www.chicagobears.com/news/game-preview-eagles-vs-bears-2026-week-3",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/v5j91s9tjwmfydpkxm1l.jpg",
-   "age": "1d ago",
-   "published": "2026-09-28T15:33:00+00:00"
-  },
-  {
-   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 3 against the Eagles",
-   "url": "https://allchgo.com/bears/the-rundown-need-to-know-bears-week-3-against-eagles/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/09/27152027/2025-10-19T164402Z_484675269_MT1USATODAY27368957_RTRMADP_3_NFL-NEW-ORLEANS-SAINTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-09-27T20:24:26+00:00"
   }
  ]
 }
