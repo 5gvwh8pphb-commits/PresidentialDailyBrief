@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-30",
+  "dateLabel": "Wednesday, September 30, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-09-30T09:07:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, September 29, 2026 close — stocks slipped for a second straight session as long-term Treasury yields climbed to multi-decade highs.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,670.84", "change": "-12.85", "changePct": "-0.16%", "sixMo": "+21%" },
+        { "name": "Dow", "close": "51,349.92", "change": "-131.59", "changePct": "-0.26%", "sixMo": "+14%" },
+        { "name": "Nasdaq", "close": "26,797.54", "change": "-22.84", "changePct": "-0.09%", "sixMo": "+29%" }
+      ],
+      "body": "The 30-year Treasury yield pushed above 5.6%, its highest since June 2002, pressuring equities broadly even as the moves stayed modest across all three indexes.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "South Africa summons US ambassador for a third time over 'undiplomatic conduct'",
+      "body": "South Africa's foreign ministry called in Ambassador Leo Brent Bozell III on Tuesday, the third such demarche since he arrived in Pretoria in February, following his recent public criticism of South African land, race and hate-speech policy; the government did not detail the specific conduct at issue.",
+      "source": "U.S. News (Reuters)",
+      "url": "https://www.usnews.com/news/world/articles/2026-09-30/south-africa-summons-us-ambassador-again-over-undiplomatic-conduct-official-says"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "House Speaker Johnson says Taiwan's stability is a US priority, ties delayed arms deal to Iran conflict",
+      "body": "Asked on Fox Business whether Trump is using the stalled $14 billion Taiwan arms package as trade leverage with Beijing, House Speaker Mike Johnson said the delay is tied to Middle East munitions demands from the Iran conflict rather than the trade relationship, and noted Trump's two terms will total roughly $40 billion in Taiwan arms sales, about double Obama's total.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/29/2003865090"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US military declares its 12-year Iraq withdrawal complete",
+      "body": "Pentagon spokesman Sean Parnell said Wednesday that the last American troops and equipment completed an orderly departure from the base in Irbil in northern Iraq, ending the mission against ISIS and shifting to a normal bilateral security relationship; the departing forces are relocating to Jordan, and Kurdish officials have voiced concern about a resulting security vacuum.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/30/middleeast/us-military-withdrawal-iraq-intl"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Navy picks Boeing over Northrop Grumman to build F/A-XX sixth-generation fighter",
+      "body": "The contract, valued at more than $20 billion, moves the carrier-based F/A-XX into full-scale development to eventually replace the F/A-18 Super Hornet fleet; the win gives Boeing a monopoly on America's next-generation fighters after it was also picked last year to build the Air Force's F-47, which is targeting first flight as early as 2028.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic, OpenAI, Google, Meta, Nvidia and xAI CEOs sign White House AI self-policing accord",
+      "body": "Dario Amodei joined Sundar Pichai, Mark Zuckerberg, Greg Brockman, Jensen Huang and Elon Musk at a White House meeting to sign a voluntary pledge — which Trump called 'almost like a constitution' — committing the companies to internal safety controls, independent external audits and board-level oversight committees, while Trump reiterated the government will not otherwise restrict AI development.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/09/30/nx-s1-5985699/trump-self-police-ai-development"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "NFL flexes Bears-Packers Week 5 game out of its Fox afternoon window to a noon kickoff",
+      "body": "The league moved the Lambeau Field matchup to a noon slot, swapping in Seahawks-49ers for the premium afternoon window, even though Caleb Williams is projected to potentially be back from his hamstring injury by then; Chicago still hasn't named a starter for Sunday's game against the Jets, with Case Keenum coming off a strong relief outing and Tyson Bagent cleared from concussion protocol.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/29/even-with-qb-caleb-williams-potentially-returning-nfl-moves-bears-packers-week-5-game-to-noon-kickoff"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only recent Byron coverage concerns his Kansas Speedway finish and the post-race inspection of his car, both within the 7-day spoiler/dedup window, and no new injury, schedule or sponsorship item surfaced beyond that.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; the most recent notable development, Rev. Burk Parsons' resignation from the denomination, dates to September 14 and falls outside the recency window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
