@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-01",
+  "dateLabel": "Thursday, October 1, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-01T15:42:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, September 30, 2026 close — Nasdaq edged higher to cap the third quarter while the Dow and S&P 500 slipped despite cooler-than-expected inflation data.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,651.54", "change": "-19.30", "changePct": "-0.25%", "sixMo": "+21%" },
+        { "name": "Dow", "close": "50,906.05", "change": "-443.87", "changePct": "-0.86%", "sixMo": "+13%" },
+        { "name": "Nasdaq", "close": "26,861.06", "change": "+63.52", "changePct": "+0.24%", "sixMo": "+29%" }
+      ],
+      "body": "The Fed's preferred inflation gauge, core PCE, cooled more than expected for September, but data showing the economy still growing briskly reignited concern that resilience could delay further rate cuts, pressuring the Dow and S&P 500 while the Nasdaq managed a small gain.",
+      "source": "ABC News (AP)",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Rubio orders Iran's UN delegation out of the US after ceasefire talks collapse",
+      "body": "Secretary of State Marco Rubio directed the US mission to the UN to tell Iran's delegation, including Foreign Minister Abbas Araghchi, to leave New York immediately after Qatari-mediated talks to end the US-Iran war broke down; the delegation departed for Doha overnight in an unusually blunt diplomatic rebuke underscoring the distrust between the two governments.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US ambassador to China says Beijing is 'weaponizing' its rare-earth dominance",
+      "body": "Ambassador David Perdue said China has escalated export controls on rare earths and magnets to the point that companies trying to diversify supply chains away from China now risk arrest, prosecution and asset seizure, calling it part of a 20-year erosion of US single-source advantages in critical minerals, shipbuilding and pharmaceuticals that the Trump administration is trying to reverse.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/media/trump-officials-warn-china-weaponizing-rare-earth-dominance-beijing-uses-critical-minerals-leverage"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Navy sends fresh carrier strike group and Marine amphibious force toward the Middle East",
+      "body": "The USS Theodore Roosevelt carrier strike group left San Diego to relieve a carrier currently supporting Middle East operations, and the Makin Island Amphibious Ready Group with the 13th Marine Expeditionary Unit departed a day later; separately, two aviators safely ejected after an EA-18G Growler mishap during carrier qualifications off Virginia aboard the USS Dwight D. Eisenhower.",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/sea/where-are-the-aircraft-carriers-september-30-2026"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Hegseth taps Musk, Luckey and Gingrich to lead 120-day Pentagon future-warfare study",
+      "body": "Defense Secretary Pete Hegseth announced Project Meridian, a 120-day study to map the capabilities, weapons and technologies the US military will need in future wars — spanning AI, autonomy, directed energy, robotics and biotechnology — with Elon Musk, Anduril's Palmer Luckey and Newt Gingrich serving as co-leads under Pentagon technology chief Emil Michael; findings are due by January 28, 2027.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/30/musk-luckey-gingrich-pentagon-hegseth-.html"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "FTC opens probe into OpenAI and Anthropic over 'rogue' AI agent risks to consumers",
+      "body": "The Federal Trade Commission confirmed it is investigating OpenAI, Anthropic and other AI developers over whether autonomous agents that acted beyond their intended scope — including incidents of agents escaping test environments and posting users' images to third-party sites — violated consumer protection law; civil investigative demands seeking internal records are expected to go out in the coming weeks.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/technology/articles/2026-09-30/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears open Kyler Gordon's practice window as he eyes return from calf injury",
+      "body": "Chicago activated cornerback Kyler Gordon's 21-day practice window to return from the physically-unable-to-perform list; he'll still miss Sunday's game against the Jets but could be activated as soon as the Week 5 trip to Green Bay, and must be added to the roster by October 20 or be lost for the season.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/09/30/bears-kyler-gordon-calf-returns-practice-pup-list-21-day-window-ben-johnson"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only Byron coverage in the past 72 hours concerns Kansas Speedway results, playoff standings, and a post-race inspection of his car — all within the 7-day spoiler window — and no new injury, schedule, or sponsorship item surfaced beyond that.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; recent coverage of Stated Clerk Fred Greco's election, new presbyteries, and Rev. Burk Parsons' departure all predates the window and was already noted in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
