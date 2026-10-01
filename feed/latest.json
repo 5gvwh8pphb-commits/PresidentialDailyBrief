@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-01T19:07:30+00:00",
+ "generated": "2026-10-01T23:16:24+00:00",
  "count": 40,
- "withImage": 34,
+ "withImage": 35,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -10,8 +10,8 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "Hendrick Motorsports",
   "On3",
-  "Speedway Digest",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -20,26 +20,268 @@
  ],
  "items": [
   {
-   "title": "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
-   "url": "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Oil prices rose sharply Thursday, following a report the U.S. is sending a third aircraft-carrier strike group to the Middle East.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108356580-17881988002026-08-31t175100z_942363201_rc2i9nahptc6_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1788198838&amp;w=1920&amp;h=1080",
-   "age": "4m ago",
-   "published": "2026-10-01T19:03:25+00:00"
+   "title": "Kratom industry warns synthetic opioids should not be called 'kratom'",
+   "url": "https://www.foxnews.com/health/kratom-industry-warns-synthetic-opioids-should-not-be-called-kratom",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The American Kratom Association claims products found near two dead Ole Miss students were synthetic opioids, not natural kratom, amid pending toxicology.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/kratom-capsules.jpeg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-10-01T23:01:17+00:00"
   },
   {
-   "title": "The September jobs report will be released Friday. Here's what to expect",
-   "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html",
+   "title": "Mamdani pledges millions to combat antisemitism while leaving key question unresolved",
+   "url": "https://www.foxnews.com/politics/mamdani-pledges-millions-combat-antisemitism-leaving-key-question-unresolved",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New York Mayor Zohran Mamdani s antisemitism task force boosts funding from $3M to $29M but refuses to adopt a formal definition of anti-Jewish hate.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/mamdani.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-10-01T23:00:48+00:00"
+  },
+  {
+   "title": "Virginia State University accused of suppressing Christian student ministries while Muslim groups are exempt",
+   "url": "https://www.foxnews.com/media/virginia-state-university-accused-suppressing-christian-student-ministries-while-muslim-groups-exempt",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Alliance Defending Freedom sued Virginia State University over a policy allegedly forcing Christian student groups under a university-appointed minister.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/virginia_state_university.jpg?ve=1&tl=1",
+   "age": "21m ago",
+   "published": "2026-10-01T22:54:36+00:00"
+  },
+  {
+   "title": "College football moves closer to 24-game playoff and the destruction of the best regular season in sports",
+   "url": "https://www.foxnews.com/outkick-sports/college-football-moves-closer-24-game-playoff-destruction-best-regular-season-sports",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The college football playoff expansion to 24 teams appears all but certain after key executives met this week, potentially reshaping the regular season.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/cfp-trophy.jpg?ve=1&tl=1",
+   "age": "26m ago",
+   "published": "2026-10-01T22:50:08+00:00"
+  },
+  {
+   "title": "Le'Veon Bell accuses Pittsburgh Steelers of racial bias in comparing treatment of Black and White draftees",
+   "url": "https://www.foxnews.com/outkick-sports/leveon-bell-accuses-pittsburgh-steelers-racial-bias-comparing-treatment-black-white-draftees",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Le Veon Bell claims the Pittsburgh Steelers don t pay their black draft picks while paying white ones, but the facts tell a very different story.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/2025-09-03t061715z_524679369_mt1usatoday26988596_rtrmadp_3_ncaa-football-robert-morris-at-west-virginia.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-10-01T22:43:50+00:00"
+  },
+  {
+   "title": "Ukraine Claims First Combat Use Of FP-7 Ballistic Missile",
+   "url": "https://www.twz.com/news-features/ukraine-claims-first-combat-use-of-fp-7-ballistic-missile",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The first combat use of FP-7 is a significant milestone in what has been a long road to developing an indigenous ballistic missile. The post Ukraine Claims First Combat …",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/FP-7-BALLISTIC-MISSILE.jpg?quality=85",
+   "age": "40m ago",
+   "published": "2026-10-01T22:36:17+00:00"
+  },
+  {
+   "title": "US Navy awards RTX’s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The deal for the SM-6 interceptors comes as the Pentagon pushes to replenish munitions stockpiles depleted by conflicts in the Middle East.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/TI4GBTVCMFGWHGVVCCTJ5634PI.jpg",
+   "age": "1h ago",
+   "published": "2026-10-01T22:05:46+00:00"
+  },
+  {
+   "title": "DoD obligates $142B from reconciliation bill before deadline, leaving billions subject to cuts",
+   "url": "https://breakingdefense.com/2026/10/dod-obligates-142b-from-reconciliation-bill-before-deadline-leaving-billions-subject-to-cuts/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Any funding from last year s reconciliation bill left unspent by the Pentagon suffers an 8.3 percent cut known as sequestration as fiscal 2027 starts.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/08/250812_trump_reconciliation_GettyImages-2223602541-e1755010493318.jpg",
+   "age": "1h ago",
+   "published": "2026-10-01T21:57:29+00:00"
+  },
+  {
+   "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+   "url": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-836662650.jpg?resize=1200,675",
+   "age": "1h ago",
+   "published": "2026-10-01T21:57:08+00:00"
+  },
+  {
+   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+   "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+   "age": "1h ago",
+   "published": "2026-10-01T21:55:22+00:00"
+  },
+  {
+   "title": "Navy Brings In 45,112 Recruits in FY 2026",
+   "url": "https://news.usni.org/2026/10/01/navy-brings-in-45112-recruits-in-fy-2026",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Navy brought in at least 45,112 active-duty enlisted sailors in Fiscal Year 2026, according to the sea service’s final numbers, released Thursday. The Navy announced…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9842434.jpg",
+   "age": "1h ago",
+   "published": "2026-10-01T21:48:32+00:00"
+  },
+  {
+   "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+   "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368226-1790357107689-gettyimages-2297111114-jr_18726_qicaeixs.jpeg?v=1790357497&amp;w=1920&amp;h=1080",
-   "age": "12m ago",
-   "published": "2026-10-01T18:55:02+00:00"
+   "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369711-1790707248567-gettyimages-2297751509-emaz-1_em28393.jpeg?v=1790869522&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-01T21:34:44+00:00"
+  },
+  {
+   "title": "Trump could target three Fed governors. Removing them may be harder than it looks",
+   "url": "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108176747-17533904772025-07-24t205311z_1758754148_rc28tfa7ipby_rtrmadp_0_usa-trump-fed.jpeg?v=1790886956&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-01T21:14:49+00:00"
+  },
+  {
+   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+   "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+   "age": "2h ago",
+   "published": "2026-10-01T21:08:11+00:00"
+  },
+  {
+   "title": "Can’t start, won’t start: Over 150 new military programs face delay under a CR",
+   "url": "https://breakingdefense.com/2026/10/cant-start-wont-start-over-150-new-military-programs-face-delay-under-a-cr/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Defense Department will be operating under a continuing resolution until lawmakers successfully pass a fiscal 2027 budget.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/11/pentagon3-1024x558.jpg",
+   "age": "2h ago",
+   "published": "2026-10-01T20:56:55+00:00"
+  },
+  {
+   "title": "Boeing engineers and technical workers approve new contract, avoiding strike",
+   "url": "https://www.cnbc.com/2026/10/01/boeing-contract-engineers-technical-workers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The work group comprises Boeing's largest white-collar union.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108371276-1790880093675-gettyimages-2271074553-BOEING_FACTORY.jpeg?v=1790880143&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-01T20:52:52+00:00"
+  },
+  {
+   "title": "Europe’s winter energy crunch may already be underway. Two U.S. stocks that may benefit",
+   "url": "https://www.cnbc.com/2026/10/01/europes-winter-energy-crunch-may-already-be-underway-two-us-stocks-that-may-benefit.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "BP's largest oil discovery in 25 years. What it means for the stock.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108317201-1780643697313-gettyimages-2268269844-koutsokostas-notitle260328_npyVx.jpeg?v=1780643860&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-01T20:41:38+00:00"
+  },
+  {
+   "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+   "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "It has been a bad month for federal government cybersecurity.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
+   "age": "2h ago",
+   "published": "2026-10-01T20:28:45+00:00"
+  },
+  {
+   "title": "How Hegseth envisions a new Autonomous Warfare Command",
+   "url": "https://breakingdefense.com/2026/10/how-hegseth-envisions-a-new-autonomous-warfare-command/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Pentagon wants to combine drone procurement and operations under a new command, but Congress will have a say.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/PB17-pb-1024x576.png",
+   "age": "3h ago",
+   "published": "2026-10-01T20:15:00+00:00"
+  },
+  {
+   "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+   "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+   "age": "3h ago",
+   "published": "2026-10-01T20:11:55+00:00"
+  },
+  {
+   "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Ukraine has deployed its FP-7 tactical ballistic missile in combat for the first time, President Volodymyr Zelenskyy said on Thursday.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QZLLTKUZORETZJQHBPOQAGD2LA.jpg",
+   "age": "3h ago",
+   "published": "2026-10-01T19:54:35+00:00"
+  },
+  {
+   "title": "ChatGPT can now virtually try on clothes for you",
+   "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a …",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+   "age": "3h ago",
+   "published": "2026-10-01T19:21:53+00:00"
+  },
+  {
+   "title": "Inside Ukraine’s First Combat Deployment Of Robotic Amphibious Vehicles",
+   "url": "https://www.twz.com/land/inside-ukraines-first-combat-deployment-of-robotic-amphibious-vehicles",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The commander of a Ukrainian uncrewed ground vehicle unit gives us exclusive insights into how vehicles were designed or modified for amphibious combat operations. The p…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/Ukraine-Amphibious-robotic-vehicles.jpg?quality=85",
+   "age": "3h ago",
+   "published": "2026-10-01T19:20:50+00:00"
+  },
+  {
+   "title": "Can good design stop content creators from having sex in robotaxis?",
+   "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Autonomous vehicle designers have to worry about riders getting frisky in public.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-boink-taxi-1152x648.jpg",
+   "age": "3h ago",
+   "published": "2026-10-01T19:19:42+00:00"
   },
   {
    "title": "3 Navy Ships Decommissioned, Cruiser USS Robert Smalls Makes Final Homeport Change",
@@ -49,96 +291,8 @@
    "topic": "defense",
    "summary": "Three warships were recently decommissioned as Fiscal Year 2026 came to a close on Wednesday. The Navy bid farewell to Whidbey Island-class dock landing ship USS Germant…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9977196-scaled.jpg",
-   "age": "18m ago",
+   "age": "4h ago",
    "published": "2026-10-01T18:48:40+00:00"
-  },
-  {
-   "title": "General Motor Q3 sales drop 5.5%, while Toyota buoyed by EVs, hybrids",
-   "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "GM's sales of all-electric vehicles are down across the board, as enthusiasm for electric vehicles wanes.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108297748-1777306663678-108297748-1777306612467-gettyimages-2257773075-GM_EARNS.jpg?v=1777306674&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
-   "published": "2026-10-01T18:43:00+00:00"
-  },
-  {
-   "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-   "url": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
-   "age": "31m ago",
-   "published": "2026-10-01T18:35:55+00:00"
-  },
-  {
-   "title": "Reporter's Notebook: Congress dodged a fall shutdown, but the real fight looms",
-   "url": "https://www.foxnews.com/politics/reporters-notebook-congress-dodged-fall-shutdown-real-fight-looms",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Congress avoided a government shutdown this fall, but midterm elections could spark a December spending battle or a new shutdown in early 2027.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/us-capitol-building-2026.jpg?ve=1&tl=1",
-   "age": "34m ago",
-   "published": "2026-10-01T18:32:46+00:00"
-  },
-  {
-   "title": "Make unknown callers explain why they're calling",
-   "url": "https://www.foxnews.com/tech/make-unknown-callers-explain-why-theyre-calling",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "iPhone, Google Pixel and Samsung Galaxy phones now offer call screening that asks unknown callers to identify themselves before your phone rings.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/man-glasses-smartphone-home-office.jpg?ve=1&tl=1",
-   "age": "37m ago",
-   "published": "2026-10-01T18:30:09+00:00"
-  },
-  {
-   "title": "Google unveils latest AI model, but Wall Street wants a breakout personal agent",
-   "url": "https://www.cnbc.com/2026/10/01/google-gemini-4-arrives-as-wall-street-shifts-to-personal-agents.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Google is promising major advances in coding and cybersecurity, but the company is quickly falling behind in personal agents.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108338700-1784743358981-gettyimages-2276601971-GOOGLE_IO.jpeg?v=1784743385&amp;w=1920&amp;h=1080",
-   "age": "37m ago",
-   "published": "2026-10-01T18:29:49+00:00"
-  },
-  {
-   "title": "Joe Burrow's girlfriend shares cheating hot take, woman's sister hooked up with her date & regaining the spark",
-   "url": "https://www.foxnews.com/outkick-sports/joe-burrow-girlfriend-shares-cheating-hot-take-womans-sister-hooked-up-date-regaining-spark",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Olivia Ponton reveals on her podcast that cheating plagued all her past relationships, while Brooke Hogan opens up about Hulk Hogan s betrayal.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/nfl-olivia-ponton-123025-1.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-10-01T18:25:06+00:00"
-  },
-  {
-   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-   "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "age": "52m ago",
-   "published": "2026-10-01T18:14:42+00:00"
-  },
-  {
-   "title": "Jayden Daniels does not dismiss playing Sunday against the Colts in London after ugly elbow dislocation injury",
-   "url": "https://www.foxnews.com/outkick-sports/jayden-daniels-not-dismiss-playing-sunday-colts-london-after-ugly-elbow-dislocation-injury",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jayden Daniels spoke to reporters in London and hinted he could return Sunday against the Indianapolis Colts after his elbow dislocation injury.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/nfl-commanders-jayden-daniels-110325-1.jpg?ve=1&tl=1",
-   "age": "55m ago",
-   "published": "2026-10-01T18:12:08+00:00"
   },
   {
    "title": "Marvel releases one last VisionQuest trailer",
@@ -148,19 +302,8 @@
    "topic": "ai",
    "summary": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/vision3-1152x638.jpg",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-10-01T18:04:48+00:00"
-  },
-  {
-   "title": "FanDuel Sportsbook Promo Code: $250 in Bonus Bets Available for Steelers vs Browns",
-   "url": "https://www.foxnews.com/outkick-betting/fanduel-sportsbook-promo-code-250-bonus-bets-available-steelers-vs-browns",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Use FanDuel to wager $5 or more on Steelers vs. Browns and earn $50 in bonus bets each day for five days, totaling $250.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/524/pittsburgh-steelers-fans-nfl-draft-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-01T18:02:12+00:00"
   },
   {
    "title": "Over the Finnish line: Helsinki welcomes home first two F-35 jets",
@@ -170,30 +313,8 @@
    "topic": "defense",
    "summary": "In 2021, Helsinki ordered 64 of the stealth aircraft in a deal valued at $9.4 billion as a replacement for aging US-made F/A-18 Hornet fourth-generation fighters.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Finland-first-F-35-e1790873579997.jpg",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-10-01T17:58:00+00:00"
-  },
-  {
-   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-   "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
-   "age": "1h ago",
-   "published": "2026-10-01T17:50:19+00:00"
-  },
-  {
-   "title": "Memory executives expect RAM shortage to continue through 2028",
-   "url": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
-   "age": "1h ago",
-   "published": "2026-10-01T17:49:56+00:00"
   },
   {
    "title": "Boeing adds to big week with first full-rate Grey Wolf helicopter order",
@@ -203,7 +324,7 @@
    "topic": "defense",
    "summary": "The U.S. Air Force awarded Boeing a roughly $85 million contract for four more MH-139A Grey Wolf helicopters, with the first under full-rate production.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ABPRLK62PND5FGATYIKRXZCHI4.jpg",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-10-01T17:49:35+00:00"
   },
   {
@@ -214,19 +335,8 @@
    "topic": "defense",
    "summary": "Five companies were selected to deliver prototypes of a missile capable of hitting moving, long-range maritime targets to the U.S. Army, the ground service announced Tue…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/PrSM-Flight-Test.jpg",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-10-01T17:44:52+00:00"
-  },
-  {
-   "title": "This startup wants to turn idle user car inventory into rental revenue",
-   "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/mymonthlycar-image.jpg?resize=1200,900",
-   "age": "1h ago",
-   "published": "2026-10-01T17:09:00+00:00"
   },
   {
    "title": "Drone-maker Powerus, backed by Trump brothers, goes public",
@@ -236,7 +346,7 @@
    "topic": "defense",
    "summary": "“Completing this transaction puts Powerus in a position to build at the scale our customers are asking for,” Powerus CEO Andrew Fox said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/powerus-guardian-2-1024x596.jpg",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-10-01T17:05:21+00:00"
   },
   {
@@ -247,74 +357,8 @@
    "topic": "defense",
    "summary": "The secretive AIM-260 air-to-air missile will give Australian fighters a much-needed boost in reach, especially against Chinese threats. The post AIM-260 JATM Missile Sp…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/RAF-Super-Hornet-120.jpg?quality=85",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-10-01T17:01:18+00:00"
-  },
-  {
-   "title": "DoD demo contract takes a step closer to beaming solar power from space",
-   "url": "https://breakingdefense.com/2026/10/dod-demo-contract-takes-a-step-closer-to-beaming-solar-power-from-space/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The Overview award is the second space-based solar power contract to be announced by the Pentagon s Operational Energy Capability Improvement Fund in recent weeks.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2020/11/Screen-Shot-2020-11-06-at-11.44.55-AM.png",
-   "age": "2h ago",
-   "published": "2026-10-01T16:55:27+00:00"
-  },
-  {
-   "title": "Trump Accounts have auto-enrolled more than 60 million children, Treasury says",
-   "url": "https://www.cnbc.com/2026/10/01/treasury-trump-accounts-auto-enroll-more-than-60-million-children.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "More than 60 million children have been automatically enrolled in Trump Accounts, according to a Treasury Department announcement exclusively provided to CNBC.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108357000-1788963978101-108357000-1788269525139-gettyimages-2291336155-AA_24082026_2926685.jpg?v=1788963985&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-10-01T16:52:22+00:00"
-  },
-  {
-   "title": "Florida cops say they don't know who owns 11 unpermitted Flock cameras",
-   "url": "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Floridians alarmed by 14 mysterious Flock cameras; 11 have no clear owner.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264289119-1152x648-1790870168.jpg",
-   "age": "2h ago",
-   "published": "2026-10-01T16:49:33+00:00"
-  },
-  {
-   "title": "Amazon releases its own Jev clone as decision models flood the web",
-   "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726",
-   "age": "2h ago",
-   "published": "2026-10-01T16:49:22+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports and HP extend winning relationship",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZW9lYUhlM19yclItYlpHU2ZtUS1EbFdSUUw3MkNrOGJRSkdqUnJPcC05bU42V3JxODhNUk1EZmZKcDRnaVJQMGdVSHFuN3R0czl3QzhPeE1JYm5XbTJpVUItSVdvOU5XZ1hENEw1QUw4Q2dNamlfSEh4VWFKUGJ2QkpPZzc4Yi1oTExQQk50Z0VUc3ptcklScXdoVXNSVkRPc3Z1WGdYY1hpOU1TUjJsenpyaEhGYjM2a19JZzZadTAtSzlrdWRN?oc=5",
-   "source": "Speedway Digest",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2h ago",
-   "published": "2026-10-01T16:39:38+00:00"
-  },
-  {
-   "title": "With most information hidden, the game Stratego had stumped AI—until now",
-   "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-10-01T16:28:04+00:00"
   },
   {
    "title": "U.S. Mimics “Decoupled” Nuclear Detonation By Blowing Up A Tunnel Conventionally",
@@ -324,19 +368,8 @@
    "topic": "defense",
    "summary": "The aim of the experiment is to help the U.S. better spot a kind of nuclear testing that China is alleged to be conducting in secret. The post U.S. Mimics Decoupled Nucl…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/conventional-explosive-tunnel-test-decoupled-nuclear-testing.jpg?quality=85",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-10-01T16:05:24+00:00"
-  },
-  {
-   "title": "Moroccan startup unveils prototye UAV that operates without GPS signal",
-   "url": "https://breakingdefense.com/2026/10/moroccan-startup-unveils-prototye-uav-that-operates-without-gps-signal/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The prototype now under testing is a four-meter wingspan UAV, but the company is aiming for larger airframe to be able to reach 2,000 kilometers in range.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/a6a8b897-f9f5-4362-8877-8af5b51862bb-e1790862455607-1024x576.jpg",
-   "age": "3h ago",
-   "published": "2026-10-01T16:02:44+00:00"
   },
   {
    "title": "Dutch say ASW frigate talks ongoing amid reports Belgium may quit project",
@@ -346,7 +379,7 @@
    "topic": "defense",
    "summary": "Belgium is pushing to get new naval frigates on time, as a joint procurement with the Netherlands is delayed by years.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2KD66FNFKJFPTLSZ3GZAFLPDYE.jpg",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-10-01T15:01:55+00:00"
   },
   {
@@ -357,19 +390,8 @@
    "topic": "defense",
    "summary": "Taiwan leaders are working to embed resistance against an occupying force into civilian life.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7HTILZK6VFGDLODU4N2UC342OA.jpg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-01T14:13:06+00:00"
-  },
-  {
-   "title": "Neros, Perennial Autonomy lead in Pentagon’s drone competition",
-   "url": "https://www.defensenews.com/unmanned/2026/10/01/neros-perennial-autonomy-lead-in-pentagons-drone-competition/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Two companies scored highest during the second phase of a Pentagon competition to find companies that can produce high-quality, low-cost commercial drones.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5P3QO3TXHJGJNCRVDV4YDT266Y.jpg",
-   "age": "5h ago",
-   "published": "2026-10-01T14:02:08+00:00"
   },
   {
    "title": "GAO Report on How the Coast Guard Can Address Marine Firefighting Challenges",
@@ -379,8 +401,19 @@
    "topic": "defense",
    "summary": "The following is the Sept. 29, 2026, Government Accountability Office report, Coast Guard: Additional Action Needed to Address Marine Firefighting Challenges. From the R…",
    "image": null,
-   "age": "5h ago",
+   "age": "9h ago",
    "published": "2026-10-01T14:00:05+00:00"
+  },
+  {
+   "title": "Hendrick Motorsports and HP extend winning relationship through 2029",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZHF4dlNCUXBsMG90TWYtTC05ZFRQRmZLekRvRVpnaThhNFJhZGRxQ1k0TUxjMVZlUnNpWUVMdGV5UHpoRDRMSm1oNEo2WjVSWE5BRUNfSXM5NEktTVNJUG9JU0prS1NSMS02TzU4SHR2U3hLOWozYzBnWl84b0M5Rkh2aF9KOGlta3ZLb0VydFBxelJWWUdmbDIwaTVFb0FjV3FJTllDejhVcUVDNDhqOGx1dlR4Ulh5WExqRlc3d3NjNXc?oc=5",
+   "source": "Hendrick Motorsports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "10h ago",
+   "published": "2026-10-01T12:53:41+00:00"
   },
   {
    "title": "Vision For New Autonomous Warfare Command Laid Out By Pentagon",
@@ -390,41 +423,8 @@
    "topic": "defense",
    "summary": "The new command, slated to stand up late next year, will focus on advancing operational autonomous and robotic capabilities across the services. The post Vision For New …",
    "image": "https://www.twz.com/wp-content/uploads/2026/09/us-military-autonomous-warfare-command-initiatives.jpg?quality=85",
-   "age": "19h ago",
+   "age": "23h ago",
    "published": "2026-09-30T23:39:32+00:00"
-  },
-  {
-   "title": "Lessons Learned From Getting An SR-71 In The Air Again May Be As Valuable As Its Flight Test Data",
-   "url": "https://www.twz.com/air/lessons-learned-from-getting-an-sr-71-in-the-air-again-may-be-as-valuable-as-its-flight-test-data",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Just the process of reviving the Blackbird and its exotic supply chain could be an endeavor that pays off larger than whatever it does once it is back flying. The post L…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/09/SR71-nasa-1-copy.jpg?quality=85",
-   "age": "19h ago",
-   "published": "2026-09-30T23:07:51+00:00"
-  },
-  {
-   "title": "GAO Report on the Navy’s Shipyard Infrastructure Optimization Program",
-   "url": "https://news.usni.org/2026/09/30/gao-report-on-the-navys-shipyard-infrastructure-optimization-program",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is the Sept. 25, 2026, Government Accountability Office report, Naval Shipyards: Complete Information Needed for Decision-Making on Multibillion-Dollar, 50…",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-09-30T18:13:38+00:00"
-  },
-  {
-   "title": "VIDEO: Former U.S. Frigate Sunk in Exercise with U.S., Royal Navies",
-   "url": "https://news.usni.org/2026/09/30/video-former-u-s-frigate-sunk-in-exercise-with-u-s-royal-navies",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "This story has been updated to correct the spelling of USS Klakring (FFG-42). The U.S. Navy and Royal Navy sunk decommissioned frigate USS Klakring (FFG-42) earlier this…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/09/45338.png",
-   "age": "1d ago",
-   "published": "2026-09-30T17:27:13+00:00"
   },
   {
    "title": "NASCAR reveals status of William Byron's No. 24 car at R&D Center",
