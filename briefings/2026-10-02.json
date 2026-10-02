@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-02",
+  "dateLabel": "Friday, October 2, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-02T14:57:26Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~19h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, October 1, 2026 close — modest, broad-based gains as Treasury yields eased from two-decade highs on softer jobs data.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,666.45", "change": "+14.91", "changePct": "+0.19%", "sixMo": "+16%" },
+        { "name": "Dow", "close": "50,926.56", "change": "+20.51", "changePct": "+0.04%", "sixMo": "+9.5%" },
+        { "name": "Nasdaq", "close": "26,871.60", "change": "+10.53", "changePct": "+0.04%", "sixMo": "+23%" }
+      ],
+      "body": "Stocks opened October with narrow gains as the 10-year Treasury yield slipped to 5.24% after soft jobs data eased fears the Fed would delay further rate cuts; small-caps outperformed, with the Russell 2000 up 0.35%.",
+      "source": "The Washington Post (AP)",
+      "url": "https://www.washingtonpost.com/business/2026/10/01/wall-street-stocks-dow-nasdaq/a19f2dce-bdd5-11f1-81fc-9b76f8343b6c_story.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Sixth suspect, a dual UK-Iranian national, arrested in plot targeting US-linked UK air base",
+      "body": "British counterterrorism police arrested a 25-year-old dual UK-Iranian national Thursday, the sixth person held in the probe into suspicious vehicles near RAF Fairford — the base that has hosted US B-1 and B-52 bombers flying missions against Iran — after UK Prime Minister Andy Burnham said there were 'strong indications' Iran played a part; Iran's embassy has denied any involvement.",
+      "source": "ITV News",
+      "url": "https://www.itv.com/news/westcountry/2026-10-01/uk-iranian-dual-national-arrested-over-raf-fairford-suspected-terror-plot"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan indicts three ex-military personnel for allegedly spying for China",
+      "body": "Kaohsiung prosecutors charged three former service members, surnamed Chen, Lu and Mao, with funneling classified secrets — including tank specifications and Han Kuang military exercise details — to Chinese Communist Party intelligence contacts since 2020, the latest in a string of espionage cases Taipei says reflects Beijing's effort to penetrate its armed forces.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/02/2003865260"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US sends third aircraft carrier and thousands more troops toward the Middle East",
+      "body": "About 9,000 additional sailors and Marines — including the Theodore Roosevelt carrier strike group and the Makin Island Amphibious Ready Group — are steaming toward the Middle East, a buildup that could put three US carriers in the region by late October as President Trump warns new strikes on Iran remain possible.",
+      "source": "U.S. News & World Report (AP)",
+      "url": "https://www.usnews.com/news/us/articles/2026-10-01/us-is-moving-thousands-of-troops-aboard-ships-to-the-mideast-as-trump-weighs-new-strikes-on-iran"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Pentagon orders 14,000 AI-guided attack drones from startup Neros",
+      "body": "The Department of War placed a $100 million-plus order for 14,000 Archer-series first-person-view drones, including the autonomously-guided Archer AI variant, after Neros topped the Pentagon's Gauntlet II 'Drone Dominance' competition at Fort Carson — the largest single award among roughly 60,000 drones purchased across the program.",
+      "source": "The Defense Post",
+      "url": "https://www.thedefensepost.com/2026/10/01/neros-pentagon-fpv-drones/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic reportedly eyes mid-November IPO at up to $2 trillion valuation",
+      "body": "Anthropic is said to be preparing to begin marketing its IPO the week of November 9, with investor meetings starting around October 14, in a listing that could value the company as high as $2 trillion — which would be the largest IPO ever — after revenue surged from $386 million in 2024 to $4.6 billion in 2025.",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-targets-november-ipo-revenue-surges/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Goodell meets again with Pritzker as Bears stadium talks continue",
+      "body": "NFL Commissioner Roger Goodell met Thursday with Gov. JB Pritzker, legislative leaders and Bears minority owner Pat Ryan in Chicago for what the governor's office called a 'productive' discussion on keeping the team in Illinois, though sources described no breakthrough even as the Bears continue advancing their Hammond, Indiana stadium plan.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears-stadium/2026/10/01/nfl-commissioner-roger-goodell-illinois-visit-bears-stadium-talks-gov-jb-pritzker"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Hendrick Motorsports extends HP sponsorship of William Byron's No. 24 car through 2029",
+      "body": "Hendrick Motorsports and HP Inc. extended their partnership through the 2029 NASCAR Cup Series season, continuing HP's primary sponsorship of Byron's No. 24 Chevrolet for two races annually.",
+      "source": "Speedway Media (Hendrick Motorsports release)",
+      "url": "https://speedwaymedia.com/2026/10/01/hendrick-motorsports-and-hp-extend-winning-relationship-through-2029"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; recent searches turned up only older items (a May review of presbytery records, the Stated Clerk election) already outside the window or previously reported.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
