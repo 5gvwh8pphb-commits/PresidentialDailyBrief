@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-03",
+  "dateLabel": "Saturday, October 3, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-03T13:44:10Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, October 2, 2026 close — stocks jumped after a weak September jobs report eased fears of further Fed tightening.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,722.72", "change": "+56.27", "changePct": "+0.73%", "sixMo": "+7.1%" },
+        { "name": "Dow", "close": "51,176.96", "change": "+250.40", "changePct": "+0.49%", "sixMo": "+3.1%" },
+        { "name": "Nasdaq", "close": "27,190.86", "change": "+319.27", "changePct": "+1.19%", "sixMo": "+9.2%" }
+      ],
+      "body": "Treasury yields eased after employers added just 29,000 jobs in September against forecasts of 84,000 even as unemployment rose to 4.2%; Nvidia hit an intraday record above $237, pushing its market value past $5.7 trillion.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-2-135416764.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump threatens Iran with retaliation over copilot's attempt to crash Israel-bound jet",
+      "body": "President Trump said Iran would be hit 'very hard' if linked to an Omani copilot accused of trying to crash a FlyDubai flight carrying 182 people, mostly Israelis, from the UAE to Tel Aviv before the captain and others subdued him and landed safely in Saudi Arabia; Trump said he believes Iran was involved 'based on what I'm hearing' but offered no evidence.",
+      "source": "CTV News",
+      "url": "https://www.ctvnews.ca/world/article/why-a-copilot-attacked-the-captain-of-an-israel-bound-flight-remains-unknown/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan receives first two F-16V Block 70 jets from the US, with 63 more in production",
+      "body": "Taiwan's air force took delivery of its first two of 66 newly built F-16V Block 70 jets at Chihhang Air Base on Taiwan's east coast Friday, about a month behind schedule after the aircraft sat unexplained in Hawaii as President Trump prepared to meet Chinese leader Xi Jinping; Defense Minister Wellington Koo said more jets will arrive before year's end.",
+      "source": "U.S. News & World Report (AP)",
+      "url": "https://www.usnews.com/news/us/articles/2026-10-02/taiwan-receives-2-long-delayed-us-f-16vs-and-awaits-additional-fighter-jets"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Trump says Iran war could end 'right after the election or sooner' as more troops head to the Middle East",
+      "body": "President Trump told supporters the US could leave the region tomorrow because 'it would take them years to rebuild,' even as the Pentagon sends the USS Theodore Roosevelt carrier strike group and the Makin Island Amphibious Ready Group carrying roughly 9,000 additional sailors and Marines toward the Middle East, a deployment that could put three carrier strike groups and 20,000 US troops in the region by late October.",
+      "source": "CBS News",
+      "url": "https://cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Space Force to launch 21 more missile-tracking satellites in growing mesh network",
+      "body": "The Space Development Agency plans to launch 21 Tranche 1 satellites built by Northrop Grumman on October 5 — the fourth of ten planned launches building the Proliferated Warfighter Space Architecture, a multi-vendor mesh of data-transport and missile-tracking satellites — as the Space Force works to connect separate satellite 'enclaves' so they can share targeting data across orbits.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/10/02/space-force-laying-groundwork-to-connect-future-satellite-enclaves/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic commits $100 million to train 10,000 enterprise engineers on Claude",
+      "body": "Anthropic launched Claude Frontier Academy, a $100 million program to train 10,000 'frontier deployed engineers' from Claude Partner Network companies — including Accenture, Morgan Stanley and Novo Nordisk — by the end of 2027, as the company works to close an enterprise AI talent gap.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears rule out Caleb Williams for second straight game; left tackle Braxton Jones also out vs. Jets",
+      "body": "Chicago's final Week 4 injury report lists quarterback Caleb Williams (hamstring) and left tackle Braxton Jones (knee) as out for Sunday against the Jets, with cornerback Cam Lewis doubtful; Jones will miss his first game of the season, and Tyson Bagent is expected to start at quarterback.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/injury-update-caleb-williams-officially-ruled-out-for-sunday-s-game-vs-jets"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only new Byron item in the window — Hendrick Motorsports' HP sponsorship extension through 2029 — was already reported in yesterday's brief; remaining coverage concerns season standings and a post-race car inspection, both inside the 7-day spoiler window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; current coverage is limited to opinion pieces on denominational identity debates and recaps of the General Assembly held months ago.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
