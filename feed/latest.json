@@ -1,46 +1,85 @@
 {
- "generated": "2026-10-04T00:13:10+00:00",
+ "generated": "2026-10-04T06:05:28+00:00",
  "count": 40,
  "withImage": 40,
- "bearsDay": true,
+ "bearsDay": false,
  "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "Windy City Gridiron"
+  "USNI News"
  ],
  "items": [
   {
-   "title": "Florida Gators run into buzzsaw in Missouri, Tigers shred top-ten team for rare ranked win at home",
-   "url": "https://www.foxnews.com/outkick-sports/florida-gators-run-buzzsaw-missouri-tigers-shred-top-ten-team-rare-ranked-win-home",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Austin Simmons threw for 340 yards and two scores as the Missouri Tigers demolished the No. 8 Florida Gators 45-17, holding Jadan Baugh to 13 yards.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chris-graves-jr-missouri-tigers-florida-gators.jpg?ve=1&tl=1",
-   "age": "20m ago",
-   "published": "2026-10-03T23:52:33+00:00"
+   "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
+   "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108371730-1790941885757-gettyimages-2270934858-ukrinform-ukrainia260410_np94s.jpeg?v=1790941939&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-04T05:00:01+00:00"
   },
   {
-   "title": "'Caddyshack' star Michael O'Keefe claims cocaine was budgeted on set, admits filming scenes high",
-   "url": "https://www.foxnews.com/entertainment/caddyshack-star-michael-okeefe-candid-cocaine-use-iconic-comedy-filming",
+   "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
+   "url": "https://www.foxnews.com/outkick-sports/brewers-take-game-1-nlds-controversial-call-sure-fire-home-run-ball-hit-stadium-roof",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Michael O Keefe opens up about rampant cocaine use on the Caddyshack set, saying people treated the drug like it was toothpaste in the 70s.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/michael-okeefe-denim.jpg?ve=1&tl=1",
-   "age": "31m ago",
-   "published": "2026-10-03T23:41:14+00:00"
+   "summary": "William Contreras launched a go-ahead solo homer in the seventh inning as the Milwaukee Brewers edged the San Diego Padres 3-2 in NLDS Game 1.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/william-contreras.png?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-10-04T04:55:32+00:00"
+  },
+  {
+   "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
+   "url": "https://www.foxnews.com/us/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A parking dispute near a youth football event at Leon Day Park in Baltimore turned deadly when two men allegedly opened fire on each other, killing a 12-year-old girl in…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/baltimore-leon-day-park-deadly-shooting.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-04T03:55:32+00:00"
+  },
+  {
+   "title": "Texas mother facing capital murder charges after allegedly shooting her two sons to death",
+   "url": "https://www.foxnews.com/us/texas-mother-facing-capital-murder-charges-after-allegedly-shooting-her-two-sons-death",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Colleen Nichole Lemmon allegedly told officers she shot both her sons at their Waxahachie home before deputies found her with self-inflicted injuries.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/colleen-nichole-lemmon-waxahachie-texas.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-04T03:40:27+00:00"
+  },
+  {
+   "title": "Yankees lose ALDS Game 1 to Rays as Austin Wells is thrown out at third after breaking up no-hitter",
+   "url": "https://www.foxnews.com/outkick-sports/yankees-lose-alds-game-1-rays-austin-wells-thrown-third-breaking-no-hitter",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Austin Wells broke up Drew Rasmussen s no-hit bid with a double but was thrown out trying to stretch it to a triple in the Yankees painful loss.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/junior-caminero-celebrates-third-base.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-04T02:10:45+00:00"
+  },
+  {
+   "title": "Trump touts ‘golden age’ at Ohio rally, urges voters to deliver GOP midterm wins",
+   "url": "https://www.foxnews.com/politics/trump-touts-golden-age-ohio-rally-urges-voters-deliver-gop-midterm-wins",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "President Donald Trump urged Ohio rally-goers to pretend I m on the ballot as he stumped for Jon Husted and Vivek Ramaswamy in the midterms.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/president-trump-ohio-rally-pointing.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-04T02:09:32+00:00"
   },
   {
    "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
@@ -50,85 +89,8 @@
    "topic": "markets",
    "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
    "image": "https://image.cnbcfm.com/api/v1/image/108371732-1790941993880-gettyimages-2286019756-clayton_senate_324_071526.jpeg?v=1790942014&amp;w=1920&amp;h=1080",
-   "age": "35m ago",
+   "age": "6h ago",
    "published": "2026-10-03T23:37:23+00:00"
-  },
-  {
-   "title": "Dodgers begin quest for third straight World Series title by holding on for Game 1 win over Braves",
-   "url": "https://www.foxnews.com/outkick-sports/dodgers-begin-quest-third-straight-world-series-title-holding-game-1-win-braves",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tarik Skubal dominated on the mound while Kyle Tucker and Teoscar Hernández launched massive home runs to power the Los Angeles Dodgers over the Atlanta Braves for the G…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/teoscar-hernandez-two-run-home-run_002.jpg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-10-03T23:23:19+00:00"
-  },
-  {
-   "title": "Bear attack leaves 2 people injured outside their home in Idaho, authorities say",
-   "url": "https://www.foxnews.com/lifestyle/bear-attack-leaves-2-people-injured-outside-home-idaho-authorities-say",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A young bear attacked two people on their porch near Salon, Idaho, airlifting one victim to the hospital before wildlife teams tracked three bears.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/black-bear.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-03T23:07:14+00:00"
-  },
-  {
-   "title": "NFL Week 4 player prop bets: Raiders' Brock Bowers among best anytime TD bets",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-4-player-prop-bets/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/03/96cfaf7a-572d-444b-a924-38982a11c9e7/brock.jpg",
-   "age": "1h ago",
-   "published": "2026-10-03T23:01:01+00:00"
-  },
-  {
-   "title": "Chicago Bears vs. New York Jets Game Picks and Predictions",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/124324/chicago-bears-vs-new-york-jets-game-picks-and-predictions",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/reuters-tagreuters.com2022newsml_MT1USATODAY19515150656766805.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
-   "published": "2026-10-03T22:00:00+00:00"
-  },
-  {
-   "title": "NFL Week 4 picks: Our experts face off on Cowboys vs. Texans, Rams at Eagles and more",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-our-experts-predictions/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/03/cef57287-e81a-45b5-a52e-53157818454e/dak.jpg",
-   "age": "3h ago",
-   "published": "2026-10-03T20:56:09+00:00"
-  },
-  {
-   "title": "Seahawks place rookie Jadarian Price on injured reserve",
-   "url": "https://www.cbssports.com/nfl/news/seahawks-place-rookie-jadarian-price-injured-reserve/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/03/f599389f-4618-4496-bbea-753659b4983e/price.jpg",
-   "age": "3h ago",
-   "published": "2026-10-03T20:55:14+00:00"
-  },
-  {
-   "title": "Chicago Bears place Braxton Jones on Injured Reserve",
-   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/124325/chicago-bears-place-braxton-jones-on-injured-reserve-marcus-davenport",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/reuters-tagreuters.com2026newsml_MT1USATODAY29491817351707217.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
-   "published": "2026-10-03T20:38:22+00:00"
   },
   {
    "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
@@ -138,19 +100,8 @@
    "topic": "markets",
    "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
    "image": "https://image.cnbcfm.com/api/v1/image/108358937-1788526931980-gettyimages-2292811784-AFP_C7B323M.jpeg?v=1788526959&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-03T20:29:07+00:00"
-  },
-  {
-   "title": "Roster Moves: Chicago Bears place Braxton Jones on IR, elevate 2",
-   "url": "https://www.chicagobears.com/news/roster-moves-chicago-bears-place-braxton-jones-on-ir-elevate-2",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ev6uvbzdzv39vcarjw68.jpg",
-   "age": "4h ago",
-   "published": "2026-10-03T20:00:00+00:00"
   },
   {
    "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
@@ -160,7 +111,7 @@
    "topic": "ai",
    "summary": "\"...we were making history.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-1152x648.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-03T19:45:17+00:00"
   },
   {
@@ -171,7 +122,7 @@
    "topic": "ai",
    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-03T19:33:15+00:00"
   },
   {
@@ -182,7 +133,7 @@
    "topic": "ai",
    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-03T18:43:57+00:00"
   },
   {
@@ -193,7 +144,7 @@
    "topic": "defense",
    "summary": "Northrop Grumman has placed its hopes in Talon Blue to capture a piece of the USAF's future Collaborative Combat Aircraft portfolio. The post Northrop Grumman s Talon Bl…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Talon-Blue-Flies-for-the-first-time.jpg?quality=85",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-03T18:31:31+00:00"
   },
   {
@@ -204,41 +155,52 @@
    "topic": "ai",
    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-10-03T16:30:01+00:00"
   },
   {
-   "title": "Chicago Bears vs. New York Jets: Week 4 Players to Watch",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/124258/chicago-bears-vs-new-york-jets-week-4-players-to-watch",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2296264652.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
-   "published": "2026-10-03T16:00:00+00:00"
+   "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+   "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/bitchat-unavailable-india-techcrunch.jpg?resize=1200,800",
+   "age": "15h ago",
+   "published": "2026-10-03T15:02:01+00:00"
   },
   {
-   "title": "Game Preview: Jets vs. Bears | 2026 Week 4",
-   "url": "https://www.chicagobears.com/news/game-preview-jets-vs-bears-2026-week-4",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/w23vr6bfqr5telbstico.jpg",
-   "age": "9h ago",
-   "published": "2026-10-03T15:13:00+00:00"
+   "title": "Vessev built an electric ferry that almost flies",
+   "url": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675",
+   "age": "15h ago",
+   "published": "2026-10-03T14:42:00+00:00"
   },
   {
-   "title": "Novig credits Sydney Sweeney-backed campaign for platform’s surge in growth",
-   "url": "https://www.cnbc.com/2026/10/03/novig-credits-sydney-sweeney-backed-campaign-for-platforms-surge-in-growth.html",
+   "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
+   "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Novig's \"Just Sports\" campaign drew backlash from some female athletes but also brought in a rush of trading volume.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108350672-1787003285285-Novig.jpg?v=1787003338&amp;w=1920&amp;h=1080",
-   "age": "10h ago",
-   "published": "2026-10-03T13:30:48+00:00"
+   "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368424-1790395473874-2021-11-14T010409Z_1036692082_RC2QTQ9PABLN_RTRMADP_3_LENNAR-RESULTS_Uncrop.JPG?v=1790396459&amp;w=1920&amp;h=1080",
+   "age": "17h ago",
+   "published": "2026-10-03T12:55:31+00:00"
+  },
+  {
+   "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
+   "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108372235-1791028710262-gettyimages-2297340221-AFP_C9U62HC.jpeg?v=1791028727&amp;w=1920&amp;h=1080",
+   "age": "17h ago",
+   "published": "2026-10-03T12:34:59+00:00"
   },
   {
    "title": "Carrier USS Dwight D. Eisenhower to Return to Port After Growler Mishap",
@@ -248,7 +210,7 @@
    "topic": "defense",
    "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) is returning to Naval Station Norfolk, Va., after a Sept. 28 incident that injured four sailors and resulted in the lo…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/9639392-scaled.jpg",
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-10-03T12:31:58+00:00"
   },
   {
@@ -259,19 +221,8 @@
    "topic": "ai",
    "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-10-03T11:15:33+00:00"
-  },
-  {
-   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 4 against the Jets",
-   "url": "https://allchgo.com/bears/rundown-need-to-know-about-bears-week-4-against-jets/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/02234947/2026-09-22T081916Z_804352987_MT1USATODAY29884448_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "14h ago",
-   "published": "2026-10-03T10:00:00+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -318,6 +269,39 @@
    "published": "2026-10-02T21:46:37+00:00"
   },
   {
+   "title": "Someone got Doom in an SQL database",
+   "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "1,300 lines of SQL querying renders accurate bitmapped views of Hell at 35 fps.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/doomsql-1152x648-1790974550.png",
+   "age": "1d ago",
+   "published": "2026-10-02T21:19:05+00:00"
+  },
+  {
+   "title": "Former SR-71 Engineer Talks NASA’s Blackbird Revival Program",
+   "url": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Insights into the current status of NASA's SR-71 #844, what it will take to fly it again, and what the agency may be looking to do with it. The post Former SR-71 Enginee…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/NASA-Blackbird.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-10-02T21:03:45+00:00"
+  },
+  {
+   "title": "Germany Is Finally Giving Its F125 Frigates Some More Teeth With IRIS-T SLM Surface-To-Air Missiles",
+   "url": "https://www.twz.com/news-features/germany-is-finally-giving-its-f125-frigates-some-more-teeth-with-iris-t-slm-surface-to-air-missiles",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The 7,200-ton F125 frigates were built with notoriously light armament, which is now being partly addressed. The post Germany Is Finally Giving Its F125 Frigates Some Mo…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/F125-SAM-system-frigate.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-10-02T21:01:32+00:00"
+  },
+  {
    "title": "Navy Contracts RTX for $24.4B Standard Missile-6 Deal",
    "url": "https://news.usni.org/2026/10/02/navy-contracts-rtx-for-24-4b-standard-missile-6-deal",
    "source": "USNI News",
@@ -329,6 +313,17 @@
    "published": "2026-10-02T20:59:48+00:00"
   },
   {
+   "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg",
+   "age": "1d ago",
+   "published": "2026-10-02T20:30:27+00:00"
+  },
+  {
    "title": "GDIT replaces longtime president Gilliland",
    "url": "https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland/",
    "source": "Breaking Defense",
@@ -338,17 +333,6 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/251203_amy_gilliland_GDIT_sized-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-10-02T20:18:22+00:00"
-  },
-  {
-   "title": "Injury Update: Caleb Williams officially ruled out for Sunday's game vs. Jets",
-   "url": "https://www.chicagobears.com/news/injury-update-caleb-williams-officially-ruled-out-for-sunday-s-game-vs-jets",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/g5f7znfugtyqvrkmawda.jpg",
-   "age": "1d ago",
-   "published": "2026-10-02T20:13:47+00:00"
   },
   {
    "title": "Pentagon Doubles Down on Pacific Area Denial, Need for High-end Munitions",
@@ -373,17 +357,6 @@
    "published": "2026-10-02T19:00:24+00:00"
   },
   {
-   "title": "DA BRAGGS BLOG: Place your trust in Ben Johnson – the Bears coach has more than earned it",
-   "url": "https://allchgo.com/bears/da-braggs-blog-trust-ben-johnson-more-than-earned-it/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/02134241/Bears_BraggsBlog-1-1024x576.jpg",
-   "age": "1d ago",
-   "published": "2026-10-02T19:00:00+00:00"
-  },
-  {
    "title": "Long-range radar deal puts Ireland on course to shrink capability gap",
    "url": "https://breakingdefense.com/2026/10/long-range-radar-deal-puts-ireland-on-course-to-shrink-capability-gap/",
    "source": "Breaking Defense",
@@ -393,6 +366,39 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/GM400-1024x576.png",
    "age": "1d ago",
    "published": "2026-10-02T18:20:00+00:00"
+  },
+  {
+   "title": "After yearslong delay, Taiwan receives first pair of new F-16s",
+   "url": "https://breakingdefense.com/2026/10/after-yearslong-delay-taiwan-receives-first-pair-of-new-f-16s/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The two jets landed at an airbase in eastern Taiwan on Friday.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/ROCAF_F-16-70_6728_chihhang_2026_9-1024x626.jpg",
+   "age": "1d ago",
+   "published": "2026-10-02T17:20:31+00:00"
+  },
+  {
+   "title": "Pentagon partners with CIA’s In-Q-Tel for ‘technology scouting’",
+   "url": "https://breakingdefense.com/2026/10/pentagon-partners-with-cias-in-q-tel-for-technology-scouting/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The CIA-funded investment firm, which has helped finance startups from Anduril to Palantir, is now formally coordinating with the Pentagon’s Critical Technologies office.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261002_cia_seal_floor_GettyImages-635268902-e1790959020409.jpg",
+   "age": "1d ago",
+   "published": "2026-10-02T16:38:57+00:00"
+  },
+  {
+   "title": "USNI News Western Pacific Pulse: Oct. 2, 2026",
+   "url": "https://news.usni.org/2026/10/02/usni-news-western-pacific-pulse-oct-2-2026",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Malacca Strait Destroyer USS Carl M. Levin (DDG-120) t…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/10/9974500-scaled.jpg",
+   "age": "1d ago",
+   "published": "2026-10-02T16:13:28+00:00"
   },
   {
    "title": "Ukraine war fatigue fuels defense-spending downgrade plan in Italy",
@@ -417,48 +423,37 @@
    "published": "2026-10-02T14:15:53+00:00"
   },
   {
-   "title": "How do you write an obituary for a child who was supposed to have a lifetime ahead? | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_5030495d-8196-4c97-8e24-483bfbd75310.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Parents who have faced that unimaginable task say an obituary isn’t about documenting a death. It’s about preserving a life — and making sure their child is never forgot…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/96/496388de-94d4-4ca1-bb28-6be2f8c438ce/6abeb8a597e3a.image.jpg?resize=300%2C169",
+   "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
+   "url": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The French Air Force plans to fly crewed fighter jets in collaboration with AI-powered combat drones in 2028, under project Hypairion.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LBQRMXZ4GJG45EW6OW67PKZ7VQ.jpg",
    "age": "1d ago",
-   "published": "2026-10-02T12:15:00+00:00"
+   "published": "2026-10-02T13:59:10+00:00"
   },
   {
-   "title": "Why Roger Goodell and Pat Ryan’s involvement could save the Bears in Illinois",
-   "url": "https://allchgo.com/bears/roger-goodell-pat-ryan-involvement-save-bears-illinois/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/02011422/2024-10-13T215135Z_56140398_MT1USATODAY24483949_RTRMADP_3_NFL-LONDON-GAMES-JACKSONVILLE-JAGUARS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "title": "US leaders send mixed messages to Indo-Pacific nations",
+   "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/us-leaders-send-mixed-messages-to-indo-pacific-nations/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "U.S. military allies in the Indo-Pacific region are wary of President Donald Trump's apparent overtures to China's leader Xi Jinping.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T74RW7QBDFDE3IYPODTAE6EWWQ.jpg",
    "age": "1d ago",
-   "published": "2026-10-02T10:00:00+00:00"
+   "published": "2026-10-02T11:55:33+00:00"
   },
   {
-   "title": "Facebook deleted his account. Years later, he’s still fighting for his memories | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_2ad903c9-47a8-4eee-9852-294a6dd65828.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Three years after Meta deleted his Facebook account without warning, a Northwest Indiana man is taking the company to court to recover 13 years of photos, videos and mem…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/71/57178e61-f9bb-4ed1-99e2-cc71a97cf269/6abd478eccec0.image.jpg?resize=300%2C347",
+   "title": "Navy Brings In 45,112 Recruits in FY 2026",
+   "url": "https://news.usni.org/2026/10/01/navy-brings-in-45112-recruits-in-fy-2026",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Navy brought in at least 45,112 active-duty enlisted sailors in Fiscal Year 2026, according to the sea service’s final numbers, released Thursday. The Navy announced…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9842434.jpg",
    "age": "2d ago",
-   "published": "2026-10-01T12:15:00+00:00"
-  },
-  {
-   "title": "70 years later, Hobart High’s Class of 1956 still showing up for the future | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_64123169-747e-4da3-a410-7737f8b7c1d4.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Classmates from across the country returned home for their 70th reunion, sharing memories and giving $1,650 to Hobart Historical Society to preserve some of the history …",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/01/301c4131-336f-4c87-bed1-6e85becf4173/6abc06061916f.image.jpg?resize=300%2C282",
-   "age": "3d ago",
-   "published": "2026-09-30T12:15:00+00:00"
+   "published": "2026-10-01T21:48:32+00:00"
   }
  ]
 }
