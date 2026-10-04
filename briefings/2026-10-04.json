@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-04",
+  "dateLabel": "Sunday, October 4, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-04T14:25:19Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~42h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, October 2, 2026 close — the week's final session, as a cooler September jobs report eased fears of further Fed tightening and tech shares led gains.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,722.72", "change": "+56.27", "changePct": "+0.73%", "sixMo": "+7.1%" },
+        { "name": "Dow", "close": "51,176.96", "change": "+250.40", "changePct": "+0.49%", "sixMo": "+3.1%" },
+        { "name": "Nasdaq", "close": "27,190.86", "change": "+319.27", "changePct": "+1.19%", "sixMo": "+9.2%" }
+      ],
+      "body": "The gain capped a choppy week in which the Dow fell 1.3% and the S&P slipped 0.3% even as the Nasdaq eked out a 0.5% advance; September payrolls rose just 29,000, far below the 84,000 forecast, reinforcing bets on further Fed rate cuts this month.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Iran reiterates Hormuz reopening conditions as more tankers are struck in Gulf waters",
+      "body": "Iran's parliament speaker said the Strait of Hormuz will stay closed until Tehran's seven conditions — including an end to the US naval blockade and economic sanctions — are met, as the UK Maritime Trade Operations Centre reported two more tankers struck over the weekend near Oman and in the strait itself.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Satellite images show China accelerating runway construction on Antelope Reef in South China Sea",
+      "body": "Reuters reviewed satellite imagery showing grading, concrete and compaction cranes advancing a full-scale runway on the disputed Paracels reef, which analysts say could be paved and operational by mid-2027 and would mark China's most significant military expansion in the South China Sea in a decade.",
+      "source": "Reuters (via U.S. News & World Report)",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-02/exclusive-chinese-work-gathering-pace-on-antelope-reef-in-south-china-sea-latest-satellite-images-show"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump's top security officials hold secret Camp David session on Iran and Yemen strike options",
+      "body": "Vice President JD Vance chaired an unannounced Friday meeting with Secretary of State Rubio, Defense Secretary Hegseth, envoy Steve Witkoff, CIA Director Ratcliffe and Joint Chiefs Chairman Gen. Dan Caine to weigh a return to large-scale combat against Iran and Houthi forces in Yemen, as the Pentagon continues building toward three carrier strike groups and roughly 20,000 US troops in the region by late November.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/03/trumps-cabinet-camp-david-iran-war-yemen-houthis"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Navy commissions USS Ted Stevens, a new Flight III Aegis destroyer with upgraded missile defense",
+      "body": "The Arleigh Burke-class guided-missile destroyer was commissioned Saturday in Whittier, Alaska, adding advanced radar and missile-defense capability designed to counter ballistic, cruise and emerging hypersonic threats to US naval forces.",
+      "source": "U.S. Navy",
+      "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4617713/navy-announces-commissioning-of-the-future-uss-ted-stevens/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump taps intelligence chief Jay Clayton as White House AI czar",
+      "body": "Clayton, who remains Director of National Intelligence and previously chaired the SEC, will head a new 'Super Intelligence Force' task force with 120 days to report on AI risks, opportunities and federal responsibilities, filling the post left vacant when David Sacks departed the White House earlier this year.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears place Braxton Jones on injured reserve; three more starters ruled out for Jets game",
+      "body": "Chicago placed left tackle Braxton Jones on injured reserve with his knee injury Saturday and also ruled out linebacker Noah Sewell (Achilles), defensive lineman Shemar Turner (knee) and cornerback Kyler Gordon (calf) for Sunday's game against the Jets, on top of quarterback Caleb Williams (hamstring); running back D'Andre Swift returned to full participation with no injury designation.",
+      "source": "ChicagoBears.com",
+      "url": "https://www.chicagobears.com/news/roster-moves-chicago-bears-place-braxton-jones-on-ir-elevate-2"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "William Byron paces final Cup Series practice at Las Vegas ahead of Sunday's race",
+      "body": "Byron turned the fastest lap of Saturday's final practice session at Las Vegas Motor Speedway, giving the No. 24 Hendrick Motorsports team its best session of the weekend heading into Sunday's Cup Series race.",
+      "source": "Yardbarker",
+      "url": "https://www.yardbarker.com/nascar/articles/william_byron_fastest_in_nascar_cup_series_practice_at_las_vegas/s1_13132_44383685"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; current coverage is limited to opinion commentary on denominational identity debates, with the next General Assembly not until June 2027.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
