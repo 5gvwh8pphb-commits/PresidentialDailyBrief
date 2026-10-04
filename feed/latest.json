@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-04T06:05:28+00:00",
+ "generated": "2026-10-04T12:36:37+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 39,
  "bearsDay": false,
  "nascarDay": false,
  "sources": [
@@ -10,98 +10,132 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-   "url": "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
+   "title": "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
+   "url": "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108371730-1790941885757-gettyimages-2270934858-ukrinform-ukrainia260410_np94s.jpeg?v=1790941939&amp;w=1920&amp;h=1080",
+   "summary": "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade and economic warfare, and the release of Iranian assets.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368072-1790345390118-108368072-1790345314289-gettyimages-2294402020-AA_12092026_2948738.jpg?v=1790345417&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-10-04T12:35:35+00:00"
+  },
+  {
+   "title": "Underdog Promo Code FOXNEWS: Play $5, Get $100 on Eagles vs Rams",
+   "url": "https://www.foxnews.com/outkick-betting/underdog-promo-code-foxnews-play-5-get-100-eagles-vs-rams",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New users who sign up with Underdog and use promo code FOXNEWS can unlock a special offer when wagering on the Philadelphia Eagles-Los Angeles Rams game.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/nfl-rams-matthew-stafford-092026-1.jpg?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-10-04T12:22:20+00:00"
+  },
+  {
+   "title": "Caesars Sportsbook Promo Code FOXNEWSDYW: Claim 10x 100% Profit Boosts on NFL Sunday",
+   "url": "https://www.foxnews.com/outkick-betting/caesars-sportsbook-promo-code-foxnewsdyw-claim-10x-100-profit-boosts-nfl-sunday",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New users who sign up with Caesars Sportsbook and use promo code FOXNEWSDYW can receive a special offer for NFL Week 4 action, including the game between the 49ers and B…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/524/dcb3c08e-brock-purdy.jpg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-10-04T12:11:41+00:00"
+  },
+  {
+   "title": "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
+   "url": "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Chick-fil-A has been expanding into new international markets and growing its menu under CEO Andrew Cathy.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108371952-1790959171634-gettyimages-2289913196-golba-dailylif260806_npTlA.jpeg?v=1790977031&amp;w=1920&amp;h=1080",
+   "age": "27m ago",
+   "published": "2026-10-04T12:08:54+00:00"
+  },
+  {
+   "title": "GOP Senate candidate's estranged wife confirms who she's voting for amid divorce proceedings",
+   "url": "https://www.foxnews.com/politics/gop-senate-candidate-estranged-wife-confirms-voting-amid-divorce-proceedings",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Texas state Sen. Angela Paxton urges voters to back the GOP ticket without naming estranged husband Ken Paxton, who faces James Talarico in a tight Texas Senate race.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ken-paxton-angela-paxton-texas-senate-race.jpg?ve=1&tl=1",
+   "age": "28m ago",
+   "published": "2026-10-04T12:08:26+00:00"
+  },
+  {
+   "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 Ahead of Lions vs Panthers",
+   "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-ahead-lions-vs-panthers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New users who sign up with Fanatics Sportsbook and use promo code FOXNEWS350 can receive a special offer before the Detroit Lions and Dallas Cowboys game.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/524/reddy-steward-tackles-jahmyr-gibbs-cowboys-lions.jpg?ve=1&tl=1",
+   "age": "28m ago",
+   "published": "2026-10-04T12:07:39+00:00"
+  },
+  {
+   "title": "Fanatics Sportsbook Promo Code FOXNEWS350: Bet $20, Get $350 on Raiders vs Chiefs",
+   "url": "https://www.foxnews.com/outkick-betting/fanatics-sportsbook-promo-code-foxnews350-bet-20-get-350-raiders-vs-chiefs",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New users who sign up with Fanatics Sportsbook and use promo code FOXNEWS350 will unlock a special offer before the Kansas City Chiefs play the Las Vegas Raiders.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/524/kirk-cousins-raiders-49ers-preseason-warmup.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-10-04T12:04:10+00:00"
+  },
+  {
+   "title": "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+   "url": "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+   "image": null,
+   "age": "36m ago",
+   "published": "2026-10-04T12:00:01+00:00"
+  },
+  {
+   "title": "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
+   "url": "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108372126-1790972093987-image.png?v=1790972133&amp;w=1920&amp;h=1080",
+   "age": "36m ago",
+   "published": "2026-10-04T12:00:01+00:00"
+  },
+  {
+   "title": "All hail electrification. But let’s talk about the hard part.",
+   "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040-1152x648.jpg",
    "age": "1h ago",
-   "published": "2026-10-04T05:00:01+00:00"
+   "published": "2026-10-04T11:05:53+00:00"
   },
   {
-   "title": "Brewers take Game 1 of NLDS after a controversial call on sure-fire home run ball that hit the stadium roof",
-   "url": "https://www.foxnews.com/outkick-sports/brewers-take-game-1-nlds-controversial-call-sure-fire-home-run-ball-hit-stadium-roof",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "William Contreras launched a go-ahead solo homer in the seventh inning as the Milwaukee Brewers edged the San Diego Padres 3-2 in NLDS Game 1.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/william-contreras.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-04T04:55:32+00:00"
-  },
-  {
-   "title": "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
-   "url": "https://www.foxnews.com/us/shooting-near-baltimore-youth-football-event-leaves-12-year-old-girl-dead-3-adults-wounded",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A parking dispute near a youth football event at Leon Day Park in Baltimore turned deadly when two men allegedly opened fire on each other, killing a 12-year-old girl in…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/baltimore-leon-day-park-deadly-shooting.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-04T03:55:32+00:00"
-  },
-  {
-   "title": "Texas mother facing capital murder charges after allegedly shooting her two sons to death",
-   "url": "https://www.foxnews.com/us/texas-mother-facing-capital-murder-charges-after-allegedly-shooting-her-two-sons-death",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Colleen Nichole Lemmon allegedly told officers she shot both her sons at their Waxahachie home before deputies found her with self-inflicted injuries.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/colleen-nichole-lemmon-waxahachie-texas.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-04T03:40:27+00:00"
-  },
-  {
-   "title": "Yankees lose ALDS Game 1 to Rays as Austin Wells is thrown out at third after breaking up no-hitter",
-   "url": "https://www.foxnews.com/outkick-sports/yankees-lose-alds-game-1-rays-austin-wells-thrown-third-breaking-no-hitter",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Austin Wells broke up Drew Rasmussen s no-hit bid with a double but was thrown out trying to stretch it to a triple in the Yankees painful loss.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/junior-caminero-celebrates-third-base.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-10-04T02:10:45+00:00"
-  },
-  {
-   "title": "Trump touts ‘golden age’ at Ohio rally, urges voters to deliver GOP midterm wins",
-   "url": "https://www.foxnews.com/politics/trump-touts-golden-age-ohio-rally-urges-voters-deliver-gop-midterm-wins",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "President Donald Trump urged Ohio rally-goers to pretend I m on the ballot as he stumped for Jon Husted and Vivek Ramaswamy in the midterms.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/president-trump-ohio-rally-pointing.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-10-04T02:09:32+00:00"
-  },
-  {
-   "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
+   "title": "Trump taps Director of National Intelligence Jay Clayton as AI czar",
    "url": "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
+   "summary": "Director of National Intelligence Jay Clayton will lead the administration's AI policy.",
    "image": "https://image.cnbcfm.com/api/v1/image/108371732-1790941993880-gettyimages-2286019756-clayton_senate_324_071526.jpeg?v=1790942014&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-10-03T23:37:23+00:00"
-  },
-  {
-   "title": "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-   "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108358937-1788526931980-gettyimages-2292811784-AFP_C7B323M.jpeg?v=1788526959&amp;w=1920&amp;h=1080",
-   "age": "9h ago",
-   "published": "2026-10-03T20:29:07+00:00"
+   "age": "3h ago",
+   "published": "2026-10-04T09:25:01+00:00"
   },
   {
    "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
@@ -111,7 +145,7 @@
    "topic": "ai",
    "summary": "\"...we were making history.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg-1152x648.jpg",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-10-03T19:45:17+00:00"
   },
   {
@@ -122,7 +156,7 @@
    "topic": "ai",
    "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-10-03T19:33:15+00:00"
   },
   {
@@ -133,7 +167,7 @@
    "topic": "ai",
    "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-10-03T18:43:57+00:00"
   },
   {
@@ -144,7 +178,7 @@
    "topic": "defense",
    "summary": "Northrop Grumman has placed its hopes in Talon Blue to capture a piece of the USAF's future Collaborative Combat Aircraft portfolio. The post Northrop Grumman s Talon Bl…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Talon-Blue-Flies-for-the-first-time.jpg?quality=85",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-10-03T18:31:31+00:00"
   },
   {
@@ -155,7 +189,7 @@
    "topic": "ai",
    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "age": "13h ago",
+   "age": "20h ago",
    "published": "2026-10-03T16:30:01+00:00"
   },
   {
@@ -166,7 +200,7 @@
    "topic": "ai",
    "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/bitchat-unavailable-india-techcrunch.jpg?resize=1200,800",
-   "age": "15h ago",
+   "age": "21h ago",
    "published": "2026-10-03T15:02:01+00:00"
   },
   {
@@ -177,30 +211,8 @@
    "topic": "ai",
    "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vessev_VS–9–NYCDrone-02.jpeg?resize=1200,675",
-   "age": "15h ago",
+   "age": "21h ago",
    "published": "2026-10-03T14:42:00+00:00"
-  },
-  {
-   "title": "Berkshire buys more Lennar shares, but pace of purchases slows",
-   "url": "https://www.cnbc.com/2026/10/03/berkshire-buys-more-lennar-shares-but-pace-of-purchases-slows.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Berkshire Hathaway added to its bet on Lennar this week, raising its stake in the homebuilder to 11.2%, although the pace of its buying appears to be slowing.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368424-1790395473874-2021-11-14T010409Z_1036692082_RC2QTQ9PABLN_RTRMADP_3_LENNAR-RESULTS_Uncrop.JPG?v=1790396459&amp;w=1920&amp;h=1080",
-   "age": "17h ago",
-   "published": "2026-10-03T12:55:31+00:00"
-  },
-  {
-   "title": "FlyDubai plane attack by co-pilot was an attempted 'terrorist' act, UAE says",
-   "url": "https://www.cnbc.com/2026/10/03/flydubai-co-pilot-attacked-pilot-with-axe-uae-says.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The FlyDubai co-pilot attacked the pilot inside the cockpit with a crash axe and attempted to take control of the aircraft, the UAE prosecutor general said.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108372235-1791028710262-gettyimages-2297340221-AFP_C9U62HC.jpeg?v=1791028727&amp;w=1920&amp;h=1080",
-   "age": "17h ago",
-   "published": "2026-10-03T12:34:59+00:00"
   },
   {
    "title": "Carrier USS Dwight D. Eisenhower to Return to Port After Growler Mishap",
@@ -210,7 +222,7 @@
    "topic": "defense",
    "summary": "Aircraft carrier USS Dwight D. Eisenhower (CVN-69) is returning to Naval Station Norfolk, Va., after a Sept. 28 incident that injured four sailors and resulted in the lo…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/9639392-scaled.jpg",
-   "age": "17h ago",
+   "age": "1d ago",
    "published": "2026-10-03T12:31:58+00:00"
   },
   {
@@ -221,7 +233,7 @@
    "topic": "ai",
    "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2261904940-1152x648.jpg",
-   "age": "18h ago",
+   "age": "1d ago",
    "published": "2026-10-03T11:15:33+00:00"
   },
   {
@@ -313,17 +325,6 @@
    "published": "2026-10-02T20:59:48+00:00"
   },
   {
-   "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
-   "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg",
-   "age": "1d ago",
-   "published": "2026-10-02T20:30:27+00:00"
-  },
-  {
    "title": "GDIT replaces longtime president Gilliland",
    "url": "https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland/",
    "source": "Breaking Defense",
@@ -379,17 +380,6 @@
    "published": "2026-10-02T17:20:31+00:00"
   },
   {
-   "title": "Pentagon partners with CIA’s In-Q-Tel for ‘technology scouting’",
-   "url": "https://breakingdefense.com/2026/10/pentagon-partners-with-cias-in-q-tel-for-technology-scouting/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The CIA-funded investment firm, which has helped finance startups from Anduril to Palantir, is now formally coordinating with the Pentagon’s Critical Technologies office.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261002_cia_seal_floor_GettyImages-635268902-e1790959020409.jpg",
-   "age": "1d ago",
-   "published": "2026-10-02T16:38:57+00:00"
-  },
-  {
    "title": "USNI News Western Pacific Pulse: Oct. 2, 2026",
    "url": "https://news.usni.org/2026/10/02/usni-news-western-pacific-pulse-oct-2-2026",
    "source": "USNI News",
@@ -434,15 +424,15 @@
    "published": "2026-10-02T13:59:10+00:00"
   },
   {
-   "title": "US leaders send mixed messages to Indo-Pacific nations",
-   "url": "https://www.defensenews.com/global/asia-pacific/2026/10/02/us-leaders-send-mixed-messages-to-indo-pacific-nations/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "U.S. military allies in the Indo-Pacific region are wary of President Donald Trump's apparent overtures to China's leader Xi Jinping.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/T74RW7QBDFDE3IYPODTAE6EWWQ.jpg",
-   "age": "1d ago",
-   "published": "2026-10-02T11:55:33+00:00"
+   "title": "How do you write an obituary for a child who was supposed to have a lifetime ahead? | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_5030495d-8196-4c97-8e24-483bfbd75310.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Parents who have faced that unimaginable task say an obituary isn’t about documenting a death. It’s about preserving a life — and making sure their child is never forgot…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/96/496388de-94d4-4ca1-bb28-6be2f8c438ce/6abeb8a597e3a.image.jpg?resize=300%2C169",
+   "age": "2d ago",
+   "published": "2026-10-02T12:15:00+00:00"
   },
   {
    "title": "Navy Brings In 45,112 Recruits in FY 2026",
@@ -454,6 +444,17 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9842434.jpg",
    "age": "2d ago",
    "published": "2026-10-01T21:48:32+00:00"
+  },
+  {
+   "title": "Facebook deleted his account. Years later, he’s still fighting for his memories | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_2ad903c9-47a8-4eee-9852-294a6dd65828.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Three years after Meta deleted his Facebook account without warning, a Northwest Indiana man is taking the company to court to recover 13 years of photos, videos and mem…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/71/57178e61-f9bb-4ed1-99e2-cc71a97cf269/6abd478eccec0.image.jpg?resize=300%2C347",
+   "age": "3d ago",
+   "published": "2026-10-01T12:15:00+00:00"
   }
  ]
 }
