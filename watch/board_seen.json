@@ -1,6 +1,28 @@
 {
- "alerted": {},
+ "alerted": {
+  "duneland|allen cochran|hired": "2026-10-04",
+  "gary|moliga sainima|promoted": "2026-10-04"
+ },
  "docs": {
+  "duneland": [
+   "bd:duneland:/in/duneland/Board.nsf/files/DXJN845EA259/$file/Minutes%20Exec%20Session%20August%2010%202026%20Hicks.pdf",
+   "bd:duneland:/in/duneland/Board.nsf/files/DXJN865EA38E/$file/Minutes%20August%2010%202026%20Hicks.pdf",
+   "bd:duneland:/in/duneland/Board.nsf/files/DXS3NE07AB85/$file/Personnel%20Report%209.14.26%20Jenks.pdf",
+   "bd:duneland:DXDHQS49A524:ecbd58344b",
+   "bd:duneland:DXDHVB4A4FE3:e23f8e334a"
+  ],
+  "gary": [
+   "bd:gary:/in/gary/Board.nsf/files/DXQR5C6C4BCE/$file/5.4%20Approval%20of%20Personnel%20Report.pdf",
+   "bd:gary:DWQRBD6D2EB4:efc1aef4da",
+   "bd:gary:DXRJ3S4B41F4:c4b9cb625c"
+  ],
+  "hammond": [
+   "bd:hammond:/in/hammond/Board.nsf/files/DXHMWR5D44C1/$file/Resolution%202026-0002_Classified%20Staff%20Pay%20During%20Weather-Related%20Closures.pdf",
+   "bd:hammond:DWMQC4687596:bef53d62e5",
+   "bd:hammond:DXLL7V553B3A:06697c4f7e",
+   "bd:hammond:DXRPAH63AE8E:acf8a40b57",
+   "bd:hammond:DYBR4E6C2968:b7d5f04557"
+  ],
   "hanover": [
    "bd:hanover:DXDJ3E4B341B:7666a2fc0a"
   ],
@@ -327,6 +349,42 @@
    "bd:mcas:DX2RDU6D8A1A:d2741142dd",
    "bd:mcas:DXXRNL6ED3E0:b3a7dcb729",
    "bd:mcas:DXXRNU6ED82D:209fcca917"
+  ],
+  "msdboone": [
+   "bd:msdboone:/in/msdboone/Board.nsf/files/DXRPH564A506/$file/Aug.%2011th%20signed%20minutes.pdf",
+   "bd:msdboone:DXDMPQ5C3CDC:89a798b716",
+   "bd:msdboone:DXJR7H6C9DE1:40b5d024b7"
+  ],
+  "portage": [
+   "bd:portage:/in/portage/Board.nsf/files/DX4GXG45EFB7/$file/MindPlay%20Renewal%20Memo.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DXAK7L506C74/$file/8.24.2026%20Personnel%20Report.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DXXH2S466BAD/$file/Personnel%20DM%20Report%20Beginning%2009.14.2026%20-%20Public.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DXXH43469B64/$file/08.24.26%20Regular%20Board%20Meeting%20Approved%20Minutes.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DXXH5N46D7BE/$file/08.24.26%20Special%20Board%20Meeting%20Approved%20Minutes.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DY7R8V6CCFFF/$file/Skillman%20Award%20Recommendations%20for%20PHS%20Renovation%20Project.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DYEHAU4799CD/$file/09.28.26%20Personnel%20Report.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DYEJ3U4B42D5/$file/09.14.26%20Approved%20Minutes.pdf",
+   "bd:portage:DEAPJN64E049:9e6a3b5a98",
+   "bd:portage:DWTGJR440949:68d9531bf5",
+   "bd:portage:DX3J384B2C50:c358679954",
+   "bd:portage:DX3R8X6CD232:7be085fda9",
+   "bd:portage:DXXLFK56393D:839668228d",
+   "bd:portage:DY5GAB42D723:a4b8192f7c"
+  ],
+  "tricreek": [
+   "bd:tricreek:/in/tricreek/Board.nsf/files/DXSR896CB8A6/$file/Personnel%20Report%20%E2%80%94%20September%2010%2C%202026%20(1).pdf",
+   "bd:tricreek:DUBLE3562354:f3c9c7dbda",
+   "bd:tricreek:DY2NPB60DEAE:01da65a177"
+  ],
+  "whiting": [
+   "bd:whiting:/in/whiting/Board.nsf/files/DX4KKG523A99/$file/Regular%20meeting%20minutes%20of%20July%2027%2C%202026.pdf",
+   "bd:whiting:/in/whiting/Board.nsf/files/DX6QUD6AFB50/$file/Personnel%20Report%20August%202026.pdf",
+   "bd:whiting:/in/whiting/Board.nsf/files/DXHLE855E32E/$file/Reg%20meeting%20minutes%20of%20August%2024%2C%202026.pdf",
+   "bd:whiting:/in/whiting/Board.nsf/files/DXRN6R5E703C/$file/Special%20meeting%20minutes%20for%20September%208%2C%202026.pdf",
+   "bd:whiting:/in/whiting/Board.nsf/files/DYCHM6491C40/$file/Personnel%20Report%20Sept%202026.pdf",
+   "bd:whiting:DUQJNU4E0C82:9ba11d7e38",
+   "bd:whiting:DUQJPM4E0ED7:648ea1bd70",
+   "bd:whiting:DXCRQG6F19ED:ad7759a51f"
   ]
  }
 }

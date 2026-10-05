@@ -1,10 +1,10 @@
 {
  "date": "2026-10-04",
  "dateLabel": "Sunday, October 4, 2026",
- "generated": "2026-10-05T04:18:58Z",
+ "generated": "2026-10-05T04:49:00Z",
  "comparedTo": null,
  "baseline": true,
- "note": "First roster run - this is the baseline. Recorded 86 admin-building names across 21 districts. Changes are reported from next week.",
+ "note": "First roster run - this is the baseline. Recorded 84 admin-building names across 21 districts. Changes are reported from next week.",
  "counts": {
   "moved": 0,
   "titleChanged": 0,
@@ -24,7 +24,44 @@
  ],
  "board": {
   "mentions": [],
-  "alerts": [],
+  "alerts": [
+   {
+    "district": "Duneland",
+    "group": "prospect",
+    "name": "Allen Cochran",
+    "role": "Chief Financial Officer",
+    "action": "Hired",
+    "effective": "",
+    "meeting": "2026-09-14",
+    "docKind": "minutes",
+    "docTitle": "Minutes August 10 2026 Hicks.pdf",
+    "page": 2,
+    "url": "https://go.boarddocs.com/in/duneland/Board.nsf/files/DXJN865EA38E/$file/Minutes%20August%2010%202026%20Hicks.pdf#page=2",
+    "upcoming": false,
+    "listedNow": [
+     {
+      "district": "Union Township",
+      "group": "account",
+      "title": "Assistant Superintendent Finance/HR/Operations"
+     }
+    ]
+   },
+   {
+    "district": "Gary",
+    "group": "prospect",
+    "name": "Sainima Moliga",
+    "role": "Business Service Coordinator/Finance",
+    "action": "Promoted",
+    "effective": "07/01/2026",
+    "meeting": "2026-09-10",
+    "docKind": "personnel report",
+    "docTitle": "5.4 Approval of Personnel Report.pdf",
+    "page": 8,
+    "url": "https://go.boarddocs.com/in/gary/Board.nsf/files/DXQR5C6C4BCE/$file/5.4%20Approval%20of%20Personnel%20Report.pdf#page=8",
+    "upcoming": false,
+    "listedNow": []
+   }
+  ],
   "checked": [
    {
     "district": "Eastern Pulaski",
@@ -36,43 +73,40 @@
    },
    {
     "district": "Hanover",
-    "status": "read",
-    "documents": 1,
+    "status": "nothing new",
+    "documents": 0,
     "failed": []
    },
    {
     "district": "LaPorte",
-    "status": "read",
-    "documents": 4,
+    "status": "nothing new",
+    "documents": 0,
     "failed": []
    },
    {
     "district": "Michigan City",
-    "status": "read",
-    "documents": 3,
-    "failed": [
-     "September 2026 Employee List.xlsx - Board Docs.pdf: HTTP Error 403: Forbidden",
-     "August 2026 Employee List.pdf: HTTP Error 403: Forbidden"
-    ]
+    "status": "nothing new",
+    "documents": 0,
+    "failed": []
    },
    {
     "district": "MSD Boone Twp",
-    "status": "unreachable",
-    "error": "HTTP Error 403: Forbidden"
-   },
-   {
-    "district": "MSD New Durham",
     "status": "read",
-    "documents": 1,
+    "documents": 2,
     "failed": [
-     "Minutes: scanned PDF - no readable text",
-     "Minutes: scanned PDF - no readable text"
+     "Aug. 11th signed minutes.pdf: scanned PDF - no readable text"
     ]
    },
    {
+    "district": "MSD New Durham",
+    "status": "nothing new",
+    "documents": 0,
+    "failed": []
+   },
+   {
     "district": "New Prairie",
-    "status": "read",
-    "documents": 3,
+    "status": "nothing new",
+    "documents": 0,
     "failed": []
    },
    {
@@ -85,8 +119,9 @@
    },
    {
     "district": "Tri-Creek",
-    "status": "unreachable",
-    "error": "HTTP Error 403: Forbidden"
+    "status": "read",
+    "documents": 3,
+    "failed": []
    },
    {
     "district": "Union Township",
@@ -98,13 +133,15 @@
    },
    {
     "district": "Duneland",
-    "status": "unreachable",
-    "error": "HTTP Error 403: Forbidden"
+    "status": "read",
+    "documents": 5,
+    "failed": []
    },
    {
     "district": "Portage Twp",
-    "status": "unreachable",
-    "error": "HTTP Error 403: Forbidden"
+    "status": "read",
+    "documents": 14,
+    "failed": []
    },
    {
     "district": "Highland",
@@ -116,18 +153,21 @@
    },
    {
     "district": "Hammond",
-    "status": "unreachable",
-    "error": "HTTP Error 403: Forbidden"
+    "status": "read",
+    "documents": 5,
+    "failed": []
    },
    {
     "district": "Whiting",
-    "status": "unreachable",
-    "error": "HTTP Error 403: Forbidden"
+    "status": "read",
+    "documents": 8,
+    "failed": []
    },
    {
     "district": "Gary",
-    "status": "unreachable",
-    "error": "HTTP Error 403: Forbidden"
+    "status": "read",
+    "documents": 3,
+    "failed": []
    },
    {
     "district": "Lake Ridge",
@@ -203,10 +243,10 @@
     },
     {
      "name": "Adam Minth",
-     "title": "Assistant Superintendent of Business and Operations"
+     "title": "Assistant Superintendent of Business & Operations"
     },
     {
-     "name": "Ms. Tina Mudy",
+     "name": "Tina Mudy",
      "title": "Human Resources Coordinator"
     }
    ],
@@ -331,10 +371,6 @@
     {
      "name": "Justin Holmquest",
      "title": "Director of Finance"
-    },
-    {
-     "name": "Tim Scott",
-     "title": "Director of Finance"
     }
    ],
    "pages": [
@@ -397,10 +433,6 @@
     {
      "name": "Dana Bogathy",
      "title": "Executive Director of Business Services"
-    },
-    {
-     "name": "Jennifer Cripe",
-     "title": "Personnel Assistant"
     },
     {
      "name": "Kelly Mikesell",
@@ -597,12 +629,12 @@
    "status": "read",
    "people": [
     {
-     "name": "Anthony O. Salinas Ed.S.",
-     "title": "Superintendent of Schools"
-    },
-    {
      "name": "Ms. Alesia Pritchett",
      "title": "Executive Director of Business Services"
+    },
+    {
+     "name": "Mr. Anthony Salinas",
+     "title": "Superintendent"
     },
     {
      "name": "Ms. Le Terra Smith",
@@ -692,6 +724,27 @@
    ]
   }
  ],
- "modelCalls": 30,
- "stories": []
+ "modelCalls": 52,
+ "stories": [
+  {
+   "district": "Duneland",
+   "kind": "admin",
+   "age": "2026-09-14",
+   "headline": "Hired: Allen Cochran, Chief Financial Officer",
+   "body": "Board minutes, meeting 2026-09-14. Listed now at Union Township as Assistant Superintendent Finance/HR/Operations.",
+   "source": "Minutes August 10 2026 Hicks.pdf, page 2",
+   "url": "https://go.boarddocs.com/in/duneland/Board.nsf/files/DXJN865EA38E/$file/Minutes%20August%2010%202026%20Hicks.pdf#page=2",
+   "n": 1
+  },
+  {
+   "district": "Gary",
+   "kind": "admin",
+   "age": "2026-09-10",
+   "headline": "Promoted: Sainima Moliga, Business Service Coordinator/Finance",
+   "body": "Board personnel report, meeting 2026-09-10. Effective 07/01/2026.",
+   "source": "5.4 Approval of Personnel Report.pdf, page 8",
+   "url": "https://go.boarddocs.com/in/gary/Board.nsf/files/DXQR5C6C4BCE/$file/5.4%20Approval%20of%20Personnel%20Report.pdf#page=8",
+   "n": 2
+  }
+ ]
 }
