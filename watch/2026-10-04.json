@@ -1,10 +1,10 @@
 {
  "date": "2026-10-04",
  "dateLabel": "Sunday, October 4, 2026",
- "generated": "2026-10-05T03:55:45Z",
+ "generated": "2026-10-05T04:18:58Z",
  "comparedTo": null,
  "baseline": true,
- "note": "First run - this is the baseline. Recorded 85 admin-building names across 21 districts. Changes are reported from next week.",
+ "note": "First roster run - this is the baseline. Recorded 86 admin-building names across 21 districts. Changes are reported from next week.",
  "counts": {
   "moved": 0,
   "titleChanged": 0,
@@ -22,6 +22,119 @@
   "MSD New Durham",
   "Gary"
  ],
+ "board": {
+  "mentions": [],
+  "alerts": [],
+  "checked": [
+   {
+    "district": "Eastern Pulaski",
+    "status": "not connected"
+   },
+   {
+    "district": "East Porter County",
+    "status": "not connected"
+   },
+   {
+    "district": "Hanover",
+    "status": "read",
+    "documents": 1,
+    "failed": []
+   },
+   {
+    "district": "LaPorte",
+    "status": "read",
+    "documents": 4,
+    "failed": []
+   },
+   {
+    "district": "Michigan City",
+    "status": "read",
+    "documents": 3,
+    "failed": [
+     "September 2026 Employee List.xlsx - Board Docs.pdf: HTTP Error 403: Forbidden",
+     "August 2026 Employee List.pdf: HTTP Error 403: Forbidden"
+    ]
+   },
+   {
+    "district": "MSD Boone Twp",
+    "status": "unreachable",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "district": "MSD New Durham",
+    "status": "read",
+    "documents": 1,
+    "failed": [
+     "Minutes: scanned PDF - no readable text",
+     "Minutes: scanned PDF - no readable text"
+    ]
+   },
+   {
+    "district": "New Prairie",
+    "status": "read",
+    "documents": 3,
+    "failed": []
+   },
+   {
+    "district": "NISEC",
+    "status": "not connected"
+   },
+   {
+    "district": "Hobart",
+    "status": "not connected"
+   },
+   {
+    "district": "Tri-Creek",
+    "status": "unreachable",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "district": "Union Township",
+    "status": "not connected"
+   },
+   {
+    "district": "Valparaiso",
+    "status": "not connected"
+   },
+   {
+    "district": "Duneland",
+    "status": "unreachable",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "district": "Portage Twp",
+    "status": "unreachable",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "district": "Highland",
+    "status": "not connected"
+   },
+   {
+    "district": "Lake Station",
+    "status": "not connected"
+   },
+   {
+    "district": "Hammond",
+    "status": "unreachable",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "district": "Whiting",
+    "status": "unreachable",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "district": "Gary",
+    "status": "unreachable",
+    "error": "HTTP Error 403: Forbidden"
+   },
+   {
+    "district": "Lake Ridge",
+    "status": "not connected"
+   }
+  ]
+ },
  "districts": [
   {
    "name": "Eastern Pulaski",
@@ -85,15 +198,15 @@
    "status": "read",
    "people": [
     {
-     "name": "Mr. Phil Misecko",
+     "name": "Phil Misecko",
      "title": "Superintendent of Hanover Schools"
     },
     {
      "name": "Adam Minth",
-     "title": "Assistant Superintendent of Business & Operations"
+     "title": "Assistant Superintendent of Business and Operations"
     },
     {
-     "name": "Tina Mudy",
+     "name": "Ms. Tina Mudy",
      "title": "Human Resources Coordinator"
     }
    ],
@@ -110,43 +223,43 @@
    "people": [
     {
      "name": "Dr. Sandra Wood",
-     "title": "Superintendent of Schools"
+     "title": "SUPERINTENDENT OF SCHOOLS"
     },
     {
      "name": "Dr. Aaron Owney",
-     "title": "Assistant Superintendent"
+     "title": "ASSISTANT SUPERINTENDENT"
     },
     {
      "name": "Shaun Pluta",
-     "title": "Human Resource Director"
+     "title": "HUMAN RESOURCE DIRECTOR"
     },
     {
      "name": "Tabatha Kehoe",
-     "title": "HR Coordinator/Leave Administrator"
+     "title": "HR COORDINATOR/LEAVE ADMINISTRATOR"
     },
     {
      "name": "Chris DeBruyn",
-     "title": "Director of Business Services"
+     "title": "DIRECTOR OF BUSINESS SERVICES"
     },
     {
      "name": "Jayne Grillo",
-     "title": "Treasurer"
+     "title": "TREASURER"
     },
     {
      "name": "Natasha Henry",
-     "title": "Deputy Treasurer"
+     "title": "DEPUTY TREASURER"
     },
     {
      "name": "Christine Barton",
-     "title": "Payroll - Certified Staff"
+     "title": "PAYROLL - Certified Staff"
     },
     {
      "name": "Roberta Moehl",
-     "title": "Payroll - Non-Certified Staff"
+     "title": "PAYROLL - Non-Certified Staff"
     },
     {
      "name": "Holly Casto",
-     "title": "Accounts Payable"
+     "title": "ACCOUNTS PAYABLE"
     }
    ],
    "pages": [
@@ -217,6 +330,10 @@
    "people": [
     {
      "name": "Justin Holmquest",
+     "title": "Director of Finance"
+    },
+    {
+     "name": "Tim Scott",
      "title": "Director of Finance"
     }
    ],
@@ -480,8 +597,8 @@
    "status": "read",
    "people": [
     {
-     "name": "Mr. Anthony Salinas",
-     "title": "Superintendent"
+     "name": "Anthony O. Salinas Ed.S.",
+     "title": "Superintendent of Schools"
     },
     {
      "name": "Ms. Alesia Pritchett",
@@ -575,6 +692,6 @@
    ]
   }
  ],
- "modelCalls": 18,
+ "modelCalls": 30,
  "stories": []
 }
