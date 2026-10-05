@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-05",
+  "dateLabel": "Monday, October 5, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-05T17:24:42Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, October 2, 2026 close — a choppy week in which a cooler September jobs report lifted tech shares but weighed on the broader market.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,722.72", "change": "-0.3%", "heroLabel": "week", "sixMo": "+7.1%" },
+        { "name": "Dow", "close": "51,176.96", "change": "-1.3%", "heroLabel": "week", "sixMo": "+3.1%" },
+        { "name": "Nasdaq", "close": "27,190.86", "change": "+0.5%", "heroLabel": "week", "sixMo": "+9.2%" }
+      ],
+      "body": "September payrolls rose just 29,000 versus forecasts of 84,000 and unemployment ticked up to 4.2%, easing fears of further Fed tightening; Nvidia hit an intraday record above $237 a share, pushing its market value past $5.7 trillion, while the Nasdaq outperformed the Dow for a sixth straight week.",
+      "source": "TheStreet",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-02-2026"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US pulls all 12 B-1 bombers out of UK base amid new Iran-linked plot warning",
+      "body": "The US military hastily withdrew every B-1B Lancer from RAF Fairford over the weekend after commanders received fresh intelligence pointing to an Iran-backed threat against the base, days after British police arrested five men near the facility amid a suspected terror-plot investigation.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "FBI arrests California woman accused of spying for China on Taiwan president's family",
+      "body": "Wanying 'Heather' Zhang, 34, of Irvine, was arrested Sunday at an airport as she tried to board a flight to Shanghai, charged with acting as an unregistered Chinese agent who surveilled and photographed the son of Taiwan President Lai Ching-te and his family in the US at Beijing's direction.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/10/05/g-s1-146410/fbi-arrests-a-woman-accused-of-spying-on-taiwan-leaders-family-for-china"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US strike on alleged drug boat in Caribbean kills four, pushing death toll past 235",
+      "body": "US Southern Command said Joint Task Force Western Hemisphere carried out another lethal strike Saturday on a go-fast vessel it described as a narco-trafficking boat, the 70th such strike since September 2025; UN human rights experts and groups including Human Rights Watch have called the campaign unlawful extrajudicial killing, which the administration disputes.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-strike-alleged-drug-smuggling-boat-caribbean-4-dead-southcom/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "SpaceX scrubs launch of 21 more missile-tracking satellites for the Space Development Agency",
+      "body": "A Falcon 9 carrying the fourth batch of Tranche 1 Transport Layer satellites auto-aborted in its final minute before Monday's planned Vandenberg liftoff; the Northrop Grumman-built satellites are part of the Proliferated Warfighter Space Architecture, a mesh network meant to link missile-tracking and secure-communications data across orbits, with another attempt set for Tuesday.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/10/04/live-coverage-spacex-to-launch-21-data-transport-satellites-for-the-space-development-agency/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic, OpenAI, Google and Meta executives testify at NYC Council AI safety hearing",
+      "body": "Senior leaders from the major AI labs testified under oath Monday before a rare full-council hearing on AI risks, where an Anthropic whistleblower said the industry is 'racing to build and grow our own adversary' in misaligned AI; separately, Anthropic opened in-country Claude inference in India through Amazon Bedrock for banks, government bodies and other regulated enterprises.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~today",
+      "empty": false,
+      "headline": "Bears rule out Caleb Williams again, confirm Tyson Bagent will start vs. Packers",
+      "body": "Head coach Ben Johnson said Monday that Caleb Williams' Grade 2 hamstring strain will keep him out three to four weeks and that Tyson Bagent will make his second straight start Sunday at Green Bay; left tackle Braxton Jones remains on injured reserve with Theo Benedet filling in at left tackle.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/05/bears-rule-out-qb-caleb-williams-vs-packers-will-start-backup-tyson-bagent-again"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only new Byron coverage in the window concerns Sunday's Chase standings shift at Las Vegas, which falls inside the 7-day spoiler window; no qualifying non-spoiler story on roster, sponsorship or schedule surfaced in the past 72 hours.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~today",
+      "empty": false,
+      "headline": "PCA Administrative Committee relaunches denomination-wide prayer guide for a second year",
+      "body": "The AC's 365-day prayer guide, which offers daily prompts to pray for every PCA church, church plant, presbytery, committee, agency, RUF ministry and MTW missionary worldwide, began its second year this month with new features, available online, by weekly email and by text; Stated Clerk Fred Greco called it 'the only resource of its kind where you can pray for every nation and every PCA congregation over the course of 12 months.'",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/pca-prayer-guide-begins-second-year/"
+    }
+  ]
+}
