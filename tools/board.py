@@ -14,9 +14,12 @@ Sources (per district, "board" in watch/districts.json):
 """
 import datetime as dt
 import html
+import http.cookiejar
 import io
 import json
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -55,11 +58,46 @@ Answer with ONLY a JSON array:
   "effective": "date as written, or empty", "page": <PDF page number or null>}}]"""
 
 
-def _req(url, data=None):
-    r = urllib.request.Request(url, data=data.encode() if data else None,
-                               headers={"User-Agent": UA, "Content-Type": "application/x-www-form-urlencoded"})
-    with urllib.request.urlopen(r, timeout=40) as resp:
-        return resp.read()
+# BoardDocs refuses (403) a burst of requests from a data-centre address, which is
+# what a GitHub runner is. First live run 2026-10-04: three districts read, then 403 for
+# the rest. So: keep cookies like a browser, pace requests, and back off on a refusal.
+_JAR = http.cookiejar.CookieJar()
+_OPENER = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(_JAR))
+_LAST = {}
+PACE_SECONDS = 3.0
+BACKOFF = (30, 90, 180)
+
+
+def _req(url, data=None, referer=None):
+    host = urllib.parse.urlsplit(url).netloc
+    for attempt in range(len(BACKOFF) + 1):
+        wait = PACE_SECONDS - (time.time() - _LAST.get(host, 0))
+        if wait > 0:
+            time.sleep(wait)
+        headers = {"User-Agent": UA, "Accept": "text/html,application/json,application/pdf,*/*;q=0.8",
+                   "Accept-Language": "en-US,en;q=0.9"}
+        if data:
+            headers["Content-Type"] = "application/x-www-form-urlencoded"
+            headers["X-Requested-With"] = "XMLHttpRequest"
+        if referer:
+            headers["Referer"] = referer
+        r = urllib.request.Request(url, data=data.encode() if data else None, headers=headers)
+        try:
+            _LAST[host] = time.time()
+            with _OPENER.open(r, timeout=40) as resp:
+                return resp.read()
+        except urllib.error.HTTPError as e:
+            if e.code in (403, 429, 503) and attempt < len(BACKOFF):
+                print(f"  .. {host} said {e.code}; waiting {BACKOFF[attempt]}s", flush=True)
+                time.sleep(BACKOFF[attempt])
+                continue
+            raise
+        except (TimeoutError, urllib.error.URLError) as e:
+            if attempt < len(BACKOFF):
+                print(f"  .. {host} timed out ({e}); retrying", flush=True)
+                time.sleep(10)
+                continue
+            raise
 
 
 def _text(b):
@@ -87,14 +125,15 @@ def boarddocs_docs(site, seen, today):
     if not m:
         raise RuntimeError("BoardDocs committee not found")
     cid = m.group(1)
-    meetings = json.loads(_req(base + "/BD-GetMeetingsList?open", "current_committee_id=" + cid) or b"[]")
+    ref = base + "/Public"
+    meetings = json.loads(_req(base + "/BD-GetMeetingsList?open", "current_committee_id=" + cid, ref) or b"[]")
     cutoff = (today - dt.timedelta(days=LOOKBACK_DAYS)).strftime("%Y%m%d")
     docs = []
     for mt in meetings:
         nd = mt.get("numberdate", "")
         if not nd or nd < cutoff:
             continue
-        b = _req(base + f"/PRINT-AgendaDetailed?open&id={mt['unique']}&current_committee_id={cid}").decode("utf-8", "replace")
+        b = _req(base + f"/PRINT-AgendaDetailed?open&id={mt['unique']}&current_committee_id={cid}", referer=ref).decode("utf-8", "replace")
         when = f"{nd[:4]}-{nd[4:6]}-{nd[6:]}"
         future = nd > today.strftime("%Y%m%d")
         link = f"{base}/goto?open&id={mt['unique']}"
@@ -109,7 +148,7 @@ def boarddocs_docs(site, seen, today):
                 continue
             docs.append({"id": f"bd:{site}:{f}", "kind": "minutes" if "minute" in name.lower() else
                          ("personnel report" if people else "attachment"), "people": people,
-                         "meeting": when, "title": name, "url": "https://go.boarddocs.com" + f, "pdf": True})
+                         "meeting": when, "title": name, "url": "https://go.boarddocs.com" + f, "pdf": True, "ref": ref})
     return [d for d in docs if d["id"] not in seen]
 
 
@@ -149,7 +188,7 @@ def doc_pages(doc):
     """[(page number or None, full text)] for one document."""
     if not doc.get("pdf"):
         return [(None, doc["text"])]
-    raw = _req(doc["url"])
+    raw = _req(doc["url"], referer=doc.get("ref"))
     if not raw[:5].startswith(b"%PDF"):
         raise RuntimeError("not a PDF")
     pages = [(n, re.sub(r"[ \t]+", " ", t)) for n, t in pdf_pages(raw)]
