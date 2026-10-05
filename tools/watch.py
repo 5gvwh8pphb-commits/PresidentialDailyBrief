@@ -159,6 +159,10 @@ Answer with ONLY a JSON array, no other words:
 [{{"name": "...", "title": "..."}}]"""
 
 
+class ModelError(RuntimeError):
+    """Claude itself failed - stop the run and publish nothing, rather than call the pages unread."""
+
+
 def ask_claude(district, text):
     cmd = [CLAUDE, "-p", PROMPT.format(district=district), "--model", MODEL,
            "--output-format", "text",
@@ -167,11 +171,11 @@ def ask_claude(district, text):
            "Agent,Task,ScheduleWakeup,TaskCreate,TaskUpdate,TaskOutput,SendMessage,Workflow"]
     r = subprocess.run(cmd, input=text, capture_output=True, text=True, encoding="utf-8", timeout=300)
     if r.returncode != 0:
-        raise RuntimeError(f"claude exited {r.returncode}: {(r.stderr or r.stdout).strip()[:200]}")
+        raise ModelError(f"claude exited {r.returncode}: {(r.stderr or r.stdout).strip()[:200]}")
     out = r.stdout
     a, b = out.find("["), out.rfind("]")
     if a < 0 or b < a:
-        raise RuntimeError(f"claude gave no JSON array: {out.strip()[:200]}")
+        raise ModelError(f"claude gave no JSON array: {out.strip()[:200]}")
     rows = json.loads(out[a:b + 1])
     squash = lambda s: re.sub(r"\s+", " ", s).lower()
     hay = squash(text)
@@ -329,6 +333,8 @@ def main():
                     calls += 1
                 pages.append({"url": url, "how": how, "hash": h, "people": found, "note": note})
                 people += found
+            except ModelError:
+                raise
             except Exception as e:  # noqa: BLE001
                 failed.append({"url": url, "error": short_error(e)})
                 print(f"  ! {d['name']}: {url} -> {short_error(e)}", file=sys.stderr)
