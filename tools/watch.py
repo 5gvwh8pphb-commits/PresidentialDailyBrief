@@ -193,13 +193,23 @@ HONORIFIC = re.compile(r"^(dr|mr|mrs|ms|miss|rev)\.?\s+", re.I)
 CREDENTIAL = re.compile(r",.*$|\b(ed\.?d|ph\.?d|ed\.?s|m\.?b\.?a|c\.?p\.?a|m\.?a|m\.?s|sphr|shrm-cp|jr|sr|ii|iii)\.?$", re.I)
 
 
+CRED_WORDS = re.compile(r"^\s*(ed\.?d|ph\.?d|ed\.?s|m\.?b\.?a|c\.?p\.?a|m\.?a|m\.?s|m\.?ed|sphr|shrm-cp|jr|sr|ii|iii)\.?\s*$", re.I)
+
+
 def person_key(name):
+    """'Dr. Jeff Brooks', 'Brooks, Jeff' and 'Jeff Brooks, Ed.S.' all -> 'brooks jeff'."""
     n = HONORIFIC.sub("", name.strip())
-    n = CREDENTIAL.sub("", n).strip()
+    head, _, tail = n.partition(",")
+    tail_parts = [t for t in tail.split(",") if t.strip()]
+    if tail_parts and not CRED_WORDS.match(tail_parts[0]):
+        n = tail_parts[0] + " " + head          # "Last, First"
+    else:
+        n = head
+    n = " ".join(t for t in n.split() if not CRED_WORDS.match(t))
     parts = [p for p in re.sub(r"[^a-z\s'-]", " ", n.lower()).split() if len(p) > 1]
     if len(parts) > 2:
         parts = [parts[0], parts[-1]]
-    return " ".join(parts)
+    return " ".join(sorted(parts))
 
 
 ABBREV = {"asst": "assistant", "dir": "director", "supt": "superintendent", "mgr": "manager",
