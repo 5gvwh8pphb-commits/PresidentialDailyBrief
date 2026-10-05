@@ -208,6 +208,25 @@
     <article class="task is-live">
       <div class="task-top">
         <div>
+          <h3>District watch</h3>
+          <p class="desc">Who sits in every admin building, week over week.</p>
+        </div>
+        <span class="pill pill--ok">Scheduled</span>
+      </div>
+      <div class="task-meta">
+        <span><b>Weekly</b> Sun by 4:00 AM CT</span>
+        <span><b>Latest</b> <span id="latest-watch">&hellip;</span></span>
+      </div>
+      <div class="actions">
+        <a class="btn btn--go" href="../watch/">Read latest watch</a>
+        <a class="btn btn--quiet" href="https://github.com/5gvwh8pphb-commits/PresidentialDailyBrief/actions/workflows/watch.yml"
+           target="_blank" rel="noopener noreferrer">Run now</a>
+      </div>
+    </article>
+
+    <article class="task is-live">
+      <div class="task-top">
+        <div>
           <h3>News feed</h3>
           <p class="desc">Headlines with pictures, from your sources.</p>
         </div>
@@ -276,6 +295,7 @@
     showLatest('../briefings/index.json', 'latest');
     showLatest('../district/index.json', 'latest-district');
     showLatest('../prospects/index.json', 'latest-prospects');
+    showLatest('../watch/index.json', 'latest-watch');
     fetch('../feed/latest.json?t=' + Date.now())
       .then(function (r) { return r.ok ? r.json() : null; })
       .then(function (d) {

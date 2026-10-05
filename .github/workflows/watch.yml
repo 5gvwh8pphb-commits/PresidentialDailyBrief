@@ -1,0 +1,100 @@
+name: District watch
+
+on:
+  schedule:
+    # 08:10 UTC Sunday = 3:10 AM Central Daylight Time Sunday.
+    # Same overnight usage window as the two weekly briefs (2:20 / 2:50) and the
+    # daily brief (3:40). The watch itself is mostly plain HTTP: Claude is only
+    # called for a page whose admin passage changed since last week, a few short
+    # calls on a normal Sunday.
+    # Note: drifts an hour earlier when CST resumes in November (2:10 AM).
+    - cron: '10 8 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Claude Code
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Read every admin building and compare with last week
+        id: run
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          python tools/watch.py
+          echo "date=$(python -c 'import json;print(json.load(open("watch/index.json"))["latest"])')" >> "$GITHUB_OUTPUT"
+
+      - name: Publish
+        run: |
+          git config user.name  "briefing-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          D="${{ steps.run.outputs.date }}"
+          if [ ! -f "watch/$D.json" ] || [ ! -f "watch/rosters/$D.json" ]; then
+            echo "::error::watch.py did not write watch/$D.json and watch/rosters/$D.json."
+            exit 1
+          fi
+          git add -A watch
+          if git diff --cached --quiet; then
+            echo "Nothing changed since the last run today - nothing to publish."
+            exit 0
+          fi
+          git commit -m "District watch $D"
+          for i in 1 2 3 4 5; do
+            if git push; then echo "pushed on attempt $i"; exit 0; fi
+            echo "push rejected; rebasing onto origin/main (attempt $i)"
+            git pull --rebase --autostash origin main || exit 1
+            sleep 5
+          done
+          echo "could not push after 5 attempts"
+          exit 1
+
+      - name: Build the email
+        id: mail
+        env:
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        if: env.MAIL_PASSWORD != ''
+        run: |
+          python tools/brief_email.py \
+            --json "watch/${{ steps.run.outputs.date }}.json" \
+            --title "District Watch" \
+            --url "https://5gvwh8pphb-commits.github.io/PresidentialDailyBrief/watch/" \
+            --out email.html \
+            --subject-out subject.txt
+          echo "subject=$(cat subject.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: Send it
+        env:
+          MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+        if: env.MAIL_PASSWORD != ''
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: ${{ secrets.MAIL_SERVER || 'smtp.gmail.com' }}
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: Skynet Briefings <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.MAIL_TO || 'jim.martin@americanfidelity.com' }}
+          subject: ${{ steps.mail.outputs.subject }}
+          html_body: file://email.html
+          convert_markdown: false

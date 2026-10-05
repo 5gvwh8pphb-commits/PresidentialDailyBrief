@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>District Watch</title>
+<meta name="description" content="Weekly roster check of every district admin building.">
+<meta name="theme-color" content="#10141A">
+<meta name="apple-mobile-web-app-title" content="Watch">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%2310141A'/><circle cx='14' cy='14' r='7' fill='none' stroke='%23F0A32E' stroke-width='2.4'/><path d='M19.5 19.5L26 26' stroke='%23F0A32E' stroke-width='2.6' stroke-linecap='round'/></svg>">
+<style>
+  :root {
+    color-scheme: dark;
+    --ground:#10141A; --surface:#171D26; --surface-2:#1E2631;
+    --line:#2B3542; --line-soft:#222B36;
+    --ink:#E8ECF2; --ink-muted:#97A4B4; --ink-faint:#6E7C8C;
+    --accent:#F0A32E;
+    --admin:#F0A32E; --trust:#8F87E6; --other:#4E9AE8; --student:#35B98C;
+    --mono: ui-monospace,"Cascadia Mono","SF Mono",Menlo,Consolas,monospace;
+    --sans: "Segoe UI",-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+  }
+  * { box-sizing:border-box; }
+  html { -webkit-text-size-adjust:100%; }
+  body {
+    margin:0 auto; max-width:720px; background:var(--ground); color:var(--ink);
+    font-family:var(--sans); line-height:1.5;
+    padding:20px 16px calc(48px + env(safe-area-inset-bottom));
+  }
+
+  /* Masthead geometry is shared byte-for-byte with skynet/index.html.
+     Do not tune these numbers on one page — the wordmark must not shift
+     by a single pixel when Jim moves between pages. */
+  .masthead {
+    display:flex; flex-direction:column; gap:11px;
+    position:sticky; top:0; z-index:20; background:var(--ground);
+    margin:-20px 0 12px; padding:20px 0 10px;
+  }
+  h1 {
+    font-family:var(--mono); font-size:25px; font-weight:700; margin:0;
+    letter-spacing:0.21em; text-transform:uppercase;
+    color:var(--ink); text-decoration:none;
+  }
+  h1 .dot { color:var(--accent); }
+  h1 a { color:inherit; text-decoration:none; }
+  h1 a:active { color:var(--accent); }
+  .rule { height:3px; border-radius:2px; background:linear-gradient(to right,var(--accent) 0 62px,var(--line) 62px 100%); }
+  .brandline { display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+  .pagename {
+    font-family:var(--mono); font-size:10.5px; text-transform:uppercase;
+    letter-spacing:0.15em; color:var(--ink-muted); margin:0;
+  }
+
+  .refresh {
+    -webkit-appearance:none; appearance:none; cursor:pointer;
+    background:var(--surface); color:var(--ink-muted); text-decoration:none;
+    border:1px solid var(--line); border-radius:8px;
+    font-family:var(--mono); font-size:10.5px; letter-spacing:0.09em; text-transform:uppercase;
+    display:inline-flex; align-items:center; gap:7px;
+    padding:0 12px; min-height:40px; flex-shrink:0;
+  }
+  .refresh:active { color:var(--accent); border-color:var(--accent); }
+  .refresh:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+  .refresh svg { display:block; }
+  .refresh.spin svg { animation:sp .7s linear infinite; }
+  @keyframes sp { to { transform:rotate(360deg); } }
+  @media (prefers-reduced-motion: reduce) { .refresh.spin svg { animation:none; } }
+  @media (min-width:620px) {
+    body { padding:32px 24px calc(64px + env(safe-area-inset-bottom)); }
+    .masthead { margin:-32px 0 12px; padding:32px 0 10px; }
+    h1 { font-size:31px; }
+  }
+  .meta {
+    font-family:var(--mono); font-size:11.5px; color:var(--ink-muted);
+    letter-spacing:0.05em; display:flex; flex-wrap:wrap; gap:4px 10px;
+  }
+  .meta .sep { color:var(--ink-faint); }
+
+  .lede {
+    font-size:14px; line-height:1.6; color:var(--ink-muted);
+    margin:0 0 16px; padding:12px 14px;
+    background:var(--surface); border:1px solid var(--line); border-left:3px solid var(--accent);
+  }
+
+  .cards { display:flex; flex-direction:column; gap:10px; }
+
+  .card {
+    background:var(--surface); border:1px solid var(--line);
+    border-left:3px solid var(--gc,var(--ink-faint)); border-radius:0;
+    padding:13px 14px; display:flex; flex-direction:column; gap:7px;
+    text-decoration:none; color:inherit;
+  }
+  a.card:hover { background:var(--surface-2); }
+  a.card:focus-visible { outline:2px solid var(--accent); outline-offset:2px; }
+
+  .card-top { display:flex; align-items:baseline; justify-content:space-between; gap:10px; }
+  .who {
+    font-family:var(--mono); font-size:10.5px; font-weight:700; letter-spacing:0.09em;
+    text-transform:uppercase; color:var(--gc,var(--ink-muted)); line-height:1.35;
+  }
+  .age {
+    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint);
+    white-space:nowrap; font-variant-numeric:tabular-nums;
+  }
+  .headline { font-size:16px; font-weight:650; margin:0; line-height:1.32; text-wrap:balance; }
+  .body { font-size:14px; color:var(--ink-muted); margin:0; line-height:1.55; }
+  .src {
+    font-family:var(--mono); font-size:10.5px; color:var(--ink-faint);
+    display:flex; align-items:center; gap:5px;
+  }
+  .src .arrow { color:var(--gc); }
+  .tag {
+    font-family:var(--mono); font-size:9.5px; letter-spacing:0.1em; text-transform:uppercase;
+    color:var(--ink-faint); border:1px solid var(--line); border-radius:999px; padding:2px 7px;
+  }
+
+  .foot {
+    margin-top:24px; padding-top:14px; border-top:1px solid var(--line);
+    font-family:var(--mono); font-size:11px; color:var(--ink-faint); line-height:1.6;
+  }
+  .archive { margin-top:14px; display:flex; align-items:center; gap:8px; flex-wrap:wrap; }
+  .archive label { font-family:var(--mono); font-size:11px; color:var(--ink-faint); letter-spacing:0.06em; }
+  select {
+    font-family:var(--mono); font-size:12px; padding:8px 10px; min-height:40px;
+    background:var(--surface); color:var(--ink); border:1px solid var(--line); border-radius:6px;
+  }
+  .back { font-family:var(--mono); font-size:11px; color:var(--accent); text-decoration:none; padding:8px 0; }
+  .back:hover { text-decoration:underline; }
+  .covered { margin-top:12px; color:var(--ink-faint); font-size:10.5px; line-height:1.7; }
+
+  .state { padding:36px 16px; text-align:center; color:var(--ink-muted); }
+  .state .mark {
+    display:inline-block; font-family:var(--mono); font-size:11px; letter-spacing:0.16em;
+    color:var(--accent); border:1px dashed var(--accent); border-radius:5px; padding:7px 12px; margin-bottom:12px;
+  }
+  .state p { margin:0 auto; font-size:14px; max-width:44ch; line-height:1.6; }
+
+  .tiles { display:grid; grid-template-columns:repeat(auto-fit,minmax(96px,1fr)); gap:8px; margin:0 0 16px; }
+  .tile { background:var(--surface); border:1px solid var(--line); padding:9px 11px; }
+  .tile .k { font-family:var(--mono); font-size:9.5px; letter-spacing:0.1em; text-transform:uppercase; color:var(--ink-faint); }
+  .tile .v { font-family:var(--mono); font-size:22px; font-weight:700; font-variant-numeric:tabular-nums; }
+  .tile.hot .v { color:var(--accent); }
+  .tile.bad .v { color:#E5604D; }
+  .sec {
+    font-family:var(--mono); font-size:10.5px; letter-spacing:0.13em; text-transform:uppercase;
+    color:var(--ink-muted); margin:22px 0 8px;
+  }
+  .move { border:2px solid var(--accent); border-left-width:3px; }
+  .grp {
+    font-family:var(--mono); font-size:9.5px; letter-spacing:0.1em; text-transform:uppercase;
+    border-radius:999px; padding:2px 8px; white-space:nowrap; border:1px solid var(--line); color:var(--ink-muted);
+  }
+  .grp.account { color:var(--student); border-color:var(--student); }
+  .grp.prospect { color:var(--accent); border-color:var(--accent); }
+  .path { font-size:14px; margin:0; line-height:1.55; }
+  .path .arrow { color:var(--accent); padding:0 4px; }
+  .rows { background:var(--surface); border:1px solid var(--line); }
+  .r { display:flex; justify-content:space-between; gap:12px; padding:10px 13px; border-top:1px solid var(--line-soft); font-size:14px; }
+  .r:first-child { border-top:0; }
+  .r .n { font-weight:650; }
+  .r .d { color:var(--ink-faint); font-family:var(--mono); font-size:10.5px; letter-spacing:0.06em; text-transform:uppercase; }
+  .r .t { color:var(--ink-muted); text-align:right; }
+  .r .bad { color:#E5604D; }
+  details.dist { background:var(--surface); border:1px solid var(--line); border-top:0; }
+  details.dist:first-of-type { border-top:1px solid var(--line); }
+  details.dist summary {
+    cursor:pointer; list-style:none; display:flex; justify-content:space-between; align-items:center; gap:10px;
+    padding:11px 13px; font-size:14px; min-height:44px;
+  }
+  details.dist summary::-webkit-details-marker { display:none; }
+  details.dist summary .c { font-family:var(--mono); font-size:11px; color:var(--ink-faint); }
+  details.dist[open] summary { border-bottom:1px solid var(--line-soft); }
+  details.dist .p { display:flex; justify-content:space-between; gap:12px; padding:7px 13px; font-size:13.5px; }
+  details.dist .p span:last-child { color:var(--ink-muted); text-align:right; }
+  details.dist .u { padding:8px 13px 12px; font-family:var(--mono); font-size:10.5px; color:var(--ink-faint); word-break:break-all; }
+  details.dist .u a { color:var(--ink-faint); }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="brandline">
+    <h1><a href="../skynet/" aria-label="Back to Skynet console">Skynet<span class="dot">.</span></a></h1>
+  </div>
+  <div class="rule"></div>
+  <p class="pagename">District Watch &middot; admin buildings</p>
+  <div class="meta" id="meta"><span>Loading&hellip;</span></div>
+</header>
+
+<div id="lede"></div>
+<div id="tiles"></div>
+
+<main id="out">
+  <div class="state"><span class="mark">LOADING</span><p>Fetching this week's watch.</p></div>
+</main>
+
+<p class="sec">Who's on file</p>
+<div id="roster"></div>
+
+<footer class="foot">
+  Central-office business, finance and HR roles only &middot; read from each district's own website every Sunday.
+  <div class="archive">
+    <label for="pick">Past weeks</label>
+    <select id="pick"></select>
+    <button class="refresh" id="refresh" type="button" aria-label="Refresh">
+      <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true">
+        <path d="M20 11a8 8 0 1 0-2.3 5.7" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round"/>
+        <path d="M20 4v7h-7" fill="none" stroke="currentColor"
+              stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      <span>Refresh</span>
+    </button>
+    <a class="back" href="../skynet/">&larr; Skynet console</a>
+  </div>
+</footer>
+
+<script>
+(function () {
+  var out = document.getElementById('out');
+  var meta = document.getElementById('meta');
+  var lede = document.getElementById('lede');
+  var tiles = document.getElementById('tiles');
+  var roster = document.getElementById('roster');
+  var pick = document.getElementById('pick');
+
+  function esc(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function state(mark, msg) {
+    out.innerHTML = '<div class="state"><span class="mark">' + esc(mark) + '</span><p>' + esc(msg) + '</p></div>';
+  }
+  function grp(g) { return '<span class="grp ' + esc(g) + '">' + (g === 'account' ? 'Account' : 'Prospect') + '</span>'; }
+  function sec(title, html) { return html ? '<p class="sec">' + title + '</p>' + html : ''; }
+  function rows(list, fn) { return list && list.length ? '<div class="rows">' + list.map(fn).join('') + '</div>' : ''; }
+  function row(left, right, cls) {
+    return '<div class="r"><span>' + left + '</span><span class="t' + (cls ? ' ' + cls : '') + '">' + right + '</span></div>';
+  }
+  function who(name, district) { return '<span class="n">' + esc(name) + '</span> <span class="d">' + esc(district) + '</span>'; }
+
+  function moveCard(m) {
+    var kind = m.from.group === m.to.group ? '' :
+      (m.from.group === 'account' ? 'Account &rarr; prospect' : 'Prospect &rarr; account');
+    return '<div class="card move" style="--gc:var(--accent)">' +
+      '<div class="card-top"><span class="headline">' + esc(m.name) + '</span>' +
+      (kind ? '<span class="grp prospect">' + kind + '</span>' : '') + '</div>' +
+      '<p class="path">' + esc(m.from.district) + ' &middot; ' + esc(m.from.title) +
+      '<span class="arrow">&rarr;</span>' + esc(m.to.district) + ' &middot; ' + esc(m.to.title) + '</p>' +
+      (m.replaces ? '<p class="body">Replaces ' + esc(m.replaces) + '.</p>' : '') +
+      (m.stillListedAtOld ? '<p class="body">' + esc(m.from.district) + '&rsquo;s site still lists them &mdash; it hasn&rsquo;t caught up yet.</p>' : '') +
+      '</div>';
+  }
+
+  function render(d) {
+    meta.innerHTML = '<span>' + esc(d.dateLabel || d.date) + '</span>' +
+      (d.comparedTo ? '<span class="sep">&middot;</span><span>vs ' + esc(d.comparedTo) + '</span>' : '') +
+      '<span class="sep">&middot;</span><span>' + (d.districts || []).length + ' districts</span>';
+    document.title = 'Watch — ' + (d.dateLabel || d.date);
+    lede.innerHTML = d.note ? '<p class="lede">' + esc(d.note) + '</p>' : '';
+
+    var c = d.counts || {};
+    tiles.innerHTML = d.baseline ? '' : '<div class="tiles">' +
+      [['Moved', c.moved, 'hot'], ['Title changed', c.titleChanged], ['New in seat', c.added],
+       ['Seat empty', c.seatEmpty], ['Pages unread', c.unread, c.unread ? 'bad' : '']]
+      .map(function (t) {
+        return '<div class="tile ' + (t[2] || '') + '"><div class="k">' + t[0] + '</div><div class="v">' + (t[1] || 0) + '</div></div>';
+      }).join('') + '</div>';
+
+    var empty = (d.gone || []).filter(function (g) { return g.seatEmpty; });
+    var left = (d.gone || []).filter(function (g) { return !g.seatEmpty; });
+    var html =
+      sec('Moved between districts', (d.moved || []).length ? '<div class="cards">' + d.moved.map(moveCard).join('') + '</div>' : '') +
+      sec('Title changed', rows(d.titleChanged, function (t) {
+        return row(who(t.name, t.district), esc(t.old) + ' &rarr; ' + esc(t.new));
+      })) +
+      sec('New in seat', rows(d.added, function (a) {
+        return row(who(a.name, a.district), esc(a.title) + (a.replaces ? ' &middot; replaces ' + esc(a.replaces) : ' &middot; not listed last week'));
+      })) +
+      sec('Seat now empty', rows(empty, function (g) {
+        return row('<span class="n">' + esc(g.title) + '</span> <span class="d">' + esc(g.district) + '</span>',
+                   esc(g.name) + ' gone &middot; not at any watched district');
+      })) +
+      sec('Gone', rows(left, function (g) {
+        return row(who(g.name, g.district), esc(g.title) + ' &middot; not at any watched district');
+      })) +
+      sec('Pages that couldn&rsquo;t be read &mdash; last week&rsquo;s names kept, nothing assumed', rows(d.unread, function (u) {
+        return row('<span class="n">' + esc(u.district) + '</span>', esc(u.error) + (u.lastGood ? ' &middot; last good read ' + esc(u.lastGood) : ''), 'bad');
+      })) +
+      sec('Districts that post no admin names', rows(d.noNames, function (n) {
+        return row('<span class="n">' + esc(n) + '</span>', 'website lists nobody');
+      }));
+
+    out.innerHTML = html || (d.baseline ? '' :
+      '<div class="state"><span class="mark">NO CHANGES</span><p>Every admin building reads the same as last week. That is the normal result and is reported rather than padded.</p></div>');
+
+    roster.innerHTML = (d.districts || []).map(function (x) {
+      var ppl = x.people || [];
+      return '<details class="dist"><summary><span>' + esc(x.name) + ' ' + grp(x.group) + '</span>' +
+        '<span class="c">' + (x.status === 'unread' ? 'unread' : ppl.length + ' on file') + '</span></summary>' +
+        ppl.map(function (p) { return '<div class="p"><span>' + esc(p.name) + '</span><span>' + esc(p.title) + '</span></div>'; }).join('') +
+        '<div class="u">' + (x.pages || []).map(function (u) {
+          return '<a href="' + esc(u) + '" target="_blank" rel="noopener noreferrer">' + esc(u) + '</a>';
+        }).join('<br>') + '</div></details>';
+    }).join('');
+  }
+
+  function load(date) {
+    state('LOADING', 'Fetching the watch.');
+    fetch(date + '.json?t=' + Date.now())
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(render)
+      .catch(function () { state('UNAVAILABLE', 'Could not load the watch for ' + date + '.'); });
+  }
+
+  var wired = false;
+  function boot() {
+    return fetch('index.json?t=' + Date.now())
+      .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function (idx) {
+        pick.innerHTML = (idx.archive || []).map(function (a) {
+          return '<option value="' + esc(a.date) + '">' + esc(a.label || a.date) + '</option>';
+        }).join('');
+        pick.value = idx.latest;
+        if (!wired) { pick.addEventListener('change', function () { load(pick.value); }); wired = true; }
+        load(idx.latest);
+      })
+      .catch(function () {
+        state('NOT YET RUN', 'The first district watch has not been published yet. It runs early Sunday morning.');
+        meta.innerHTML = '<span>&mdash;</span>';
+      });
+  }
+  boot();
+
+  // Home-screen web clips resume from a snapshot. Re-fetch on return.
+  document.addEventListener('visibilitychange', function () { if (!document.hidden) boot(); });
+  window.addEventListener('pageshow', function (e) { if (e.persisted) boot(); });
+  var rb = document.getElementById('refresh');
+  rb.addEventListener('click', function () {
+    rb.classList.add('spin');
+    boot().then(function () { setTimeout(function () { rb.classList.remove('spin'); }, 400); });
+  });
+})();
+</script>
+</body>
+</html>

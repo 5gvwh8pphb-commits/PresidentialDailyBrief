@@ -10,6 +10,7 @@ Two briefs live here:
 | Daily news brief | `/` | by 6 AM CT (cron 08:40 UTC) | `.github/workflows/briefing.yml` |
 | My district news | `/district/` | Sundays ~6 PM CT (cron 22:50 UTC) | `.github/workflows/district.yml` |
 | Prospect districts | `/prospects/` | Sundays ~7 PM CT (cron 23:50 UTC) | `.github/workflows/prospects.yml` |
+| District watch | `/watch/` | Sundays by 4 AM CT (cron 08:10 UTC) | `.github/workflows/watch.yml` |
 | Skynet console (hub) | `/skynet/` | — | — |
 
 **Scheduling reality:** GitHub's scheduled runs are best-effort and queue behind
@@ -259,3 +260,58 @@ Differences from the district brief:
 | 6 | School City of Whiting | Whiting |
 | 7 | Gary Community School Corporation | Gary |
 | 8 | Lake Ridge Schools | Gary |
+
+---
+
+# District watch
+
+Weekly. Reads every tracked district's own admin / staff page, records the name and
+title of everyone in a central-office business, finance or HR role, and compares
+with the previous week. Built 2026-10-04 after the news briefs missed Allen Cochran
+moving from Union Township (account) to Duneland HR Director (prospect): news briefs
+keep no roster, run accounts and prospects separately, and only see what a newspaper prints.
+
+**Not a Claude-written brief.** `tools/watch.py` does the fetching and the comparison in
+plain code. Claude (`claude -p`, Sonnet 5) is called only to pull names out of a non-Apptegy
+page whose admin passage changed since last week, one short call per page, and any name it
+returns that is not on the page verbatim is dropped.
+
+## Files
+
+```
+watch/districts.json          the districts and the page(s) to read for each - edit to fix a URL
+watch/rosters/YYYY-MM-DD.json everyone's name and title per district that week (+ page hashes)
+watch/YYYY-MM-DD.json         the report the page renders
+watch/index.json              { latest, archive[] }
+watch/index.html              page shell
+```
+
+## Rules
+
+- **Roles kept:** superintendent (all levels), CFO, treasurer / deputy / assistant, business
+  manager, payroll, accounts payable, HR, benefits / insurance, and similar. Teachers,
+  principals, board members and secretaries are dropped. Filter is `ROLE` in `tools/watch.py`.
+- **Page kinds:** `apptegy` = Apptegy staff directory, parsed from its staff cards across every
+  `?page_no=`; staff assigned to a single school are dropped. `text` = any other page, trimmed
+  to the passages around admin titles before Claude sees it.
+- **A page that fails to load** is listed as unread; that district keeps last week's roster and
+  produces no changes. A failed fetch is never read as "everyone left".
+- **Moves** are matched by name across all districts, including when the old district's site
+  still lists the person (`stillListedAtOld`). Names are compared without Dr./credentials.
+- **Titles** are compared as word sets with common abbreviations expanded, so "Asst. Supt / CFO"
+  equals "Assistant Superintendent/CFO".
+- **First run is the baseline** - it records names and reports no changes.
+
+## Report shape
+
+`counts {moved, titleChanged, added, seatEmpty, gone, unread}`, then `moved[]`
+(`name, from{district,group,title}, to{...}, replaces, stillListedAtOld`), `titleChanged[]`,
+`added[]` (`replaces` or null), `gone[]` (`seatEmpty` = nobody holds that title now),
+`unread[]`, `noNames[]` (districts whose site lists nobody), `districts[]` (full roster + URLs),
+and `stories[]` in the brief shape so `tools/brief_email.py` can mail it.
+
+## Known gaps (2026-10-04)
+
+- **Gary** and **MSD New Durham** publish no admin names - the watch reports them as such.
+- District websites lag. Union still listed Cochran after he had moved; school board
+  minutes are the faster signal and are the planned next addition.
