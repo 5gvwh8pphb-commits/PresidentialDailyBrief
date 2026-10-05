@@ -243,7 +243,8 @@ def run(districts, today, seen_path, ask, excerpt, keep_role, person_key):
                 pages = doc_pages(doc)
             except Exception as e:  # noqa: BLE001
                 failed.append(f"{doc['title'][:60]}: {str(e)[:80]}")
-                seen.add(doc["id"])
+                if re.search(r"scanned|not a PDF", str(e)):
+                    seen.add(doc["id"])      # permanent - don't retry; a refusal or timeout retries next week
                 continue
             seen.add(doc["id"])
             read += 1
