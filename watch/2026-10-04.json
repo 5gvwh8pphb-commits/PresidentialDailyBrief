@@ -1,10 +1,10 @@
 {
  "date": "2026-10-04",
  "dateLabel": "Sunday, October 4, 2026",
- "generated": "2026-10-05T03:52:05Z",
+ "generated": "2026-10-05T03:55:45Z",
  "comparedTo": null,
  "baseline": true,
- "note": "First run - this is the baseline. Recorded 83 admin-building names across 21 districts. Changes are reported from next week.",
+ "note": "First run - this is the baseline. Recorded 85 admin-building names across 21 districts. Changes are reported from next week.",
  "counts": {
   "moved": 0,
   "titleChanged": 0,
@@ -19,7 +19,6 @@
  "gone": [],
  "unread": [],
  "noNames": [
-  "MSD Boone Twp",
   "MSD New Durham",
   "Gary"
  ],
@@ -86,7 +85,7 @@
    "status": "read",
    "people": [
     {
-     "name": "Phil Misecko",
+     "name": "Mr. Phil Misecko",
      "title": "Superintendent of Hanover Schools"
     },
     {
@@ -111,43 +110,43 @@
    "people": [
     {
      "name": "Dr. Sandra Wood",
-     "title": "SUPERINTENDENT OF SCHOOLS"
+     "title": "Superintendent of Schools"
     },
     {
      "name": "Dr. Aaron Owney",
-     "title": "ASSISTANT SUPERINTENDENT"
+     "title": "Assistant Superintendent"
     },
     {
      "name": "Shaun Pluta",
-     "title": "HUMAN RESOURCE DIRECTOR"
+     "title": "Human Resource Director"
     },
     {
      "name": "Tabatha Kehoe",
-     "title": "HR COORDINATOR/LEAVE ADMINISTRATOR"
+     "title": "HR Coordinator/Leave Administrator"
     },
     {
      "name": "Chris DeBruyn",
-     "title": "DIRECTOR OF BUSINESS SERVICES"
+     "title": "Director of Business Services"
     },
     {
      "name": "Jayne Grillo",
-     "title": "TREASURER"
+     "title": "Treasurer"
     },
     {
      "name": "Natasha Henry",
-     "title": "DEPUTY TREASURER"
+     "title": "Deputy Treasurer"
     },
     {
      "name": "Christine Barton",
-     "title": "PAYROLL - Certified Staff"
+     "title": "Payroll - Certified Staff"
     },
     {
      "name": "Roberta Moehl",
-     "title": "PAYROLL - Non-Certified Staff"
+     "title": "Payroll - Non-Certified Staff"
     },
     {
      "name": "Holly Casto",
-     "title": "ACCOUNTS PAYABLE"
+     "title": "Accounts Payable"
     }
    ],
    "pages": [
@@ -184,7 +183,20 @@
    "name": "MSD Boone Twp",
    "group": "account",
    "status": "read",
-   "people": [],
+   "people": [
+    {
+     "name": "Brooks, Jeff",
+     "title": "District Superintendent"
+    },
+    {
+     "name": "Hindes, Beverly",
+     "title": "District Corp Treasurer"
+    },
+    {
+     "name": "Kubaszak, Karen",
+     "title": "District Accts Payable"
+    }
+   ],
    "pages": [
     "https://www.hebronschools.k12.in.us/35580_1"
    ]
@@ -205,10 +217,6 @@
    "people": [
     {
      "name": "Justin Holmquest",
-     "title": "Director of Finance"
-    },
-    {
-     "name": "Tim Scott",
      "title": "Director of Finance"
     }
    ],
@@ -472,15 +480,15 @@
    "status": "read",
    "people": [
     {
-     "name": "Anthony O. Salinas Ed.S.",
-     "title": "Superintendent of Schools"
+     "name": "Mr. Anthony Salinas",
+     "title": "Superintendent"
     },
     {
-     "name": "Alesia Pritchett",
+     "name": "Ms. Alesia Pritchett",
      "title": "Executive Director of Business Services"
     },
     {
-     "name": "Le Terra Smith",
+     "name": "Ms. Le Terra Smith",
      "title": "Director of Human Resources"
     },
     {
