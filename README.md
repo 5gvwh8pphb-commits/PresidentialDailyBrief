@@ -315,3 +315,22 @@ and `stories[]` in the brief shape so `tools/brief_email.py` can mail it.
 - **Gary** and **MSD New Durham** publish no admin names - the watch reports them as such.
 - District websites lag. Union still listed Cochran after he had moved; school board
   minutes are the faster signal and are the planned next addition.
+
+## Board agendas and minutes (added 2026-10-04)
+
+`tools/board.py`, called from `watch.py`, reads each district's board documents and adds
+two sections to the same weekly report. Nothing is archived: `watch/board_seen.json` holds
+only the IDs of documents already read and of alerts already sent.
+
+- **Vendor mentions** (top of the report): any mention of Aflac, American Fidelity, Steele
+  Benefits or Colonial (not "Colonial Elementary" etc.) anywhere in an agenda, minutes, or a
+  benefits/insurance attachment. Plain text search over every page, not the model.
+- **Admin hires and exits**: Claude reads the admin-title passages of agendas, personnel
+  reports and minutes; same role list as the roster. Each alert links to the meeting or to
+  the PDF page (`#page=N`). Agendas are read before the meeting, so alerts can come before the vote.
+- **Sources** are `board` in `watch/districts.json`: `{"kind":"boarddocs","site":"<code>"}`
+  (meetings in the last 45 days or in the future) or `{"kind":"pages","url":...}` (a page of PDF
+  links; first run reads only the newest 3). Scanned PDFs can't be read and are listed as such.
+- **Not connected yet (2026-10-04):** Union Twp (Diligent), Eastern Pulaski (Google Drive),
+  Valparaiso, Highland, Lake Ridge, NISEC, Hobart (Google Drive), Lake Station (Finalsite viewer
+  links), East Porter (BoardDocs with no public meetings).

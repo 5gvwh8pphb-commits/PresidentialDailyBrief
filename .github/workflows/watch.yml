@@ -21,7 +21,7 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
 
@@ -33,8 +33,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install Claude Code
-        run: npm install -g @anthropic-ai/claude-code
+      - name: Install Claude Code and the PDF reader
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          pip install pypdf
 
       - name: Read every admin building and compare with last week
         id: run

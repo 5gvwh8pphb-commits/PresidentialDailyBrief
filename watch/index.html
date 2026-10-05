@@ -267,9 +267,29 @@
         return '<div class="tile ' + (t[2] || '') + '"><div class="k">' + t[0] + '</div><div class="v">' + (t[1] || 0) + '</div></div>';
       }).join('') + '</div>';
 
+    var b = d.board || {};
+    var vend = rows(b.mentions, function (v) {
+      return '<a class="r" style="text-decoration:none;color:inherit" href="' + esc(v.url) + '" target="_blank" rel="noopener noreferrer">' +
+        '<span><span class="n" style="color:var(--accent)">' + esc(v.vendor) + '</span> <span class="d">' + esc(v.district) + '</span><br>' +
+        '<span class="t" style="text-align:left;display:block;font-size:13px">' + esc(v.snippet) + '</span></span>' +
+        '<span class="t" style="white-space:nowrap">' + esc(v.upcoming ? 'Agenda ' : '') + esc(v.meeting || v.docKind) +
+        (v.page ? ' &middot; p.' + v.page : '') + ' &rarr;</span></a>';
+    });
+    var hires = (b.alerts || []).map(function (a) {
+      var now = (a.listedNow || []).map(function (x) { return x.district + '&rsquo;s site lists them as ' + esc(x.title); }).join('; ');
+      return '<a class="card" style="--gc:var(--accent)" href="' + esc(a.url) + '" target="_blank" rel="noopener noreferrer">' +
+        '<div class="card-top"><span class="headline">' + esc(a.name || 'Search') + (a.name ? ' &middot; ' : ' &middot; ') + esc(a.role) + '</span>' +
+        '<span class="grp prospect">' + esc(a.action) + '</span></div>' +
+        '<p class="body">' + esc(a.district) + ' ' + grp(a.group) + ' &middot; ' +
+        (a.upcoming ? 'on the agenda for ' : 'board ') + esc(a.meeting || a.docKind) + (a.effective ? ' &middot; effective ' + esc(a.effective) : '') + '</p>' +
+        (now ? '<p class="body">' + now + '</p>' : '') +
+        '<div class="src"><span>' + esc(a.docTitle) + (a.page ? ', page ' + a.page : '') + ' <span class="arrow">&rarr;</span></span></div></a>';
+    }).join('');
     var empty = (d.gone || []).filter(function (g) { return g.seatEmpty; });
     var left = (d.gone || []).filter(function (g) { return !g.seatEmpty; });
     var html =
+      sec('Aflac &middot; American Fidelity &middot; Steele &middot; Colonial &mdash; mentioned in board documents', vend) +
+      sec('Admin hires and exits &mdash; from board agendas and minutes', hires ? '<div class="cards">' + hires + '</div>' : '') +
       sec('Moved between districts', (d.moved || []).length ? '<div class="cards">' + d.moved.map(moveCard).join('') + '</div>' : '') +
       sec('Title changed', rows(d.titleChanged, function (t) {
         return row(who(t.name, t.district), esc(t.old) + ' &rarr; ' + esc(t.new));
@@ -294,14 +314,24 @@
     out.innerHTML = html || (d.baseline ? '' :
       '<div class="state"><span class="mark">NO CHANGES</span><p>Every admin building reads the same as last week. That is the normal result and is reported rather than padded.</p></div>');
 
-    roster.innerHTML = (d.districts || []).map(function (x) {
+    var checked = (b.checked || []);
+    var bstat = {};
+    checked.forEach(function (c) { bstat[c.district] = c; });
+    roster.innerHTML = (d.districts || []).slice().sort(function (x, y) {
+      // Districts whose website lists nobody (Gary, New Durham) go to the bottom.
+      return ((x.people || []).length ? 0 : 1) - ((y.people || []).length ? 0 : 1);
+    }).map(function (x) {
+      var bs = bstat[x.name];
+      var bline = bs ? '<div class="u">Board documents: ' + esc(bs.status) +
+        (bs.documents ? ' &middot; ' + bs.documents + ' read this week' : '') +
+        ((bs.failed || []).length ? ' &middot; couldn&rsquo;t read: ' + bs.failed.map(esc).join('; ') : '') + '</div>' : '';
       var ppl = x.people || [];
       return '<details class="dist"><summary><span>' + esc(x.name) + ' ' + grp(x.group) + '</span>' +
         '<span class="c">' + (x.status === 'unread' ? 'unread' : ppl.length + ' on file') + '</span></summary>' +
         ppl.map(function (p) { return '<div class="p"><span>' + esc(p.name) + '</span><span>' + esc(p.title) + '</span></div>'; }).join('') +
         '<div class="u">' + (x.pages || []).map(function (u) {
           return '<a href="' + esc(u) + '" target="_blank" rel="noopener noreferrer">' + esc(u) + '</a>';
-        }).join('<br>') + '</div></details>';
+        }).join('<br>') + '</div>' + bline + '</details>';
     }).join('');
   }
 

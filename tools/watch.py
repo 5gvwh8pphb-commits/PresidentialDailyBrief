@@ -164,7 +164,12 @@ class ModelError(RuntimeError):
 
 
 def ask_claude(district, text):
-    cmd = [CLAUDE, "-p", PROMPT.format(district=district), "--model", MODEL,
+    rows = claude_json(PROMPT.format(district=district), text)
+    return verify_names(rows, text)
+
+
+def claude_json(prompt, text):
+    cmd = [CLAUDE, "-p", prompt, "--model", MODEL,
            "--output-format", "text",
            "--disallowedTools",
            "Bash,Read,Write,Edit,Glob,Grep,WebFetch,WebSearch,NotebookEdit,TodoWrite,"
@@ -176,7 +181,10 @@ def ask_claude(district, text):
     a, b = out.find("["), out.rfind("]")
     if a < 0 or b < a:
         raise ModelError(f"claude gave no JSON array: {out.strip()[:200]}")
-    rows = json.loads(out[a:b + 1])
+    return json.loads(out[a:b + 1])
+
+
+def verify_names(rows, text):
     words = set(re.findall(r"[a-z'-]+", text.lower()))
     kept = []
     for p in rows:
@@ -365,12 +373,20 @@ def main():
 
     baseline = not prev
     moved, titled, added, gone = ([], [], [], []) if baseline else compare(cur, prev, districts)
+    import board
+    alerts, mentions, checked, seen_state, bcalls = board.run(
+        districts, now.date(), WATCH / "board_seen.json", claude_json, excerpt, keep_role, person_key)
+    calls += bcalls
+    for a in alerts:   # where is this person listed right now, by the websites?
+        k = person_key(a["name"]) if a["name"] else ""
+        a["listedNow"] = [{"district": cur[o]["name"], "group": cur[o]["group"], "title": p["title"]}
+                          for o, v in cur.items() for p in v.get("people", []) if k and person_key(p["name"]) == k]
     no_names = [d["name"] for d in districts if cur[d["id"]]["status"] == "read" and not cur[d["id"]]["people"]]
 
     if baseline:
-        note = (f"First run - this is the baseline. Recorded {sum(len(v.get('people', [])) for v in cur.values())} "
+        note = (f"First roster run - this is the baseline. Recorded {sum(len(v.get('people', [])) for v in cur.values())} "
                 f"admin-building names across {len(districts)} districts. Changes are reported from next week.")
-    elif not (moved or titled or added or gone):
+    elif not (moved or titled or added or gone or alerts or mentions):
         note = "No changes at any admin building this week."
     else:
         note = ""
@@ -386,12 +402,14 @@ def main():
                    "seatEmpty": sum(1 for g in gone if g["seatEmpty"]), "gone": len(gone), "unread": len(unread)},
         "moved": moved, "titleChanged": titled, "added": added, "gone": gone,
         "unread": unread, "noNames": no_names,
+        "board": {"mentions": mentions, "alerts": alerts, "checked": checked},
         "districts": [{"name": d["name"], "group": d["group"], "status": cur[d["id"]]["status"],
                        "people": cur[d["id"]].get("people", []),
                        "pages": [p["url"] for p in d["pages"]]} for d in districts],
         "modelCalls": calls,
     }
     report["stories"] = stories(report)
+    (WATCH / "board_seen.json").write_text(json.dumps(seen_state, indent=1, sort_keys=True) + "\n", encoding="utf-8")
     (WATCH / f"{today}.json").write_text(json.dumps(report, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
 
     idx_path = WATCH / "index.json"
@@ -410,6 +428,20 @@ def stories(r):
     """The same changes in the brief 'stories' shape, so tools/brief_email.py can mail it."""
     out = []
     side = lambda g: "account" if g == "account" else "prospect"
+    for v in r.get("board", {}).get("mentions", []):
+        out.append({"district": v["district"], "kind": "trust", "age": v["meeting"] or "this week",
+                    "headline": f"{v['vendor']} mentioned in {v['district']} board {v['docKind']}",
+                    "body": v["snippet"], "source": v["docTitle"][:60] + (f", page {v['page']}" if v.get("page") else ""),
+                    "url": v["url"]})
+    for a in r.get("board", {}).get("alerts", []):
+        now = "; ".join(f"listed now at {x['district']} as {x['title']}" for x in a.get("listedNow", []))
+        out.append({"district": a["district"], "kind": "admin", "age": a["meeting"] or "this week",
+                    "headline": f"{a['action']}: {a['name'] or a['role']}" + (f", {a['role']}" if a["name"] else ""),
+                    "body": " ".join(x for x in [
+                        f"{'Upcoming agenda' if a['upcoming'] else 'Board ' + a['docKind']}, meeting {a['meeting']}." if a["meeting"] else f"Board {a['docKind']}.",
+                        f"Effective {a['effective']}." if a["effective"] else "",
+                        (now[0].upper() + now[1:] + ".") if now else ""] if x),
+                    "source": a["docTitle"][:60] + (f", page {a['page']}" if a.get("page") else ""), "url": a["url"]})
     for m in r["moved"]:
         out.append({"district": m["to"]["district"], "kind": "admin", "age": "this week",
                     "headline": f"{m['name']} moved from {m['from']['district']} to {m['to']['district']}",
