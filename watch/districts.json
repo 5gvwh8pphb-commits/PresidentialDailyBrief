@@ -1,9 +1,9 @@
 {
-  "_about": "District watch config. One entry per district. 'apptegy' pages are parsed directly (staff cards, every page); 'text' pages are trimmed to the admin-title passages and read by Claude only when that passage changed. Add or fix a URL here and the next run picks it up. 'board' = where board agendas/minutes are read (boarddocs site code, or a page of PDF links); districts without it show as 'not connected'.",
+  "_about": "District watch config. One entry per district. 'apptegy' pages are parsed directly (staff cards, every page); 'text' pages are trimmed to the admin-title passages and read by Claude only when that passage changed. Add or fix a URL here and the next run picks it up. 'board' = where board agendas/minutes are read (boarddocs site code, a page of document links, a Google Drive folder, or a Diligent / ic-board portal - see tools/board.py); districts without it show as 'not connected'.",
   "districts": [
     {"id": "eastern-pulaski", "name": "Eastern Pulaski", "group": "account",
      "pages": [{"url": "https://www.epulaski.k12.in.us/staff", "kind": "apptegy"}]},
-    {"id": "east-porter", "name": "East Porter County", "group": "account",
+    {"id": "east-porter", "board": {"kind": "boarddocs", "site": "epcsc"}, "name": "East Porter County", "group": "account",
      "pages": [{"url": "https://www.eastporter.k12.in.us/staff", "kind": "apptegy"}]},
     {"id": "hanover", "board": {"kind": "boarddocs", "site": "hanover"}, "name": "Hanover", "group": "account",
      "pages": [{"url": "https://www.hanover.k12.in.us/departments-home/administration", "kind": "text"},
@@ -21,22 +21,22 @@
      "pages": [{"url": "https://www.npusc.k12.in.us/", "kind": "text"}]},
     {"id": "nisec", "name": "NISEC", "group": "account",
      "pages": [{"url": "https://www.nisec.org/about-us", "kind": "text"}]},
-    {"id": "hobart", "name": "Hobart", "group": "account",
+    {"id": "hobart", "board": {"kind": "icboard", "host": "hobartpublic.ic-board.com"}, "name": "Hobart", "group": "account",
      "pages": [{"url": "https://www.hobart.k12.in.us/our-district/building-information/central-administration-office", "kind": "text"}]},
     {"id": "tri-creek", "board": {"kind": "boarddocs", "site": "tricreek"}, "name": "Tri-Creek", "group": "account",
      "pages": [{"url": "https://www.tricreek.k12.in.us/about/staff-directory", "kind": "text"}]},
-    {"id": "union-twp", "name": "Union Township", "group": "account",
+    {"id": "union-twp", "board": {"kind": "diligent", "host": "unionk12.community.diligentoneplatform.com"}, "name": "Union Township", "group": "account",
      "pages": [{"url": "https://wheeler.union.k12.in.us/o/utsc/staff", "kind": "apptegy"}]},
-    {"id": "valparaiso", "name": "Valparaiso", "group": "account",
+    {"id": "valparaiso", "board": {"kind": "boarddocs", "site": "valp"}, "name": "Valparaiso", "group": "account",
      "pages": [{"url": "https://www.valpo.k12.in.us/apps/pages/index.jsp?uREC_ID=1219855&type=d&pREC_ID=1535788", "kind": "text"}]},
 
     {"id": "duneland", "board": {"kind": "boarddocs", "site": "duneland"}, "name": "Duneland", "group": "prospect",
      "pages": [{"url": "https://www.duneland.k12.in.us/administration/central-administration/district-administrators-directors-and-managers", "kind": "text"}]},
     {"id": "portage", "board": {"kind": "boarddocs", "site": "portage"}, "name": "Portage Twp", "group": "prospect",
      "pages": [{"url": "https://www.portage.k12.in.us/apps/pages/index.jsp?uREC_ID=2027075&type=d&pREC_ID=2106151", "kind": "text"}]},
-    {"id": "highland", "name": "Highland", "group": "prospect",
+    {"id": "highland", "board": {"kind": "pages", "url": "https://www.highland.k12.in.us/page/school-board-meeting-information", "all": true}, "name": "Highland", "group": "prospect",
      "pages": [{"url": "https://www.highland.k12.in.us/staff", "kind": "apptegy"}]},
-    {"id": "lake-station", "name": "Lake Station", "group": "prospect",
+    {"id": "lake-station", "board": {"kind": "pages", "url": "https://www.lakes.k12.in.us/administration/board-of-trustees/board-minutes"}, "name": "Lake Station", "group": "prospect",
      "pages": [{"url": "https://www.lakes.k12.in.us/administration/administration-office-staff", "kind": "text"}]},
     {"id": "hammond", "board": {"kind": "boarddocs", "site": "hammond"}, "name": "Hammond", "group": "prospect",
      "pages": [{"url": "https://www.hammond.k12.in.us/district-info/sch-administration", "kind": "text"},
@@ -45,7 +45,7 @@
      "pages": [{"url": "https://www.whiting.k12.in.us/staff", "kind": "apptegy"}]},
     {"id": "gary", "board": {"kind": "boarddocs", "site": "gary"}, "name": "Gary", "group": "prospect",
      "pages": [{"url": "https://www.garycsc.k12.in.us/o/gcs/page/administration", "kind": "text"}]},
-    {"id": "lake-ridge", "name": "Lake Ridge", "group": "prospect",
+    {"id": "lake-ridge", "board": {"kind": "drive", "folder": "1za91a7z5cOx6P_YIGI96RiHjGSJ_4lom"}, "name": "Lake Ridge", "group": "prospect",
      "pages": [{"url": "https://www.lakeridge.k12.in.us/staff", "kind": "apptegy"}]}
   ]
 }

@@ -272,7 +272,7 @@
       return '<a class="r" style="text-decoration:none;color:inherit" href="' + esc(v.url) + '" target="_blank" rel="noopener noreferrer">' +
         '<span><span class="n" style="color:var(--accent)">' + esc(v.vendor) + '</span> <span class="d">' + esc(v.district) + '</span><br>' +
         '<span class="t" style="text-align:left;display:block;font-size:13px">' + esc(v.snippet) + '</span></span>' +
-        '<span class="t" style="white-space:nowrap">' + esc(v.upcoming ? 'Agenda ' : '') + esc(v.meeting || v.docKind) +
+        '<span class="t" style="white-space:nowrap">' + esc(v.upcoming ? 'Agenda ' : '') + esc(v.meeting || v.docKind) + (v.catchup ? ' &middot; catch-up' : '') +
         (v.page ? ' &middot; p.' + v.page : '') + ' &rarr;</span></a>';
     });
     var hires = (b.alerts || []).map(function (a) {
@@ -281,7 +281,8 @@
         '<div class="card-top"><span class="headline">' + esc(a.name || 'Search') + (a.name ? ' &middot; ' : ' &middot; ') + esc(a.role) + '</span>' +
         '<span class="grp prospect">' + esc(a.action) + '</span></div>' +
         '<p class="body">' + esc(a.district) + ' ' + grp(a.group) + ' &middot; ' +
-        (a.upcoming ? 'on the agenda for ' : 'board ') + esc(a.meeting || a.docKind) + (a.effective ? ' &middot; effective ' + esc(a.effective) : '') + '</p>' +
+        (a.upcoming ? 'on the agenda for ' : 'board ') + esc(a.meeting || a.docKind) + (a.effective ? ' &middot; effective ' + esc(a.effective) : '') +
+        (a.catchup ? ' &middot; <b>catch-up</b> (first read of this board &mdash; not new this week)' : '') + '</p>' +
         (now ? '<p class="body">' + now + '</p>' : '') +
         '<div class="src"><span>' + esc(a.docTitle) + (a.page ? ', page ' + a.page : '') + ' <span class="arrow">&rarr;</span></span></div></a>';
     }).join('');

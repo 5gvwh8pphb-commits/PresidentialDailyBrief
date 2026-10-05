@@ -328,9 +328,22 @@ only the IDs of documents already read and of alerts already sent.
 - **Admin hires and exits**: Claude reads the admin-title passages of agendas, personnel
   reports and minutes; same role list as the roster. Each alert links to the meeting or to
   the PDF page (`#page=N`). Agendas are read before the meeting, so alerts can come before the vote.
-- **Sources** are `board` in `watch/districts.json`: `{"kind":"boarddocs","site":"<code>"}`
-  (meetings in the last 45 days or in the future) or `{"kind":"pages","url":...}` (a page of PDF
-  links; first run reads only the newest 3). Scanned PDFs can't be read and are listed as such.
-- **Not connected yet (2026-10-04):** Union Twp (Diligent), Eastern Pulaski (Google Drive),
-  Valparaiso, Highland, Lake Ridge, NISEC, Hobart (Google Drive), Lake Station (Finalsite viewer
-  links), East Porter (BoardDocs with no public meetings).
+- **Sources** are `board` in `watch/districts.json` (readers in `tools/board.py`):
+  - `{"kind":"boarddocs","site":"<code>"}` - meetings in the last 45 days or in the future.
+  - `{"kind":"pages","url":...,"all":true?}` - a page of document links; first run reads only the
+    newest 3 (by the date in the link text). Apptegy pages (links inside the page JSON, `5il.co`
+    short links) work; `all` takes every document link, for pages whose links are only dates.
+  - `{"kind":"drive","folder":"<id>"}` - public Google Drive folder; follows the newest two year
+    sub-folders. Reads PDF, Word `.docx` and old `.doc`.
+  - `{"kind":"diligent","host":...}` - Diligent Community portal: agenda text + personnel/minutes attachments.
+  - `{"kind":"icboard","host":...}` - ElectronicSchoolBoard (`ic-board.com`): needs the root page's
+    session cookie first, then each agenda item's `/attachments/*.pdf`.
+  Files are read by what they are (PDF / docx / doc / HTML), not their name. Scanned PDFs can't be
+  read and are listed as such.
+- **Catch-up:** the first time a board is read, its alerts carry `"catchup": true` and the page
+  labels them "catch-up" - they can be weeks old.
+- **Connected (2026-10-05):** 19 of 21.
+- **Not connected:** Eastern Pulaski and NISEC - they publish board meetings only as YouTube
+  video, no agendas or minutes online. Gary and New Durham publish no admin names on their sites,
+  so their boards are their only signal. Highland and Lake Ridge post minutes months late (latest
+  Jan 2026 and May 2026 on 2026-10-05); Lake Station's latest is Apr 2026.

@@ -440,6 +440,7 @@ def stories(r):
                     "body": " ".join(x for x in [
                         f"{'Upcoming agenda' if a['upcoming'] else 'Board ' + a['docKind']}, meeting {a['meeting']}." if a["meeting"] else f"Board {a['docKind']}.",
                         f"Effective {a['effective']}." if a["effective"] else "",
+                        "Catch-up: first read of this board, not new this week." if a.get("catchup") else "",
                         (now[0].upper() + now[1:] + ".") if now else ""] if x),
                     "source": a["docTitle"][:60] + (f", page {a['page']}" if a.get("page") else ""), "url": a["url"]})
     for m in r["moved"]:
