@@ -1,0 +1,572 @@
+{
+ "date": "2026-10-04",
+ "dateLabel": "Sunday, October 4, 2026",
+ "generated": "2026-10-05T03:52:05Z",
+ "comparedTo": null,
+ "baseline": true,
+ "note": "First run - this is the baseline. Recorded 83 admin-building names across 21 districts. Changes are reported from next week.",
+ "counts": {
+  "moved": 0,
+  "titleChanged": 0,
+  "added": 0,
+  "seatEmpty": 0,
+  "gone": 0,
+  "unread": 0
+ },
+ "moved": [],
+ "titleChanged": [],
+ "added": [],
+ "gone": [],
+ "unread": [],
+ "noNames": [
+  "MSD Boone Twp",
+  "MSD New Durham",
+  "Gary"
+ ],
+ "districts": [
+  {
+   "name": "Eastern Pulaski",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Chad Smekens",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Katie DeGroot",
+     "title": "Director of Human Resources"
+    },
+    {
+     "name": "Stefanie Grandstaff",
+     "title": "Director of Business Services"
+    }
+   ],
+   "pages": [
+    "https://www.epulaski.k12.in.us/staff"
+   ]
+  },
+  {
+   "name": "East Porter County",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. Reid  Amones",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Allisa Schnick",
+     "title": "Assistant Superintendent"
+    },
+    {
+     "name": "Kim Nieves",
+     "title": "Director of Business Affairs and Human Resources"
+    },
+    {
+     "name": "Melissa McCoin",
+     "title": "Receptionist/Accounts Payable"
+    },
+    {
+     "name": "Lisa Thompson",
+     "title": "Deputy Treasurer"
+    },
+    {
+     "name": "Kelly Biggs",
+     "title": "Payroll"
+    }
+   ],
+   "pages": [
+    "https://www.eastporter.k12.in.us/staff"
+   ]
+  },
+  {
+   "name": "Hanover",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Phil Misecko",
+     "title": "Superintendent of Hanover Schools"
+    },
+    {
+     "name": "Adam Minth",
+     "title": "Assistant Superintendent of Business & Operations"
+    },
+    {
+     "name": "Tina Mudy",
+     "title": "Human Resources Coordinator"
+    }
+   ],
+   "pages": [
+    "https://www.hanover.k12.in.us/departments-home/administration",
+    "https://www.hanover.k12.in.us/departments-home/business",
+    "https://www.hanover.k12.in.us/departments-home/human-resources-department"
+   ]
+  },
+  {
+   "name": "LaPorte",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. Sandra Wood",
+     "title": "SUPERINTENDENT OF SCHOOLS"
+    },
+    {
+     "name": "Dr. Aaron Owney",
+     "title": "ASSISTANT SUPERINTENDENT"
+    },
+    {
+     "name": "Shaun Pluta",
+     "title": "HUMAN RESOURCE DIRECTOR"
+    },
+    {
+     "name": "Tabatha Kehoe",
+     "title": "HR COORDINATOR/LEAVE ADMINISTRATOR"
+    },
+    {
+     "name": "Chris DeBruyn",
+     "title": "DIRECTOR OF BUSINESS SERVICES"
+    },
+    {
+     "name": "Jayne Grillo",
+     "title": "TREASURER"
+    },
+    {
+     "name": "Natasha Henry",
+     "title": "DEPUTY TREASURER"
+    },
+    {
+     "name": "Christine Barton",
+     "title": "PAYROLL - Certified Staff"
+    },
+    {
+     "name": "Roberta Moehl",
+     "title": "PAYROLL - Non-Certified Staff"
+    },
+    {
+     "name": "Holly Casto",
+     "title": "ACCOUNTS PAYABLE"
+    }
+   ],
+   "pages": [
+    "https://www.lpcsc.k12.in.us/en-US/central-administration-d1b81310"
+   ]
+  },
+  {
+   "name": "Michigan City",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. Wendel McCollum",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Cathy Bildhauser",
+     "title": "Associate Superintendent, Director of K-12 Curriculum"
+    },
+    {
+     "name": "Kristi Davis",
+     "title": "Assistant Superintendent of Operations"
+    },
+    {
+     "name": "Sally Clark",
+     "title": "Director of Human Resources"
+    }
+   ],
+   "pages": [
+    "https://www.educatemc.net/welcome-to-city/about-us/leadership"
+   ]
+  },
+  {
+   "name": "MSD Boone Twp",
+   "group": "account",
+   "status": "read",
+   "people": [],
+   "pages": [
+    "https://www.hebronschools.k12.in.us/35580_1"
+   ]
+  },
+  {
+   "name": "MSD New Durham",
+   "group": "account",
+   "status": "read",
+   "people": [],
+   "pages": [
+    "https://www.westville.k12.in.us/administration/district_staff"
+   ]
+  },
+  {
+   "name": "New Prairie",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Justin Holmquest",
+     "title": "Director of Finance"
+    },
+    {
+     "name": "Tim Scott",
+     "title": "Director of Finance"
+    }
+   ],
+   "pages": [
+    "https://www.npusc.k12.in.us/"
+   ]
+  },
+  {
+   "name": "NISEC",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Peyton Gilmore",
+     "title": "Chief Financial Officer"
+    },
+    {
+     "name": "Christine Hazard",
+     "title": "HR Generalist"
+    }
+   ],
+   "pages": [
+    "https://www.nisec.org/about-us"
+   ]
+  },
+  {
+   "name": "Hobart",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. Peggy Buffington",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Bob Glover",
+     "title": "Business Manager"
+    },
+    {
+     "name": "Jonathan Mock",
+     "title": "Director of Human Resources & Compliance"
+    },
+    {
+     "name": "Martha Glover",
+     "title": "Insurance Benefit Coordinator"
+    }
+   ],
+   "pages": [
+    "https://www.hobart.k12.in.us/our-district/building-information/central-administration-office"
+   ]
+  },
+  {
+   "name": "Tri-Creek",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. Andy Anderson",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Dana Bogathy",
+     "title": "Executive Director of Business Services"
+    },
+    {
+     "name": "Jennifer Cripe",
+     "title": "Personnel Assistant"
+    },
+    {
+     "name": "Kelly Mikesell",
+     "title": "Fiscal Compliance Officer/Deputy Treasurer"
+    },
+    {
+     "name": "Annemarie Moen",
+     "title": "Director of Human Resources"
+    },
+    {
+     "name": "Olivia Pearman",
+     "title": "Financial Assistant—Payroll"
+    },
+    {
+     "name": "Katy Sherman",
+     "title": "Financial Assistant—Accounts Payable"
+    }
+   ],
+   "pages": [
+    "https://www.tricreek.k12.in.us/about/staff-directory"
+   ]
+  },
+  {
+   "name": "Union Township",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Leigh Barnes",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Allen Cochran",
+     "title": "Assistant Superintendent Finance/HR/Operations"
+    },
+    {
+     "name": "Kelley Lemley",
+     "title": "Payroll/Human Resources"
+    },
+    {
+     "name": "Tammy Gasienica",
+     "title": "SIS Coordinator / Deputy Treasurer"
+    },
+    {
+     "name": "Kyle Becich",
+     "title": "Business Manager"
+    }
+   ],
+   "pages": [
+    "https://wheeler.union.k12.in.us/o/utsc/staff"
+   ]
+  },
+  {
+   "name": "Valparaiso",
+   "group": "account",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. Brian Smith",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Dr. Nick Allison",
+     "title": "Assistant Superintendent for Secondary Education"
+    },
+    {
+     "name": "Dr. Judy Barbknecht",
+     "title": "Assistant Superintendent for Elementary Education"
+    },
+    {
+     "name": "Dr. Erin Hawkins",
+     "title": "Assistant Superintendent for Support Services"
+    },
+    {
+     "name": "Mr. Jim Holifield",
+     "title": "Chief Financial Officer"
+    }
+   ],
+   "pages": [
+    "https://www.valpo.k12.in.us/apps/pages/index.jsp?uREC_ID=1219855&type=d&pREC_ID=1535788"
+   ]
+  },
+  {
+   "name": "Duneland",
+   "group": "prospect",
+   "status": "read",
+   "people": [
+    {
+     "name": "Robert McDermott, Ed.S.",
+     "title": "Superintendent of Schools"
+    },
+    {
+     "name": "Benjamin Tonagel, Ed.D.",
+     "title": "Assistant Superintendent"
+    },
+    {
+     "name": "Lynn Kwilasz",
+     "title": "Assistant Superintendent / CFO"
+    },
+    {
+     "name": "Regan Keating",
+     "title": "Director of Human Resources"
+    },
+    {
+     "name": "Aaron Prybylla",
+     "title": "Director of Business Services"
+    }
+   ],
+   "pages": [
+    "https://www.duneland.k12.in.us/administration/central-administration/district-administrators-directors-and-managers"
+   ]
+  },
+  {
+   "name": "Portage Twp",
+   "group": "prospect",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. Amanda Alaniz",
+     "title": "Superintendent of Portage Township Schools"
+    },
+    {
+     "name": "Dr. Michael Stephens",
+     "title": "Associate Superintendent of Portage Township Schools"
+    },
+    {
+     "name": "Nicholas Gron",
+     "title": "Chief Financial Officer"
+    }
+   ],
+   "pages": [
+    "https://www.portage.k12.in.us/apps/pages/index.jsp?uREC_ID=2027075&type=d&pREC_ID=2106151"
+   ]
+  },
+  {
+   "name": "Highland",
+   "group": "prospect",
+   "status": "read",
+   "people": [
+    {
+     "name": "Dr. John Schwuchow",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Kim Fulton",
+     "title": "Chief Financial Officer"
+    },
+    {
+     "name": "Jean Gogolak",
+     "title": "Deputy Treasurer"
+    },
+    {
+     "name": "April Rindoks",
+     "title": "Accounts Payable"
+    },
+    {
+     "name": "Dawn Topor",
+     "title": "Insurance"
+    }
+   ],
+   "pages": [
+    "https://www.highland.k12.in.us/staff"
+   ]
+  },
+  {
+   "name": "Lake Station",
+   "group": "prospect",
+   "status": "read",
+   "people": [
+    {
+     "name": "Jodi Carr",
+     "title": "Deputy Treasurer"
+    },
+    {
+     "name": "Eric Kurtz",
+     "title": "Assistant Superintendent"
+    },
+    {
+     "name": "Christine Pepa",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Tammy Whisenant",
+     "title": "Director of Finance"
+    }
+   ],
+   "pages": [
+    "https://www.lakes.k12.in.us/administration/administration-office-staff"
+   ]
+  },
+  {
+   "name": "Hammond",
+   "group": "prospect",
+   "status": "read",
+   "people": [
+    {
+     "name": "Anthony O. Salinas Ed.S.",
+     "title": "Superintendent of Schools"
+    },
+    {
+     "name": "Alesia Pritchett",
+     "title": "Executive Director of Business Services"
+    },
+    {
+     "name": "Le Terra Smith",
+     "title": "Director of Human Resources"
+    },
+    {
+     "name": "Tina M. Franks",
+     "title": "Business Services Coordinator"
+    },
+    {
+     "name": "Lisa Greenwald",
+     "title": "Payroll Coordinator"
+    },
+    {
+     "name": "Lisa Pearson",
+     "title": "Payroll Coordinator"
+    },
+    {
+     "name": "Marcia Witherspoon",
+     "title": "Financial Specialist"
+    }
+   ],
+   "pages": [
+    "https://www.hammond.k12.in.us/district-info/sch-administration",
+    "https://www.hammond.k12.in.us/departments/business-office/index"
+   ]
+  },
+  {
+   "name": "Whiting",
+   "group": "prospect",
+   "status": "read",
+   "people": [
+    {
+     "name": "David Verta",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Felicia Cronin",
+     "title": "Payroll & Human Resources"
+    },
+    {
+     "name": "Raechel Adam",
+     "title": "District Treasurer/Benefits"
+    },
+    {
+     "name": "Jessica Belford",
+     "title": "Accounts Payable/Board Secretary"
+    }
+   ],
+   "pages": [
+    "https://www.whiting.k12.in.us/staff"
+   ]
+  },
+  {
+   "name": "Gary",
+   "group": "prospect",
+   "status": "read",
+   "people": [],
+   "pages": [
+    "https://www.garycsc.k12.in.us/o/gcs/page/administration"
+   ]
+  },
+  {
+   "name": "Lake Ridge",
+   "group": "prospect",
+   "status": "read",
+   "people": [
+    {
+     "name": "Chris Bajmakovich",
+     "title": "Superintendent"
+    },
+    {
+     "name": "Christina Akers",
+     "title": "Treasurer"
+    },
+    {
+     "name": "Cynthia Mose-Trevino",
+     "title": "Assistant Superintendent"
+    },
+    {
+     "name": "Adrian Wilkerson",
+     "title": "Business Manager/CFO"
+    }
+   ],
+   "pages": [
+    "https://www.lakeridge.k12.in.us/staff"
+   ]
+  }
+ ],
+ "modelCalls": 18,
+ "stories": []
+}
