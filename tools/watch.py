@@ -177,12 +177,12 @@ def ask_claude(district, text):
     if a < 0 or b < a:
         raise ModelError(f"claude gave no JSON array: {out.strip()[:200]}")
     rows = json.loads(out[a:b + 1])
-    squash = lambda s: re.sub(r"\s+", " ", s).lower()
-    hay = squash(text)
+    words = set(re.findall(r"[a-z'-]+", text.lower()))
     kept = []
     for p in rows:
         name, title = str(p.get("name", "")).strip(), str(p.get("title", "")).strip()
-        if name and title and squash(name) in hay:   # must be on the page, verbatim
+        # Every word of the name must be on the page (any order - "Brooks, Jeff" is fine).
+        if name and title and person_key(name) and all(w in words for w in person_key(name).split()):
             kept.append({"name": name, "title": title})
     return kept
 
