@@ -1,22 +1,124 @@
 {
- "generated": "2026-10-06T00:27:53+00:00",
+ "generated": "2026-10-06T06:40:09+00:00",
  "count": 40,
  "withImage": 39,
- "bearsDay": false,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "yardbarker.com"
  ],
  "items": [
+  {
+   "title": "Trump allows cheaper, dyed diesel on highways to blunt historic fuel-cost spike ahead of midterms",
+   "url": "https://www.cnbc.com/2026/10/06/us-diesel-fuel-prices-iran-ukraine-energy-crisis-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The U.S. national average price of diesel topped $6 a gallon in September for the first time ever, as fuel supply disruptions pushed up transportation costs in the count…",
+   "image": "https://image.cnbcfm.com/api/v1/image/108372810-17912289172026-10-05t193422z_781899936_rc27xnaney1z_rtrmadp_0_usa-trump.jpeg?v=1791228983&amp;w=1920&amp;h=1080",
+   "age": "22m ago",
+   "published": "2026-10-06T06:17:40+00:00"
+  },
+  {
+   "title": "How quant funds beat the market by being 'early, contrarian and right'",
+   "url": "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108199776-1758101378069-gettyimages-2227303022-US_STOCKS_TARIFFS.jpeg?v=1759236869&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-06T05:00:01+00:00"
+  },
+  {
+   "title": "Massachusetts felon pleads guilty after DOJ says he sold Russian plutonium to 67 customers",
+   "url": "https://www.foxnews.com/us/massachusetts-felon-pleads-guilty-after-doj-says-he-sold-russian-plutonium-67-customers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A convicted felon from Massachusetts pleaded guilty to illegally importing plutonium from Russia and selling it to customers in the U.S. and abroad.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/fbi-joint-task-force-jacket-felon-mugshot.png?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-06T04:37:15+00:00"
+  },
+  {
+   "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+   "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108133850-1745207559864-gettyimages-2187282084-200530_0515.jpeg?v=1745207848&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-06T04:07:24+00:00"
+  },
+  {
+   "title": "Falcons turn primetime doubters into believers behind Bijan Robinson's back-to-back masterpieces",
+   "url": "https://www.foxnews.com/outkick-sports/falcons-turn-primetime-doubters-believers-bijan-robinson-back-to-back-masterpieces",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "All the haters who didn t want to watch the Atlanta Falcons in three straight primetime games need to change their minds, Bijan Robinson is a must-watch.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bijan-robinson-falcons-touchdown.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-06T04:01:33+00:00"
+  },
+  {
+   "title": "Rays capitalize on four Yankees errors to take commanding 2-0 ALDS lead",
+   "url": "https://www.foxnews.com/outkick-sports/rays-capitalize-four-yankees-errors-take-commanding-2-0-alds-lead",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ben Rice s two-homer effort wasn t enough as three first-inning errors and a bases-loaded failure left the Yankees reeling in a 5-2 ALDS loss.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/junior-caminero-rays-tropicana-field.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-06T03:46:50+00:00"
+  },
+  {
+   "title": "Nobu chef killed after teen driver crashes into parked car in California",
+   "url": "https://www.foxnews.com/us/nobu-chef-killed-teen-driver-crashes-parked-car-california",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A longtime chef at Nobu Malibu was napping in his parked car before his shift when a speeding 16-year-old slammed his Range Rover into his sedan.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/nobu-malibu-restaurant-cali.png?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-10-06T02:19:32+00:00"
+  },
+  {
+   "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
+   "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-10-06T01:55:50+00:00"
+  },
+  {
+   "title": "Saquon Barkley injury update: Eagles star considered week-to-week, per report",
+   "url": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/04/d5dc5da2-9982-4b37-8620-2c3631e1aa2d/saquon-barkley-eagles.jpg",
+   "age": "5h ago",
+   "published": "2026-10-06T01:12:16+00:00"
+  },
   {
    "title": "Boeing locks in 7-year deal to triple PAC-3 MSE seeker output",
    "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/boeing-locks-in-7-year-deal-to-triple-pac-3-mse-seeker-output/",
@@ -25,41 +127,30 @@
    "topic": "defense",
    "summary": "The agreement follows a framework deal that was announced in April. Production will span seven years and be completed at Boeing’s Huntsville facility.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MFBCU2XVNJC37O63F4QZHGI4FU.jpg",
-   "age": "8m ago",
+   "age": "6h ago",
    "published": "2026-10-06T00:19:22+00:00"
   },
   {
-   "title": "Trump clears way for Fort Hood terrorist to face Army firing squad nearly 17 years after massacre",
-   "url": "https://www.foxnews.com/politics/trump-clears-way-fort-hood-terrorist-face-army-firing-squad-nearly-17-years-after-massacre",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "President Trump cleared the way for Nidal Malik Hasan to face an Army firing squad nearly 17 years after the Fort Hood massacre that killed 13 people.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/trump-nidal-malik-hasan.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-10-06T00:14:53+00:00"
+   "title": "Atlanta Falcons vs. New Orleans Saints: MNF Open Thread",
+   "url": "https://www.windycitygridiron.com/general/124293/atlanta-falcons-vs-new-orleans-saints-mnf-open-thread",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2254818356.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "6h ago",
+   "published": "2026-10-06T00:11:00+00:00"
   },
   {
-   "title": "Privacy fears push vacation spot to consider ban on favorite accessory for travelers",
-   "url": "https://www.foxnews.com/travel/privacy-fears-push-vacation-spot-consider-ban-favorite-accessory-travelers",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "AI smart glasses at beaches, parks, museums and shopping centers could be banned in Norway over growing concerns about the hidden recording of citizens.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/russian-buyer-ai-smart-glasses-yiwu.jpg?ve=1&tl=1",
-   "age": "19m ago",
-   "published": "2026-10-06T00:08:35+00:00"
-  },
-  {
-   "title": "Seattle Seahawks throw Joe Mixon another chance in the NFL following backfield disaster",
-   "url": "https://www.foxnews.com/outkick-sports/seattle-seahawks-throw-joe-mixon-another-chance-nfl-following-backfield-disaster",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Joe Mixon agreed to terms with the Seattle Seahawks after months of retirement rumors, bringing a Pro Bowl resume and a complicated off-field history.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/joe-mixon-rushing-touchdown-bengals-fox-news_.jpg?ve=1&tl=1",
-   "age": "30m ago",
-   "published": "2026-10-05T23:57:03+00:00"
+   "title": "Sean McVay addresses Rams assistant coaches' viral interaction with Eagles fans",
+   "url": "https://www.cbssports.com/nfl/news/sean-mcvay-addresses-rams-assistant-coaches-viral-interaction-eagles-fans/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/05/d6c527ea-ce72-4093-a86d-42b13f0f0e8f/sena.jpg",
+   "age": "6h ago",
+   "published": "2026-10-05T23:49:51+00:00"
   },
   {
    "title": "Has the Pentagon given up on AI polygraph analysis of trustworthiness?",
@@ -69,41 +160,19 @@
    "topic": "defense",
    "summary": "AI-aided scanning of speech patterns, vocal stress or facial expressions to read minds lacks scientific backing and will compound errors, critics argue.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CGSLKS4QGBEK5ARFHZQ7G6H3ME.jpg",
-   "age": "44m ago",
+   "age": "6h ago",
    "published": "2026-10-05T23:43:37+00:00"
   },
   {
-   "title": "Jalen Hurts curses at receiver in viral hot-mic moment during Eagles' collapse against Rams",
-   "url": "https://www.foxnews.com/outkick-sports/jalen-hurts-curses-receiver-viral-hot-mic-moment-eagles-collapse-rams",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A hot-mic clip caught Jalen Hurts cursing at a receiver before the Philadelphia Eagles stunning second-half collapse against the Los Angeles Rams.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jalen-hurts-screams-philadelphia-eagles.jpg?ve=1&tl=1",
-   "age": "44m ago",
-   "published": "2026-10-05T23:43:36+00:00"
-  },
-  {
-   "title": "Luxury fashion designers found shot dead in California as family reportedly reveals troubling lead-up",
-   "url": "https://www.foxnews.com/us/luxury-fashion-designers-found-shot-dead-california-family-reportedly-reveals-troubling-lead-up",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Fashion designers Bryan Walker and Michelle Min were found shot dead outside their California home as relatives reportedly revealed troubling details about the days befo…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bryn-walker-luxury-clothing-store-berkeley.png?ve=1&tl=1",
-   "age": "53m ago",
-   "published": "2026-10-05T23:33:58+00:00"
-  },
-  {
-   "title": "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
-   "url": "https://www.cnbc.com/2026/10/05/anthropic-openai-google-meta-execs-testify-nyc-council-ai-hearing.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The leading AI labs facing intensifying scrutiny over their safety and security practices.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108372804-1791228644008-gettyimages-2298141611-NYC_AI.jpeg?v=1791228676&amp;w=1920&amp;h=1080",
-   "age": "59m ago",
-   "published": "2026-10-05T23:28:31+00:00"
+   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Falcons vs. Saints, Monday Night Football",
+   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-falcons-vs-saints-monday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/20/d13a1e29-7c4b-469e-9dbb-b5c7e26a2c57/1920x1080.jpg",
+   "age": "6h ago",
+   "published": "2026-10-05T23:40:37+00:00"
   },
   {
    "title": "First Release Of USAF’s New HACM Hypersonic Cruise Missile Has Happened Over Australian Range",
@@ -113,19 +182,30 @@
    "topic": "defense",
    "summary": "The US and Australia are partners on the Hypersonic Attack Cruise Missile, which has finally reached flight testing after major delays. The post First Release Of USAF’s …",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/hacm-flight-testing-has-begun.jpg?quality=85",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-05T23:26:47+00:00"
   },
   {
-   "title": "Trump says he'll pay for TV ads that praised him and which government funded",
-   "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108370495-17907920182026-09-30t180225z_615020408_rc2utnaycs87_rtrmadp_0_usa-trump.jpeg?v=1791240841&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-05T23:25:38+00:00"
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Falcons vs Saints, Monday Night Football",
+   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-falcons-vs-saints-on-monday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+   "age": "7h ago",
+   "published": "2026-10-05T23:25:39+00:00"
+  },
+  {
+   "title": "Bears offense among NFL s best despite red zone issues",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/124372/bears-offense-among-nfl-best-despite-red-zone-issues-tyson-bagent-ben-johnson",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY299969361013450454.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "8h ago",
+   "published": "2026-10-05T22:30:00+00:00"
   },
   {
    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -135,7 +215,7 @@
    "topic": "ai",
    "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-05T22:26:35+00:00"
   },
   {
@@ -146,19 +226,19 @@
    "topic": "defense",
    "summary": "The Houthis' previous gains, including critical coastal territory, are eroding, but it isn't clear how long the offensive can be sustained. The post Houthis Lose Ground …",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Yemen-Counteroffensive.jpg?quality=85",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-05T22:22:42+00:00"
   },
   {
-   "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
-   "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108218012-1761672039836-2025-10-28T171405Z_952897547_RC24LHAD4P7G_RTRMADP_3_NOKIA-NVIDIA.JPG?v=1761672093&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-10-05T22:00:01+00:00"
+   "title": "Bears vs. Jets Game Balls: Monangai Shines, D-Line Creates Havoc",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/124417/chicago-bears-vs-jets-game-balls-monangai-shines-d-line-creates-havoc",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2298008269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "8h ago",
+   "published": "2026-10-05T21:59:20+00:00"
   },
   {
    "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
@@ -168,7 +248,7 @@
    "topic": "ai",
    "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/04/lucid-gravity-main.jpg?resize=1200,675",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-05T21:54:01+00:00"
   },
   {
@@ -179,19 +259,8 @@
    "topic": "defense",
    "summary": "AeroVironment, Epirus, Kord and Boeing were selected for JIATF-401 s pilot program.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/DSC_5810-scaled-e1790774958611-1024x577.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-05T21:51:21+00:00"
-  },
-  {
-   "title": "House Democrat targets candidate prediction market trades after opponent’s Kalshi penalty",
-   "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "A new bill bans federal candidates from trading prediction market contracts related to their own elections and would result in a fine if violated.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108048072-1729022260550-gettyimages-2176702756-davis_112_091924.jpeg?v=1791234447&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-05T21:24:25+00:00"
   },
   {
    "title": "Spain Picks Airbus A321 For New Electronic Intelligence Aircraft",
@@ -201,19 +270,8 @@
    "topic": "defense",
    "summary": "The three-aircraft fleet will not only restore Spain’s crewed airborne signals intelligence capability, but make it among the most powerful in Europe. The post Spain Pic…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/airbus-sigint-aircraft-for-spain.jpg?quality=85",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-05T21:03:32+00:00"
-  },
-  {
-   "title": "'We had a threat': Trump explains U.S. moving long-range bombers from UK",
-   "url": "https://www.cnbc.com/2026/10/05/trump-bombers-uk-iran.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The U.S. Air Force B-1 bombers removed from England have been used in strikes on Iran.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108372809-17912289162026-10-05t193410z_1979526561_rc27xnadv27u_rtrmadp_0_usa-trump.jpeg?v=1791228983&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-05T20:53:33+00:00"
   },
   {
    "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
@@ -223,7 +281,7 @@
    "topic": "ai",
    "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-05T20:47:48+00:00"
   },
   {
@@ -234,7 +292,7 @@
    "topic": "defense",
    "summary": "MOBILE, Ala. —Three decks high and shrouded in a plastic, air-conditioned barrier, some of the most important spaces of a pair of Virginia-class attack boats are taking …",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-04-at-10.16.05-PM.png",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-10-05T20:37:33+00:00"
   },
   {
@@ -245,7 +303,7 @@
    "topic": "ai",
    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-10-05T20:36:48+00:00"
   },
   {
@@ -256,7 +314,7 @@
    "topic": "ai",
    "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998-1024x648.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-10-05T20:31:12+00:00"
   },
   {
@@ -267,7 +325,7 @@
    "topic": "ai",
    "summary": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell Tec…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sequoia_Etched-Abhishek-Malani-Robert-Wachen-Sonya-Huang-Gavin-Uberti-copy.jpeg?resize=1200,846",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-05T20:24:09+00:00"
   },
   {
@@ -278,7 +336,7 @@
    "topic": "defense",
    "summary": "The award was issued as an undefinitized contract by PAC-3 prime contractor Lockheed Martin.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/250903_DVIDS_pac3_mse_launch_8775345-scaled-e1756934380384-1024x577.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-05T20:21:58+00:00"
   },
   {
@@ -289,7 +347,7 @@
    "topic": "defense",
    "summary": "U.S. forces with Joint Task Force Southern Spear struck a go-fast vessel on Sunday, the first such attack on an alleged drug boat in 15 days. Four people were killed in …",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-05-at-3.36.41-PM-scaled.png",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-05T20:07:55+00:00"
   },
   {
@@ -300,7 +358,7 @@
    "topic": "defense",
    "summary": "Aircraft carrier USS George H.W. Bush (CVN-77) pulled into Phuket, Thailand, on Sunday, the Navy announced. The port call for Bush and USS Delbert D. Black (DDG-119) com…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9984362-scaled.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-05T19:43:20+00:00"
   },
   {
@@ -311,85 +369,19 @@
    "topic": "defense",
    "summary": "One proposed deal would allow the United Arab Emirates to purchase $1 billion-worth of Advanced Precision Kill System-II Guidance Sections.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261005_DVIDS_kuwait_patriot_9438856-scaled-e1791226918344-1024x577.jpg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-10-05T19:39:32+00:00"
   },
   {
-   "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-   "url": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/Matt-Murphy-Menlo-Ventures.jpeg?resize=1200,1200",
-   "age": "4h ago",
-   "published": "2026-10-05T19:38:07+00:00"
-  },
-  {
-   "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
-   "age": "4h ago",
-   "published": "2026-10-05T19:33:53+00:00"
-  },
-  {
-   "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-   "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The tool can free up over 12GB of storage.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg",
-   "age": "5h ago",
-   "published": "2026-10-05T19:14:44+00:00"
-  },
-  {
-   "title": "Can Golden Dome truly succeed without logistics and sustainment in space?",
-   "url": "https://breakingdefense.com/2026/10/can-golden-dome-truly-succeed-without-logistics-and-sustainment-in-space/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "[Sponsored] Former MDA Director Lt. Gen. (ret.) Trey Obering says on-orbit servicing could enhance orbital resilience.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Astroscale-1-1024x512.jpg",
-   "age": "6h ago",
-   "published": "2026-10-05T18:21:56+00:00"
-  },
-  {
-   "title": "USNI News Fleet and Marine Tracker: Oct. 5, 2026",
-   "url": "https://news.usni.org/2026/10/05/usni-news-fleet-and-marine-tracker-oct-5-2026",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Oct. 5, 2026, based on Navy …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/FT_10_05_26.jpg",
-   "age": "6h ago",
-   "published": "2026-10-05T18:13:05+00:00"
-  },
-  {
-   "title": "Controlling the brain with light earns a physiology Nobel",
-   "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The entire field of optogenetics traces back to light-seeking algae.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2212760356-1152x648.jpg",
-   "age": "6h ago",
-   "published": "2026-10-05T17:59:27+00:00"
-  },
-  {
-   "title": "The P-3 Orion Airborne Early Warning Aircraft Has Flown Its Last Mission",
-   "url": "https://www.twz.com/air/the-p-3-orion-airborne-early-warning-aircraft-has-flown-its-last-mission",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "U.S. Customs and Border Protection was the only operator of P-3 AEW aircraft with their radar domes on top, using them to hunt drug smugglers. The post The P-3 Orion Air…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/cbp-p-3-aew-retirement.jpg?quality=85",
-   "age": "6h ago",
-   "published": "2026-10-05T17:39:20+00:00"
+   "title": "Tyson Bagent cherishes first start since 2023",
+   "url": "https://www.chicagobears.com/news/tyson-bagent-cherishes-first-start-since-2023",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ejsvnvff9yhw9twcjrid.jpg",
+   "age": "13h ago",
+   "published": "2026-10-05T17:10:42+00:00"
   },
   {
    "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
@@ -399,41 +391,41 @@
    "topic": "defense",
    "summary": "The service is seeking to sharpen its defenses against the growing threat of drone use by cartels.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/IUXVIEK5CBBYLGXY7CCUAERUKU.JPG",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-10-05T15:31:00+00:00"
   },
   {
-   "title": "European defense startups to raise record $10.5 billion in 2026, Dealroom forecasts",
-   "url": "https://www.defensenews.com/global/europe/2026/10/05/european-defense-startups-to-raise-record-105-billion-in-2026-dealroom-forecasts/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "“This is Europe catching up rather than the U.S. slowing,” Dealroom said of the trend. “EU 27 funding more than doubled in a year.”",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/LFNLDHZRTFHWDIU4C6W2ZZWQ2I.jpg",
-   "age": "9h ago",
-   "published": "2026-10-05T14:54:11+00:00"
+   "title": "Bears in Bournemouth: Postcards with Israel Idonije | Monday, Oct. 5",
+   "url": "https://www.chicagobears.com/news/bears-in-bournemouth-postcards-with-israel-idonije-monday-oct-5",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/khrlbuvo16n58yhgwvct.png",
+   "age": "16h ago",
+   "published": "2026-10-05T14:20:35+00:00"
   },
   {
-   "title": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
-   "url": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Germany plans to stand up its first dedicated drone regiment next year, Defense Minister Boris Pistorius has announced.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/H3SL3CIAN5DDPKJ5B74XNII2AQ.jpg",
-   "age": "10h ago",
-   "published": "2026-10-05T14:01:14+00:00"
+   "title": "Despite QB changes, the Bears are becoming a dominant, imposing team – just ask the Jets",
+   "url": "https://allchgo.com/bears/qb-changes-bears-becoming-dominant-imposing-team-jets/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/04181652/2026-10-04T195110Z_1596288256_MT1USATODAY29998575_RTRMADP_3_NFL-NEW-YORK-JETS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "1d ago",
+   "published": "2026-10-04T23:26:00+00:00"
   },
   {
-   "title": "B-1B Bombers Make Hasty Departure From England",
-   "url": "https://www.twz.com/air/b-1b-bombers-make-hasty-departure-from-england",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "RAF Fairford, which hosted U.S. bombers during Operation Epic Fury, some of which had stayed, has been threatened openly by Iran before. The post B-1B Bombers Make Hasty…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/B1-Leave-Fairford.jpg?quality=85",
-   "age": "23h ago",
-   "published": "2026-10-05T01:04:45+00:00"
+   "title": "'You just want to keep feeding him': Kyle Monangai powers Bears offense vs. Jets with 146-yard, 2-TD performance",
+   "url": "https://www.chicagobears.com/news/you-just-want-to-keep-feeding-him-kyle-monangai-powers-bears-offense-vs-jets-146-yards-2-tds",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/rkpgcel5xm7hsswwetpe.jpg",
+   "age": "1d ago",
+   "published": "2026-10-04T23:11:48+00:00"
   },
   {
    "title": "William Byron fastest in NASCAR Cup Series practice at Las Vegas",
@@ -447,15 +439,26 @@
    "published": "2026-10-03T21:35:35+00:00"
   },
   {
-   "title": "How do you write an obituary for a child who was supposed to have a lifetime ahead? | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_5030495d-8196-4c97-8e24-483bfbd75310.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Parents who have faced that unimaginable task say an obituary isn’t about documenting a death. It’s about preserving a life — and making sure their child is never forgot…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/96/496388de-94d4-4ca1-bb28-6be2f8c438ce/6abeb8a597e3a.image.jpg?resize=300%2C169",
+   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 4 against the Jets",
+   "url": "https://allchgo.com/bears/rundown-need-to-know-about-bears-week-4-against-jets/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/02234947/2026-09-22T081916Z_804352987_MT1USATODAY29884448_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "2d ago",
+   "published": "2026-10-03T10:00:00+00:00"
+  },
+  {
+   "title": "DA BRAGGS BLOG: Place your trust in Ben Johnson – the Bears coach has more than earned it",
+   "url": "https://allchgo.com/bears/da-braggs-blog-trust-ben-johnson-more-than-earned-it/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/02134241/Bears_BraggsBlog-1-1024x576.jpg",
    "age": "3d ago",
-   "published": "2026-10-02T12:15:00+00:00"
+   "published": "2026-10-02T19:00:00+00:00"
   }
  ]
 }
