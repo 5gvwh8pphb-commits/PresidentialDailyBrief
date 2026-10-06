@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-06",
+  "dateLabel": "Tuesday, October 6, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-06T15:46:10Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, October 5, 2026 close — a tech-led rally to fresh record highs as a soft September jobs report eased fears of another near-term Fed rate hike.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,773.95", "change": "+51.23", "changePct": "+0.66%", "sixMo": "+18%" },
+        { "name": "Dow", "close": "51,267.90", "change": "+90.94", "changePct": "+0.18%", "sixMo": "+9.9%" },
+        { "name": "Nasdaq", "close": "27,477.31", "change": "+286.45", "changePct": "+1.05%", "sixMo": "+25%" }
+      ],
+      "body": "The Nasdaq and Nvidia closed at fresh records as AI-linked tech names led gains, overshadowing continued bond-market weakness with the 10-year Treasury yield holding near 5.25%.",
+      "source": "Associated Press",
+      "url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-monday-10-5-2026"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US monitoring mystery illness that killed Russian plague-lab worker in Siberia",
+      "body": "The State Department said it is tracking the case with the CDC after a 28-year-old technician at Russia's Irkutsk Anti-Plague Research Institute died of 'pneumonia of unknown etiology'; nearly 200 people are under medical observation and more than 60 staff isolated, though Russian health officials say testing found no link to pathogens studied at the lab.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Pentagon reportedly set to embed defense officials inside Taiwan's military headquarters",
+      "body": "Taipei Times reports the Pentagon plans to station a Defense Department policy official and an Institute for Defense Analyses expert long-term inside Taiwan's defense ministry headquarters under an expanded, roughly $14.8 million 'Taiwan-US Defence Ministry Joint Cooperation Assessment' program running through 2028 — a shift from the US military's traditional role as outside trainers.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/06/2003865473"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US intelligence and air support back major Saudi-led offensive against Houthis in Yemen",
+      "body": "Yemen's internationally recognized government launched 'Operation Yemen Dawn' this week to retake Sanaa and the Bab el-Mandeb strait from the Houthis, backed by roughly 100 Saudi aircraft; CNN reports more than 100 US military advisers in Saudi Arabia are providing targeting and geospatial intelligence while US aircraft fly midair refueling and defensive patrols for the campaign.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/04/middleeast/yemen-offensive-houthis-intl"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Marines to place ship-killing NMESIS missile system on Japanese island near Taiwan for first time",
+      "body": "The Marine Corps will deploy its NMESIS anti-ship missile system to Yonaguni, Japan's westernmost island about 110 km from Taiwan, during the US-Japan Keen Sword 27 exercise running Oct. 19-29 — the system's first deployment there, extending Marine expeditionary strike range into waters around Taiwan.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Meta and Microsoft scale back internal use of Anthropic's Claude over cost",
+      "body": "Microsoft cut its projected annual Claude spending from about $1 billion to roughly two-thirds of that and slashed individual usage caps, while Meta's internal Claude Code user base fell from about 60,000 to 30,000 employees as both companies push staff toward in-house coding tools; customer spending on Claude through Azure and Bedrock continues to grow, and Microsoft's investment in Anthropic is unaffected.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-microsoft-reportedly-trim-anthropic-230612967.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears RB Kyle Monangai day-to-day with thumb injury, expected to play at Green Bay",
+      "body": "Running back Kyle Monangai is listed day-to-day with a right thumb injury, but head coach Ben Johnson said imaging showed nothing serious and he expects the second-year back to be available for Sunday's game against the Packers.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/05/bears-packers-running-back-kyle-monangai-thumb-injury-not-considered-serious-micah-parsons-edgerrin-cooper-ben-johnson-matt-lafleur-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying non-spoiler Byron story surfaced in the past 72 hours; available coverage concerns Sunday's Chase standings shift at Las Vegas and a subsequent car inspection, both of which fall inside the 7-day spoiler window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; the PCA Prayer Guide item was already reported in yesterday's brief, and other available coverage (a Standing Judicial Commission appeal decision) dates to mid-September.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
