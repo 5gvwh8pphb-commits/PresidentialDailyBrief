@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-07",
+  "dateLabel": "Wednesday, October 7, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-07T11:45:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~16h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, October 6, 2026 close — a record-setting day for the S&P 500 and Dow, with the Nasdaq extending its own record run from the day before.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,818.93", "change": "+44.98", "changePct": "+0.58%", "sixMo": "+18%" },
+        { "name": "Dow", "close": "51,521.28", "change": "+253.38", "changePct": "+0.49%", "sixMo": "+10%" },
+        { "name": "Nasdaq", "close": "27,599.79", "change": "+122.48", "changePct": "+0.45%", "sixMo": "+25%" }
+      ],
+      "body": "Constellation Energy led gainers after announcing a power-supply partnership with Google, and earnings beats from companies like Lamb Weston added momentum; easing Treasury yields also helped the S&P 500 clear its August record.",
+      "source": "Associated Press",
+      "url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-tuesday-10-6-2026"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Rubio says Iran has 'lost complete control' of the Strait of Hormuz as Vance signals softer nuclear demands",
+      "body": "Speaking in Athens, Secretary of State Marco Rubio said oil shipping through the Strait of Hormuz has returned to near pre-conflict levels and that Iran's economy is in \"total and complete freefall,\" while Vice President JD Vance said Tehran only needs to do something \"meaningful\" on enrichment — a softening from Trump's earlier demand for zero Iranian enrichment — as the two sides work to end their war.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-nuclear-donald-trump-vance-rubio-strait-of-hormuz/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Defense executives tell Taipei forum autonomous systems are key to faster wartime decisions",
+      "body": "At a Taipei defense forum Wednesday, industry executives argued that autonomous and AI-enabled systems are essential to shortening Taiwan's decision-making time in a crisis, part of a broader push — including a recent deal between Taiwan's state defense institute and Anduril on AI-enabled command-and-control software — to field asymmetric capabilities faster.",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/politics/202610070015"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US military restricts troops on Okinawa to base after Marine arrested in woman's killing",
+      "body": "A 20-year-old Marine, Devin Jacob Ballard, was arrested after a 39-year-old woman was found strangled in a Naha hotel room; US forces on Okinawa paused operations and kept all troops on base for 48 hours, followed by a 30-day curfew and a review of liberty policies.",
+      "source": "The Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/oct/6/us-military-restricts-troops-leaving-base-okinawa-marine-arrested/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Northrop Grumman's YFQ-48A drone wingman completes first flight, fully autonomous from taxi to touchdown",
+      "body": "The Talon Blue prototype flew Oct. 3 at California's Mojave Air and Space Port with no pilot input for the entire sortie, becoming the third 'loyal wingman' contender — after General Atomics' and Anduril's Collaborative Combat Aircraft designs — to fly as the Air Force pursues a fleet of autonomous combat drones.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic expands Claude for Startups with a free year of Claude Team and $1,000 in API credits",
+      "body": "Announced Tuesday during SF Tech Week, the program gives eligible startups — those founded within five years or funded within two — a free year of Claude Team with up to five seats, $1,000 in API credits, and access to Anthropic's Claude Marketplace and Applied AI office hours.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Available Bears coverage is either already reported (Monangai's thumb, Williams' hamstring, Bagent starting) or dated Oct. 1-4 (Braxton Jones to IR, Kyler Gordon's practice window) and thus outside the 72-hour window; no new qualifying item surfaced ahead of Sunday's game at Green Bay.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only new Byron coverage concerns ongoing Chase playoff standings and race results, which fall inside the 7-day spoiler window; no qualifying non-spoiler story on roster, sponsorship or schedule surfaced in the past 72 hours.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; available coverage traces back to this summer's General Assembly or items already reported in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
