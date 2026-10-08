@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-08T07:40:33+00:00",
+ "generated": "2026-10-08T15:02:29+00:00",
  "count": 40,
- "withImage": 36,
+ "withImage": 35,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -19,114 +19,301 @@
  ],
  "items": [
   {
-   "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-   "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108375190-1791437632622-gettyimages-2254446954-CHINA_MANUS.jpeg?v=1791437646&amp;w=1920&amp;h=1080",
-   "age": "40m ago",
-   "published": "2026-10-08T06:59:59+00:00"
-  },
-  {
-   "title": "Former corrections officer accused of killing wife, forcing kids to help",
-   "url": "https://www.foxnews.com/us/former-corrections-officer-accused-killing-wife-forcing-kids-help",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A former corrections officer allegedly strangled his wife and forced some of his children to help during the attack, then hid her body in a dumpster.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/missouri-man-killed-wife-kids-help.png?ve=1&tl=1",
-   "age": "51m ago",
-   "published": "2026-10-08T06:49:19+00:00"
-  },
-  {
-   "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-   "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+   "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+   "url": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+   "summary": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/asos-breach-notif.jpg?resize=1200,542",
+   "age": "1m ago",
+   "published": "2026-10-08T15:01:15+00:00"
+  },
+  {
+   "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+   "url": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of t…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+   "age": "2m ago",
+   "published": "2026-10-08T15:00:00+00:00"
+  },
+  {
+   "title": "October Prime Day is over, but these 16 FOX reader-favorite deals are still live",
+   "url": "https://www.foxnews.com/deals/amazon-prime-day-reader-favorite-deals",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Missed October Prime Day? It s not too late to save on FOX reader-favorites, including $70 off AirPods Pro 3, 40% off a Shark stick vacuum and over $650 off a Hisense TV.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/october-prime-day-is-over-but-these-15-fox-reader-favorite-deals-are-still-live.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-10-08T14:52:13+00:00"
+  },
+  {
+   "title": "Amazon overhauls aging devices lineup with higher-priced Alexa tablet, dumping the budget Fire",
+   "url": "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The company said the Alexa tablet's improved speed and performance, artificial intelligence features, and upgraded design warrant a higher price tag.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108374338-1791400240953-Tablets_Hero_1920x1080.png?v=1791400455&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-10-08T14:51:27+00:00"
+  },
+  {
+   "title": "Shaquille O'Neal addresses Fever's Kelsey Mitchell's remarks on Caitlin Clark, says to leverage the spotlight",
+   "url": "https://www.foxnews.com/outkick-sports/shaquille-oneal-addresses-fever-kelsey-mitchell-remarks-caitlin-clark-leverage-spotlight",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Shaquille O Neal advised Indiana Fever guard Kelsey Mitchell to remain in Caitlin Clark s orbit as the All-Star nears free agency in January.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/kelsey-mitchell-caitlin-clark-indiana-fever.jpg?ve=1&tl=1",
+   "age": "13m ago",
+   "published": "2026-10-08T14:48:42+00:00"
+  },
+  {
+   "title": "Trump bought up to $25 million in Meta and millions in SpaceX debt in August",
+   "url": "https://www.cnbc.com/2026/10/08/trump-august-trades-meta-spacex-financial-disclosure.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump disclosed 517 August trades, including up to $5 million in debt from SpaceX, a major Pentagon contractor and NASA launch provider.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108374283-17913956922026-10-07t174636z_1565939135_rc2hynao0axo_rtrmadp_0_usa-trump.jpeg?v=1791395737&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-10-08T14:47:05+00:00"
+  },
+  {
+   "title": "Samoa Joe punches ticket to Clockwork Carnage match at AEW WrestleDream",
+   "url": "https://www.foxnews.com/outkick-sports/samoa-joe-punches-ticket-clockwork-carnage-match-aew-wrestledream",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Samoa Joe defeated Jack Perry with a devastating Muscle Buster in a qualifying match at Grand Slam France to earn his spot in AEW s Clockwork Carnage.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/samoa-joe-aew-grand-slam-paris.jpg?ve=1&tl=1",
+   "age": "20m ago",
+   "published": "2026-10-08T14:41:30+00:00"
+  },
+  {
+   "title": "Letitia James' underdog rival turns AG's own playbook against her with scathing 52-count campaign 'indictment'",
+   "url": "https://www.foxnews.com/politics/letitia-james-underdog-rival-turns-ags-own-playbook-against-her-scathing-52-count-campaign-indictment",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Saritha Komatireddy released a 52-count faux indictment against Letitia James, accusing the New York attorney general of neglecting hate crimes and fraud.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/James-Komatireddy.jpeg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-10-08T14:38:19+00:00"
+  },
+  {
+   "title": "Lithuania says it could pay for a permanent in-country US base",
+   "url": "https://breakingdefense.com/2026/10/lithuania-says-it-could-pay-for-a-permanent-in-country-us-base/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "US President Donald Trump appeared open to the idea, saying Lithuanians are great people.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9673672-scaled-e1791465822333-1024x577.jpg",
+   "age": "25m ago",
+   "published": "2026-10-08T14:36:49+00:00"
+  },
+  {
+   "title": "Dutch firm uses AI to help drone systems ‘talk’ on Ukraine’s battlefield",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Amsterdam-based Intelic now has an office in Kyiv and is helping Ukrainian forces as they face intensified Russian drone and missile barrages.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/AXXWNR5RONGYDE57GDGNJZSKAY.JPG",
+   "age": "26m ago",
+   "published": "2026-10-08T14:35:46+00:00"
+  },
+  {
+   "title": "Spotify is getting more serious about selling enterprise software",
+   "url": "https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The company launched technology.spotify.com, a new site that will make its internal tech available to outsiders.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+   "age": "27m ago",
+   "published": "2026-10-08T14:34:33+00:00"
+  },
+  {
+   "title": "Gecko Robotics, Anduril team up for new Baltimore County shipyard",
+   "url": "https://breakingdefense.com/2026/10/gecko-robotics-anduril-team-up-for-new-baltimore-county-shipyard/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Gecko Robotics will utilize its inspection technology and its AI-powered software to conduct non-destructive testing (NDT) on these submarine components.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/2026-Proto-Factory-2-Web-1-scaled-e1791463881980-1024x577.jpg",
+   "age": "32m ago",
+   "published": "2026-10-08T14:30:00+00:00"
+  },
+  {
+   "title": "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+   "url": "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Skydance includes two film studios, the CBS broadcast network, a sprawling pay TV portfolio and streaming services Paramount+ and HBO Max.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108376687-1791467357582-108376687-1791466014722-david1.jpg?v=1791467365&amp;w=1920&amp;h=1080",
+   "age": "38m ago",
+   "published": "2026-10-08T14:24:12+00:00"
+  },
+  {
+   "title": "Would Anthony Volpe's fan-interfered fly ball have been a home run? Here's what MLB and Statcast have to say",
+   "url": "https://www.foxnews.com/outkick-sports/anthony-volpe-fan-interfered-fly-ball-home-run-mlb-statcast",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The New York Yankees ALDS sweep ended with Anthony Volpe s fan-interfered fly ball, and Statcast quietly changed its projected ball flight data.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/victor-mesa-jr-yankees-rays-division-series.jpg?ve=1&tl=1",
+   "age": "40m ago",
+   "published": "2026-10-08T14:22:14+00:00"
+  },
+  {
+   "title": "Waymo locks in $5B loan from Blackstone, PIMCO to fuel robotaxi expansion",
+   "url": "https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "This is the first time the Alphabet-owned company has turned to debt financing.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/waymo-ojai.jpg?resize=1200,675",
+   "age": "45m ago",
+   "published": "2026-10-08T14:16:56+00:00"
+  },
+  {
+   "title": "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
+   "url": "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Mark Esper, who served as U.S. Secretary of Defense during Trump's first presidential term, said he did not see the conflict ending in the foreseeable future.",
+   "image": "https://image.cnbcfm.com/api/v1/image/106788161-16049467122020-11-09t182216z_2047876984_rc2uzj9gv9kg_rtrmadp_0_usa-trump-defense.jpeg?v=1604946791&amp;w=1920&amp;h=1080",
+   "age": "50m ago",
+   "published": "2026-10-08T14:12:10+00:00"
+  },
+  {
+   "title": "Pentagon recruits drone pilots from across services for upcoming competition",
+   "url": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The Defense Innovation Unit is looking to recruit about 100 drone pilots and create a standing registry of operators across the military services.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CBERINLKCJA3LD37SUU7TVJAMM.jpg",
+   "age": "55m ago",
+   "published": "2026-10-08T14:06:55+00:00"
+  },
+  {
+   "title": "ExxonMobil's own scientists doubted climate fixes the company hyped",
+   "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/refinery-1152x648.jpg",
+   "age": "57m ago",
+   "published": "2026-10-08T14:04:42+00:00"
+  },
+  {
+   "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+   "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse and Bee.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/02/Zach-Yaegari.jpg?resize=1200,800",
    "age": "1h ago",
-   "published": "2026-10-08T06:14:11+00:00"
+   "published": "2026-10-08T14:00:00+00:00"
   },
   {
-   "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
-   "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108373886-1791368699021-gettyimages-2244760464-CHINA_BYD.jpeg?v=1791369118&amp;w=1920&amp;h=1080",
+   "title": "Report to Congress on Environmental Remediation of PFAS",
+   "url": "https://news.usni.org/2026/10/08/report-to-congress-on-environmental-remediation-of-pfas",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the Oct. 7, 2026, Congressional Research Service report, Environmental Remediation of Per- and Polyfluoroalkyl Substances (PFAS). From the Report Per- a…",
+   "image": null,
+   "age": "1h ago",
+   "published": "2026-10-08T13:34:24+00:00"
+  },
+  {
+   "title": "German pilots prepare for CH‑47F fleet with US Army flight simulator",
+   "url": "https://www.defensenews.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Ahead of the German Air Force receiving its CH‑47F Block II Chinook fleet, its pilots are utilizing the U.S. Army's flight-simulator complex.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UJK6ZRACJRB5RNN4X4WAS3OJLM.jpg",
+   "age": "1h ago",
+   "published": "2026-10-08T13:25:20+00:00"
+  },
+  {
+   "title": "France to start training Ukrainian pilots on Rafale warplanes in November, minister says",
+   "url": "https://www.defensenews.com/global/europe/2026/10/08/france-to-start-training-ukrainian-pilots-on-rafale-warplanes-in-november-minister-says/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "France will begin training Ukrainian pilots on the Rafale fighter jet next month, Armed Forces Minister Catherine Vautrin told lawmakers on Thursday.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/46R5CT66FJC4BGPIQH7EJJQJFU.jpg",
+   "age": "1h ago",
+   "published": "2026-10-08T13:21:08+00:00"
+  },
+  {
+   "title": "Indiana teens think more of their peers use drugs than actually do, latest report finds",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c24e215a-20ca-4348-9762-29da96310663.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Indiana teens are using alcohol, vaping and marijuana at historically low rates — but they still have some misconceptions about how much their peers use.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/da/cda82034-285b-51a8-b8ef-c6b0ea146a93/649b7ae24d162.image.jpg?resize=300%2C215",
    "age": "2h ago",
-   "published": "2026-10-08T05:30:49+00:00"
+   "published": "2026-10-08T13:00:00+00:00"
   },
   {
-   "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-   "url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108315896-1780491649482-gettyimages-1175168392-AFP_1LB3WB.jpeg?v=1781036537&amp;w=1920&amp;h=1080",
+   "title": "Weaponizing the supply chain for a liquid-fueled howitzer-fired munition that flies 150 km",
+   "url": "https://breakingdefense.com/2026/10/weaponizing-the-supply-chain-for-a-liquid-fueled-howitzer-fired-munition-that-flies-150-km/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "[Sponsored] The goal of such weaponization is to tie warfighter needs to the RDT E cycle.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Tiberius-1-1024x576.png",
    "age": "2h ago",
-   "published": "2026-10-08T05:28:40+00:00"
+   "published": "2026-10-08T12:28:00+00:00"
   },
   {
-   "title": "San Diego Padres season ends in disaster after offense completely collapses against Milwaukee Brewers",
-   "url": "https://www.foxnews.com/outkick-sports/san-diego-padres-season-ends-disaster-offense-completely-collapses-milwaukee-brewers",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Fernando Tatis Jr. s solo homer was San Diego s only hit as the Brewers eliminated the Padres in Game 4 to advance to the NLCS against the Dodgers.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/manny-machado-padres-brewers-playoffs.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-08T05:26:09+00:00"
-  },
-  {
-   "title": "Anti-Israel protesters label Mamdani a 'traitor,' accuse him of 'genocide' outside Oct 7 vigil",
-   "url": "https://www.foxnews.com/politics/anti-israel-protesters-label-mamdani-traitor-accuse-genocide-outside-oct-7-vigil",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "New York City Mayor Zohran Mamdani was called a traitor by anti-Israel protesters who accused him of genocide at an Oct. 7 vigil near Union Square.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mamdani-israel-candlelight-vigil-protest.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-08T05:12:55+00:00"
-  },
-  {
-   "title": "Texas executes Jamaal Howard despite concerns over lethal injection drug used in failed Tennessee execution",
-   "url": "https://www.foxnews.com/us/texas-executes-jamaal-howard-despite-concerns-over-lethal-injection-drug-used-failed-tennessee-execution",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jamaal Howard s attorneys cited Christa Pike s failed lethal injection in Tennessee to argue the pentobarbital drug posed risks, but the Supreme Court rejected it.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jamaal-howard-supreme-court-execution-appeal.jpg?ve=1&tl=1",
+   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
    "age": "3h ago",
-   "published": "2026-10-08T03:55:09+00:00"
+   "published": "2026-10-08T11:15:33+00:00"
   },
   {
-   "title": "Rays sweep Yankees in ALDS after controversial spectator interference denies Anthony Volpe's homer",
-   "url": "https://www.foxnews.com/outkick-sports/rays-sweep-yankees-alds-controversial-spectator-interference-denies-anthony-volpe-homer",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Spectator interference on Anthony Volpe s would-be two-run homer proved decisive as the Tampa Bay Rays swept the New York Yankees in the ALDS.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/victor-mesa-jr-catch-yankee-stadium.jpg?ve=1&tl=1",
+   "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+   "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/blanche-kalshi-sports-1152x648-1791305860.jpg",
    "age": "4h ago",
-   "published": "2026-10-08T03:37:11+00:00"
+   "published": "2026-10-08T11:00:14+00:00"
   },
   {
-   "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
-   "url": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108374336-1791399949439-gettyimages-2299097062-090a5425_2dnkjlkd.jpeg?v=1791399971&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-10-08T03:29:29+00:00"
+   "title": "NIOA, AeroVironment team to offer and support loitering munitions Down Under",
+   "url": "https://breakingdefense.com/2026/10/nioa-aerovironment-team-to-offer-and-support-loitering-munitions-down-under/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The partnership will target introduction and support of loitering munitions in Australia and New Zealand",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/251206_DVIDS_switchblade_launch_7933347-scaled-e1765060479128-1024x577.jpg",
+   "age": "5h ago",
+   "published": "2026-10-08T09:32:00+00:00"
   },
   {
    "title": "One Brutal Race Is Still Haunting William Byron’s NASCAR Chase",
@@ -136,19 +323,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-10-08T01:12:00+00:00"
-  },
-  {
-   "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
-   "url": "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-10-08T00:51:23+00:00"
   },
   {
    "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
@@ -158,74 +334,8 @@
    "topic": "ai",
    "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-10-08T00:00:24+00:00"
-  },
-  {
-   "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-   "url": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-   "age": "8h ago",
-   "published": "2026-10-07T23:36:57+00:00"
-  },
-  {
-   "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-   "url": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024",
-   "age": "8h ago",
-   "published": "2026-10-07T22:59:16+00:00"
-  },
-  {
-   "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-   "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
-   "age": "9h ago",
-   "published": "2026-10-07T21:56:42+00:00"
-  },
-  {
-   "title": "General Dynamics CEO Phebe Novakovic to step down in 2027",
-   "url": "https://breakingdefense.com/2026/10/general-dynamics-ceo-phebe-novakovic-to-step-down-in-2027/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Novakovic, who has led GD since 2013, will be succeeded by Danny Deep on Jan. 1.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/phebe-nov-scaled-e1791408740417-1024x575.jpg",
-   "age": "10h ago",
-   "published": "2026-10-07T21:40:14+00:00"
-  },
-  {
-   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The developer of Hermes Agent raised a $90 million Series B.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-   "age": "10h ago",
-   "published": "2026-10-07T20:48:45+00:00"
-  },
-  {
-   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
-   "age": "11h ago",
-   "published": "2026-10-07T20:22:37+00:00"
   },
   {
    "title": "How The Groundwork For F-47 Flight Testing Is Being Laid",
@@ -235,7 +345,7 @@
    "topic": "defense",
    "summary": "The Air Force Test Center plans to use an evolving blend of real-world and digital testing once the F-47 starts flying. The post How The Groundwork For F-47 Flight Testi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/f-47-flight-testing-plans-taking-shape.jpg?quality=85",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-10-07T20:22:18+00:00"
   },
   {
@@ -246,19 +356,8 @@
    "topic": "defense",
    "summary": "The largest U.K. Commando Force exercise in 15 years is preparing for potential contingencies across the North Atlantic and High North. The post British Commandos Emerge…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/STRIKE-WARRIOR-EXERCISE-WITH-SSK.jpg?quality=85",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-10-07T20:13:07+00:00"
-  },
-  {
-   "title": "PA measles outbreak tops 1,000 cases, largest since disease was eliminated",
-   "url": "https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-1152x648.jpg",
-   "age": "11h ago",
-   "published": "2026-10-07T20:01:14+00:00"
   },
   {
    "title": "U.S. Carrier Expected to Make Port Call in Yokosuka, First in 4 Years",
@@ -268,41 +367,8 @@
    "topic": "defense",
    "summary": "A U.S. Navy aircraft carrier is expected to make a port call in Yokosuka, Japan, for the first time in four years. Yokosuka Mayor Katsuaki Kamiji and other city official…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/7226030-scaled.jpg",
-   "age": "11h ago",
+   "age": "19h ago",
    "published": "2026-10-07T19:56:34+00:00"
-  },
-  {
-   "title": "TP-Link problems in US grow amid FCC router ban and four state lawsuits",
-   "url": "https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-1152x648.jpg",
-   "age": "11h ago",
-   "published": "2026-10-07T19:53:42+00:00"
-  },
-  {
-   "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
-   "url": "https://breakingdefense.com/2026/10/army-issues-just-under-100m-in-application-awards-for-ngc2-to-9-companies/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“Providing core software applications is a critical next step. It provides a foundation that can be rapidly scaled and trained with continuity across the force,” Joseph …",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/DVIDS-Lockheed-NGC2-photo-2-scaled-e1791399844907-1024x577.jpg",
-   "age": "12h ago",
-   "published": "2026-10-07T19:38:41+00:00"
-  },
-  {
-   "title": "Rubio says US, Greece to jointly combat security threats",
-   "url": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. and Greece are launching a joint security program to strengthen counterterrorism information sharing between their law enforcement agencies.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DL7YZRYMNFA2LPLM3G2KCOODUQ.JPG",
-   "age": "13h ago",
-   "published": "2026-10-07T18:25:10+00:00"
   },
   {
    "title": "Glaring Lack Of Investment In Aircraft Shelters Highlighted By B-1B’s Sudden Retreat From U.K. Airbase",
@@ -312,7 +378,7 @@
    "topic": "defense",
    "summary": "At this point, it could take a disaster for the USAF to invest in giving its prized assets sitting in the open on a flightline physical cover from drone attacks. The pos…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/B-1-Fairford-drone-threats-debate-over-hardened-shelters.jpg?quality=85",
-   "age": "13h ago",
+   "age": "20h ago",
    "published": "2026-10-07T18:09:39+00:00"
   },
   {
@@ -323,19 +389,8 @@
    "topic": "defense",
    "summary": "The SR-71's airframe is capable of going beyond its known top speed and NASA may have good reason to push its limits via new engines. The post Could NASA s SR-71 Blackbi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/SR71-nasa-A.jpg?quality=85",
-   "age": "13h ago",
+   "age": "21h ago",
    "published": "2026-10-07T17:56:00+00:00"
-  },
-  {
-   "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
-   "url": "https://breakingdefense.com/2026/10/from-directed-energy-to-ai-and-hardening-jiatf-401-is-widening-counter-uas-options/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "There is no single answer to the drone threat, pushing the Pentagon toward a broader mix of defenses.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Breaking-Defense-C-UAS-eBrief-CACI-10.2026-1024x576.png",
-   "age": "15h ago",
-   "published": "2026-10-07T16:39:28+00:00"
   },
   {
    "title": "Super Hornets Sortie with Blackbeard Missiles in Latest Test",
@@ -345,19 +400,8 @@
    "topic": "defense",
    "summary": "The U.S. Navy’s first carrier aviation-based hypersonic missile is one step closer to achieving early operational capability following a recent flight test. An F/A-18E/F…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9976357-scaled.jpg",
-   "age": "15h ago",
+   "age": "22h ago",
    "published": "2026-10-07T16:20:10+00:00"
-  },
-  {
-   "title": "Urban warfare: Next Falcon Peak exercise to take counter-drone tech to the streets",
-   "url": "https://breakingdefense.com/2026/10/urban-warfare-next-falcon-peak-exercise-to-take-counter-drone-tech-to-the-streets/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "After testing cUAS tech against heat and sand in the desert, the Pentagon is upping the exercise s complexity by simulating a bustling city.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9955571-1024x576.jpg",
-   "age": "15h ago",
-   "published": "2026-10-07T16:02:00+00:00"
   },
   {
    "title": "Report to Congress on Marine Corps Amphibious Combat Vehicle",
@@ -367,19 +411,8 @@
    "topic": "defense",
    "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amp…",
    "image": null,
-   "age": "17h ago",
+   "age": "1d ago",
    "published": "2026-10-07T14:10:54+00:00"
-  },
-  {
-   "title": "Embraer, Lockheed Martin vie for India’s $10.5B military transport aircraft deal",
-   "url": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Indian government wants one of its biggest military aviation contracts to deepen the country’s local aerospace industrial base.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UROOOSSVN5EDVJXM64REA5264I.jpg",
-   "age": "19h ago",
-   "published": "2026-10-07T12:35:37+00:00"
   },
   {
    "title": "She wanted to look pretty for her dad’s funeral. Northwest Indiana Rotary program helped.",
@@ -389,30 +422,8 @@
    "topic": "local",
    "summary": "For some Northwest Indiana children, a new pair of shoes or a beautiful dress means far more than clothing. It means dignity, confidence and hope when families need it m…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/4c/04cec581-34a0-4bcd-9b2f-3fafe1e05eca/6ac48f773625d.image.jpg?resize=300%2C225",
-   "age": "19h ago",
+   "age": "1d ago",
    "published": "2026-10-07T12:15:00+00:00"
-  },
-  {
-   "title": "Anduril to Build New Submarine Component Facility",
-   "url": "https://news.usni.org/2026/10/06/anduril-to-build-submarine-component-facility",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Defense technology company Anduril will build a new facility in Maryland focused on submarine component construction for the U.S. Navy’s attack boats, according to a Tue…",
-   "image": "https://news.usni.org/wp-content/uploads/2025/11/USSMass.avif",
-   "age": "1d ago",
-   "published": "2026-10-06T20:38:06+00:00"
-  },
-  {
-   "title": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. Army will begin fielding Sig Sauer’s M8 rifle in December, replacing the M7 with a lighter, shorter carbine based on soldier feedback.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MBI4AZUI4VH4XB2H235QF5XXLI.jpg",
-   "age": "1d ago",
-   "published": "2026-10-06T19:46:03+00:00"
   },
   {
    "title": "Hendrick Motorsports archivist Sam Ulrich picks favorite museum artifacts for fans to find",
@@ -426,17 +437,6 @@
    "published": "2026-10-06T18:54:22+00:00"
   },
   {
-   "title": "Pentagon names 4 directed-energy weapons for counter-drone program at US bases",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Pentagon named four directed energy weapons for a homeland counter-drone program, the first systems to be fielded and tested at U.S. bases.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HQNVXGZSGJCRZKYSTRXZKJ5CRE.jpg",
-   "age": "1d ago",
-   "published": "2026-10-06T18:29:50+00:00"
-  },
-  {
    "title": "NASCAR paint schemes preview: Home colors run deep for Hendrick Motorsports at Charlotte",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWtrZksyY1pQWDBTX2RnNmJjaEJ3OFZwd243SDNuNC1hdDJQMlMzdTA0b1FDQ2tmTmJWZG9JS1VtMDBzNDlRTTZqZG9xRTFoRjlrU2VXUFMzeFpPZnRfS1pVc3J4RmpDeUQ0TVpVMkRlMWhmbkJadjc0ZHBfTTVoTUlyeFZfV3RoRnZPZmU0V09Gc29EYmNZN2lTbXhuMWhUd1p3azZmbGFWNkhwOWRXamN4V1dkdXh6WWNMa25yTUJyQUNfTzRIUWxTZURkQWp4bTJRZTVHRmpHWVNhRUdF?oc=5",
    "source": "Hendrick Motorsports",
@@ -444,7 +444,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-06T14:44:45+00:00"
   },
   {
@@ -455,7 +455,7 @@
    "topic": "local",
    "summary": "A NIPSCO Electric Field Supervisor says shrinking staffing, heavy reliance on contractors left the utility ill-prepared for the devastating August storm: \"I felt defeate…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/15/115593ff-04a4-4ef6-9789-4b06dd26d9e3/6ac3e89bd121b.image.jpg?resize=300%2C203",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-06T12:15:00+00:00"
   }
  ]
