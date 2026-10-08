@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-08",
+  "dateLabel": "Thursday, October 8, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-08T15:56:03Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, October 7, 2026 close — a pullback from Tuesday's records as rising Treasury yields pressured stocks.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,801.77", "change": "-17.16", "changePct": "-0.22%", "sixMo": "+18%" },
+        { "name": "Dow", "close": "51,179.87", "change": "-341.41", "changePct": "-0.66%", "sixMo": "+9.9%" },
+        { "name": "Nasdaq", "close": "27,538.69", "change": "-61.20", "changePct": "-0.22%", "sixMo": "+25%" }
+      ],
+      "body": "The 10-year Treasury yield pushed toward its highest level since 2002 and Caterpillar fell more than 6% after an analyst downgrade, with over two-thirds of S&P 500 stocks declining even as the index held just below Tuesday's record close.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/07/stock-market-today-live-updates-.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Rubio calls Iceland a 'critical outpost' for security on European tour building on new Arctic basing deals",
+      "body": "Visiting Reykjavik on the first stop of a four-day tour through Iceland, Greece and Portugal, Secretary of State Marco Rubio said Iceland has long served as 'a critical outpost for monitoring clandestine behaviour and deterring our adversaries,' days after the US signed a security pact with Denmark and Greenland allowing two new American bases there.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369952/iceland-critical-outpost-security-rubio-says-during-visit"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Satellite images show attack jets at new China-Laos facility, a possible first Chinese base in Southeast Asia",
+      "body": "Commercial satellite imagery reviewed by Reuters shows roughly eight Chinese K-8 light attack/trainer jets and dozens of support vehicles at a new China-Laos training facility near Vientiane that Beijing's defense ministry describes as a joint pilot-training center; analysts say its buildout could make it China's first fully fledged overseas military base in Southeast Asia.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/07/2003865526"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "CENTCOM denies Iranian claims that a US Navy helicopter crashed in the Red Sea",
+      "body": "Iranian state media said a Navy MH-60R Seahawk declared an emergency and went down off Saudi Arabia's coast near Yanbu, but US Central Command rejected the reports as false, saying all American aircraft and personnel in the Middle East remain safe and accounted for amid a stalled push to end the US-Iran war.",
+      "source": "Türkiye Today",
+      "url": "https://www.turkiyetoday.com/region/centcom-denies-claim-of-us-navy-helicopter-crash-in-red-sea-3229788"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Army pairs Mk VI patrol boat with autonomous drones to test Pacific littoral reconnaissance",
+      "body": "During the Bayonet Quest 26 exercise in Michigan, which ran through October 6, Army units paired a Mk VI patrol boat with autonomous aerial drones and unmanned surface vessels to rehearse distributed coastal reconnaissance of the kind envisioned for island-chain operations in the Pacific.",
+      "source": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/navy-news/2026/u-s-army-tests-mk-vi-patrol-boat-with-autonomous-drones-to-extend-pacific-littoral-reconnaissance"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Haiku 5.5, its cheapest and fastest small model yet",
+      "body": "Anthropic released Haiku 5.5 on Tuesday, pricing it roughly 75% below Haiku 4.5 at $0.10 per million input tokens and $0.50 per million output tokens, and began rolling out monthly API credits for Claude Max and Team subscribers to spend on the Claude Platform.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/anthropic-reveals-haiku-55-model-as-ai-pricing-war-intensifies-180000423.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears starting right tackle Darnell Wright sits out practice with an ankle injury ahead of Packers game",
+      "body": "Wright, who signed a four-year, $116 million extension this season, did not practice Wednesday because of an ankle injury as Chicago prepared for Sunday's game at Green Bay; backups Theo Benedet and rookie Ozzy Trapilo are the depth options at right tackle if he's unavailable.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/darnell-wright-does-not-participate-235824662.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying non-spoiler Byron story surfaced in the past 72 hours; available coverage is limited to betting-odds previews for Sunday's Charlotte playoff race, with no new roster, sponsorship, or schedule information.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window; available coverage traces back to this year's General Assembly actions and earlier presbytery disciplinary cases already reported.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
