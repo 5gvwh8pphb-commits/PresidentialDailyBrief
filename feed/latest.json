@@ -1,58 +1,143 @@
 {
- "generated": "2026-10-08T01:25:51+00:00",
+ "generated": "2026-10-08T07:40:33+00:00",
  "count": 40,
  "withImage": 36,
- "bearsDay": true,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "Heavy.com",
   "Hendrick Motorsports",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "Windy City Gridiron",
-  "heavy.com"
+  "USNI News"
  ],
  "items": [
   {
+   "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+   "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The deal is handing the AI agent developer fresh capital after Beijing forced Meta to unwind its roughly $2 billion acquisition.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108375190-1791437632622-gettyimages-2254446954-CHINA_MANUS.jpeg?v=1791437646&amp;w=1920&amp;h=1080",
+   "age": "40m ago",
+   "published": "2026-10-08T06:59:59+00:00"
+  },
+  {
+   "title": "Former corrections officer accused of killing wife, forcing kids to help",
+   "url": "https://www.foxnews.com/us/former-corrections-officer-accused-killing-wife-forcing-kids-help",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A former corrections officer allegedly strangled his wife and forced some of his children to help during the attack, then hid her body in a dumpster.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/missouri-man-killed-wife-kids-help.png?ve=1&tl=1",
+   "age": "51m ago",
+   "published": "2026-10-08T06:49:19+00:00"
+  },
+  {
+   "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+   "url": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
+   "age": "1h ago",
+   "published": "2026-10-08T06:14:11+00:00"
+  },
+  {
+   "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
+   "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108373886-1791368699021-gettyimages-2244760464-CHINA_BYD.jpeg?v=1791369118&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-08T05:30:49+00:00"
+  },
+  {
+   "title": "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
+   "url": "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108315896-1780491649482-gettyimages-1175168392-AFP_1LB3WB.jpeg?v=1781036537&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-08T05:28:40+00:00"
+  },
+  {
+   "title": "San Diego Padres season ends in disaster after offense completely collapses against Milwaukee Brewers",
+   "url": "https://www.foxnews.com/outkick-sports/san-diego-padres-season-ends-disaster-offense-completely-collapses-milwaukee-brewers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Fernando Tatis Jr. s solo homer was San Diego s only hit as the Brewers eliminated the Padres in Game 4 to advance to the NLCS against the Dodgers.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/manny-machado-padres-brewers-playoffs.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-08T05:26:09+00:00"
+  },
+  {
+   "title": "Anti-Israel protesters label Mamdani a 'traitor,' accuse him of 'genocide' outside Oct 7 vigil",
+   "url": "https://www.foxnews.com/politics/anti-israel-protesters-label-mamdani-traitor-accuse-genocide-outside-oct-7-vigil",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New York City Mayor Zohran Mamdani was called a traitor by anti-Israel protesters who accused him of genocide at an Oct. 7 vigil near Union Square.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mamdani-israel-candlelight-vigil-protest.png?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-08T05:12:55+00:00"
+  },
+  {
+   "title": "Texas executes Jamaal Howard despite concerns over lethal injection drug used in failed Tennessee execution",
+   "url": "https://www.foxnews.com/us/texas-executes-jamaal-howard-despite-concerns-over-lethal-injection-drug-used-failed-tennessee-execution",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jamaal Howard s attorneys cited Christa Pike s failed lethal injection in Tennessee to argue the pentobarbital drug posed risks, but the Supreme Court rejected it.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jamaal-howard-supreme-court-execution-appeal.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-08T03:55:09+00:00"
+  },
+  {
+   "title": "Rays sweep Yankees in ALDS after controversial spectator interference denies Anthony Volpe's homer",
+   "url": "https://www.foxnews.com/outkick-sports/rays-sweep-yankees-alds-controversial-spectator-interference-denies-anthony-volpe-homer",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Spectator interference on Anthony Volpe s would-be two-run homer proved decisive as the Tampa Bay Rays swept the New York Yankees in the ALDS.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/victor-mesa-jr-catch-yankee-stadium.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-10-08T03:37:11+00:00"
+  },
+  {
+   "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
+   "url": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108374336-1791399949439-gettyimages-2299097062-090a5425_2dnkjlkd.jpeg?v=1791399971&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-10-08T03:29:29+00:00"
+  },
+  {
    "title": "One Brutal Race Is Still Haunting William Byron’s NASCAR Chase",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5SGxGQlNBTGxFaVpsZm96UzNlVDFpa1JQZUI1cjJwNFdnQVNaNmp2VGpKWWIweWVHUVBHQmxBbVZTejFzYm9kUXVZYk1WQTVOZnFWYVA4RjhGeVVvUl9VanJtWTA4R1lkbWtNZ2VzWTJlTWFrWWNGM3J5N28?oc=5",
-   "source": "heavy.com",
+   "source": "Heavy.com",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "13m ago",
+   "age": "6h ago",
    "published": "2026-10-08T01:12:00+00:00"
-  },
-  {
-   "title": "FIRST ON FOX: US Coast Guard recruits largest class in nearly 40 years, beats goals for third straight year",
-   "url": "https://www.foxnews.com/us/us-coast-guard-recruits-largest-class-nearly-40-years-beats-goals-third-straight-year",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Coast Guard enlisted 5,445 active-duty members in fiscal year 2026, its largest class in nearly four decades as Force Design aims to add 15,000.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/coast-guard-basic-training-graduates.jpg?ve=1&tl=1",
-   "age": "27m ago",
-   "published": "2026-10-08T00:58:34+00:00"
-  },
-  {
-   "title": "Chicago Bears Discussion: Hate Week! Packers Preview",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/124710/chicago-bears-discussion-hate-week-packers-preview",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/04/gettyimages-2256051902.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "31m ago",
-   "published": "2026-10-08T00:54:28+00:00"
   },
   {
    "title": "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
@@ -62,52 +147,19 @@
    "topic": "markets",
    "summary": "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.",
    "image": "https://image.cnbcfm.com/api/v1/image/108373696-1791330151985-gettyimages-2264237810-cros-mobilewo260304_npWoD.jpeg?v=1791330161&amp;w=1920&amp;h=1080",
-   "age": "34m ago",
+   "age": "6h ago",
    "published": "2026-10-08T00:51:23+00:00"
   },
   {
-   "title": "ESPN star Stephen A. Smith's Lane Johnson, Eagles rant triggers immediate video apology",
-   "url": "https://www.foxnews.com/outkick-sports/espn-star-stephen-a-smith-lane-johnson-eagles-rant-triggers-immediate-video-apology",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Stephen A. Smith faced immediate backlash after questioning Lane Johnson s mid-season retirement and mocking the Eagles tackle s mental health timing.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/stephen-a-smith-super-bowl-new-orleans-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "34m ago",
-   "published": "2026-10-08T00:51:11+00:00"
-  },
-  {
-   "title": "NFL Week 5 injury report: Lamar Jackson, Ja'Marr Chase among several stars uncertain for Sunday",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-5-injury-report-lamar-jackson-jamarr-chase/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/07/1b753cb9-f35b-457d-b825-284804e2f947/lamar-jackson-ravens-12.jpg",
-   "age": "39m ago",
-   "published": "2026-10-08T00:46:38+00:00"
-  },
-  {
-   "title": "'Glad to see it': Super Bowl champion Bruce Arians rips out-of-control NFL refs after two suspensions",
-   "url": "https://www.foxnews.com/outkick-sports/glad-see-super-bowl-champion-bruce-arians-rips-out-of-control-nfl-refs-after-two-suspensions",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Super Bowl-winning coach Bruce Arians said he s surprised by NFL suspensions of Jeff Seeman and Adrian Hill but welcomes new official accountability.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Bruce-Arians-Refs.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-08T00:19:56+00:00"
-  },
-  {
-   "title": "Iowa city council meeting erupts after former member opens meeting with satanic prayer and 'Hail Satan'",
-   "url": "https://www.foxnews.com/media/iowa-city-council-meeting-erupts-after-former-member-opens-meeting-satanic-prayer-hail-satan",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A former Ottumwa City Council member opened a meeting with a satanic prayer ending in Hail Satan, prompting a pastor to call the controversial incident a curse.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/ap25087828186121.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-08T00:06:51+00:00"
+   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened-1152x648.png",
+   "age": "7h ago",
+   "published": "2026-10-08T00:00:24+00:00"
   },
   {
    "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
@@ -117,7 +169,7 @@
    "topic": "ai",
    "summary": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-10-07T23:36:57+00:00"
   },
   {
@@ -128,30 +180,8 @@
    "topic": "ai",
    "summary": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Linda-Rottenberg.jpg?w=1024",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-07T22:59:16+00:00"
-  },
-  {
-   "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
-   "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363256-1789499134411-gettyimages-2294938529-2026_sep_14_dreamforce_1602.jpeg?v=1789499168&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-10-07T22:29:41+00:00"
-  },
-  {
-   "title": "NFL player props, Falcons vs. Ravens odds: Brian Robinson scored 3 touchdowns last week. He's +12500 to repeat",
-   "url": "https://www.cbssports.com/betting/news/nfl-player-props-falcons-vs-ravens-odds-brian-robinson-scored-3-touchdowns-last-week-hes-12500-to-repeat/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/25/a8139e8b-daaf-4de1-9568-ce051f319bb4/falcons2.jpg",
-   "age": "2h ago",
-   "published": "2026-10-07T22:29:02+00:00"
   },
   {
    "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
@@ -161,7 +191,7 @@
    "topic": "ai",
    "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-07T21:56:42+00:00"
   },
   {
@@ -172,41 +202,8 @@
    "topic": "defense",
    "summary": "Novakovic, who has led GD since 2013, will be succeeded by Danny Deep on Jan. 1.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/phebe-nov-scaled-e1791408740417-1024x575.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-10-07T21:40:14+00:00"
-  },
-  {
-   "title": "Rome Odunze relished impact he made vs. Jets",
-   "url": "https://www.chicagobears.com/news/rome-odunze-relished-impact-he-made-vs-jets",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/gqaxfxmmgu7rn1wkgqkp.jpg",
-   "age": "3h ago",
-   "published": "2026-10-07T21:35:13+00:00"
-  },
-  {
-   "title": "Full list of 2026 NFL bye weeks for all 32 teams",
-   "url": "https://www.cbssports.com/nfl/news/nfl-bye-weeks-2026/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/04/d02d6629-37f3-4fc7-9e0b-80078e4a2bc5/patrick-mahomes-chiefs.jpg",
-   "age": "3h ago",
-   "published": "2026-10-07T21:32:42+00:00"
-  },
-  {
-   "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
-   "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108370148-1790771590456-gettyimages-2290036369-golba-dailylif260807_npnf2.jpeg?v=1791404003&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-07T21:31:40+00:00"
   },
   {
    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
@@ -216,30 +213,19 @@
    "topic": "ai",
    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-07T20:48:45+00:00"
   },
   {
-   "title": "Matt Spiegel: The Bears are unequivocally better than the Packers",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/124649/matt-spiegel-the-bears-are-unequivocally-better-than-the-packers",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/02/gettyimages-2256075550.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
-   "published": "2026-10-07T20:30:00+00:00"
-  },
-  {
-   "title": "Bears vs. Packers Injury Report: Swift and Monangai DNP, OL Injuries",
-   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/124660/chicago-bears-vs-packers-injury-report-swift-monangai-dnp-ol-injuries",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2295100172.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
-   "published": "2026-10-07T20:26:46+00:00"
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+   "age": "11h ago",
+   "published": "2026-10-07T20:22:37+00:00"
   },
   {
    "title": "How The Groundwork For F-47 Flight Testing Is Being Laid",
@@ -249,7 +235,7 @@
    "topic": "defense",
    "summary": "The Air Force Test Center plans to use an evolving blend of real-world and digital testing once the F-47 starts flying. The post How The Groundwork For F-47 Flight Testi…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/f-47-flight-testing-plans-taking-shape.jpg?quality=85",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-07T20:22:18+00:00"
   },
   {
@@ -260,7 +246,7 @@
    "topic": "defense",
    "summary": "The largest U.K. Commando Force exercise in 15 years is preparing for potential contingencies across the North Atlantic and High North. The post British Commandos Emerge…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/STRIKE-WARRIOR-EXERCISE-WITH-SSK.jpg?quality=85",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-07T20:13:07+00:00"
   },
   {
@@ -271,7 +257,7 @@
    "topic": "ai",
    "summary": "Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/misinfoTOP-1152x648.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-07T20:01:14+00:00"
   },
   {
@@ -282,7 +268,7 @@
    "topic": "defense",
    "summary": "A U.S. Navy aircraft carrier is expected to make a port call in Yokosuka, Japan, for the first time in four years. Yokosuka Mayor Katsuaki Kamiji and other city official…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/7226030-scaled.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-07T19:56:34+00:00"
   },
   {
@@ -293,7 +279,7 @@
    "topic": "ai",
    "summary": "TP-Link can't sell latest routers in US, still needs exemption from FCC ban.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tp-link-routers-1152x648.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-07T19:53:42+00:00"
   },
   {
@@ -304,19 +290,8 @@
    "topic": "defense",
    "summary": "“Providing core software applications is a critical next step. It provides a foundation that can be rapidly scaled and trained with continuity across the force,” Joseph …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/DVIDS-Lockheed-NGC2-photo-2-scaled-e1791399844907-1024x577.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-10-07T19:38:41+00:00"
-  },
-  {
-   "title": "Chicago Bears Pass Protection Analysis on the Sack Allowed vs Jets",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/124505/chicago-bears-pass-protection-analysis-on-the-sack-allowed-vs-jets",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2297994146.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
-   "published": "2026-10-07T19:30:00+00:00"
   },
   {
    "title": "Rubio says US, Greece to jointly combat security threats",
@@ -326,7 +301,7 @@
    "topic": "defense",
    "summary": "The U.S. and Greece are launching a joint security program to strengthen counterterrorism information sharing between their law enforcement agencies.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DL7YZRYMNFA2LPLM3G2KCOODUQ.JPG",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-10-07T18:25:10+00:00"
   },
   {
@@ -337,8 +312,19 @@
    "topic": "defense",
    "summary": "At this point, it could take a disaster for the USAF to invest in giving its prized assets sitting in the open on a flightline physical cover from drone attacks. The pos…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/B-1-Fairford-drone-threats-debate-over-hardened-shelters.jpg?quality=85",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-10-07T18:09:39+00:00"
+  },
+  {
+   "title": "Could NASA’s SR-71 Blackbird Be Modified To Reach Mach 4?",
+   "url": "https://www.twz.com/air/could-nasas-sr-71-blackbird-be-modified-to-reach-mach-4",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The SR-71's airframe is capable of going beyond its known top speed and NASA may have good reason to push its limits via new engines. The post Could NASA s SR-71 Blackbi…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/SR71-nasa-A.jpg?quality=85",
+   "age": "13h ago",
+   "published": "2026-10-07T17:56:00+00:00"
   },
   {
    "title": "From directed energy to AI and hardening, JIATF-401 is widening counter-UAS options",
@@ -348,7 +334,7 @@
    "topic": "defense",
    "summary": "There is no single answer to the drone threat, pushing the Pentagon toward a broader mix of defenses.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Breaking-Defense-C-UAS-eBrief-CACI-10.2026-1024x576.png",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-10-07T16:39:28+00:00"
   },
   {
@@ -359,19 +345,19 @@
    "topic": "defense",
    "summary": "The U.S. Navy’s first carrier aviation-based hypersonic missile is one step closer to achieving early operational capability following a recent flight test. An F/A-18E/F…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9976357-scaled.jpg",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-10-07T16:20:10+00:00"
   },
   {
-   "title": "How to watch, listen to, stream Bears-Packers Week 5 game",
-   "url": "https://www.chicagobears.com/news/how-to-watch-listen-to-stream-bears-packers-week-5-game",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ch9rvopfvymhkswzzarl.jpg",
-   "age": "11h ago",
-   "published": "2026-10-07T14:17:00+00:00"
+   "title": "Urban warfare: Next Falcon Peak exercise to take counter-drone tech to the streets",
+   "url": "https://breakingdefense.com/2026/10/urban-warfare-next-falcon-peak-exercise-to-take-counter-drone-tech-to-the-streets/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "After testing cUAS tech against heat and sand in the desert, the Pentagon is upping the exercise s complexity by simulating a bustling city.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/9955571-1024x576.jpg",
+   "age": "15h ago",
+   "published": "2026-10-07T16:02:00+00:00"
   },
   {
    "title": "Report to Congress on Marine Corps Amphibious Combat Vehicle",
@@ -381,7 +367,7 @@
    "topic": "defense",
    "summary": "The following is the Oct. 6, 2026, Congressional Research Service report, The Marine Corps’ Amphibious Combat Vehicle. From the Report The Marine Corps describes the Amp…",
    "image": null,
-   "age": "11h ago",
+   "age": "17h ago",
    "published": "2026-10-07T14:10:54+00:00"
   },
   {
@@ -392,8 +378,30 @@
    "topic": "defense",
    "summary": "The Indian government wants one of its biggest military aviation contracts to deepen the country’s local aerospace industrial base.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/UROOOSSVN5EDVJXM64REA5264I.jpg",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-10-07T12:35:37+00:00"
+  },
+  {
+   "title": "She wanted to look pretty for her dad’s funeral. Northwest Indiana Rotary program helped.",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_eabb9e16-a9b6-4a5c-b433-ed02893975da.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "For some Northwest Indiana children, a new pair of shoes or a beautiful dress means far more than clothing. It means dignity, confidence and hope when families need it m…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/4c/04cec581-34a0-4bcd-9b2f-3fafe1e05eca/6ac48f773625d.image.jpg?resize=300%2C225",
+   "age": "19h ago",
+   "published": "2026-10-07T12:15:00+00:00"
+  },
+  {
+   "title": "Anduril to Build New Submarine Component Facility",
+   "url": "https://news.usni.org/2026/10/06/anduril-to-build-submarine-component-facility",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Defense technology company Anduril will build a new facility in Maryland focused on submarine component construction for the U.S. Navy’s attack boats, according to a Tue…",
+   "image": "https://news.usni.org/wp-content/uploads/2025/11/USSMass.avif",
+   "age": "1d ago",
+   "published": "2026-10-06T20:38:06+00:00"
   },
   {
    "title": "It’s official: US Army’s improved M8 rifle to begin fielding in December",
@@ -418,15 +426,15 @@
    "published": "2026-10-06T18:54:22+00:00"
   },
   {
-   "title": "10 Bears Things: Spoiled at quarterback? It’s the new reality of the Chicago Bears",
-   "url": "https://allchgo.com/bears/10-bears-things-spoiled-quarterback-new-reality-bears/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/06100429/10things_ArticleTemplate-4-1024x576.jpg",
+   "title": "Pentagon names 4 directed-energy weapons for counter-drone program at US bases",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The Pentagon named four directed energy weapons for a homeland counter-drone program, the first systems to be fielded and tested at U.S. bases.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HQNVXGZSGJCRZKYSTRXZKJ5CRE.jpg",
    "age": "1d ago",
-   "published": "2026-10-06T15:07:41+00:00"
+   "published": "2026-10-06T18:29:50+00:00"
   },
   {
    "title": "NASCAR paint schemes preview: Home colors run deep for Hendrick Motorsports at Charlotte",
@@ -440,26 +448,15 @@
    "published": "2026-10-06T14:44:45+00:00"
   },
   {
-   "title": "Tyson Bagent cherishes first start since 2023",
-   "url": "https://www.chicagobears.com/news/tyson-bagent-cherishes-first-start-since-2023",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ejsvnvff9yhw9twcjrid.jpg",
-   "age": "2d ago",
-   "published": "2026-10-05T17:10:42+00:00"
-  },
-  {
-   "title": "Despite QB changes, the Bears are becoming a dominant, imposing team – just ask the Jets",
-   "url": "https://allchgo.com/bears/qb-changes-bears-becoming-dominant-imposing-team-jets/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/04181652/2026-10-04T195110Z_1596288256_MT1USATODAY29998575_RTRMADP_3_NFL-NEW-YORK-JETS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "3d ago",
-   "published": "2026-10-04T23:26:00+00:00"
+   "title": "NIPSCO insider: Staffing cuts left Northwest Indiana vulnerable when storm hit | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_b3210fc5-3c8e-4a68-972b-89f3f49143ae.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A NIPSCO Electric Field Supervisor says shrinking staffing, heavy reliance on contractors left the utility ill-prepared for the devastating August storm: \"I felt defeate…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/15/115593ff-04a4-4ef6-9789-4b06dd26d9e3/6ac3e89bd121b.image.jpg?resize=300%2C203",
+   "age": "1d ago",
+   "published": "2026-10-06T12:15:00+00:00"
   }
  ]
 }
