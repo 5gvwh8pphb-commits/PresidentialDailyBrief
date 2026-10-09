@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-09",
+  "dateLabel": "Friday, October 9, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-09T15:33:49Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, October 8, 2026 close — tech and chipmakers slid on a soft OpenAI revenue report while the Dow eked out a narrow gain as money rotated into energy and defensive stocks.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,765.36", "change": "-36.41", "changePct": "-0.47%", "sixMo": "+14%" },
+        { "name": "Dow", "close": "51,231.64", "change": "+51.77", "changePct": "+0.10%", "sixMo": "+6.9%" },
+        { "name": "Nasdaq", "close": "27,193.34", "change": "-345.35", "changePct": "-1.25%", "sixMo": "+20%" }
+      ],
+      "body": "Nvidia fell about 3% and Oracle dropped more than 5% after a report pegged OpenAI's annualized revenue closer to $50 billion than the previously cited $70 billion, while oil jumped roughly 4% on fresh concerns over Iran-related shipping disruptions in the Strait of Hormuz.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump says US will not strike Iran before Nov. 3 midterms despite Pentagon's readiness directive",
+      "body": "President Trump posted on Truth Social that he won't order new strikes on Iran before the midterm elections, citing Iran's weakened economy and \"productive discussions\" with Tehran, a day after Axios reported the Pentagon had directed US Central Command to finish preparing options for a possible resumption of major combat operations.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/08/trump-iran-strikes-midterm-elections"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Philippines says Chinese vessel presence in disputed South China Sea waters nearly doubled in September",
+      "body": "Manila's military reported about 101 Chinese coast guard and militia vessels around the Kalayaan Island Group and Ayungin (Second Thomas) Shoal last month, up from 56 in August, after a Chinese coast guard vessel's maneuvers forced a temporary halt to a resupply mission and the two sides traded blame over a medical evacuation near the shoal.",
+      "source": "Hong Kong Free Press",
+      "url": "https://hongkongfp.com/2026/10/09/philippines-flags-near-doubling-of-chinese-presence-in-disputed-waters"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "USS Abraham Lincoln returns to San Diego after a record 321-day deployment supporting Iran operations",
+      "body": "The Nimitz-class carrier docked at Naval Air Station North Island on Thursday after the longest carrier deployment in modern Navy history; Defense Secretary Pete Hegseth visited the ship at sea to award the Presidential Unit Citation, even as lawmakers press the Navy over reports of food shortages and sailor mental-health strain during the extended deployment.",
+      "source": "Fox 5 San Diego",
+      "url": "https://fox5sandiego.com/news/local-news/uss-abraham-lincoln-returns-to-san-diego/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Navy and Shield AI add $300 million to develop the AI-piloted X-BAT fighter drone",
+      "body": "Shield AI and the Navy announced this week they are investing another $300 million in X-BAT, a vertical-takeoff-and-landing unmanned fighter jet designed to fly autonomously from ships or austere locations without a runway, part of the Pentagon's push to field AI-enabled \"loyal wingman\" style aircraft.",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/10/navy-shield-ai-pour-big-bucks-into-x-bat-drone-development"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic updates Claude's usage policy to bar abusive treatment of the model and sharpen weapons and election rules",
+      "body": "The policy, taking effect November 12, adds a first-time prohibition on sustained, needless cruelty toward Claude, renames its elections section to focus on deception and voter suppression rather than a blanket ban on political targeting, and clarifies that Claude can't be used to help build weapons or arm autonomous vehicles.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears right tackle Darnell Wright upgraded to limited practice as ankle injury trends in the right direction",
+      "body": "Wright, who sat out Wednesday's session entirely, was listed as a limited participant on Thursday's injury report ahead of Sunday's game at Green Bay, a sign of improvement even as backups Theo Benedet and rookie Ozzy Trapilo remain ready to start at right tackle if needed.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/bears-announce-injury-updates-caleb-232239695.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The available Byron coverage this week concerns Chase standings and recent race finishes, which fall inside the 7-day spoiler window; no qualifying non-spoiler story on roster, sponsorship, or schedule surfaced in the past 72 hours.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new PCA-specific story surfaced within the 72-hour window beyond daily devotionals; the most recent denominational item, a note on the PCA prayer guide's anniversary, is dated October 5 and falls outside the recency limit.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
