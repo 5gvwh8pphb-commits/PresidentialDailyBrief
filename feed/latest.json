@@ -1,33 +1,157 @@
 {
- "generated": "2026-10-09T00:47:53+00:00",
+ "generated": "2026-10-09T06:56:10+00:00",
  "count": 40,
- "withImage": 37,
- "bearsDay": false,
+ "withImage": 38,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "Heavy.com",
   "Hendrick Motorsports",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Windy City Gridiron"
  ],
  "items": [
   {
-   "title": "Arizona man arrested after allegedly emailing White House bomb threat to Tucson news station",
-   "url": "https://www.foxnews.com/us/arizona-man-arrested-allegedly-emailing-white-house-bomb-threat-tucson-news-station",
+   "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+   "url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108378717-1791499513422-gettyimages-2298530288-SINGAPORE_TOKEN2049.jpeg?v=1791499529&amp;w=1920&amp;h=1080",
+   "age": "26m ago",
+   "published": "2026-10-09T06:30:01+00:00"
+  },
+  {
+   "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking",
+   "url": "https://www.cnbc.com/2026/10/08/ray-dalio-stocks-bond-yields.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Ray Dalio says earnings have cushioned stocks from rising bond yields, but that buffer is shrinking as he warns free cash flow could weaken.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108297798-17773087062026-04-27t163254z_899822450_rc2rxka59sah_rtrmadp_0_usa-stocks.jpeg?v=1777308739&amp;w=1920&amp;h=1080",
+   "age": "39m ago",
+   "published": "2026-10-09T06:16:19+00:00"
+  },
+  {
+   "title": "Mamdani demands Trump release illegal immigrant shot by ICE agent as protests erupt in the Bronx",
+   "url": "https://www.foxnews.com/us/mamdani-demands-trump-release-illegal-immigrant-shot-ice-agent-protests-erupt-bronx",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Jacob Aaron Hicks allegedly emailed a Tucson news station claiming an imminent bomb strike against the White House, prompting an FBI investigation.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/white-house_001.jpg?ve=1&tl=1",
-   "age": "33m ago",
-   "published": "2026-10-09T00:14:16+00:00"
+   "summary": "Mayor Zohran Mamdani demanded President Donald Trump release the man shot and injured by an ICE agent on Thursday in an incident that set off protests across New York Ci…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mamdani-ice-presser-shooting-nyc.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-09T04:40:09+00:00"
+  },
+  {
+   "title": "Guardians force decisive ALDS Game 5 as White Sox miss chance to reach first ALCS since 2005",
+   "url": "https://www.foxnews.com/outkick-sports/guardians-force-decisive-alds-game-5-white-sox-miss-chance-reach-first-alcs-since-2005",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "White Sox-Guardians ALDS Game 4 saw Cleveland erupt for two fifth-inning home runs to erase Chicago s lead and force a decisive Game 5 Saturday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Cleveland-Guardians-Chicago-White-Sox.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-09T04:22:46+00:00"
+  },
+  {
+   "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
+   "url": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108379398-1791512718423-gettyimages-2198822267-AA_14022025_2081398.jpeg?v=1791512757&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-09T04:11:59+00:00"
+  },
+  {
+   "title": "Mac Read Talk Bears vs. Packers!",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/124808/mac-read-talk-bears-vs-packers",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/01/gettyimages-2255630409.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "2h ago",
+   "published": "2026-10-09T03:58:09+00:00"
+  },
+  {
+   "title": "Brian Schottenheimer now sits on hottest seat in NFL after Cowboys collapse against Buccaneers",
+   "url": "https://www.foxnews.com/outkick-sports/brian-schottenheimer-hottest-seat-nfl-cowboys-collapse-buccaneers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Bucky Irving s 72-yard run sparked a Tampa Bay Buccaneers comeback as rookie Jalon Daniels led the charge to upset the Dallas Cowboys at home.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brian-schottenheimer-cowboys-buccaneers-sidelines.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-09T03:55:10+00:00"
+  },
+  {
+   "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
+   "url": "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108378997-1791505127429-gettyimages-2269840286-TFSPI_08042026-5142.jpeg?v=1791505141&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-10-09T03:51:15+00:00"
+  },
+  {
+   "title": "A'ja Wilson wins record fifth MVP as first three-peat in WNBA history strengthens all-time greatness case",
+   "url": "https://www.foxnews.com/outkick-sports/aja-wilson-wins-record-fifth-wnba-mvp-first-three-peat-wnba-history-strengthens-all-time-greatness-case",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Las Vegas Aces star s fifth WNBA MVP puts her alongside Bill Russell, Kareem Abdul-Jabbar and Michael Jordan in rarefied historic air.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/A_ja-Wilson-MVP-throphy.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-10-09T02:45:23+00:00"
+  },
+  {
+   "title": "NFL Week 5 picks: Experts face off on 49ers at Seahawks, Falcons vs. Ravens and more",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-5-picks-buccaneers-at-cowboys-49ers-at-seahawks/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/05/9f347f99-1f82-46e6-9b5e-a00c4f96ef8a/dak.jpg",
+   "age": "5h ago",
+   "published": "2026-10-09T01:16:59+00:00"
+  },
+  {
+   "title": "Ranking all 32 NFL teams into tiers: 49ers among the elite, but some teams not as good as they seem",
+   "url": "https://www.cbssports.com/nfl/news/ranking-all-32-nfl-teams-into-tiers-49ers-rams-miami/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/06/92b7da07-82d5-4e69-9425-8390cb0f4864/brock-purdy-49ers-3.jpg",
+   "age": "6h ago",
+   "published": "2026-10-09T00:56:04+00:00"
+  },
+  {
+   "title": "Buccaneers at Cowboys Open Thread!",
+   "url": "https://www.windycitygridiron.com/general/124676/buccaneers-at-cowboys-open-thread",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-106763379.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "6h ago",
+   "published": "2026-10-09T00:11:00+00:00"
   },
   {
    "title": "Retired KC-10 Extender Tankers Could Get A Second Life With North African Mystery Operator",
@@ -37,41 +161,19 @@
    "topic": "defense",
    "summary": "The USAF wants to know what it would take to regenerate a quartet of KC-10s for an undisclosed operator, and there are a couple of likely suspects. The post Retired KC-1…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/KC10-Retired-North-Africa.jpg?quality=85",
-   "age": "48m ago",
+   "age": "6h ago",
    "published": "2026-10-08T23:58:54+00:00"
   },
   {
-   "title": "Logan Federico’s dad says criminals have become 'more important' than victims, pushes repeat offender registry",
-   "url": "https://www.foxnews.com/us/logan-federico-dad-says-criminals-more-important-victims-pushes-repeat-offender-registry",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Stephen Federico urged federal lawmakers to pass Logan s Law, which would include a violent crime registry bill, at a South Carolina roundtable with AG Todd Blanche.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/logan-federico-stephen-federico-congressional-hearing.jpg?ve=1&tl=1",
-   "age": "52m ago",
-   "published": "2026-10-08T23:55:32+00:00"
-  },
-  {
-   "title": "Guinness brewery that welcomed 2 million visitors closing its doors for good",
-   "url": "https://www.foxnews.com/food-drink/guinness-brewery-welcomed-2-million-visitors-closing-its-doors-good",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "One of America s two Guinness breweries is closing, leaving 174 Aramark employees out of work. The brewery s last day open to the public will be Nov. 1.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/guinness-open-gate-customers-drinking.jpg?ve=1&tl=1",
-   "age": "54m ago",
-   "published": "2026-10-08T23:53:48+00:00"
-  },
-  {
-   "title": "Caitlin Clark's Fever set a TV ratings bar the WNBA semifinal openers could not come close to reaching",
-   "url": "https://www.foxnews.com/outkick-sports/caitlin-clark-fever-set-tv-ratings-bar-wnba-semifinal-openers-could-not-reach",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Indiana Fever regular-season games averaged 2.32 million viewers on major networks, more than double Sunday s WNBA semifinal openers on ABC and NBC.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/caitlin-clark38.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-08T23:43:44+00:00"
+   "title": "Joey Porter Jr. ruled out of Cowboys' Thursday night showdown with Buccaneers",
+   "url": "https://www.cbssports.com/nfl/news/joey-porter-jr-ruled-out-cowboys-buccaneers/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/20/2814c345-4027-4a73-a4af-b4605e658b22/porterweek1.jpg",
+   "age": "7h ago",
+   "published": "2026-10-08T23:51:26+00:00"
   },
   {
    "title": "Century-old houses getting new life at Fort Bragg",
@@ -81,30 +183,19 @@
    "topic": "defense",
    "summary": "230 homes built before 1940 are being renovated at Fort Bragg.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3E2IF3BRQRDBJJAZ6ZFOBN6K7I.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-08T23:41:48+00:00"
   },
   {
-   "title": "Tyreek Hill denies most abuse claims but admits to shoving wife into wall in explosive testimony",
-   "url": "https://www.foxnews.com/outkick-sports/tyreek-hill-denies-abuse-claims-explosive-testimony-admits-shoving-wife-wall-leaving-hole",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tyreek Hill admitted to pushing Lakeeta Vaccaro Hill into a wall and threatening her but denied multiple other battery allegations on the witness stand.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/tyreek-hill-fifa-world-cup-2026.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-08T23:35:25+00:00"
-  },
-  {
-   "title": "SpaceX deal to acquire spectrum license hammers shares of AT&T, Verizon and T-Mobile",
-   "url": "https://www.cnbc.com/2026/10/08/spacex-spectrum-license-att-verizon-tmobile.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "SpaceX agreed to purchase a nationwide spectrum portfolio as it to pushes its Starlink service deeper into the U.S. telecommunications market.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108321148-17812771242026-06-12t150407z_163805661_rc2eslaytz6g_rtrmadp_0_spacex-ipo-california.jpeg?v=1781277153&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-08T22:55:46+00:00"
+   "title": "Use FanDuel promo code to get $250 bonus bets by targeting Cowboys vs. Buccaneers on Thursday Night Football",
+   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-by-targeting-cowboys-vs-buccaneers-on-thursday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/20/d13a1e29-7c4b-469e-9dbb-b5c7e26a2c57/1920x1080.jpg",
+   "age": "7h ago",
+   "published": "2026-10-08T23:23:48+00:00"
   },
   {
    "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
@@ -114,7 +205,7 @@
    "topic": "ai",
    "summary": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2299252091.jpg?w=1024",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-08T22:33:59+00:00"
   },
   {
@@ -125,8 +216,19 @@
    "topic": "defense",
    "summary": "The contact comes months after DoD and Raytheon inked a framework agreement to boost production of the air defense munition.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/934664-scaled-e1713286156806-1024x577.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-08T22:07:21+00:00"
+  },
+  {
+   "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+   "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-1152x648-1791410362.jpg",
+   "age": "9h ago",
+   "published": "2026-10-08T21:37:32+00:00"
   },
   {
    "title": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
@@ -136,19 +238,8 @@
    "topic": "defense",
    "summary": "Sen. Chris Murphy, D-Conn., was denied access to Al Udeid Air Base, Qatar, during a recent Congressional Delegation trip in what he calls a \"cover-up.\"",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/DFKCUYCQBJA2XJTG6SW245O62A.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-08T21:30:28+00:00"
-  },
-  {
-   "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report",
-   "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "OpenAI has told investors that it hit roughly $50 billion in annualized revenue at the end of September, CNBC confirmed.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369813-1790712609527-gettyimages-2297765616-_q3a2873_m5g8wtsy.jpeg?v=1790712953&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-08T21:19:14+00:00"
   },
   {
    "title": "4 Marines Receiving Medical Care After Osprey Mishap",
@@ -158,7 +249,7 @@
    "topic": "defense",
    "summary": "Four Marines are receiving medical care following a MV-22B Osprey mishap on Thursday in North Carolina, USNI News has learned. The incident, which the Marine Corps descr…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9523945-scaled.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-08T21:09:57+00:00"
   },
   {
@@ -169,8 +260,19 @@
    "topic": "ai",
    "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what …",
    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-08T21:00:00+00:00"
+  },
+  {
+   "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+   "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2279085532-1024x648.jpg",
+   "age": "10h ago",
+   "published": "2026-10-08T20:53:01+00:00"
   },
   {
    "title": "USS Abraham Lincoln Comes Home With Its Island Superstructure Covered In Kill Marks",
@@ -180,8 +282,30 @@
    "topic": "defense",
    "summary": "The drone and ship kill marks visualize the role the Lincoln Carrier Strike Group played in the fight with Iran. The post USS Abraham Lincoln Comes Home With Its Island …",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Lincoln-kill-markings-drones.jpg-Topaz-Gigapixel-2x-scale.jpg?quality=85",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-10-08T20:49:49+00:00"
+  },
+  {
+   "title": "Bears QB Tyson Bagent lauded for 'crisp' operation of offense",
+   "url": "https://www.chicagobears.com/news/bears-qb-tyson-bagent-lauded-for-crisp-operation-of-offense",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/nx1asq1jresz8euxlquz.jpg",
+   "age": "10h ago",
+   "published": "2026-10-08T20:43:42+00:00"
+  },
+  {
+   "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/trump-mobile-1152x648-1791486838.jpg",
+   "age": "10h ago",
+   "published": "2026-10-08T20:39:31+00:00"
   },
   {
    "title": "U.S. Destroyer Goes into Spanish Dry Dock for Maintenance Overhaul",
@@ -191,7 +315,7 @@
    "topic": "defense",
    "summary": "One of the U.S. Navy s forward-deployed destroyers went into a Spanish dry dock this week for a maintenance overhaul, the service announced Thursday. USS Arleigh Burke (…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9999600-scaled.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-08T20:34:03+00:00"
   },
   {
@@ -202,30 +326,8 @@
    "topic": "defense",
    "summary": "“This marks Israel s first official participation in the defense exhibition held in Morocco since the signing of the Abraham Accords,” Israel’s Ministry of Defense said.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Israel_Morocco_MOD-e1791489434465-1024x577.png",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-08T20:23:07+00:00"
-  },
-  {
-   "title": "Major League Baseball proposes shortening its regular season as it pushes for a salary cap",
-   "url": "https://www.cnbc.com/2026/10/08/major-league-baseball-proposes-shorter-season-amid-salary-cap-push.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Major League Baseball proposed a return to a shorter 154-game regular season schedule as it attempts to convince players to approve a salary cap.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108119106-1742486906567-gettyimages-2205847376-dsc_2414_si0pz9ex.jpeg?v=1742487008&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-10-08T20:16:21+00:00"
-  },
-  {
-   "title": "R.I.P. Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
-   "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Hamilton also coined the term \"software engineering\" and founded two successful software companies.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hamilton2-1152x648-1791480892.jpg",
-   "age": "4h ago",
-   "published": "2026-10-08T20:15:53+00:00"
   },
   {
    "title": "U.S. Makes F-35 Push As Portugal Weighs F-16 Replacement",
@@ -235,19 +337,8 @@
    "topic": "defense",
    "summary": "The U.S. bid faces European rivals as Lisbon weighs the cost, capability, and strategic implications of its next fighter. The post U.S. Makes F-35 Push As Portugal Weigh…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/F-35A-PAIR.jpg?quality=85",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-08T20:14:20+00:00"
-  },
-  {
-   "title": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
-   "url": "https://www.cnbc.com/2026/10/08/starbucks-chipotle-acquisition.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Starbucks has reportedly been working with advisers on a takeover proposal for Chipotle, but a potential deal comes with pros and cons for investors.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108259099-17697117762026-01-29t172632z_126263610_rc20bjanasdi_rtrmadp_0_starbucks-investor-day.jpeg?v=1769711803&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-10-08T20:12:33+00:00"
   },
   {
    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
@@ -257,41 +348,30 @@
    "topic": "ai",
    "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling e…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-08T20:04:26+00:00"
   },
   {
-   "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
-   "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Free SSL/TLS certificate lifetimes reduce to 64 days in February.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/getty-security-privacy-1152x648-1736892649.jpg",
-   "age": "4h ago",
-   "published": "2026-10-08T19:57:17+00:00"
+   "title": "Should the Chicago Bears Trade for a Defensive Player?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-rumors/124658/should-the-chicago-bears-trade-for-a-defensive-player-simmons-mack-sweat",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/chorus/uploads/chorus_asset/file/22720485/usa_today_14873170.jpg?quality=90&#038;strip=all&#038;crop=24.966666666667,0,75.033333333333,100",
+   "age": "10h ago",
+   "published": "2026-10-08T20:00:00+00:00"
   },
   {
-   "title": "Driver wins $76 after ALPR led to bogus traffic stop, drug searches",
-   "url": "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Mass surveillance gets stupider.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/texas-flag-1152x648.jpg",
-   "age": "5h ago",
-   "published": "2026-10-08T19:42:30+00:00"
-  },
-  {
-   "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
-   "url": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"[T]he Trump-RFK Jr anti-vax agenda keeps getting more corrupt and dangerous.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-1152x648.jpg",
-   "age": "5h ago",
-   "published": "2026-10-08T19:26:32+00:00"
+   "title": "Bears' success on defense fueled by third-down efficiency",
+   "url": "https://www.chicagobears.com/news/bears-success-on-defense-fueled-by-third-down-efficiency",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yc2nzahibek39fuf47vg.jpg",
+   "age": "11h ago",
+   "published": "2026-10-08T19:41:12+00:00"
   },
   {
    "title": "Sig Sauer develops 25-round mag for Army’s next-gen rifle",
@@ -301,7 +381,7 @@
    "topic": "defense",
    "summary": "Soldier feedback, from the constructive to the blistering, has been instrumental in guiding Sig Sauer in its development of the M8 carbine.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/QZK3ROXYO5EKVK6VY2E6Q5EIPI.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-08T19:23:25+00:00"
   },
   {
@@ -312,30 +392,8 @@
    "topic": "defense",
    "summary": "After 321 days, the Abraham Lincoln Carrier Strike Group is home. Flagship USS Abraham Lincoln (CVN-72) pulled into its berth at Naval Air Station North Island around 3:…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-2.30.08-PM-scaled.png",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-08T19:21:49+00:00"
-  },
-  {
-   "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-   "url": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1592854555-1.jpg?resize=1200,855",
-   "age": "6h ago",
-   "published": "2026-10-08T18:30:00+00:00"
-  },
-  {
-   "title": "Navy Doubles Down On X-BAT VTOL ‘Fighter’ Drone Development",
-   "url": "https://www.twz.com/news-features/navy-doubles-down-on-x-bat-vtol-fighter-drone-development",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "X-BAT flight testing is getting closer on the horizon, and an extremely ambitious timeline to reach an operational capability has been revealed. The post Navy Doubles Do…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/shield-ai-navy-service-pathway.jpg?quality=85",
-   "age": "6h ago",
-   "published": "2026-10-08T18:26:34+00:00"
   },
   {
    "title": "Power at the sprocket: It’s the transmission that gives tracked vehicles their control",
@@ -345,63 +403,30 @@
    "topic": "defense",
    "summary": "[Sponsored] Army vehicles like Bradley need greater power at the sprocket for speed, braking, and maneuverability.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/SAPA-1-1024x683.jpg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-08T18:23:57+00:00"
   },
   {
-   "title": "Lessons for CENTCOM from counter-drone experiments in the Arizona desert",
-   "url": "https://breakingdefense.com/2026/10/lessons-for-centcom-from-counter-drone-experiments-in-the-arizona-desert/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Officials said the “realities of the desert” like intense heat, wind, dust and glare closely replicate the physical challenges faced by forces in CENTCOM.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9958561-e1790961610405-1024x576.jpg",
-   "age": "6h ago",
-   "published": "2026-10-08T18:08:11+00:00"
+   "title": "Bears-Packers: Can Tyson Bagent keep the ball away from Xavier McKinney?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/124634/bears-packers-can-tyson-bagent-keep-the-ball-away-from-xavier-mckinney",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2296269678.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "12h ago",
+   "published": "2026-10-08T18:00:00+00:00"
   },
   {
-   "title": "Sikorsky’s “Black Hawk 2070” Strategy Includes Drones, New Engines, And Flying The Pilotless U-Hawk This Year",
-   "url": "https://www.twz.com/sponsored-content/sikorskys-black-hawk-2070-strategy-includes-drones-new-engines-and-flying-the-pilotless-u-hawk-this-year",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Branded Content: A planned suite of UH-60 upgrades includes the uncrewed U-Hawk, new engines, more range, launched effects, and expanding autonomy. The post Sikorsky’s “…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/2070-Black-Hawk-UH-60.jpg?quality=85",
-   "age": "8h ago",
-   "published": "2026-10-08T16:41:57+00:00"
-  },
-  {
-   "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
-   "url": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Congressional Research Service pointed to the war in Ukraine, where armored vehicles have largely been driven from the battlefield by drones.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RFABAXYMINDHBJVC7GPRPL2SZM.jpg",
-   "age": "8h ago",
-   "published": "2026-10-08T16:34:20+00:00"
-  },
-  {
-   "title": "France Fires New Submarine-launched Ballistic Missile in First At-sea Test",
-   "url": "https://news.usni.org/2026/10/08/france-fires-new-submarine-launched-ballistic-missile-in-first-at-sea-test",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "France conducted the first at-sea firing of its latest submarine-launched ballistic missile on Tuesday. The French Navy’s nuclear powered ballistic missile submarine SNL…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/2026_10_NP_DPOL_SiO_GRPTD_Smertrios_COM1.jpg",
-   "age": "8h ago",
-   "published": "2026-10-08T16:05:10+00:00"
-  },
-  {
-   "title": "Indiana teens think more of their peers use drugs than actually do, latest report finds",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c24e215a-20ca-4348-9762-29da96310663.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Indiana teens are using alcohol, vaping and marijuana at historically low rates — but they still have some misconceptions about how much their peers use.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/da/cda82034-285b-51a8-b8ef-c6b0ea146a93/649b7ae24d162.image.jpg?resize=300%2C215",
-   "age": "11h ago",
-   "published": "2026-10-08T13:00:00+00:00"
+   "title": "Bears host Dream Summit Experience at Halas Hall in collaboration with Common's 'Free to Dream' nonprofit",
+   "url": "https://www.chicagobears.com/news/bears-host-dream-summit-experience-halas-hall",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/kgxufzzevttjmbmwfjty.jpg",
+   "age": "13h ago",
+   "published": "2026-10-08T17:41:00+00:00"
   },
   {
    "title": "One Brutal Race Is Still Haunting William Byron’s NASCAR Chase",
@@ -411,30 +436,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-10-08T01:12:00+00:00"
   },
   {
-   "title": "She wanted to look pretty for her dad’s funeral. Northwest Indiana Rotary program helped.",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_eabb9e16-a9b6-4a5c-b433-ed02893975da.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "For some Northwest Indiana children, a new pair of shoes or a beautiful dress means far more than clothing. It means dignity, confidence and hope when families need it m…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/4c/04cec581-34a0-4bcd-9b2f-3fafe1e05eca/6ac48f773625d.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-10-07T12:15:00+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports archivist Sam Ulrich picks favorite museum artifacts for fans to find",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnpVMWdIMWlMNnpLTUowOUtCT21Qcl9YV2s4VUxIT1Y5NTY4TS1nOHVVUWlwZG1NSExxQW85Wjh2b2hwRUVqUHVCRFJKN3NjNFQ5Y2tLUjJRVGVGN2toNmlnNzd0MXJtRlJiMmNZODVGeGdNQlg2QzAxX2xpa1pDSUpCM0RaRTc2ZmpsZ08xUkp3dlNWTV9HbGlmVUVDNkswUUdZSEhUaWxDdm9yT0xUUF9XZFpqSmhhSkVod1AyOTRjUm9yNjZfYkV3?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "10 Bears Things: Spoiled at quarterback? It’s the new reality of the Chicago Bears",
+   "url": "https://allchgo.com/bears/10-bears-things-spoiled-quarterback-new-reality-bears/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/06100429/10things_ArticleTemplate-4-1024x576.jpg",
    "age": "2d ago",
-   "published": "2026-10-06T18:54:22+00:00"
+   "published": "2026-10-06T15:07:41+00:00"
   },
   {
    "title": "NASCAR paint schemes preview: Home colors run deep for Hendrick Motorsports at Charlotte",
@@ -446,17 +460,6 @@
    "image": null,
    "age": "2d ago",
    "published": "2026-10-06T14:44:45+00:00"
-  },
-  {
-   "title": "NIPSCO insider: Staffing cuts left Northwest Indiana vulnerable when storm hit | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_b3210fc5-3c8e-4a68-972b-89f3f49143ae.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A NIPSCO Electric Field Supervisor says shrinking staffing, heavy reliance on contractors left the utility ill-prepared for the devastating August storm: \"I felt defeate…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/15/115593ff-04a4-4ef6-9789-4b06dd26d9e3/6ac3e89bd121b.image.jpg?resize=300%2C203",
-   "age": "2d ago",
-   "published": "2026-10-06T12:15:00+00:00"
   }
  ]
 }
