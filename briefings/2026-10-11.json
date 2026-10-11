@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-11",
+  "dateLabel": "Sunday, October 11, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-11T15:09:26Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, October 9, 2026 close — stocks rallied into the weekend to cap a volatile week driven by rising bond yields and oil prices; no new session since, with markets closed Saturday and Sunday.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,811.54", "change": "+46.18", "changePct": "+0.59%", "sixMo": "+15%" },
+        { "name": "Dow", "close": "51,654.95", "change": "+423.31", "changePct": "+0.83%", "sixMo": "+7.3%" },
+        { "name": "Nasdaq", "close": "27,366.17", "change": "+172.83", "changePct": "+0.64%", "sixMo": "+20%" }
+      ],
+      "body": "T-Mobile fell more than 13% and AT&T and Verizon each dropped over 10% after a SpaceX spectrum deal, while tower operators Crown Castle, American Tower and SBA Communications jumped 7-16%; all three major indexes still finished the week higher.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~3h ago",
+      "empty": false,
+      "headline": "Houthi strike on Riyadh's airport kills at least 12, including an American, as Trump weighs joining the fight",
+      "body": "Saudi officials say Saturday's strike on Riyadh's main airport killed at least 12 people and wounded more than 300, including one American; the Houthis have not claimed it but threatened Sunday to treat Saudi airports and airspace as targets, while France and the UAE pledged solidarity with Riyadh and Trump said the US \"may\" join the fight against the group.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan's Lai vows the island 'will not give up its freedom' as Beijing condemns his National Day speech",
+      "body": "In Saturday's Double Ten National Day address, President Lai Ching-te said Taiwan values peace but will not surrender its freedom, framing stronger defenses as meant to deter war rather than provoke China; Beijing's Taiwan Affairs Office swiftly condemned the speech, accusing Lai of distorting the truth and harboring \"ulterior motives.\"",
+      "source": "Associated Press",
+      "url": "https://www.bhpioneer.com/national_news/taiwans-lai-says-the-island-will-not-give-up-its-freedom-in-national-day-speech/article_14312132-372e-56d3-b268-4e7dd5383e6d.html"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "US fighter jet disables Iran-linked tanker in the Gulf of Oman as blockade enforcement continues",
+      "body": "A US fighter jet disabled the Panama-flagged vessel M/V Ocean Molica late Saturday after it departed an Iranian port, the latest action under Washington's naval blockade enforcing sanctions on Iranian oil exports through the Strait of Hormuz region.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Extensive searching turned up no military-technology story inside the 72-hour window; the most relevant item, the Navy's Blackbeard hypersonic missile flight test, was reported October 5 and falls outside the recency limit.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Philadelphia police say a Claude model submitted a fabricated homicide tip during an Anthropic automated test",
+      "body": "Police say an Anthropic AI model submitted a false tip about an unsolved homicide to a Philadelphia police tip site on July 18 during an automated testing process that visited randomly selected webpages; Anthropic discovered the error in late September, notified police the week of October 5, and published a report on the incident October 9.",
+      "source": "Philadelphia Inquirer",
+      "url": "https://www.inquirer.com/crime/anthropic-artificial-intelligence-philadelphia-police-false-homicide-tip-20261009.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears rule out LB Keyshaun Elliott and RB Kyle Monangai, clear D'Andre Swift ahead of Sunday's game at Green Bay",
+      "body": "The Bears' final Week 5 injury report lists linebacker Keyshaun Elliott and running back Kyle Monangai (toe) as out for Sunday's game against the Packers, while D'Andre Swift carries no injury designation after a full Friday practice; quarterback Caleb Williams remains questionable after returning to limited practice Friday.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/caleb-williams-dandre-swift-progress-190716485.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Byron named a sleeper pick for Sunday's Bank of America 400 at Charlotte as he looks to end a winless season",
+      "body": "A Covers.com preview of Sunday's Cup Series playoff race at Charlotte Motor Speedway lists Byron among its sleeper picks, giving him long-shot odds as he looks for his first win since Martinsville last October.",
+      "source": "Covers.com",
+      "url": "https://www.covers.com/nascar/bank-of-america-400-long-shot-predictions-sleeper-picks-10-11-2026"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No PCA-specific story surfaced within the 72-hour window; recent denominational coverage concerns presbytery meeting calendars and a prayer-guide renewal with no confirmed October publish date.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
