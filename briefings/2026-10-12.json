@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-12",
+  "dateLabel": "Monday, October 12, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-12T18:16:28Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Week ended Friday, October 9, 2026 — stocks touched fresh record highs early on before Mideast-strike headlines and renewed AI-spending worries made gains choppier into the close.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,811.54", "change": "+1.2%", "heroLabel": "week", "sixMo": "+15%" },
+        { "name": "Dow", "close": "51,654.95", "change": "+0.9%", "heroLabel": "week", "sixMo": "+7.3%" },
+        { "name": "Nasdaq", "close": "27,366.17", "change": "+0.6%", "heroLabel": "week", "sixMo": "+20%" }
+      ],
+      "body": "All three indexes still finished the week higher, but Friday's session was dominated by a telecom sell-off after a SpaceX spectrum deal: T-Mobile fell more than 13% and AT&T and Verizon each dropped over 10%, while tower operators Crown Castle, American Tower and SBA Communications jumped 7-16%.",
+      "source": "LPL Research",
+      "url": "https://www.lpl.com/research/blog/weekly-market-performance-october-9-2026.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Houthi attacks on Saudi airports have killed at least 20 in a week as Riyadh's main airport stays closed and Trump weighs joining the fight",
+      "body": "Saudi Arabia's King Khalid International Airport in Riyadh remains closed after being struck four times in five days, with Monday's extension meant to let authorities verify the facility's safety; a week of Houthi strikes on Saudi airports has now killed at least 20 people, including a US citizen and a Pakistani national, and Trump said Saturday the US \"may\" join Saudi Arabia's fight against the group, with a decision expected soon.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Taiwan says China's week-long live-fire drills will mostly stay off China's own coast rather than target the island",
+      "body": "Taiwan's defense minister Wellington Koo said the PLA's live-fire drills, running Monday through Saturday under Chinese no-sail notices covering five marine areas, are expected to take place mostly off China's coast and involve only artillery units, even as Taiwan logged four PLA aircraft sorties and six PLA Navy vessels operating near the island early Monday; Beijing has not explicitly linked the drills to President Lai's Double Ten speech but accused his party of pursuing \"Taiwan independence.\"",
+      "source": "Taipei Times",
+      "url": "https://taipeitimes.com/News/taiwan/archives/2026/10/12/2003865828"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US forces disable a second blockade-running tanker as Iran claims new strikes on supertankers in the Strait of Hormuz",
+      "body": "CENTCOM says US forces disabled another cargo vessel Sunday after its crew tried to run the naval blockade on Iranian ports, part of an enforcement effort that has now disabled four vessels, turned back 135 others and destroyed 10 suspected \"shadow fleet\" tankers since mid-July; Iran's Revolutionary Guard claims it struck three supertankers in the strait over the past two days, including one that caught fire Monday, though UK maritime authorities had not confirmed the latest attack.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "General Dynamics shows its full Wolf XM30 infantry fighting vehicle design as the Army's AUSA conference opens",
+      "body": "General Dynamics Land Systems is displaying its complete Wolf XM30 design, built to replace the Bradley, as a one-eighth-scale model for the first time at the Association of the US Army's annual conference, which opened Monday in Washington and runs through Wednesday with uncrewed systems and counter-drone platforms as its central themes amid an unresolved Army decision on the XM30 program.",
+      "source": "Shephard Media",
+      "url": "https://www.shephardmedia.com/news/landwarfareintl/ausa-2026-uncrewed-systems-and-defending-against-them-set-to-feature/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic's new rule against sustained, needless cruelty toward Claude models draws fresh coverage ahead of its November effective date",
+      "body": "Anthropic's updated usage policy bars sustained and needless abusive or cruel behavior toward its Claude models once it takes effect November 12; the company says ordinary frustration, pushback and model testing are excluded, and Claude's own ability to end an abusive conversation remains the main way the rule is enforced.",
+      "source": "Boing Boing",
+      "url": "https://boingboing.net/2026/10/12/anthropic-wants-people-to-stop-being-mean-to-claude.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Ben Johnson says LT Ozzy Trapilo isn't ready to start yet but is 'looking better every week' in his return from a torn patellar tendon",
+      "body": "Johnson said Friday that Trapilo, who tore his patellar tendon in January's wild-card loss, would not be ready to start Sunday's game at Green Bay but is regaining confidence and improving week to week; starting left tackle Braxton Jones remains on injured reserve and is not eligible back until at least the Nov. 2 game against Seattle.",
+      "source": "Sports Illustrated",
+      "url": "https://www.si.com/nfl/bears/onsi/bears-ozzy-trapilo-injury-update"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "This week's main Byron storyline is Sunday's Charlotte playoff elimination race, which the brief's spoiler rule bars from reporting on; no other qualifying roster, sponsorship or schedule news about Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No PCA-specific story surfaced within the 72-hour window; the most recent denominational items (a prayer-guide relaunch and a Nashville pastoral election) are more than a week old and were not repeated here.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
