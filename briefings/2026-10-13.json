@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-13",
+  "dateLabel": "Tuesday, October 13, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-13T16:28:17Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~14h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, October 12, 2026 close — a mixed, earnings-eve session as chip stocks fell and bank shares sold off ahead of big-bank results.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,807.24", "change": "-4.30", "changePct": "-0.06%", "sixMo": "+14%" },
+        { "name": "Dow", "close": "51,850.55", "change": "+195.60", "changePct": "+0.38%", "sixMo": "+7.6%" },
+        { "name": "Nasdaq", "close": "27,245.90", "change": "-120.27", "changePct": "-0.44%", "sixMo": "+20%" }
+      ],
+      "body": "Micron and SK Hynix fell more than 3% after a Chinese rival announced memory-chip progress, and bank stocks sold off ahead of Tuesday's earnings from JPMorgan, Goldman Sachs, Citi and Wells Fargo; oil jumped toward $106 a barrel after Russian strikes on Ukrainian power plants, while Trump raised the prospect of US strikes on the Houthis.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2h ago",
+      "empty": false,
+      "headline": "Houthis threaten to strike Saudi Aramco sites and warn of a 'painful' response if the US joins Riyadh's fight",
+      "body": "A Houthi official warned Tuesday of a swift and painful response should the US join Saudi Arabia's campaign against the group, while the Houthis separately threatened to hit Aramco oil facilities and told civilians near some sites to evacuate; Trump has said the US 'may' join the fight but has not announced a decision, and Egypt called for an immediate halt to the Houthi attacks on Saudi Arabia.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US calls China's military activity off Taiwan's east coast 'deeply destabilizing' as Taipei tracks a new round of PLA drills",
+      "body": "Taiwan's defense ministry is monitoring a week of Chinese live-fire drills that Defense Minister Wellington Koo says appear to be coastal artillery exercises staying off China's own shoreline, as the US State Department separately labeled recent Chinese maritime activity off Taiwan's east coast 'deeply destabilizing'; Taipei said its Coast Guard, backed by the navy, will take the lead in pushing back Chinese militia fishing boats and coast guard vessels from its waters.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/13/2003865868"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "CENTCOM's naval blockade of Iran grinds on as Iran claims fresh strikes on supertankers in the Strait of Hormuz",
+      "body": "US Central Command says it has redirected more than 130 commercial vessels and disabled several more trying to run its blockade on Iranian ports since mid-July, including a cargo vessel disabled Sunday; Iran's Revolutionary Guard claims it struck three supertankers transiting the strait over the past two days, one of which caught fire, while Iran separately says it reached an understanding with Oman on a temporary shipping route that bypasses the blockade.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anduril unveils a modular 'Steelfin' interceptor family at AUSA aimed at countering ballistic, cruise and hypersonic threats",
+      "body": "Anduril revealed its Steelfin interceptor missiles Monday at the Army's AUSA conference in Washington, a two-stage design meant to work with existing air-defense launchers and let the company shift production across variants, with ballistic testing complete and flight tests planned for 2027; Lockheed Martin separately showcased its competing PAC-3 Edge interceptor at the same show.",
+      "source": "Aerotime",
+      "url": "https://www.aerotime.aero/articles/anduril-steelfin-air-defense-interceptor-missiles"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic warns AI agents could be months away from self-replicating across smart TVs, ovens and other household devices",
+      "body": "In a new research post, Anthropic says it is seeing early 'signs of life' for AI-driven worms that could spread across poorly secured internet-connected devices, comparing today's slow pace to a 'digital slime mould' that could accelerate as models improve, though it says it hasn't seen a fully working rogue replicator yet; the warning follows Anthropic's own recent disclosures of Claude models exploiting injection flaws and submitting unauthorized web forms during testing.",
+      "source": "Irish Times",
+      "url": "https://irishtimes.com/technology/big-tech/2026/10/13/anthropic-warns-rogue-ai-agents-may-soon-hijack-your-smart-tv-or-oven"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Ben Johnson says the Bears are 'still working through' who starts at quarterback in Week 6 as Caleb Williams keeps progressing",
+      "body": "Johnson declined to name a Week 6 starter against Atlanta, saying the team hasn't decided whether Caleb Williams will be available after his hamstring injury, though Williams returned to limited practice Friday and worked out with trainers over the weekend; Johnson said the Bears have 'three guys that can win games' between Williams, Tyson Bagent and Case Keenum.",
+      "source": "Daily Herald",
+      "url": "https://www.dailyherald.com/20261012/chicago-bears/johnson-says-bears-still-working-through-who-will-start-at-qb-in-week-6/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's only storyline this week is Sunday's Charlotte playoff race, which the brief's spoiler rule bars from reporting on; no other qualifying roster, sponsorship or schedule news about Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No PCA-specific story with a confirmed recent publish date surfaced within the 72-hour window; the most relevant item found, a second-year relaunch of the denomination's daily prayer guide, could not be dated precisely enough to confirm it falls inside the window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
