@@ -1,75 +1,133 @@
 {
- "generated": "2026-10-13T01:43:05+00:00",
+ "generated": "2026-10-13T08:40:43+00:00",
  "count": 40,
  "withImage": 39,
- "bearsDay": false,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Windy City Gridiron"
  ],
  "items": [
   {
-   "title": "'Boring is not bad': CEO of Southeast Asia's largest bank pitches Singapore as a haven amid global turmoil",
-   "url": "https://www.cnbc.com/2026/10/13/singapore-war-geopolitics-dbs-bank-ceo.html",
+   "title": "Micron, SoftBank and ASML slide as Wall Street chip rout spreads",
+   "url": "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Singapore is a bastion of safety amid global turmoil, according to the CEO of DBS.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108225931-1763091063646-gettyimages-2245745709-SINGAPORE_FINTECH_FESTIVAL.jpeg?v=1763091544&amp;w=1920&amp;h=1080",
-   "age": "16m ago",
-   "published": "2026-10-13T01:26:41+00:00"
+   "summary": "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108326697-1782389225408-gettyimages-2277830126-boivin-notitle260527_npNF9.jpeg?v=1782389330&amp;w=1920&amp;h=1080",
+   "age": "3m ago",
+   "published": "2026-10-13T08:37:31+00:00"
   },
   {
-   "title": "ABC accuses FCC of trying to 'inflict maximal coercive pressure' with probe against network",
-   "url": "https://www.foxnews.com/media/abc-accuses-fcc-trying-inflict-maximal-coercive-pressure-probe-against-network",
+   "title": "U.S. Treasury yields fall as energy prices pull back",
+   "url": "https://www.cnbc.com/2026/10/13/us-treasurys-bonds-yields.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Bond yields fell on Tuesday as investors await more economic data releases this week.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108257697-1769534842386-Traders-Photo-20260127-KK-PRESS-013.jpg?v=1769535031&amp;w=1920&amp;h=1080",
+   "age": "9m ago",
+   "published": "2026-10-13T08:31:37+00:00"
+  },
+  {
+   "title": "Anthropic warns AI models could soon copy themselves across home devices",
+   "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Anthropic's latest research adds to the growing safety concerns around AI from the ability for models to carry out cyberattacks to the technology going rogue.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&amp;w=1920&amp;h=1080",
+   "age": "13m ago",
+   "published": "2026-10-13T08:27:20+00:00"
+  },
+  {
+   "title": "US military archbishop urges Catholic soldiers to refuse involvement in Army firing squad execution",
+   "url": "https://www.foxnews.com/us/us-military-archbishop-urges-catholic-soldiers-refuse-involvement-army-firing-squad-execution",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Disney s latest filing accused the FCC on Monday of using early broadcast license renewals to dodge judicial review and exert coercive pressure on ABC.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/fcc-brendan-carr.png?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-10-13T01:00:23+00:00"
-  },
-  {
-   "title": "Dodgers dynasty on the brink after the Milwaukee BABIP machine dials up another win for Brewers",
-   "url": "https://www.foxnews.com/outkick-sports/dodgers-dynasty-brink-milwaukee-babip-machine-dials-another-win-brewers",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Milwaukee s BABIP machine and unhittable bullpen put the Los Angeles Dodgers three-peat hopes on life support with a commanding 2-0 NLCS lead.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brice-turang-brewers-rbi-base-hit-fox-news_.jpg?ve=1&tl=1",
-   "age": "54m ago",
-   "published": "2026-10-13T00:48:40+00:00"
-  },
-  {
-   "title": "WNBA gives Cheryl Reeve another award after playoff collapse and years of outspoken left-wing politics",
-   "url": "https://www.foxnews.com/outkick-sports/wnba-gives-cheryl-reeve-another-award-after-playoff-collapse-years-outspoken-left-wing-politics",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Cheryl Reeve won WNBA Executive of the Year for a third time, but the Lynx s historic first-round playoff sweep raises questions about the honor.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/cheryl-reeve-minnesota-lynx-target-center_001.jpg?ve=1&tl=1",
+   "summary": "Archbishop Timothy Broglio urged Catholic soldiers to refuse firing squad duty in the planned execution of Nidal Hasan, calling the livestream barbaric.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Timothy-Broglio-Hasan-execution.png?ve=1&tl=1",
    "age": "1h ago",
-   "published": "2026-10-13T00:42:37+00:00"
+   "published": "2026-10-13T06:55:47+00:00"
   },
   {
-   "title": "Online marketplace jewelry listing tied to armed robbery in affluent Tennessee city",
-   "url": "https://www.foxnews.com/us/online-marketplace-jewelry-listing-tied-armed-robbery-affluent-tennessee-city",
+   "title": "Sean McVay cannot rely on the Rams' special teams -- and the Rams must fix it before it's too late ... again",
+   "url": "https://www.cbssports.com/nfl/news/sean-mcvay-cannot-rely-on-rams-special-teams/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/13/ce42cc65-a3a0-4961-ba38-4eb246ec735b/sean-mcvay-rams-4.jpg",
+   "age": "3h ago",
+   "published": "2026-10-13T05:22:41+00:00"
+  },
+  {
+   "title": "Protester punched in face by Trump supporter, mocked by president at Ohio rally: 'Gotta go on a diet'",
+   "url": "https://www.foxnews.com/politics/protester-punched-face-trump-supporter-mocked-president-ohio-rally-gotta-go-diet",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A Facebook Marketplace jewelry listing lured armed robbers to a Franklin, Tennessee, home, sparking a police chase and three arrests on felony charges.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/franklin-tennessee-jewelry-robbery-three-suspects.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-13T00:39:36+00:00"
+   "summary": "A supporter of President Donald Trump punched a heckler wearing a Release the Epstein Files shirt at the president s Youngstown, Ohio, rally.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-rally-protest-fight_001.png?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-13T04:57:26+00:00"
+  },
+  {
+   "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen",
+   "url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The IMF says risks in the government bond market have worsened and that yields could jump sharply and disorderly.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108275478-1773068835795-gettyimages-2265155477-US_STOCKS.jpeg?v=1773068886&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-10-13T04:54:07+00:00"
+  },
+  {
+   "title": "Bills-Rams delivered every ounce of Super Bowl LXI preview talk as overtime thriller deserves a rematch",
+   "url": "https://www.foxnews.com/outkick-sports/bills-rams-delivered-every-ounce-super-bowl-lxi-preview-talk-overtime-thriller-deserves-rematch",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Buffalo Bills outlasted the Los Angeles Rams, 37-34, in overtime after a blocked field goal and Tyler Bass clutch kick sealed the wild finish.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/josh-allen-bills-rams-sofi-stadium.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-10-13T04:10:13+00:00"
+  },
+  {
+   "title": "Rays bullpen suffers embarrassing late meltdown as Cleveland bullies Tampa Bay in Game 1",
+   "url": "https://www.foxnews.com/outkick-sports/rays-bullpen-suffers-embarrassing-late-meltdown-cleveland-bullies-tampa-bay-game-1",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jose Ramirez s clutch ninth-inning single sparked a four-run Cleveland Guardians rally that broke open ALCS Game 1 against the Tampa Bay Rays.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jose-ramirez-chase-delauter-guardians-alcs.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-10-13T03:40:38+00:00"
+  },
+  {
+   "title": "Bill Belichick noticeably absent from Patriots' celebration of 2001 Super Bowl team",
+   "url": "https://www.cbssports.com/nfl/news/bill-belichick-absent-patriots-celebration-2001-super-bowl-team/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2024/01/11/23dcd011-cce0-4b17-a977-36ca02a48291/template-pic.jpg",
+   "age": "7h ago",
+   "published": "2026-10-13T01:16:25+00:00"
   },
   {
    "title": "Telle talks ‘manufacturing rodeo,’ supply chain ‘weak links’: AUSA Day 1",
@@ -79,19 +137,30 @@
    "topic": "defense",
    "summary": "The Breaking Defense team is on the ground, reporting for AUSA 2026.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261012_DVIDS_telle_AUSA_10007115_PLAY-1024x576.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-10-13T00:30:36+00:00"
   },
   {
-   "title": "NATO warns Russia: 'We will break' forces, destroy 'anything and everything' if you attack",
-   "url": "https://www.foxnews.com/world/nato-warns-russia-we-break-forces-destroy-anything-everything-you-attack",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Gen. Alexus Grynkewich outlined NATO s strategy to block, blunt and break enemy forces at the Warsaw Security Forum amid rising Russia tensions.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/putin-grynkewich.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-13T00:22:08+00:00"
+   "title": "Rams vs. Bills prediction, odds: Matthew Stafford, Josh Allen clash in Week 5 'MNF' matchup",
+   "url": "https://www.cbssports.com/nfl/news/rams-vs-bills-how-to-watch-prediction-odds-monday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/12/e869e524-7a21-49cd-be6c-df8c4024fdfb/rams-bills.jpg",
+   "age": "8h ago",
+   "published": "2026-10-13T00:00:38+00:00"
+  },
+  {
+   "title": "Use FanDuel promo code to get $250 bonus bets by targeting Rams vs. Bills, NFL Monday Night Football",
+   "url": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-rams-vs-bills-nfl-monday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/20/d13a1e29-7c4b-469e-9dbb-b5c7e26a2c57/1920x1080.jpg",
+   "age": "9h ago",
+   "published": "2026-10-12T23:30:50+00:00"
   },
   {
    "title": "The US Army is back in the jungle. Panamanians are showing soldiers the way.",
@@ -101,19 +170,30 @@
    "topic": "defense",
    "summary": "Panamanian service members have trained, lived — and in some cases, fought — in the jungle. Now, they are teaching U.S. service members.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MHF5OCAOFVBVTFSGBITQT5RY5I.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-10-12T22:32:28+00:00"
   },
   {
-   "title": "Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece",
-   "url": "https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The former Fox News personality Guilfoyle was previously engaged to the president's son, Donald Trump Jr.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108374458-1791407428476-gettyimages-2263184618-ah800154.jpeg?v=1791407466&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-12T22:26:59+00:00"
+   "title": "Bears vs Packers: Bomb’s Away",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/125009/bears-vs-packers-bombs-away-jordan-love-caleb-williams-tyson-bagent-christian-watson",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY30060154601762448.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "10h ago",
+   "published": "2026-10-12T22:30:00+00:00"
+  },
+  {
+   "title": "Bears Ben Johnson doesn t name a starting QB if Caleb Williams is out",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/125104/chicago-bears-ben-johnson-name-starting-qb-caleb-williams-out-atlanta-falcons-tyson-bagent-case-keenum",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2299198428.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "10h ago",
+   "published": "2026-10-12T22:02:44+00:00"
   },
   {
    "title": "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
@@ -123,19 +203,8 @@
    "topic": "ai",
    "summary": "As of Friday, state health officials reported 1,136 cases across 41 counties.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-10-12T21:54:35+00:00"
-  },
-  {
-   "title": "Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor",
-   "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Musk’s record midterm election spending comes as the Tesla and SpaceX CEO rebuilds his relationship with Trump and has business ties to the federal government.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369827-17907133722026-09-29t201915z_1933666147_rc28tnaqalmc_rtrmadp_0_usa-trump.jpeg?v=1790713474&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-10-12T21:17:58+00:00"
   },
   {
    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
@@ -145,7 +214,7 @@
    "topic": "ai",
    "summary": "\"No more hand-written code\" or AI-free art for delayed Marvel/Star Wars shooter.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-10-12T20:59:50+00:00"
   },
   {
@@ -156,7 +225,7 @@
    "topic": "defense",
    "summary": "The new interceptor will sit at the top of the Patriot missile family and promises more range, altitude, and maneuverability against rapidly-developing threats. The post…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Lockheed-Martin-PAC-3-Edge.jpg?quality=85",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-10-12T20:49:02+00:00"
   },
   {
@@ -167,19 +236,8 @@
    "topic": "defense",
    "summary": "The prime minister urged additional sanctions on Moscow, saying the “path through peace does not lie through weakness.”",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/Tusk-SAFE-55119066090_562bb2dc78_o-e1772227241224-1024x577.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-10-12T20:39:43+00:00"
-  },
-  {
-   "title": "Earnings beats are now the norm. What the stock market needs to keep rallying",
-   "url": "https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Blockbuster profits are coming for the S&P 500. It may not be enough to keep fueling the rally.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108374188-1791390346767-gettyimages-2285488824-US_STOCKS.jpeg?v=1791390389&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-10-12T20:35:51+00:00"
   },
   {
    "title": "After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad",
@@ -189,7 +247,7 @@
    "topic": "ai",
    "summary": "You can get a universe in your pocket if you have an iPhone 11 or later.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-10-12T20:26:14+00:00"
   },
   {
@@ -200,7 +258,7 @@
    "topic": "defense",
    "summary": "The defense firm formerly known as Elbit America introduced Primex, a headset designed with night vision and augmented reality capabilities.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/7JLS335BBNBZPC5CHC7UHRBA2Q.png",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-10-12T19:59:27+00:00"
   },
   {
@@ -211,7 +269,7 @@
    "topic": "defense",
    "summary": "Sights on the ground at the Walter E. Washington Convention Center.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/AUSA2026-W-1-1024x576.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-10-12T19:58:31+00:00"
   },
   {
@@ -222,7 +280,7 @@
    "topic": "defense",
    "summary": "The Army gleaned a trio of observations about how those balloons operated, but it is not yet clear what path the service will pursue when it comes to stratospheric sensi…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/07/8498180-e1791830123926-1024x577.jpg",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-10-12T19:30:00+00:00"
   },
   {
@@ -233,63 +291,8 @@
    "topic": "defense",
    "summary": "The Italian air force is due to acquire six of the drones, which are derived from Baykar’s TB-3 and are being assembled in Italy by LBA Systems.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/2H24OFYONRH4LJAZO66FPW7EAY.jpg",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-10-12T18:48:45+00:00"
-  },
-  {
-   "title": "WHO report on Russian lab worker death highlights \"key uncertainty\"",
-   "url": "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Without a cause of death, it's unclear if Russia's precautions were the right ones.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg",
-   "age": "6h ago",
-   "published": "2026-10-12T18:46:43+00:00"
-  },
-  {
-   "title": "Mojave STOL and Gray Eagle® 25M: Complementary capabilities for the modern battlefield",
-   "url": "https://breakingdefense.com/2026/10/mojave-stol-and-gray-eagle-25m-complementary-capabilities-for-the-modern-battlefield/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "[Sponsored] Both aircraft are designed to evolve as threats and mission requirements change.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/MojaveMiniGun_9Y9A9287-crop-1-1024x536.jpg",
-   "age": "7h ago",
-   "published": "2026-10-12T18:34:23+00:00"
-  },
-  {
-   "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
-   "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108397883-1791805481790-gettyimages-2299545050-dsc08898_eshhcskv.jpeg?v=1791805510&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-10-12T18:32:03+00:00"
-  },
-  {
-   "title": "US Army creates robotics technician job to focus on drone warfare",
-   "url": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/ZHAY5HCKHZFLXMEBNWPVPB7YQM.jpg",
-   "age": "7h ago",
-   "published": "2026-10-12T18:30:00+00:00"
-  },
-  {
-   "title": "Lockheed’s New PAC-3 Edge interceptor aims for agility",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/lockheeds-new-pac-3-edge-interceptor-aims-for-agility/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The defense giant unveiled the PAC-3 Edge this Friday and debuted it at the Association of the U.S. Army’s annual meeting on Monday.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YATFAUSNVJBB5M64ZELSY6ZINE.jpg",
-   "age": "7h ago",
-   "published": "2026-10-12T18:11:55+00:00"
   },
   {
    "title": "European U740 Variant Of The XQ-58A Valkyrie Has Flown",
@@ -299,7 +302,7 @@
    "topic": "defense",
    "summary": "A team-up of Airbus and Kratos has put the U740 into the sky as Germany races to field advanced air combat drones by 2029. The post European U740 Variant Of The XQ-58A V…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Airbus-U740-Valkyrie-First-Flight.jpg?quality=85",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-10-12T17:58:34+00:00"
   },
   {
@@ -310,7 +313,7 @@
    "topic": "ai",
    "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark score…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-10-12T17:56:56+00:00"
   },
   {
@@ -321,7 +324,7 @@
    "topic": "defense",
    "summary": "Royal Navy (RN) destroyer HMS Dragon (D35) returned home to Portsmouth on Friday following a seven-month deployment to the Mediterranean and Middle East. The destroyer i…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/FRPUE-20261009-DRG01-573-scaled.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-10-12T17:56:01+00:00"
   },
   {
@@ -332,7 +335,7 @@
    "topic": "defense",
    "summary": "Wolf is competing against a variant of the German-designed Lynx to become the Army's XM30 Mechanized Infantry Combat Vehicle. The post This Is Our First Look At The Wolf…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/gdls-xm30-wolf-model-first-look.jpg?quality=85",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-10-12T17:46:42+00:00"
   },
   {
@@ -343,19 +346,8 @@
    "topic": "ai",
    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-10-12T17:19:14+00:00"
-  },
-  {
-   "title": "New Coyote Anti-Drone Interceptor Swaps Jet Engine For Rocket Power",
-   "url": "https://www.twz.com/land/new-coyote-anti-drone-interceptor-swaps-jet-engine-for-rocket-power",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Coyote Block 2 is already combat proven, but more capable kamikaze drones have driven a need to fly faster and farther. The post New Coyote Anti-Drone Interceptor Sw…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/rocket-powered-coyote-counter-drone-interceptor.jpg?quality=85",
-   "age": "9h ago",
-   "published": "2026-10-12T16:08:18+00:00"
   },
   {
    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
@@ -365,19 +357,19 @@
    "topic": "ai",
    "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
-   "age": "9h ago",
+   "age": "16h ago",
    "published": "2026-10-12T15:45:00+00:00"
   },
   {
-   "title": "Microsoft president says UK is best placed to drive AI regulation",
-   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-   "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
-   "age": "10h ago",
-   "published": "2026-10-12T15:31:19+00:00"
+   "title": "10 Bears Takes: Packers Week was a disaster, a Caleb Williams return, and more",
+   "url": "https://www.windycitygridiron.com/chicago-bears-coaching-staff/125069/10-bears-takes-packers-week-was-a-disaster-but-caleb-williams-could-return",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2299718505.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "17h ago",
+   "published": "2026-10-12T15:30:00+00:00"
   },
   {
    "title": "GAO Report on Precision Navigation Systems",
@@ -387,41 +379,74 @@
    "topic": "defense",
    "summary": "The following is the Oct. 7, 2026, Government Accountability Office report, Precision Navigation Systems: Challenges Remain with Fielding New Capabilities. From the Repo…",
    "image": null,
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-10-12T15:27:07+00:00"
   },
   {
-   "title": "Valparaiso woman completed 60 marathons in 50 states | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_49c01d1e-f7e6-4035-9f68-2563a42c9d44.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Daisy Aburto-Martinez used running as a passport to chase adventure while completing 60 marathons in 50 states, turning her love of travel into an extraordinary finish l…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/fb/efb895b0-667f-4daf-b310-6e078a2f025c/6aca4b012845a.image.jpg?resize=300%2C491",
-   "age": "1d ago",
-   "published": "2026-10-11T12:15:00+00:00"
+   "title": "‘Do better’: Bears’ secondary can’t contain deep ball, burned by Packers QB Jordan Love",
+   "url": "https://allchgo.com/bears/bears-secondary-deep-ball-burned-packers-jordan-love/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/12000649/2026-10-11T210836Z_410123024_MT1USATODAY30060033_RTRMADP_3_NFL-CHICAGO-BEARS-AT-GREEN-BAY-PACKERS-1-1024x576.jpg",
+   "age": "22h ago",
+   "published": "2026-10-12T10:00:00+00:00"
   },
   {
-   "title": "BRIAN HOWEY: Indiana’s spineless, do nothing congressional delegation",
-   "url": "https://nwitimes.com/opinion/article_6bf8a1b4-f29f-417c-80ec-ab856bbd20f4.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "INDIANAPOLIS — What has Indiana’s congressional delegation been up to since January 2025? They honored the 1980 American men’s Olympic hockey team. One Republican author…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/6d/f6d1e87c-3309-11ee-b916-c358f1adbdc5/64cd6722de75d.image.jpg?resize=300%2C375",
+   "title": "Packers 31, Bears 7: Tyson Bagent benched, Bears throttled at Lambeau Field",
+   "url": "https://allchgo.com/bears/packers-31-bears-7-tyson-bagent-benched-throttled/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/11142344/2026-10-11T190806Z_1847408442_MT1USATODAY30059064_RTRMADP_3_NFL-CHICAGO-BEARS-AT-GREEN-BAY-PACKERS-1-1024x576.jpg",
    "age": "1d ago",
-   "published": "2026-10-11T11:00:00+00:00"
+   "published": "2026-10-11T20:05:52+00:00"
   },
   {
-   "title": "Investing in education and delivering results for students",
-   "url": "https://nwitimes.com/news/article_b3ce843d-1643-4b5e-a0bc-944d7c9260b8.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "After Indiana refocused on the science of reading, strengthened early interventions and aligned curriculum with proven strategies, third-grade IREAD scores increased for…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/23/62395d2c-8406-44ae-9c53-e8299ef6d185/6ac82233a7aab.image.jpg?resize=300%2C282",
-   "age": "1d ago",
-   "published": "2026-10-11T11:00:00+00:00"
+   "title": "Da Braggs Blog: There’s blood in the water in Green Bay and the Bears are circling",
+   "url": "https://allchgo.com/bears/da-braggs-blog-blood-in-the-water-green-bay-bears/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/10133509/Bears_BraggsBlog-2-1024x576.jpg",
+   "age": "2d ago",
+   "published": "2026-10-10T18:36:48+00:00"
+  },
+  {
+   "title": "Roster Moves: Chicago Bears activate Noah Sewell, elevate Zavier Scott",
+   "url": "https://www.chicagobears.com/news/roster-moves-chicago-bears-activate-noah-sewell-elevate-zavier-scott",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/jy0zmgrybgepa8tdl5pz.jpg",
+   "age": "2d ago",
+   "published": "2026-10-10T18:30:00+00:00"
+  },
+  {
+   "title": "Game Preview: Bears at Packers | 2026 Week 5",
+   "url": "https://www.chicagobears.com/news/game-preview-bears-at-packers-2026-week-5",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/iz2mpu4sj8z5vtfrqsiy.jpg",
+   "age": "2d ago",
+   "published": "2026-10-10T18:20:00+00:00"
+  },
+  {
+   "title": "Checking in from Cardiff: Postcards with Zach Miller | Saturday, Oct. 10",
+   "url": "https://www.chicagobears.com/news/checking-in-from-cardiff-postcards-with-zach-miller-saturday-oct-10",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/poa2sr78pwhopaccssn6.png",
+   "age": "2d ago",
+   "published": "2026-10-10T18:00:00+00:00"
   },
   {
    "title": "October Sees Near Daily Strikes on Ships in Hormuz",
@@ -433,28 +458,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-3.45.20-PM.png",
    "age": "3d ago",
    "published": "2026-10-09T20:09:18+00:00"
-  },
-  {
-   "title": "Philippine and Chinese Incidents Spike in South China Sea, Luzon Strait",
-   "url": "https://news.usni.org/2026/10/09/philippine-and-chinese-incidents-spike-in-south-china-sea-luzon-strait",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Incidents between Chinese and Philippine forces across the South China Sea and Luzon Strait have spiked in recent weeks as the two countries attempt to enforce their ter…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/HTg-HBIbUAAuzao.jpeg",
-   "age": "3d ago",
-   "published": "2026-10-09T19:19:08+00:00"
-  },
-  {
-   "title": "Valparaiso teacher taught thousands of kids to create. Now it's his time to shine | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_05e8e69f-bb58-4ece-a4f4-15d493adbc96.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "After 30 years of nurturing creativity, retired Valparaiso art teacher Kurt Anderson is finally getting his own turn in the spotlight. At 82, his imagination is still ev…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/4/bf/4bf14186-306e-4ba4-972f-6ef879d0076b/6ac7ebb5d66b2.image.jpg?resize=300%2C400",
-   "age": "3d ago",
-   "published": "2026-10-09T12:15:00+00:00"
   }
  ]
 }
