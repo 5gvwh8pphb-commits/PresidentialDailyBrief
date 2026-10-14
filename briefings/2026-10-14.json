@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-14",
+  "dateLabel": "Wednesday, October 14, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-14T14:01:05Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, October 13, 2026 close — a mixed, earnings-heavy session as chip stocks fell and big-bank results drew a mixed reaction.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,805.45", "change": "-1.79", "changePct": "-0.02%", "sixMo": "+13%" },
+        { "name": "Dow", "close": "51,670.10", "change": "-180.45", "changePct": "-0.35%", "sixMo": "+7.2%" },
+        { "name": "Nasdaq", "close": "27,204.38", "change": "-41.52", "changePct": "-0.15%", "sixMo": "+17%" }
+      ],
+      "body": "JPMorgan's profit rose to $15.3 billion but missed per-share estimates and its shares slipped, Goldman Sachs' trading revenue jumped yet its stock also edged lower, and Wells Fargo fell about 3% on mixed numbers; chip stocks sold off after a steep overnight decline in South Korea.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-13-dow-sp-500-nasdaq-080236234.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "Houthi strikes hit a Saudi Aramco building and wound several in Riyadh as Trump still weighs joining the fight",
+      "body": "A Houthi attack sparked a fire at a Saudi Aramco administrative building in Dhahran and debris from intercepted missiles wounded several people in Riyadh on Tuesday, after Saudi-led forces intercepted ballistic missiles aimed at the capital and at Khamis Mushait; Trump said the Houthis are \"misbehaving very badly\" but has not announced whether the US will join Saudi Arabia's fight against the group.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/us-iran-war-houthi-attacks-spark-fire-at-saudi-aramco-building-wound-4-in-riyadh-trump-weighs-joining-strikes-1.500709746"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "China runs a fresh 'joint combat readiness patrol' near Taiwan as its Liaoning carrier group drills in the Western Pacific",
+      "body": "Taiwan's defense ministry said it tracked another Chinese \"joint combat readiness patrol\" of 13 aircraft and multiple navy vessels near the island, while Beijing's defense ministry said separately that the carrier Liaoning and its escorts were drilling in the Western Pacific; the reports come alongside a water-cannon incident involving Chinese vessels in the South China Sea and Taiwan's National Security Council flagging Beijing's growing use of maritime militia and research ships.",
+      "source": "Modern Diplomacy",
+      "url": "https://moderndiplomacy.eu/2026/10/14/why-is-china-warning-taiwan-over-a-water-cannon-incident-in-the-south-china-sea"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "CENTCOM again rejects Iranian claims to control the Strait of Hormuz as an Iranian admiral threatens to sink US warships",
+      "body": "US Central Command on Tuesday again disputed an IRGC Navy claim that Iran controls the Strait of Hormuz, after Iranian Rear Adm. Ali Azmaei said Iran is waiting for US warships to come closer so it can sink them; the exchange comes as CENTCOM's naval blockade of Iranian ports continues, having disabled several vessels and turned back more than 130 others attempting to run it since mid-July.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/us-iran-war-saudi-arabia-trump-houthis-10-13-26"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Army and Hanwha unveil the XM1776 wheeled howitzer at AUSA to replace the towed M777",
+      "body": "The Army and Hanwha Defense USA unveiled the XM1776, a wheeled 155mm self-propelled howitzer based on Hanwha's K9, Monday at the AUSA conference in Washington; it's reported to have roughly double the M777's range at about 37 miles, and the Army has ordered nine prototypes with an option for nine more.",
+      "source": "Army Recognition",
+      "url": "https://www.armyrecognition.com/archives/archives-defense-exhibitions/2026-archives-news-defense-exhibitions/ausa-2026-news/u-s-army-and-hanwha-defense-usa-unveils-xm1776-wheeled-155mm-howitzer-to-replace-m777-towed-howitzers"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "HCLTech signs a Global Premier Partnership with Anthropic to scale governed agentic AI across enterprises",
+      "body": "HCLTech announced Monday it will build industry solutions on Claude, Cowork and Claude Code, embed them in HCLSoftware products, and stand up a dedicated Anthropic Business Unit and Center of Excellence; neither company disclosed contract value or a deployment timeline.",
+      "source": "HCLTech",
+      "url": "https://www.hcltech.com/press-releases/hcltech-and-anthropic-sign-global-premier-partnership-scale-governed-agentic-ai"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "NFL suspends Bears DE Montez Sweat two games for violating the performance-enhancing substances policy",
+      "body": "The suspension, announced Tuesday, sidelines Sweat for Sunday's game at Atlanta and the following week against New England, with Shemar Turner activated from the PUP list to fill his roster spot; Sweat had seven tackles and two sacks through five games this season.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50176333/bears-de-sweat-suspended-two-games-violating-ped-policy"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~today",
+      "empty": false,
+      "headline": "William Byron will run AXALTA's final scheme as a primary sponsor at Phoenix after a 13-year partnership",
+      "body": "Byron's No. 24 Hendrick Motorsports Chevrolet will carry a flame-themed AXALTA paint scheme for the brand's last race as a primary sponsor, announced Tuesday, ending a branded partnership dating back to 2013; the scheme debuts at the Cup Series' upcoming playoff race at Phoenix Raceway.",
+      "source": "Speedway Media",
+      "url": "https://speedwaymedia.com/2026/10/14/william-byron-sporting-final-axalta-scheme-at-phoenix/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~today",
+      "empty": false,
+      "headline": "byFaith profiles Christ Covenant Church, working to become the first PCA congregation in North Dakota",
+      "body": "A new byFaith feature on the PCA's \"frontier\" describes Christ Covenant Church in Fargo, which is working toward becoming North Dakota's first PCA congregation, the last US state without one, and looks at the challenges of planting a Reformed church in an under-churched region.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/ministry-on-pcas-frontier/"
+    }
+  ]
+}
