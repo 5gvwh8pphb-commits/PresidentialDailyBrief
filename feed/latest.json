@@ -1,27 +1,46 @@
 {
- "generated": "2026-10-15T01:04:24+00:00",
+ "generated": "2026-10-15T06:01:15+00:00",
  "count": 40,
- "withImage": 37,
- "bearsDay": true,
+ "withImage": 36,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
+  "FanBuzz",
   "Fox News",
   "MotorBiscuit",
   "Motorsport.com",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
+  {
+   "title": "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
+   "url": "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "TSMC reported its third-quarter earnings on Thursday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108131996-17447197412025-04-15t062815z_1969410792_rc25ydai7qeg_rtrmadp_0_usa-trump-tariffs-taiwan.jpeg?v=1744719807&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-10-15T05:59:57+00:00"
+  },
+  {
+   "title": "Pentagon sends hundreds of Army troops to Latin America for training as drug-trafficking campaign expands",
+   "url": "https://www.foxnews.com/world/pentagon-sends-hundreds-army-troops-latin-america-training-drug-trafficking-campaign-expands",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Troops from the 10th Mountain Division are deploying to Panama for jungle training as the Pentagon expands military operations against drug traffickers.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/operation-southern-spear-photo-1.jpg?ve=1&tl=1",
+   "age": "41m ago",
+   "published": "2026-10-15T05:20:12+00:00"
+  },
   {
    "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
    "url": "https://www.cnbc.com/2026/10/15/sk-hynix-samsung-softbank-stocks-asia-tech-rout-ai-funding-worries.html",
@@ -30,8 +49,107 @@
    "topic": "markets",
    "summary": "A sell-off in global technology hardware stocks deepened Thursday.",
    "image": "https://image.cnbcfm.com/api/v1/image/108333293-1783682220679-gettyimages-2283571654-SKOREA_SK_HYNIX.jpeg?v=1783682246&amp;w=1920&amp;h=1080",
-   "age": "1m ago",
-   "published": "2026-10-15T01:02:54+00:00"
+   "age": "42m ago",
+   "published": "2026-10-15T05:19:09+00:00"
+  },
+  {
+   "title": "Figma announces new features to define how agents work on its platform",
+   "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Figma is also releasing its code layers feature in open beta.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
+   "age": "1h ago",
+   "published": "2026-10-15T04:30:00+00:00"
+  },
+  {
+   "title": "Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems",
+   "url": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "\"Any limits on speed or usage are decided by the US military and ultimately POTUS,\" Musk wrote.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369735-1790708721611-gettyimages-2297232274-AFP_C9Q39QB.jpeg?v=1790708808&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-15T04:11:52+00:00"
+  },
+  {
+   "title": "Oil falls as investors assess Mideast tensions, International Energy Agency's report",
+   "url": "https://www.cnbc.com/2026/10/15/oil-prices-today-brent-wti.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Oil fell Thursday, as traders assessed attacks on ships passing through Hormuz, while digesting the International Energy Agency's latest monthly report.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108408373-1791980481925-gettyimages-2299514268-AFP_D3722EW.jpeg?v=1791980526&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-15T04:09:18+00:00"
+  },
+  {
+   "title": "Brewers steal Game 3 on Dodgers' home turf to go up 3-0, pushing LA to brink of elimination",
+   "url": "https://www.foxnews.com/outkick-sports/brewers-steal-game-3-dodgers-home-turf-go-up-3-0-pushing-la-brink-elimination",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jackson Chourio s leadoff homer off Blake Snell set the tone as the Milwaukee Brewers seized a commanding 3-0 NLCS lead over the LA Dodgers.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/william-contreras-brewers-nlcs-dodgers.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-15T03:59:00+00:00"
+  },
+  {
+   "title": "Anthropic's third-quarter revenue is said to hit $16.8 billion ahead of IPO",
+   "url": "https://www.cnbc.com/2026/10/15/anthropics-third-quarter-revenue-hits-16point8-billion-ipo.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Anthropic reports third-quarter stands at $16.8 billion ahead of its IPO.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368277-1790360556847-108368277-17903603812026-09-25t180005z_1304128046_rc29lnaagwzx_rtrmadp_0_usa-pentagon-anthropic-lawsuit.jpg?v=1790360568&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-15T03:48:58+00:00"
+  },
+  {
+   "title": "Trump wishes Pope Leo speedy recovery after lung cancer diagnosis, speaks highly of pontiff's brother",
+   "url": "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "President Donald Trump revealed Pope Leo XIV s brother is a friend and avid MAGA supporter with memorabilia all over his house while wishing the pontiff well.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/president-donald-trump-pope-leo-xiv-fox-news.jpeg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-15T03:38:47+00:00"
+  },
+  {
+   "title": "Tony Dungy tells Sage Steele that NBC wasn't happy with his pro-life views: 'They knew where I stood'",
+   "url": "https://www.foxnews.com/outkick-sports/tony-dungy-tells-sage-steele-nbc-wasnt-happy-pro-life-views-knew-where-i-stood",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Tony Dungy told Sage Steele he believes his outspoken Christian faith and pro-life stance led to his departure from NBC after years as an analyst.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tony-dungy-looks-on-seahawks-commanders.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-15T03:17:45+00:00"
+  },
+  {
+   "title": "NFL says first regular-season game in France remains on track despite growing unrest in Paris",
+   "url": "https://www.foxnews.com/outkick-sports/nfl-first-regular-season-game-france-remains-track-despite-growing-unrest-paris",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Pittsburgh Steelers and New Orleans Saints are set to meet at Stade de France on Oct. 25 despite weeks of protests roiling Paris streets.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/NFL-logo-hard-rock-stadium.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-15T03:04:13+00:00"
+  },
+  {
+   "title": "Acting US Army secretary creates task force for HVAC repairs",
+   "url": "https://www.defensenews.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "A new, enterprise-level Heating, Ventilation and Air Conditioning Task Force has identified more than $100 million in projects for early 2027.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/FUIZUYRJXFGBROML4ZLHJ3CJPA.jpg",
+   "age": "3h ago",
+   "published": "2026-10-15T03:00:00+00:00"
   },
   {
    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
@@ -41,19 +159,19 @@
    "topic": "ai",
    "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automatin…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-   "age": "2m ago",
+   "age": "4h ago",
    "published": "2026-10-15T01:01:32+00:00"
   },
   {
-   "title": "Mike Tomlin offers blunt take on NFL players-only meetings: ‘I think you’re dead’",
-   "url": "https://www.foxnews.com/outkick-sports/mike-tomlin-offers-blunt-take-nfl-players-only-meetings-think-youre-dead",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Mike Tomlin told Travis Kelce and Jason Kelce on New Heights that the Dallas Cowboys reported players-only meeting is a very troubling sign.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Dallas-Cowboys-defenders-huddle-up.jpg?ve=1&tl=1",
-   "age": "12m ago",
-   "published": "2026-10-15T00:51:29+00:00"
+   "title": "US soldiers must train on ‘new basics’ of unmanned systems, officials say",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "As the U.S. Army trains soldiers for multi-domain operations, the service needs to prepare them with “new basics.\"",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JRNKEST4G5E4ZC7ZW2DV46XZGA.jpeg",
+   "age": "5h ago",
+   "published": "2026-10-15T01:00:00+00:00"
   },
   {
    "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
@@ -63,41 +181,8 @@
    "topic": "ai",
    "summary": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefit…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300215073.jpg?w=1024",
-   "age": "14m ago",
+   "age": "5h ago",
    "published": "2026-10-15T00:49:31+00:00"
-  },
-  {
-   "title": "Rams tackle Alaric Jackson wins appeal, will miss just one game for punching Bills' Bradley Chubb",
-   "url": "https://www.foxnews.com/outkick-sports/rams-tackle-alaric-jackson-wins-appeal-miss-one-game-punching-bills-bradley-chubb",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Alaric Jackson s NFL suspension was cut from two games to one after the Rams tackle punched Bradley Chubb following Buffalo s overtime victory.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/alaric-jackson-rams-training-camp.jpg?ve=1&tl=1",
-   "age": "17m ago",
-   "published": "2026-10-15T00:46:27+00:00"
-  },
-  {
-   "title": "Copper theft suspect's daring escape caught on bodycam video before deputies discover what he left behind",
-   "url": "https://www.foxnews.com/us/copper-theft-suspects-daring-escape-caught-bodycam-video-deputies-discover-left-behind",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Rayven Lee Wooten dove headfirst through a closed window to flee an Oklahoma deputy but left behind a backpack with a critical clue inside.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/oklahoma-copper-theft-suspect-window-dive.gif",
-   "age": "18m ago",
-   "published": "2026-10-15T00:46:13+00:00"
-  },
-  {
-   "title": "Inside India newsletter: Billionaire Ambani’s mega-IPO faces a valuation reality check amid Musk spat",
-   "url": "https://www.cnbc.com/2026/10/15/india-starlink-musk-jio-ambani-ipo.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Jio Platforms, the company at the center of Musk’s remarks, is launching an IPO later this month.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108407087-1791955760925-gettyimages-2299270775-DSC_0650.jpeg?v=1791955782&amp;w=1920&amp;h=1080",
-   "age": "34m ago",
-   "published": "2026-10-15T00:30:13+00:00"
   },
   {
    "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
@@ -107,19 +192,19 @@
    "topic": "ai",
    "summary": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
    "image": "https://techcrunch.com/wp-content/uploads/2015/08/9726191699_6ba4b89744_o.jpg?resize=1200,798",
-   "age": "34m ago",
+   "age": "5h ago",
    "published": "2026-10-15T00:30:00+00:00"
   },
   {
-   "title": "Bears vs. Falcons Injury Report: Caleb Williams Full Participant",
-   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/125295/chicagobears-vs-falcons-injury-report-swift-and-monangai-dnp-ol-injuries",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/09/gettyimages-2295250350.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
-   "published": "2026-10-14T23:08:44+00:00"
+   "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+   "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate s…",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
+   "age": "6h ago",
+   "published": "2026-10-15T00:00:00+00:00"
   },
   {
    "title": "Northrop Grumman breaks out the big guns at AUSA",
@@ -129,19 +214,8 @@
    "topic": "defense",
    "summary": "Amid the cruise missiles and microelectronics, the company also had something a little more familiar: guns. Big guns. Like, really big guns.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3EAUYAYJNFEVNBOMJ56ST2MD74.png",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-10-14T23:00:00+00:00"
-  },
-  {
-   "title": "Caleb Williams takes another step toward return from hamstring injury",
-   "url": "https://www.chicagobears.com/news/caleb-williams-takes-another-step-toward-return-from-hamstring-injury",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/zkr0s73hetwf60g8dgpy.jpg",
-   "age": "2h ago",
-   "published": "2026-10-14T22:35:00+00:00"
   },
   {
    "title": "The Days Of Army Air Defense Systems Firing Just One Type Of Interceptor Are Ending",
@@ -151,19 +225,8 @@
    "topic": "defense",
    "summary": "The Army is pursuing an increasingly diverse array of new anti-air interceptors for use with existing launchers and new architectures. The post The Days Of Army Air Defe…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/army-anti-air-interceptor-diversity.jpg?quality=85",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-10-14T22:24:33+00:00"
-  },
-  {
-   "title": "Cowboys' Joey Porter Jr. breaks silence after missing Week 5 game and how much does he plan to play at Packers",
-   "url": "https://www.cbssports.com/nfl/news/cowboys-joey-porter-jr-breaks-silence-after-missing-week-5/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/20/2814c345-4027-4a73-a4af-b4605e658b22/porterweek1.jpg",
-   "age": "2h ago",
-   "published": "2026-10-14T22:10:15+00:00"
   },
   {
    "title": "Pentagon needs $50B for mass drone production, Hegseth says",
@@ -173,19 +236,8 @@
    "topic": "defense",
    "summary": "Defense Secretary Pete Hegseth wants $50 billion in reconciliation funding to support the Pentagon's push to scale autonomous and robotic systems.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/A3R4BV6GVBH7DKAYDW7ODWTMXU.jpg",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-10-14T22:06:56+00:00"
-  },
-  {
-   "title": "NFL addresses safety concerns for Steelers-Saints game in France as protests in Paris continue",
-   "url": "https://www.cbssports.com/nfl/news/nfl-addresses-safety-concerns-steelers-saints-france-protests-paris/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/14/db21bdd7-c791-4772-a0fa-edeea1efba4b/france.jpg",
-   "age": "3h ago",
-   "published": "2026-10-14T21:48:34+00:00"
   },
   {
    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
@@ -195,7 +247,7 @@
    "topic": "ai",
    "summary": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-14T21:35:09+00:00"
   },
   {
@@ -206,19 +258,8 @@
    "topic": "defense",
    "summary": "France is studying whether the Charles de Gaulle nuclear-powered aircraft carrier can continue to sail beyond its envisaged retirement in 2038.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YKSU5RHDSRBC7HWHSRWO4M6XPU.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-14T21:19:30+00:00"
-  },
-  {
-   "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-   "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792009377&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-14T21:18:13+00:00"
   },
   {
    "title": "Epic says its new vibe-coded Epic Games Launcher is faster than Steam",
@@ -228,19 +269,8 @@
    "topic": "ai",
    "summary": "But the new \"Preview\" app \"will have some bugs,\" Epic warns.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-14T21:15:56+00:00"
-  },
-  {
-   "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
-   "url": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108410314-1792006490122-gettyimages-2297502760-boivin-photoill261001_npTPF.jpeg?v=1792024446&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-14T21:09:20+00:00"
   },
   {
    "title": "Hegseth talks autonomy at AUSA, a key show focus",
@@ -250,7 +280,7 @@
    "topic": "defense",
    "summary": "Autonomy was top of mind at AUSA 2026, including in a keynote address by the secretary of defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/AUSA2026day3-pb-1024x576.png",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-14T21:06:33+00:00"
   },
   {
@@ -261,7 +291,7 @@
    "topic": "defense",
    "summary": "The low-cost interceptor, rushed to NATO partners after drone incursions, is now an example of how the Army hopes to rapidly field emerging capabilities. The post Army E…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Merops-close-up.jpg?quality=85",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-10-14T21:03:27+00:00"
   },
   {
@@ -272,7 +302,7 @@
    "topic": "ai",
    "summary": "Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-10-14T21:03:11+00:00"
   },
   {
@@ -283,8 +313,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-14T21:00:22+00:00"
+  },
+  {
+   "title": "Things are finally looking up for NASA's first missions to Venus in a generation",
+   "url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"This is great news for us. We're staffing up. We're accelerating.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/davinci-heat-test-3-1152x648-1792007515.jpg",
+   "age": "9h ago",
+   "published": "2026-10-14T20:48:07+00:00"
   },
   {
    "title": "VIDEO: F-35C Lands on New Navy Aircraft Carrier Class for First Time",
@@ -294,7 +335,7 @@
    "topic": "defense",
    "summary": "A fifth-generation fighter landed on the Navy’s new class of aircraft carriers for the first time on Tuesday. An F-35C Joint Strike Fighter Lightning II trapped on the f…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10009973-scaled.jpg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-14T20:06:45+00:00"
   },
   {
@@ -305,30 +346,8 @@
    "topic": "defense",
    "summary": "Col. Kevin Stoney Stonerook, deputy commander of US Northern Command s Joint Task Force-Gold (JTF-Gold), said the unit s roles and responsibilities are still being irone…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261014_DVIDS_northcom_cyber_9254266-scaled-e1791994428213-1024x577.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-14T19:48:07+00:00"
-  },
-  {
-   "title": "Shedeur Sanders just made a curious move that could signal a trade is coming in Cleveland",
-   "url": "https://www.cbssports.com/nfl/news/shedeur-sanders-trade-rumors-browns-qb-landing-spots/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/14/0a370fa2-bf3d-4983-b6f4-13eacd0f127b/sanders.jpg",
-   "age": "5h ago",
-   "published": "2026-10-14T19:20:06+00:00"
-  },
-  {
-   "title": "Bears QB situation is ‘fluid’ but Caleb Williams’ return now feels imminent",
-   "url": "https://allchgo.com/bears/bears-situation-fluid-caleb-williams-return-imminent/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/14133904/2026-09-20T174323Z_812316220_MT1USATODAY29871783_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "6h ago",
-   "published": "2026-10-14T18:42:29+00:00"
   },
   {
    "title": "High Altitude Balloons Are A “Game-Changing” Capability: Army Space Command Boss",
@@ -338,7 +357,7 @@
    "topic": "defense",
    "summary": "The Army recently disclosed it rushed high-altitude balloons to support operations in the Middle East. The post High Altitude Balloons Are A Game-Changing Capability: Ar…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/army-balloons-game-changing-capability.jpg?quality=85",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-10-14T17:49:24+00:00"
   },
   {
@@ -349,7 +368,7 @@
    "topic": "defense",
    "summary": "AUSA s Annual Meeting and Expo in Washington winds down with an appearance by the defense secretary.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/AUSA2026-W-38-1024x576.jpg",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-10-14T17:44:25+00:00"
   },
   {
@@ -360,30 +379,30 @@
    "topic": "defense",
    "summary": "The People’s Liberation Army Navy Liaoning Carrier Strike Group was operating in the Philippine Sea as of Wednesday, according to a Japan Joint Staff Office. Led by airc…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-1.02.16-PM.png",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-10-14T17:41:35+00:00"
   },
   {
-   "title": "Chicago Bears Pass Protection Analysis on the Sacks Allowed vs Packers",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/125102/chicago-bears-pass-protection-analysis-sacks-allowed-packers-tyson-bagent-case-keenum-garrett-bradbury",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/reuters-tagreuters.com2026newsml_MT1USATODAY300600391905039944.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
-   "published": "2026-10-14T16:30:00+00:00"
+   "title": "F-35C Makes First Arrested Landing Aboard A Ford Class Carrier",
+   "url": "https://www.twz.com/air/f-35c-makes-first-arrested-landing-aboard-a-ford-class-carrier",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The landing on the future USS John F. Kennedy marks a key step in integrating the F-35C with the Ford class after years of delays and technical challenges. The post F-35…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/F-35C-landing-on-Kennedy.jpg?quality=85",
+   "age": "12h ago",
+   "published": "2026-10-14T17:10:17+00:00"
   },
   {
-   "title": "Bears take former players on first-ever alumni road trip",
-   "url": "https://www.chicagobears.com/news/bears-take-former-players-on-first-ever-alumni-road-trip",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/w4btec1eqfroilk11yuu.jpg",
-   "age": "9h ago",
-   "published": "2026-10-14T15:34:00+00:00"
+   "title": "Hegseth uses AUSA spotlight to push autonomy, ‘generational’ defense investment",
+   "url": "https://breakingdefense.com/2026/10/hegseth-uses-ausa-spotlight-to-highlight-autonomy-generational-defense-investment/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Senior officials also revealed that the Defense Autonomous Working Group has been absorbed into a new Task Force Autonomous Warfare, which sits inside the Special Operat…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261014_hegseth_ausa_GettyImages-2299607028-e1791996082570.jpg",
+   "age": "13h ago",
+   "published": "2026-10-14T16:47:00+00:00"
   },
   {
    "title": "Is Axalta Leaving NASCAR? William Byron Set for Final Ride With Longtime Sponsor",
@@ -393,19 +412,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-10-14T15:15:06+00:00"
   },
   {
-   "title": "How to watch, listen to, stream Bears-Falcons Week 6 game",
-   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-atlanta-falcons-2026-week-6-listen-stream-tv-radio-football-online-nfl",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
+   "title": "Hendrick Motorsports Unveils Special Jeff Gordon Tribute Scheme",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdTVuYU5uMk1GZ1hLZzZ1SnhSSUk1aU5LT3YzR01sd051V0pNbFdqbWc4aG8wcHduZ3M2RlA0cEZzczFma0pPd083Z0h4aWtwaDFjQXQ2MHBZTTUxaXRPOUtwZ0FZa2ZycF9NVWh6c3htM0pxMkM3V214MjdfcVZZT1lJdUw1SFpEc3psZGFfbWgzVE9TRmw0NmZVb3NacVJsV0gtQkRtWkI?oc=5",
+   "source": "FanBuzz",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/sbxacp9v6vixavqnxc12.jpg",
-   "age": "10h ago",
-   "published": "2026-10-14T14:19:00+00:00"
+   "image": null,
+   "age": "15h ago",
+   "published": "2026-10-14T14:07:58+00:00"
   },
   {
    "title": "Navy Contracts Ursa Major to Develop Rocket Motors for Next-gen Missile Programs",
@@ -415,30 +434,8 @@
    "topic": "defense",
    "summary": "The U.S. Navy contracted Ursa Major to develop solid rocket motors for the sea service’s future Naval Modular Missile and Compact Air-to-Air Missile, the defense firm an…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/8326257.jpg",
-   "age": "11h ago",
+   "age": "16h ago",
    "published": "2026-10-14T13:56:30+00:00"
-  },
-  {
-   "title": "Chicago Bears Midweek Musings: Hello Darkness, My Old Friend",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/125109/chicago-bears-midweek-musings-hello-darkness-my-old-friend",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2299710257.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "13h ago",
-   "published": "2026-10-14T12:00:00+00:00"
-  },
-  {
-   "title": "10 Bears Things: Your 2026 Chicago Bears – a good but inconsistent football team",
-   "url": "https://allchgo.com/bears/10-bears-things-2026-good-inconsistent-football-team/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/13233028/10things_ArticleTemplate-5-1024x576.jpg",
-   "age": "15h ago",
-   "published": "2026-10-14T10:00:00+00:00"
   },
   {
    "title": "William Byron to run Jeff Gordon throwback Axalta scheme at Phoenix",
@@ -452,15 +449,15 @@
    "published": "2026-10-13T22:36:33+00:00"
   },
   {
-   "title": "Bears DE Montez Sweat suspended for violation of NFL’s performance-enhancing drug policy",
-   "url": "https://allchgo.com/bears/bears-montez-sweat-suspended-violation-nfl-drug-policy/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/13162218/2026-08-23T024138Z_92706423_MT1USATODAY29647197_RTRMADP_3_NFL-CHICAGO-BEARS-AT-CINCINNATI-BENGALS-1-1024x576.jpg",
+   "title": "NCIS Investigating Submarine Sailor Death on Naval Base Kitsap",
+   "url": "https://news.usni.org/2026/10/13/ncis-investigating-submarine-sailor-death-on-naval-base-kitsap",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Naval Criminal Investigative Service is investigating the death of a sailor at Naval Base Kitsap-Bremerton, Wash. The sailor, who was assigned to the Ohio-class guid…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/10/5382863-scaled.jpg",
    "age": "1d ago",
-   "published": "2026-10-13T21:24:53+00:00"
+   "published": "2026-10-13T22:15:49+00:00"
   }
  ]
 }
