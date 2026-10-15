@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-15",
+  "dateLabel": "Thursday, October 15, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-15T13:41:30Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, October 14, 2026 close — stocks sold off broadly after hotter-than-expected September inflation data hit tech and AI-related shares hardest.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,718.94", "change": "-86.51", "changePct": "-1.11%", "sixMo": "+11%" },
+        { "name": "Dow", "close": "51,621.48", "change": "-48.62", "changePct": "-0.09%", "sixMo": "+6.4%" },
+        { "name": "Nasdaq", "close": "26,692.87", "change": "-511.51", "changePct": "-1.88%", "sixMo": "+13%" }
+      ],
+      "body": "September CPI came in above forecasts, with headline inflation at 3.7% year-over-year and core at 2.6%; tech fell about 3% and led the S&P 500 to its fifth loss in six sessions since last week's record high, while small-caps and chip stocks were hit hardest.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~16h ago",
+      "empty": false,
+      "headline": "Houthis strike Saudi Aramco's headquarters overnight as Trump calls the group 'not nice' and weighs joining Riyadh's fight",
+      "body": "A Houthi missile and drone attack damaged the top floors of Aramco's corporate headquarters in Dhahran, offices used by the oil giant's CEO and other senior executives, after the group vowed to hit US personnel and interests across the Middle East if Washington joins Saudi Arabia's campaign against it; Trump wrote that the Houthis are behaving 'not nice,' said he is still deciding whether to join the fight, and ruled out any US strikes on Iran itself before the November midterms.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/14/us-iran-war-trump-hormuz-saudi.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan tracks 9 PLA aircraft and a dozen ships in a new 24-hour sweep around the island",
+      "body": "Taiwan's Ministry of National Defense said all 9 Chinese aircraft it tracked in the 24 hours to Wednesday morning crossed the Taiwan Strait median line, alongside 6 PLA Navy ships and 6 other official vessels; Taipei responded with combat air patrols, naval units and coastal missile systems, part of the island's near-daily monitoring of PLA activity.",
+      "source": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/news/6457650"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "CENTCOM rejects Iran's complaint that US forces threatened civilian ships as its Hormuz blockade disables a 4th vessel",
+      "body": "US Central Command said Wednesday that Iran's complaint to the International Maritime Organization accusing American forces of threatening civilian mariners over radio is false, days after a CENTCOM fighter jet struck and disabled the Panama-flagged cargo ship Ocean Molica for trying to run its blockade of Iranian ports; CENTCOM says it has now disabled four vessels and turned back more than 135 others since the blockade resumed July 14.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/us-military-rejects-irans-claim-it-is-intimidating-civilian-mariners-1.500711061"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Northrop Grumman unveils the 'Raid Hunter' 50mm gun air-defense system at AUSA",
+      "body": "Northrop Grumman showed off Raid Hunter, a new 50mm gun-based air-defense system, at this week's AUSA conference in Washington, pitching it as a cost-effective way to counter drones and other evolving aerial threats; the company also displayed an updated M230 chain gun variant alongside the system.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/10/14/northrop-grumman-breaks-out-the-big-guns-at-ausa/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic will add official voting information to Claude ahead of the November midterms",
+      "body": "Anthropic said it will integrate official US voting information from the nonprofit Democracy Works into Claude later this month, after finding about 0.51% of conversations touch on elections or voting; the company also said it has banned accounts involved in election-related abuse of the chatbot.",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-to-add-us-voting-information-to-claude-before-midterms-4949935"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Caleb Williams returns to full practice as Bears trend toward his Week 6 return; Kyle Monangai remains out",
+      "body": "The Chicago Sun-Times reported Williams was listed as a full participant on the Bears' estimated Wednesday injury report as he works back from the hamstring strain that has sidelined him since Week 2, while running back Kyle Monangai missed his fourth straight practice with turf toe; coach Ben Johnson has still not named a starting quarterback for Sunday's game at Atlanta.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/14/bears-report-kyle-monangai-still-listed-as-out-on-injury-report"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only Byron storyline this week is his final AXALTA paint scheme for Sunday's Phoenix playoff race, which was already reported in yesterday's brief; no other qualifying roster, sponsorship or schedule news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The most recent byFaith story, on the second year of the PCA's daily prayer guide, published October 5 and falls outside the 72-hour window; no other qualifying PCA news surfaced.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
