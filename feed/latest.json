@@ -1,22 +1,24 @@
 {
- "generated": "2026-10-16T00:53:13+00:00",
+ "generated": "2026-10-16T05:15:44+00:00",
  "count": 40,
- "withImage": 35,
- "bearsDay": false,
+ "withImage": 37,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "MotorBiscuit",
   "Motorsport.com",
-  "NWI Times",
-  "SpeedwayMedia.com",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
@@ -32,59 +34,103 @@
    "published": "2026-10-17T10:00:48+00:00"
   },
   {
-   "title": "Bears QB Caleb Williams shuts down reporters asking about his hamstring injury: 'It's not deserving'",
-   "url": "https://www.foxnews.com/sports/bears-qb-caleb-williams-shuts-down-reporters-asking-about-hamstring-injury-not-deserving",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Chicago Bears QB Caleb Williams returned to full practice but refused to reveal his hamstring tear grade, calling national reports about his diagnosis wrong.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/nfl-bears-caleb-williams-092026-2.jpg?ve=1&tl=1",
-   "age": "41m ago",
-   "published": "2026-10-16T00:11:20+00:00"
-  },
-  {
-   "title": "Experimental skin cream linked to 2-year drop in biological age in early study",
-   "url": "https://www.foxnews.com/health/experimental-skin-cream-linked-2-year-drop-biological-age-early-study",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Rubedo Life Sciences says its skin cream RLS-1496 cleared senescent cells, boosted collagen 10% and reduced skin age in a four-week trial study.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/skincare-older-woman.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-10-16T00:10:36+00:00"
-  },
-  {
-   "title": "Gasping for clean air: Singapore battles relentless haze as Prime Minister Wong warns of action",
-   "url": "https://www.cnbc.com/2026/10/16/singapore-haze-wong-warning-indonesia.html",
+   "title": "Fed's Warsh withholds Fed rate signal, praises recent global tightening with 'no free riders'",
+   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Singapore continues to grapple with severe haze that is disrupting daily life and businesses, as authorities roll out protective measures — and issue warnings.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108412446-1792039223158-gettyimages-2299632897-kalong-notitle261014_npA7D.jpeg?v=1792039239&amp;w=1920&amp;h=1080",
+   "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108417409-1792116879637-gettyimages-2299704894-THAILAND_IMF_WORLD_BANK.jpeg?v=1792116944&amp;w=1920&amp;h=1080",
+   "age": "8m ago",
+   "published": "2026-10-16T05:07:20+00:00"
+  },
+  {
+   "title": "The IPO drought is driving private equity-owned companies to the debt market to pay investors",
+   "url": "https://www.cnbc.com/2026/10/16/private-equity-portfolios-ipo-debt.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Private equity firms are increasingly using debt-funded dividend recaps to return cash to investors as exits remain subdued.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108343981-1785777883997-gettyimages-2205196853-dsc01876.jpeg?v=1785777912&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-10-16T05:00:01+00:00"
+  },
+  {
+   "title": "Denver Broncos survive ugly offensive night to beat Seattle Seahawks 17-14 in overtime",
+   "url": "https://www.foxnews.com/outkick-sports/denver-broncos-survive-ugly-offensive-night-beat-seattle-seahawks-17-14-overtime",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Wil Lutz drilled a 53-yard overtime field goal after a crucial Sam Darnold interception sealed the Denver Broncos 17-14 Thursday night win.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/sam-darnold-sacked-broncos-seahawks_001.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-10-16T04:43:00+00:00"
+  },
+  {
+   "title": "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+   "url": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Singapore vessels are set to continue navigating the perilous Strait of Hormuz despite attacks on two container ships, said maritime experts.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368069-1790799195771-108368069-1790345254907-gettyimages-2293522281-AFP_C7JU7ZQ.jpeg?v=1790799253&amp;w=1920&amp;h=1080",
    "age": "46m ago",
-   "published": "2026-10-16T00:06:48+00:00"
+   "published": "2026-10-16T04:29:27+00:00"
   },
   {
-   "title": "Kash Patel demands MS NOW apologize after network's false report claiming FBI director visited Russia",
-   "url": "https://www.foxnews.com/media/kash-patel-demands-ms-now-apologize-after-networks-false-report-claiming-fbi-director-visited-russia",
+   "title": "Brewers officially end Dodgers dynasty with ridiculous 6-4 comeback in game four to complete NLCS sweep",
+   "url": "https://www.foxnews.com/outkick-sports/brewers-officially-end-dodgers-dynasty-ridiculous-6-4-comeback-game-four-complete-nlcs-sweep",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "FBI Director Kash Patel is demanding an apology from MS NOW after the network falsely claimed he landed in Russia for meetings, which was debunked.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/524/kash-patel-fbi-fox-news-4.jpeg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-10-16T00:04:07+00:00"
+   "summary": "Shohei Ohtani s 428-foot three-run homer gave the Dodgers a 4-0 lead, but the Brewers unlikely heroes erased it all to complete an NLCS sweep.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/david-hamilton-home-run-nlcs-game-4.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-10-16T03:41:42+00:00"
   },
   {
-   "title": "Can cooking for terrorists bar asylum? Supreme Court takes up unusual case with broader immigration stakes",
-   "url": "https://www.foxnews.com/politics/cooking-terrorists-bar-asylum-supreme-court-unusual-case-broader-immigration-stakes",
+   "title": "FBI returns 'Most Wanted' fraudster to US after India arrest in alleged $600K SNAP food stamp scheme",
+   "url": "https://www.foxnews.com/us/fbi-returns-most-wanted-fraudster-us-after-india-arrest-alleged-600k-snap-food-stamp-fraud-scheme",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A Nigerian man forced to cook for the Unknown Gunmen terrorist group is now at the center of a Supreme Court battle over asylum and material support.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Supreme-Court-at-dusk.jpg?ve=1&tl=1",
-   "age": "52m ago",
-   "published": "2026-10-16T00:00:29+00:00"
+   "summary": "FBI Director Kash Patel announced Manjit Singh Bedi, accused of stealing over $600,000 in SNAP benefits in Tacoma, has been returned from India.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/manjit-singh-bedi-fbi-most-wanted-fraudster.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-10-16T03:29:29+00:00"
+  },
+  {
+   "title": "Seattle Seahawks at Denver Broncos Open Thread!",
+   "url": "https://www.windycitygridiron.com/general/125338/seattle-seahawks-at-denver-broncos-open-thread",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2171625479.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-10-16T01:44:22+00:00"
+  },
+  {
+   "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+   "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-roadster-2-fly.jpg?resize=1200,877",
+   "age": "3h ago",
+   "published": "2026-10-16T01:17:43+00:00"
+  },
+  {
+   "title": "Caleb Williams – who felt ‘pop’ with hamstring injury – must pass ‘stress test’ to play vs. Falcons",
+   "url": "https://allchgo.com/bears/caleb-williams-felt-pop-hamstring-injury-stress-test/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/15152414/2026-09-29T000200Z_1954456979_MT1USATODAY29945622_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "5h ago",
+   "published": "2026-10-16T00:01:39+00:00"
   },
   {
    "title": "Lockheed invests $300M in Texas plant to feed missile surge",
@@ -94,8 +140,30 @@
    "topic": "defense",
    "summary": "Lockheed is investing $300 million to expand its Grand Prairie, Texas, plant, which supports all programs within its Missiles and Fire Control business.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/WWLAAXEE3RDF3OVJITIGDEQBR4.jpg",
-   "age": "53m ago",
+   "age": "5h ago",
    "published": "2026-10-16T00:00:00+00:00"
+  },
+  {
+   "title": "Broncos' cheating accusation against Seahawks almost led to lawsuit in 2024, according to Mike Macdonald",
+   "url": "https://www.cbssports.com/nfl/news/broncos-cheating-accusation-seahawks-mike-macdonald/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/22/161adf4f-f056-40cd-b968-ecf5cfb45a66/macandpayton-jpeg.jpg",
+   "age": "5h ago",
+   "published": "2026-10-15T23:53:10+00:00"
+  },
+  {
+   "title": "Bears QB Caleb Williams practices in full, but game status still uncertain",
+   "url": "https://www.chicagobears.com/news/bears-qb-caleb-williams-practices-in-full-but-game-status-still-uncertain",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/nglfffgt0spyyi0ad8av.jpg",
+   "age": "5h ago",
+   "published": "2026-10-15T23:49:21+00:00"
   },
   {
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
@@ -105,8 +173,19 @@
    "topic": "ai",
    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-10-15T23:44:56+00:00"
+  },
+  {
+   "title": "Caleb Williams responds to critics after hamstring injury: 'My character's been attacked'",
+   "url": "https://www.cbssports.com/nfl/news/caleb-williams-injury-update-hamstring-tear-return-timeline/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/15/eec4d016-98db-4d12-98b9-19860dff7e21/gettyimages-2297105283-1.jpg",
+   "age": "5h ago",
+   "published": "2026-10-15T23:41:38+00:00"
   },
   {
    "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
@@ -116,19 +195,19 @@
    "topic": "ai",
    "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55592280883_eb4cee0d80_k.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-10-15T23:33:45+00:00"
   },
   {
-   "title": "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-   "url": "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108245941-1766777565238-gettyimages-2239632506-Netflixs__A_House_of_Dynamite_Premiere.jpeg?v=1789589587&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-15T23:08:05+00:00"
+   "title": "Dak Prescott delivers message to NFL players after Jalen Hurts' blood-clot diagnosis",
+   "url": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-jalen-hurts-blood-clot/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/15/1af2e54d-ac51-4106-ab38-b60a7cfc67bc/prescott-hurts.jpg",
+   "age": "6h ago",
+   "published": "2026-10-15T23:13:06+00:00"
   },
   {
    "title": "Killer balloons an option as US Army seeks to ‘exploit the stratosphere’",
@@ -138,7 +217,7 @@
    "topic": "defense",
    "summary": "While using balloons as shooters likely presents more challenges than using them for sensing, nothing is off the table, an Army official said.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/YTKXOCKUN5AANKPZLU7IW4WJV4.jpg",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-10-15T23:00:00+00:00"
   },
   {
@@ -149,7 +228,7 @@
    "topic": "defense",
    "summary": "The Marines have been the primary interested party in the MQ-72C, but the Army already flies the UH-72 Lakota and needs similar capabilities. The post MQ-72C Cargo Helic…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/mq-72c-drone-helicopter-army-demo.jpg?quality=85",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-10-15T22:56:55+00:00"
   },
   {
@@ -160,7 +239,7 @@
    "topic": "defense",
    "summary": "Trump announced a new facility aimed at testing autonomous weapons, space, and electronic ​warfare technology, supersonics and ⁠hypersonics. The post New Montana Super R…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Montana-range.jpg?quality=85",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-10-15T22:21:49+00:00"
   },
   {
@@ -171,7 +250,7 @@
    "topic": "ai",
    "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/KDE_Birthday_30th_Laptop-1070x648.png",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-10-15T22:21:06+00:00"
   },
   {
@@ -182,41 +261,8 @@
    "topic": "defense",
    "summary": "The U.S. appears to have stopped sharing some forms of key intelligence with Kyiv, Ukrainian officials said Wednesday.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/L5WORPFCEBCY5KCGTAC32VOS2M.jpg",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-10-15T22:00:48+00:00"
-  },
-  {
-   "title": "Trump says 'if Ken Paxton loses' Texas Senate race, blame Cornyn and Karl Rove",
-   "url": "https://www.cnbc.com/2026/10/15/trump-paxton-texas-talarico.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Polls show GOP Attorney General Ken Paxton trailing Democratic Rep. James Talarico in the Texas Senate race.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108415213-1792084539459-gettyimages-2299789422-AFP_D3EV86B.jpeg?v=1792084636&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-15T21:42:14+00:00"
-  },
-  {
-   "title": "CoreWeave credit default swaps hit distress levels as investors sour on AI debt",
-   "url": "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Signs of distressed deepened in CoreWeave on Thursday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108414312-1792071462734-gettyimages-2245498612-raa-coreweav251110_npSDI.jpeg?v=1792071500&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-15T21:33:24+00:00"
-  },
-  {
-   "title": "Expanded dining options popular among soldiers, US Army officials say",
-   "url": "https://www.defensenews.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "“Chow halls operated on decades-old schedules that clashed with modern soldier work shifts,” one U.S. Army official said.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/6OEDMDSETBGIHE2S5MRHI2SATE.jpg",
-   "age": "3h ago",
-   "published": "2026-10-15T21:30:00+00:00"
   },
   {
    "title": "Navy Civilianizes Six Former Flag Billets, Reduces Six to Captains",
@@ -226,7 +272,7 @@
    "topic": "defense",
    "summary": "The Navy quietly changed six billets held by flag officers to civilian posts as the service looks to follow Defense Secretary Pete Hegseth’s call for “less generals, mor…",
    "image": "https://news.usni.org/wp-content/uploads/2024/03/Flag_of_the_United_States_Navy.svg.png",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-10-15T21:28:58+00:00"
   },
   {
@@ -237,7 +283,7 @@
    "topic": "ai",
    "summary": "Discovery data from Plex users will help studios, advertisers.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2218632851-1152x648.jpg",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-10-15T21:22:15+00:00"
   },
   {
@@ -248,7 +294,7 @@
    "topic": "ai",
    "summary": "Medical experts explicitly recommend against blanket screenings.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-15T21:09:57+00:00"
   },
   {
@@ -259,7 +305,7 @@
    "topic": "defense",
    "summary": "North Korea claims to have launched two cruise missiles from its bizarre modified Romeo class missile boat. The post North Korea’s ‘Hunchback’ Submarine Makes First At-S…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/North-Korea-Huncback-submarine-copy.jpg?quality=85",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-15T21:01:09+00:00"
   },
   {
@@ -270,41 +316,8 @@
    "topic": "defense",
    "summary": "A request for information will be coming out in the near future, and the service is looking to make some “early selections” in the March to April timeframe for the CAML-…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/max1200-2-e1788283642113-1024x576.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-15T20:54:22+00:00"
-  },
-  {
-   "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-   "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591538446_52b352f16c_o.jpg?resize=1200,800",
-   "age": "4h ago",
-   "published": "2026-10-15T20:38:13+00:00"
-  },
-  {
-   "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-   "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg",
-   "age": "4h ago",
-   "published": "2026-10-15T20:32:41+00:00"
-  },
-  {
-   "title": "Meta launches an open-weight AI model that runs on Macs",
-   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-   "age": "4h ago",
-   "published": "2026-10-15T20:04:53+00:00"
   },
   {
    "title": "Reprogramming robots in the mud: How Army Special Ops trains its new robot technicians",
@@ -314,7 +327,7 @@
    "topic": "defense",
    "summary": "“What we’re building is a soldier that can adapt a piece of robotic kit to the mission, to the enemy, to the terrain,” said Maj. Gen. Jason Slider, commander of the John…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9753687-scaled-e1792072876871-1024x577.jpg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-15T19:59:12+00:00"
   },
   {
@@ -325,7 +338,7 @@
    "topic": "defense",
    "summary": "[Sponsored] RF sensing at greater distance gives operators more decision space to act.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/ausa_2026_silvus_perspective_copy_02_v3-1080p-frame-at-1m20s-1024x576.jpg",
-   "age": "5h ago",
+   "age": "9h ago",
    "published": "2026-10-15T19:31:56+00:00"
   },
   {
@@ -336,19 +349,19 @@
    "topic": "defense",
    "summary": "MANILA, Philippines — Japan wants to sell air defense, maritime surveillance and counter-drone systems to the Philippines amid its push to bolster forces in the South Ch…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/39938352101_346439f056_b.jpg",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-10-15T18:16:23+00:00"
   },
   {
-   "title": "Army Wants High-Energy Laser Weapons It Can Put On “Any Vehicle In The Motorpool”",
-   "url": "https://www.twz.com/news-features/army-wants-high-energy-laser-weapons-it-can-put-on-any-vehicle-in-the-motorpool",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Army sees modular laser systems not tied to specific vehicles as key to truly operationalizing and distributing counter-drone laser capabilities. The post Army Wants…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/army-laser-weapons-vision-any-vehicle-in-the-motorpool.jpg?quality=85",
-   "age": "6h ago",
-   "published": "2026-10-15T18:15:00+00:00"
+   "title": "2026 NFL QB Rankings- Quarter Pole Edition",
+   "url": "https://www.windycitygridiron.com/chicago-bears-power-rankings/125084/2026-nfl-qb-rankings-quarter-pole-edition",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2299887319.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "11h ago",
+   "published": "2026-10-15T17:30:00+00:00"
   },
   {
    "title": "North Korea Tests First Submarine-launched Cruise Missile in Nearly 3 Years",
@@ -358,30 +371,30 @@
    "topic": "defense",
    "summary": "North Korea fired two submarine-launched cruise missiles on Wednesday in the Sea of Japan, the first public disclosure of a SLCM test firing in nearly three years. North…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/KCNAsublaunch1.jpg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-10-15T16:40:30+00:00"
   },
   {
-   "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs",
-   "url": "https://news.usni.org/2026/10/15/report-to-congress-on-north-koreas-nuclear-weapons-and-missile-programs-5",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is the Oct. 13, 2026, Congressional Research Service report, North Korea’s Nuclear Weapons and Missile Programs. From the Report Over the past decade, the …",
-   "image": null,
-   "age": "10h ago",
-   "published": "2026-10-15T14:12:17+00:00"
+   "title": "Week 6 NFL Game Preview: Chicago Bears vs. Atlanta Falcons",
+   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/125326/week-6-nfl-game-preview-chicago-bears-vs-atlanta-falcons-2026-michael-penix-caleb-williams-bijan-robinson-drake-london",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2299368098.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "14h ago",
+   "published": "2026-10-15T15:00:00+00:00"
   },
   {
-   "title": "As critical mineral deadline looms, Army expects to feel ‘some impact’",
-   "url": "https://breakingdefense.com/2026/10/as-critical-mineral-deadline-looms-army-expects-to-feel-some-impact/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Liz Miranda, Army Materiel Command s executive deputy to the commanding general, said a White House order s requirements for companies to map their supply chain down to …",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261015_DVIDS_thermal_imaging_9943803-scaled-e1792073146112-1024x577.jpg",
-   "age": "10h ago",
-   "published": "2026-10-15T14:07:35+00:00"
+   "title": "Caleb Williams takes another step toward return from hamstring injury",
+   "url": "https://www.chicagobears.com/news/caleb-williams-takes-another-step-toward-return-from-hamstring-injury",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/zkr0s73hetwf60g8dgpy.jpg",
+   "age": "1d ago",
+   "published": "2026-10-14T22:35:00+00:00"
   },
   {
    "title": "Hendrick Motorsports Faces Fan Backlash Over Axalta Throwback Scheme",
@@ -395,6 +408,28 @@
    "published": "2026-10-14T21:00:22+00:00"
   },
   {
+   "title": "Bears QB situation is ‘fluid’ but Caleb Williams’ return now feels imminent",
+   "url": "https://allchgo.com/bears/bears-situation-fluid-caleb-williams-return-imminent/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/14133904/2026-09-20T174323Z_812316220_MT1USATODAY29871783_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "1d ago",
+   "published": "2026-10-14T18:42:29+00:00"
+  },
+  {
+   "title": "Bears take former players on first-ever alumni road trip",
+   "url": "https://www.chicagobears.com/news/bears-take-former-players-on-first-ever-alumni-road-trip",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/w4btec1eqfroilk11yuu.jpg",
+   "age": "1d ago",
+   "published": "2026-10-14T15:34:00+00:00"
+  },
+  {
    "title": "Is Axalta Leaving NASCAR? William Byron Set for Final Ride With Longtime Sponsor",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbk1IckhqTnk0YnVGYW9vT3I3U3BjRDh0MnFocWx3NlFaZTdIZkRrbEJ0amtuTFJLa0xKbXUxR3FxQzEzdGZWTUVncXNrVVFyVzZ1VFotSlU1eVRxeDVCb0s2bldwRW4wOHVpb2gwcUkwXzNUOXhvQWN3YndZZnR4eTRITmF1dGRsUExNdQ?oc=5",
    "source": "Yahoo Sports",
@@ -406,37 +441,15 @@
    "published": "2026-10-14T15:15:06+00:00"
   },
   {
-   "title": "Cirque Italia brings acrobatics, comedy and big-top spectacle to Northwest Indiana",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_bd2066f3-5e1b-4cd6-a81c-ce3e4b61d8e7.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Cirque Italia brings its animal-free circus to Southlake Mall in Merrillville this weekend, blending comedy, acrobatics and aerial stunts in a celebration of diversity a…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/ea/7eaafc9b-4256-465c-ad57-fb844dd912c9/6ace623732367.image.jpg?resize=300%2C375",
-   "age": "1d ago",
-   "published": "2026-10-14T13:30:00+00:00"
-  },
-  {
-   "title": "William Byron sporting final AXALTA scheme at Phoenix",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdmZVenFiVVRncHYyZy1ZNEhleEo3Mjk3aTlqV0ZqYUZuRDFhd3cybjFYb295akYzQm55RFFtMjljcEdvNzJ5bTg1OUhjNW5VNlJiS24zS1BlN1hIMGw2Sm5hU2M3WWt0YXBuS3VBWDdpUWpMYXRvMDRwb2QwT2N4MTlmb3BGejRlZFM2dlpGcVJ5V2ZPWHc?oc=5",
-   "source": "SpeedwayMedia.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "10 Bears Things: Your 2026 Chicago Bears – a good but inconsistent football team",
+   "url": "https://allchgo.com/bears/10-bears-things-2026-good-inconsistent-football-team/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/13233028/10things_ArticleTemplate-5-1024x576.jpg",
    "age": "1d ago",
-   "published": "2026-10-14T12:20:38+00:00"
-  },
-  {
-   "title": "Youth sports are for kids. So why do parents act like children on the sidelines? | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_8a1cf82e-6e3a-4fc5-a2a3-a44fd934662e.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "From screaming at referees to living vicariously through their kids, some parents are turning youth sports into a spectacle of adult misbehavior. But at what cost to chi…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/24/d243cd63-e9d5-4036-ac6c-991a97e7a1f0/6ace7d7bd5694.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-10-14T12:15:00+00:00"
+   "published": "2026-10-14T10:00:00+00:00"
   },
   {
    "title": "William Byron to run Jeff Gordon throwback Axalta scheme at Phoenix",
@@ -448,17 +461,6 @@
    "image": null,
    "age": "2d ago",
    "published": "2026-10-13T22:36:33+00:00"
-  },
-  {
-   "title": "Depot Dog for sale after 37 years. Owner hopes someone will keep the hot dogs coming",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_51f784d7-3067-4927-aeff-d953b40a12f7.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The iconic red caboose hot dog stand is for sale after storm damage forced owner Derrick Bass to reconsider his future while hoping a new owner will preserve the popular…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/5c/25cf1828-869a-4f08-970e-e21f7c0b358d/6acd3235b2e7b.image.jpg?resize=300%2C225",
-   "age": "2d ago",
-   "published": "2026-10-13T12:15:00+00:00"
   }
  ]
 }
