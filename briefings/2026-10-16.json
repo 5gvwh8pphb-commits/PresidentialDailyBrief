@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-16",
+  "dateLabel": "Friday, October 16, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-16T13:34:56Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, October 15, 2026 close — a broad rebound as money rotated out of AI-linked tech names and into industrials, a day after hotter inflation data drove the week's sharpest sell-off.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,744.06", "change": "+25.12", "changePct": "+0.33%", "sixMo": "+10%" },
+        { "name": "Dow", "close": "52,177.69", "change": "+556.21", "changePct": "+1.08%", "sixMo": "+7.7%" },
+        { "name": "Nasdaq", "close": "26,713.03", "change": "+20.16", "changePct": "+0.08%", "sixMo": "+11%" }
+      ],
+      "body": "The Dow's 556-point gain was its best day in weeks as industrials and financials led the rebound, while chip and AI-related names stayed under pressure and kept the Nasdaq nearly flat; the move followed Wednesday's hotter-than-expected September inflation report, which had driven the S&P 500 to its fifth loss in six sessions.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-15-140429285.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump rules out a nuclear strike on Iran as Tehran vows bombs 'can't force a nation to surrender'",
+      "body": "Speaking to Newsmax on Thursday, Trump said the US doesn't need nuclear weapons and won't use them against Iran, even as he said a decision on broader action is coming 'very fast'; Iranian President Masoud Pezeshkian responded that bombs and missiles can't force the country to surrender, as the US and Iran remain at odds over the Strait of Hormuz blockade and Houthi attacks on Saudi Arabia.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/us-iran-war-peace-donald-trump-strait-hormuz-oil-prices-midterms-october-15"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan's defense minister says China deliberately timed coastal drills to follow National Day, as a Liaoning carrier group sails near the island",
+      "body": "Wellington Koo told Taiwan's legislature this week's Chinese live-fire exercises are a routine, 'not particularly large' drill but that Beijing chose the timing to follow President Lai Ching-te's October 10 National Day speech; separately, a Chinese carrier battle group centered on the Liaoning passed through the Okinawa archipelago and was tracked about 370 kilometers east of Taiwan on Wednesday, according to Japanese military data.",
+      "source": "Domino Theory",
+      "url": "https://dominotheory.com/whats-going-on-with-chinas-military-exercises-this-week-2/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~17h ago",
+      "empty": false,
+      "headline": "CENTCOM says an Iranian projectile, not a mine, sank a container ship in the Strait of Hormuz as 40-plus vessels transited despite the attack",
+      "body": "US Central Command said Thursday an IRGC projectile — not a naval mine as Iran had claimed — struck the Singapore-flagged container ship GFS Pride, which later sank while under tow toward shore; CENTCOM said more than 40 commercial vessels still transited the strait in the prior 24 hours despite the attack, as its blockade of Iranian ports continues.",
+      "source": "JFeed",
+      "url": "https://www.jfeed.com/news/centcom-irgc-projectile-gfs-pride-hormuz"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Startup Skapion unveils a 'Native Counter-Swarm' system it says can down 100-plus drones at once ahead of AUSA",
+      "body": "Skapion, founded by a former head of Rafael's Air and Missile Defense Systems division, unveiled a mobile kinetic counter-drone system it says can engage more than 100 aerial targets simultaneously with a 97%-plus interception rate, using roughly $10,000 kinetic interceptors and an AI-based command layer; the company hasn't yet demonstrated the claims in a live-fire test, which it says is planned for the coming weeks ahead of a 2027 operational evaluation.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/military/skapion-counter-swarm-defense-system-intercepts"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic gives outside evaluator METR embedded access to Claude with the right to publish its own risk findings",
+      "body": "Anthropic said it has given six employees of METR, a nonprofit that evaluates frontier AI models, employee-like access to assess its systems and publish risk assessments Anthropic cannot veto, only require narrow redactions of things like customer data or model architecture; the company also detailed newer partnerships with SecureBio, Accenture and Faculty, framing outside oversight as something 'every frontier AI company should do.'",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~17h ago",
+      "empty": false,
+      "headline": "Caleb Williams logs a second straight full practice as Schefter says he's 'on track' to start Sunday at Atlanta",
+      "body": "Williams was a full participant on Thursday for the second day in a row as he works back from the hamstring strain that has kept him out since Week 2, and ESPN's Adam Schefter reported the update puts him on track to start against the Falcons; Williams himself said he still doesn't know if he'll play, telling reporters he has a 'stress test' and other evaluations to clear first, while coach Ben Johnson called the quarterback plan 'still fluid.'",
+      "source": "ESPN",
+      "url": "https://newsweek.com/sports/nfl/bears-get-major-caleb-williams-injury-update-ahead-of-falcons-game-12575822"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The only Byron storylines this week are his Jeff Gordon throwback AXALTA scheme for Phoenix and Sunday's playoff race itself, both already reported or barred by the spoiler rule; no new roster, sponsorship or schedule news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~today",
+      "empty": false,
+      "headline": "Kennedy Smartt, last surviving founder of the PCA's original 'committee of 12,' dies at 101",
+      "body": "Smartt, who pastored West End Presbyterian Church in Hopewell, Virginia, and helped found the denomination in 1971, died Thursday; he made the General Assembly motion that renamed the new church the Presbyterian Church in America, served as moderator of the 26th General Assembly in 1998, and later worked with Mission to the World and Mission to North America.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/kennedy-smartt-pastor-and-denominational-leader-dies-at-101/"
+    }
+  ]
+}
