@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-17",
+  "dateLabel": "Saturday, October 17, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-17T12:27:03Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~16h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, October 16, 2026 close — stocks fell for a second straight day as chipmakers and AI-linked tech names led declines, capping the worst week for the S&P 500 and Nasdaq since June.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,659.44", "change": "-84.62", "changePct": "-1.1%", "sixMo": "+8.8%" },
+        { "name": "Dow", "close": "52,002.41", "change": "-175.28", "changePct": "-0.3%", "sixMo": "+7.0%" },
+        { "name": "Nasdaq", "close": "26,140.03", "change": "-572.99", "changePct": "-2.1%", "sixMo": "+8.5%" }
+      ],
+      "body": "Micron fell 5.6% and Intel lost 5.8% as investors grew more worried about how long the AI infrastructure spending boom can last, dragging the Nasdaq to its steepest weekly loss since June; the S&P 500 also posted a weekly decline while the Dow still eked out a small weekly gain.",
+      "source": "AP via ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Trump orders military to stay ready for larger Iran strikes after the midterms as US and Iran both claim control of Hormuz",
+      "body": "CENTCOM chief Adm. Brad Cooper said the US and regional partners, not Iran, control the Strait of Hormuz and that roughly 400 ships carrying 100 million barrels of oil transited it in the past week despite rising attacks he blamed on IRGC 'desperation'; Iran's acting defense minister countered that Iranian missiles, not US bombs, will decide the war's outcome, as Trump reportedly told the military to stay ready for larger action after the November 3 midterms.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No verifiable China-Taiwan or South China Sea development from a reputable outlet surfaced within the past 72 hours; the most recent confirmed Taiwan defense ministry aircraft/vessel tally is from October 12, outside the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "CENTCOM says its Hormuz blockade has cost Iran $25 billion as a tanker is hit by rocket fire off Saudi Arabia",
+      "body": "Adm. Brad Cooper said the naval blockade of Iranian ports remains 'ironclad,' has cost Tehran about $25 billion in oil export income and led to the seizure of $350 million in Iranian cryptocurrency financing, while US forces have cleared mines from the strait's main shipping lanes; UKMTO logged at least 12 ship attacks in the week ending October 16, including a tanker struck Saturday by a rocket-propelled grenade from a small boat northeast of Jubail, Saudi Arabia.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Hegseth seeks $50 billion to scale autonomous weapons into the millions",
+      "body": "Speaking at the AUSA conference, Defense Secretary Pete Hegseth said the Pentagon is seeking roughly $50 billion in one-time reconciliation funding to mass-produce autonomous and robotic systems, saying the department will field 'hundreds of thousands of one-way attack systems this year' and move 'into the millions in years to come'; the request is separate from the FY2027 budget's $53.6 billion Drone Dominance initiative, which includes $16.9 billion for unmanned-system procurement.",
+      "source": "Federal Times",
+      "url": "https://www.federaltimes.com/defense/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic quietly pitches Capitol Hill its own frontier AI safety bill",
+      "body": "Politico reported that Anthropic representatives privately shared a confidential draft bill with lawmakers that would let the Commerce Department seek a court order blocking a model's release only where it poses a foreseeable, imminent risk of more than $1 billion in damages or of killing or seriously injuring 50-plus people, covering risks like bioweapons, a model evading its developer's controls, or major cyberattacks; an Anthropic spokesperson said the draft reflects proposals from the company's Advanced AI Framework that it has pitched to federal and state lawmakers since June.",
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears list Caleb Williams as questionable for Falcons after a full week of practice",
+      "body": "The Chicago Sun-Times reported the Bears listed quarterback Caleb Williams as questionable for Sunday's game at Atlanta after he completed a full week of practice coming back from the hamstring strain that has sidelined him since Week 2; running back Kyle Monangai, out with turf toe, was ruled out for the game, and defensive end Montez Sweat remains in the second week of a two-game suspension for a drug policy violation, eligible to return October 23.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/16/bears-list-qb-caleb-williams-as-questionable-vs-falcons-but-full-week-of-practice-points-toward-return"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new roster, sponsorship or schedule news on Byron surfaced within the 72-hour window; the only live storyline is Sunday's Phoenix playoff race itself, which the spoiler rule bars from pre-reporting.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The most recent PCA story, on founding 'committee of 12' member Kennedy Smartt's death at 101, was already reported in yesterday's brief; no other qualifying denominational news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
