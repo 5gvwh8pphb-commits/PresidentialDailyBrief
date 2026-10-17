@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-17T04:44:03+00:00",
+ "generated": "2026-10-17T08:55:02+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -13,14 +13,11 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Heavy.com",
-  "MotorBiscuit",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "Yahoo Sports"
+  "Windy City Gridiron"
  ],
  "items": [
   {
@@ -35,15 +32,59 @@
    "published": "2026-10-17T10:00:48+00:00"
   },
   {
-   "title": "NCAA moves to block Ohio Governor Mike DeWine's executive order expanding college athletes' eligibility",
-   "url": "https://www.foxnews.com/outkick-sports/ncaa-moves-block-ohio-governor-mike-dewine-executive-order-expanding-college-athletes-eligibility",
+   "title": "Dem congressional candidate's police record reveals suspensions over stolen gun, insubordination",
+   "url": "https://www.foxnews.com/politics/dem-congressional-candidate-police-record-reveals-suspensions-stolen-gun-insubordination",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The NCAA filed a federal lawsuit against Ohio Gov. Mike DeWine, claiming his executive order gives Ohio schools an unfair competitive advantage.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Gov-Mike-DeWine-Ohio-State-football.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-17T03:00:45+00:00"
+   "summary": "Johnny Garcia faced two unpaid suspensions from the Bexar County Sheriff s Office for insubordination and negligence as he runs for Texas 35th District.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/garcia-speaks-at-a-campaign-event.png?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-10-17T08:30:06+00:00"
+  },
+  {
+   "title": "Ilhan Omar raid sparks ominous prediction from watchdog: 'They probably got the goods'",
+   "url": "https://www.foxnews.com/politics/they-probably-got-goods-ilhan-omar-raid-sparks-ominous-prediction-watchdog",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Oversight Project s Mike Howell warns Ilhan Omar s HSI raid signals deeper congressional accountability failures and predicts more revelations ahead.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/omar-mynett-hsi-raid-split.jpg?ve=1&tl=1",
+   "age": "54m ago",
+   "published": "2026-10-17T08:00:59+00:00"
+  },
+  {
+   "title": "Army expo attendees skeptical of Trump's Iran peace deal hopes: 'Beat 'em into submission'",
+   "url": "https://www.foxnews.com/politics/army-expo-attendees-skeptical-trumps-iran-peace-deal-hopes-beat-em-submission",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "AUSA Exposition attendees question Trump s optimism about an Iran deal, arguing military and economic sanctions must intensify before Tehran talks.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ausa-attendee-trump-split.jpg?ve=1&tl=1",
+   "age": "54m ago",
+   "published": "2026-10-17T08:00:05+00:00"
+  },
+  {
+   "title": "Trump's Russia diesel deal may offer Putin more than money — and spell trouble for Ukraine",
+   "url": "https://www.cnbc.com/2026/10/17/trump-diesel-russia-ukraine-war.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump's diesel deal may do little for Russia's finances, but it raises bigger questions about Ukraine's leverage, U.S. support and Putin's next moves.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108366031-1790062943795-gettyimages-2295968558-RUS_Russia_Daily_Life_2026.jpeg?v=1790065554&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-10-17T05:46:20+00:00"
+  },
+  {
+   "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+   "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108408586-1791983342206-gettyimages-2123155212-dsc01886.jpeg?v=1791983461&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-10-17T05:00:01+00:00"
   },
   {
    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
@@ -53,19 +94,8 @@
    "topic": "ai",
    "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Mark-Wahlberg.jpg?w=1024",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-10-17T02:36:18+00:00"
-  },
-  {
-   "title": "Rain forces MLB to postpone Guardians-Rays ALCS Game 4 in Cleveland",
-   "url": "https://www.foxnews.com/outkick-sports/rain-forces-mlb-postpone-guardians-rays-alcs-game-4-cleveland",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The American League Championship Series Game 4 rainout eliminates the off day, forcing the Cleveland Guardians and Tampa Bay Rays into four straight games.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Progressive-Field-ALCS-Game-4-scaled.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-17T02:28:14+00:00"
   },
   {
    "title": "NFL predictions: Bears will bounce back big against the Falcons",
@@ -75,19 +105,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2295082745.jpg?quality=90&#038;strip=all&#038;crop=0,0,65.636362648704,100",
-   "age": "4h ago",
+   "age": "8h ago",
    "published": "2026-10-17T00:00:00+00:00"
   },
   {
-   "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-   "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
+   "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+   "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108361241-1789052723172-gettyimages-2293841199-AFP_C7UF8DY.jpeg?v=1792187091&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-10-16T22:31:26+00:00"
+   "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108351875-1787178100146-gettyimages-2290607138-AFP_C62Z247.jpeg?v=1787178332&amp;w=1920&amp;h=1080",
+   "age": "10h ago",
+   "published": "2026-10-16T22:34:29+00:00"
   },
   {
    "title": "US Special Operations adopts new half-mask and goggles",
@@ -97,7 +127,7 @@
    "topic": "defense",
    "summary": "Avon Protection's MITR half-mask and goggle system is designed to protect wearers from dangerous chemicals and toxic substances in the atmosphere.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/XVV3ZYXPHZHKXHE5ZBI2LPBTTM.jpg",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-10-16T22:00:00+00:00"
   },
   {
@@ -108,7 +138,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2298744683.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-10-16T22:00:00+00:00"
   },
   {
@@ -119,7 +149,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/09/27f53490-eb5a-4b3f-aaf8-7a73ce447a5d/lamar-jackson-baltimore-ravens-imagn-images.jpg",
-   "age": "6h ago",
+   "age": "10h ago",
    "published": "2026-10-16T21:57:37+00:00"
   },
   {
@@ -130,19 +160,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/16/d7963c7a-e3c5-49fc-af2e-73915608fad1/hunter-henry-new-england-patriots-imagn-images.jpg",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-10-16T21:40:37+00:00"
-  },
-  {
-   "title": "Katie Zacharia out as Trump's White House press secretary",
-   "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108403373-1791899390220-gettyimages-2299988078-_s017926_y4gtds8j.jpeg?v=1791899415&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-10-16T21:26:15+00:00"
   },
   {
    "title": "F-22 Pilot Controls FQ-44 Fighter Drone From The Cockpit For The First Time",
@@ -152,7 +171,7 @@
    "topic": "defense",
    "summary": "This is a key milestone as F-22s will be the Air Force's first aerial 'quarterbacks' for Collaborative Combat Aircraft drones. The post F-22 Pilot Controls FQ-44 Fighter…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/F-22-control-FQ-44-fury-test.jpg?quality=85",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-10-16T21:25:22+00:00"
   },
   {
@@ -163,7 +182,7 @@
    "topic": "ai",
    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indicat…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-10-16T21:22:28+00:00"
   },
   {
@@ -174,7 +193,7 @@
    "topic": "defense",
    "summary": "Where is that drip sound coming from? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/8030020-copy.jpg?quality=85",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-10-16T21:00:00+00:00"
   },
   {
@@ -185,7 +204,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2297770030.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-10-16T21:00:00+00:00"
   },
   {
@@ -196,7 +215,7 @@
    "topic": "ai",
    "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-10-16T20:59:01+00:00"
   },
   {
@@ -207,7 +226,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/dl4py6wqat74ksk2zhjf.jpg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-10-16T20:38:48+00:00"
   },
   {
@@ -218,7 +237,7 @@
    "topic": "defense",
    "summary": "Battles far away are informing major changes to how the Army trains, equips and operates in the vast Pacific. The post What The Army s Pacific Commanders Are Learning Fr…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Army-Training-Korea.jpg?quality=85",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-10-16T20:35:32+00:00"
   },
   {
@@ -229,7 +248,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/16/2213ef28-d073-4ee1-8fca-069b4c7f87f2/josh-jacobs-imagn.jpg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-10-16T20:26:38+00:00"
   },
   {
@@ -240,7 +259,7 @@
    "topic": "ai",
    "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-10-16T20:20:07+00:00"
   },
   {
@@ -251,19 +270,8 @@
    "topic": "defense",
    "summary": "Ukraine said on Wednesday that SpaceX had restricted “military-grade” Starlink services, hampering Ukrainian drone strike missions and air defenses.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/3UGM4F74CRC35KG744CWYJFDB4.JPG",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-10-16T20:08:08+00:00"
-  },
-  {
-   "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-   "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108409918-1792001666276-2026-10-13T175311Z_748127171_RC2F2OACIXEA_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG?v=1792001733&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-10-16T20:02:21+00:00"
   },
   {
    "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
@@ -273,7 +281,7 @@
    "topic": "ai",
    "summary": "There are still significant hurdles ahead, both technical and legislative.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Torres-headshot-1152x648.jpg",
-   "age": "9h ago",
+   "age": "13h ago",
    "published": "2026-10-16T19:41:18+00:00"
   },
   {
@@ -284,7 +292,7 @@
    "topic": "ai",
    "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/porsche-macan-turbo-front-three-quarter.jpeg?resize=1200,800",
-   "age": "9h ago",
+   "age": "13h ago",
    "published": "2026-10-16T19:40:00+00:00"
   },
   {
@@ -295,7 +303,7 @@
    "topic": "defense",
    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Yokosuka, Japan The Theodore Roosevelt Carrier Strike Grou…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10023181-scaled.jpg",
-   "age": "10h ago",
+   "age": "14h ago",
    "published": "2026-10-16T18:39:22+00:00"
   },
   {
@@ -306,19 +314,8 @@
    "topic": "defense",
    "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JAEQHCL6RFDZLFZFT54SLE7MOY.jpg",
-   "age": "10h ago",
+   "age": "14h ago",
    "published": "2026-10-16T18:30:00+00:00"
-  },
-  {
-   "title": "NASCAR Cup Series Driver Addresses Explosive Hendrick Motorsports Rumors Fueled by Denny Hamlin",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWFHMFItNDJFclZxQjZjOWF1UEhkMmNUVFZkQmp1bHpzWEtKem9BRkNlbGJfNlJZVUUtcVF0WUFxQ0NfWTNpZUdoYzlraEUtU3I1OUZmNk9Id2FCVVRTWmVzcWdDVDVxQnA2TGw1eHNnS3ZYeG5KNjVlbkZQbG5oT09FT3d0aThOT2lpUXoySVZQT3Rkd3lDcmZ4ZDFuODFDTVRxWUQyZ0lYWWVmbFhGbkdKTmtsNGRzbEhjbmVJNmV5LUl0M2lR?oc=5",
-   "source": "Heavy.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "11h ago",
-   "published": "2026-10-16T17:22:00+00:00"
   },
   {
    "title": "Army Lays Out New Plan for Prolonged Fight in First Island Chain",
@@ -328,7 +325,7 @@
    "topic": "defense",
    "summary": "The U.S. Army laid out its plans to prepare for a prolonged fight in the Pacific along the First Island Chain in the service’s new warfighting guidance released this mon…",
    "image": "https://news.usni.org/wp-content/uploads/2026/04/9589555-scaled.jpg",
-   "age": "11h ago",
+   "age": "15h ago",
    "published": "2026-10-16T17:08:15+00:00"
   },
   {
@@ -339,7 +336,7 @@
    "topic": "defense",
    "summary": "CEO Thomas Akers told Breaking Defense that the company’s recent acquisition by Norwegian defense firm Kongsberg offers “an immediate step change” for the startup firm, …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Zone-5-eclipse-e1792079717288-1024x577.jpeg",
-   "age": "12h ago",
+   "age": "16h ago",
    "published": "2026-10-16T16:28:00+00:00"
   },
   {
@@ -350,7 +347,7 @@
    "topic": "defense",
    "summary": "Germany has set a target of 2029 to field a CCA, which would make it the first European country to reach such a milestone, but that timeline now looks to be in doubt.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/IMG_20260721_165649254_HDR-scaled-e1784735622231-1024x577.jpg",
-   "age": "13h ago",
+   "age": "17h ago",
    "published": "2026-10-16T15:19:30+00:00"
   },
   {
@@ -361,7 +358,7 @@
    "topic": "defense",
    "summary": "An open systems architecture allows the Army and its industry partners to plug new and different software and hardware capabilities into the platform.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9770428.jpg",
-   "age": "14h ago",
+   "age": "18h ago",
    "published": "2026-10-16T14:31:00+00:00"
   },
   {
@@ -372,7 +369,7 @@
    "topic": "defense",
    "summary": "USS Theodore Roosevelt (CVN-71), cruiser USS Chosin (CG 65) and destroyer USS Decatur (DDG 73) docked at Commander Fleet Activities Yokosuka (CFAY) at 9.20 a.m. local ti…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10023181-scaled.jpg",
-   "age": "16h ago",
+   "age": "20h ago",
    "published": "2026-10-16T12:32:29+00:00"
   },
   {
@@ -409,17 +406,6 @@
    "published": "2026-10-14T22:35:00+00:00"
   },
   {
-   "title": "Hendrick Motorsports Faces Fan Backlash Over Axalta Throwback Scheme",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ213UEtVRmo1Mk5Sb3FnRFhRQTJDU1lOSGRER0xFT09QQzI5Y0dIb2xTMTNTb09UNUZoUDk3SkNxRmxJSWNCZkZUYU9rLTMyYkRMZ2hucHlFWm1ZRFEwOE10NTgyRXc3Zy0yQndIa2hGaEhKOTM4Z201WjR2dXBNX19RVkZqMEtYVkpFazdVWmM?oc=5",
-   "source": "MotorBiscuit",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-10-14T21:00:22+00:00"
-  },
-  {
    "title": "Bears QB situation is ‘fluid’ but Caleb Williams’ return now feels imminent",
    "url": "https://allchgo.com/bears/bears-situation-fluid-caleb-williams-return-imminent/",
    "source": "CHGO Bears",
@@ -429,17 +415,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/14133904/2026-09-20T174323Z_812316220_MT1USATODAY29871783_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
    "age": "2d ago",
    "published": "2026-10-14T18:42:29+00:00"
-  },
-  {
-   "title": "Is Axalta Leaving NASCAR? William Byron Set for Final Ride With Longtime Sponsor",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbk1IckhqTnk0YnVGYW9vT3I3U3BjRDh0MnFocWx3NlFaZTdIZkRrbEJ0amtuTFJLa0xKbXUxR3FxQzEzdGZWTUVncXNrVVFyVzZ1VFotSlU1eVRxeDVCb0s2bldwRW4wOHVpb2gwcUkwXzNUOXhvQWN3YndZZnR4eTRITmF1dGRsUExNdQ?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-10-14T15:15:06+00:00"
   },
   {
    "title": "Cirque Italia brings acrobatics, comedy and big-top spectacle to Northwest Indiana",
@@ -462,6 +437,28 @@
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/24/d243cd63-e9d5-4036-ac6c-991a97e7a1f0/6ace7d7bd5694.image.jpg?resize=300%2C225",
    "age": "2d ago",
    "published": "2026-10-14T12:15:00+00:00"
+  },
+  {
+   "title": "10 Bears Things: Your 2026 Chicago Bears – a good but inconsistent football team",
+   "url": "https://allchgo.com/bears/10-bears-things-2026-good-inconsistent-football-team/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/13233028/10things_ArticleTemplate-5-1024x576.jpg",
+   "age": "2d ago",
+   "published": "2026-10-14T10:00:00+00:00"
+  },
+  {
+   "title": "Depot Dog for sale after 37 years. Owner hopes someone will keep the hot dogs coming",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_51f784d7-3067-4927-aeff-d953b40a12f7.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The iconic red caboose hot dog stand is for sale after storm damage forced owner Derrick Bass to reconsider his future while hoping a new owner will preserve the popular…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/2/5c/25cf1828-869a-4f08-970e-e21f7c0b358d/6acd3235b2e7b.image.jpg?resize=300%2C225",
+   "age": "3d ago",
+   "published": "2026-10-13T12:15:00+00:00"
   }
  ]
 }
