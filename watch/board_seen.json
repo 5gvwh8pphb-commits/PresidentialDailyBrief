@@ -5,6 +5,7 @@
   "lake-ridge|bajmakovich|appointed": "2026-10-05",
   "lake-ridge|deputy treasurer|other": "2026-10-05",
   "lake-station|christine pepa|hired": "2026-10-05",
+  "laporte|debruyn|appointed": "2026-10-18",
   "michigan-city|hart rieisha|hired": "2026-10-05",
   "michigan-city|katrina perry|other": "2026-10-05",
   "union-twp|becich kyle|hired": "2026-10-05"
@@ -23,8 +24,10 @@
    "gd:1Dtdy9W_gs9ObWGpGCtOL-cPiIrR3DL90",
    "gd:1FfMsqb_D3DKWdseRNo0GOn3oK5v6ZUzM",
    "gd:1I0XqKGjRGXn1N5DYGJe3vrozarN6v3rU",
+   "gd:1Lu7lmZ9l4cEnUZtmqmq915nc2JbY5JCQ",
    "gd:1MmdrDptezYVfpuU6dVTWggTaNRR36_p9",
    "gd:1Nw6cYMTc-avYx-vx0pTvVoug7_ZGg4Ch",
+   "gd:1PNGKkAgrlbllS0B-D1OgK8u9FUTtxCVS",
    "gd:1T_RkTa19ISU-nju9oy5SII6g8o6xzkaB",
    "gd:1UZXQXWmvUtBcGPX7ToB3gVkjWvuvjcJ2",
    "gd:1_W4_SaROzCy6mkNI6QoinwPgSC-QCPDo",
@@ -42,9 +45,13 @@
    "bd:duneland:/in/duneland/Board.nsf/files/DXJN845EA259/$file/Minutes%20Exec%20Session%20August%2010%202026%20Hicks.pdf",
    "bd:duneland:/in/duneland/Board.nsf/files/DXJN865EA38E/$file/Minutes%20August%2010%202026%20Hicks.pdf",
    "bd:duneland:/in/duneland/Board.nsf/files/DXS3NE07AB85/$file/Personnel%20Report%209.14.26%20Jenks.pdf",
+   "bd:duneland:/in/duneland/Board.nsf/files/DYMR9W6CF634/$file/Minutes%20Exec%20Session%20September%2014%202026%20Hicks.pdf",
+   "bd:duneland:/in/duneland/Board.nsf/files/DYMR9Z6CF7C5/$file/Minutes%20September%2014%202026%20Hicks.pdf",
+   "bd:duneland:/in/duneland/Board.nsf/files/DYNMNE5C0C0E/$file/Personnel%20Report%2010.12.26%20Jenks.pdf",
    "bd:duneland:DXDHQS49A524:ecbd58344b",
    "bd:duneland:DXDHVB4A4FE3:e23f8e334a",
    "bd:duneland:DXYM955A1AB1:6440390975",
+   "bd:duneland:DXYM955A1AB1:cda696b4f4",
    "bd:duneland:DYFLQB57A40B:32a1c6a79a"
   ],
   "epcsc": [
@@ -54,6 +61,7 @@
    "bd:epcsc:DVYP5A6270E2:f9e1918328",
    "bd:epcsc:DVYPDL642232:ea4a563201",
    "bd:epcsc:DVYPGY6469D7:2a83265645",
+   "bd:epcsc:DVYPGY6469D7:a9b82a9af9",
    "bd:epcsc:DWUHBE478DD0:ae551e40ce",
    "bd:epcsc:DWXMNU5C1BFC:ea24fe67d4",
    "bd:epcsc:DX3HHE489128:4bb739e5ee",
@@ -75,7 +83,8 @@
    "bd:hammond:DWMQC4687596:bef53d62e5",
    "bd:hammond:DXLL7V553B3A:06697c4f7e",
    "bd:hammond:DXRPAH63AE8E:acf8a40b57",
-   "bd:hammond:DYBR4E6C2968:b7d5f04557"
+   "bd:hammond:DYBR4E6C2968:b7d5f04557",
+   "bd:hammond:DYCLKL56F2BE:be02809705"
   ],
   "hanover": [
    "bd:hanover:DXDJ3E4B341B:7666a2fc0a",
@@ -621,7 +630,9 @@
    "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Oct.%2029%202025%20Executive%20Signed.pdf",
    "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Oct.%2029%202025%20Special%20Session%20Signed.pdf",
    "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/October%2012-2022%20Minutes.pdf",
+   "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/October%2014%20,%202026%20Building%20Corp%20Agenda.docx%20%283%29.pdf",
    "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/October%2014%20,%202026%20Building%20Corp%20Agenda.docx.pdf",
+   "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/October%2014,%202026%20Regular%20Session%20Agenda.docx%20%282%29.pdf",
    "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/October%2014,%202026%20Regular%20Session%20Agenda.docx.pdf",
    "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Regular%20Session%201-11-2023.pdf",
    "pg:https://www.westville.k12.in.us/UserFiles/Servers/Server_20573175/File/Reorganization%20Session%201_15_2025.docx.pdf",
@@ -690,6 +701,7 @@
    "bd:lpcsc:DWLPFR6472CF:2dc4df384d",
    "bd:lpcsc:DXRNUQ61A96D:06e19dc7eb",
    "bd:lpcsc:DXSLM7572EBB:a5e2c912de",
+   "bd:lpcsc:DXSLM7572EBB:d4b74fbef9",
    "bd:lpcsc:DXYPQM65BFDA:005fee7238"
   ],
   "mcas": [
@@ -701,10 +713,14 @@
   ],
   "msdboone": [
    "bd:msdboone:/in/msdboone/Board.nsf/files/DXRPH564A506/$file/Aug.%2011th%20signed%20minutes.pdf",
+   "bd:msdboone:/in/msdboone/Board.nsf/files/DYWMA35A3C92/$file/Sept%208th%20Signed%20Minutes.pdf",
+   "bd:msdboone:/in/msdboone/Board.nsf/files/DYWMEB5ADBFC/$file/Oct%2013th%20Ex%20Session%20Signed%20Minutes.pdf",
    "bd:msdboone:DXDMPQ5C3CDC:89a798b716",
    "bd:msdboone:DXJR7H6C9DE1:40b5d024b7",
+   "bd:msdboone:DXTLLR571C07:31791e32d3",
    "bd:msdboone:DXTLLR571C07:7d97b54434",
-   "bd:msdboone:DYPQRP6A95B6:31947c4e54"
+   "bd:msdboone:DYPQRP6A95B6:31947c4e54",
+   "bd:msdboone:DYPQRP6A95B6:d1ba95688b"
   ],
   "portage": [
    "bd:portage:/in/portage/Board.nsf/files/DX4GXG45EFB7/$file/MindPlay%20Renewal%20Memo.pdf",
@@ -716,14 +732,20 @@
    "bd:portage:/in/portage/Board.nsf/files/DYEHAU4799CD/$file/09.28.26%20Personnel%20Report.pdf",
    "bd:portage:/in/portage/Board.nsf/files/DYEJ3U4B42D5/$file/09.14.26%20Approved%20Minutes.pdf",
    "bd:portage:/in/portage/Board.nsf/files/DYGQ3R675F9F/$file/PHS%20Solar%20Recommendation%20Letter.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DYTH38467BE1/$file/09.28.26%20Approved%20Special%20Board%20Meeting%20Minutes.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DYTH3Y4697B6/$file/09.28.26%20Approved%20Board%20Meeting%20Minutes.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DYTH6P46B2FE/$file/Personnel%20DM%20Report%2010.12.26.pdf",
    "bd:portage:DEAPJN64E049:9e6a3b5a98",
    "bd:portage:DWTGJR440949:68d9531bf5",
    "bd:portage:DX3J384B2C50:c358679954",
    "bd:portage:DX3R8X6CD232:7be085fda9",
    "bd:portage:DXXLFK56393D:282767a786",
+   "bd:portage:DXXLFK56393D:666112813d",
    "bd:portage:DXXLFK56393D:839668228d",
+   "bd:portage:DY5GAB42D723:04c07bc894",
    "bd:portage:DY5GAB42D723:a4b8192f7c",
-   "bd:portage:DYGK565025FE:65fed22d90"
+   "bd:portage:DYGK565025FE:65fed22d90",
+   "bd:portage:DYGK565025FE:e13ffc3931"
   ],
   "tricreek": [
    "bd:tricreek:/in/tricreek/Board.nsf/files/DXSR896CB8A6/$file/Personnel%20Report%20%E2%80%94%20September%2010%2C%202026%20(1).pdf",
@@ -744,7 +766,9 @@
    "bd:valp:DWFNVY61BB7A:b9d2c400f6",
    "bd:valp:DWGRSB6F5F88:115170ca9a",
    "bd:valp:DWGRTL6F8D13:80468716ac",
-   "bd:valp:DXCUG87BF52E:5bbf3d0f1a"
+   "bd:valp:DWGRTL6F8D13:da99373170",
+   "bd:valp:DXCUG87BF52E:5bbf3d0f1a",
+   "bd:valp:DYMKLS526DFF:1e4024fd23"
   ],
   "whiting": [
    "bd:whiting:/in/whiting/Board.nsf/files/DX4KKG523A99/$file/Regular%20meeting%20minutes%20of%20July%2027%2C%202026.pdf",
