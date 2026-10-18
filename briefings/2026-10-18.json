@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-18",
+  "dateLabel": "Sunday, October 18, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-18T12:53:36Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~41h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, October 16, 2026 close — markets have been shut for the weekend since; Friday capped a down week as chipmakers and AI-linked tech names led declines.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,659.44", "change": "-84.62", "changePct": "-1.1%", "sixMo": "+8.8%" },
+        { "name": "Dow", "close": "52,002.41", "change": "-175.28", "changePct": "-0.3%", "sixMo": "+7.0%" },
+        { "name": "Nasdaq", "close": "26,140.03", "change": "-572.99", "changePct": "-2.1%", "sixMo": "+8.5%" }
+      ],
+      "body": "Micron fell 5.6% and Intel lost 5.8% as investors grew more worried about how long the AI infrastructure spending boom can last; the Nasdaq posted its steepest weekly loss since June and the S&P 500 also fell for the week, while the Dow still eked out a small weekly gain. Trading resumes Monday.",
+      "source": "AP via ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iran says Hormuz will reopen only once US forces leave the region",
+      "body": "An Iranian army spokesman said the Strait of Hormuz will reopen \"if America leaves the region,\" even as CENTCOM's Capt. Tim Hawkins insisted the waterway remains open to commercial shipping; the dueling claims came as Trump continues to say the US will not strike Iran before the November 3 midterms.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-trump-strait-hormuz-oil-prices-midterms-10-17-26"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Taiwan says it drove away 16 Chinese vessels in a coordinated 'maritime harassment' operation",
+      "body": "Taiwan's coast guard said it repelled 16 Chinese coast guard, research and fishing vessels operating simultaneously around Taiwan's main island and the Pratas Islands, calling the scale of the coordinated operation unusually large; the incident follows an October 1 water-cannon clash near Pratas that prompted Beijing to warn Taiwan it would \"bear the consequences.\"",
+      "source": "Malay Mail",
+      "url": "https://www.malaymail.com/news/world/2026/10/18/taiwan-says-it-drove-away-16-chinese-vessels-in-coordinated-maritime-harassment/239642"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "CENTCOM says most Iranian attacks on Hormuz shipping are failing as the US blockade continues",
+      "body": "A CENTCOM spokesman said the \"vast majority\" of Iran's attempted attacks on commercial vessels in the Strait of Hormuz have been unsuccessful, as US naval forces continue enforcing the blockade on Iranian ports and escorting shipping through the strait.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "North Korea says it tested a new AI-guided, high-speed torpedo",
+      "body": "State media KCNA said North Korea conducted an underwater test Thursday of a new torpedo system, the Cham-2.0, that uses artificial intelligence for target detection and guidance, built on more than 180 propulsion tests over five years; the test followed North Korean submarine-launched cruise missile tests and South Korea's first domestic hypersonic missile test the same week.",
+      "source": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/news/world/2026/10/17/north-korea-tests-new-ai-equipped-torpedo-kcna-says"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "FTC sends sweeping records demands to OpenAI and Anthropic over AI safety incidents",
+      "body": "The Federal Trade Commission issued civil investigative demands of more than 50 pages each to OpenAI and Anthropic, seeking documents on security incidents, safeguarding practices and marketing claims as part of a consumer-protection probe; the agency also plans to call AI executives to testify and send further demands to other AI firms.",
+      "source": "Axios via Gizmodo",
+      "url": "https://gizmodo.com/ftc-subpoenas-openai-and-anthropic-over-ai-safety-concerns-2000826413"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears plan to start Caleb Williams against the Falcons after a three-game absence",
+      "body": "ESPN reported Chicago plans to start quarterback Caleb Williams on Sunday at Atlanta despite his questionable designation, as he returns from the hamstring strain that sidelined him for three games; Williams has said the hamstring isn't fully healed, and coach Ben Johnson had declined to name a starter before Saturday's reports.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nfl/story/_/id/50201828/sources-bears-plan-start-qb-caleb-williams-vs-falcons"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new roster, sponsorship or schedule news on Byron surfaced within the 72-hour window; this week's coverage centers on the Round of 8 playoff race itself, which the spoiler rule bars from pre-reporting.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window beyond what prior briefs have already reported.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
