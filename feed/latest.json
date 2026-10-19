@@ -1,129 +1,153 @@
 {
- "generated": "2026-10-19T04:58:14+00:00",
+ "generated": "2026-10-19T10:30:13+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 38,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
   "Defense News",
   "Fox News",
+  "Heavy.com",
+  "MotorBiscuit",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
-   "url": "https://www.cnbc.com/2026/10/19/chinas-economic-growth-quickens-to-4point6percent-as-exports-surge-stimulus-rolls-out.html",
+   "title": "Tennessee beat Alabama, smoked cigars and helped fund Kalen DeBoer’s NIL fund with $500K field-storming fine",
+   "url": "https://www.foxnews.com/outkick-sports/tennessee-beat-alabama-smoked-cigars-helped-fund-kalen-deboer-nil-500k-field-storming-fine",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kalen DeBoer s Alabama squad fell 26-10 at Tennessee, and now the Vols owe a $500,000 SEC field storming fine to their hated rival s program.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/george-macintyre-tennessee-alabama-victory.jpg?ve=1&tl=1",
+   "age": "7m ago",
+   "published": "2026-10-19T10:23:03+00:00"
+  },
+  {
+   "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
+   "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108431077-1792384581637-gettyimages-2292460819-AFP_C6YU4V4.jpeg?v=1792384591&amp;w=1920&amp;h=1080",
-   "age": "21m ago",
-   "published": "2026-10-19T04:36:39+00:00"
+   "summary": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108321535-1781310783695-gettyimages-2280560635-SPACEX_IPO.jpeg?v=1781310835&amp;w=1920&amp;h=1080",
+   "age": "8m ago",
+   "published": "2026-10-19T10:21:39+00:00"
   },
   {
-   "title": "Florida Attorney General James Uthmeier secures state arrest warrant for Raúl Castro",
-   "url": "https://www.foxnews.com/us/florida-attorney-general-james-uthmeier-secures-state-arrest-warrant-raul-castro",
+   "title": "French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall",
+   "url": "https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "\"It looks like either the bond markets riot, or the people riot, or both,\" one analyst told CNBC.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108431303-1792391165675-gettyimages-2300261180-marchina-thousand261017_npCX0.jpeg?v=1792391198&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-10-19T10:18:43+00:00"
+  },
+  {
+   "title": "Everyone taking this long to see Los Angeles Rams not a Super Bowl favorite was NFL's dumbest moment of Week 6",
+   "url": "https://www.foxnews.com/outkick-sports/everyone-taking-long-see-los-angeles-rams-not-super-bowl-favorite-was-nfl-dumbest-moment-week-6",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A no-bond Florida arrest warrant charges Raúl Castro with conspiracy to commit first-degree murder in the 1996 Brothers to the Rescue shootdown.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/raul-castro-havana-appearance.jpeg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-10-19T04:15:33+00:00"
+   "summary": "The Los Angeles Rams have delivered one disappointing performance after another so far in a season they were expected to be Super Bowl favorites",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/matthew-stafford-rams-cardinals-sofi-stadium-fox-news_.jpg?ve=1&tl=1",
+   "age": "11m ago",
+   "published": "2026-10-19T10:18:37+00:00"
   },
   {
-   "title": "NFC East nearing second straight winless week as Packers beat struggling Cowboys on 'Sunday Night Football'",
-   "url": "https://www.foxnews.com/outkick-sports/nfc-east-nearing-second-straight-winless-week-packers-beat-struggling-cowboys-sunday-night-football",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jordan Love and the Green Bay Packers routed the Dallas Cowboys on Sunday Night Football as the NFC East s winless streak could hit two weeks.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/matthew-golden-touchdown-celebration-lambeau.jpg?ve=1&tl=1",
-   "age": "56m ago",
-   "published": "2026-10-19T04:02:12+00:00"
-  },
-  {
-   "title": "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
+   "title": "Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy",
    "url": "https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
    "summary": "The report comes amid mounting tensions between Ukraine and the United States, its largest military backer.",
    "image": "https://image.cnbcfm.com/api/v1/image/108372989-1791255404749-gettyimages-2229471059-2230320553.jpeg?v=1791572488&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-19T03:56:03+00:00"
+   "age": "16m ago",
+   "published": "2026-10-19T10:13:22+00:00"
   },
   {
-   "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-   "url": "https://www.cnbc.com/2026/10/19/france-protests-worst-in-years-unrest-macron-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "France’s worst unrest in years saw thousands arrested, prompting President Macron to vow an “uncompromising” response ahead of a critical budget vote.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108430331-1792370117297-gettyimages-2300132524-AFP_D3LE2JY.jpeg?v=1792370151&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-19T03:18:51+00:00"
-  },
-  {
-   "title": "Indonesian stocks plunge to six-year low as MSCI downgrade fears mount",
-   "url": "https://www.cnbc.com/2026/10/19/indonesian-stocks-msci-downgrade-fears-mount.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Indonesia's benchmark stock index plunged to its lowest level in six years.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108135857-1745474028422-gettyimages-816094118-alcibbum_206365-edit-2.jpeg?v=1745481811&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-19T03:00:33+00:00"
-  },
-  {
-   "title": "Arizona man accused of plotting mass casualty attack on religious site with 'cookbook' tied to OKC bombing",
-   "url": "https://www.foxnews.com/us/arizona-man-accused-plotting-mass-casualty-attack-religious-site-cookbook-tied-okc-bombing",
+   "title": "Prince Harry risks 'lobbing a grenade' at Prince William as chance to heal years-long feud emerges: expert",
+   "url": "https://www.foxnews.com/entertainment/prince-harry-risks-lobbing-grenade-prince-william-chance-heal-years-long-feud-emerges-expert",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Prosecutors accused an Arizona man of keeping the Oklahoma City bombing-linked Anarchist Cookbook as his Bible while allegedly plotting a religious site attack.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Matthew-Bjornholt-az-terror-suspect-book.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-19T02:45:56+00:00"
+   "summary": "Prince Harry s reported Princess Diana documentary plans could derail reconciliation with Prince William, royal experts warn of deepening rift.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Prince-William-Prince-Harry-Strain.jpg?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-10-19T10:00:42+00:00"
   },
   {
-   "title": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
-   "url": "https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says",
+   "title": "It took 3 months to get inside this massive Texas data center — here’s what we saw",
+   "url": "https://www.foxnews.com/politics/took-3-months-get-inside-massive-texas-data-center-heres-what-we-saw",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Around 6,000 seafarers remain trapped near the Strait of Hormuz as 24 ships face attacks, while Iran accuses the U.S. military of using VHF Channel 16.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/marines-hormuz.jpeg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-19T02:23:20+00:00"
+   "summary": "Compass Datacenters CEO Chris Crosby says the data center boom is fueling blue-collar jobs for electricians, mechanics and technicians in Red Oak, Texas.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/inside-data-center-hall.png?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-10-19T10:00:25+00:00"
   },
   {
-   "title": "Kevin Bacon pleads for help recovering missing FedEx package rerouted multiple times around the globe",
-   "url": "https://www.foxnews.com/entertainment/kevin-bacon-pleads-help-recovering-missing-fedex-package-rerouted-multiple-times-globe",
+   "title": "Mom accused of slaughtering husband, toddler at Great Wolf Lodge could face death penalty: PI",
+   "url": "https://www.foxnews.com/us/mom-accused-slaughtering-husband-toddler-great-wolf-lodge-could-face-death-penalty-pi",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Kevin Bacon s FedEx package of sentimental 90s clothes was shipped to Israel instead of Ireland and bounced through multiple countries since.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/kevinbacon.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-19T02:19:55+00:00"
+   "summary": "Metallica Rose Harrison could face the death penalty for the Great Wolf Lodge killings, but a private investigator says key legal hurdles remain.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/great-wolf-lodge-double-murder-mom-could-face-death-penalty.jpg?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-10-19T10:00:23+00:00"
   },
   {
-   "title": "China's CXMT sees shares drop over 6% as investors look past chipmaker's profit turnaround",
-   "url": "https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html",
+   "title": "Robot factories and hypersonic missiles: JPMorgan Chase’s first $5 billion of defense investments",
+   "url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "CXMT shares fell over 6% on Monday after the company released its earnings forecast for the first nine months of 2026.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108430238-1792369350714-gettyimages-2293594732-vcg111664074027.jpeg?v=1792369398&amp;w=1920&amp;h=1080",
+   "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+   "image": "https://image.cnbcfm.com/api/v1/image/106310265-1577120438176gettyimages-488164285.jpeg?v=1765554150&amp;w=1920&amp;h=1080",
+   "age": "30m ago",
+   "published": "2026-10-19T10:00:01+00:00"
+  },
+  {
+   "title": "A shifting landscape: Where the US Army moved in 2026 and what may be on the horizon",
+   "url": "https://www.defensenews.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "As seasons signal the waning months of 2026, the U.S. Army’s operational map continues to evolve.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/5NO2RPJJ3VEDVF5EDB3ZLNSKME.jpg",
+   "age": "30m ago",
+   "published": "2026-10-19T10:00:00+00:00"
+  },
+  {
+   "title": "US Army fields new system for sweeping munitions planning, management",
+   "url": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/HFGFKXLMJJCYLDBW6I4KFOMEBY.jpg",
+   "age": "1h ago",
+   "published": "2026-10-19T09:00:00+00:00"
+  },
+  {
+   "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+   "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/even-hospital.jpg?resize=1200,800",
    "age": "3h ago",
-   "published": "2026-10-19T01:56:34+00:00"
+   "published": "2026-10-19T07:30:00+00:00"
   },
   {
    "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
@@ -133,7 +157,7 @@
    "topic": "ai",
    "summary": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Benchmark2.jpg?w=799",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-10-18T21:00:00+00:00"
   },
   {
@@ -144,8 +168,19 @@
    "topic": "ai",
    "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-10-18T20:37:40+00:00"
+  },
+  {
+   "title": "Bessent warns Zelenskyy to 'be very careful' about claims U.S. is throttling Starlink",
+   "url": "https://www.cnbc.com/2026/10/18/bessent-zelenskyy-starlink-ukarine-war.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Starlink, high-speed satellite internet provided by Elon Musk's SpaceX, is critical to Ukraine's defense.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108374303-1791396694329-gettyimages-2298464628-AFP_D2JK6CL.jpeg?v=1791396718&amp;w=1920&amp;h=1080",
+   "age": "14h ago",
+   "published": "2026-10-18T19:37:28+00:00"
   },
   {
    "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
@@ -155,7 +190,7 @@
    "topic": "ai",
    "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/V8_PHASE-1_LOBTS.jpg?resize=1200,900",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-10-18T19:03:38+00:00"
   },
   {
@@ -166,7 +201,7 @@
    "topic": "defense",
    "summary": "It is a scaled-down version of the first and was built by Guangzhou Shipyard International, which is well-known for pumping out special use vessels. The post Second Chin…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/China-Submarine-Drone-mothership-2-copy.jpg?quality=85",
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-10-18T18:31:41+00:00"
   },
   {
@@ -177,7 +212,7 @@
    "topic": "ai",
    "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another …",
    "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-10-18T16:30:00+00:00"
   },
   {
@@ -188,19 +223,8 @@
    "topic": "ai",
    "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-10-18T16:25:19+00:00"
-  },
-  {
-   "title": "TechCrunch Mobility: Rivian’s next act",
-   "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Techcrunch-disrupt-RJ-Scaringe.jpg?resize=1200,801",
-   "age": "12h ago",
-   "published": "2026-10-18T16:05:00+00:00"
   },
   {
    "title": "US arms firm Anduril could make interceptors in Europe, executive says",
@@ -210,8 +234,19 @@
    "topic": "defense",
    "summary": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/MWQFBODP3FGVJDPSFCO4CJOOAU.png",
-   "age": "13h ago",
+   "age": "18h ago",
    "published": "2026-10-18T15:40:14+00:00"
+  },
+  {
+   "title": "William Byron Admits 2026 Has Been ‘a Struggle’",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFVqNmtkaDdBbDlKZ1NzeThpNC1tMk1Bb2hkVG5IaG5ZWmRhVWctVXlLM1R5dmpYV1JWaE9jSzdGRGFKcGtxVFRMcFpnOGUtNlRxc1pHM3dTc0NrMWF3dXJHV2hhZVltcURwajZWd0lLYmw5TkJVbnNhOGFkTzN1ag?oc=5",
+   "source": "MotorBiscuit",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-10-17T21:46:19+00:00"
   },
   {
    "title": "Where Are The Aircraft Carriers?: October 17, 2026",
@@ -335,26 +370,15 @@
    "published": "2026-10-16T18:39:22+00:00"
   },
   {
-   "title": "US Army’s 8th Psychological Operations Group inactivated",
-   "url": "https://www.defensenews.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Army's 8th Psychological Operations Group inactivated as the service reshapes its PSYOP and information warfare forces to counter global adversaries.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JAEQHCL6RFDZLFZFT54SLE7MOY.jpg",
+   "title": "NASCAR Cup Series Driver Addresses Explosive Hendrick Motorsports Rumors Fueled by Denny Hamlin",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdWFHMFItNDJFclZxQjZjOWF1UEhkMmNUVFZkQmp1bHpzWEtKem9BRkNlbGJfNlJZVUUtcVF0WUFxQ0NfWTNpZUdoYzlraEUtU3I1OUZmNk9Id2FCVVRTWmVzcWdDVDVxQnA2TGw1eHNnS3ZYeG5KNjVlbkZQbG5oT09FT3d0aThOT2lpUXoySVZQT3Rkd3lDcmZ4ZDFuODFDTVRxWUQyZ0lYWWVmbFhGbkdKTmtsNGRzbEhjbmVJNmV5LUl0M2lR?oc=5",
+   "source": "Heavy.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
    "age": "2d ago",
-   "published": "2026-10-16T18:30:00+00:00"
-  },
-  {
-   "title": "Arizona Guard first to field Gray Eagle 25M drone",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The state will receive 12 of the unmanned aircraft systems by the end of 2029.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KDKHUMFQCVGJBDIDXLU7CNHYJI.jpg",
-   "age": "2d ago",
-   "published": "2026-10-16T17:30:00+00:00"
+   "published": "2026-10-16T17:22:00+00:00"
   },
   {
    "title": "Army Lays Out New Plan for Prolonged Fight in First Island Chain",
@@ -423,17 +447,6 @@
    "published": "2026-10-16T11:02:00+00:00"
   },
   {
-   "title": "Latvian official warns Russia ‘tempted to test’ European readiness, sounds alarm over border issues",
-   "url": "https://breakingdefense.com/2026/10/latvian-official-warns-russia-tempted-to-test-european-readiness-sounds-alarm-over-border-issues/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Airis Rikveilis, the state secretary at Latvia’s Ministry of Defense, told Breaking Defense the military and border guards are working jointly to stem the tide of illega…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9655801-scaled-e1787078220840-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-10-16T10:00:00+00:00"
-  },
-  {
    "title": "Navy Civilianizes Six Former Flag Billets, Reduces Six to Captains",
    "url": "https://news.usni.org/2026/10/15/navy-civilianizes-six-former-flag-billets-reduces-six-to-captains",
    "source": "USNI News",
@@ -443,17 +456,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2024/03/Flag_of_the_United_States_Navy.svg.png",
    "age": "3d ago",
    "published": "2026-10-15T21:28:58+00:00"
-  },
-  {
-   "title": "Japan Wants to Sell Air Defense, Maritime Surveillance Systems to Philippine Forces",
-   "url": "https://news.usni.org/2026/10/15/japan-wants-to-sell-air-defense-maritime-surveillance-systems-to-philippine-forces",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "MANILA, Philippines — Japan wants to sell air defense, maritime surveillance and counter-drone systems to the Philippines amid its push to bolster forces in the South Ch…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/39938352101_346439f056_b.jpg",
-   "age": "3d ago",
-   "published": "2026-10-15T18:16:23+00:00"
   }
  ]
 }
