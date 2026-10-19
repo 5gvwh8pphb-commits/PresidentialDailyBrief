@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-19",
+  "dateLabel": "Monday, October 19, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-19T15:58:49Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~68h ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, October 16, 2026 close — stocks fell for the week as chipmakers and AI-linked tech names led declines; markets have been shut since for the weekend, with trading resuming today.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,659.44", "change": "-1.9%", "heroLabel": "week", "sixMo": "+8.8%" },
+        { "name": "Dow", "close": "52,002.41", "change": "+0.7%", "heroLabel": "week", "sixMo": "+7.0%" },
+        { "name": "Nasdaq", "close": "26,140.03", "change": "-4.5%", "heroLabel": "week", "sixMo": "+8.5%" }
+      ],
+      "body": "Micron fell 5.6% and Intel lost 5.8% on Friday alone as investors grew more cautious about how long the AI infrastructure buildout can keep running hot; the Nasdaq posted its worst week since June and the S&P 500 also fell for the week, while the Dow managed a small weekly gain on strength in industrials and financials.",
+      "source": "AP via ABC News",
+      "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Trump weighs joining Saudi strikes on Houthis as Russia's Lavrov holds Hormuz talks in Tehran",
+      "body": "Trump said he is considering joining Saudi Arabia's military operations against the Iran-backed Houthis after they attacked Saudi targets, prompting a Houthi warning of \"swift and painful\" retaliation against US interests; the same day, Russian Foreign Minister Sergey Lavrov arrived in Tehran for his first visit since the war began, saying his talks were aimed at \"preventing the return of a large-scale war,\" as Washington issued a security alert urging Americans in the Middle East to exercise heightened vigilance.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan's military will use civilian boats and planes to map Chinese invasion landing sites",
+      "body": "Taiwan's Ministry of National Defense said it will contract private survey firms to use fishing boats with sonar and chartered aircraft with LiDAR to map four to 20 potential Chinese amphibious landing sites, including Zhuwei, Wazihwei and Sishu, to speed planning of defensive mine-laying and obstacles; a senior military official said the approach, which limits civilians to collecting raw data only, would let the military gather coastal intelligence dozens of times faster than before.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/18/2003866157"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "UKMTO calls October the worst month for Hormuz tanker attacks since the war began, after a tugboat is hit off the UAE",
+      "body": "The UK Maritime Trade Operations center recorded 10 attacks on commercial vessels in and around the Strait of Hormuz in the week leading into Sunday, calling it the worst month for such attacks since the US-Iran war began in February; a tugboat off the UAE coast was struck by two unidentified projectiles Sunday, causing one minor injury, as the US Navy continues enforcing its blockade on Iranian ports.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new military technology development from a reputable outlet surfaced within the past 72 hours; the most recent qualifying items, from last week's AUSA conference, fell outside the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic will commit 5% of its shares to a new 'public benefit fund'",
+      "body": "Anthropic announced it will dedicate 5% of company shares, subject to stockholder approval, to a new Anthropic Public Benefit Fund, with the board able to add 2% more for every 50% rise in the company's value; the fund will go to nonprofits and direct distributions aimed partly at addressing AI's labor-market disruption, building on $200 million Anthropic has already committed to studying that impact, and will not be used for lobbying or political donations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears activate CB Kyler Gordon off PUP, place DL Dayo Odeyingbo on injured reserve",
+      "body": "Chicago activated cornerback Kyler Gordon from the reserve/PUP list, signed defensive back Nick McCloud to the active roster, placed defensive lineman Dayo Odeyingbo on injured reserve, and released defensive back Xavier Woods; the team also elevated linebacker Buddy Johnson and running back Zavier Scott from the practice squad for Sunday's game at Atlanta.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/chicago-bears-announce-roster-moves-october-17-2026"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "This week's only Byron storyline is the Round of 8 opener at Phoenix itself, which the spoiler rule bars from pre-reporting; no new roster, sponsorship or schedule news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window beyond what prior briefs have already reported.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
