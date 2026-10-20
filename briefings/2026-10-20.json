@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-20",
+  "dateLabel": "Tuesday, October 20, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-20T13:56:04Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, October 19, 2026 close — a tech-led rebound snapped semiconductors' longest losing streak since 2008, though gains outside AI and chip names were thin.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,690.73", "change": "+31.29", "changePct": "+0.41%", "sixMo": "+8.0%" },
+        { "name": "Dow", "close": "51,966.03", "change": "-36.38", "changePct": "-0.07%", "sixMo": "+5.2%" },
+        { "name": "Nasdaq", "close": "26,430.89", "change": "+290.86", "changePct": "+1.11%", "sixMo": "+8.5%" }
+      ],
+      "body": "The Philadelphia Semiconductor Index rose 1.6%, ending an eight-session skid, with Amazon, Palantir and Tesla among the Nasdaq's biggest gainers; breadth stayed weak as NYSE decliners outnumbered advancers 1,761 to 945, and rising Treasury yields pressured utilities, banks and real estate.",
+      "source": "Investrade",
+      "url": "https://investrade.com/market-review-october-19-2026/"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "UK to fly RAF jets over Saudi Arabia against Houthi strikes as Qatar says US-Iran talks continue",
+      "body": "Britain said it will expand military support for Saudi Arabia, including RAF Typhoon jets flying defensive counter-air patrols (not strikes inside Yemen) to guard against Houthi attacks, as the death toll from a Houthi ballistic missile strike on a Yemeni army training camp rose to 73, mostly recruits aged 18 to 20; Qatar's foreign ministry said indirect US-Iran negotiations are still ongoing and warned that unchecked escalation could push the conflict beyond the region.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US commission chair calls new Chinese carrier patrols near Taiwan 'destabilizing'",
+      "body": "Taiwan's defense ministry said it is tracking a Chinese navy carrier group led by the Liaoning that sailed into the western Pacific for training, part of a near-daily pattern that included 5 PLA aircraft sorties and 6 PLAN vessels around the island by Monday morning, three of which crossed the median line; the chair of a US congressional commission called the patrols to Taiwan's east \"destabilizing,\" while Taiwan's National Security Council said China has no legal claim to those waters.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/20/2003866305"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Iran claims another US MQ-9 Reaper downed over Hormuz as Hegseth makes unannounced visit to Israel",
+      "body": "Iran's military said it destroyed another US MQ-9 Reaper drone over the Strait of Hormuz, part of losses a September Congressional Budget Office report put at more than 24 MQ-9s, two MQ-1s and an MQ-4C Triton since the war began; separately, Defense Secretary Pete Hegseth made an unannounced visit to Israel and met Prime Minister Netanyahu, confirming on X he was inside US Central Command's area of responsibility addressing troops, as the Navy continued striking vessels tied to its blockade of Iranian ports.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-russia-strait-of-hormuz/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Pentagon's new drone/AI command tests autonomous mine-clearing trucks as Senate adds weapons oversight rules",
+      "body": "Defense Secretary Pete Hegseth's newly announced command to speed military use of drones and AI includes the Sandhills Project at Fort Bragg, where a demonstration used self-driving Ford pickups with roof-mounted robotic guns to shoot down drones and a rocket-launched hose that fires explosive slurry to clear minefields, with a human kept \"on the loop\" to intervene; the Senate Armed Services Committee separately added provisions to the pending defense bill requiring human oversight of AI-controlled weapons and barring AI from nuclear-launch decisions or domestic surveillance.",
+      "source": "WUNC News via WHRO",
+      "url": "https://www.whro.org/military-veterans/2026-10-20/as-the-military-plans-to-speed-up-the-use-of-drones-and-ai-in-warfare-congress-considers-safeguards"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Musk counters Anthropic's worker-fund pledge with a call to give SpaceX shares to every US child",
+      "body": "Anthropic's planned Public Benefit Fund, pledging 5% of company shares toward nonprofits and possible direct payments to workers displaced by AI, is structured as a wholly owned LLC subsidiary that keeps Anthropic in control, pending shareholder approval; Elon Musk responded on X by first urging Anthropic to give its shares directly to the public, then proposing SpaceX give one $146 share to each of the roughly 72 million children in the US next year, a roughly $10.5 billion idea he called \"the first of many.\"",
+      "source": "The Decoder",
+      "url": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~today",
+      "empty": false,
+      "headline": "Bears guard Jonah Jackson sits out Monday practice with hip/quad injury ahead of Thursday's Patriots game",
+      "body": "Jonah Jackson did not practice Monday on Chicago's estimated injury report after getting hurt in Sunday's game, with backup Luke Newman filling in; linebackers T.J. Edwards (hamstring) and Jack Sanborn (concussion) and running back Kyle Monangai (thumb/toe) also sat out, while cornerback Tyrique Stevenson and linebacker Keyshaun Elliott were both estimated to return to practice ahead of Thursday night's game against the Patriots at Soldier Field.",
+      "source": "Shaw Local",
+      "url": "https://www.shawlocal.com/bears/2026/10/20/chicago-bears-injury-report-jonah-jackson-misses-practice-monday-in-estimated-report/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "NASCAR moved the Round of 8 opener to Phoenix on October 18, so the only Byron storyline this week is that race itself, which the spoiler rule bars from pre-reporting; no new roster, sponsorship or schedule news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window beyond what prior briefs have already reported.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
