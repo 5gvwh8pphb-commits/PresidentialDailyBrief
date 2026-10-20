@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T19:26:46+00:00",
+ "generated": "2026-10-20T22:28:34+00:00",
  "count": 40,
  "withImage": 39,
  "bearsDay": true,
@@ -13,6 +13,7 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "MotorBiscuit",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
@@ -21,59 +22,136 @@
  ],
  "items": [
   {
-   "title": "Trader Joe's has 30 new stores in the works — find out where they're opening",
-   "url": "https://www.foxnews.com/food-drink/trader-joes-has-30-new-stores-works-find-out-where-theyre-opening",
+   "title": "NFL, Saints address plans for Paris game during Week 6 as protests escalate in France",
+   "url": "https://www.cbssports.com/nfl/news/nfl-saints-address-paris-game-plans-week-6-protests/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/d761f43c-b902-4438-a72b-633954f2fb49/paris-france.jpg",
+   "age": "2m ago",
+   "published": "2026-10-20T22:26:16+00:00"
+  },
+  {
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\"…",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+   "age": "4m ago",
+   "published": "2026-10-20T22:24:02+00:00"
+  },
+  {
+   "title": "Kate Middleton brings back Princess Diana's famous tiara for glamorous night alongside Prince William",
+   "url": "https://www.foxnews.com/entertainment/kate-middleton-brings-back-princess-diana-famous-tiara-glamorous-night-prince-william",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Popular grocery store Trader Joe s is adding 30 new stores across 16 states, with Illinois leading the expansion at four planned locations on the coming soon list.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/customer-shopping-at-trader-joes.jpeg?ve=1&tl=1",
-   "age": "9m ago",
-   "published": "2026-10-20T19:17:28+00:00"
+   "summary": "Kate Middleton chose Queen Mary s Lover s Knot tiara and a yellow Elie Saab gown for the Oman state banquet at Windsor Castle alongside Prince William.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Kate-Middleton-October-2026-Banquet-Prince-William.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-10-20T22:12:57+00:00"
   },
   {
-   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+   "title": "Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings",
+   "url": "https://www.foxnews.com/travel/vacation-spot-slapped-us-travel-warning-over-crime-sexual-assaults-kidnappings",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Citing violent crime, kidnapping, terrorism and health risks across the popular safari destination, the U.S. State Department raised Kenya s travel advisory to Level 3.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/kenya.jpg?ve=1&tl=1",
+   "age": "15m ago",
+   "published": "2026-10-20T22:12:36+00:00"
+  },
+  {
+   "title": "Carmelo Anthony says LeBron James and 76ers can be 'problem for everyone,' including reigning-champion Knicks",
+   "url": "https://www.foxnews.com/outkick-sports/carmelo-anthony-says-lebron-james-76ers-problem-everyone-including-reigning-champion-knicks",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Carmelo Anthony said LeBron James and the Philadelphia 76ers could be a major problem for everyone in the East, including the New York Knicks.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/lebron-james-76ers-locker-room-media-day.jpg?ve=1&tl=1",
+   "age": "17m ago",
+   "published": "2026-10-20T22:10:45+00:00"
+  },
+  {
+   "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
+   "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108327067-1792519521637-108327067-1782417101819-gettyimages-2283316440-_24a0872_jiglfdso.jpeg?v=1792519640&amp;w=1920&amp;h=1080",
-   "age": "13m ago",
-   "published": "2026-10-20T19:13:46+00:00"
+   "summary": "The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification.",
+   "image": "https://image.cnbcfm.com/api/v1/image/107256667-1686758918936-gettyimages-1241994057-farnborough_airshow-22-18-07-2022.jpeg?v=1690473506&amp;w=1920&amp;h=1080",
+   "age": "27m ago",
+   "published": "2026-10-20T22:01:11+00:00"
   },
   {
-   "title": "Why your VPN keeps triggering extra security checks",
-   "url": "https://www.foxnews.com/tech/why-vpn-keeps-triggering-extra-security-checks",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A dedicated VPN IP address may reduce frustrating CAPTCHAs and bank login security checks by giving websites a consistent connection to recognize.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/man-working-on-laptop.jpg?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-10-20T19:00:34+00:00"
+   "title": "Chicago Bears week 7 power rankings roundup",
+   "url": "https://www.windycitygridiron.com/chicago-bears-power-rankings/125733/chicago-bears-week-7-power-rankings-roundup",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2300843942.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "28m ago",
+   "published": "2026-10-20T22:00:00+00:00"
   },
   {
-   "title": "‘Feminists Lied’ tour aims to challenge abortion, feminism narratives on college campuses",
-   "url": "https://www.foxnews.com/media/feminists-lied-tour-aims-challenge-abortion-feminism-narratives-college-campuses",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Turning Point USA and Students for Life of America launched the Feminists Lied: Prove Me Wrong tour, continuing Charlie Kirk s legacy on campuses.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/KRISTAN-HAWKINS-STUDENTS-FOR-LIFE-OF-AMERICA-1.jpg?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-10-20T19:00:15+00:00"
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for NBA Opening Night, Knicks-76ers, Thunder-Spurs",
+   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nba-opening-night-knicks-76ers-thunder-spurs/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
+   "age": "51m ago",
+   "published": "2026-10-20T21:37:27+00:00"
   },
   {
-   "title": "Alaska’s HAARP Site Now Being Used To Test New Air Force Over-The-Horizon Radar Tech",
-   "url": "https://www.twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
+   "title": "Major Ukrainian Arms Maker Rethinking Future Reliance On Starlink",
+   "url": "https://www.twz.com/news-features/major-ukrainian-arms-maker-rethinking-future-reliance-on-starlink",
    "source": "The War Zone",
    "group": "The War Zone",
    "topic": "defense",
-   "summary": "The pursuit of over-the-horizon radars to watch over the strategic High North could point to a new role for the HAARP site. The post Alaska s HAARP Site Now Being Used T…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/haarp-site-oth-radar-testing-alaska-arctic.jpg?quality=85",
-   "age": "31m ago",
-   "published": "2026-10-20T18:55:29+00:00"
+   "summary": "Reducing the speed at which weapons using Starlink can operate affects critical defensive and offensive weapons, but any alternatives have massive drawbacks. The post Ma…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/Starlink-drone-ukraine.jpg?quality=85",
+   "age": "57m ago",
+   "published": "2026-10-20T21:30:49+00:00"
+  },
+  {
+   "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
+   "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
+   "image": "https://image.cnbcfm.com/api/v1/image/108433657-1792434928136-gettyimages-2285761608-boivin-photoill260716_np807.jpeg?v=1792518234&amp;w=1920&amp;h=1080",
+   "age": "58m ago",
+   "published": "2026-10-20T21:30:06+00:00"
+  },
+  {
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons …",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+   "age": "1h ago",
+   "published": "2026-10-20T21:25:22+00:00"
+  },
+  {
+   "title": "VIDEO: USS San Antonio Returns Home From Split Deployment",
+   "url": "https://news.usni.org/2026/10/20/video-uss-san-antonio-returns-home-from-split-deployment",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Amphibious transport dock USS San Antonio (LPD-17) returned from its two-part deployment of 2026 on Friday. Over the past 14 months, the amphibious ship spent all but tw…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/10/10028634-1-scaled.jpg",
+   "age": "1h ago",
+   "published": "2026-10-20T20:56:35+00:00"
   },
   {
    "title": "Eagles will not be punished for how team handled Jalen Hurts' blood clots situation, per report",
@@ -83,52 +161,107 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/20/129265bc-42b7-4899-ab91-91faf18f0b91/hurts.jpg",
-   "age": "32m ago",
-   "published": "2026-10-20T18:53:48+00:00"
+   "age": "1h ago",
+   "published": "2026-10-20T20:54:56+00:00"
   },
   {
-   "title": "On the streets with Dr Oz as surprise fraud crackdown sends daycare directors scrambling",
-   "url": "https://www.foxnews.com/politics/streets-dr-oz-surprise-fraud-crackdown-sends-daycare-directors-scrambling",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Dr. Mehmet Oz personally confronted staff at two Queens senior care centers over suspicious Medicaid billing, wheelchair charges and attendance records.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/dr-oz-mahjong.jpg?ve=1&tl=1",
-   "age": "39m ago",
-   "published": "2026-10-20T18:47:07+00:00"
+   "title": "Finland To Build A Million Landmines As Russian Threat Looms",
+   "url": "https://www.twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Helsinki is moving to restart domestic production of once-outlawed anti-personnel mines as Russia rebuilds its military posture along NATO’s northern flank. The post Fin…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/Finland-anti-personnel-mine.jpg?quality=85",
+   "age": "1h ago",
+   "published": "2026-10-20T20:53:28+00:00"
   },
   {
-   "title": "Mr. Irrelevant to Mr. Efficient: How Brock Purdy became NFL's all-time passer rating king",
-   "url": "https://www.cbssports.com/nfl/news/mr-irrelevant-to-mr-efficient-brock-purdy-nfls-all-time-passer-rating/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
+   "title": "SpaceX’s AI business is beating expectations",
+   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
+   "age": "1h ago",
+   "published": "2026-10-20T20:40:41+00:00"
+  },
+  {
+   "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
+   "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108291389-1776197623988-gettyimages-2268673407-pn028980.jpeg?v=1779295760&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-20T20:23:58+00:00"
+  },
+  {
+   "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+   "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "A lifetime ad-free subscription is available.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-1152x648.png",
+   "age": "2h ago",
+   "published": "2026-10-20T20:20:12+00:00"
+  },
+  {
+   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-10-20T20:07:58+00:00"
+  },
+  {
+   "title": "Gemini's Personal Intelligence is coming to cars",
+   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "It's probably time to audit your Gemini settings.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png",
+   "age": "2h ago",
+   "published": "2026-10-20T20:00:33+00:00"
+  },
+  {
+   "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Medal of Honor recipient Dakota Meyer was selected as Secretary Hegseth's senior advisor and will visit military installations across the country.",
+   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/NQBLE7JWBNBTBNDCAVEJ5G2B5I.jpg",
+   "age": "2h ago",
+   "published": "2026-10-20T19:32:18+00:00"
+  },
+  {
+   "title": "10 Thoughts on the NFL: Eagles failed Jalen Hurts, Travis Hunter Emerges, Bad QBs, and more",
+   "url": "https://www.windycitygridiron.com/general/125728/10-thoughts-on-the-nfl-eagles-failed-jalen-hurts-travis-hunter-emerges-bad-qbs-and-more",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
    "topic": "bears",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/20/43600517-eb0a-410b-88ce-5cc527bc05d7/gettyimages-2300010209-1.jpg",
-   "age": "47m ago",
-   "published": "2026-10-20T18:39:24+00:00"
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2299178404.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "2h ago",
+   "published": "2026-10-20T19:31:08+00:00"
   },
   {
-   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-   "age": "48m ago",
-   "published": "2026-10-20T18:38:24+00:00"
-  },
-  {
-   "title": "ChatGPT now lets you lock your chats",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations pr…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-   "age": "49m ago",
-   "published": "2026-10-20T18:36:53+00:00"
+   "title": "Alaska’s HAARP Site Now Being Used To Test New Air Force Over-The-Horizon Radar Tech",
+   "url": "https://www.twz.com/news-features/alaskas-haarp-site-now-being-used-to-test-new-air-force-over-the-horizon-radar-tech",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The pursuit of over-the-horizon radars to watch over the strategic High North could point to a new role for the HAARP site. The post Alaska s HAARP Site Now Being Used T…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/haarp-site-oth-radar-testing-alaska-arctic.jpg?quality=85",
+   "age": "3h ago",
+   "published": "2026-10-20T18:55:29+00:00"
   },
   {
    "title": "Japan Reports Surge in Airspace Violations by Chinese, Russian Aircraft",
@@ -138,19 +271,8 @@
    "topic": "defense",
    "summary": "Japan saw a surge in airspace violations by Chinese and Russian aircraft during the first half of Fiscal Year 2026 following a decrease in 2025. The Japan Air Self-Defen…",
    "image": "https://news.usni.org/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-2.46.48-PM.png",
-   "age": "52m ago",
+   "age": "3h ago",
    "published": "2026-10-20T18:34:13+00:00"
-  },
-  {
-   "title": "Mike Bloomberg spent $80M to boost Democrats in midterms: NYT",
-   "url": "https://www.cnbc.com/2026/10/20/mike-bloomberg-democrats-house-trump.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Democrats are hopeful that they will regain majority control of the House of Representatives and the Senate in November's elections.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108438234-1792517403300-gettyimages-2215514115-varittyakkal-qatareco250520_npJo0.jpeg?v=1792517431&amp;w=1920&amp;h=1080",
-   "age": "55m ago",
-   "published": "2026-10-20T18:30:53+00:00"
   },
   {
    "title": "Chicago s best things to do, see, and eat before heading to a Bears game",
@@ -160,30 +282,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2252274620.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "56m ago",
+   "age": "3h ago",
    "published": "2026-10-20T18:30:00+00:00"
-  },
-  {
-   "title": "Are the Rams cooked? A look at why Sean McVay's team is so disappointing, and if they can bounce back",
-   "url": "https://www.cbssports.com/nfl/news/inside-look-at-why-rams-are-so-disappointing/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/20/025136f5-14d6-4a5a-b8d4-84ad79ce9f5e/rams.jpg",
-   "age": "1h ago",
-   "published": "2026-10-20T18:26:41+00:00"
-  },
-  {
-   "title": "Traders are betting Netflix's stock drama may be coming to an end",
-   "url": "https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Current options prices are implying a 9% post-earnings move for Netflix, which is the highest since its Q3 2022 report, when it was priced for an 11% move.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108433655-1792434926199-gettyimages-2278385049-yanow-netflix260529_npZGP.jpeg?v=1792519748&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-20T18:10:13+00:00"
   },
   {
    "title": "Pentagon weighs force posture, costs of rebuilding Middle East bases",
@@ -193,19 +293,8 @@
    "topic": "defense",
    "summary": "“We re meeting with CENTCOM and doing the assessments right now from an installation perspective. Part of this is what will the global posture be in the future, and what…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/10032396-scaled-e1792516454507-1024x577.jpg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-10-20T18:06:00+00:00"
-  },
-  {
-   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Eric-Schmidt.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-10-20T17:55:12+00:00"
   },
   {
    "title": "US Army support for Golden Dome missile shield takes shape",
@@ -215,7 +304,7 @@
    "topic": "defense",
    "summary": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/RGMZ7JZQ3BAK3FAFM225YCJ3HU.jpg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-10-20T17:30:40+00:00"
   },
   {
@@ -226,7 +315,7 @@
    "topic": "defense",
    "summary": "Another component in deterring Russia, Acting Chief of the Norwegian Army Trond Nilsen told Breaking Defense, is having the Finnmark Brigade fully operational by 2032-20…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/AUSA2026-W-30-1024x576.jpg",
-   "age": "2h ago",
+   "age": "5h ago",
    "published": "2026-10-20T17:13:00+00:00"
   },
   {
@@ -237,19 +326,8 @@
    "topic": "defense",
    "summary": "The fighter jet’s pilot served as an airborne “quarterback” and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/BZ67YJACQVBP3KX45W6I3CLBFQ.jpg",
-   "age": "2h ago",
+   "age": "5h ago",
    "published": "2026-10-20T17:00:21+00:00"
-  },
-  {
-   "title": "China built more than twice naval tonnage of US in 2024-25: Euronaval",
-   "url": "https://www.defensenews.com/naval/2026/10/20/china-built-more-than-twice-naval-tonnage-of-us-in-2024-25-euronaval/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "China built more than twice the naval tonnage of the U.S. in the 2024-25 period, narrowing the gap between the two countries’ navies, a new report says.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/PWFEX2V4IZHOVHWX4EO475J6RE.jpg",
-   "age": "2h ago",
-   "published": "2026-10-20T16:57:56+00:00"
   },
   {
    "title": "Northrop sees growing commercial market for microelectronics products",
@@ -259,19 +337,8 @@
    "topic": "defense",
    "summary": "“We could continue to solely invest in it ourselves with the support of our current shareholders. We could think about broadening that base of investments, or we could t…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/23-0921-SP-JAF-D1_Microelectronics_Foundry-0095-scaled-e1758208111804-1024x577.jpg",
-   "age": "2h ago",
+   "age": "5h ago",
    "published": "2026-10-20T16:55:51+00:00"
-  },
-  {
-   "title": "Ghost Shark Extra-Large Uncrewed Underwater Vehicles’ Payload Bay Seen For First Time",
-   "url": "https://www.twz.com/sea/ghost-shark-extra-large-uncrewed-underwater-vehicles-payload-bay-seen-for-first-time",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Ghost Shark will deploy aerial drones, lay mines, and execute seabed resupply missions as part of Australia’s new undersea arsenal. The post Ghost Shark Extra-Large Uncr…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/Ghost-shark-Payload.jpg?quality=85",
-   "age": "2h ago",
-   "published": "2026-10-20T16:53:07+00:00"
   },
   {
    "title": "Chinese Navy Shadows USS Charleston Near Contested Sabina Shoal",
@@ -281,30 +348,8 @@
    "topic": "defense",
    "summary": "MANILA, Philippines — USS Charleston (LCS-18) was tracked by Chinese forces on Tuesday after the ship “illegally intruded” into the area surrounding a contested South Ch…",
    "image": "https://news.usni.org/wp-content/uploads/2023/06/7618160-3-scaled.jpg",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-10-20T15:55:24+00:00"
-  },
-  {
-   "title": "Polestar tries to quantify what it’s like to drive a performance car",
-   "url": "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Drivers had electrodes strapped to their heads as they tested EVs on track.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg",
-   "age": "4h ago",
-   "published": "2026-10-20T14:53:07+00:00"
-  },
-  {
-   "title": "CNO Caudle’s ‘Fit to Fight’ C-Note to the Fleet",
-   "url": "https://news.usni.org/2026/10/20/cno-caudles-fit-to-fight-c-note-to-the-fleet",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following is the Oct. 19, 2026, CNO Note – or “C-Note” – to the fleet from Chief of Naval Operations Adm. Daryl Caudle. The “Total Sailor: Fit to Fight” C-Note is th…",
-   "image": null,
-   "age": "4h ago",
-   "published": "2026-10-20T14:42:20+00:00"
   },
   {
    "title": "How to watch, listen to, stream Bears-Patriots Thursday Night Football Week 7 game",
@@ -314,30 +359,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/emgc27qhmgtnvbreotty.jpg",
-   "age": "6h ago",
+   "age": "9h ago",
    "published": "2026-10-20T13:11:00+00:00"
-  },
-  {
-   "title": "NFL Week 7 Power Rankings: Teams Trending Up or Down?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-power-rankings/125693/nfl-week-7-power-rankings-teams-trending-up-or-down-bears-rams-chiefs-patriots",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2301057022.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "6h ago",
-   "published": "2026-10-20T13:00:00+00:00"
-  },
-  {
-   "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Meta is suspending the sharing feature while it investigates its privacy.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg",
-   "age": "6h ago",
-   "published": "2026-10-20T12:33:13+00:00"
   },
   {
    "title": "Some clocks tell time. Others tell our stories. This event preserves both | Davich",
@@ -347,41 +370,8 @@
    "topic": "local",
    "summary": "An old watch or clock can offer far more value than keeping time. The most precious thing a timepiece holds isn’t its monetary value. It’s a connection to people, memori…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/06/d06cf915-ad53-4c88-ae58-51e44dae0b75/6ad63892c1305.image.jpg?resize=300%2C225",
-   "age": "7h ago",
+   "age": "10h ago",
    "published": "2026-10-20T12:15:00+00:00"
-  },
-  {
-   "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-   "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/slate-visit-chicago-intro-1152x648.jpg",
-   "age": "8h ago",
-   "published": "2026-10-20T11:00:16+00:00"
-  },
-  {
-   "title": "Chicago Bears News: Both Bears and New England Patriots have injuries",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/125676/chicago-bears-news-both-bears-and-new-england-patriots-have-injuries",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2298561752.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-10-20T10:00:00+00:00"
-  },
-  {
-   "title": "Russian Satellite’s Unprecedented Shadowing Of A Very Particular Radar Imaging Satellite Is A Big Deal",
-   "url": "https://www.twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Russia's Kosmos 2612 came very close to ICEYE X36, which reportedly has Ukraine connections, after weeks of highly unusual maneuvering. The post Russian Satellite s Unpr…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/iceye-satellite-russian-rendevous-major-ramifications.jpg?quality=85",
-   "age": "21h ago",
-   "published": "2026-10-19T21:38:00+00:00"
   },
   {
    "title": "10 Bears Things: Caleb Williams’ development, Dennis Allen’s game planning shine in Atlanta",
@@ -428,6 +418,17 @@
    "published": "2026-10-18T11:00:00+00:00"
   },
   {
+   "title": "William Byron Admits 2026 Has Been ‘a Struggle’",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFVqNmtkaDdBbDlKZ1NzeThpNC1tMk1Bb2hkVG5IaG5ZWmRhVWctVXlLM1R5dmpYV1JWaE9jSzdGRGFKcGtxVFRMcFpnOGUtNlRxc1pHM3dTc0NrMWF3dXJHV2hhZVltcURwajZWd0lLYmw5TkJVbnNhOGFkTzN1ag?oc=5",
+   "source": "MotorBiscuit",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-10-17T21:46:19+00:00"
+  },
+  {
    "title": "Da Braggs Blog: Bears can take inspiration from Green Bay for their next stadium home",
    "url": "https://allchgo.com/bears/da-braggs-blog-bears-inspiration-green-bay-stadium/",
    "source": "CHGO Bears",
@@ -435,7 +436,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/17161351/Option-1-1024x576.jpg",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-10-17T21:18:28+00:00"
   },
   {
