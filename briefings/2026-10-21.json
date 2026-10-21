@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-21",
+  "dateLabel": "Wednesday, October 21, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-21T14:12:12Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, October 20, 2026 close — a broad, earnings-led rally lifted the Dow while the Nasdaq finished roughly flat.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,712.57", "change": "+21.84", "changePct": "+0.28%", "sixMo": "+8.5%" },
+        { "name": "Dow", "close": "52,495.88", "change": "+529.85", "changePct": "+1.02%", "sixMo": "+6.2%" },
+        { "name": "Nasdaq", "close": "26,424.82", "change": "-6.07", "changePct": "-0.02%", "sixMo": "+8.3%" }
+      ],
+      "body": "The Dow jumped 529.85 points after 3M shares surged more than 5% on an earnings beat and raised full-year guidance, with healthcare the S&P 500's strongest sector; the S&P 500 added 0.28% while the Nasdaq slipped 0.02% as AI-linked tech names were mixed following last week's selloff and falling oil prices eased cost pressure broadly.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "VP Vance says Iran must cut uranium enrichment as Hormuz stays closed and oil jumps",
+      "body": "Vice President JD Vance told Reuters Iran must significantly reduce its uranium-enrichment capacity before Washington agrees to end the war, as Iran's foreign minister said the Strait of Hormuz will stay closed until the US accepts a seven-day deal and Tehran rejected US-backed talks in Pakistan; Brent crude rose to roughly $110 a barrel on the impasse.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/uae/us-israel-iran-war-what-uae-residents-need-to-know-today-oct-21-2026-1.500717954"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US warship and Taiwan coast guard both face off with Chinese vessels in one day",
+      "body": "The littoral combat ship USS Charleston sailed near Sabina Shoal in the disputed Spratly Islands, where China's Southern Theater Command navy tracked it and demanded the US \"immediately cease such activities\"; hours later Taiwan's coast guard intercepted a Chinese vessel with its tracking system switched off near the Pratas Islands, the 15th such encounter this year.",
+      "source": "Daily Caller",
+      "url": "https://dailycaller.com/2026/10/20/china-sends-navy-after-us-warship-taiwan-maritime-standoff/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Israel confirms Hegseth's unannounced visit included meeting Netanyahu at a Negev air base",
+      "body": "Netanyahu's spokesman confirmed Defense Secretary Pete Hegseth met the prime minister at Uvda Air Force Base during his unannounced trip to Israel, discussing Iran and regional threats; the spokesman said thousands of US forces are currently stationed in Israel as part of the two countries' wartime cooperation.",
+      "source": "Reuters via Military Times",
+      "url": "https://militarytimes.com/news/pentagon-congress/2026/10/20/hegseth-discusses-iran-with-netanyahu-in-unannounced-visit-to-israel-officials-say/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Navy quadruples AI ship-inspection contract with Gecko Robotics to $300 million",
+      "body": "The Navy expanded its deal with Gecko Robotics, whose drones, climbing robots and fixed sensors feed data to AI tools that spot hull and structural problems invisible to the eye, up from an original $54 million contract covering 18 Pacific Fleet ships; the company says the system cuts inspections from months to days and can save up to $8 million in repair costs per ship as the Navy pushes toward 80% fleet readiness by 2027.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic's Amodei defends safety record as Congress weighs dueling AI regulation pushes",
+      "body": "CEO Dario Amodei published a lengthy rebuttal defending Anthropic's safety choices, including its restriction on selling AI services to Chinese state-controlled firms, and committed the company to proposing options for regulating AI research pace by January 15, 2027; the defense comes amid a Capitol Hill fight over federal preemption of state AI rules, with Anthropic funding a PAC against preemption while an OpenAI-backed group spends in dozens of races to support it.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears RG Jonah Jackson upgraded to limited Tuesday ahead of Thursday's Patriots game",
+      "body": "Jonah Jackson (hip, quadriceps) was a limited participant in Tuesday's walkthrough after missing Monday entirely, an encouraging sign he could return as soon as Thursday night against New England; linebackers T.J. Edwards and Jack Sanborn and running back Kyle Monangai remained out, while cornerback Tyrique Stevenson and linebacker Keyshaun Elliott were full participants.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/bears-tuesday-injury-report-encouraging-210652541.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's Round of 8 opener at Phoenix has already run and the spoiler rule bars reporting its outcome; no new non-spoiler roster, sponsorship or schedule news surfaced within the 72-hour window beyond what prior briefs already covered.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~today",
+      "empty": false,
+      "headline": "byFaith offers PCA sessions a formula for pulpit supply pay",
+      "body": "Navy chaplain and PCA teaching elder Benjamin J. Shear proposed sessions set pulpit-supply honoraria at 10% of the local monthly O-4-with-dependents housing allowance (15% for ministers with 15-plus years' experience), rounded to the nearest $25, and adopt a written policy covering adjustments and travel; he urged churches to name the honorarium up front rather than assume a minister will serve for less.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/what-should-churches-pay-for-pulpit-supply"
+    }
+  ]
+}
