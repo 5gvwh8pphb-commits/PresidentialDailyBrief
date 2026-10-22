@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-22",
+  "dateLabel": "Thursday, October 22, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-22T14:13:07Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, October 21, 2026 close — a broad, AI-fueled rally lifted all three indices for a second straight day, led by chipmakers.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,757.17", "change": "+44.60", "changePct": "+0.58%", "sixMo": "+9.0%" },
+        { "name": "Dow", "close": "52,856.09", "change": "+360.21", "changePct": "+0.69%", "sixMo": "+6.6%" },
+        { "name": "Nasdaq", "close": "26,702.86", "change": "+278.04", "changePct": "+1.05%", "sixMo": "+9.1%" }
+      ],
+      "body": "Chipmakers led the gains after SpaceX's quarterly results beat expectations on strength in its AI business, lifting Nvidia and AMD; investors also weighed Elon Musk's disclosure that SpaceX and Tesla have formed special committees to explore a merger, and the VIX fell toward 16.7.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Iran says seven tankers hit in Strait of Hormuz as fears of renewed war grow",
+      "body": "Iranian state television said seven oil tankers were set on fire or disabled by attacks or naval mines overnight in the Strait of Hormuz, a claim the AP could not independently verify but which, if confirmed, would be the worst single-day toll in the waterway since the war began February 28; the report lands five days before Israel's October 27 election, which analysts say could determine whether US-Israeli strikes on Iran resume.",
+      "source": "AP via KSAT",
+      "url": "https://www.ksat.com/business/2026/10/22/iran-says-7-tankers-on-fire-or-damaged-in-the-strait-of-hormuz-and-other-mideast-news/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US commission chair says China uses coast guard patrols to assert claims near Taiwan",
+      "body": "Randall Schriver, chair of the US-China Economic and Security Review Commission, told a Taipei conference that Beijing uses routine coast guard patrols east of Taiwan — even a vessel rescuing a fishing boat — to quietly assert jurisdiction over the waters, calling it legal and information warfare; he floated possible counter-blockade exercises with Japan between Keelung and Yonaguni Island.",
+      "source": "The Epoch Times",
+      "url": "https://www.theepochtimes.com/china/china-using-coast-guard-patrols-to-assert-authority-east-of-taiwan-us-commission-chair-says-6106647"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Iran's Revolutionary Guard threatens US bases as Hormuz tanker attacks escalate",
+      "body": "Iran's Islamic Revolutionary Guard Corps navy said it may strike US military bases in the region if Washington helps tankers transit parts of the Strait of Hormuz outside Iran's control, a threat issued hours after Iranian state TV reported seven oil tankers hit by attacks or mines overnight in the strait.",
+      "source": "AP via KSAT",
+      "url": "https://www.ksat.com/business/2026/10/22/iran-says-7-tankers-on-fire-or-damaged-in-the-strait-of-hormuz-and-other-mideast-news/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Air Force opens search for a low-cost, mass-producible hypersonic strike missile",
+      "body": "The Air Force Research Laboratory issued an open call this month for its Tawodi initiative, seeking cheap, air-launched hypersonic weapons that can be produced at scale, following Navy flight tests of Castelion's air-launched Blackbeard hypersonic missile on an F/A-18F Super Hornet.",
+      "source": "Aviation Week",
+      "url": "https://aviationweek.com/defense/missile-defense-weapons/us-air-force-opens-search-low-cost-hypersonic-strike-missile"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Duet, a proactive AI agent, as a research preview",
+      "body": "Anthropic began a research preview of Claude Duet, a proactive AI agent for Pro and Max subscribers on iOS, Android and the web that Anthropic says will ask for approval before major actions like sending payments; the company frames it as a competitor to Meta's Muse and OpenAI's Dots and warns the early version may misread threads or misjudge what's urgent.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears' Jonah Jackson clear to play Thursday; two Patriots starting guards ruled out",
+      "body": "Right guard Jonah Jackson (hip/quad) and linebacker Keyshaun Elliott both carry no injury designation for tonight's game at Soldier Field, while running back Kyle Monangai and linebacker Jack Sanborn are out and T.J. Edwards and Tyrique Stevenson are questionable; New England ruled out five players including both starting guards, Alijah Vera-Tucker and Ben Brown, with backups Walter Rouse and Matt Pryor expected to replace them.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/bears-vs-patriots-injury-report-202048243.html"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron remains in playoff elimination territory after a difficult 2026 season, but the spoiler rule bars reporting on any race that has already run, and no qualifying non-spoiler roster, sponsorship or schedule news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window; the most recent PCA story found, the death of founding minister Kennedy Smartt at 101, is more than a week old and falls outside the window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
