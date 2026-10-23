@@ -1,19 +1,23 @@
 {
- "generated": "2026-10-23T02:27:14+00:00",
+ "generated": "2026-10-23T07:48:14+00:00",
  "count": 40,
  "withImage": 38,
- "bearsDay": false,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "Hendrick Motorsports",
   "TechCrunch",
   "The War Zone",
-  "USNI News"
+  "USNI News",
+  "Windy City Gridiron"
  ],
  "items": [
   {
@@ -28,37 +32,37 @@
    "published": "2026-10-23T10:00:04+00:00"
   },
   {
-   "title": "NBA legend Charles Barkley says he won't 'burn every bridge' like Aaron Rodgers as he considers retirement",
-   "url": "https://www.foxnews.com/outkick-sports/nba-legend-charles-barkley-says-he-wont-burn-every-bridge-like-aaron-rodgers-he-considers-retirement",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Charles Barkley roasted Aaron Rodgers bitter farewell tour, vowing his own TV retirement will be about gratitude rather than burning bridges.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/charles-barkley.jpg?ve=1&tl=1",
-   "age": "19m ago",
-   "published": "2026-10-23T02:07:47+00:00"
+   "title": "Volvo Cars shares plunge 28% amid China sales slump and fresh job cuts",
+   "url": "https://www.cnbc.com/2026/10/23/volvo-cars-q3-earnings-job-cuts.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Swedish automaker cited a deteriorating environment led by \"tougher\" market conditions in China and the U.S., which \"negatively affected free cash flow.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108312165-1779826335993-gettyimages-2273225102-Auto_Expo_in_Nanjing.jpeg?v=1779826419&amp;w=1920&amp;h=1080",
+   "age": "just now",
+   "published": "2026-10-23T07:47:27+00:00"
   },
   {
-   "title": "'I basically snapped': New Jersey mayor charges at resident during chaotic council meeting",
-   "url": "https://www.foxnews.com/politics/i-basically-snapped-new-jersey-mayor-charges-resident-chaotic-council-meeting",
+   "title": "Supreme Court blocks use of student IDs as voter identification in New Hampshire",
+   "url": "https://www.foxnews.com/politics/supreme-court-blocks-student-ids-voter-identification-new-hampshire",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Video captures New Jersey Republican Mayor Matthew Bianchini lunging at a resident during a Pemberton Township council meeting before being restrained.",
-   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/nj-mayor.gif",
-   "age": "44m ago",
-   "published": "2026-10-23T01:42:39+00:00"
-  },
-  {
-   "title": "Bears fans don Mike Ditka's famous mustache as franchise legend honored at first home game since death",
-   "url": "https://www.foxnews.com/outkick-sports/bears-fans-don-mike-ditka-famous-mustache-franchise-legend-honored-first-home-game-since-death",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Bears gave out fake mustaches for fans, while a moment of silence was held for Ditka, a Super Bowl-winning coach and Pro Football Hall of Famer.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ditka-fans.jpg?ve=1&tl=1",
+   "summary": "The Supreme Court allowed New Hampshire to reject student IDs at the polls ahead of midterm elections, warning of voter confusion too close to an election.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/supreme-court-exterior-2026.jpg?ve=1&tl=1",
    "age": "1h ago",
-   "published": "2026-10-23T01:25:17+00:00"
+   "published": "2026-10-23T06:44:19+00:00"
+  },
+  {
+   "title": "Defense giant Saab sees orders triple after Gripen fighter jet deal with Ukraine",
+   "url": "https://www.cnbc.com/2026/10/23/saab-q3-earnings-figther-jet-maker-beats-expectations-as-orders-triple.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "European governments race to turn defense spending pledges into military capability, boosting companies' order books.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108336562-1784291550321-gettyimages-2267794925-AFP_A4NR4UR.jpeg?v=1784291586&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-23T06:15:54+00:00"
   },
   {
    "title": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
@@ -68,41 +72,85 @@
    "topic": "markets",
    "summary": "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
    "image": "https://image.cnbcfm.com/api/v1/image/108441363-1792578822588-gettyimages-2299828923-img_8484.jpeg?v=1792581116&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-23T01:23:12+00:00"
+   "age": "2h ago",
+   "published": "2026-10-23T04:55:59+00:00"
   },
   {
-   "title": "Pacers star Tyrese Haliburton moved to tears after long-awaited return from Achilles injury",
-   "url": "https://www.foxnews.com/outkick-sports/pacers-star-tyrese-haliburton-moved-tears-long-awaited-return-achilles-injury",
+   "title": "Blanche won't rule out DOJ blocking election certification in 'doomsday' scenario",
+   "url": "https://www.foxnews.com/politics/blanche-wont-rule-out-doj-blocking-election-certification-doomsday-scenario",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Tyrese Halliburton was moved to tears after returning from his Achilles injury, then scored 16 fourth-quarter points to lift the Pacers past the Pelicans.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Tyrese-Haliburton-NBA-pregame.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-23T01:18:05+00:00"
+   "summary": "Attorney General Todd Blanche refused to rule out Department of Justice intervention in midterm election certification, citing hypothetical doomsday scenarios.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/acting-attorney-general-todd-blanche-fox-news-001.jpeg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-23T04:53:19+00:00"
   },
   {
-   "title": "SK Hynix shares slide after chipmaker scraps Solidigm IPO plans",
-   "url": "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "SK Hynix has shelved plans for a potential U.S. IPO of Solidigm amid market volatility and share price concerns.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108448623-1792702965566-gettyimages-2299579988-SKOREA_SEMICONDUCTOR_EXPO.jpeg?v=1792703056&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-23T00:53:36+00:00"
+   "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+   "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/ultrahuman-ring-pro.jpg?resize=1200,800",
+   "age": "3h ago",
+   "published": "2026-10-23T04:22:57+00:00"
   },
   {
-   "title": "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
-   "url": "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "SpaceX's stake in Boring Co. helped boost its net income in the third quarter.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-23T00:46:09+00:00"
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+   "age": "3h ago",
+   "published": "2026-10-23T04:00:00+00:00"
+  },
+  {
+   "title": "Drake Maye's end-zone interception proves costly as Patriots fall 30-24 to Bears in primetime",
+   "url": "https://www.foxnews.com/outkick-sports/drake-maye-end-zone-interception-proves-costly-patriots-fall-30-24-bears-primetime",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Caleb Williams threw for 308 yards and two TDs in the Chicago Bears 30-24 win over the New England Patriots, improving to an impressive 5-2 record.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/drake-maye-patriots-bears-soldier-field_001.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-23T03:55:16+00:00"
+  },
+  {
+   "title": "Bears 30, Patriots 24: Caleb Williams, Luther Burden III shine in prime time",
+   "url": "https://allchgo.com/bears/bears-30-patriots-24-caleb-williams-shines-prime-time/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/22215344/2026-10-23T001500Z_1221509944_MT1USATODAY30157899_RTRMADP_3_NFL-NEW-ENGLAND-PATRIOTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "4h ago",
+   "published": "2026-10-23T03:27:33+00:00"
+  },
+  {
+   "title": "Rare NFL penalty: Bears become first team in 16 years to get flagged for illegal forward handoff",
+   "url": "https://www.cbssports.com/nfl/news/what-is-illegal-forward-handing-bears-patriots-nfl-penalty/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/23/8191a10a-dc72-4043-bcca-fd360accf477/caleb-williams.jpg",
+   "age": "5h ago",
+   "published": "2026-10-23T02:16:44+00:00"
+  },
+  {
+   "title": "Brian Schottenheimer issues challenge to George Pickens as Cowboys search for answers on offense",
+   "url": "https://www.cbssports.com/nfl/news/cowboys-brian-schottenheimer-challenges-george-pickens/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/23/b3ed5581-902a-4544-bb9c-b2978a5dc758/pickens.jpg",
+   "age": "6h ago",
+   "published": "2026-10-23T01:37:34+00:00"
   },
   {
    "title": "Left alone with nothing to do, AI agents started playing",
@@ -112,8 +160,30 @@
    "topic": "ai",
    "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-23T00:45:37+00:00"
+  },
+  {
+   "title": "Bears vs. Patriots prediction: Chicago aims to stop Drake Maye's hot streak on 'TNF'",
+   "url": "https://www.cbssports.com/nfl/news/bears-vs-patriots-how-to-watch-odds-preview-prediction/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/22/35bca049-6181-4076-8474-edc99d46fcc2/drake-maye-pats-bears.jpg",
+   "age": "7h ago",
+   "published": "2026-10-23T00:12:06+00:00"
+  },
+  {
+   "title": "Bears vs. Patriots live game message board and fan discussion",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/125810/bears-vs-patriots-live-game-message-board-and-fan-discussion",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2300995268.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "7h ago",
+   "published": "2026-10-23T00:03:30+00:00"
   },
   {
    "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
@@ -123,30 +193,19 @@
    "topic": "ai",
    "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-10-22T23:50:41+00:00"
   },
   {
-   "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-   "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Warhound.png?resize=1200,675",
-   "age": "3h ago",
-   "published": "2026-10-22T23:15:00+00:00"
-  },
-  {
-   "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
-   "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/10/tc-disrupt-2022-chris-dixon-8.jpg?resize=1200,800",
-   "age": "3h ago",
-   "published": "2026-10-22T22:34:54+00:00"
+   "title": "Bears-Patriots Inactives: T.J. Edwards is out; Jonah Jackson is in",
+   "url": "https://www.windycitygridiron.com/chicago-bears-game-information/125935/bears-patriots-inactives-t-j-edwards-is-out-jonah-jackson-is-in",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2264391308.jpg?quality=90&#038;strip=all&#038;crop=18.92187539196,0,68.932524501497,100",
+   "age": "8h ago",
+   "published": "2026-10-22T22:50:14+00:00"
   },
   {
    "title": "Switch 2 security takes a hit as hackers unlock homebrew access",
@@ -156,7 +215,7 @@
    "topic": "ai",
    "summary": "\"Userland\" exploit relies on integer overflow found in \"SmileBasic\" interpreter.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/switch2hack-1152x648-1792704912.png",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-22T22:25:33+00:00"
   },
   {
@@ -167,19 +226,19 @@
    "topic": "ai",
    "summary": "Markers released top-line results today after previously reporting the trial succeeded.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-22T22:12:19+00:00"
   },
   {
-   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-   "age": "4h ago",
-   "published": "2026-10-22T22:08:24+00:00"
+   "title": "Bears vs. Patriots: Yeah, I m thinking we’re back",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/125958/bears-patriots-yeah-im-thinking-were-back-odds-caleb-williams-ben-johnson",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2183445955.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "9h ago",
+   "published": "2026-10-22T22:10:50+00:00"
   },
   {
    "title": "Latest estimate for Starship launches required to support a Moon landing? 22.",
@@ -189,7 +248,7 @@
    "topic": "ai",
    "summary": "\"We need to keep our eyes on numerous required fuelings for the lander.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-22T21:52:31+00:00"
   },
   {
@@ -200,7 +259,7 @@
    "topic": "markets",
    "summary": "Moderna released full data on its closely watched cancer vaccine developed with Merck.",
    "image": "https://image.cnbcfm.com/api/v1/image/108447865-1792693574300-gettyimages-2298258077-TSCHNEIDER_73727_Moderna_P8989578.jpeg?v=1792693614&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-22T21:52:02+00:00"
   },
   {
@@ -211,7 +270,7 @@
    "topic": "defense",
    "summary": "Bombers are now being viewed as another potential air-to-air asset on top of growing the fighter fleet and establishing a CCA force. The post USAF Confirms Bombers Could…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/air-to-air-role-b-21-bombers-usaf-fighter-plans.jpg?quality=85",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-22T21:31:48+00:00"
   },
   {
@@ -222,30 +281,8 @@
    "topic": "defense",
    "summary": "NEW YORK — October has had the highest number of ship attacks since the war between Iran and the U.S. began in late February. There have been 27 attacks on commercial sh…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-4.48.52-PM.png",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-22T21:23:38+00:00"
-  },
-  {
-   "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-   "url": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Comcast plans job cuts and more AI agents for its shrinking cable customer base.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg",
-   "age": "5h ago",
-   "published": "2026-10-22T21:07:09+00:00"
-  },
-  {
-   "title": "Trump asked Musk to lift Starlink slowdown, WSJ reports",
-   "url": "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108152694-1792693118866-108152694-1748628518832-gettyimages-2217848840-kd208861_3kfowzed.jpeg?v=1792696411&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-10-22T21:02:07+00:00"
   },
   {
    "title": "Four KJ-3000 Radar Jets At Chinese Factory Point To Serial Production",
@@ -255,8 +292,19 @@
    "topic": "defense",
    "summary": "The KJ-3000 is the most capable of China’s rapidly expanding airborne early warning and control aircraft fleet. The post Four KJ-3000 Radar Jets At Chinese Factory Point…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/02_KJ_3000-AEC-aircraft_Shaanxi-China_05oct2026_wv3-copy.jpg?quality=85",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-22T20:46:07+00:00"
+  },
+  {
+   "title": "Game Preview: Patriots vs. Bears | 2026 Week 7",
+   "url": "https://www.chicagobears.com/news/game-preview-patriots-vs-bears-2026-week-7",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/lhrsw7wo55dj4goirgec.jpg",
+   "age": "11h ago",
+   "published": "2026-10-22T20:35:00+00:00"
   },
   {
    "title": "Space Force shifts into high gear on cislunar warfare, with RFIs coming soon",
@@ -266,19 +314,8 @@
    "topic": "defense",
    "summary": "Maj. Gen. Stephen Purdy, the Space Force’s portfolio acquisition executive for advanced programs, said the service wants to field cislunar capabilities by the end of fis…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/04/441_420_MoonRotationSVSthumb-1024x576.png",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-10-22T20:27:12+00:00"
-  },
-  {
-   "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-   "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-1778229942-1152x648.jpg",
-   "age": "6h ago",
-   "published": "2026-10-22T20:17:52+00:00"
   },
   {
    "title": "Ground-Launched Rusty Dagger Low-Cost Cruise Missile Seen For The First Time",
@@ -288,8 +325,19 @@
    "topic": "defense",
    "summary": "The first public look at the missile in a surface-launched configuration comes as its manufacturer expands production. The post Ground-Launched Rusty Dagger Low-Cost Cru…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/RUSTY_DAGGER_9-Firefly-Upscaler-2x-scale-copy.jpg?quality=85&w=2048",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-10-22T20:09:51+00:00"
+  },
+  {
+   "title": "Roster Moves: Chicago Bears elevate Buddy Johnson and Zavier Scott",
+   "url": "https://www.chicagobears.com/news/roster-moves-chicago-bears-elevate-buddy-johnson-and-zavier-scott",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/b92totsow5wvjk4xjdbp.jpg",
+   "age": "11h ago",
+   "published": "2026-10-22T20:00:00+00:00"
   },
   {
    "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
@@ -299,7 +347,7 @@
    "topic": "defense",
    "summary": "The move comes amid Pentagon concerns that the U.S. government’s only plant for manufacturing howitzer barrels can’t keep up with the recent demand.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/CA6OOP7JEJGRRJEOU5O6TEJYKA.jpg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-22T19:27:22+00:00"
   },
   {
@@ -310,19 +358,8 @@
    "topic": "defense",
    "summary": "Copenhagen wants to acquire the capability to strike back at enemies attacking first, hoping for a deterrent effect.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/JZHDGWQ43ZEFHCU6JCVNNNIRAY.JPG",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-10-22T19:03:40+00:00"
-  },
-  {
-   "title": "A-4 ‘Super’ Skyhawks Playing The Bad Guys In European Skies",
-   "url": "https://www.twz.com/air/a-4-super-skyhawks-playing-the-bad-guys-in-european-skies",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The A-4 Skyhawk, first flown seven decades ago, is famed for its role as a Cold War 'red air' aggressor, and it lives on doing that mission to this day in Europe. The po…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/TWZ-Top-Aces-feature-top-shot.jpg?quality=85&w=2048",
-   "age": "7h ago",
-   "published": "2026-10-22T18:30:26+00:00"
   },
   {
    "title": "Winning the information war through ideas and perception",
@@ -332,8 +369,19 @@
    "topic": "defense",
    "summary": "[Sponsored] As social media and AI amplify dis- and misinformation campaigns, effectively countering them requires a coordinated response.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Breaking-Defense-Two-Six-Technologies-Ggame-Changer-2026-1024x576.jpg",
-   "age": "8h ago",
+   "age": "13h ago",
    "published": "2026-10-22T18:22:00+00:00"
+  },
+  {
+   "title": "Bears vs. Patriots Predictions: Can Caleb Williams replicate OPOW performance in short week?",
+   "url": "https://allchgo.com/bears/bears-patriots-predictions-caleb-williams-short-week/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/22020343/2026-10-18T201242Z_1836022958_MT1USATODAY30124968_RTRMADP_3_NFL-CHICAGO-BEARS-AT-ATLANTA-FALCONS-1-1024x576.jpg",
+   "age": "14h ago",
+   "published": "2026-10-22T17:30:00+00:00"
   },
   {
    "title": "‘Ability to strike back’: Denmark commits to long-range missile orders",
@@ -343,7 +391,7 @@
    "topic": "defense",
    "summary": "Copenhagen said it would purchase Joint Strike Missiles for its F-35s and a new ground-launched munition from an American firm.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/Danish-F-35A-e1760128237515-1024x576.jpg",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-10-22T17:18:00+00:00"
   },
   {
@@ -354,41 +402,8 @@
    "topic": "defense",
    "summary": "Stephen Hubbard, a retired teacher and U.S. Air Force veteran, was released from Russian custody on Wednesday after spending over four years in prison.",
    "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/GVBCFVYQKNE5VAKGJQJQRFMRQM.JPG",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-10-22T17:17:19+00:00"
-  },
-  {
-   "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
-   "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding.",
-   "image": "https://cloudfront-us-east-1.images.arcpublishing.com/archetype/KF4K2GWNDNEWBJDHFCCOPXVVGQ.jpg",
-   "age": "9h ago",
-   "published": "2026-10-22T17:15:33+00:00"
-  },
-  {
-   "title": "The Pentagon has gone too far in using the Other Transaction Authority. Congress should act.",
-   "url": "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Created in 1958 for NASA, the obscure fiscal tool has since become the predominant approach to military contracting – at great risk to taxpayers, one researcher warns.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/9329805-scaled-e1792685717804-1024x577.jpg",
-   "age": "9h ago",
-   "published": "2026-10-22T16:58:00+00:00"
-  },
-  {
-   "title": "MDA awards $75M to Long Wall for low-cost, midcourse interceptor testing",
-   "url": "https://breakingdefense.com/2026/10/mda-awards-75m-to-long-wall-for-low-cost-midcourse-interceptor-testing/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Long Wall is matching the Missile Defense Agency s funding with its own capital to continue development of the Cyclops, according to the company.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/k8X9p2Mv4L-1024x576.png",
-   "age": "10h ago",
-   "published": "2026-10-22T16:08:18+00:00"
   },
   {
    "title": "Theodore Roosevelt Carrier Strike Group Sails in the Philippine Sea for Keen Sword Drills",
@@ -398,19 +413,8 @@
    "topic": "defense",
    "summary": "The Theodore Roosevelt Carrier Strike Group, as well as Japanese, Australian, Canadian and French warships, have gathered in the Philippine Sea to participate in exercis…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10039280-scaled.jpg",
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-10-22T16:02:08+00:00"
-  },
-  {
-   "title": "Construction Of Iran’s “Eagle 44” Underground Airbase Hasn’t Stopped Despite War",
-   "url": "https://www.twz.com/news-features/construction-of-irans-eagle-44-underground-airbase-hasnt-stopped-despite-war",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Satellite imagery depicts new construction and cleared wreckage after strikes at an Iranian airbase with underground hangars and taxiway tunnels. The post Construction O…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/Construction-Continues-At-Irans-Eagle-44-Underground-Airbase-Despite-U.S.-War-1.png?quality=85",
-   "age": "12h ago",
-   "published": "2026-10-22T14:11:02+00:00"
   },
   {
    "title": "U.K. Committee Report on Defense in the High North",
@@ -420,30 +424,30 @@
    "topic": "defense",
    "summary": "The following is the U.K.’s House of Commons committee report, “Defense in the High North.” The report provides recommendations to the U.K. government, which will respon…",
    "image": null,
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-10-22T13:48:26+00:00"
   },
   {
-   "title": "Royal Australian Navy’s Ghost Shark UUVs Will Have Minelaying, UAV Payloads",
-   "url": "https://news.usni.org/2026/10/21/royal-australian-navys-ghost-shark-uuvs-will-have-minelaying-uav-payloads",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Royal Australian Navy’s Ghost Shark will be equipped with sea mine, aerial drone swarms and supply payloads in the coming years as the new systems are integrated abo…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-2.45.19-PM-scaled.png",
-   "age": "1d ago",
-   "published": "2026-10-21T19:12:27+00:00"
+   "title": "Girls Flag Football Player of the Week: Allison Talavera | Week 6",
+   "url": "https://www.chicagobears.com/news/girls-flag-football-player-of-the-week-allison-talavera-week-6",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/nqki5zw812jlkk2xcq4y.png",
+   "age": "18h ago",
+   "published": "2026-10-22T12:57:00+00:00"
   },
   {
-   "title": "NATO Kicks Off Neptune Strike Across European Waters",
-   "url": "https://news.usni.org/2026/10/21/nato-kicks-off-neptune-strike-across-european-waters",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "NATO kicked off enhanced Vigilance Activity Neptune Strike 26-4 on Friday, the fourth and final iteration this year. The enhanced Vigilance Activity will feature the U.K…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/Cavour.jpeg",
-   "age": "1d ago",
-   "published": "2026-10-21T16:59:35+00:00"
+   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 7 against the Patriots",
+   "url": "https://allchgo.com/bears/everything-need-to-know-bears-week-7-against-patriots/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/22015150/2026-10-18T182452Z_828761347_MT1USATODAY30123845_RTRMADP_3_NFL-CHICAGO-BEARS-AT-ATLANTA-FALCONS-1-1024x576.jpg",
+   "age": "20h ago",
+   "published": "2026-10-22T11:00:00+00:00"
   },
   {
    "title": "NASCAR paint scheme preview: Hendrick Motorsports brings high fashion to the high banks of Talladega",
