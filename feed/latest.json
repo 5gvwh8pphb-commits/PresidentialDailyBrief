@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-24T02:25:15+00:00",
+ "generated": "2026-10-24T07:28:24+00:00",
  "count": 40,
- "withImage": 39,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -13,14 +13,23 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Hendrick Motorsports",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
   "Windy City Gridiron"
  ],
  "items": [
+  {
+   "title": "FBI arrests Georgia man accused of throwing Molotov cocktail at Atlanta ICE facility",
+   "url": "https://www.foxnews.com/us/fbi-arrests-georgia-man-accused-throwing-molotov-cocktail-atlanta-ice-facility",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Inique Hinton faces up to 20 years after allegedly throwing a Molotov cocktail at the Atlanta ICE building in an act prosecutors called terrorism.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/inique-hinton-atlanta-ice-building-molotov-cocktail.jpg?ve=1&tl=1",
+   "age": "34m ago",
+   "published": "2026-10-24T06:53:32+00:00"
+  },
   {
    "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
    "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
@@ -29,30 +38,63 @@
    "topic": "markets",
    "summary": "Stock slumps, pulled IPOs and rising spreads on credit default swaps this week sets stage for hyperscaler earnings.",
    "image": "https://image.cnbcfm.com/api/v1/image/108198959-1757960794660-gettyimages-2207350795-mms21122_qsl76cdt.jpeg?v=1792794717&amp;w=1920&amp;h=1080",
-   "age": "27m ago",
-   "published": "2026-10-24T01:57:24+00:00"
+   "age": "47m ago",
+   "published": "2026-10-24T06:41:14+00:00"
   },
   {
-   "title": "Michigan Senate rivals clash over Muslim Brotherhood allegations as Rogers doubles down on El-Sayed",
-   "url": "https://www.foxnews.com/media/michigan-senate-rivals-clash-muslim-brotherhood-allegations-rogers-doubles-down-el-sayed",
+   "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+   "url": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "French unrest pushed bond yields to a 24-year high as investors weigh budget, growth and sectors risks ahead of more protests.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108451108-1792753751955-gettyimages-2300122311-AA_17102026_2998225.jpeg?v=1792753812&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-24T06:23:02+00:00"
+  },
+  {
+   "title": "Notorious 'Tan Mom' claims ICE agents mistook her for illegal immigrant because of extreme tan",
+   "url": "https://www.foxnews.com/us/notorious-tan-mom-claims-ice-agents-mistook-her-illegal-immigrant-extreme-tan",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The Michigan Senate race heated up on Special Report as Abdul El-Sayed and Mike Rogers clashed over war powers, Medicare-for-all and Muslim Brotherhood allegations.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Mike-Rogers-Abdul-El-Sayed.jpg?ve=1&tl=1",
-   "age": "39m ago",
-   "published": "2026-10-24T01:45:50+00:00"
+   "summary": "Patricia Krentcil claims ICE agents nearly handcuffed her over her deep tan, questioning her citizenship as she left a restaurant with friends.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Tan-Mom-accuses-ICE-of-allegedly-nearly-arresting-her.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-10-24T05:58:42+00:00"
   },
   {
-   "title": "Ainsley Earhardt and Sean Hannity celebrate upcoming wedding surrounded by family and friends at Mar-a-Lago",
-   "url": "https://www.foxnews.com/media/ainsley-earhardt-sean-hannity-celebrate-upcoming-wedding-surrounded-family-friends-mar-a-lago",
+   "title": "What a day in customer service looks like — as AI changes everything",
+   "url": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Customer service can be a \"really, really difficult job.\" Will AI make it easier — or cause even more headaches?",
+   "image": "https://image.cnbcfm.com/api/v1/image/108451569-1792759766860-gettyimages-2214834073-ma117502.jpeg?v=1792759802&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-24T05:00:01+00:00"
+  },
+  {
+   "title": "Brewers rally past chaotic late-game replay, premature celebrations to win first World Series game in 44 years",
+   "url": "https://www.foxnews.com/outkick-sports/brewers-rally-past-chaotic-late-game-replay-premature-celebrations-win-first-world-series-game-44-years",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Fox News hosts Ainsley Earhardt and Sean Hannity celebrated their upcoming wedding on Friday with a gathering of family, close friends and longtime colleagues at Mar-a-L…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/931/524/ainsley-hannity.png?ve=1&tl=1",
-   "age": "56m ago",
-   "published": "2026-10-24T01:28:35+00:00"
+   "summary": "Christian Yelich s RBI triple sparked a 2-0 lead as the Milwaukee Brewers held off the Tampa Bay Rays in a dramatic World Series Game 1 finish.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jackson-chourio-rbi-single-world-series.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-24T04:02:21+00:00"
+  },
+  {
+   "title": "Mavericks star Cooper Flagg exits game after hard foul sparks shoving match vs Pacers",
+   "url": "https://www.foxnews.com/outkick-sports/mavericks-star-cooper-flagg-exits-game-hard-foul-sparks-shoving-match-pacers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Cooper Flagg left the Dallas Mavericks win over the Indiana Pacers after Aaron Nesmith s flagrant foul sent him crashing hard under the basket.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/cooper-flagg.png?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-10-24T02:35:05+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -62,30 +104,8 @@
    "topic": "defense",
    "summary": "How long are we going to be locked in here? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/6356270.jpg?quality=85",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-10-24T00:57:14+00:00"
-  },
-  {
-   "title": "Bears vs. Patriots Game Balls: A Signature Victory",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/126079/chicago-bears-vs-patriots-game-balls-a-signature-victory",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2301561313.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
-   "published": "2026-10-24T00:16:12+00:00"
-  },
-  {
-   "title": "NASCAR legend Tony Stewart's return to the Truck Series ends early with big crash at Talladega",
-   "url": "https://www.foxnews.com/outkick-sports/nascar-legend-tony-stewart-return-truck-series-ends-early-big-crash-talladega",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tony Stewart s Talladega Superspeedway return ended just 17 laps in after a massive nine-car wreck triggered by Stewart Friesen s loose truck.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/tony-stewart-talladega.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-24T00:15:02+00:00"
   },
   {
    "title": "Cowboys' George Pickens brushes off Brian Schottenheimer's critique, says team needs to improve",
@@ -95,19 +115,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/23/87be7ba3-3c2c-4ea6-8dbd-2f750ce5ccb4/gettyimages-2300889328.jpg",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-10-24T00:14:10+00:00"
-  },
-  {
-   "title": "McMahon plans to 'fire' herself from a job, striving to show Congress that the Department of Ed is not needed",
-   "url": "https://www.foxnews.com/media/mcmahon-plans-fire-herself-out-job-striving-show-congress-dept-ed-not-needed",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Linda McMahon is shifting Department of Education functions to the departments of Labor and Treasury through interagency agreements as proof of concept.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/mcmahon-white-house.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-24T00:09:15+00:00"
   },
   {
    "title": "NFL Week 7 odds, picks: Brinson's best bets, player props, anytime touchdown scorers for Sunday games",
@@ -117,7 +126,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/30/9fa312c1-baff-4f0b-ad70-cad4476b0140/kyler-murray-minnesota-vikings-imagn-images.jpg",
-   "age": "2h ago",
+   "age": "7h ago",
    "published": "2026-10-23T23:57:36+00:00"
   },
   {
@@ -128,7 +137,7 @@
    "topic": "ai",
    "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591670558_36cac514d1_k.jpg?resize=1200,800",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-23T23:07:45+00:00"
   },
   {
@@ -139,7 +148,7 @@
    "topic": "ai",
    "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-23T23:05:49+00:00"
   },
   {
@@ -150,19 +159,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2296029873.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-23T23:00:00+00:00"
-  },
-  {
-   "title": "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-   "url": "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108453365-1792793633822-gettyimages-2300178554-AA_17102026_2998635.jpeg?v=1792793674&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-23T22:49:42+00:00"
   },
   {
    "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
@@ -172,19 +170,8 @@
    "topic": "ai",
    "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg",
-   "age": "3h ago",
+   "age": "8h ago",
    "published": "2026-10-23T22:48:25+00:00"
-  },
-  {
-   "title": "Trump's executive order targets mortgage insurance, refinance costs. What it means for borrowers",
-   "url": "https://www.cnbc.com/2026/10/23/trump-mortgage-executive-order-costs.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump's executive order on housing aims to lower mortgage costs. Here's what it means for homeowners and buyers.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108373149-1791286265422-gettyimages-2298202572-AFP_D2BR273.jpeg?v=1792793646&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-23T22:27:06+00:00"
   },
   {
    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -194,7 +181,7 @@
    "topic": "ai",
    "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-23T21:59:19+00:00"
   },
   {
@@ -205,7 +192,7 @@
    "topic": "defense",
    "summary": "Guided-missile destroyer USS McFaul (DDG-74) returned Friday to Naval Station Norfolk, Va., after 11 months deployed. McFaul left Norfolk on Nov. 25, 2026, for an indepe…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10043770-scaled.jpg",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-23T21:34:16+00:00"
   },
   {
@@ -216,7 +203,7 @@
    "topic": "markets",
    "summary": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
    "image": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1792790807&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-23T21:26:59+00:00"
   },
   {
@@ -227,7 +214,7 @@
    "topic": "defense",
    "summary": "Israeli Air Force operations, ship movements, ominous messaging and more point to the possibility that the war with Iran is about to erupt again. The post On The Brink O…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/F16I-Night.jpg?quality=85",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-23T21:19:53+00:00"
   },
   {
@@ -238,7 +225,7 @@
    "topic": "defense",
    "summary": "Johnson replaces longtime president Amy Gilliland, who was let go from the company earlier this month after almost a decade of leading the business unit.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/general-dybnamics-logo-scaled-e1792789797924-1024x577.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-23T21:11:04+00:00"
   },
   {
@@ -249,7 +236,7 @@
    "topic": "defense",
    "summary": "SAN DIEGO, Calif. — At first glance, the Hadalus-XL unmanned underwater vehicle and its dark flat panels might not catch the curious eye like a go-fast boat or sleek fig…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Hadalus-XL.jpeg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-23T20:57:28+00:00"
   },
   {
@@ -260,7 +247,7 @@
    "topic": "defense",
    "summary": "Space Systems Command officials said the contracts are an initial step for the Commercial Augmentation Space Reserve (CASR) initiative, and don t address the thornier is…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/08/220815_northstar_satellite_graphic-1024x576.png",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-23T20:41:31+00:00"
   },
   {
@@ -271,7 +258,7 @@
    "topic": "defense",
    "summary": "General Atomics is now working with Spirit Defense to help meet surging USAF demands for fighter drones within the next six years. The post General Atomics FQ-42 CCA Dro…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/general-atomics-boeing-spirit-team-up-fq-42-cca-production.jpg?quality=85",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-23T20:39:25+00:00"
   },
   {
@@ -282,7 +269,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2301581617.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-23T20:30:00+00:00"
   },
   {
@@ -293,7 +280,7 @@
    "topic": "ai",
    "summary": "Pentagon memo: Insider trading gives US enemies key intel on military operations.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg",
-   "age": "5h ago",
+   "age": "10h ago",
    "published": "2026-10-23T20:28:43+00:00"
   },
   {
@@ -304,7 +291,7 @@
    "topic": "ai",
    "summary": "Turning on Personal Intelligence gives the company more data for ad targeting.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-10-23T20:19:55+00:00"
   },
   {
@@ -315,7 +302,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/vd0ooovnlnpr5nlqpnfs.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-10-23T20:15:00+00:00"
   },
   {
@@ -326,7 +313,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/xmues46y8echq9dbhisk.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-10-23T20:00:00+00:00"
   },
   {
@@ -337,7 +324,7 @@
    "topic": "defense",
    "summary": "Ret. Army Gen. David Petraeus praised the Pentagon’s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/Petraeus-2022.jpg.jpg",
-   "age": "6h ago",
+   "age": "11h ago",
    "published": "2026-10-23T19:39:05+00:00"
   },
   {
@@ -348,7 +335,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/14/a1b79e15-886c-465e-8699-9ebce238b575/lamar-jackson-ravens-13.jpg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-23T19:27:40+00:00"
   },
   {
@@ -359,7 +346,7 @@
    "topic": "defense",
    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In the Philippine Sea The Theodore Roosevelt Carrier Strike G…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10039280-scaled.jpg",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-10-23T19:15:43+00:00"
   },
   {
@@ -370,8 +357,41 @@
    "topic": "defense",
    "summary": "The letter of intent comes on the heels of the political dust up between US President Donald Trump and Elon Musk over a US move to throttle Ukraine s Starshield access t…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/08/240830_ukraine_drone_forest_GETTY-scaled-e1725026856723-1024x577.jpg",
-   "age": "7h ago",
+   "age": "12h ago",
    "published": "2026-10-23T19:07:34+00:00"
+  },
+  {
+   "title": "Giants RB Cam Skattebo says he 'got taught a lesson' after surprise benching",
+   "url": "https://www.cbssports.com/nfl/news/cam-skattebo-giants-benching-najee-harris-release/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/02/1a481a31-c61d-4abd-8c02-16537183f8e2/getty-cam-skattebo-giants.jpg",
+   "age": "12h ago",
+   "published": "2026-10-23T19:04:47+00:00"
+  },
+  {
+   "title": "Updated: Bears tight end Cole Kmet is out for the season",
+   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/126041/report-bears-tight-end-cole-kmets-injury-is-likely-season-ending",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2301565203.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "13h ago",
+   "published": "2026-10-23T18:25:50+00:00"
+  },
+  {
+   "title": "Denmark To Buy Anthem Munitions, Joint Strike Missiles In Dual Long-Range Strike Push",
+   "url": "https://www.twz.com/air/denmark-to-buy-anthem-munitions-joint-strike-missiles-in-dual-long-range-strike-push",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The ground- and air-launched weapons will give Denmark all-new options for striking deep behind enemy lines as NATO reinforces its Baltic flank. The post Denmark To Buy …",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/denmark-joint-strike-missile-anthem-strike-weapon-purchases.jpg?quality=85",
+   "age": "14h ago",
+   "published": "2026-10-23T16:59:11+00:00"
   },
   {
    "title": "Caleb Williams, Drake Maye’s second NFL matchup delivers – and then some – in prime time back-and-forth",
@@ -381,7 +401,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/23104855/2026-10-23T001500Z_1899822606_MT1USATODAY30158721_RTRMADP_3_NFL-NEW-ENGLAND-PATRIOTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "9h ago",
+   "age": "14h ago",
    "published": "2026-10-23T16:37:34+00:00"
   },
   {
@@ -392,7 +412,7 @@
    "topic": "defense",
    "summary": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/pzFQ4T3kUU6ZZCOkrJL38V96aQpD10eyD7YZUwXm.5u0n.webp_.jpg",
-   "age": "10h ago",
+   "age": "15h ago",
    "published": "2026-10-23T15:48:02+00:00"
   },
   {
@@ -403,7 +423,7 @@
    "topic": "defense",
    "summary": "“This is a revolution for the Strategic Air Forces, which have always operated in complete autonomy since their creation in the 1960s,” said one analyst.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/HVTp3ueWgAAYn9I.jpeg.jpg",
-   "age": "11h ago",
+   "age": "16h ago",
    "published": "2026-10-23T14:56:29+00:00"
   },
   {
@@ -414,7 +434,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/llupcysvcomnghrmhxiz.jpg",
-   "age": "14h ago",
+   "age": "19h ago",
    "published": "2026-10-23T12:10:00+00:00"
   },
   {
@@ -425,7 +445,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/22215344/2026-10-23T001500Z_1221509944_MT1USATODAY30157899_RTRMADP_3_NFL-NEW-ENGLAND-PATRIOTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-10-23T03:27:33+00:00"
   },
   {
@@ -438,28 +458,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/22020343/2026-10-18T201242Z_1836022958_MT1USATODAY30124968_RTRMADP_3_NFL-CHICAGO-BEARS-AT-ATLANTA-FALCONS-1-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-10-22T17:30:00+00:00"
-  },
-  {
-   "title": "NASCAR paint scheme preview: Hendrick Motorsports brings high fashion to the high banks of Talladega",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLWVId2k0QnNVT0VPdFNSNE1laWdMTk9Zd2oyTUVaaXZJcFFlRU11TmZIVTVWOFd6QVZaWjQ3LXRlM1Nwdjl2aTZFTWMydFBNVWZNd3RGcERqdWtEWDVQWk9YanVYc1UtVk5Ed0RVUnVWemJKZXM0dTJxZXI5Z1l1dW5MMVBKVzFaSWFjUVdIMlJHeU1HX3lTYVNyVWEtMERnWGxxN25ZckJaWEgwM0RwMmpGczFiMENsMDZKQzdTQkhPNG9oSW85TVlFcDdkN2Rs?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-10-20T17:44:09+00:00"
-  },
-  {
-   "title": "Some clocks tell time. Others tell our stories. This event preserves both | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_336943c8-5968-490d-ae1f-7969ed6ba744.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "An old watch or clock can offer far more value than keeping time. The most precious thing a timepiece holds isn’t its monetary value. It’s a connection to people, memori…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/06/d06cf915-ad53-4c88-ae58-51e44dae0b75/6ad63892c1305.image.jpg?resize=300%2C225",
-   "age": "3d ago",
-   "published": "2026-10-20T12:15:00+00:00"
   }
  ]
 }
