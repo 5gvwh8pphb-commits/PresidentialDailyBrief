@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-24",
+  "dateLabel": "Saturday, October 24, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-24T12:59:57Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~17h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, October 23, 2026 close — Thursday's tech-driven AI-spending selloff spread into other sectors, pulling the Dow down over 1% as oil jumped on Mideast tensions.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,623.68", "change": "-39.75", "changePct": "-0.52%", "sixMo": "+7.2%" },
+        { "name": "Dow", "close": "52,215.16", "change": "-652.82", "changePct": "-1.23%", "sixMo": "+5.9%" },
+        { "name": "Nasdaq", "close": "25,955.34", "change": "-53.52", "changePct": "-0.21%", "sixMo": "+6.2%" }
+      ],
+      "body": "Consumer and healthcare stocks led broader declines even as some chipmakers rebounded; WTI crude topped $100 a barrel on fears of renewed US-Iran escalation, and cybersecurity shares such as CrowdStrike gained after a critical PHP vulnerability disrupted government websites across Europe.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-23-081700850.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump claims US control of Strait of Hormuz as oil hits five-month high before midterms",
+      "body": "At a Friday rally, Trump said the Strait of Hormuz is \"totally ours\" and that the US could seize Iran's oil fields or \"the whole country,\" as Brent crude settled above $116 a barrel on renewed Mideast escalation fears; separately, IAEA chief Rafael Grossi said the agency is ready to resume monitoring Iran's nuclear program if a diplomatic deal is reached, and Putin is set to host Iran's president in Moscow next week.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The most substantive items this week — China's sovereignty claim over the Pratas Islands and Taiwan's report of 27 PLA aircraft near the island — fall outside the 72-hour window or were already covered in prior briefs, and no qualifying new development surfaced today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Netanyahu says he's ordered Israel to work toward toppling Iran's regime; Trump threatens new strikes",
+      "body": "Netanyahu said he directed the IDF, Mossad and other security agencies to pursue the overthrow of Iran's government, calling it the only way to permanently end the nuclear threat, and said Trump has told him the US is \"ready to finish the job\" alongside Israel; at a Friday rally, Trump said the US could launch \"another little epic fury\" if Tehran doesn't agree to US terms.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Pentagon and Lockheed agree to 10-year framework for at least 850 F-35s",
+      "body": "The framework announced Thursday would lock in roughly 85 US F-35 purchases a year for a decade, with Lockheed self-funding at least $7 billion in program initiatives, but it can't become a binding contract until Congress passes a full defense bill authorizing multiyear buys — something Senate Democrats have delayed until after the midterms.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Anthropic merges Claude Chat and Cowork into one enterprise experience",
+      "body": "Anthropic said enterprise-plan subscribers now get a single unified Claude experience spanning chat and Cowork's multi-step task features across web, desktop and mobile, following last week's Claude Duet agent preview for Pro and Max subscribers.",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4656723-anthropic-unifies-claude-chat-and-cowork-for-enterprise-plans"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears TE Cole Kmet out for the season, headed to injured reserve",
+      "body": "Head coach Ben Johnson confirmed Friday that Kmet will go on injured reserve for the rest of 2026 because of a right knee injury suffered in Thursday night's game against New England; with the Nov. 10 trade deadline approaching, Chicago must now lean more heavily on tight ends Colston Loveland and Sam Roush.",
+      "source": "NFL.com",
+      "url": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron heads into Sunday's playoff race at Talladega; no new non-spoiler roster, sponsorship or schedule news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying PCA news surfaced within the 72-hour window; byFaith's pulpit-supply pay proposal was already covered earlier this week, and this week's other new byFaith piece is a book review rather than denominational news.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
