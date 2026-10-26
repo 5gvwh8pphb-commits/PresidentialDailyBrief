@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-26",
+  "dateLabel": "Monday, October 26, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-26T15:29:47Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, October 23, 2026 close — a choppy week in which an AI-spending selloff and surging oil on US-Iran tensions pulled stocks lower before a modest Friday stabilization.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,623.68", "change": "-0.5%", "heroLabel": "week", "sixMo": "+7.2%" },
+        { "name": "Dow", "close": "52,215.16", "change": "+0.4%", "heroLabel": "week", "sixMo": "+5.9%" },
+        { "name": "Nasdaq", "close": "25,955.34", "change": "-0.7%", "heroLabel": "week", "sixMo": "+6.2%" }
+      ],
+      "body": "Weak reactions to Tesla's and Meta's earnings reignited AI capital-spending worries midweek and spread into consumer and healthcare names, while oil topped $116 a barrel on escalating US-Iran tensions; the Dow was the week's lone gainer, helped by a rotation into consumer staples and industrials, while the S&P 500 and Nasdaq finished slightly lower on net.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-23-081700850.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Intelligence memo warns Iranian plots against US officials have reached 'advanced stages'",
+      "body": "A memo from Director of National Intelligence Jay Clayton to Secretary of State Marco Rubio says Iran has substantially increased efforts to target US personnel in the Middle East and beyond, with plotting against American officials now at an advanced stage; the State Department has since ordered further staff reductions at posts in Saudi Arabia, Lebanon, the UAE, Qatar and Jordan.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/iranian-plots-kill-us-officials-middle-east-reached-advanced-stages-in-rcna605360"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No genuinely new China-Taiwan or South China Sea development surfaced within the 72-hour window; the most recent items, Chinese coast-guard standoffs near the Pratas Islands, date to earlier this year and were already stale when covered in prior briefs.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Trump weighs a final campaign with Israel to 'finish' Iran's regime as blockade continues",
+      "body": "President Trump said he is deciding between a final joint campaign with Israel to end the Iran standoff or a negotiated deal, floating another round of strikes like 'Operation Epic Fury' if talks collapse, while the US Navy's blockade of Iranian oil exports continues and Israel runs 48-hour nationwide drills simulating a surprise ground invasion ahead of its October 27 election.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-saudi-october-26"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development surfaced within the 72-hour window; the Pentagon's new Autonomous Warfare Command and the F-35/F-47/B-21 program updates were already covered in prior briefs, and nothing fresh emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic formally files S-1 with the SEC, moving toward a Nasdaq listing as 'ANT'",
+      "body": "Anthropic filed a registration statement for a proposed initial public offering of Class A common stock, saying it intends to list on the Nasdaq Global Select Market under the ticker ANT with Goldman Sachs and Morgan Stanley as lead underwriters; share count and price range aren't yet set, and the filing follows a $65 billion funding round that valued the company near $965 billion.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/s1-sec"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Cole Kmet's season-ending injured-reserve move was already covered earlier this week, and no new, non-duplicate roster, injury or front-office news surfaced within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's No. 24 team ran yesterday's Round of 8 race at Talladega; the spoiler rule bars reporting the outcome, and no new non-spoiler roster, sponsorship or schedule news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window; byFaith's recent items on founding minister Kennedy Smartt's death and the prayer guide's second year both fall outside the window and were already noted in a prior brief.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
