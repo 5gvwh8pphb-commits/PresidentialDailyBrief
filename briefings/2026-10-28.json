@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-28",
+  "dateLabel": "Wednesday, October 28, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-28T15:26:04Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~18h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, October 27, 2026 close — a chip-led rally as investors looked past Mideast oil jitters toward the Fed's rate decision and a heavy slate of tech earnings.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,722.60", "change": "+45.83", "changePct": "+0.60%", "sixMo": "+7.6%" },
+        { "name": "Dow", "close": "52,377.57", "change": "+15.99", "changePct": "+0.03%", "sixMo": "+6.5%" },
+        { "name": "Nasdaq", "close": "26,477.81", "change": "+308.43", "changePct": "+1.18%", "sixMo": "+6.4%" }
+      ],
+      "body": "Semiconductor names led the gains, with AMD, Marvell, Broadcom and Intel all jumping more than 3%, while energy stocks lagged as oil retreated; the advance came as the Fed opened a two-day policy meeting expected to end in a hold, with Microsoft and Alphabet earnings due after Wednesday's close.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/26/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "UK charges two men over Iran-linked plot targeting air base used in US strikes on Iran",
+      "body": "Britain charged two men under its National Security Act over an alleged Iran-linked plot against RAF Fairford, the air base the US used to launch strikes on Iran, as Gulf-brokered mediation continued with Saudi, Turkish and Pakistani officials holding talks in Tehran that Iran called 'very good' but that produced no concrete breakthrough.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Taiwan accuses Beijing of orchestrating attack on comedian who satirized Xi; China dismisses claim",
+      "body": "Taiwan's government said China was behind last month's staged-car-accident attack on comedian Huang Yi-hao, whose act satirizes Xi Jinping, after prosecutors indicted five people accused of being paid to injure him; a Chinese Taiwan Affairs Office spokesperson dismissed the accusation as a fabrication by Taiwan's ruling party meant to stir anti-China sentiment ahead of elections.",
+      "source": "Reuters",
+      "url": "https://www.timeslive.co.za/news/world/2026-10-28-china-dismisses-taiwans-accusations-of-involvement-in-attack-on-comedian/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~13h ago",
+      "empty": false,
+      "headline": "CENTCOM estimates Iran war has cost the US military $47.1 billion so far",
+      "body": "A Central Command estimate obtained by CBS News puts the war's cost to the US military at roughly $47.1 billion as of mid-October, about $29 billion of it spent replacing expended munitions and excluding damage to US bases, even as a third carrier strike group has moved into the region and officials say the overall US force footprint is being quietly trimmed.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development surfaced within the 72-hour window; the B-21/F-47 schedule update and Space Force contract awards are from August and were already stale, and nothing fresh on AI-enabled systems or naval/space platforms emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic strikes GSA deal cutting Claude prices 40% for US government agencies",
+      "body": "Anthropic expanded its partnership with the General Services Administration to give federal, state, local, tribal and territorial government buyers a 40% discount on Claude Enterprise, Claude for Government and the Claude API with no minimum spend commitment, a move Anthropic estimates will save government customers about $1 billion.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~today",
+      "empty": false,
+      "headline": "Bears' Monangai and Muhammad absent from Tuesday's practice ahead of Seahawks matchup",
+      "body": "Running back Kyle Monangai and cornerback Malik Muhammad were not seen for the open portion of Tuesday's practice, while linebackers D'Marco Jackson and TJ Edwards both returned to practice; Chicago's full Week 8 injury report isn't due until Thursday ahead of Monday night's game against Seattle.",
+      "source": "Chi City Sports",
+      "url": "https://www.chicitysports.com/chicago-bears-dealt-mixed-bag-injury-update-tuesday/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new non-spoiler roster, sponsorship or schedule news surfaced within the 72-hour window; Byron's fading title odds and winless streak were already covered in prior briefs, and this week's Round of 8 result at Talladega is barred by the spoiler rule.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window; byFaith's most recent coverage traces back to earlier in the year and was already noted in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
