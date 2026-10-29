@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-29",
+  "dateLabel": "Thursday, October 29, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-29T15:41:13Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, October 28, 2026 close — modest gains as the Fed held rates steady and Oracle surged on an upbeat long-term revenue outlook.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,743.98", "change": "+21.38", "changePct": "+0.28%", "sixMo": "+7.9%" },
+        { "name": "Dow", "close": "52,475.10", "change": "+97.53", "changePct": "+0.19%", "sixMo": "+6.7%" },
+        { "name": "Nasdaq", "close": "26,549.85", "change": "+72.04", "changePct": "+0.27%", "sixMo": "+6.7%" }
+      ],
+      "body": "The Federal Reserve held its benchmark rate at 3.75%-4% in a 10-2 vote, with Cleveland Fed President Beth Hammack and Governor Lisa Cook dissenting in favor of a hike; Oracle jumped about 11% after projecting fiscal 2030 revenue above $225 billion, while Microsoft rose and Alphabet fell sharply in after-hours trading following mixed earnings.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/28/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Israel's first election since the Oct. 7 attack ends in a deadlock between Netanyahu and challenger Eisenkot",
+      "body": "Exit polls from Tuesday's vote showed Prime Minister Benjamin Netanyahu's Likud and former military chief Gadi Eisenkot's Yashar party running close, with neither bloc projected to reach the 61 seats needed for a majority; Eisenkot said the results reflected a lack of confidence in the government that was in power on October 7, and coalition talks are expected to take weeks.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/27/exit-polls-suggest-no-clear-victor-in-israeli-election"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Taiwan accuses China of orchestrating brief Pakistani airspace ban on Taiwanese airlines",
+      "body": "Taiwan's deputy foreign minister Chen Ming-chi said Thursday he suspects Beijing was behind a brief Pakistani closure of airspace to Taiwanese carriers, though he offered no evidence; the episode follows Taiwanese airlines resuming use of Russian airspace this week after rerouting around the disruption.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/taiwan-suspects-china-behind-brief-pakistan-airspace-ban"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US Navy warns ships to avoid unnecessary transits through the Strait of Hormuz",
+      "body": "US Naval Forces Central Command's Joint Maritime Information Center advised vessels with no need to cross the Strait of Hormuz or Gulf of Oman to stay clear and warned that neutral ships may be boarded and searched to confirm compliance with the US blockade on Iranian oil exports; the command cited only 'the current geopolitical situation' for the advisory.",
+      "source": "gCaptain",
+      "url": "https://gcaptain.com/us-tells-ships-to-avoid-unnecessary-transits-through-hormuz/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development surfaced within the 72-hour window; recent items on the Pentagon's Autonomous Warfare Command and the B-21/F-47 schedules were already covered in prior briefs, and nothing fresh on AI-enabled systems or naval/space platforms emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic expands AI for Science program to 20 foundations and research institutions",
+      "body": "Anthropic said funders and institutions including the Simons Foundation, the National Science Foundation, the Wellcome Sanger Institute and the Francis Crick Institute will now distribute free and discounted Claude access to researchers, shifting the program from supporting individual scientists to reaching many through organizations; it also highlighted a lab-automation standard built with HHMI's Janelia Research Campus that lets AI agents safely operate research instruments.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~today",
+      "empty": false,
+      "headline": "Bears agree to trade two first-round picks for Titans All-Pro DT Jeffery Simmons",
+      "body": "Chicago is sending Tennessee two first-round picks and a fourth-rounder for the four-time Pro Bowler, the team's biggest outgoing trade package since the 2018 Khalil Mack deal, with coach Ben Johnson calling Simmons the 'bell cow' of an attacking front; he's expected to start alongside Grady Jarrett as the Bears address an edge-rushing group thinned by Dayo Odeyingbo's injury and Montez Sweat's suspension.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/29/bears-titans-trade-jeffery-simmons-first-round-picks-massive-swing-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new non-spoiler roster, sponsorship or schedule news surfaced within the 72-hour window; Byron's fading championship odds were already covered in a prior brief, and last Sunday's Talladega finish is barred by the spoiler rule.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~today",
+      "empty": false,
+      "headline": "PCA worship committee opens comment period on revised Directory of Public Worship",
+      "body": "The Ad Interim Committee revising the PCA's Directory of Public Worship, chaired by Nate Shurden, is inviting sessions, presbyteries and elders to submit feedback through December 4 before bringing a proposed revision to the 54th General Assembly in Milwaukee.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/worship-study-committee-invites-feedback/"
+    }
+  ]
+}
