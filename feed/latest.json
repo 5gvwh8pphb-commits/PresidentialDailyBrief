@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-29T06:36:34+00:00",
+ "generated": "2026-10-29T13:49:20+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 35,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -19,114 +19,257 @@
  ],
  "items": [
   {
-   "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
-   "url": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Department of Homeland Security is investigating a breach that exposed roughly 40,000 employees, including 10,000 ICE agents and CBP personnel.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/markwayne-mullin-october-9-scaled.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-10-29T04:31:13+00:00"
+   "title": "Report to Congress on the U.S. Army’s Infantry Squad Vehicle",
+   "url": "https://news.usni.org/2026/10/29/report-to-congress-on-the-u-s-armys-infantry-squad-vehicle",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the Oct. 22, 2026, Congressional Research Service report, The U.S. Army’s Infantry Squad Vehicle (ISV). From the Report The ISV is a lightweight, unarmo…",
+   "image": null,
+   "age": "just now",
+   "published": "2026-10-29T13:49:09+00:00"
   },
   {
-   "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-   "url": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+   "title": "DoorDash to acquire Instacart for $17 billion",
+   "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108300169-1777569523757-gettyimages-649149526-AA_07032017_470756.jpeg?v=1777569555&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-10-29T04:29:32+00:00"
+   "summary": "The deal unites two delivery giants under one roof, with DoorDash's focus on restaurants and Instacart's robust stable of grocery partners.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108345409-1785946411551-gettyimages-2255805716-NYC_DELIVERY_APPS.jpeg?v=1785946448&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-10-29T13:44:32+00:00"
   },
   {
-   "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-   "url": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108467082-1793072373038-gettyimages-2265889925-TEXAS_OIL.jpeg?v=1793072383&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-10-29T04:00:51+00:00"
-  },
-  {
-   "title": "Brewers win World Series for first time in franchise history with Game 5 victory over Rays",
-   "url": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Milwaukee Brewers can call themselves World Series champions for the first time in franchise history after defeating the Tampa Bay Rays in Game 5.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mlb-brewers-102826-1.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-10-29T03:14:01+00:00"
-  },
-  {
-   "title": "Sen Dan Sullivan brands Peltola’s alleged ballot scheme a ‘scandal at the highest order’",
-   "url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sen. Dan Sullivan calls the alleged Alaska Senate ballot scheme a scandal, accusing Mary Peltola and the DSCC of a secret year-long plot to trick voters.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/accb13d8-sullivan-peltola-sullivan.png?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-10-29T02:58:53+00:00"
-  },
-  {
-   "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
-   "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-29T02:49:39+00:00"
-  },
-  {
-   "title": "Garrett Wilson doesn't want to be traded – but he admitted he's sick of losing with Jets",
-   "url": "https://www.foxnews.com/outkick-sports/garrett-wilson-doesnt-want-traded-admitted-sick-losing-jets",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Garrett Wilson said he loves the New York Jets, but admitted winning matters more as the Indianapolis Colts kick off NFL trade deadline sales.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/garrett-wilson-jets.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-10-29T02:12:17+00:00"
-  },
-  {
-   "title": "Big 12 Conference addresses offensive chants from UCF fans directed at BYU during upset win",
-   "url": "https://www.foxnews.com/outkick-sports/big-12-conference-addresses-offensive-chants-ucf-fans-directed-byu-upset-win",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The UCF Knights face a $100,000 Big 12 fine after video captured fans chanting a discriminatory phrase about Mormons before the BYU Cougars game.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bear-bachmeier-byu-cougars-ucf-knights.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-10-29T01:57:50+00:00"
-  },
-  {
-   "title": "As Waymo expands overseas, it remains a niche cash-burning business",
-   "url": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108313235-1779981122408-gettyimages-2277937156-1556420-fi-waymo-ojai-ajs-17.jpeg?v=1779981207&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-10-28T23:53:58+00:00"
-  },
-  {
-   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
+   "url": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
-   "age": "7h ago",
-   "published": "2026-10-28T23:15:00+00:00"
+   "summary": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Securit…",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/03/DHS-Getty.jpg?resize=1200,800",
+   "age": "5m ago",
+   "published": "2026-10-29T13:43:53+00:00"
+  },
+  {
+   "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+   "url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "",
+   "image": "https://image.cnbcfm.com/api/v1/image/108320167-1781180377178-gettyimages-2280088092-AFP_B6GZ6KF.jpeg?v=1781180401&amp;w=1920&amp;h=1080",
+   "age": "7m ago",
+   "published": "2026-10-29T13:41:39+00:00"
+  },
+  {
+   "title": "DoorDash to acquire Instacart for $17B",
+   "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocer…",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+   "age": "8m ago",
+   "published": "2026-10-29T13:40:57+00:00"
+  },
+  {
+   "title": "Haley Stevens' fiancee hammers El-Sayed, says he'll vote for Rogers",
+   "url": "https://www.foxnews.com/politics/haley-stevens-fiancee-hammers-el-sayed-says-hell-vote-rogers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Rep. Haley Stevens Jewish fiancé says he cannot vote for Abdul El-Sayed, calling the Michigan Senate nominee an antisemite who endangers Jews.",
+   "image": "https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png",
+   "age": "26m ago",
+   "published": "2026-10-29T13:23:15+00:00"
+  },
+  {
+   "title": "Singer Kylie Cantrall takes credit for being Brewers' World Series good luck charm, Ueck tributes & COSM",
+   "url": "https://www.foxnews.com/outkick-sports/anthem-singer-kylie-cantrall-takes-credit-brewers-world-series-good-luck-charm-ueck-tributes-cosm",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kylie Cantrall hinted the Milwaukee Brewers should bring her back after her viral Game 2 anthem performance and the team s World Series win.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/kylie-cantrall-brewers-world-series.jpg?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-10-29T13:19:36+00:00"
+  },
+  {
+   "title": "CA POST EDITORIAL BOARD: Vote Hilton for California governor over establishment hack Becerra for real change",
+   "url": "https://www.foxnews.com/opinion/ca-post-editorial-board-vote-hilton-california-governor-establishment-hack-becerra-real-change",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Steve Hilton s bold campaign promises no taxes on income up to $150,000 and lower gas taxes, challenging Xavier Becerra for California governor. The California Post endo…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/split-steve-hilton-xavier-becerra-final.jpg?ve=1&tl=1",
+   "age": "35m ago",
+   "published": "2026-10-29T13:14:18+00:00"
+  },
+  {
+   "title": "Hegseth fires top Pentagon strategist accused of leaking classified Iran, Ukraine war information",
+   "url": "https://www.foxnews.com/politics/hegseth-fires-top-pentagon-strategist-accused-leaking-classified-iran-ukraine-war-information",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Lt. Gen. Brett Sylvia allegedly failed three polygraph exams tied to classified leaks about the Iran war and Ukraine before Pete Hegseth fired him.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/hegseth-sylvia.jpg?ve=1&tl=1",
+   "age": "40m ago",
+   "published": "2026-10-29T13:08:37+00:00"
+  },
+  {
+   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The personal consumption expenditures price index was projected to increase 0.5% in September for an annual rate of 3.7%, according to the Dow Jones consensus.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108410185-1792006325105-108410185-1792006166308-gettyimages-2300218007-2k2a3692_4j7v8aoz.jpg?v=1792006334&amp;w=1920&amp;h=1080",
+   "age": "41m ago",
+   "published": "2026-10-29T13:08:00+00:00"
+  },
+  {
+   "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+   "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Deepgram said that it is committed to keep Pipecat open source.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800",
+   "age": "49m ago",
+   "published": "2026-10-29T13:00:00+00:00"
+  },
+  {
+   "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+   "age": "49m ago",
+   "published": "2026-10-29T13:00:00+00:00"
+  },
+  {
+   "title": "Pentagon will pick new US base location by June 2027, prioritizing 4 requirements",
+   "url": "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "In an interview with Breaking Defense, Dale Marks, the assistant secretary of defense for Energy, Installations, and Environment, laid out new details on the effort.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/10055178-e1793217680853-1024x577.jpg",
+   "age": "1h ago",
+   "published": "2026-10-29T12:45:00+00:00"
+  },
+  {
+   "title": "Analysis: Kevin Warsh is keeping his options open — and Wall Street guessing",
+   "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108476071-1793213743711-gettyimages-2302418579-aw1a9798_mrowkbqv.jpeg?v=1793213760&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-29T12:38:18+00:00"
+  },
+  {
+   "title": "Alphabet earnings miss reflects first real sign that AI is taking a bite out of search",
+   "url": "https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Wall Street hammered Alphabet for an earnings miss that included weaker-than-expected revenue out of the company's core business.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108309206-1779213871939-108309206-1779210844055-108309206-1779210774213-gettyimages-2276576410-GOOGLE_IO.jpg?v=1782157746&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-29T12:09:47+00:00"
+  },
+  {
+   "title": "Switzerland shortlists SAMP/T, Barak MX for long-range air defense",
+   "url": "https://www.defensenews.com/global/europe/2026/10/29/switzerland-shortlists-samp-t-barak-mx-for-long-range-air-defense/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Switzerland narrowed down the choice of the country’s second future long-range air defense system to either Israel’s Barak MX system or the French-Italian SAMP/T NG.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-1532617265.jpg.jpg",
+   "age": "2h ago",
+   "published": "2026-10-29T11:17:15+00:00"
+  },
+  {
+   "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+   "url": "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"NASA desperately needs SpaceX, and SpaceX knows it, and Elon knows it.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/spacex-nasa-slots-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-10-29T11:00:08+00:00"
+  },
+  {
+   "title": "NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
+   "url": "https://www.defensenews.com/global/europe/2026/10/29/natos-black-sea-nations-decry-ukraine-war-spillover-endangering-commercial-ship-traffic/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The meeting signals a coordinated approach by the three NATO littoral states to the growing risks to commercial shipping and maritime infrastructure arising from the Rus…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/GettyImages-2299573510.jpg",
+   "age": "2h ago",
+   "published": "2026-10-29T10:50:56+00:00"
+  },
+  {
+   "title": "5 Things to Know | Jeffrey Weisheit faces Nov. 5 execution after Indiana Parole Board rejects clemency request",
+   "url": "https://nwitimes.com/news/article_6088065c-3b36-4b1d-a05b-5293051bf745.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Indiana Parole Board unanimously recommended against clemency for Jeffrey Weisheit, who faces execution Nov. 5 for killing two children in a 2010 house fire.",
+   "image": null,
+   "age": "4h ago",
+   "published": "2026-10-29T09:45:00+00:00"
+  },
+  {
+   "title": "5 Things to Know | Gary woman charged with hitting man with car after argument, police say",
+   "url": "https://nwitimes.com/news/article_fc95d492-b0cf-4ff4-90d2-fc084efa0d96.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A Gary woman faces multiple felony charges after allegedly striking a man with her car following an argument. Police say surveillance footage captured the collision.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/c9/fc95d492-b0cf-4ff4-90d2-fc084efa0d96/6ae2a33255d91.preview.webp?crop=1726%2C906%2C0%2C147&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+   "age": "4h ago",
+   "published": "2026-10-29T09:30:00+00:00"
+  },
+  {
+   "title": "5 Things to Know | Dairy Belle plans second Hammond location in Robertsdale neighborhood",
+   "url": "https://nwitimes.com/news/article_c7a9f632-704f-4dd8-881e-a328f70f5643.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Dairy Belle is planning a second Hammond location, this time in Robertsdale. The proposed development would also include a laundromat and a third business.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/7a/c7a9f632-704f-4dd8-881e-a328f70f5643/6ae298469498d.preview.webp?crop=1632%2C857%2C0%2C183&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+   "age": "4h ago",
+   "published": "2026-10-29T09:15:00+00:00"
+  },
+  {
+   "title": "5 Things to Know | Andrean High School to demolish historic buildings damaged by tornado",
+   "url": "https://nwitimes.com/news/article_c629a77b-0a83-46cb-adc6-6758fd5cd630.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Two buildings that have stood since Andrean High School opened in 1959 will be demolished after suffering irreparable damage in the June 11 tornado.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/62/c629a77b-0a83-46cb-adc6-6758fd5cd630/6ae294853d80f.preview.webp?crop=1662%2C873%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+   "age": "4h ago",
+   "published": "2026-10-29T09:00:00+00:00"
+  },
+  {
+   "title": "After Vucic ouster, Serbia’s weapons-buying habits are under the microscope",
+   "url": "https://www.defensenews.com/global/europe/2026/10/29/after-vucic-ouster-serbias-weapons-buying-habits-are-under-the-microscope/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "One of Europe’s key arms purchasers, Serbia, is likely to slow down procurement and investigate the probity of recent buys after a student-led protest movement ousted th…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/GettyImages-2277119267.jpg",
+   "age": "4h ago",
+   "published": "2026-10-29T08:53:25+00:00"
   },
   {
    "title": "US Navy reports highest number of Class A aviation, afloat mishaps in 10 years",
@@ -136,7 +279,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/9604038-1.jpg.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-10-28T23:02:32+00:00"
   },
   {
@@ -147,19 +290,8 @@
    "topic": "ai",
    "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-10-28T22:51:15+00:00"
-  },
-  {
-   "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-   "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
-   "age": "7h ago",
-   "published": "2026-10-28T22:47:50+00:00"
   },
   {
    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
@@ -169,7 +301,7 @@
    "topic": "ai",
    "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-10-28T22:35:50+00:00"
   },
   {
@@ -180,52 +312,8 @@
    "topic": "ai",
    "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-10-28T22:17:15+00:00"
-  },
-  {
-   "title": "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-   "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-10-28T22:07:17+00:00"
-  },
-  {
-   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in …",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-   "age": "8h ago",
-   "published": "2026-10-28T21:58:32+00:00"
-  },
-  {
-   "title": "Google expands AI Search ads globally as core ad growth slows",
-   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-   "age": "8h ago",
-   "published": "2026-10-28T21:48:37+00:00"
-  },
-  {
-   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It unders…",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
-   "age": "9h ago",
-   "published": "2026-10-28T21:34:30+00:00"
   },
   {
    "title": "Kyle Larson Nears Third NASCAR Title 6 Years After Hendrick Signing",
@@ -235,19 +323,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "16h ago",
    "published": "2026-10-28T21:01:48+00:00"
-  },
-  {
-   "title": "Cost estimate for Iran war rises to more than $47 billion",
-   "url": "https://www.defensenews.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. military has spent about 25% more on the war in Iran than estimates projected in July, according to Pentagon data obtained by Reuters.",
-   "image": "https://cdn.jwplayer.com/videos/Ap51vxnN-5ZsksG4j.mp4",
-   "age": "10h ago",
-   "published": "2026-10-28T20:16:50+00:00"
   },
   {
    "title": "Counter-UAS solution finds and classifies targets at standoff distance with “autonomous perception”",
@@ -257,7 +334,7 @@
    "topic": "defense",
    "summary": "[Sponsored] Warden’s passive, first layer of detection complements EO/IR and radar.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/ausa_2026_arukeus_perspective_copy_02_v5-frame-at-2m15s-1024x576.jpg",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-10-28T19:59:25+00:00"
   },
   {
@@ -268,7 +345,7 @@
    "topic": "defense",
    "summary": "MANILA, Philippines — A U.S. Marine Corps drone detachment is operating from a Philippine airfield in Palawan near South China Sea flashpoints in the Spratly Islands, US…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/7744448-scaled.jpg",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-10-28T19:58:47+00:00"
   },
   {
@@ -279,30 +356,8 @@
    "topic": "defense",
    "summary": "Battlefield space is heating up as the DIA warns that China could use orbital directed energy weapons to take down satellites by the end of the decade. The post U.S. Int…",
    "image": "https://www.twz.com/wp-content/uploads/2025/03/DCA4B592-4962-41BE-B163-8EA4755F602D.jpeg?quality=85",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-10-28T19:53:21+00:00"
-  },
-  {
-   "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
-   "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
-   "age": "11h ago",
-   "published": "2026-10-28T19:30:33+00:00"
-  },
-  {
-   "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
-   "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "It has been nearly a year since any space tourism flights occurred.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg",
-   "age": "11h ago",
-   "published": "2026-10-28T19:20:36+00:00"
   },
   {
    "title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
@@ -312,19 +367,8 @@
    "topic": "defense",
    "summary": "The UK headed up the anti-submarine warfare component of Maritime Big Play exercise, which took place off the coast of San Diego in October.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/FRPUW-20260309-ZJ0142-029-e1793204228450-1024x577.jpg",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-10-28T19:09:15+00:00"
-  },
-  {
-   "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
-   "url": "https://www.defensenews.com/video/2026/10/28/inside-msis-next-generation-of-counter-drone-defense/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities.",
-   "image": "https://cdn.jwplayer.com/videos/ONvrwu8i-5ZsksG4j.mp4",
-   "age": "12h ago",
-   "published": "2026-10-28T18:32:00+00:00"
   },
   {
    "title": "China’s CE-25A Electric Commuter Airliner Demonstrator Emerges",
@@ -334,19 +378,8 @@
    "topic": "defense",
    "summary": "The 19-seat aircraft features an unusual array of ducted fans, and the technology behind it could have implications beyond civilian aviation. The post China’s CE-25A Ele…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/ce25A-electric-jet-copy.jpg?quality=85",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-10-28T18:26:01+00:00"
-  },
-  {
-   "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
-   "url": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/GettyImages-2301219503.jpg.jpg",
-   "age": "12h ago",
-   "published": "2026-10-28T18:10:50+00:00"
   },
   {
    "title": "Ethiopia Gets 12 Russian Su-35 Fighters, Eyes S-400 Air Defenses",
@@ -356,7 +389,7 @@
    "topic": "defense",
    "summary": "The Ethiopian leader says the multirole fighter jets arrived a year ahead of schedule, with four S-400 batteries also planned under the deal. The post Ethiopia Gets 12 R…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/ETHIOPIAN-SU-35.jpg?quality=85",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-10-28T17:54:35+00:00"
   },
   {
@@ -367,7 +400,7 @@
    "topic": "defense",
    "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Mari…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10047579-scaled.jpg",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-10-28T17:51:21+00:00"
   },
   {
@@ -378,7 +411,7 @@
    "topic": "defense",
    "summary": "An independent assessment calls for new action to prevent critical aerial refueling assets from being neutralized before they even get in the air. The post Hardened Shel…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/hardened-shelters-tanker-future-hudson-report.jpg?quality=85",
-   "age": "13h ago",
+   "age": "20h ago",
    "published": "2026-10-28T17:28:45+00:00"
   },
   {
@@ -389,30 +422,8 @@
    "topic": "defense",
    "summary": "“If your capability requires pristine satellite communications, infinite bandwidth, and uninterrupted fiber optic backbone to function, it will not survive 48 hours on t…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/10054382-scaled-e1793203400409-1024x577.jpg",
-   "age": "13h ago",
+   "age": "20h ago",
    "published": "2026-10-28T17:18:00+00:00"
-  },
-  {
-   "title": "Canadian firms line up for potential GCAP, Gripen work",
-   "url": "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Back in July, the Italian Ministry of Defense told Breaking Defense that at that stage, being an observer did not entail that Canada had an industrial role in GCAP, addi…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/250318_carney_canada_pm_GettyImages-2205093443-scaled-e1793205224483-1024x577.jpg",
-   "age": "13h ago",
-   "published": "2026-10-28T16:49:40+00:00"
-  },
-  {
-   "title": "Trump’s Russian diesel deal benefits Moscow more than US consumers, experts say",
-   "url": "https://www.defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Trump’s diesel deal gives Moscow cash and leverage, while Ukraine is pressed to give up one of its few advantages on the battlefield and in negotiations, experts and U.S…",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/2026-10-26T130315Z_1514576356_RC2IST9H28YR_RTRMADP_3_RUSSIA-OIL-DIESEL-USA.jpg",
-   "age": "14h ago",
-   "published": "2026-10-28T16:06:40+00:00"
   },
   {
    "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
@@ -422,7 +433,7 @@
    "topic": "defense",
    "summary": "The following is the Oct. 20, 2026, Congressional Research Service report, U.S. Military Operations Against Iran’s Missile and Nuclear Programs. From the Report On Febru…",
    "image": null,
-   "age": "16h ago",
+   "age": "1d ago",
    "published": "2026-10-28T13:47:47+00:00"
   },
   {
@@ -437,17 +448,6 @@
    "published": "2026-10-27T20:22:10+00:00"
   },
   {
-   "title": "Beyond the headstones | The stories old cemeteries tell on Halloween",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c297f52c-768c-48c3-832c-5a7fc8211543.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Halloween is the season for ghost stories, but historic cemeteries offer something more enduring: Real stories of people who shaped our communities and helped build the …",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/e0/8e0e4aad-8a44-5ff3-9be3-2c6ec9289002/617f3cd1bf20f.image.jpg?resize=300%2C169",
-   "age": "1d ago",
-   "published": "2026-10-27T12:15:00+00:00"
-  },
-  {
    "title": "NASCAR paint scheme preview for Martinsville: Check out Hendrick Motorsports' Virginia colors",
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDltc3pqNDBDeVZzX1R0WUUxRE5UMmVoNWZxMTBBMXA5WVlxd0V4aG9iWXc4TmcwaTk1ZkhjWVppNFdNUE9wSm9GWkczQng2WnBxcE95TmpBcjFXSnN6SXc3WTJiTUhzOW1HaTZXQjhNTkRZTGF0bkJMdE1naGF1bEc1akJVZDJEbDV1YXB6QUl1T1JQUlhLU1J2ekhRb3NvNHdhaw?oc=5",
    "source": "Hendrick Motorsports",
@@ -455,7 +455,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-27T12:00:06+00:00"
   }
  ]
