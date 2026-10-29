@@ -1,80 +1,121 @@
 {
- "generated": "2026-10-29T00:30:56+00:00",
+ "generated": "2026-10-29T06:36:34+00:00",
  "count": 40,
  "withImage": 37,
- "bearsDay": true,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "Hendrick Motorsports",
   "MotorBiscuit",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "Windy City Gridiron"
+  "USNI News"
  ],
  "items": [
   {
-   "title": "Portland Public Schools rescinds ban on woman who questioned child's gender identity assignment",
-   "url": "https://www.foxnews.com/media/portland-public-schools-rescinds-ban-woman-questioned-childs-gender-identity-assignment",
+   "title": "DHS investigates massive data breach exposing 40,000 employees, including ICE and Border Patrol agents",
+   "url": "https://www.foxnews.com/us/dhs-investigates-massive-data-breach-exposing-40000-employees-including-ice-border-patrol-agents",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Allison Roberts won major concessions from Portland Public Schools Tuesday, which rescinded her campus ban after she challenged its LGBTQ gender curriculum.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/524/lewis-elementary-school-oregon.jpg?ve=1&tl=1",
-   "age": "41m ago",
-   "published": "2026-10-28T23:49:14+00:00"
+   "summary": "The Department of Homeland Security is investigating a breach that exposed roughly 40,000 employees, including 10,000 ICE agents and CBP personnel.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/markwayne-mullin-october-9-scaled.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-29T04:31:13+00:00"
   },
   {
-   "title": "Dream ownership group voices frustration in open letter over WNBA Finals venue concerns",
-   "url": "https://www.foxnews.com/outkick-sports/dream-ownership-group-voice-frustration-open-letter-wnba-finals-venue-concerns",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Atlanta Dream released an open letter saying concerns over State Farm Arena availability for WNBA Finals Game 6 went unheeded for months.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/State-Farm-Arena-WNBA-Finals-general-view.jpg?ve=1&tl=1",
-   "age": "42m ago",
-   "published": "2026-10-28T23:48:06+00:00"
-  },
-  {
-   "title": "BOBBY BURACK: Justin Tucker signing exposes sports media’s selective outrage over NFL misconduct",
-   "url": "https://www.foxnews.com/outkick-sports/justin-tucker-signing-exposes-sports-media-selective-outrage-nfl-players-accused-misconduct",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Justin Tucker s practice squad signing sparked fierce criticism, but Andy Reid and the Chiefs face questions about the NFL s personal conduct policy.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/justin-tucker2.jpg?ve=1&tl=1",
-   "age": "46m ago",
-   "published": "2026-10-28T23:44:43+00:00"
-  },
-  {
-   "title": "Maine girls to speak out on trans athletes as parents revive ballot push on eve of Senate election",
-   "url": "https://www.foxnews.com/outkick-sports/maine-girls-speak-trans-athletes-parents-revive-ballot-push-eve-senate-election",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Maine high school girls will speak publicly about competing against transgender athletes as nearly 5,000 new ballot initiative signatures are submitted.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/1200/675/save-womens-sports-011426-1.jpg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-10-28T23:41:53+00:00"
-  },
-  {
-   "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-   "url": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
+   "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+   "url": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Speculation of a deal has swirled since last week, and several outlets reported the acquisition could value Instacart at roughly $17 billion.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108345409-1785946411551-gettyimages-2255805716-NYC_DELIVERY_APPS.jpeg?v=1785946448&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-28T23:17:17+00:00"
+   "summary": "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108300169-1777569523757-gettyimages-649149526-AA_07032017_470756.jpeg?v=1777569555&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-29T04:29:32+00:00"
+  },
+  {
+   "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+   "url": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108467082-1793072373038-gettyimages-2265889925-TEXAS_OIL.jpeg?v=1793072383&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-29T04:00:51+00:00"
+  },
+  {
+   "title": "Brewers win World Series for first time in franchise history with Game 5 victory over Rays",
+   "url": "https://www.foxnews.com/outkick-sports/brewers-win-world-series-first-time-franchise-history-game-5-victory-over-rays",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Milwaukee Brewers can call themselves World Series champions for the first time in franchise history after defeating the Tampa Bay Rays in Game 5.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mlb-brewers-102826-1.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-29T03:14:01+00:00"
+  },
+  {
+   "title": "Sen Dan Sullivan brands Peltola’s alleged ballot scheme a ‘scandal at the highest order’",
+   "url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. Dan Sullivan calls the alleged Alaska Senate ballot scheme a scandal, accusing Mary Peltola and the DSCC of a secret year-long plot to trick voters.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/accb13d8-sullivan-peltola-sullivan.png?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-29T02:58:53+00:00"
+  },
+  {
+   "title": "Samsung Electronics shares slid despite record profit in the third-quarter",
+   "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Samsung Electronics reported third-quarter earnings on Thursday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108470863-1793136143433-gettyimages-2205145612-cros-mobilewo250305_npOel.jpeg?v=1793136156&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-10-29T02:49:39+00:00"
+  },
+  {
+   "title": "Garrett Wilson doesn't want to be traded – but he admitted he's sick of losing with Jets",
+   "url": "https://www.foxnews.com/outkick-sports/garrett-wilson-doesnt-want-traded-admitted-sick-losing-jets",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Garrett Wilson said he loves the New York Jets, but admitted winning matters more as the Indianapolis Colts kick off NFL trade deadline sales.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/garrett-wilson-jets.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-10-29T02:12:17+00:00"
+  },
+  {
+   "title": "Big 12 Conference addresses offensive chants from UCF fans directed at BYU during upset win",
+   "url": "https://www.foxnews.com/outkick-sports/big-12-conference-addresses-offensive-chants-ucf-fans-directed-byu-upset-win",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The UCF Knights face a $100,000 Big 12 fine after video captured fans chanting a discriminatory phrase about Mormons before the BYU Cougars game.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bear-bachmeier-byu-cougars-ucf-knights.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-10-29T01:57:50+00:00"
+  },
+  {
+   "title": "As Waymo expands overseas, it remains a niche cash-burning business",
+   "url": "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108313235-1779981122408-gettyimages-2277937156-1556420-fi-waymo-ojai-ajs-17.jpeg?v=1779981207&amp;w=1920&amp;h=1080",
+   "age": "6h ago",
+   "published": "2026-10-28T23:53:58+00:00"
   },
   {
    "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
@@ -84,7 +125,7 @@
    "topic": "ai",
    "summary": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1197780051.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-28T23:15:00+00:00"
   },
   {
@@ -95,7 +136,7 @@
    "topic": "defense",
    "summary": "The U.S. Navy reported a decade-high number of unplanned catastrophic events involving aircraft and vessels.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/9604038-1.jpg.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-28T23:02:32+00:00"
   },
   {
@@ -106,7 +147,7 @@
    "topic": "ai",
    "summary": "This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-28T22:51:15+00:00"
   },
   {
@@ -117,19 +158,8 @@
    "topic": "ai",
    "summary": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-MacBook-Pro-with-PROLED-XDR-Display-lifestyle-travel-261028_big.jpg.large_2x.jpg?w=1200",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-28T22:47:50+00:00"
-  },
-  {
-   "title": "Hands-on with Apple's first touchscreen laptop: Touch is totally optional",
-   "url": "https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Any button that can be clicked can also be touched.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108476498-1793219292926-C617900_11_02_04Still048.jpg?v=1793226183&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-28T22:38:41+00:00"
   },
   {
    "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
@@ -139,30 +169,8 @@
    "topic": "ai",
    "summary": "Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-10-28T22:35:50+00:00"
-  },
-  {
-   "title": "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-   "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108471082-1793218589052-108471082-1793137958265-gettyimages-2300588268-AFP_D3UD8G4.jpeg?v=1793218676&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-28T22:34:56+00:00"
-  },
-  {
-   "title": "Chicago Bears NFL Trade Deadline Targets",
-   "url": "https://www.windycitygridiron.com/chicago-bears-rumors/126367/chicago-bears-nfl-trade-deadline-targets-jermaine-johnson-alontae-taylor-nahshon-wright",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2295679435.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
-   "published": "2026-10-28T22:30:00+00:00"
   },
   {
    "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
@@ -172,7 +180,7 @@
    "topic": "ai",
    "summary": "Six unproven peptides popular with MAHA now under \"enforcement discretion policy.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2154524764-1024x648.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-28T22:17:15+00:00"
   },
   {
@@ -183,7 +191,7 @@
    "topic": "markets",
    "summary": "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
    "image": "https://image.cnbcfm.com/api/v1/image/108476670-1793220059525-108476670-1793219835583-gettyimages-2286485713-ALPHABET_EARNS.jpeg?v=1793220075&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-28T22:07:17+00:00"
   },
   {
@@ -194,19 +202,8 @@
    "topic": "ai",
    "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-28T21:58:32+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Rays-Brewers, World Series Game 5, NBA",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-rays-brewers-world-series-game-5-nba/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-   "age": "2h ago",
-   "published": "2026-10-28T21:50:38+00:00"
   },
   {
    "title": "Google expands AI Search ads globally as core ad growth slows",
@@ -216,30 +213,19 @@
    "topic": "ai",
    "summary": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-28T21:48:37+00:00"
   },
   {
-   "title": "Bears embrace stepping into national spotlight",
-   "url": "https://www.chicagobears.com/news/bears-embrace-stepping-into-national-spotlight",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/fyp8x152najmijjnttx4.jpg",
-   "age": "2h ago",
-   "published": "2026-10-28T21:39:49+00:00"
-  },
-  {
-   "title": "Chicago Bears and Jewel-Osco kick off 38th annual Coat Drive to help keep Chicagoland warm",
-   "url": "https://www.chicagobears.com/news/chicago-bears-and-jewel-osco-kick-off-38th-annual-coat-drive-to-help-keep-chicagoland-warm",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ngdw7ohn8zc2rc4oxiep.png",
-   "age": "3h ago",
-   "published": "2026-10-28T21:30:00+00:00"
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It unders…",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+   "age": "9h ago",
+   "published": "2026-10-28T21:34:30+00:00"
   },
   {
    "title": "Kyle Larson Nears Third NASCAR Title 6 Years After Hendrick Signing",
@@ -249,30 +235,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-28T21:01:48+00:00"
-  },
-  {
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Rays-Brewers World Series Game 5, 76ers-Pacers",
-   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-rays-brewers-world-series-game-5-76ers-pacers/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "3h ago",
-   "published": "2026-10-28T20:57:33+00:00"
-  },
-  {
-   "title": "Agent's Take: Detroit Lions' Sam LaPorta contract problem isn't going away",
-   "url": "https://www.cbssports.com/nfl/news/agents-take-lions-sam-laporta-contract-problem/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2025/10/17/fea4f5cc-1147-40e5-9067-6d7645633d58/sam-laporta-lions.png",
-   "age": "4h ago",
-   "published": "2026-10-28T20:24:59+00:00"
   },
   {
    "title": "Cost estimate for Iran war rises to more than $47 billion",
@@ -282,7 +246,7 @@
    "topic": "defense",
    "summary": "The U.S. military has spent about 25% more on the war in Iran than estimates projected in July, according to Pentagon data obtained by Reuters.",
    "image": "https://cdn.jwplayer.com/videos/Ap51vxnN-5ZsksG4j.mp4",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-28T20:16:50+00:00"
   },
   {
@@ -293,7 +257,7 @@
    "topic": "defense",
    "summary": "[Sponsored] Warden’s passive, first layer of detection complements EO/IR and radar.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/ausa_2026_arukeus_perspective_copy_02_v5-frame-at-2m15s-1024x576.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-28T19:59:25+00:00"
   },
   {
@@ -304,7 +268,7 @@
    "topic": "defense",
    "summary": "MANILA, Philippines — A U.S. Marine Corps drone detachment is operating from a Philippine airfield in Palawan near South China Sea flashpoints in the Spratly Islands, US…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/7744448-scaled.jpg",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-28T19:58:47+00:00"
   },
   {
@@ -315,8 +279,30 @@
    "topic": "defense",
    "summary": "Battlefield space is heating up as the DIA warns that China could use orbital directed energy weapons to take down satellites by the end of the decade. The post U.S. Int…",
    "image": "https://www.twz.com/wp-content/uploads/2025/03/DCA4B592-4962-41BE-B163-8EA4755F602D.jpeg?quality=85",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-28T19:53:21+00:00"
+  },
+  {
+   "title": "Trump admin sues Utah to save Kalshi from the state's total ban on gambling",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "US agency has sued 10 states for trying to stop gambling on prediction markets.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg",
+   "age": "11h ago",
+   "published": "2026-10-28T19:30:33+00:00"
+  },
+  {
+   "title": "The last, best hope for space tourism just rolled onto a runway in Arizona",
+   "url": "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "It has been nearly a year since any space tourism flights occurred.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg",
+   "age": "11h ago",
+   "published": "2026-10-28T19:20:36+00:00"
   },
   {
    "title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
@@ -326,19 +312,8 @@
    "topic": "defense",
    "summary": "The UK headed up the anti-submarine warfare component of Maritime Big Play exercise, which took place off the coast of San Diego in October.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/FRPUW-20260309-ZJ0142-029-e1793204228450-1024x577.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-28T19:09:15+00:00"
-  },
-  {
-   "title": "Bears vs Seahawks: Who can help limit Seattle’s Jaxon Smith-Njigba?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/126352/bears-vs-seahawks-who-can-help-limit-seattles-jaxon-smith-njigba-dillon-thieneman",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2302005201.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
-   "published": "2026-10-28T19:00:00+00:00"
   },
   {
    "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
@@ -348,7 +323,7 @@
    "topic": "defense",
    "summary": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities.",
    "image": "https://cdn.jwplayer.com/videos/ONvrwu8i-5ZsksG4j.mp4",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-10-28T18:32:00+00:00"
   },
   {
@@ -359,8 +334,19 @@
    "topic": "defense",
    "summary": "The 19-seat aircraft features an unusual array of ducted fans, and the technology behind it could have implications beyond civilian aviation. The post China’s CE-25A Ele…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/ce25A-electric-jet-copy.jpg?quality=85",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-28T18:26:01+00:00"
+  },
+  {
+   "title": "US costs of Iran war rise to over $47 billion, according to Pentagon estimate",
+   "url": "https://www.defensenews.com/pentagon/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The U.S. military has spent over $47 billion so far to prosecute the war in Iran, more than 25% higher than the Defense Department's estimate in July.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/GettyImages-2301219503.jpg.jpg",
+   "age": "12h ago",
+   "published": "2026-10-28T18:10:50+00:00"
   },
   {
    "title": "Ethiopia Gets 12 Russian Su-35 Fighters, Eyes S-400 Air Defenses",
@@ -370,7 +356,7 @@
    "topic": "defense",
    "summary": "The Ethiopian leader says the multirole fighter jets arrived a year ahead of schedule, with four S-400 batteries also planned under the deal. The post Ethiopia Gets 12 R…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/ETHIOPIAN-SU-35.jpg?quality=85",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-28T17:54:35+00:00"
   },
   {
@@ -381,8 +367,19 @@
    "topic": "defense",
    "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Mari…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10047579-scaled.jpg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-28T17:51:21+00:00"
+  },
+  {
+   "title": "Hardened Shelters Critical To Survival Of USAF’s Tanker Fleet: Study",
+   "url": "https://www.twz.com/news-features/hardened-shelters-critical-to-survival-of-usafs-tanker-fleet-study",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "An independent assessment calls for new action to prevent critical aerial refueling assets from being neutralized before they even get in the air. The post Hardened Shel…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/hardened-shelters-tanker-future-hudson-report.jpg?quality=85",
+   "age": "13h ago",
+   "published": "2026-10-28T17:28:45+00:00"
   },
   {
    "title": "With daily jamming of US forces on Korean Peninsula, industry needs resilient solutions: USFK commander",
@@ -392,30 +389,30 @@
    "topic": "defense",
    "summary": "“If your capability requires pristine satellite communications, infinite bandwidth, and uninterrupted fiber optic backbone to function, it will not survive 48 hours on t…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/10054382-scaled-e1793203400409-1024x577.jpg",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-10-28T17:18:00+00:00"
   },
   {
-   "title": "Bears v. Patriots Upon Further Review A Closer Look at the Referees",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/126314/bears-v-patriots-upon-further-review-a-closer-look-at-the-referees",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2301564423.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "10h ago",
-   "published": "2026-10-28T14:00:00+00:00"
+   "title": "Canadian firms line up for potential GCAP, Gripen work",
+   "url": "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Back in July, the Italian Ministry of Defense told Breaking Defense that at that stage, being an observer did not entail that Canada had an industrial role in GCAP, addi…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/250318_carney_canada_pm_GettyImages-2205093443-scaled-e1793205224483-1024x577.jpg",
+   "age": "13h ago",
+   "published": "2026-10-28T16:49:40+00:00"
   },
   {
-   "title": "How to watch, listen to, stream Bears-Seahawks Monday Night Football Week 8 game",
-   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-seattle-seahawks-monday-night-football-2026-week-8-listen-stream-tv-radio-online-nfl",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/aqcusor0t5p6la1lyw4y.jpg",
-   "age": "10h ago",
-   "published": "2026-10-28T13:54:00+00:00"
+   "title": "Trump’s Russian diesel deal benefits Moscow more than US consumers, experts say",
+   "url": "https://www.defensenews.com/global/europe/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Trump’s diesel deal gives Moscow cash and leverage, while Ukraine is pressed to give up one of its few advantages on the battlefield and in negotiations, experts and U.S…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/2026-10-26T130315Z_1514576356_RC2IST9H28YR_RTRMADP_3_RUSSIA-OIL-DIESEL-USA.jpg",
+   "age": "14h ago",
+   "published": "2026-10-28T16:06:40+00:00"
   },
   {
    "title": "Report to Congress on U.S. Military Operations Against Iran’s Missile, Nuclear Programs",
@@ -425,19 +422,30 @@
    "topic": "defense",
    "summary": "The following is the Oct. 20, 2026, Congressional Research Service report, U.S. Military Operations Against Iran’s Missile and Nuclear Programs. From the Report On Febru…",
    "image": null,
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-10-28T13:47:47+00:00"
   },
   {
-   "title": "Bears DE Montez Sweat ‘moving forward’ after two-game suspension",
-   "url": "https://allchgo.com/bears/bears-montez-sweat-moving-forward-two-game-suspension/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/27155956/2026-10-06T120251Z_1307702028_MT1USATODAY30010888_RTRMADP_3_NFL-NEW-YORK-JETS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "title": "Navy Sees 10-year High For Class A Aviation, Afloat Mishaps",
+   "url": "https://news.usni.org/2026/10/27/navy-sees-10-year-high-for-class-a-aviation-afloat-mishaps",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Navy saw the most Class A aviation and afloat mishaps in at least in a decade, according to Fiscal Year 2026 data recently released by the Navy Safety Command. The N…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/05/IMG_7208.jpeg",
    "age": "1d ago",
-   "published": "2026-10-27T21:02:31+00:00"
+   "published": "2026-10-27T20:22:10+00:00"
+  },
+  {
+   "title": "Beyond the headstones | The stories old cemeteries tell on Halloween",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c297f52c-768c-48c3-832c-5a7fc8211543.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Halloween is the season for ghost stories, but historic cemeteries offer something more enduring: Real stories of people who shaped our communities and helped build the …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/8/e0/8e0e4aad-8a44-5ff3-9be3-2c6ec9289002/617f3cd1bf20f.image.jpg?resize=300%2C169",
+   "age": "1d ago",
+   "published": "2026-10-27T12:15:00+00:00"
   },
   {
    "title": "NASCAR paint scheme preview for Martinsville: Check out Hendrick Motorsports' Virginia colors",
@@ -449,17 +457,6 @@
    "image": null,
    "age": "1d ago",
    "published": "2026-10-27T12:00:06+00:00"
-  },
-  {
-   "title": "Da Braggs Blog | Changing the past: Bears are playing with leads and playing with great poise",
-   "url": "https://allchgo.com/bears/braggs-changing-past-bears-playing-leads-great-poise/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/25150002/Bears_BraggsBlog-1024x576.jpg",
-   "age": "3d ago",
-   "published": "2026-10-25T20:13:30+00:00"
   }
  ]
 }
