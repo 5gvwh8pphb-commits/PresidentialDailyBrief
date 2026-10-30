@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T23:26:06+00:00",
+ "generated": "2026-10-30T02:44:40+00:00",
  "count": 40,
  "withImage": 37,
  "bearsDay": false,
@@ -19,37 +19,70 @@
  ],
  "items": [
   {
-   "title": "Reddit shares sink on weak sales guidance and plans login requirement test as Google search traffic shrinks",
-   "url": "https://www.cnbc.com/2026/10/29/reddit-rddt-q3-2026.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Reddit posts third-quarter earnings and reveals plans to require all users to create official accounts as Google search traffic shrinks",
-   "image": "https://image.cnbcfm.com/api/v1/image/108481452-1793291103327-gettyimages-2290577527-HL_IBENYOUSSEF_3258972.jpeg?v=1793291205&amp;w=1920&amp;h=1080",
-   "age": "25m ago",
-   "published": "2026-10-29T23:01:02+00:00"
-  },
-  {
-   "title": "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
-   "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&amp;w=1920&amp;h=1080",
-   "age": "38m ago",
-   "published": "2026-10-29T22:47:32+00:00"
-  },
-  {
-   "title": "US dual citizen extradited to El Salvador, accused of killing son's mother and abandoning toddler: DOJ",
-   "url": "https://www.foxnews.com/politics/us-dual-citizen-extradited-el-salvador-accused-killing-sons-mother-abandoning-toddler-doj",
+   "title": "Two helicopters collide midair near Oregon airport with three people aboard, FAA confirms",
+   "url": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "California s Michael Alejandro Castillo Murga became the first U.S. citizen extradited to El Salvador. He faces aggravated femicide charges in a 2019 killing.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/michael-alejandro-castillo-murga-doj-extradition-split-image.jpg?ve=1&tl=1",
-   "age": "48m ago",
-   "published": "2026-10-29T22:37:56+00:00"
+   "summary": "Two helicopters collided midair near McMinnville Municipal Airport in Oregon, crashing in a field and forcing highway closures as the FAA investigates.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/oregon-helicopter-collision-emergency-response.jpg?ve=1&tl=1",
+   "age": "23m ago",
+   "published": "2026-10-30T02:21:14+00:00"
+  },
+  {
+   "title": "Chili's customers suffer chemical burns after dangerous margarita mix-up",
+   "url": "https://www.foxnews.com/us/chilis-customers-suffer-chemical-burns-after-dangerous-margarita-mix-up",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Three customers and two employees suffered symptoms after an industrial degreaser was mistakenly used to prepare margaritas at a North Carolina Chili s.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/chilis-redesign-exterior-night.jpg?ve=1&tl=1",
+   "age": "29m ago",
+   "published": "2026-10-30T02:15:22+00:00"
+  },
+  {
+   "title": "June Jones, former Hawai'i and Atlanta Falcons head coach, dead at 73",
+   "url": "https://www.foxnews.com/outkick-sports/june-jones-former-hawaii-atlanta-falcons-head-coach-dead-73",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "June Jones, who help led Hawai i to its first-ever BCS Bowl appearance among more coaching accolades, has died at the age of 73 on Thursday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/June-Jones-Obit-2_001.jpg?ve=1&tl=1",
+   "age": "32m ago",
+   "published": "2026-10-30T02:12:33+00:00"
+  },
+  {
+   "title": "A ghost story in the nation's Capitol",
+   "url": "https://www.foxnews.com/politics/ghost-story-nations-capitol",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Chad Pergram recalls slipping on the U.S. Capitol steps in front of Justin Trudeau and explores the ghostly history behind his unexpected fall.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chad-pergram-.png?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-10-30T01:31:46+00:00"
+  },
+  {
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+   "age": "1h ago",
+   "published": "2026-10-30T01:20:48+00:00"
+  },
+  {
+   "title": "Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi",
+   "url": "https://www.foxnews.com/us/man-dressed-zombie-allegedly-stabs-two-coffee-shop-flees-hits-robotaxi",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Shankar Temple Grace allegedly stabbed two people at The Buzz Mill before fleeing in a pickup truck and crashing into an unoccupied vehicle.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/buzzmill-attack.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-10-30T01:04:29+00:00"
   },
   {
    "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
@@ -59,19 +92,63 @@
    "topic": "markets",
    "summary": "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
    "image": "https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&amp;w=1920&amp;h=1080",
-   "age": "48m ago",
-   "published": "2026-10-29T22:37:54+00:00"
+   "age": "2h ago",
+   "published": "2026-10-30T00:39:52+00:00"
   },
   {
-   "title": "Colorado mom says kids denied $12K in preschool aid over Catholic faith as Supreme Court showdown looms",
-   "url": "https://www.foxnews.com/media/colorado-mom-says-kids-denied-12k-preschool-aid-catholic-faith-supreme-court-showdown-looms",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Erika Nagle says Colorado denied her family $12,000 in preschool benefits because she chose Catholic school, calling it religious discrimination.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/St-Mary-school-children-in-church.jpg?ve=1&tl=1",
-   "age": "53m ago",
-   "published": "2026-10-29T22:32:37+00:00"
+   "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+   "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Microsoft boasts a strong credit rating and has managed to maintain positive free cash flow, unlike Meta, Alphabet and Amazon.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108355103-1787834325817-gettyimages-2291687665-schneider-microsof260826_nplhJ.jpeg?v=1793303910&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-30T00:38:13+00:00"
+  },
+  {
+   "title": "How elections worldwide are testing Trump’s influence abroad",
+   "url": "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108460994-17929651022026-10-25t214045z_1751253434_rc2laoaxkxhg_rtrmadp_0_usa-trump.jpeg?v=1792965149&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-30T00:13:22+00:00"
+  },
+  {
+   "title": "Binance 'potential security issue' sees $2.54 billion frozen by the likes of Circle, Tether",
+   "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
+   "image": "https://image.cnbcfm.com/api/v1/image/108333346-1783688403591-gettyimages-2218057803-CIRCLE_IPO.jpeg?v=1790092423&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-10-29T23:56:02+00:00"
+  },
+  {
+   "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+   "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1242123707.jpg?resize=1200,767",
+   "age": "2h ago",
+   "published": "2026-10-29T23:44:56+00:00"
+  },
+  {
+   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree,…",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+   "age": "3h ago",
+   "published": "2026-10-29T23:42:22+00:00"
   },
   {
    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
@@ -81,7 +158,7 @@
    "topic": "ai",
    "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
    "image": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1258513563.jpg?resize=1200,800",
-   "age": "58m ago",
+   "age": "4h ago",
    "published": "2026-10-29T22:27:23+00:00"
   },
   {
@@ -92,52 +169,8 @@
    "topic": "defense",
    "summary": "A rapid, uncoordinated U.S. military drawdown from Europe could push key NATO allies further away from American weapons, a RAND study found.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/2026-08-27T050729Z_2_LYNXMPEM7Q09O_RTROPTP_4_USA-TRUMP-NATO-REVIEW.JPG.jpg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-10-29T22:25:13+00:00"
-  },
-  {
-   "title": "BOBBY BURACK: Online hate is winning, from Pat McAfee to everyday Americans and young children",
-   "url": "https://www.foxnews.com/outkick-sports/bobby-burack-online-hate-winning-pat-mcafee-everyday-americans-young-children",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Pat McAfee, Clay Travis and a doctor with 200,000 X followers reveal how online hate and death threats are driving public figures off platforms.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/social-media-apps-iphone-illustration.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-29T22:25:13+00:00"
-  },
-  {
-   "title": "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-   "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-10-29T22:24:49+00:00"
-  },
-  {
-   "title": "Patrick Stewart: A life in pictures",
-   "url": "https://www.foxnews.com/entertainment/patrick-stewart-life-pictures",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Patrick Stewart made his acting debut in the 1950s and made a name for himself in Star Trek: The Next Generation and X-Men. Here is his life in photos.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/patrick-stewart-dies-86-years-old-fox-news166.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-29T22:23:43+00:00"
-  },
-  {
-   "title": "House Judiciary report accuses NYC DAs of downgrading charges to protect illegal immigrants from deportation",
-   "url": "https://www.foxnews.com/us/house-judiciary-report-accuses-nyc-das-downgrading-charges-protect-illegal-immigrants-deportation",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Letitia James, Melinda Katz and Eric Gonzalez faced pointed questions about a House Judiciary Committee report on immigration-safe plea deals.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/NYC-DA.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-29T22:18:41+00:00"
   },
   {
    "title": "Japan To Assemble AMRAAM Missiles As U.S. Moves To Dramatically Boost AIM-120 Production",
@@ -147,7 +180,7 @@
    "topic": "defense",
    "summary": "As part of a multibillion-dollar missile-production expansion, Washington and Tokyo also seek to accelerate production of the SM-3 Block IIA interceptor. The post Japan …",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/F35-AMRAAM-LAUNCH.jpg?quality=85",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-10-29T21:59:58+00:00"
   },
   {
@@ -158,7 +191,7 @@
    "topic": "ai",
    "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/07/vladimir-putin-russia-kremlin.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-10-29T21:51:29+00:00"
   },
   {
@@ -169,30 +202,8 @@
    "topic": "ai",
    "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg",
-   "age": "1h ago",
+   "age": "4h ago",
    "published": "2026-10-29T21:47:57+00:00"
-  },
-  {
-   "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-   "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-   "age": "2h ago",
-   "published": "2026-10-29T21:20:47+00:00"
-  },
-  {
-   "title": "GM reaches $220M settlement over selling drivers’ private data",
-   "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
-   "image": "https://techcrunch.com/wp-content/uploads/2020/11/Chevrolet-OnStar-Santa-01.jpg?resize=1200,800",
-   "age": "2h ago",
-   "published": "2026-10-29T21:01:04+00:00"
   },
   {
    "title": "3 congressional races that matter for defense",
@@ -202,7 +213,7 @@
    "topic": "defense",
    "summary": "Several lawmakers with major influence over defense policy and spending are fighting for their political futures.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/CRU36-pb-1024x576.png",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-10-29T20:41:31+00:00"
   },
   {
@@ -213,7 +224,7 @@
    "topic": "defense",
    "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday. As sa…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9527316-scaled.jpg",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-10-29T20:41:01+00:00"
   },
   {
@@ -224,19 +235,8 @@
    "topic": "ai",
    "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Hero-Bloom-Logo-1000x563_Windows_11_MS.jpg",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-10-29T20:18:49+00:00"
-  },
-  {
-   "title": "Alphabet tanks nearly 13% for worst day ever, losing $500 billion in value",
-   "url": "https://www.cnbc.com/2026/10/29/alphabet-google-microsoft-msft-shares-today-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Alphabet reported a larger negative free cash flow than analysts had expected while maintaining its spending gudiance for the year.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108338204-1784672317305-gettyimages-2286485984-ALPHABET_EARNS.jpeg?v=1788361563&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-10-29T20:15:19+00:00"
   },
   {
    "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
@@ -246,7 +246,7 @@
    "topic": "ai",
    "summary": "Inspector general rejected request from Democratic and Republican senators.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-10-29T20:08:10+00:00"
   },
   {
@@ -257,7 +257,7 @@
    "topic": "defense",
    "summary": "The strategy comes amid tension between Canada and its North American neighbor over tense trade negotiations.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/05/GettyImages-2211998678-scaled-e1746537209693-1024x577.jpg",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-10-29T20:07:11+00:00"
   },
   {
@@ -268,7 +268,7 @@
    "topic": "defense",
    "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week. Malabar 2026 …",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9422519-scaled.jpg",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-10-29T20:03:43+00:00"
   },
   {
@@ -279,7 +279,7 @@
    "topic": "defense",
    "summary": "\"We've spent the past 50 years building siloed networks, siloed applications and siloed environments to collaborate internally with our own data. We can no longer do tha…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/PR-Oct26-Vion-1200x628px-10292026.jpg",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-10-29T19:44:45+00:00"
   },
   {
@@ -290,7 +290,7 @@
    "topic": "defense",
    "summary": "Bell Textron executives warned that a delay in the helicopter’s first low-rate production contract could increase the program’s expected financial hit to as much as $150…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/MV-75-photo-B-e1776442851693.jpg",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-10-29T19:32:11+00:00"
   },
   {
@@ -301,7 +301,7 @@
    "topic": "defense",
    "summary": "[Sponsored] By going beyond simple automation, drones can carry out tasks with minimal input from operators.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/Breaking-Defense-Palladyne-AI-Gamechanger-Featured-Image-2026-2-1024x576.png",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-10-29T19:22:59+00:00"
   },
   {
@@ -312,7 +312,7 @@
    "topic": "defense",
    "summary": "The Arleigh-Burke class destroyer USS Spruance has set a post-World War II record for a U.S. Navy destroyer deployment and is raising questions about the maintenance wor…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/spruance.jpg.jpg",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-10-29T19:15:42+00:00"
   },
   {
@@ -323,7 +323,7 @@
    "topic": "ai",
    "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-10-29T19:07:53+00:00"
   },
   {
@@ -334,7 +334,7 @@
    "topic": "defense",
    "summary": "Relations between Ukraine and Poland soured in the Spring, leading to Warsaw calling off the MiG-29 deal in June. The post Polish MiG-29s, F-16 Cannon Ammo Reportedly He…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/Polish-MiG-29s-may-be-transfered-to-Ukraine.jpg?quality=85",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-10-29T18:58:29+00:00"
   },
   {
@@ -345,7 +345,7 @@
    "topic": "defense",
    "summary": "U.S. Army Lt. Gen. Brett Sylvia, a senior military planner on the Pentagon's Joint Staff, was fired over accusations he leaked classified information to the public.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/2026-10-29T172847Z_1_LYNXNPEM9S298_RTROPTP_4_MIDEAST-CRISIS-IRAQ-MOSUL.jpg",
-   "age": "4h ago",
+   "age": "7h ago",
    "published": "2026-10-29T18:52:30+00:00"
   },
   {
@@ -356,7 +356,7 @@
    "topic": "defense",
    "summary": "The target drone could be of particular use in stimulating Iran's air defenses to help collect intelligence on them, among other possible tasks. The post Let s Talk Abou…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/iran-claim-mqm-170-drone-recovered.jpg?quality=85",
-   "age": "5h ago",
+   "age": "8h ago",
    "published": "2026-10-29T18:01:13+00:00"
   },
   {
@@ -367,7 +367,7 @@
    "topic": "defense",
    "summary": "The following is the Oct. 22, 2026, Congressional Research Service report, The U.S. Army’s Infantry Squad Vehicle (ISV). From the Report The ISV is a lightweight, unarmo…",
    "image": null,
-   "age": "9h ago",
+   "age": "12h ago",
    "published": "2026-10-29T13:49:09+00:00"
   },
   {
@@ -378,7 +378,7 @@
    "topic": "local",
    "summary": "The Indiana Parole Board unanimously recommended against clemency for Jeffrey Weisheit, who faces execution Nov. 5 for killing two children in a 2010 house fire.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/08/6088065c-3b36-4b1d-a05b-5293051bf745/6ae2ab2a77534.preview.webp?crop=225%2C225%2C0%2C37&amp;resize=200%2C200&amp;order=crop%2Cresize",
-   "age": "13h ago",
+   "age": "16h ago",
    "published": "2026-10-29T09:45:00+00:00"
   },
   {
@@ -389,7 +389,7 @@
    "topic": "local",
    "summary": "A Gary woman faces multiple felony charges after allegedly striking a man with her car following an argument. Police say surveillance footage captured the collision.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/c9/fc95d492-b0cf-4ff4-90d2-fc084efa0d96/6ae2a33255d91.preview.webp?crop=1726%2C906%2C0%2C147&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "13h ago",
+   "age": "17h ago",
    "published": "2026-10-29T09:30:00+00:00"
   },
   {
@@ -400,7 +400,7 @@
    "topic": "local",
    "summary": "Dairy Belle is planning a second Hammond location, this time in Robertsdale. The proposed development would also include a laundromat and a third business.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/7a/c7a9f632-704f-4dd8-881e-a328f70f5643/6ae298469498d.preview.webp?crop=1632%2C857%2C0%2C183&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "14h ago",
+   "age": "17h ago",
    "published": "2026-10-29T09:15:00+00:00"
   },
   {
@@ -411,7 +411,7 @@
    "topic": "local",
    "summary": "Two buildings that have stood since Andrean High School opened in 1959 will be demolished after suffering irreparable damage in the June 11 tornado.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/62/c629a77b-0a83-46cb-adc6-6758fd5cd630/6ae294853d80f.preview.webp?crop=1662%2C873%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "14h ago",
+   "age": "17h ago",
    "published": "2026-10-29T09:00:00+00:00"
   },
   {
