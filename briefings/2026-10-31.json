@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-31",
+  "dateLabel": "Saturday, October 31, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-10-31T14:51:18Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~19h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, October 30, 2026 close — a tech-led plunge as weak Amazon and Intel earnings capped the Nasdaq's worst month since March 2025.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,580.07", "change": "-140.32", "changePct": "-1.82%", "sixMo": "+5.1%" },
+        { "name": "Dow", "close": "51,770.31", "change": "-572.25", "changePct": "-1.09%", "sixMo": "+4.3%" },
+        { "name": "Nasdaq", "close": "25,437.00", "change": "-747.73", "changePct": "-2.86%", "sixMo": "+2.2%" }
+      ],
+      "body": "Amazon's trailing 12-month free cash flow swung to an outflow of more than $42 billion and Intel slid on a weak Q4 outlook for PC sales, reviving worries about Big Tech's AI spending just two days after Alphabet's post-earnings plunge; rising rate expectations, oil near $100 and a $6.3 billion Binance hack added to the pressure, leaving the Nasdaq down roughly 5% for October in its worst month since March 2025.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump stops short of backing Flávio Bolsonaro's claim to be Brazil's rightful leader",
+      "body": "After losing Brazil's presidential election to Lula, Flávio Bolsonaro flew to Miami and posted a letter declaring himself the country's rightful 'leader,' accusing Lula and Brazil's Supreme Court of fraud; US officials told Reuters that Trump currently has no plans to back the claim, even as his administration allowed Bolsonaro into the country, though they said he could change his mind.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/world/articles/2026-10-30/trump-not-planning-to-back-bolsonaros-claim-to-be-brazils-leader-sources-say"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Top US Army Pacific general says forces are positioning for a possible Chinese move on Taiwan by 2027",
+      "body": "Gen. Ronald Clark told a Honolulu defense conference that the 'Davidson window' warning of a possible Chinese invasion by 2027 is 'still valid' and that his command has rotationally positioned equipment, materiel and personnel on islands nearest China under its Army Ready Forward initiative, even as a March US intelligence assessment concluded Beijing does not currently plan an invasion that year.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/10/30/2003866854"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Iran claims tankers hit mines near Hormuz as CENTCOM insists main shipping lanes are clear",
+      "body": "Iran's Revolutionary Guard said three oil tankers exploded and burned after striking mines while exiting the Strait of Hormuz on what Tehran called an 'unauthorized' southern route, a claim US officials have not verified; CENTCOM commander Adm. Brad Cooper maintained Friday that US forces have cleared the strait's main international shipping lanes of Iranian mines, and the command separately rejected an Iranian claim that it destroyed a US sea drone.",
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/world/mena/middle-east-war-iran-claims-tankers-hit-mines-in-strait-of-hormuz-ukmto-confirms-strike-off-oman-fired-us-general-reportedly-admitted-iran-leaks-1.500729137"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development surfaced within the 72-hour window; the Navy's $99 million Zumwalt-class USS Lyndon B. Johnson hypersonic sea-trials contract and this month's AUSA autonomy discussions both predate the window, and nothing fresh on AI-enabled systems, naval platforms or space assets emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic quietly orders Claude Code to stop recreating other studios' existing video games",
+      "body": "Anthropic confirmed to Game Developer that it added a rule to Claude Code around October 27 steering the tool away from rebuilding specific existing games, including renamed copies, while still allowing original and genre-style creations; an Anthropic staffer said using Claude to infringe intellectual property 'is against our usage policy.'",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears TE Colston Loveland limited by neck injury, his first injury-report appearance in over a year",
+      "body": "Loveland was limited in Friday's practice by a neck issue while RB Kyle Monangai sat out again with a toe injury and is likely to miss a fourth straight game; TE Cole Kmet remains out for the season with a knee injury, and new DT Jeffery Simmons is expected to make his Bears debut Monday at Seattle wearing No. 99.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/30/bears-practice-report-tight-end-colston-loveland-limited-by-neck-injury"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Martinsville's Round of 8 cutoff race runs Sunday, with defending track winner Byron in the field",
+      "body": "NASCAR's Xfinity 500 goes green Sunday, November 1 at 2 p.m. ET on NBC, the Round of 8 cutoff race at Martinsville Speedway's 0.526-mile short track; reigning Cup Series champion William Byron won last year's fall race there, and the playoffs move to a new season-ending stop at Homestead-Miami afterward.",
+      "source": "Heavy",
+      "url": "https://heavy.com/sports/nascar/how-to-watch-nascar-race-today-at-martinsville-speedway-tv-coverage-and-streaming/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window; byFaith's worship-committee feedback period and its 2027 General Assembly preacher announcement both fall outside the window or were already covered in prior briefs, and nothing fresher on denominational news emerged today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
