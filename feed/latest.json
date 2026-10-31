@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T12:52:06+00:00",
+ "generated": "2026-10-31T17:25:18+00:00",
  "count": 40,
  "withImage": 40,
  "bearsDay": true,
@@ -13,6 +13,7 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -20,92 +21,191 @@
  ],
  "items": [
   {
-   "title": "Berkshire ekes out some new highs, but October rally stalls",
-   "url": "https://www.cnbc.com/2026/10/31/berkshire-ekes-out-some-new-highs-but-october-rally-stalls.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Berkshire Hathaway shares managed to set a few more all-time highs in an otherwise lackluster week of trading.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&amp;w=1920&amp;h=1080",
+   "title": "Human vs ChatGPT NFL Week 8 betting picks: Human answers with 4-1 week, looks to keep rolling",
+   "url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-8-betting-picks-human-answers-4-1-week-looks-keep-rolling",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Baltimore Ravens, Indianapolis Colts and Los Angeles Chargers headline Week 8 NFL betting picks as a human bettor battles ChatGPT again.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/dak-prescott-warms-up-philadelphia-eagles.jpg?ve=1&tl=1",
+   "age": "14m ago",
+   "published": "2026-10-31T17:10:24+00:00"
+  },
+  {
+   "title": "NFL Week 8 final injury report: Patriots' AJ Brown ruled out, latest on Lamar Jackson, more",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/08/22/1597b539-bcff-480c-b48d-b88fb359c87b/emeka-egbuka-tampa-bay-buccaneers-imagn-images.jpg",
+   "age": "20m ago",
+   "published": "2026-10-31T17:04:38+00:00"
+  },
+  {
+   "title": "New York and LA didn't win America's best mega airport title, but one Midwest hub did",
+   "url": "https://www.foxnews.com/travel/new-york-la-didnt-win-americas-best-mega-airport-title-midwest-hub-did",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Coastal airports were outpaced as J.D. Power named Minneapolis the top mega hub for a third year, while Tampa and Charleston led their categories amid rising satisfactio…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/minneapolis-airport-tsa-shutdown-security.jpg?ve=1&tl=1",
+   "age": "22m ago",
+   "published": "2026-10-31T17:02:51+00:00"
+  },
+  {
+   "title": "Political activism, antisemitism allegations put public schools under the microscope",
+   "url": "https://www.foxnews.com/media/political-activism-antisemitism-allegations-public-schools-microscope",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Philadelphia and Los Angeles public schools face allegations of pushing one-sided Israeli-Palestinian conflict views and antisemitic content in classrooms.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/students-raise-hands-class.jpg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-10-31T17:00:53+00:00"
+  },
+  {
+   "title": "Commanders lose Pro Bowl defensive tackle Daron Payne for the season after suffering practice injury: report",
+   "url": "https://www.foxnews.com/outkick-sports/commanders-lose-pro-bowl-defensive-tackle-daron-payne-season-practice-injury-report",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Washington Commanders Pro Bowl defensive tackle Daron Payne reportedly suffered a season-ending foot injury at practice, a crushing blow for the 1-4-1 squad.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/daron-payne-washington-commanders-eagles.jpg?ve=1&tl=1",
    "age": "26m ago",
-   "published": "2026-10-31T12:26:00+00:00"
+   "published": "2026-10-31T16:58:53+00:00"
   },
   {
-   "title": "No Jacksonville, no problem? Georgia, Florida fans wanted a home-and-home, but money wins in college football",
-   "url": "https://www.foxnews.com/outkick-sports/no-jacksonville-no-problem-georgia-florida-fans-wanted-home-and-home-money-wins-college-football",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Arthur Blank is paying Florida and Georgia $7.5 million each to host the rivalry at Mercedes-Benz Stadium, but fans say the tailgate scene falls flat.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/georgia-florida-helmets-everbank-stadium.jpg?ve=1&tl=1",
-   "age": "30m ago",
-   "published": "2026-10-31T12:21:56+00:00"
+   "title": "Garrett Wilson trade rumors: Jets responding emphatically to other teams asking for star WR",
+   "url": "https://www.cbssports.com/nfl/news/garrett-wilson-trade-rumors-jets-wide-receiver-nfl/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/31/2f6dc3d8-4b64-4a89-8d72-bcabdade7807/garrett.png",
+   "age": "28m ago",
+   "published": "2026-10-31T16:57:06+00:00"
   },
   {
-   "title": "JACKSON THOMPSON: Angel Reese trash talk timeline, from mocking Caitlin Clark to beefing with Bidens",
-   "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-angel-reese-trash-talk-timeline-mocking-caitlin-clark-beefing-bidens",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Angel Reese s trail of trash talk, taunts and clashes stretches from LSU s title game against Caitlin Clark to the WNBA s first-ever Game 7.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/clark-reese-2023.jpg?ve=1&tl=1",
-   "age": "31m ago",
-   "published": "2026-10-31T12:21:05+00:00"
+   "title": "Three other women accused Packers' Josh Jacobs of abuse after RB's arrest, police records show",
+   "url": "https://www.cbssports.com/nfl/news/three-other-women-accused-packers-josh-jacobs-of-abuse-after-arrest/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/31/6c09de49-f4d8-4188-a9fc-de78f332db80/josh-jacobs-packers-2.jpg",
+   "age": "34m ago",
+   "published": "2026-10-31T16:51:16+00:00"
   },
   {
-   "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-   "url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+   "title": "Bears players, coaches thrilled with addition of Jeffery Simmons",
+   "url": "https://www.chicagobears.com/news/bears-players-coaches-thrilled-with-addition-of-jeffery-simmons",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/byftmuuzt8mudlwnd0z4.jpg",
+   "age": "36m ago",
+   "published": "2026-10-31T16:49:00+00:00"
+  },
+  {
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+   "age": "1h ago",
+   "published": "2026-10-31T16:12:55+00:00"
+  },
+  {
+   "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+   "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Axios reported that Qatari mediators held more than 12 hours of talks in Tehran on Friday to reach a deal to avoid a resumption of American-led attacks on Iran.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108491532-1793445317575-gettyimages-2302114677-nikoubazl-antiusai261029_npfpi.jpeg?v=1793445335&amp;w=1920&amp;h=1080",
-   "age": "40m ago",
-   "published": "2026-10-31T12:11:12+00:00"
+   "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108486125-1793374296099-108486125-1793363753922-gettyimages-2302646831-vcg111678111014.jpeg?v=1793374312&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-10-31T16:06:44+00:00"
   },
   {
-   "title": "SCHOEN, COOPERMAN: A red retreat for Republicans is not the same as a blue wave in 2026",
-   "url": "https://www.foxnews.com/opinion/schoen-cooperman-red-retreat-republicans-not-same-blue-wave-2026",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump s 38% approval and a 9-point generic congressional ballot gap signal a red retreat, but Democrats lack a mandate to govern from the left.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/1200/675/virginia-voting-booths-primary-election.jpg?ve=1&tl=1",
-   "age": "51m ago",
-   "published": "2026-10-31T12:00:56+00:00"
+   "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+   "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+   "age": "1h ago",
+   "published": "2026-10-31T15:41:57+00:00"
   },
   {
-   "title": "Miranda Lambert's friend kidnapped by her own father at age 7 recalls daring rescue that brought her home",
-   "url": "https://www.foxnews.com/entertainment/miranda-lamberts-friend-kidnapped-by-her-own-father-age-7-recalls-daring-rescue-brought-her-home",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lauren Burns was 7 when her father abducted her from Dallas to Jordan. Miranda Lambert s family helped spark the daring rescue mission home.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Miranda-Lambert-Lauren-Burns.jpg?ve=1&tl=1",
-   "age": "51m ago",
-   "published": "2026-10-31T12:00:36+00:00"
+   "title": "Bears Discussion: Jeffery Simmons trade, Seahawks preview, 2027 NFL Draft OT prospects, DFS",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/126570/chicago-bears-podcast-jeffery-simmons-trade-bears-for-breakfast",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2302267698.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-10-31T14:00:00+00:00"
   },
   {
-   "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-   "url": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
+   "title": "I took two iPhones on vacation. The Duo won me over.",
+   "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
+   "age": "3h ago",
+   "published": "2026-10-31T14:00:00+00:00"
+  },
+  {
+   "title": "From Ford’s assembly line to Indiana Senate race: Scott Houldieson's unlikely journey",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_cd1301e4-72cf-43e9-bba4-30b1e56327f1.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Scott Houldieson never dreamed of running for office while working at Ford. But a phone call sparked a mission: taking his lifelong fight for working people to the India…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/c9/7c9b5533-7f71-434e-9d6e-42a4dfa51637/6ae5029357e77.image.jpg?resize=300%2C217",
+   "age": "4h ago",
+   "published": "2026-10-31T13:00:00+00:00"
+  },
+  {
+   "title": "Trump promised to slash energy costs — but gasoline, diesel and jet fuel all soared instead",
+   "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108421360-1792180731050-gettyimages-2299995240-AFP_D3JJ2HJ.jpeg?v=1792180796&amp;w=1920&amp;h=1080",
-   "age": "52m ago",
-   "published": "2026-10-31T12:00:01+00:00"
+   "summary": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108476948-1793221677843-gettyimages-2302435509-kbd11695_irgge0gh.jpeg?v=1793221769&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-10-31T12:49:58+00:00"
   },
   {
-   "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-   "url": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+   "title": "Binance’s $6.3 billion hack raises questions about crypto wallet safety",
+   "url": "https://www.cnbc.com/2026/10/31/binance-hack-crypto-wallet-safety.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108410434-1792008079105-IMG_6557.jpeg?v=1793391159&amp;w=1920&amp;h=1080",
-   "age": "52m ago",
-   "published": "2026-10-31T12:00:01+00:00"
+   "summary": "Two high-profile security incidents this week, including the largest crypto theft in history, have raised custody and safety concerns.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108339161-1784809814466-gettyimages-841414242-JAPAN_BITCOIN.jpeg?v=1784809881&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-10-31T12:47:08+00:00"
+  },
+  {
+   "title": "A Halloween hospital stay. An extra bag of candy. A childhood kindness never forgotten",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_709e8d0a-e730-4837-bc75-02c53d950601.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A hospitalized 10-year-old boy missed Halloween. His neighborhood friends made sure he didn’t miss out on the sweetest part. Decades later, that extra bag of candy was n…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/c4/7c41ec95-8c92-553d-a581-a3d681646a46/6ad0d966e19c5.image.jpg?resize=300%2C200",
+   "age": "5h ago",
+   "published": "2026-10-31T12:15:00+00:00"
   },
   {
    "title": "Chicago Bears Week 8 Flashbacks: A Pair of Walk Offs and a Franchise Record",
@@ -115,7 +215,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/chorus/uploads/chorus_asset/file/25452086/83135931.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "52m ago",
+   "age": "5h ago",
    "published": "2026-10-31T12:00:00+00:00"
   },
   {
@@ -126,7 +226,7 @@
    "topic": "ai",
    "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-10-31T11:15:26+00:00"
   },
   {
@@ -137,30 +237,19 @@
    "topic": "ai",
    "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
-   "age": "1h ago",
+   "age": "6h ago",
    "published": "2026-10-31T11:02:34+00:00"
   },
   {
-   "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-   "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The money behind the money is thrilled, mostly.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799",
-   "age": "8h ago",
-   "published": "2026-10-31T04:16:50+00:00"
-  },
-  {
-   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
-   "age": "11h ago",
-   "published": "2026-10-31T01:20:05+00:00"
+   "title": "5 Things to Know | 3 immigrants sue over alleged mistreatment at Indiana's Miami Correctional Facility",
+   "url": "https://nwitimes.com/news/article_15b90e27-58f8-46ba-8243-7ecea8e0a83e.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A lawsuit alleges ICE detainees at Miami Correctional Facility face prolonged isolation, inadequate access to medication and basic supplies, and mistreatment by staff.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/5b/15b90e27-58f8-46ba-8243-7ecea8e0a83e/6ae54142bdc95.preview.jpg?crop=377%2C377%2C61%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+   "age": "7h ago",
+   "published": "2026-10-31T09:45:00+00:00"
   },
   {
    "title": "Surface-To-Air Missiles Deployed To Protect Trump’s Mar-a-Lago Estate",
@@ -170,7 +259,7 @@
    "topic": "defense",
    "summary": "AN/TWQ-1 Avengers fire FIM-92 Stinger missiles and have been joined by counter-drone fly-away sensor and jammer kits from U.S. Northern Command. The post Surface-To-Air …",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/AVENGER-SAM-Mur-a-lago-Trump-Drones.jpg?quality=85",
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-10-31T00:19:01+00:00"
   },
   {
@@ -181,19 +270,8 @@
    "topic": "ai",
    "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-   "age": "12h ago",
+   "age": "17h ago",
    "published": "2026-10-31T00:07:22+00:00"
-  },
-  {
-   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-   "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-   "age": "13h ago",
-   "published": "2026-10-30T23:21:23+00:00"
   },
   {
    "title": "Jeffery Simmons 'excited to be able to help' Bears 'compete for a championship'",
@@ -203,19 +281,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/knk5xmqb96ygiapok5zz.jpg",
-   "age": "14h ago",
+   "age": "18h ago",
    "published": "2026-10-30T22:38:09+00:00"
-  },
-  {
-   "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-   "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
-   "age": "14h ago",
-   "published": "2026-10-30T22:36:41+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -225,19 +292,8 @@
    "topic": "defense",
    "summary": "I wonder if there area any birds left outside? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/GettyImages-1239287841.jpg?quality=85",
-   "age": "14h ago",
+   "age": "18h ago",
    "published": "2026-10-30T22:33:00+00:00"
-  },
-  {
-   "title": "NFL Week 8 final injury report: Latest on Lamar Jackson, AJ Brown, George Pickens, more",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-8-injury-report-lamar-jackson-aj-brown-emeka-egbuka-more/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/08/22/1597b539-bcff-480c-b48d-b88fb359c87b/emeka-egbuka-tampa-bay-buccaneers-imagn-images.jpg",
-   "age": "14h ago",
-   "published": "2026-10-30T22:30:10+00:00"
   },
   {
    "title": "Fast Facts: Jeffery Simmons",
@@ -247,7 +303,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wnxqqq1iwud7hgotb5yp.jpg",
-   "age": "14h ago",
+   "age": "19h ago",
    "published": "2026-10-30T21:58:54+00:00"
   },
   {
@@ -258,19 +314,8 @@
    "topic": "defense",
    "summary": "Signs that the PLAN has been building up to this significant milestone in naval airpower have been growing for more than a year. The post Stealthy GJ-21 Drone Has Launch…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/gj-21-drone-type-076-amphibious-assault-ship-develpoments.jpg?quality=85",
-   "age": "15h ago",
+   "age": "19h ago",
    "published": "2026-10-30T21:32:50+00:00"
-  },
-  {
-   "title": "LOOK: Cardinals' Budda Baker addresses trade rumors while wearing Halloween costume",
-   "url": "https://www.cbssports.com/nfl/news/cardinals-budda-baker-addresses-trade-rumors-while-wearing-halloween-costume/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/30/9d439d4a-50b2-4805-8c8c-51b268555035/baker2026.jpg",
-   "age": "15h ago",
-   "published": "2026-10-30T21:21:53+00:00"
   },
   {
    "title": "Silvy: Jeffery Simmons makes all 10 defenders better",
@@ -280,7 +325,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2301295255.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "15h ago",
+   "age": "20h ago",
    "published": "2026-10-30T21:00:00+00:00"
   },
   {
@@ -291,7 +336,7 @@
    "topic": "defense",
    "summary": "Russia and North Korea carried out ballistic missile launches this week with Russia conducting a launch of a Submarine-Launched Ballistic Missile (SLBM) from the Western…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/0e055e1f78d2513958769c999314b2da8b71a3a606a118a94eadd53d04472abb61.jpg",
-   "age": "16h ago",
+   "age": "20h ago",
    "published": "2026-10-30T20:50:34+00:00"
   },
   {
@@ -302,7 +347,7 @@
    "topic": "defense",
    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-7…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10054392-scaled.jpg",
-   "age": "16h ago",
+   "age": "20h ago",
    "published": "2026-10-30T20:40:27+00:00"
   },
   {
@@ -313,52 +358,8 @@
    "topic": "defense",
    "summary": "The announcement comes amid heightened tensions between Kyiv and Washington, including purported delays in the transfer of interceptors.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/05/230517_patriot_battery_poland_GettyImages-1239052451-scaled-e1684334196705-1024x576.jpg",
-   "age": "16h ago",
+   "age": "21h ago",
    "published": "2026-10-30T20:17:22+00:00"
-  },
-  {
-   "title": "Hot Take Friday: Super Bears, Super Bowl",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/126545/hot-take-friday-super-bears-super-bowl",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-460833464.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "16h ago",
-   "published": "2026-10-30T20:15:00+00:00"
-  },
-  {
-   "title": "Bears at Seahawks Q A: Great Offensive and Defensive Minds Clash",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/126539/bears-at-seahawks-qa-great-offensive-and-defensive-minds-clash",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/reuters-tagreuters.com2025newsml_MT1USATODAY2731629342951940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "17h ago",
-   "published": "2026-10-30T19:30:00+00:00"
-  },
-  {
-   "title": "CeeDee Lamb says Cowboys have a Cardinals boogeyman: 'They've punched us in the mouth every single time'",
-   "url": "https://www.cbssports.com/nfl/news/cowboys-ceedee-lamb-long-haunted-cardinals/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/30/9e57ad45-38d9-4653-8855-08072a06aae4/gettyimages-2244877282.jpg",
-   "age": "18h ago",
-   "published": "2026-10-30T18:45:33+00:00"
-  },
-  {
-   "title": "Bears view Jeffery Simmons as difference maker on field, in locker room",
-   "url": "https://www.chicagobears.com/news/bears-view-jeffery-simmons-as-difference-maker-on-field-in-locker-room",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/dliksgodwphrlud2h2el.jpg",
-   "age": "18h ago",
-   "published": "2026-10-30T18:44:26+00:00"
   },
   {
    "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
@@ -368,7 +369,7 @@
    "topic": "defense",
    "summary": "Cpl. Igor started a new job this year, swapping the sights of a 105 mm gun on the French Army's AMX 10 RC reconnaissance vehicle for first-person view goggles and a hand…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/DSCF3298.jpg",
-   "age": "18h ago",
+   "age": "23h ago",
    "published": "2026-10-30T17:57:48+00:00"
   },
   {
@@ -379,7 +380,7 @@
    "topic": "defense",
    "summary": "“For the first time, PACOM and several key allies and partners communicated, collaborated, planned, and executed with common tools, common data flows and language transl…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_pacom_monitor_9418465-scaled-e1793377989595-1024x576.jpg",
-   "age": "19h ago",
+   "age": "23h ago",
    "published": "2026-10-30T17:33:00+00:00"
   },
   {
@@ -390,7 +391,7 @@
    "topic": "defense",
    "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_soldier_silhouette_9453766-scaled-e1793379107762-1024x577.jpg",
-   "age": "19h ago",
+   "age": "23h ago",
    "published": "2026-10-30T17:28:09+00:00"
   },
   {
@@ -401,7 +402,7 @@
    "topic": "defense",
    "summary": "German tank maker KNDS and Norway’s Ritek have begun producing Leopard 2A8 tanks in Norway, adding a land-based industrial foothold to a security partnership spanning su…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2246880126.jpg.jpg",
-   "age": "20h ago",
+   "age": "1d ago",
    "published": "2026-10-30T15:58:31+00:00"
   },
   {
@@ -412,7 +413,7 @@
    "topic": "defense",
    "summary": "Ukraine has completed its share of Freyja, the multinational antiballistic shield that Europe and Kyiv are racing to bring together.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2195447873.jpg.jpg",
-   "age": "21h ago",
+   "age": "1d ago",
    "published": "2026-10-30T14:56:47+00:00"
   },
   {
@@ -423,7 +424,7 @@
    "topic": "defense",
    "summary": "Hanwha Philly Shipyard has won a $269 million contract to build the Marine Corps’ Landing Ship Medium, according to a Friday announcement from the program’s vessel const…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Landing-Ship-Transport-LST-100-1536x1024-1.jpg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-10-30T13:41:37+00:00"
   },
   {
@@ -434,7 +435,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/29103549/2026-10-18T190602Z_325724958_MT1USATODAY30124373_RTRMADP_3_TENNESSEE-TITANS-DEFENSIVE-TACKLE-JEFFERY-SIMMONS-98-1-1024x576.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-29T15:37:10+00:00"
   },
   {
