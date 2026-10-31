@@ -1,9 +1,9 @@
 {
- "generated": "2026-10-31T00:16:29+00:00",
+ "generated": "2026-10-31T06:01:03+00:00",
  "count": 40,
- "withImage": 38,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -13,8 +13,6 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Hendrick Motorsports",
-  "MotorBiscuit",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
@@ -23,37 +21,81 @@
  ],
  "items": [
   {
-   "title": "Think you can save the Hubble Space Telescope? NASA wants to know.",
+   "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+   "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The money behind the money is thrilled, mostly.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Beezer-and-Amit.jpg?w=799",
+   "age": "1h ago",
+   "published": "2026-10-31T04:16:50+00:00"
+  },
+  {
+   "title": "Thunder to lose Chet Holmgren for at least 2 months with knee injury amid string of early-season NBA injuries",
+   "url": "https://www.foxnews.com/outkick-sports/thunder-lose-chet-holmgren-least-2-months-knee-injury-amid-string-early-season-nba-injuries",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Chet Holmgren will miss eight to 10 weeks after undergoing treatment for a small patellar tendon tear, compounding the Thunder s mounting injury woes.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Chet-Holmgren-OKC.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-10-31T03:50:47+00:00"
+  },
+  {
+   "title": "Brewers manager reveals his biggest challenge during championship parade was not peeing himself",
+   "url": "https://www.foxnews.com/outkick-sports/brewers-manager-reveals-biggest-challenge-championship-parade-not-peeing-himself",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Pat Murphy s hilarious confession about his bladder during the Milwaukee Brewers championship parade had the crowd roaring at the end of the route.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/pat-murphy.png?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-31T03:00:55+00:00"
+  },
+  {
+   "title": "JuJu Watkins says she's dreamed of her first basket since ACL injury as USC looks to end title drought",
+   "url": "https://www.foxnews.com/outkick-sports/juju-watkins-dreamed-first-basket-since-acl-injury-usc-looks-end-title-drought",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "JuJu Watkins returns to USC women s basketball after rehabbing an ACL tear, joining Jazzy Davidson in a loaded backcourt chasing a national title.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/juju-watkins4.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-10-31T02:12:49+00:00"
+  },
+  {
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+   "age": "4h ago",
+   "published": "2026-10-31T01:20:05+00:00"
+  },
+  {
+   "title": "Surface-To-Air Missiles Deployed To Protect Trump’s Mar-a-Lago Estate",
+   "url": "https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "AN/TWQ-1 Avengers fire FIM-92 Stinger missiles and have been joined by counter-drone fly-away sensor and jammer kits from U.S. Northern Command. The post Surface-To-Air …",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/AVENGER-SAM-Mur-a-lago-Trump-Drones.jpg?quality=85",
+   "age": "5h ago",
+   "published": "2026-10-31T00:19:01+00:00"
+  },
+  {
+   "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
    "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
    "source": "Ars Technica",
    "group": "Ars Technica",
    "topic": "ai",
    "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-   "age": "9m ago",
+   "age": "5h ago",
    "published": "2026-10-31T00:07:22+00:00"
-  },
-  {
-   "title": "Avengers Assemble: Surface-To-Air Missiles Deployed To Protect Trump’s Mar-a-Lago Estate",
-   "url": "https://www.twz.com/land/avenger-assemble-surface-to-air-missiles-deployed-to-protect-trumps-mar-a-lago-estate",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "AN/TWQ-1 Avengers fire FIM-92 Stinger missiles and have been joined by counter-drone fly-away sensor and jammer kits from U.S. Northern Command. The post Avengers Assemb…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/AVENGER-SAM-Mur-a-lago-Trump-Drones.jpg?quality=85",
-   "age": "10m ago",
-   "published": "2026-10-31T00:05:50+00:00"
-  },
-  {
-   "title": "DAVID MARCUS: California transplants in Texas are voting Democrat, and they see no irony in it",
-   "url": "https://www.foxnews.com/opinion/david-marcus-california-transplants-texas-voting-democrat-see-no-irony",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "California to Texas migration is reshaping Texas politics as Democratic transplants bring progressive values to the once ruby red McKinney, Texas.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/u-haul-leaving-california-3.jpg?ve=1&tl=1",
-   "age": "44m ago",
-   "published": "2026-10-30T23:31:35+00:00"
   },
   {
    "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
@@ -63,30 +105,8 @@
    "topic": "ai",
    "summary": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
-   "age": "55m ago",
+   "age": "6h ago",
    "published": "2026-10-30T23:21:23+00:00"
-  },
-  {
-   "title": "EXCLUSIVE: ICE captures illegal alien at center of NYC manhunt after sanctuary city release",
-   "url": "https://www.foxnews.com/politics/exclusive-ice-captures-illegal-alien-center-nyc-manhunt-sanctuary-city-release",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Alpha Bah, who allegedly assaulted a NYPD officer, was tracked to a temporary NYC residence after his release from Queens Central Booking despite an ICE detainer request.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/alpha-bah-ice-arrest-nyc-manhunt-sanctuary-city.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-30T23:10:58+00:00"
-  },
-  {
-   "title": "Battleground Republican declares he is 'stronger than ever' as he addresses scrutiny over missed votes",
-   "url": "https://www.foxnews.com/media/battleground-republican-declares-stronger-than-ever-addresses-scrutiny-missed-votes",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Rep. Tom Kean Jr. says he is stronger than ever after a months-long hospitalization for depression, vowing to combat mental health stigma.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/tom-keans-jr-fox-news.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-10-30T23:02:55+00:00"
   },
   {
    "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
@@ -96,7 +116,7 @@
    "topic": "markets",
    "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate or if Democrats take control of the chamber.",
    "image": "https://image.cnbcfm.com/api/v1/image/108488337-17933915402026-10-30t201616z_335436600_rc2wdoaqdw1d_rtrmadp_0_usa-election-alaska.jpeg?v=1793391571&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:57:55+00:00"
   },
   {
@@ -107,7 +127,7 @@
    "topic": "ai",
    "summary": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:56:13+00:00"
   },
   {
@@ -118,7 +138,7 @@
    "topic": "markets",
    "summary": "Meta has been given a negative outlook by S&P Global Ratings due to the company's hefty capital expenditures and concerns about free cash flow.",
    "image": "https://image.cnbcfm.com/api/v1/image/108443816-1792619674334-gettyimages-2296213884-META_CONNECT.jpeg?v=1792619769&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:42:26+00:00"
   },
   {
@@ -129,7 +149,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/knk5xmqb96ygiapok5zz.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:38:09+00:00"
   },
   {
@@ -140,7 +160,7 @@
    "topic": "ai",
    "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:36:41+00:00"
   },
   {
@@ -151,7 +171,7 @@
    "topic": "defense",
    "summary": "I wonder if there area any birds left outside? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/GettyImages-1239287841.jpg?quality=85",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:33:00+00:00"
   },
   {
@@ -162,7 +182,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:32:43+00:00"
   },
   {
@@ -173,19 +193,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/08/22/1597b539-bcff-480c-b48d-b88fb359c87b/emeka-egbuka-tampa-bay-buccaneers-imagn-images.jpg",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:30:10+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Knicks-76ers, NBA, UCF-Baylor on Friday",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-knicks-76ers-nba-ucf-baylor-friday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-   "age": "1h ago",
-   "published": "2026-10-30T22:26:36+00:00"
   },
   {
    "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
@@ -195,7 +204,7 @@
    "topic": "ai",
    "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-10-30T22:21:05+00:00"
   },
   {
@@ -206,19 +215,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wnxqqq1iwud7hgotb5yp.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-30T21:58:54+00:00"
-  },
-  {
-   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
-   "age": "2h ago",
-   "published": "2026-10-30T21:54:34+00:00"
   },
   {
    "title": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims",
@@ -228,8 +226,19 @@
    "topic": "defense",
    "summary": "Signs that the PLAN has been building up to this significant milestone in naval airpower have been growing for more than a year. The post Stealthy GJ-21 Drone Has Launch…",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/gj-21-drone-type-076-amphibious-assault-ship-develpoments.jpg?quality=85",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-10-30T21:32:50+00:00"
+  },
+  {
+   "title": "LOOK: Cardinals' Budda Baker addresses trade rumors while wearing Halloween costume",
+   "url": "https://www.cbssports.com/nfl/news/cardinals-budda-baker-addresses-trade-rumors-while-wearing-halloween-costume/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/30/9d439d4a-50b2-4805-8c8c-51b268555035/baker2026.jpg",
+   "age": "8h ago",
+   "published": "2026-10-30T21:21:53+00:00"
   },
   {
    "title": "Silvy: Jeffery Simmons makes all 10 defenders better",
@@ -239,7 +248,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2301295255.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-30T21:00:00+00:00"
   },
   {
@@ -250,7 +259,7 @@
    "topic": "defense",
    "summary": "Russia and North Korea carried out ballistic missile launches this week with Russia conducting a launch of a Submarine-Launched Ballistic Missile (SLBM) from the Western…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/0e055e1f78d2513958769c999314b2da8b71a3a606a118a94eadd53d04472abb61.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-30T20:50:34+00:00"
   },
   {
@@ -261,7 +270,7 @@
    "topic": "defense",
    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. Around Japan Aircraft carrier USS Theodore Roosevelt (CVN-7…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/10054392-scaled.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-30T20:40:27+00:00"
   },
   {
@@ -272,7 +281,7 @@
    "topic": "markets",
    "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
    "image": "https://image.cnbcfm.com/api/v1/image/108477592-1793377481413-108477592-1793228653912-gettyimages-2278669397-AFP_B4P96JN.jpg?v=1793377502&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-30T20:30:57+00:00"
   },
   {
@@ -283,7 +292,7 @@
    "topic": "defense",
    "summary": "The announcement comes amid heightened tensions between Kyiv and Washington, including purported delays in the transfer of interceptors.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/05/230517_patriot_battery_poland_GettyImages-1239052451-scaled-e1684334196705-1024x576.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-10-30T20:17:22+00:00"
   },
   {
@@ -294,7 +303,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-460833464.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
+   "age": "9h ago",
    "published": "2026-10-30T20:15:00+00:00"
   },
   {
@@ -305,7 +314,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/reuters-tagreuters.com2025newsml_MT1USATODAY2731629342951940.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-10-30T19:30:00+00:00"
   },
   {
@@ -316,7 +325,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/dliksgodwphrlud2h2el.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-10-30T18:44:26+00:00"
   },
   {
@@ -327,7 +336,7 @@
    "topic": "defense",
    "summary": "Cpl. Igor started a new job this year, swapping the sights of a 105 mm gun on the French Army's AMX 10 RC reconnaissance vehicle for first-person view goggles and a hand…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/DSCF3298.jpg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-30T17:57:48+00:00"
   },
   {
@@ -338,7 +347,7 @@
    "topic": "defense",
    "summary": "“For the first time, PACOM and several key allies and partners communicated, collaborated, planned, and executed with common tools, common data flows and language transl…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_pacom_monitor_9418465-scaled-e1793377989595-1024x576.jpg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-30T17:33:00+00:00"
   },
   {
@@ -349,7 +358,7 @@
    "topic": "defense",
    "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_soldier_silhouette_9453766-scaled-e1793379107762-1024x577.jpg",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-10-30T17:28:09+00:00"
   },
   {
@@ -360,7 +369,7 @@
    "topic": "defense",
    "summary": "German tank maker KNDS and Norway’s Ritek have begun producing Leopard 2A8 tanks in Norway, adding a land-based industrial foothold to a security partnership spanning su…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2246880126.jpg.jpg",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-10-30T15:58:31+00:00"
   },
   {
@@ -371,7 +380,7 @@
    "topic": "defense",
    "summary": "Ukraine has completed its share of Freyja, the multinational antiballistic shield that Europe and Kyiv are racing to bring together.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2195447873.jpg.jpg",
-   "age": "9h ago",
+   "age": "15h ago",
    "published": "2026-10-30T14:56:47+00:00"
   },
   {
@@ -382,7 +391,7 @@
    "topic": "defense",
    "summary": "Hanwha Philly Shipyard has won a $269 million contract to build the Marine Corps’ Landing Ship Medium, according to a Friday announcement from the program’s vessel const…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Landing-Ship-Transport-LST-100-1536x1024-1.jpg",
-   "age": "10h ago",
+   "age": "16h ago",
    "published": "2026-10-30T13:41:37+00:00"
   },
   {
@@ -393,7 +402,7 @@
    "topic": "local",
    "summary": "A Lake County judge is weighing whether to dismiss a trespassing lawsuit against two prospective Crown Point political candidates who say the case targets their public c…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/b3/bb368ce7-ec8e-4737-b62e-74c495f35d87/6ae3fa139a0ca.preview.webp?crop=1713%2C899%2C0%2C154&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "14h ago",
+   "age": "20h ago",
    "published": "2026-10-30T09:45:00+00:00"
   },
   {
@@ -404,7 +413,7 @@
    "topic": "local",
    "summary": "A woman shot three times during a 2021 East Chicago traffic stop could receive $375,000 under a proposed settlement that does not admit city liability.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/10/71072ef0-0d5f-413c-92ba-a47761952e96/6ae3f7bd063f9.preview.webp?crop=374%2C374%2C110%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
-   "age": "14h ago",
+   "age": "20h ago",
    "published": "2026-10-30T09:30:00+00:00"
   },
   {
@@ -415,7 +424,7 @@
    "topic": "local",
    "summary": "U.S. Steel is offering a 19.3% wage increase over five years and a $4,000 bonus. The union says key contract issues remain unresolved.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/7e/f7e6fe5d-2b7a-43cc-9b86-fb4eaaf3d1e9/6ae3f34852e07.preview.webp?crop=1874%2C984%2C0%2C60&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "15h ago",
+   "age": "20h ago",
    "published": "2026-10-30T09:15:00+00:00"
   },
   {
@@ -441,26 +450,15 @@
    "published": "2026-10-29T12:18:53+00:00"
   },
   {
-   "title": "Kyle Larson Nears Third NASCAR Title 6 Years After Hendrick Signing",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmJiX0U1UjVMWURoTzM1OHlSYnM4TGU3MTY0VjAxX2QtZFBBMjdJeGFUWlhKWXJKLVBxLUZmWFg3eHpucUc4QjRaMnR2eTNaRkg3dm9BZFlMakZ6NXJEZ0JxNjdnRkducWoxaGxxQ28tdXlPdWU2S1dXWWp2Y3hjdEdDY28?oc=5",
-   "source": "MotorBiscuit",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Bears DE Montez Sweat ‘moving forward’ after two-game suspension",
+   "url": "https://allchgo.com/bears/bears-montez-sweat-moving-forward-two-game-suspension/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-10-28T21:01:48+00:00"
-  },
-  {
-   "title": "NASCAR paint scheme preview for Martinsville: Check out Hendrick Motorsports' Virginia colors",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDltc3pqNDBDeVZzX1R0WUUxRE5UMmVoNWZxMTBBMXA5WVlxd0V4aG9iWXc4TmcwaTk1ZkhjWVppNFdNUE9wSm9GWkczQng2WnBxcE95TmpBcjFXSnN6SXc3WTJiTUhzOW1HaTZXQjhNTkRZTGF0bkJMdE1naGF1bEc1akJVZDJEbDV1YXB6QUl1T1JQUlhLU1J2ekhRb3NvNHdhaw?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/10/27155956/2026-10-06T120251Z_1307702028_MT1USATODAY30010888_RTRMADP_3_NFL-NEW-YORK-JETS-AT-CHICAGO-BEARS-1-1024x576.jpg",
    "age": "3d ago",
-   "published": "2026-10-27T12:00:06+00:00"
+   "published": "2026-10-27T21:02:31+00:00"
   }
  ]
 }
