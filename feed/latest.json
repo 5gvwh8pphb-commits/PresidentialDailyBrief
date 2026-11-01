@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T10:40:23+00:00",
+ "generated": "2026-11-01T16:56:44+00:00",
  "count": 40,
  "withImage": 40,
  "bearsDay": false,
@@ -10,11 +10,155 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
+  {
+   "title": "Binance resumes withdrawals following $6.3 billion breach",
+   "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+   "age": "36m ago",
+   "published": "2026-11-01T16:20:10+00:00"
+  },
+  {
+   "title": "Everything changed for the oil, AI and bond trades over the past month",
+   "url": "https://www.cnbc.com/2026/11/01/oil-bond-yields-ai-market.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The market expects oil to keep rising, but treasury yields have declined, a warning traders and investors may be more worried about an AI crash than inflation.",
+   "image": "https://image.cnbcfm.com/api/v1/image/100617493-113215716.jpg?v=1677525346&amp;w=1920&amp;h=1080",
+   "age": "58m ago",
+   "published": "2026-11-01T15:58:24+00:00"
+  },
+  {
+   "title": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
+   "url": "https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A State Department spokesperson called the Turkey-Libya maritime accord unhelpful and provocative as diplomatic tensions escalate in the region.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/libya-oil-gas-platform.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-01T15:49:16+00:00"
+  },
+  {
+   "title": "5 US destinations named to Best of World travel list for 2027 by National Geographic",
+   "url": "https://www.foxnews.com/travel/5-us-destinations-named-best-world-travel-list-2027-national-geographic",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Madison, Wisconsin, leads National Geographic s 2027 Best of the World list, with four other U.S. destinations selected. Choices span from California to Maryland.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/madison-wisconsin-downtown-capitol.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-01T15:44:24+00:00"
+  },
+  {
+   "title": "Oklahoma State wide receiver issues apology after wildly unnecessary penalty ends up costing Cowboys late",
+   "url": "https://www.foxnews.com/outkick-sports/oklahoma-state-wide-receiver-apology-unnecessary-penalty-costs-cowboys-late",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Wyatt Young s unsportsmanlike conduct penalty after shouting at Iowa State fans shifted field position and set up a game-winning field goal.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/wyatt-young-oklahoma-state.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-01T15:40:06+00:00"
+  },
+  {
+   "title": "Packers' interest in Jonathan Taylor shows desire to move on from Josh Jacobs and his domestic abuse issues",
+   "url": "https://www.foxnews.com/outkick-sports/packers-interest-jonathan-taylor-shows-desire-move-josh-jacobs-domestic-abuse-issues",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The Green Bay Packers pursuit of Jonathan Taylor a sign Josh Jacobs days in Green Bay seem numbered amid expanding domestic abuse allegations.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/jonathan-taylor-colts-titans-run.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-01T15:24:10+00:00"
+  },
+  {
+   "title": "These Senate races may help determine the fate of Social Security",
+   "url": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Social Security's retirement trust fund may run out in 2032. Senators elected this November will be in office when that deadline comes.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108433442-1792431519577-SS_BATTLE_GROUND.png?v=1793397364&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-01T15:20:06+00:00"
+  },
+  {
+   "title": "Fake party invite scam: Can you trust a friend's reply?",
+   "url": "https://www.foxnews.com/tech/fake-party-invite-scam-trust-friends-reply",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A phishing email disguised as an Evite fooled a man even after he emailed his friend to verify it, revealing how compromised Gmail accounts aid scams.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/retiree-data-protection-001.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-01T15:02:33+00:00"
+  },
+  {
+   "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+   "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pixel-11-fold-feat.jpg?resize=1200,675",
+   "age": "1h ago",
+   "published": "2026-11-01T15:00:00+00:00"
+  },
+  {
+   "title": "Why AI is boosting Meta's ad business while hurting Google search",
+   "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108497472-1793543323692-gettyimages-2231576298-AA_27082025_2388287.jpeg?v=1793543337&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-01T14:31:29+00:00"
+  },
+  {
+   "title": "From wrestling ring to campaign trail, Kate-Lynn Holley seeks Indiana Senate seat",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_4394ed43-66e7-45f0-9247-e03554a30ac6.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Democrat candidate for Senate District 6 is an unlikely political contender whose difficult upbringing, fighting spirit and belief in helping others have shaped her …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/6c/56c523bf-7c2f-4496-bfcf-09b8e1dcf54b/6ae52c2ac660f.image.jpg?resize=300%2C241",
+   "age": "2h ago",
+   "published": "2026-11-01T14:00:00+00:00"
+  },
+  {
+   "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+   "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_6045.jpeg?resize=1200,900",
+   "age": "2h ago",
+   "published": "2026-11-01T14:00:00+00:00"
+  },
+  {
+   "title": "From car salesman to congressman, Frank Mrvan Jr. never forgot where he came from",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_02eb3ba8-ae9b-48b0-97db-3990c1b93c1f.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Frank Mrvan Jr. has learned that politics is ultimately about people, from his early campaign lessons to his family life, fitness routine, and even encounters at dog par…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/31/a314dd82-99b1-4009-8a8b-f1869481cb42/6ae52abc6e914.image.jpg?resize=300%2C400",
+   "age": "3h ago",
+   "published": "2026-11-01T13:15:00+00:00"
+  },
   {
    "title": "Binance resumes withdrawals following $6.3 billion hack, says 90% of stolen user assets are covered",
    "url": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
@@ -22,75 +166,20 @@
    "group": "CNBC",
    "topic": "markets",
    "summary": "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and resumed phased withdrawals.",
-   "image": "https://image.cnbcfm.com/api/v1/image/106907103-1625597281111-gettyimages-1233700528-porzycki-binancep210628_npNRz.jpeg?v=1680785353&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-01T09:03:47+00:00"
-  },
-  {
-   "title": "Shooting after Magic City Classic in Alabama leaves 1 dead, 8 injured",
-   "url": "https://www.foxnews.com/us/shooting-after-magic-city-classic-alabama-leaves-1-dead-8-injured",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A shooting near Legion Field after the Magic City Classic left one dead and eight wounded, with police recovering multiple firearms at the scene.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/birmingham-legion-field-fatal-shooting.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-01T09:01:01+00:00"
-  },
-  {
-   "title": "Midterm voters reveal what's driving them to the polls — but what they're voting against may matter more",
-   "url": "https://www.foxnews.com/politics/midterm-voters-reveal-whats-driving-them-polls-what-theyre-voting-against-may-matter-more",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Voters reveal frustration with Trump s administration and opposition to socialism as the key factors driving their midterm election decisions.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/midterm-voters-3-split.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-01T09:00:51+00:00"
-  },
-  {
-   "title": "'Toxic cocktail' of renter protections destroyed $39M affordable housing investment as Dem cities follow suit",
-   "url": "https://www.foxnews.com/politics/toxic-cocktail-seattle-renter-protections-destroyed-39m-affordable-housing-investment-dem-cities-follow-suit",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A once-profitable apartment complex saw rent collections plunge as Seattle expanded restrictions on landlords, sparking a constitutional battle with national implication…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/07/931/523/Seattle-1.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-11-01T08:00:22+00:00"
-  },
-  {
-   "title": "Companies promised AI gains— here's how the payoff showed up in earnings",
-   "url": "https://www.cnbc.com/2026/11/01/ai-investments-company-earnings.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Santander, Novartis and other companies say AI is beginning to boost revenue, cut costs or improve profitability as investors seek returns.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108253381-1768531442124-gettyimages-2218925569-_dsc8484.jpeg?v=1793360711&amp;w=1920&amp;h=1080",
+   "image": "https://image.cnbcfm.com/api/v1/image/108497070-1793535531836-gettyimages-2302112397-SKOREA_BINANCE.jpeg?v=1793535553&amp;w=1920&amp;h=1080",
    "age": "4h ago",
-   "published": "2026-11-01T06:00:01+00:00"
+   "published": "2026-11-01T12:19:33+00:00"
   },
   {
-   "title": "Ohio State's national title hopes are rightfully fading after USC delivers reality check in shocking upset",
-   "url": "https://www.foxnews.com/outkick-sports/ohio-state-national-title-hopes-rightfully-fading-usc-delivers-reality-check-shocking-upset",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lincoln Riley s USC upset over No. 2 Ohio State exposes the Buckeyes offensive collapse, with Oregon, Nebraska and Michigan still on the schedule.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/luke-fahey-ohio-state-usc-coliseum.jpg?ve=1&tl=1",
-   "age": "6h ago",
-   "published": "2026-11-01T04:26:46+00:00"
-  },
-  {
-   "title": "Bill Belichick's UNC Tar Heels nearly upset top-ranked Miami before costly strip-sack",
-   "url": "https://www.foxnews.com/outkick-sports/bill-belichick-unc-tar-heels-nearly-upset-top-ranked-miami-costly-strip-sack",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "UNC s Billy Edwards Jr. threw for 341 yards and four touchdowns, but a costly strip-sack swung momentum as Miami escaped Chapel Hill still undefeated.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bill-belichick-north-carolina-tar-heels.jpg?ve=1&tl=1",
-   "age": "6h ago",
-   "published": "2026-11-01T03:52:38+00:00"
+   "title": "GEORGE GRENCHIK | The big day approaches",
+   "url": "https://nwitimes.com/news/article_67add806-ae0f-46df-b7c6-3f1f5e9cb854.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "GEORGE GRENCHIK:",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "4h ago",
+   "published": "2026-11-01T12:00:00+00:00"
   },
   {
    "title": "Data centers are now a midterm issue, even in Brooklyn",
@@ -100,7 +189,7 @@
    "topic": "ai",
    "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circlin…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-11-01T02:22:10+00:00"
   },
   {
@@ -111,7 +200,7 @@
    "topic": "markets",
    "summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
    "image": "https://image.cnbcfm.com/api/v1/image/108174185-1752873502792-Trump_Murdoch2.jpg?v=1752873942&amp;w=1920&amp;h=1080",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-10-31T23:56:40+00:00"
   },
   {
@@ -122,63 +211,30 @@
    "topic": "ai",
    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-10-31T21:41:00+00:00"
   },
   {
-   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-   "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could c…",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-   "age": "13h ago",
-   "published": "2026-10-31T21:36:07+00:00"
+   "title": "From Ford’s assembly line to Indiana Senate race: Scott Houldieson's unlikely journey",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_cd1301e4-72cf-43e9-bba4-30b1e56327f1.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Scott Houldieson never dreamed of running for office while working at Ford. But a phone call sparked a mission: taking his lifelong fight for working people to the India…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/c9/7c9b5533-7f71-434e-9d6e-42a4dfa51637/6ae5029357e77.image.jpg?resize=300%2C217",
+   "age": "1d ago",
+   "published": "2026-10-31T13:00:00+00:00"
   },
   {
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-   "age": "13h ago",
-   "published": "2026-10-31T21:17:03+00:00"
-  },
-  {
-   "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-   "url": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108334421-1783985304743-xAI_Power_Plant_12.jpg?v=1784162069&amp;w=1920&amp;h=1080",
-   "age": "14h ago",
-   "published": "2026-10-31T20:12:37+00:00"
-  },
-  {
-   "title": "OpenAI reportedly lowers funding target for new round",
-   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-   "age": "18h ago",
-   "published": "2026-10-31T16:12:55+00:00"
-  },
-  {
-   "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-   "url": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108421360-1792180731050-gettyimages-2299995240-AFP_D3JJ2HJ.jpeg?v=1792180796&amp;w=1920&amp;h=1080",
-   "age": "22h ago",
-   "published": "2026-10-31T12:00:01+00:00"
+   "title": "A Halloween hospital stay. An extra bag of candy. A childhood kindness never forgotten",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_709e8d0a-e730-4837-bc75-02c53d950601.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A hospitalized 10-year-old boy missed Halloween. His neighborhood friends made sure he didn’t miss out on the sweetest part. Decades later, that extra bag of candy was n…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/c4/7c41ec95-8c92-553d-a581-a3d681646a46/6ad0d966e19c5.image.jpg?resize=300%2C200",
+   "age": "1d ago",
+   "published": "2026-10-31T12:15:00+00:00"
   },
   {
    "title": "Seabirds racing home over the ocean can get jet-lagged",
@@ -188,7 +244,7 @@
    "topic": "ai",
    "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-10-31T11:15:26+00:00"
   },
   {
@@ -199,7 +255,7 @@
    "topic": "ai",
    "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-10-31T11:02:34+00:00"
   },
   {
@@ -245,17 +301,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/10/GettyImages-1239287841.jpg?quality=85",
    "age": "1d ago",
    "published": "2026-10-30T22:33:00+00:00"
-  },
-  {
-   "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-   "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
-   "age": "1d ago",
-   "published": "2026-10-30T22:21:05+00:00"
   },
   {
    "title": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims",
@@ -313,17 +358,6 @@
    "published": "2026-10-30T20:17:22+00:00"
   },
   {
-   "title": "Iran Used Limpet Mine Placed On Ship’s Hull In Latest Strait Of Hormuz Attack: Report",
-   "url": "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "More air defenses, ships, troops, ammo and supplies are flowing into the Middle East as the clock ticks down to the potential start of a new air campaign against Iran. T…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/Strait-hormuz-blockade-mines.jpg?quality=85",
-   "age": "1d ago",
-   "published": "2026-10-30T18:33:46+00:00"
-  },
-  {
    "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
    "url": "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
    "source": "Defense News",
@@ -364,19 +398,8 @@
    "topic": "defense",
    "summary": "The new policy is due to come into effect in April 2027 and make sure that “British workers and businesses still benefit,” from contracts inked with foreign firms, accor…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260630_brit_F35s_carrier_FLEET-20260618-XN0419-096-scaled-e1782828538518-1024x577.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-30T16:45:00+00:00"
-  },
-  {
-   "title": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha",
-   "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The award marks the first shipyard selection from TOTE Services as the vessel construction manager of the LSM program for the Navy.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/60071-home-MediumLandingShips-e1712928985995-1024x577.jpg",
-   "age": "1d ago",
-   "published": "2026-10-30T16:16:18+00:00"
   },
   {
    "title": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
@@ -386,7 +409,7 @@
    "topic": "defense",
    "summary": "German tank maker KNDS and Norway’s Ritek have begun producing Leopard 2A8 tanks in Norway, adding a land-based industrial foothold to a security partnership spanning su…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2246880126.jpg.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-30T15:58:31+00:00"
   },
   {
@@ -397,7 +420,7 @@
    "topic": "defense",
    "summary": "Ukraine has completed its share of Freyja, the multinational antiballistic shield that Europe and Kyiv are racing to bring together.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2195447873.jpg.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-30T14:56:47+00:00"
   },
   {
@@ -408,7 +431,7 @@
    "topic": "defense",
    "summary": "EOS Defense Systems discusses plans for U.S. production of its Slinger counter-drone system, AI-assisted targeting and adjustable levels of autonomy.",
    "image": "https://cdn.jwplayer.com/videos/CcSRUUlD-5ZsksG4j.mp4",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-30T14:28:39+00:00"
   },
   {
@@ -419,19 +442,8 @@
    "topic": "defense",
    "summary": "Hanwha Philly Shipyard has won a $269 million contract to build the Marine Corps’ Landing Ship Medium, according to a Friday announcement from the program’s vessel const…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Landing-Ship-Transport-LST-100-1536x1024-1.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-30T13:41:37+00:00"
-  },
-  {
-   "title": "Pentagon tells Europeans to cool their rhetoric on Russia, sources say",
-   "url": "https://www.defensenews.com/global/europe/2026/10/30/pentagon-tells-europeans-to-cool-their-rhetoric-on-russia-sources-say/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Pentagon officials have in recent weeks asked several NATO countries to tone down their rhetoric regarding the threat posed by Russia, sources told Reuters.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/2026-10-30T050400Z_1_LYNXNPEM9T0BC_RTROPTP_4_USA-MEMORIAL.jpg",
-   "age": "1d ago",
-   "published": "2026-10-30T10:48:59+00:00"
   },
   {
    "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
@@ -443,17 +455,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9527316-scaled.jpg",
    "age": "2d ago",
    "published": "2026-10-29T20:41:01+00:00"
-  },
-  {
-   "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
-   "url": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week. Malabar 2026 …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/9422519-scaled.jpg",
-   "age": "2d ago",
-   "published": "2026-10-29T20:03:43+00:00"
   }
  ]
 }
