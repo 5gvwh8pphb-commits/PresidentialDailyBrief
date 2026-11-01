@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-01",
+  "dateLabel": "Sunday, November 1, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-01T15:37:02Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, October 30, 2026 close — a rough finish to a volatile earnings week, as Big Tech's AI-spending jitters overcame the Fed's rate hold and a strong GDP report.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,580.07", "change": "-0.6%", "heroLabel": "week", "sixMo": "+5.1%" },
+        { "name": "Dow", "close": "51,770.31", "change": "-0.9%", "heroLabel": "week", "sixMo": "+4.3%" },
+        { "name": "Nasdaq", "close": "25,437.00", "change": "-2.0%", "heroLabel": "week", "sixMo": "+2.2%" }
+      ],
+      "body": "The week opened with the Fed holding rates steady and Oracle surging on its long-term revenue outlook, but Wednesday night's Alphabet post-earnings plunge reignited AI capital-spending worries that spread to Amazon and Intel by Friday; third-quarter GDP growth accelerated to 3.4% and oil pushed back toward $100 a barrel on US-Iran tensions.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Evacuees reach Ukraine after US-brokered ceasefire frees them from Russian-occupied Oleshky",
+      "body": "Civilians cut off for months from reliable food, water and medicine arrived in Ukraine by bus and plane via Russia and Belarus under a localized ceasefire the White House says first lady Melania Trump helped broker; Russian strikes on the surrounding area had blocked aid from reaching the city before the truce allowed the evacuation.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/residents-evacuated-oleshky-arrive-ukraine-temporary-us-brokered-ceasefire/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Taiwan thanks US, Japan and South Korea for reaffirming Taiwan Strait peace at G20",
+      "body": "At a trilateral meeting on the sidelines of the G20 in Atlanta, Secretary of State Marco Rubio joined his Japanese and South Korean counterparts in stressing the importance of peace and stability across the Taiwan Strait and raising concerns about China's assertiveness in the South China Sea; Taiwan's foreign ministry thanked the three allies and said it would deepen cooperation in response to China's 'gray zone' pressure.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/01/2003866945"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Trump says US still has 'one or two' Iran sites to hit as Doha talks reach a third day",
+      "body": "Trump said the US has 'knocked out' much of Iran's military and nuclear program but still must deal with a couple of remaining sites, including a suspected underground complex he called 'Pickaxe Mountain' that Tehran denies is a nuclear facility; Secretary of State Marco Rubio said Trump has made no decision on resuming strikes as Iranian negotiators held a third straight day of indirect talks with mediators in Doha.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development surfaced within the 72-hour window; the US-Japan deal to build a Japan-based AMRAAM final-assembly plant was announced October 28 and falls just outside the window, and nothing fresher on AI-enabled systems or naval/space platforms emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic expected to get a 'junk' credit rating even as its IPO nears, FT reports",
+      "body": "Blackstone, which anchored a recent $63 billion chip-financing deal for Anthropic, now expects the company to receive only a high speculative-grade ('junk') rating after its IPO rather than the investment-grade rating it had previously predicted, the Financial Times reported, reflecting investor unease over Anthropic's heavy compute spending.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears TE Colston Loveland good to go Monday against Seahawks despite neck injury",
+      "body": "Loveland, who was limited in Friday's practice by the neck issue, is cleared to play in Monday night's game at Seattle; new DT Jeffery Simmons, acquired from Tennessee this week, has reportedly made an immediate impact at Halas Hall as the Bears' new defensive centerpiece, with Giants coach John Harbaugh said to have made an unusual last-minute phone call trying to beat Chicago to the trade.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/31/bears-report-te-colston-loveland-good-to-go-vs-seahawks-despite-neck-injury"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new non-spoiler roster, sponsorship or schedule item surfaced within the 72-hour window beyond what was already reported; yesterday's brief covered the Martinsville cutoff race and the playoffs' move to Homestead-Miami, and nothing further non-spoiler emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news surfaced within the 72-hour window; byFaith's worship-committee feedback period and its 2027 General Assembly preacher announcement were already covered or fall outside the window, and nothing fresher on denominational news emerged today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
