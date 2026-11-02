@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-02T06:31:05+00:00",
+ "generated": "2026-11-02T16:40:08+00:00",
  "count": 40,
- "withImage": 39,
+ "withImage": 38,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -11,76 +11,276 @@
   "Defense News",
   "Fox News",
   "Motorsport.com",
+  "NASCAR.com",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
-   "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+   "title": "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+   "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108366594-1790123780346-gettyimages-2296079881-AA_22092026_2963049.jpeg?v=1790123812&amp;w=1920&amp;h=1080",
-   "age": "29m ago",
-   "published": "2026-11-02T06:02:03+00:00"
+   "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+   "image": "https://image.cnbcfm.com/api/v1/image/108279604-17738456062026-03-18t145228z_1941725695_rc217ka1781f_rtrmadp_0_usa-oil-eia.jpeg?v=1773845622&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-11-02T16:38:58+00:00"
   },
   {
-   "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-   "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108486123-1793363750138-gettyimages-2302145323-Binance.jpeg?v=1793363814&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-02T05:09:45+00:00"
+   "title": "Enterprise Hulk Towed from Newport News Shipbuilding",
+   "url": "https://news.usni.org/2026/11/02/enterprise-hulk-towed-from-newport-news-shipbuilding",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The hulk of former nuclear aircraft carrier USS Enterprise (CVN-65) was towed from a pier at Newport News Shipbuilding on Monday, almost 15 years after its final deploym…",
+   "image": "https://news.usni.org/wp-content/uploads/2022/08/AM1A7891.jpg",
+   "age": "7m ago",
+   "published": "2026-11-02T16:32:40+00:00"
   },
   {
-   "title": "Borrowed reading: stories from our extended colleagues",
-   "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+   "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+   "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/03/newspaper-stack_GettyImages648942926.jpeg?resize=1200,800",
-   "age": "2h ago",
-   "published": "2026-11-02T04:23:48+00:00"
+   "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+   "age": "10m ago",
+   "published": "2026-11-02T16:30:00+00:00"
   },
   {
-   "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-   "url": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
+   "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+   "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+   "age": "16m ago",
+   "published": "2026-11-02T16:23:21+00:00"
+  },
+  {
+   "title": "Greece inks deal for KC-390 fleet",
+   "url": "https://breakingdefense.com/2026/11/greece-inks-deal-for-kc-390-fleet/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The purchase, arranged via a government-to-government agreement between Greece and Portugal, covers three KC-390 aircraft with options for up to six manufactured by Braz…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/PHOTO-2026-07-22-17-24-34-1024x576.jpg",
+   "age": "26m ago",
+   "published": "2026-11-02T16:14:01+00:00"
+  },
+  {
+   "title": "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+   "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108500793-1793588022824-gettyimages-2281428105-TSCHNEIDER_67778_Fairfax_Financial_P8630152.jpeg?v=1793588035&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-02T04:09:34+00:00"
+   "summary": "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369526-1790698647709-gettyimages-2297195052-AFP_C9PK8G7.jpeg?v=1790698665&amp;w=1920&amp;h=1080",
+   "age": "27m ago",
+   "published": "2026-11-02T16:13:00+00:00"
   },
   {
-   "title": "Philadelphia Eagles lose sixth straight as Washington Commanders score 27 unanswered points",
-   "url": "https://www.foxnews.com/outkick-sports/philadelphia-eagles-lose-sixth-straight-washington-commanders-score-27-unanswered-points",
+   "title": "Pacific Command bolsters network defense with Cyber Defense Forces Pacific",
+   "url": "https://breakingdefense.com/2026/11/pacific-command-bolsters-network-defense-with-cyber-defense-forces-pacific/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The new concept has sent personnel from Cyber Defense Command at Fort Meade to the Pacific theater.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/GettyImages-1247541105-scaled-e1782153851428-1024x577.jpg",
+   "age": "35m ago",
+   "published": "2026-11-02T16:05:00+00:00"
+  },
+  {
+   "title": "Marvell CEO touts 'enormous' opportunity in massive AI connectivity bet on Lumentum",
+   "url": "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The AI infrastructure deal is expected to close during the first half of 2028.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108504031-1793627572686-Untitled-1.jpg?v=1793627728&amp;w=1920&amp;h=1080",
+   "age": "36m ago",
+   "published": "2026-11-02T16:03:51+00:00"
+  },
+  {
+   "title": "Tiny Ukrainian receiver intercepts Russian drone feeds in real time",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/11/02/tiny-ukrainian-receiver-intercepts-russian-drone-feeds-in-real-time/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "A small new receiver can co-opt video from Russian unmanned systems, allowing Ukrainian drone operators to intercept enemy live feeds in real time, the device's makers s…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2257221968.jpg.jpg",
+   "age": "36m ago",
+   "published": "2026-11-02T16:03:13+00:00"
+  },
+  {
+   "title": "Stock market after midterm elections: What S&P 500 history shows",
+   "url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Midterms historically precede a strong year for the S&P 500. What to know if Democrats win back Congress",
+   "image": "https://image.cnbcfm.com/api/v1/image/108503920-1793626236128-gettyimages-2302713434-AFP_D66N3CZ.jpeg?v=1793626603&amp;w=1920&amp;h=1080",
+   "age": "58m ago",
+   "published": "2026-11-02T15:41:12+00:00"
+  },
+  {
+   "title": "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
+   "url": "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "VIX deemed \"unreactive\" by options traders",
+   "image": "https://image.cnbcfm.com/api/v1/image/108476692-1793220772154-gettyimages-2301924853-WARSH_FOMC_NYSE.jpeg?v=1793220807&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-02T15:30:41+00:00"
+  },
+  {
+   "title": "Marine Force-Southeast Asia Will Maintain Continuous Presence in the Philippines",
+   "url": "https://news.usni.org/2026/11/02/marine-force-southeast-asia-will-maintain-continuous-presence-in-the-philippines",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Marine Rotational Force-Southeast Asia is now on its second continuous rotation to the Philippines, the service announced last week. MRF-SEA held a rotation turnover on …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/11/9889585-scaled.jpg",
+   "age": "1h ago",
+   "published": "2026-11-02T15:26:10+00:00"
+  },
+  {
+   "title": "Mamdani, Hasan Piker among radical left-wing voices erupting over Haley Stevens' endorsement switch",
+   "url": "https://www.foxnews.com/politics/mamdani-hasan-piker-radical-left-wing-voices-erupting-haley-stevens-endorsement-switch",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Tanner McKee s turnovers and a costly illegal formation penalty doomed the Philadelphia Eagles as Washington scored 27 unanswered points Sunday.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/eagles-commanders-snf-nov-1-2026_001.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-11-02T03:39:45+00:00"
+   "summary": "Chuck Schumer, Hakeem Jeffries, and top Democrats unleashed fury at Haley Stevens after her endorsement of Republican Mike Rogers before Tuesday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/el-sayed-stevens-split.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-02T15:15:46+00:00"
   },
   {
-   "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-   "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369615-1790702844864-Sam2.jpg?v=1790702914&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-11-02T02:58:53+00:00"
+   "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+   "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/DSCF1932.jpg?resize=1200,800",
+   "age": "1h ago",
+   "published": "2026-11-02T15:00:00+00:00"
+  },
+  {
+   "title": "Judge tosses case against ex-FBI officials accused of lying to Congress about Hunter Biden investigation",
+   "url": "https://www.foxnews.com/politics/judge-tosses-case-against-ex-fbi-officials-accused-lying-congress-hunter-biden-investigation",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A federal judge dismissed the case against two FBI officials in the Hunter Biden probe, accusing Trump and Kash Patel of directing a rush job.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/06/931/523/Hunter-Biden.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-02T14:58:33+00:00"
+  },
+  {
+   "title": "The world has a new plan to save nature, but it still needs the money",
+   "url": "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "A new action plan aims to rescue 2030 nature targets as financing remains inadequate.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/1620px-Jabiru_-_Garzon_Soldado_Jabiru_mycteria_8576613973-1152x648.jpg",
+   "age": "1h ago",
+   "published": "2026-11-02T14:56:52+00:00"
+  },
+  {
+   "title": "What could the Humvee of the future look like?",
+   "url": "https://www.defensenews.com/video/2026/11/02/what-could-the-humvee-of-the-future-look-like/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "From vehicles to wearable drone detection, new soldier systems were on display at AUSA 2026. Check out a roundup of our social coverage.",
+   "image": "https://cdn.jwplayer.com/videos/GiRF0Vlu-5ZsksG4j.mp4",
+   "age": "1h ago",
+   "published": "2026-11-02T14:50:00+00:00"
+  },
+  {
+   "title": "Christa Pike's execution doctor says misplaced IV sent lethal drugs into her arms instead of veins",
+   "url": "https://www.foxnews.com/us/christa-pike-execution-doctor-says-misplaced-iv-sent-lethal-drugs-arms-instead-veins",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Dr. Mark Fowler reveals an improperly placed IV sent pentobarbital into Christa Pike s tissue instead of her bloodstream during the failed execution.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Christa-Pike-Botched-Execution-defense-Filing-001.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-02T14:44:08+00:00"
+  },
+  {
+   "title": "High-energy lasers, drones and power: Innovations in defense tech | Business of Defense – Part 1",
+   "url": "https://www.defensenews.com/video/2026/11/02/high-energy-lasers-drones-and-power-innovations-in-defense-tech-business-of-defense-part-1/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "From industry stalwarts to small startups, defense tech creators are looking to provide solutions as conflict morphs on a monthly basis. See some of what they had to off…",
+   "image": "https://cdn.jwplayer.com/videos/FRRKt9yp-5ZsksG4j.mp4",
+   "age": "1h ago",
+   "published": "2026-11-02T14:44:00+00:00"
+  },
+  {
+   "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+   "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/NinjaCrispi.png?w=800",
+   "age": "1h ago",
+   "published": "2026-11-02T14:42:38+00:00"
+  },
+  {
+   "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
+   "url": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense confe…",
+   "image": "https://cdn.jwplayer.com/videos/ZrPLhMuX-5ZsksG4j.mp4",
+   "age": "1h ago",
+   "published": "2026-11-02T14:42:00+00:00"
+  },
+  {
+   "title": "'Homestead' star Bailey Chase says California vaccine plans were 'final straw' that drove family out of LA",
+   "url": "https://www.foxnews.com/entertainment/homestead-star-bailey-chase-says-california-vaccine-plans-were-final-straw-drove-family-out-la",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Bailey Chase reveals the proposed COVID-19 vaccine mandate that drove his family from California to the mountains of North Carolina five years ago.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bailey-chase_001.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-02T14:35:22+00:00"
+  },
+  {
+   "title": "Oshkosh steps into large UAS space with new Grid Aero partnership",
+   "url": "https://breakingdefense.com/2026/11/oshkosh-steps-into-larger-uas-space-with-new-grid-aero-partnership/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The two companies plan to team up on “design for manufacturability, production planning, supply chain optimization, and ultimately building Lifter aircraft at scale.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/GridXOshkosh_Web-4-scaled-e1793626809683-1024x577.jpg",
+   "age": "2h ago",
+   "published": "2026-11-02T14:23:14+00:00"
+  },
+  {
+   "title": "This $48 e-paper display can be whatever you want it to be",
+   "url": "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "This DIY e-paper display works in two official ecosystems or on your own server.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg",
+   "age": "4h ago",
+   "published": "2026-11-02T12:00:07+00:00"
   },
   {
    "title": "William Byron and Rudy Fugle really needed this one",
@@ -90,107 +290,63 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "13h ago",
    "published": "2026-11-02T02:55:42+00:00"
   },
   {
-   "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-   "url": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108440073-1792551490880-gettyimages-2300614158-AFP_D3V73YE.jpeg?v=1792551521&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-11-02T02:39:35+00:00"
-  },
-  {
-   "title": "Collins accuses Schumer of pushing attack ads filled with 'outright lies' in tight Maine race",
-   "url": "https://www.foxnews.com/politics/collins-accuses-schumer-pushing-attack-ads-filled-outright-lies-tight-maine-race",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Collins said Democrats are using a national political strategy to distract voters from local issues, while the latest Fox News poll shows her Maine Senate race tied at 4…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/susan-susan-collins-january-2026.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-11-02T02:18:02+00:00"
-  },
-  {
-   "title": "Missing Utah teen Kylie Arellano found safe in Oregon after 500-day search",
-   "url": "https://www.foxnews.com/us/missing-utah-teen-kylie-arellano-found-safe-oregon-after-500-day-search",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kylie Arellano was found safe in Oregon with a 39-year-old man after vanishing from Utah more than 500 days ago, ending a massive FBI search.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kylie-salt-lake-city.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-11-02T01:42:58+00:00"
-  },
-  {
-   "title": "Chris Pratt went from living in a van to Hollywood stardom after chance encounter changed everything",
-   "url": "https://www.foxnews.com/entertainment/chris-pratt-went-from-living-van-hollywood-stardom-after-chance-encounter-changed-everything",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Chris Pratt recalls the moment Rae Dawn Chong walked into Bubba Gump Shrimp Company and offered him a role that launched his Hollywood career.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chris-pratt-terminal-list.jpg?ve=1&tl=1",
-   "age": "5h ago",
-   "published": "2026-11-02T01:20:21+00:00"
-  },
-  {
-   "title": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
-   "url": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ukraine s Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/hackers-photo-3.jpg?ve=1&tl=1",
-   "age": "5h ago",
-   "published": "2026-11-02T01:10:07+00:00"
-  },
-  {
-   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "age": "8h ago",
-   "published": "2026-11-01T21:55:23+00:00"
-  },
-  {
-   "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
-   "age": "9h ago",
-   "published": "2026-11-01T20:57:58+00:00"
-  },
-  {
-   "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-   "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1200,1058",
-   "age": "13h ago",
-   "published": "2026-11-01T17:04:00+00:00"
-  },
-  {
-   "title": "Binance resumes withdrawals following $6.3 billion breach",
-   "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+   "title": "William Byron",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50RF94dklRTlNORm82eEUwTXBaYU1RNXdUbmNMOU9rTTZYZGRQNzN2Z3BUbzFiejZDdHVlVlZsbWpJNzBxREJwWHdramtGeElfSlN5eE9GUDA?oc=5",
+   "source": "NASCAR.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
    "age": "14h ago",
-   "published": "2026-11-01T16:20:10+00:00"
+   "published": "2026-11-02T02:06:40+00:00"
+  },
+  {
+   "title": "From wrestling ring to campaign trail, Kate-Lynn Holley seeks Indiana Senate seat",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_4394ed43-66e7-45f0-9247-e03554a30ac6.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Democrat candidate for Senate District 6 is an unlikely political contender whose difficult upbringing, fighting spirit and belief in helping others have shaped her …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/6c/56c523bf-7c2f-4496-bfcf-09b8e1dcf54b/6ae52c2ac660f.image.jpg?resize=300%2C241",
+   "age": "1d ago",
+   "published": "2026-11-01T14:00:00+00:00"
+  },
+  {
+   "title": "From car salesman to congressman, Frank Mrvan Jr. never forgot where he came from",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_02eb3ba8-ae9b-48b0-97db-3990c1b93c1f.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Frank Mrvan Jr. has learned that politics is ultimately about people, from his early campaign lessons to his family life, fitness routine, and even encounters at dog par…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/31/a314dd82-99b1-4009-8a8b-f1869481cb42/6ae52abc6e914.image.jpg?resize=300%2C400",
+   "age": "1d ago",
+   "published": "2026-11-01T13:15:00+00:00"
+  },
+  {
+   "title": "GEORGE GRENCHIK | The big day approaches",
+   "url": "https://nwitimes.com/news/article_67add806-ae0f-46df-b7c6-3f1f5e9cb854.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "GEORGE GRENCHIK:",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "1d ago",
+   "published": "2026-11-01T12:00:00+00:00"
+  },
+  {
+   "title": "From Ford’s assembly line to Indiana Senate race: Scott Houldieson's unlikely journey",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_cd1301e4-72cf-43e9-bba4-30b1e56327f1.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Scott Houldieson never dreamed of running for office while working at Ford. But a phone call sparked a mission: taking his lifelong fight for working people to the India…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/c9/7c9b5533-7f71-434e-9d6e-42a4dfa51637/6ae5029357e77.image.jpg?resize=300%2C217",
+   "age": "2d ago",
+   "published": "2026-10-31T13:00:00+00:00"
   },
   {
    "title": "Seabirds racing home over the ocean can get jet-lagged",
@@ -200,7 +356,7 @@
    "topic": "ai",
    "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-31T11:15:26+00:00"
   },
   {
@@ -211,7 +367,7 @@
    "topic": "ai",
    "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869-1152x648.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-31T11:02:34+00:00"
   },
   {
@@ -226,28 +382,6 @@
    "published": "2026-10-31T00:19:01+00:00"
   },
   {
-   "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-   "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-   "age": "2d ago",
-   "published": "2026-10-31T00:07:22+00:00"
-  },
-  {
-   "title": "Flesh-eating screwworms spread to third state and are attacking pets",
-   "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T22:36:41+00:00"
-  },
-  {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
    "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-213",
    "source": "The War Zone",
@@ -257,17 +391,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/10/GettyImages-1239287841.jpg?quality=85",
    "age": "2d ago",
    "published": "2026-10-30T22:33:00+00:00"
-  },
-  {
-   "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
-   "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
-   "age": "2d ago",
-   "published": "2026-10-30T22:21:05+00:00"
   },
   {
    "title": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims",
@@ -325,105 +448,6 @@
    "published": "2026-10-30T20:17:22+00:00"
   },
   {
-   "title": "Iran Used Limpet Mine Placed On Ship’s Hull In Latest Strait Of Hormuz Attack: Report",
-   "url": "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "More air defenses, ships, troops, ammo and supplies are flowing into the Middle East as the clock ticks down to the potential start of a new air campaign against Iran. T…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/10/Strait-hormuz-blockade-mines.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-10-30T18:33:46+00:00"
-  },
-  {
-   "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
-   "url": "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Cpl. Igor started a new job this year, swapping the sights of a 105 mm gun on the French Army's AMX 10 RC reconnaissance vehicle for first-person view goggles and a hand…",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/10/DSCF3298.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T17:57:48+00:00"
-  },
-  {
-   "title": "Bilateral no more: PACOM officials highlight multi-national data sharing network",
-   "url": "https://breakingdefense.com/2026/10/bilateral-no-more-pacom-officials-highlight-multi-national-data-sharing-network/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“For the first time, PACOM and several key allies and partners communicated, collaborated, planned, and executed with common tools, common data flows and language transl…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_pacom_monitor_9418465-scaled-e1793377989595-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T17:33:00+00:00"
-  },
-  {
-   "title": "Pentagon reveals FY26 intelligence budget at $30.9 billion",
-   "url": "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Meanwhile, the National Intelligence Program budget was revealed at $78.1 billion.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_soldier_silhouette_9453766-scaled-e1793379107762-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T17:28:09+00:00"
-  },
-  {
-   "title": "New UK policy requires foreign defense contractors to invest locally for all £50M+ deals",
-   "url": "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The new policy is due to come into effect in April 2027 and make sure that “British workers and businesses still benefit,” from contracts inked with foreign firms, accor…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260630_brit_F35s_carrier_FLEET-20260618-XN0419-096-scaled-e1782828538518-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T16:45:00+00:00"
-  },
-  {
-   "title": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha",
-   "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The award marks the first shipyard selection from TOTE Services as the vessel construction manager of the LSM program for the Navy.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/60071-home-MediumLandingShips-e1712928985995-1024x577.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T16:16:18+00:00"
-  },
-  {
-   "title": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
-   "url": "https://www.defensenews.com/global/europe/2026/10/30/from-tanks-to-space-norway-and-germany-forge-ahead-with-hansa-defense-pact/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "German tank maker KNDS and Norway’s Ritek have begun producing Leopard 2A8 tanks in Norway, adding a land-based industrial foothold to a security partnership spanning su…",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2246880126.jpg.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T15:58:31+00:00"
-  },
-  {
-   "title": "Ukraine completes work on new missile defense system, awaits European partner components",
-   "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Ukraine has completed its share of Freyja, the multinational antiballistic shield that Europe and Kyiv are racing to bring together.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2195447873.jpg.jpg",
-   "age": "2d ago",
-   "published": "2026-10-30T14:56:47+00:00"
-  },
-  {
-   "title": "EOS Defense Systems Prepares to Build Slinger Counter-Drone Systems",
-   "url": "https://www.defensenews.com/video/2026/10/30/eos-defense-systems-prepares-to-build-slinger-counter-drone-systems/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "EOS Defense Systems discusses plans for U.S. production of its Slinger counter-drone system, AI-assisted targeting and adjustable levels of autonomy.",
-   "image": "https://cdn.jwplayer.com/videos/CcSRUUlD-5ZsksG4j.mp4",
-   "age": "2d ago",
-   "published": "2026-10-30T14:28:39+00:00"
-  },
-  {
    "title": "Hanwha Philly Shipyard to Build Navy Landing Ship Mediums",
    "url": "https://news.usni.org/2026/10/30/hanwha-philly-shipyard-to-build-navy-landing-ship-mediums",
    "source": "USNI News",
@@ -431,30 +455,8 @@
    "topic": "defense",
    "summary": "Hanwha Philly Shipyard has won a $269 million contract to build the Marine Corps’ Landing Ship Medium, according to a Friday announcement from the program’s vessel const…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/Landing-Ship-Transport-LST-100-1536x1024-1.jpg",
-   "age": "2d ago",
+   "age": "3d ago",
    "published": "2026-10-30T13:41:37+00:00"
-  },
-  {
-   "title": "Long Deployments to Be Navy Standard For Next Couple Years, MCPON, CNO Say",
-   "url": "https://news.usni.org/2026/10/29/long-deployments-to-be-navy-standard-for-next-couple-years-mcpon-cno-say",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "It will take a couple years before deployment lengths shift from the extended 10-11 months back to the normal seven, the Navy’s top enlisted sailor said Wednesday. As sa…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/9527316-scaled.jpg",
-   "age": "3d ago",
-   "published": "2026-10-29T20:41:01+00:00"
-  },
-  {
-   "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
-   "url": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week. Malabar 2026 …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/9422519-scaled.jpg",
-   "age": "3d ago",
-   "published": "2026-10-29T20:03:43+00:00"
   }
  ]
 }
