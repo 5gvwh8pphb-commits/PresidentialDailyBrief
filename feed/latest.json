@@ -1,75 +1,152 @@
 {
- "generated": "2026-11-02T00:01:41+00:00",
+ "generated": "2026-11-02T06:31:05+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 39,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
   "CNBC",
   "Defense News",
   "Fox News",
-  "NWI Times",
+  "Motorsport.com",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-   "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+   "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+   "url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108475145-17932011132026-10-16t065944z_1942016574_rc214oa9dp85_rtrmadp_0_usa-election-alaska.jpeg?v=1793309688&amp;w=1920&amp;h=1080",
-   "age": "43m ago",
-   "published": "2026-11-01T23:17:57+00:00"
+   "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108366594-1790123780346-gettyimages-2296079881-AA_22092026_2963049.jpeg?v=1790123812&amp;w=1920&amp;h=1080",
+   "age": "29m ago",
+   "published": "2026-11-02T06:02:03+00:00"
   },
   {
-   "title": "Tampa Bay Buccaneers win NFL game without completing a pass, first time that's happened in half a century",
-   "url": "https://www.foxnews.com/outkick-sports/tampa-bay-buccaneers-win-nfl-game-without-completing-pass-first-time-happened-half-century",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Baker Mayfield attempted three passes with zero completions as the Tampa Bay Buccaneers rushed for a club-record 324 yards in a rain-soaked shutout.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/bucky-irving-tampa-bay-buccaneers-falcons.jpg?ve=1&tl=1",
+   "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+   "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108486123-1793363750138-gettyimages-2302145323-Binance.jpeg?v=1793363814&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-11-01T22:32:37+00:00"
+   "published": "2026-11-02T05:09:45+00:00"
   },
   {
-   "title": "Coca-Cola CEO says Diet Coke is back, takes on 'fridge cigarette' moniker",
-   "url": "https://www.foxnews.com/food-drink/coca-cola-says-diet-coke-back-takes-fridge-cigarette-moniker",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Diet Coke sales surged 6% globally as the fridge cigarette trend raises concerns about dopamine, artificial sweeteners and emotional dependency patterns.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/diet-coke-fridge-cigarette-tiktok-trend-1.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-01T22:23:39+00:00"
-  },
-  {
-   "title": "DOJ set to appeal ruling in Alaska Senate race dispute over ‘Decoy Dan’",
-   "url": "https://www.foxnews.com/politics/doj-set-appeal-ruling-alaska-senate-race-dispute-over-decoy-dan",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A federal judge rejected the DOJ s lawsuit to delay Alaska Senate election certification over the Dan Sullivan candidate controversy.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/trump-sullivan.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-01T22:16:21+00:00"
-  },
-  {
-   "title": "Jenny McCarthy living in a tent while battling ‘paranoid’ fears after mold poisoning diagnosis",
-   "url": "https://www.foxnews.com/entertainment/jenny-mccarthy-living-tent-battling-paranoid-fears-mold-poisoning-diagnosis",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jenny McCarthy says mold and mycotoxin poisoning left her living in a tent after two years of surgeries, infections and a desperate search for answers.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Jenny-McCarthy-Wahlberg.jpg?ve=1&tl=1",
+   "title": "Borrowed reading: stories from our extended colleagues",
+   "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/03/newspaper-stack_GettyImages648942926.jpeg?resize=1200,800",
    "age": "2h ago",
-   "published": "2026-11-01T22:00:10+00:00"
+   "published": "2026-11-02T04:23:48+00:00"
+  },
+  {
+   "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+   "url": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108500793-1793588022824-gettyimages-2281428105-TSCHNEIDER_67778_Fairfax_Financial_P8630152.jpeg?v=1793588035&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-02T04:09:34+00:00"
+  },
+  {
+   "title": "Philadelphia Eagles lose sixth straight as Washington Commanders score 27 unanswered points",
+   "url": "https://www.foxnews.com/outkick-sports/philadelphia-eagles-lose-sixth-straight-washington-commanders-score-27-unanswered-points",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Tanner McKee s turnovers and a costly illegal formation penalty doomed the Philadelphia Eagles as Washington scored 27 unanswered points Sunday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/eagles-commanders-snf-nov-1-2026_001.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-02T03:39:45+00:00"
+  },
+  {
+   "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+   "url": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108369615-1790702844864-Sam2.jpg?v=1790702914&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-11-02T02:58:53+00:00"
+  },
+  {
+   "title": "William Byron and Rudy Fugle really needed this one",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSldidXlxc24wem1jZHZaQTZBZ1ZwVUcyaXhuRVFUOUk2ZmlFLW9pU3c1dHVDZWxCdzl3a3g0UjdTYmkzVnV3TDVxQ1QxcS1BMDZkejVyeVVCREUzR3E1cDNRb3B4Zi1SQ1E1eEQ5bFpxT2NEYlF5V3JvYlV5bGZ0NTllZ183bWpVMGMxQ2g1SHpNLVNVYzJmRmU5RWpucHJKb0MxaGw0Zw?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "3h ago",
+   "published": "2026-11-02T02:55:42+00:00"
+  },
+  {
+   "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+   "url": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108440073-1792551490880-gettyimages-2300614158-AFP_D3V73YE.jpeg?v=1792551521&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-11-02T02:39:35+00:00"
+  },
+  {
+   "title": "Collins accuses Schumer of pushing attack ads filled with 'outright lies' in tight Maine race",
+   "url": "https://www.foxnews.com/politics/collins-accuses-schumer-pushing-attack-ads-filled-outright-lies-tight-maine-race",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Collins said Democrats are using a national political strategy to distract voters from local issues, while the latest Fox News poll shows her Maine Senate race tied at 4…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/susan-susan-collins-january-2026.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-02T02:18:02+00:00"
+  },
+  {
+   "title": "Missing Utah teen Kylie Arellano found safe in Oregon after 500-day search",
+   "url": "https://www.foxnews.com/us/missing-utah-teen-kylie-arellano-found-safe-oregon-after-500-day-search",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kylie Arellano was found safe in Oregon with a 39-year-old man after vanishing from Utah more than 500 days ago, ending a massive FBI search.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kylie-salt-lake-city.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-02T01:42:58+00:00"
+  },
+  {
+   "title": "Chris Pratt went from living in a van to Hollywood stardom after chance encounter changed everything",
+   "url": "https://www.foxnews.com/entertainment/chris-pratt-went-from-living-van-hollywood-stardom-after-chance-encounter-changed-everything",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Chris Pratt recalls the moment Rae Dawn Chong walked into Bubba Gump Shrimp Company and offered him a role that launched his Hollywood career.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/chris-pratt-terminal-list.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-11-02T01:20:21+00:00"
+  },
+  {
+   "title": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
+   "url": "https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ukraine s Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/hackers-photo-3.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-11-02T01:10:07+00:00"
   },
   {
    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
@@ -79,30 +156,8 @@
    "topic": "ai",
    "summary": "Data centers are deeply unpopular. But what if we called them something else?",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-11-01T21:55:23+00:00"
-  },
-  {
-   "title": "Martha Stewart addresses backlash after dressing as homeless person for Halloween",
-   "url": "https://www.foxnews.com/entertainment/martha-stewart-addresses-backlash-after-dressing-homeless-person-halloween",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Martha Stewart says her deleted homeless Halloween costume was meant to bring awareness, but the backlash and online criticism only intensified.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/martha-stewart-3.jpg?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-11-01T21:46:28+00:00"
-  },
-  {
-   "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-   "url": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108498719-17935613282026-11-01t183114z_1539042043_rc26foadn026_rtrmadp_0_usa-election-michigan.jpeg?v=1793561369&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-01T21:06:42+00:00"
   },
   {
    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
@@ -112,19 +167,8 @@
    "topic": "ai",
    "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-11-01T20:57:58+00:00"
-  },
-  {
-   "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-   "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-   "image": "https://image.cnbcfm.com/api/v1/image/107067762-1653585429081-gettyimages-1240916823-gun_safety589_052622.jpeg?v=1653585503&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-11-01T19:10:12+00:00"
   },
   {
    "title": "TechCrunch Mobility: A new, bigger AV boom is here",
@@ -134,19 +178,8 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/robotaxi-illustration.jpg?resize=1200,1058",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-01T17:04:00+00:00"
-  },
-  {
-   "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-   "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108366319-1790097197761-gettyimages-2296543533-img_3410.jpeg?v=1791300056&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-11-01T16:34:43+00:00"
   },
   {
    "title": "Binance resumes withdrawals following $6.3 billion breach",
@@ -156,85 +189,8 @@
    "topic": "ai",
    "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-01T16:20:10+00:00"
-  },
-  {
-   "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-   "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Pixel-11-fold-feat.jpg?resize=1200,675",
-   "age": "9h ago",
-   "published": "2026-11-01T15:00:00+00:00"
-  },
-  {
-   "title": "Why AI is boosting Meta's ad business while hurting Google search",
-   "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108497472-1793543323692-gettyimages-2231576298-AA_27082025_2388287.jpeg?v=1793543337&amp;w=1920&amp;h=1080",
-   "age": "9h ago",
-   "published": "2026-11-01T14:31:29+00:00"
-  },
-  {
-   "title": "From wrestling ring to campaign trail, Kate-Lynn Holley seeks Indiana Senate seat",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_4394ed43-66e7-45f0-9247-e03554a30ac6.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The Democrat candidate for Senate District 6 is an unlikely political contender whose difficult upbringing, fighting spirit and belief in helping others have shaped her …",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/6c/56c523bf-7c2f-4496-bfcf-09b8e1dcf54b/6ae52c2ac660f.image.jpg?resize=300%2C241",
-   "age": "10h ago",
-   "published": "2026-11-01T14:00:00+00:00"
-  },
-  {
-   "title": "From car salesman to congressman, Frank Mrvan Jr. never forgot where he came from",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_02eb3ba8-ae9b-48b0-97db-3990c1b93c1f.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Frank Mrvan Jr. has learned that politics is ultimately about people, from his early campaign lessons to his family life, fitness routine, and even encounters at dog par…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/31/a314dd82-99b1-4009-8a8b-f1869481cb42/6ae52abc6e914.image.jpg?resize=300%2C400",
-   "age": "10h ago",
-   "published": "2026-11-01T13:15:00+00:00"
-  },
-  {
-   "title": "GEORGE GRENCHIK | The big day approaches",
-   "url": "https://nwitimes.com/news/article_67add806-ae0f-46df-b7c6-3f1f5e9cb854.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "GEORGE GRENCHIK:",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "12h ago",
-   "published": "2026-11-01T12:00:00+00:00"
-  },
-  {
-   "title": "From Ford’s assembly line to Indiana Senate race: Scott Houldieson's unlikely journey",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_cd1301e4-72cf-43e9-bba4-30b1e56327f1.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Scott Houldieson never dreamed of running for office while working at Ford. But a phone call sparked a mission: taking his lifelong fight for working people to the India…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/c9/7c9b5533-7f71-434e-9d6e-42a4dfa51637/6ae5029357e77.image.jpg?resize=300%2C217",
-   "age": "1d ago",
-   "published": "2026-10-31T13:00:00+00:00"
-  },
-  {
-   "title": "A Halloween hospital stay. An extra bag of candy. A childhood kindness never forgotten",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_709e8d0a-e730-4837-bc75-02c53d950601.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A hospitalized 10-year-old boy missed Halloween. His neighborhood friends made sure he didn’t miss out on the sweetest part. Decades later, that extra bag of candy was n…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/c4/7c41ec95-8c92-553d-a581-a3d681646a46/6ad0d966e19c5.image.jpg?resize=300%2C200",
-   "age": "1d ago",
-   "published": "2026-10-31T12:15:00+00:00"
   },
   {
    "title": "Seabirds racing home over the ocean can get jet-lagged",
@@ -266,7 +222,7 @@
    "topic": "defense",
    "summary": "AN/TWQ-1 Avengers fire FIM-92 Stinger missiles and have been joined by counter-drone fly-away sensor and jammer kits from U.S. Northern Command. The post Surface-To-Air …",
    "image": "https://www.twz.com/wp-content/uploads/2026/10/AVENGER-SAM-Mur-a-lago-Trump-Drones.jpg?quality=85",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-31T00:19:01+00:00"
   },
   {
@@ -277,7 +233,7 @@
    "topic": "ai",
    "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor-1080x648.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-10-31T00:07:22+00:00"
   },
   {
@@ -301,6 +257,17 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/10/GettyImages-1239287841.jpg?quality=85",
    "age": "2d ago",
    "published": "2026-10-30T22:33:00+00:00"
+  },
+  {
+   "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+   "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png",
+   "age": "2d ago",
+   "published": "2026-10-30T22:21:05+00:00"
   },
   {
    "title": "Stealthy GJ-21 Drone Has Launched And Recovered From Type 076 Amphibious Assault Ship, China Claims",
@@ -358,6 +325,17 @@
    "published": "2026-10-30T20:17:22+00:00"
   },
   {
+   "title": "Iran Used Limpet Mine Placed On Ship’s Hull In Latest Strait Of Hormuz Attack: Report",
+   "url": "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "More air defenses, ships, troops, ammo and supplies are flowing into the Middle East as the clock ticks down to the potential start of a new air campaign against Iran. T…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/10/Strait-hormuz-blockade-mines.jpg?quality=85",
+   "age": "2d ago",
+   "published": "2026-10-30T18:33:46+00:00"
+  },
+  {
    "title": "‘Open the hives’ — Why France is turning tank gunners into FPV pilots",
    "url": "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
    "source": "Defense News",
@@ -400,6 +378,17 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/260630_brit_F35s_carrier_FLEET-20260618-XN0419-096-scaled-e1782828538518-1024x577.jpg",
    "age": "2d ago",
    "published": "2026-10-30T16:45:00+00:00"
+  },
+  {
+   "title": "Navy flexes new acquisition muscles with TOTE’s $269M LSM award to Hanwha",
+   "url": "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The award marks the first shipyard selection from TOTE Services as the vessel construction manager of the LSM program for the Navy.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/60071-home-MediumLandingShips-e1712928985995-1024x577.jpg",
+   "age": "2d ago",
+   "published": "2026-10-30T16:16:18+00:00"
   },
   {
    "title": "From tanks to space, Norway and Germany forge ahead with ‘Hansa’ defense pact",
@@ -455,6 +444,17 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9527316-scaled.jpg",
    "age": "3d ago",
    "published": "2026-10-29T20:41:01+00:00"
+  },
+  {
+   "title": "U.S., Partner Nations to Hold Annual Malabar Naval Exercise Near Japan",
+   "url": "https://news.usni.org/2026/10/29/u-s-partner-nations-to-hold-annual-malabar-naval-exercise-near-japan",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The United States, Australia, India and Japan will carry out this year’s iteration of the annual Malabar naval exercise in the waters near Japan next week. Malabar 2026 …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/10/9422519-scaled.jpg",
+   "age": "3d ago",
+   "published": "2026-10-29T20:03:43+00:00"
   }
  ]
 }
