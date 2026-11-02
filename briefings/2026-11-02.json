@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-02",
+  "dateLabel": "Monday, November 2, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-02T18:54:59Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, October 30, 2026 close — a rough finish to a volatile earnings week, as Big Tech's AI-spending jitters overcame the Fed's rate hold and a strong GDP report.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,580.07", "change": "-0.6%", "heroLabel": "week", "sixMo": "+5.1%" },
+        { "name": "Dow", "close": "51,770.31", "change": "-0.9%", "heroLabel": "week", "sixMo": "+4.3%" },
+        { "name": "Nasdaq", "close": "25,437.00", "change": "-2.0%", "heroLabel": "week", "sixMo": "+2.2%" }
+      ],
+      "body": "The week opened with the Fed holding rates steady and Oracle surging on its long-term revenue outlook, but Wednesday night's Alphabet post-earnings plunge reignited AI capital-spending worries that spread to Amazon and Intel by Friday; third-quarter GDP growth accelerated to 3.4% and oil pushed back toward $100 a barrel on US-Iran tensions.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Netanyahu calls Israeli election result 'stolen' as final count leaves no bloc with a majority",
+      "body": "Israel's final tally gave Netanyahu's bloc 53 seats to the opposition's 48 - short of the 61 needed to govern - while Arab parties won a record 19; Netanyahu said the vote was 'stolen by Arab parties that support terrorism and the elimination of the Jewish state' and called for an investigation, a dispute Washington is watching closely as it works to keep Israel aligned on Iran policy.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/iran-war-news-trump-us-israel-november-1"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new Taiwan Strait or South China Sea development could be confirmed within the 72-hour window; an AEI/ISW update on PLA Navy chokepoint deployments traces back to October 30 at the latest, and nothing fresher on US-China military posture or tech tension was verifiable today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump and Rubio say more Iran strikes remain possible but unlikely before the midterms",
+      "body": "Trump said the US could eliminate Iran's remaining nuclear sites 'in ten minutes,' but Rubio said no decision has been made, with officials signaling new strikes are unlikely before next week's midterms; Iran's Supreme Leader Khamenei separately ordered commanders to update target lists to include 'all tangible and intangible assets' tied to the US and Israel, even as Foreign Minister Araghchi floated a two-day plan to reopen the Strait of Hormuz that Washington has not accepted.",
+      "source": "Fox News",
+      "url": "https://foxnews.com/live-news/iran-war-news-trump-us-israel-november-1"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development could be confirmed within the 72-hour window; recent reporting on Golden Dome interceptor contracts and Navy and Air Force drone programs all traces back to earlier in the year, and nothing fresher on AI-enabled systems or naval/space platforms emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new Anthropic or Claude development could be confirmed within the 72-hour window; Anthropic's own newsroom shows nothing posted since October 28, and widely-shared coverage of its cruelty-toward-Claude usage policy traces back to an October 8 announcement outside the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Bears' Jeffery Simmons set for his first prime-time appearance since 2023 Monday at Seattle",
+      "body": "Simmons, acquired from Tennessee last week, is expected to be in the Bears' lineup wearing No. 99 when the 5-2 Bears visit the defending Super Bowl champion Seahawks on Monday Night Football; Chicago is counting on the interior pass rusher's double-team attention to free up Montez Sweat and Grady Jarrett, with Caleb Williams healthy at quarterback.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/10/30/bearssimmons"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new non-spoiler roster, sponsorship or schedule item surfaced within the 72-hour window; Martinsville's Round of 8 cutoff race ran Sunday, so any word on the Championship 4 field is barred by the spoiler rule, and the Homestead-Miami finale date (Nov. 8) was already reported in a prior brief.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news could be confirmed within the 72-hour window; the Milwaukee 2027 General Assembly announcement and other denominational items trace back to earlier in the year, and nothing fresher on PCA news was verifiable today.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
