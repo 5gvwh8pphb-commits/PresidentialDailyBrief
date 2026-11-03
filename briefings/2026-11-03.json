@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-03",
+  "dateLabel": "Tuesday, November 3, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-03T16:35:07Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, November 2, 2026 close — a tech-led pullback as AI-spending worries persisted, while oil prices plunged on hopes for an Iran diplomatic breakthrough.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,541.40", "change": "-38.67", "changePct": "-0.5%", "sixMo": "+4.3%" },
+        { "name": "Dow", "close": "51,983.98", "change": "+213.67", "changePct": "+0.4%", "sixMo": "+5.0%" },
+        { "name": "Nasdaq", "close": "25,164.32", "change": "-272.68", "changePct": "-1.1%", "sixMo": "+0.2%" }
+      ],
+      "body": "Tech shares extended October's AI-spending selloff, dragging the S&P 500 and Nasdaq lower even as the Dow gained on rotation into non-tech sectors; crude oil tumbled roughly 7-8% on reports the US and Iran are pursuing a diplomatic resolution, and investors looked ahead to Tuesday's midterm elections.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying international story distinct from the Iran/Hormuz and Taiwan items elsewhere in this brief could be confirmed within the 72-hour window; checks on Israel's coalition crisis, Venezuela's transition talks, and US-China trade all traced back to mid-October or earlier.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Taiwan accuses China of 'cognitive warfare' after a surge in incursions",
+      "body": "Taiwan's Defense Ministry logged 32 Chinese aircraft sorties and seven naval vessels in the 24 hours through November 1, with 26 aircraft crossing the Strait's median line, while its coast guard accused Beijing of using staged law-enforcement patrols near the Pratas and Kinmen islands to manufacture a false claim of authority over Taiwan's waters.",
+      "source": "The Epoch Times",
+      "url": "https://www.theepochtimes.com/china/taiwan-accuses-china-of-cognitive-warfare-amid-coast-guard-incursions-military-activity-6111933"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US carries out limited strikes in Strait of Hormuz as Netanyahu pushes for a broader campaign",
+      "body": "A US official said American forces struck Iranian targets, including on Qeshm Island, after Iranian forces used surface-to-air missiles against US assets near the Strait of Hormuz; Israeli Prime Minister Netanyahu is separately lobbying Trump for a renewed air campaign after the midterms, though Trump has made no decision and had said no new strikes would come before Tuesday's election.",
+      "source": "ABC7 Chicago / AP",
+      "url": "https://abc7chicago.com/post/us-iran-war-news-israels-benjamin-netanyahu-wants-donald-trump-administration-carry-new-strikes-officials-tell-ap/20009648/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development could be confirmed within the 72-hour window; recent reporting on hypersonic weapon prototypes, Golden Dome interceptor contracts, and Anduril's drone work all traces back to summer or earlier, and nothing fresher surfaced today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic's amended IPO filing shows revenue tripling but losses mounting",
+      "body": "Anthropic's updated S-1 reported $33.2 billion in revenue for the first nine months of 2026 against a $104 billion net loss, driven mainly by swings in the value of convertible notes, and disclosed about $895.4 billion in aggregate compute and infrastructure purchase commitments as the company heads toward an IPO roadshow.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Monday night's result at Seattle is barred by the spoiler rule, and no new non-spoiler roster or injury item surfaced within the 72-hour window beyond the Jeffery Simmons trade and Colston Loveland injury news already reported in prior briefs.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new non-spoiler roster, sponsorship, or schedule item surfaced within the 72-hour window; Sunday's Martinsville cutoff race and any resulting Championship 4 field are barred by the spoiler rule, and nothing further emerged today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~today",
+      "empty": false,
+      "headline": "byFaith publishes its quarterly roundup of PCA pastoral transitions",
+      "body": "The magazine's July-September 2026 ministry transitions list reports 37 pastoral moves across the denomination, including Fred Greco's move from senior pastor at Christ Church in Katy, Texas to PCA Stated Clerk, along with 11 deaths of PCA ministers during the quarter.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/ministry-transitions-july-september-2026"
+    }
+  ]
+}
