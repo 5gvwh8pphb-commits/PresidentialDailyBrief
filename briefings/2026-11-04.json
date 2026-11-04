@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-04",
+  "dateLabel": "Wednesday, November 4, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-04T16:35:30Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, November 3, 2026 close — chip stocks lifted the S&P 500 and Nasdaq while Apple's soft margin outlook weighed on the Dow, as traders awaited midterm election returns.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,568.55", "change": "+27.15", "changePct": "+0.36%", "sixMo": "+5.1%" },
+        { "name": "Dow", "close": "51,786.44", "change": "-197.54", "changePct": "-0.38%", "sixMo": "+5.8%" },
+        { "name": "Nasdaq", "close": "25,372.01", "change": "+207.69", "changePct": "+0.83%", "sixMo": "+1.2%" }
+      ],
+      "body": "AMD, Broadcom, Micron and Nvidia each gained more than 2% as chip stocks rebounded, but Apple fell nearly 2% (about $94 billion in market value) after warning that rising memory-chip costs will pressure holiday-quarter margins; oil eased on hopes of US-Iran progress even after a reported US strike on Iran's Qeshm Island, and S&P 500 futures slipped overnight as traders bet on large Democratic wins in the midterms.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-3-230359079.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No international story distinct from the Strait of Hormuz strikes and Taiwan Strait activity covered elsewhere in this brief could be confirmed within the 72-hour window; checks on Israeli coalition politics, Ukraine and Venezuela all traced back to October or earlier.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Taiwan logs 49 Chinese aircraft in a day as 'gray zone' pressure builds ahead of local elections",
+      "body": "Taiwan's Defense Ministry counted 49 PLA aircraft plus six PLA Navy warships and six China Coast Guard vessels operating around the island in the 24 hours to November 3, part of a pattern analysts link to Beijing's response to Taiwan's November 28 local elections.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/04/2003867122"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US strikes near Strait of Hormuz again as Iran calls Washington's reply 'unconvincing'",
+      "body": "A US official said American forces struck Iranian targets, including on Qeshm Island, after Iranian forces fired on a US jet; Trump confirmed the strikes but called the operation minor with no immediate plan to resume a broader campaign, while Iran's security council secretary Mohsen Rezaei rejected Washington's response to Tehran's conditions for reopening the strait.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/4/iran-says-us-reply-to-hormuz-plan-unconvincing-trump-confirms-strikes"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development could be confirmed within the 72-hour window; recent reporting on hypersonic test contracts, Golden Dome ships, and Space Force satellite programs all traces back to September or earlier, and nothing fresher surfaced today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic extends Claude's invisible text watermark to older models including Opus 4.6 and Sonnet 4.6",
+      "body": "As of November 3, Anthropic applies its text watermark — a variant of Google DeepMind's SynthID-Text that survives copying and light editing — to output from Claude Mythos 5, Opus 4.7, Opus 4.6 and Sonnet 4.6 on its API, with Amazon Bedrock to follow within days; the company says the mark cannot be disabled and is expanding detector access to regulators, media and researchers, though an absent mark does not prove text is human-written.",
+      "source": "Anthropic",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Monday night's result at Seattle is barred by the spoiler rule, and no new non-spoiler roster or injury item surfaced within the 72-hour window beyond the Jeffery Simmons trade and Colston Loveland injury news already reported in prior briefs.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Whether Byron advanced to the Championship 4 is a result of Sunday's Martinsville cutoff race within the past 7 days and is barred by the spoiler rule; no other non-spoiler roster, sponsorship or schedule item surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news could be confirmed within the 72-hour window; recent byFaith coverage of quarterly ministry transitions and presbytery overtures all traces back to October or earlier.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
