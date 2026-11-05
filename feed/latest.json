@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-05T08:01:27+00:00",
+ "generated": "2026-11-05T16:36:07+00:00",
  "count": 40,
- "withImage": 35,
+ "withImage": 32,
  "bearsDay": false,
  "nascarDay": true,
  "sources": [
@@ -11,8 +11,9 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "Motorsport.com",
+  "MotorBiscuit",
   "NASCAR.com",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -20,136 +21,312 @@
  ],
  "items": [
   {
-   "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
-   "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+   "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+   "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108160824-1750231226798-gettyimages-2218016424-JAPAN_NINTENDO_SWITCH_2.jpeg?v=1770172023&amp;w=1920&amp;h=1080",
-   "age": "30m ago",
-   "published": "2026-11-05T07:30:58+00:00"
+   "summary": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108338471-1784724287235-gettyimages-2281451826-DNI_POSTPONED.jpeg?v=1784724306&amp;w=1920&amp;h=1080",
+   "age": "4m ago",
+   "published": "2026-11-05T16:31:33+00:00"
   },
   {
-   "title": "What the Democratic midterms sweep changes for U.S.-China relations",
-   "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+   "title": "Shield AI acquires radar firm Echodyne in $5.3B deal",
+   "url": "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The deal, which is expected to close in early 2027, will give Shield an in-house counter-UAS offering",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/19691231-SAS-Navy-League-2026-DSC04174-e1776794076958-1024x576.jpg",
+   "age": "6m ago",
+   "published": "2026-11-05T16:30:00+00:00"
+  },
+  {
+   "title": "Marc Lore's Wonder confidentially files for IPO",
+   "url": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108522628-1793842915678-gettyimages-2276184284-aw1a5970_r6lydbm8.jpeg?v=1793842950&amp;w=1920&amp;h=1080",
+   "summary": "Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108448204-1792698576376-gettyimages-2235177281-McGregor250915NYCbusinesses04.jpeg?v=1793890557&amp;w=1920&amp;h=1080",
+   "age": "8m ago",
+   "published": "2026-11-05T16:27:10+00:00"
+  },
+  {
+   "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+   "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously funded energy projects.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108244722-1766417176896-gettyimages-2227111307-US-NEWS-TRUMP-WIND-POWER-VP.jpeg?v=1766442970&amp;w=1920&amp;h=1080",
+   "age": "12m ago",
+   "published": "2026-11-05T16:23:48+00:00"
+  },
+  {
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s big…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Axiom-Team-2.jpg?resize=1200,800",
+   "age": "19m ago",
+   "published": "2026-11-05T16:16:45+00:00"
+  },
+  {
+   "title": "USS Stout Loses Power During Port Visit Due to ‘Engineering Casualty’",
+   "url": "https://news.usni.org/2026/11/05/uss-stout-loses-power-during-port-visit-due-to-engineering-casualty",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "A deployed destroyer recently lost power during a port visit to Italy, USNI News understands. USS Stout (DDG-55) was in port in Augusta Bay, Italy, for a scheduled port …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/11/10008295.jpg",
+   "age": "29m ago",
+   "published": "2026-11-05T16:06:54+00:00"
+  },
+  {
+   "title": "Bluesky hit peak usage for the year on election night",
+   "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+   "age": "51m ago",
+   "published": "2026-11-05T15:44:58+00:00"
+  },
+  {
+   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+   "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+   "image": "https://techcrunch.com/wp-content/uploads/2022/09/Zipline-Package-Drop.jpg?resize=1200,675",
+   "age": "55m ago",
+   "published": "2026-11-05T15:40:34+00:00"
+  },
+  {
+   "title": "TikTok quietly launches a stand-alone TikTok Shop app",
+   "url": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and cu…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/tiktok-shop-app.png?resize=1200,819",
    "age": "1h ago",
-   "published": "2026-11-05T06:54:52+00:00"
+   "published": "2026-11-05T15:33:58+00:00"
   },
   {
-   "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
-   "url": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+   "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+   "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108309757-1779284560057-gettyimages-2276638145-RUS_Russian_President_Putin_Visits_China.jpeg?v=1779284591&amp;w=1920&amp;h=1080",
+   "summary": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108481739-1793295675174-gettyimages-2300447935-TFSPI_16102026-7389.jpeg?v=1793295701&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-05T15:24:47+00:00"
+  },
+  {
+   "title": "Cops return to New Jersey mother's home months after she was found stabbed and husband called 911",
+   "url": "https://www.foxnews.com/us/cops-return-new-jersey-mothers-home-months-after-found-stabbed-husband-called-911",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Police returned with at least 15 vehicles to Brooke Hanlon s Chester, New Jersey, home weeks after her autopsy ruled the stabbing a homicide.",
+   "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/police-outside-house-2.gif",
+   "age": "1h ago",
+   "published": "2026-11-05T15:23:29+00:00"
+  },
+  {
+   "title": "House conservative emerges with 2028 presidential pick after GOP's midterm massacre: 'I am all in'",
+   "url": "https://www.foxnews.com/politics/house-conservative-emerges-2028-presidential-pick-after-gops-midterm-massacre-i-am-all-in",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A House Freedom Caucus original member says he s backing Marco Rubio for 2028, urging the GOP to shift immigration messaging after midterm losses.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/marco-rubio-us-embassy-new-delhi-fox-news-001.jpeg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-05T15:22:37+00:00"
+  },
+  {
+   "title": "'Shock': Democrat flips deep-red House seat without airing a single TV ad as longtime Republican goes down",
+   "url": "https://www.foxnews.com/politics/shock-democrat-flips-deep-red-house-seat-without-airing-single-tv-ad-longtime-republican-goes-down",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Victoria Broderick s upset of Republican Rep. Scott DesJarlais mirrored Cyril Jefferson s North Carolina win as grassroots campaigns prevailed.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/victoria-broderick-edited.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-05T15:20:43+00:00"
+  },
+  {
+   "title": "Eurofighter eyes sales of 200 additional aircraft",
+   "url": "https://breakingdefense.com/2026/11/eurofighter-eyes-sales-of-200-additional-aircraft/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Potential new deals include second batch orders for Turkey and the Kingdom of Saudi Arabia, jointly amounting to 78 units, while closing an order from Austria would add …",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/IMG_20261104_163520299_HDR-scaled-e1793878629232-1024x577.jpg",
+   "age": "1h ago",
+   "published": "2026-11-05T15:19:14+00:00"
+  },
+  {
+   "title": "MICHAEL RUIZ: 'Today' segment may explain key Apple Watch detail in Nancy Guthrie ransom note, expert says",
+   "url": "https://www.foxnews.com/us/michael-ruiz-today-segment-may-explain-key-apple-watch-detail-nancy-guthrie-ransom-note-expert-says",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A retired detective says Savannah Guthrie s Today show Tucson segment may have sparked her abductor s interest in Nancy Guthrie before her kidnapping.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/guthries-el-charro-2.png?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-05T15:16:45+00:00"
+  },
+  {
+   "title": "Defense Primer on U.S. Special Operations Forces",
+   "url": "https://news.usni.org/2026/11/05/defense-primer-on-u-s-special-operations-forces",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is the Nov. 3, 2026, Congressional Research Service report Defense Primer: U.S. Special Operations Forces. From the Report U.S. Special Operations Forces (…",
+   "image": null,
    "age": "2h ago",
-   "published": "2026-11-05T05:58:33+00:00"
+   "published": "2026-11-05T14:01:08+00:00"
   },
   {
-   "title": "US Marine dies in training incident at Japan military base, officials say",
-   "url": "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A U.S. Marine with the 3rd Marine Division died during a training exercise at Camp Schwab in Okinawa, and the incident remains under investigation.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Camp-Schwab-japan-military-base-training.png?ve=1&tl=1",
+   "title": "Israeli defense company says this trigger is programmed to shoot drones",
+   "url": "https://www.defensenews.com/news/2026/11/05/israeli-defense-company-says-this-trigger-is-programmed-to-shoot-drones/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The company says the Arbel electromechanical device will release a cadence of fire optimized for shooting down drones.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/IWI-Arbel-cover.jpg",
+   "age": "2h ago",
+   "published": "2026-11-05T14:00:00+00:00"
+  },
+  {
+   "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+   "url": "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "It has all the bells and whistles (and cameras).",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg",
    "age": "3h ago",
-   "published": "2026-11-05T04:38:44+00:00"
+   "published": "2026-11-05T13:00:56+00:00"
   },
   {
-   "title": "Ted Cruz says 'blue tsunami' took over Texas after Democrats swept statewide races",
-   "url": "https://www.foxnews.com/politics/ted-cruz-says-blue-tsunami-took-over-texas-after-democrats-swept-statewide-races",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sen. Ted Cruz called the 2026 midterms a blue tsunami after James Talarico defeated Ken Paxton and Gina Hinojosa unseated Greg Abbott in Texas.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ted-cruz-gop-midterm-convention.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-11-05T04:03:47+00:00"
-  },
-  {
-   "title": "Warriors coach Steve Kerr laughs at GOP midterms after begging reporters for political questions",
-   "url": "https://www.foxnews.com/outkick-sports/warriors-coach-steve-kerr-laughs-gop-midterms-begging-reporters-political-questions",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Steve Kerr stopped reporters after practice at Chase Center to riff on midterm results, months after vowing to dial back his political takes.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/steve-kerr-nba-warriors-2.jpg?ve=1&tl=1",
+   "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
+   "url": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Agility-Digit-5-humanoid-robots-at-work-1152x648.jpg",
    "age": "4h ago",
-   "published": "2026-11-05T03:17:09+00:00"
+   "published": "2026-11-05T12:00:41+00:00"
   },
   {
-   "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+   "title": "2026 iPad mini review: Maximizing the mini",
+   "url": "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "It's more compelling than ever, but also more expensive.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-1152x648.jpg",
+   "age": "4h ago",
+   "published": "2026-11-05T12:00:01+00:00"
+  },
+  {
+   "title": "5 Things to Know | Indiana extends gas tax suspension, keeping pump prices lower through Dec. 4",
+   "url": "https://nwitimes.com/news/article_7dad1f07-befa-4581-9207-f6e9277eebe1.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Indiana drivers will keep saving about 64 cents per gallon after Gov. Mike Braun extended the state's gas tax holiday through at least Dec. 4.",
+   "image": null,
+   "age": "5h ago",
+   "published": "2026-11-05T10:45:00+00:00"
+  },
+  {
+   "title": "5 Things to Know | Michigan City schools seek recanvassing after referendum fails by 112 votes",
+   "url": "https://nwitimes.com/news/article_9a494780-330f-4c3f-a067-58cfca0dc4d6.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Seven of eight Northwest Indiana school referendums passed. Michigan City's fell short by 112 votes, and district leaders aren't ready to accept the preliminary results.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/9/a4/9a494780-330f-4c3f-a067-58cfca0dc4d6/6aebf51fd8ce5.preview.webp?crop=1736%2C911%2C0%2C141&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+   "age": "6h ago",
+   "published": "2026-11-05T10:30:00+00:00"
+  },
+  {
+   "title": "5 Things to Know | Illinois man charged with murder in fatal shooting of Walmart employee in Hammond",
+   "url": "https://nwitimes.com/news/article_e59d906f-2005-413b-a940-b0f2a43ba1f4.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A 21-year-old Walmart employee was shot to death while stocking shelves in Hammond. Police say surveillance footage captured the confrontation and killing.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/59/e59d906f-2005-413b-a940-b0f2a43ba1f4/6aebf33249929.preview.webp?crop=1006%2C528%2C97%2C0",
+   "age": "6h ago",
+   "published": "2026-11-05T10:15:00+00:00"
+  },
+  {
+   "title": "5 Things to Know | Democrats reclaim Indiana Senate District 1 as Houldieson defeats DeVries",
+   "url": "https://nwitimes.com/news/article_3856dca8-5d52-48eb-aed9-7290132420be.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A Highland union autoworker will represent Indiana Senate District 1 after a Democratic victory that puts affordability, utilities and school funding in focus.",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-11-05T10:00:00+00:00"
+  },
+  {
+   "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+   "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0344_001-1152x648.jpg",
+   "age": "7h ago",
+   "published": "2026-11-05T09:00:13+00:00"
+  },
+  {
+   "title": "MBDA plans to fly ‘fat’ hypersonic interceptor demonstrator before end-2029",
+   "url": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "“So it’s a bit fat, but it’s a Formula 1. It’s hypersonic, truly hypersonic, not just Mach 5,\" MBDA executive Lionel Mazenq said of the envisioned Hydis interceptor miss…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2302931081.jpg",
+   "age": "8h ago",
+   "published": "2026-11-05T08:26:11+00:00"
+  },
+  {
+   "title": "William Byron Avoids Unique NASCAR Statistical Trend",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFVma3FoSklRaTNlRXRuQ05IYkxfVjJ0c011YVY0dE92bi1rd1hqXzE0QzhVcUxZa280cUFCd0IxRjZTLWkySGlGbEtuTVRfMWQ2eUhjTlNkNFVOWHEzaTNBNzNVVVNPb1ZkaUhwYXJRWXRmRDNKR2ZVSFJKREVUU1pVU1hsNjRzdUE?oc=5",
+   "source": "MotorBiscuit",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "9h ago",
+   "published": "2026-11-05T06:37:35+00:00"
+  },
+  {
+   "title": "NASA Announces X-70 “Fractal” Experimental Aircraft (Updated)",
    "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
    "source": "The War Zone",
    "group": "The War Zone",
    "topic": "defense",
-   "summary": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability. The post NASA Announces X-70 Fractal Experimental Aircraft app…",
+   "summary": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability. The post NASA Announces X-70 Fractal Experimental Aircraft (Up…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/X70-NASA.jpg?quality=85",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-05T02:37:32+00:00"
-  },
-  {
-   "title": "Apple is reportedly cutting budgets for its internal AI usage",
-   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-   "age": "6h ago",
-   "published": "2026-11-05T01:26:22+00:00"
-  },
-  {
-   "title": "Charlamagne Tha God warns Democrats 'don't get comfortable' after winning House and Senate",
-   "url": "https://www.foxnews.com/media/charlamagne-tha-god-warns-democrats-dont-get-comfortable-after-winning-house-senate",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Charlamagne Tha God demanded Democrats deliver on housing costs, healthcare, wages and corruption investigations after winning the House and Senate.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/charlamagne-speaks-on-stage.png?ve=1&tl=1",
-   "age": "6h ago",
-   "published": "2026-11-05T01:18:53+00:00"
-  },
-  {
-   "title": "After the midterms, a bigger clash over data centers could be coming",
-   "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
-   "age": "6h ago",
-   "published": "2026-11-05T01:02:14+00:00"
-  },
-  {
-   "title": "New Jersey pre-K aide faces 61 charges, accused of filming himself sexually assaulting students at school",
-   "url": "https://www.foxnews.com/us/new-jersey-pre-k-aide-faces-61-charges-accused-filming-himself-sexually-assaulting-students-school",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Shaun Stebbins, a former elementary school aide, faces dozens of charges after state prosecutors allege images and videos of students were found on his devices.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/shaun-stebbins-woodbine-elementary.jpg?ve=1&tl=1",
-   "age": "7h ago",
-   "published": "2026-11-05T00:39:33+00:00"
-  },
-  {
-   "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-   "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-11-04T23:44:18+00:00"
   },
   {
    "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
@@ -159,19 +336,8 @@
    "topic": "defense",
    "summary": "The court found that the Navy engaged in disparate treatment toward Saildrone s MUSV proposal, according to an opinion unsealed Wednesday.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Saildrone-Spectre-Silent-Endurance-and-Stealth-Strike_4-1024x565.jpg",
-   "age": "8h ago",
+   "age": "17h ago",
    "published": "2026-11-04T23:23:22+00:00"
-  },
-  {
-   "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
-   "url": "https://www.cnbc.com/2026/11/04/billionaires-musk-branson-democrats-midterms-ai-wall-street.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108369772-17907103772026-09-29t193020z_933004631_rc27tnagbtu2_rtrmadp_0_usa-trump.jpeg?v=1793831589&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-11-04T23:17:56+00:00"
   },
   {
    "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
@@ -181,7 +347,7 @@
    "topic": "defense",
    "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/1000w_q95-77.jpg",
-   "age": "8h ago",
+   "age": "17h ago",
    "published": "2026-11-04T23:08:17+00:00"
   },
   {
@@ -192,19 +358,8 @@
    "topic": "defense",
    "summary": "The validity and cost of President Trump's battleship program was already under fire before the Democrats' historic mid-term wins. The post Did The Blue Wave Just Sink T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/trump-class-battleship-fate-mid-term-blue-wave.jpg?quality=85",
-   "age": "9h ago",
+   "age": "17h ago",
    "published": "2026-11-04T23:00:28+00:00"
-  },
-  {
-   "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
-   "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "And what that could mean for physical Switch game costs.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
-   "age": "9h ago",
-   "published": "2026-11-04T22:47:51+00:00"
   },
   {
    "title": "What now? Budget fight, Hegseth impeachment on deck for defense-focused lawmakers after midterms",
@@ -214,74 +369,8 @@
    "topic": "defense",
    "summary": "Republicans now have a small window to advance defense funding priorities before Democrats take control of Capitol Hill.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/CRU38-pb-1024x574.jpeg",
-   "age": "9h ago",
+   "age": "17h ago",
    "published": "2026-11-04T22:47:45+00:00"
-  },
-  {
-   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-   "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
-   "age": "9h ago",
-   "published": "2026-11-04T22:45:09+00:00"
-  },
-  {
-   "title": "Hackers exploited iOS and Android flaws to infect phones",
-   "url": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
-   "age": "9h ago",
-   "published": "2026-11-04T22:26:49+00:00"
-  },
-  {
-   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-   "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
-   "age": "9h ago",
-   "published": "2026-11-04T22:13:16+00:00"
-  },
-  {
-   "title": "Uranium cubes reveal why the German nuclear project failed",
-   "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
-   "age": "10h ago",
-   "published": "2026-11-04T21:56:29+00:00"
-  },
-  {
-   "title": "Almost no one uses AI agents to book their Uber, company says",
-   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
-   "age": "10h ago",
-   "published": "2026-11-04T21:56:01+00:00"
-  },
-  {
-   "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
-   "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg",
-   "age": "10h ago",
-   "published": "2026-11-04T21:38:49+00:00"
   },
   {
    "title": "Report to Congress on the Federal Fleet of Oceanographic Research Vessels",
@@ -291,7 +380,7 @@
    "topic": "defense",
    "summary": "The following is the Oct. 28, 2026, Congressional Research Service report, The Federal Fleet of Oceanographic Research Vessels: Issues for Congress. From the Report The …",
    "image": null,
-   "age": "10h ago",
+   "age": "19h ago",
    "published": "2026-11-04T21:15:13+00:00"
   },
   {
@@ -302,7 +391,7 @@
    "topic": "defense",
    "summary": "The test is a major step toward Pakistan’s homegrown air-to-air missile capability, despite already fielding advanced Chinese weapons. The post Pakistan Joins Air-to-Air…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/Faaz-missile-launch.png?quality=85",
-   "age": "11h ago",
+   "age": "20h ago",
    "published": "2026-11-04T20:29:40+00:00"
   },
   {
@@ -313,19 +402,8 @@
    "topic": "defense",
    "summary": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\"",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/3D-barracks.jpg.jpg",
-   "age": "11h ago",
+   "age": "20h ago",
    "published": "2026-11-04T20:16:52+00:00"
-  },
-  {
-   "title": "Navy appoints Rucker as new PAE Maritime lead",
-   "url": "https://breakingdefense.com/2026/11/navy-appoints-rucker-as-new-pae-maritime-lead/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Rear Adm. Jonathan Rucker is the second person to hold the position since PAE Maritime was established in March.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260721_DVIDS_carrier_hormuz_8138563-scaled-e1784663487566-1024x577.jpg",
-   "age": "12h ago",
-   "published": "2026-11-04T19:43:20+00:00"
   },
   {
    "title": "Ukrainian Soldiers Tell Us Which Guns And Optics Work Best In Combat",
@@ -335,7 +413,7 @@
    "topic": "defense",
    "summary": "Ukrainian troops explain their affinity for HK416s and locally-built UAR-15s rifles, Holosun and Eotech optics, and much more. The post Ukrainian Soldiers Tell Us Which …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/HK416-ukraine-Guns.jpg?quality=85",
-   "age": "12h ago",
+   "age": "21h ago",
    "published": "2026-11-04T19:17:22+00:00"
   },
   {
@@ -346,30 +424,8 @@
    "topic": "defense",
    "summary": "A Marine died Tuesday during a training event at Camp Schwab in Okinawa, Japan, 3rd Marine Division announced Wednesday. Few details were available about the Marine’s de…",
    "image": "https://news.usni.org/wp-content/uploads/2026/05/9341129-scaled.jpeg",
-   "age": "13h ago",
+   "age": "21h ago",
    "published": "2026-11-04T18:44:27+00:00"
-  },
-  {
-   "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-   "url": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense confe…",
-   "image": "https://cdn.jwplayer.com/videos/ZrPLhMuX-5ZsksG4j.mp4",
-   "age": "13h ago",
-   "published": "2026-11-04T18:27:06+00:00"
-  },
-  {
-   "title": "Naval Group unveils new drone carrier concept",
-   "url": "https://breakingdefense.com/2026/11/naval-group-unveils-new-drone-carrier-concept/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“The return of high-intensity conflict and the emergence of hybrid naval warfare require a new vision. Naval Group answers with a new concept ship: SCX 26,” the company …",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Capture-decran-le-2026-11-04-a-18.05.03-e1793816720777-1024x569.png",
-   "age": "13h ago",
-   "published": "2026-11-04T18:25:58+00:00"
   },
   {
    "title": "William Byron Breaks NASCAR’s Cursed Regular Season Trend",
@@ -379,52 +435,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "13h ago",
+   "age": "22h ago",
    "published": "2026-11-04T18:21:18+00:00"
-  },
-  {
-   "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
-   "url": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "From polluted waterways to repeated safety violations, the Army’s aging ammunition factories have left a troubling legacy, The War Horse reports.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/null-18.jpeg",
-   "age": "14h ago",
-   "published": "2026-11-04T17:38:06+00:00"
-  },
-  {
-   "title": "The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition",
-   "url": "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Sierra Nevada Corp decided not to bid to replace the Navy's T-45s with its Freedom Jet, one of two known contenders left in the running. The post The Beechcraft M-346N I…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/snc-withdrawal-leaves-one-known-t-45-replacement-contender.jpg?quality=85",
-   "age": "14h ago",
-   "published": "2026-11-04T17:36:13+00:00"
-  },
-  {
-   "title": "Navy Taps Career Submariner to Lead PAE Maritime",
-   "url": "https://news.usni.org/2026/11/04/navy-taps-career-submariner-to-lead-pae-maritime",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Navy tapped career submariner Rear Adm. Jonathan Rucker to lead the service’s new surface shipbuilding acquisition office, Acting Navy Secretary Hung Cao announced W…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/Rucker-scaled-e1793812151367.jpeg",
-   "age": "14h ago",
-   "published": "2026-11-04T17:10:53+00:00"
-  },
-  {
-   "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
-   "url": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean. Prince of …",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/888620081_2024342051562288_3043454668547549054_n.jpeg",
-   "age": "15h ago",
-   "published": "2026-11-04T16:45:40+00:00"
   },
   {
    "title": "Weekend Winners: Byron’s dominant Martinsville drive earns top honors",
@@ -445,19 +457,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-03T15:00:00+00:00"
-  },
-  {
-   "title": "William Byron and Rudy Fugle really needed this one",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSldidXlxc24wem1jZHZaQTZBZ1ZwVUcyaXhuRVFUOUk2ZmlFLW9pU3c1dHVDZWxCdzl3a3g0UjdTYmkzVnV3TDVxQ1QxcS1BMDZkejVyeVVCREUzR3E1cDNRb3B4Zi1SQ1E1eEQ5bFpxT2NEYlF5V3JvYlV5bGZ0NTllZ183bWpVMGMxQ2g1SHpNLVNVYzJmRmU5RWpucHJKb0MxaGw0Zw?oc=5",
-   "source": "Motorsport.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-11-02T02:55:42+00:00"
   }
  ]
 }
