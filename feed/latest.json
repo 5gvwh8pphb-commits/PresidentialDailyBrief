@@ -1,48 +1,122 @@
 {
- "generated": "2026-11-05T01:21:19+00:00",
+ "generated": "2026-11-05T08:01:27+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": true,
+ "withImage": 35,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Beyond the Flag",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "Motorsport.com",
   "NASCAR.com",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
-   "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
+   "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+   "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108280427-1786124614115-108280427-1773939285477-gettyimages-2267401098-kd1_7891_8uve28ro.jpeg?v=1786124639&amp;w=1920&amp;h=1080",
-   "age": "9m ago",
-   "published": "2026-11-05T01:11:26+00:00"
+   "summary": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108160824-1750231226798-gettyimages-2218016424-JAPAN_NINTENDO_SWITCH_2.jpeg?v=1770172023&amp;w=1920&amp;h=1080",
+   "age": "30m ago",
+   "published": "2026-11-05T07:30:58+00:00"
   },
   {
-   "title": "Bears Over Beers: Big Jeff and Bears Prepare For Prime Time vs. Bucs",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/126936/bears-over-beers-big-jeff-and-bears-prepare-for-prime-time-vs-bucs",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303241639.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "19m ago",
-   "published": "2026-11-05T01:02:17+00:00"
+   "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+   "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108522628-1793842915678-gettyimages-2276184284-aw1a5970_r6lydbm8.jpeg?v=1793842950&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-05T06:54:52+00:00"
+  },
+  {
+   "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+   "url": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108309757-1779284560057-gettyimages-2276638145-RUS_Russian_President_Putin_Visits_China.jpeg?v=1779284591&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-05T05:58:33+00:00"
+  },
+  {
+   "title": "US Marine dies in training incident at Japan military base, officials say",
+   "url": "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A U.S. Marine with the 3rd Marine Division died during a training exercise at Camp Schwab in Okinawa, and the incident remains under investigation.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Camp-Schwab-japan-military-base-training.png?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-05T04:38:44+00:00"
+  },
+  {
+   "title": "Ted Cruz says 'blue tsunami' took over Texas after Democrats swept statewide races",
+   "url": "https://www.foxnews.com/politics/ted-cruz-says-blue-tsunami-took-over-texas-after-democrats-swept-statewide-races",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. Ted Cruz called the 2026 midterms a blue tsunami after James Talarico defeated Ken Paxton and Gina Hinojosa unseated Greg Abbott in Texas.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ted-cruz-gop-midterm-convention.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-05T04:03:47+00:00"
+  },
+  {
+   "title": "Warriors coach Steve Kerr laughs at GOP midterms after begging reporters for political questions",
+   "url": "https://www.foxnews.com/outkick-sports/warriors-coach-steve-kerr-laughs-gop-midterms-begging-reporters-political-questions",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Steve Kerr stopped reporters after practice at Chase Center to riff on midterm results, months after vowing to dial back his political takes.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/steve-kerr-nba-warriors-2.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-05T03:17:09+00:00"
+  },
+  {
+   "title": "NASA Announces X-70 “Fractal” Experimental Aircraft",
+   "url": "https://www.twz.com/space/nasa-announces-x-70-fractal-experimental-aircraft",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The X-70 will be able to test new flight control capabilities and will push the bounds of maneuverability. The post NASA Announces X-70 Fractal Experimental Aircraft app…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/X70-NASA.jpg?quality=85",
+   "age": "5h ago",
+   "published": "2026-11-05T02:37:32+00:00"
+  },
+  {
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
+   "age": "6h ago",
+   "published": "2026-11-05T01:26:22+00:00"
+  },
+  {
+   "title": "Charlamagne Tha God warns Democrats 'don't get comfortable' after winning House and Senate",
+   "url": "https://www.foxnews.com/media/charlamagne-tha-god-warns-democrats-dont-get-comfortable-after-winning-house-senate",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Charlamagne Tha God demanded Democrats deliver on housing costs, healthcare, wages and corruption investigations after winning the House and Senate.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/charlamagne-speaks-on-stage.png?ve=1&tl=1",
+   "age": "6h ago",
+   "published": "2026-11-05T01:18:53+00:00"
   },
   {
    "title": "After the midterms, a bigger clash over data centers could be coming",
@@ -52,41 +126,19 @@
    "topic": "ai",
    "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/11/us-congress-at-night.jpg?resize=1200,677",
-   "age": "19m ago",
+   "age": "6h ago",
    "published": "2026-11-05T01:02:14+00:00"
   },
   {
-   "title": "5 things we learned from Bears coach Ben Johnson",
-   "url": "https://www.chicagobears.com/news/5-things-we-learned-from-bears-coach-ben-johnson-seahawks-week-8-win",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/m60isziqjrautjnyo0qy.jpg",
-   "age": "1h ago",
-   "published": "2026-11-05T00:09:20+00:00"
-  },
-  {
-   "title": "Grocery store cyberattacks are ‘psychological warfare’ that could strike US, former FBI agent warns",
-   "url": "https://www.foxnews.com/us/grocery-store-cyberattacks-psychological-warfare-could-strike-us-former-fbi-agent-warns",
+   "title": "New Jersey pre-K aide faces 61 charges, accused of filming himself sexually assaulting students at school",
+   "url": "https://www.foxnews.com/us/new-jersey-pre-k-aide-faces-61-charges-accused-filming-himself-sexually-assaulting-students-school",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Former FBI agent Nicole Parker warns that hackers turning up supermarket freezer temperatures in Europe could target U.S. critical infrastructure next.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/France_fridges_empty.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-05T00:05:50+00:00"
-  },
-  {
-   "title": "Tony Butala, voice behind 'The Way You Look Tonight' and The Lettermen co-founder, dead at 87",
-   "url": "https://www.foxnews.com/entertainment/tony-butala-voice-way-you-look-tonight-lettermen-co-founder-dead-87",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tony Butala co-founded The Lettermen in the late 1950s and performed for over 60 years, earning four Grammy nominations and a Hollywood Walk of Fame star.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/the-lettermans.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-05T00:01:35+00:00"
+   "summary": "Shaun Stebbins, a former elementary school aide, faces dozens of charges after state prosecutors allege images and videos of students were found on his devices.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/shaun-stebbins-woodbine-elementary.jpg?ve=1&tl=1",
+   "age": "7h ago",
+   "published": "2026-11-05T00:39:33+00:00"
   },
   {
    "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
@@ -96,30 +148,8 @@
    "topic": "markets",
    "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
    "image": "https://image.cnbcfm.com/api/v1/image/108519904-1793817170911-gettyimages-2303031323-AA_04112026_3025836.jpeg?v=1793835392&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-04T23:44:18+00:00"
-  },
-  {
-   "title": "Four dead, including Washington deputy, following domestic call shooting; another deputy on life support",
-   "url": "https://www.foxnews.com/us/four-dead-including-washington-deputy-following-domestic-call-shooting-another-deputy-life-support",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "A Spokane County sheriff s deputy died and another is on life support after a SWAT team was ambushed responding to a domestic violence call.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Screenshot-2026-11-04-at-3.26.16-PM.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-04T23:41:09+00:00"
-  },
-  {
-   "title": "Predicting the full 14-team NFL playoff bracket entering Week 9: Bears make Super Bowl run",
-   "url": "https://www.cbssports.com/nfl/news/predicting-the-full-14-team-nfl-playoff-bracket-week-9-bears/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/04/b7fe991c-804c-4252-a2e3-71af5d9d3685/caleb-williams-bears.jpg",
-   "age": "1h ago",
-   "published": "2026-11-04T23:31:23+00:00"
   },
   {
    "title": "Navy unfairly evaluated Saildrone MUSV proposal, court finds",
@@ -129,7 +159,7 @@
    "topic": "defense",
    "summary": "The court found that the Navy engaged in disparate treatment toward Saildrone s MUSV proposal, according to an opinion unsealed Wednesday.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Saildrone-Spectre-Silent-Endurance-and-Stealth-Strike_4-1024x565.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-04T23:23:22+00:00"
   },
   {
@@ -140,19 +170,8 @@
    "topic": "markets",
    "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
    "image": "https://image.cnbcfm.com/api/v1/image/108369772-17907103772026-09-29t193020z_933004631_rc27tnagbtu2_rtrmadp_0_usa-trump.jpeg?v=1793831589&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-11-04T23:17:56+00:00"
-  },
-  {
-   "title": "Democrats take Congress in a blue wave. Here's what it means for your money",
-   "url": "https://www.cnbc.com/2026/11/04/blue-wave-democrats-control-congress-your-money.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Blue wave gives Democrats control of Congress. Here's how their agenda could affect your money, from healthcare and taxes to student loans and Social Security.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108519125-17938086942026-11-04t133744z_779983334_rc20hoa5bbs5_rtrmadp_0_usa-election.jpeg?v=1793826476&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-04T23:11:48+00:00"
   },
   {
    "title": "Amid Iran conflict, ‘non-hostile’ deaths of 2 US airmen raise overseas toll",
@@ -162,19 +181,8 @@
    "topic": "defense",
    "summary": "Two U.S. airmen supporting operations against Iran died last week in \"non-hostile\" incidents, raising the death toll to 23 since the war began.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/1000w_q95-77.jpg",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-11-04T23:08:17+00:00"
-  },
-  {
-   "title": "Virginia Halas McCaskey among 5 Hall of Fame nominees in Contributor category",
-   "url": "https://www.chicagobears.com/news/virginia-halas-mccaskey-among-5-hall-of-fame-nominees-contributor-category",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/fxmhoxdbowmyfdstv8bn.jpg",
-   "age": "2h ago",
-   "published": "2026-11-04T23:03:00+00:00"
   },
   {
    "title": "Did The Blue Wave Just Sink Trump’s Battleship?",
@@ -184,7 +192,7 @@
    "topic": "defense",
    "summary": "The validity and cost of President Trump's battleship program was already under fire before the Democrats' historic mid-term wins. The post Did The Blue Wave Just Sink T…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/trump-class-battleship-fate-mid-term-blue-wave.jpg?quality=85",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-04T23:00:28+00:00"
   },
   {
@@ -195,7 +203,7 @@
    "topic": "ai",
    "summary": "And what that could mean for physical Switch game costs.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-04T22:47:51+00:00"
   },
   {
@@ -206,7 +214,7 @@
    "topic": "defense",
    "summary": "Republicans now have a small window to advance defense funding priorities before Democrats take control of Capitol Hill.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/CRU38-pb-1024x574.jpeg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-04T22:47:45+00:00"
   },
   {
@@ -217,19 +225,8 @@
    "topic": "ai",
    "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2264644532.jpg?resize=1200,800",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-04T22:45:09+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to claim $200 bonus + free NBA League Pass for Pistons-76ers, NBA, college football",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-200-bonus-free-nba-league-pass-pistons-76ers-nba-college-football-wednesday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-   "age": "2h ago",
-   "published": "2026-11-04T22:30:48+00:00"
   },
   {
    "title": "Hackers exploited iOS and Android flaws to infect phones",
@@ -239,19 +236,8 @@
    "topic": "ai",
    "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-04T22:26:49+00:00"
-  },
-  {
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Pistons-76ers, NBA, college football on Wednesday",
-   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-for-pistons-76ers-nba-college-football-on-wednesday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "3h ago",
-   "published": "2026-11-04T22:18:37+00:00"
   },
   {
    "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
@@ -261,7 +247,7 @@
    "topic": "ai",
    "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-11-04T22:13:16+00:00"
   },
   {
@@ -272,41 +258,30 @@
    "topic": "ai",
    "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-04T21:56:29+00:00"
   },
   {
-   "title": "UPDATED: Chicago Bears 16-Man Practice Squad",
-   "url": "https://www.windycitygridiron.com/chicago-bears-roster/121608/chicago-bears-2026-practice-squad-cut-waive-release",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY29493574876886509.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
-   "published": "2026-11-04T21:48:21+00:00"
+   "title": "Almost no one uses AI agents to book their Uber, company says",
+   "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
+   "age": "10h ago",
+   "published": "2026-11-04T21:56:01+00:00"
   },
   {
-   "title": "Updated: Chicago Bears 53-Man Roster for 2026",
-   "url": "https://www.windycitygridiron.com/chicago-bears-roster/24480928/chicago-bears-53-man-roster-injured-reserve-pup-cut-trade-release-waive",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/08/gettyimages-2244704807.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
-   "published": "2026-11-04T21:44:15+00:00"
-  },
-  {
-   "title": "Roster Moves: Chicago Bears place Kentavius Street on IR",
-   "url": "https://www.chicagobears.com/news/roster-moves-chicago-bears-place-kentavius-street-on-ir",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/oalpwt84w2gd0fq8myhx.jpg",
-   "age": "3h ago",
-   "published": "2026-11-04T21:30:00+00:00"
+   "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+   "url": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg",
+   "age": "10h ago",
+   "published": "2026-11-04T21:38:49+00:00"
   },
   {
    "title": "Report to Congress on the Federal Fleet of Oceanographic Research Vessels",
@@ -316,7 +291,7 @@
    "topic": "defense",
    "summary": "The following is the Oct. 28, 2026, Congressional Research Service report, The Federal Fleet of Oceanographic Research Vessels: Issues for Congress. From the Report The …",
    "image": null,
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-11-04T21:15:13+00:00"
   },
   {
@@ -327,7 +302,7 @@
    "topic": "defense",
    "summary": "The test is a major step toward Pakistan’s homegrown air-to-air missile capability, despite already fielding advanced Chinese weapons. The post Pakistan Joins Air-to-Air…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/Faaz-missile-launch.png?quality=85",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-04T20:29:40+00:00"
   },
   {
@@ -338,7 +313,7 @@
    "topic": "defense",
    "summary": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\"",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/3D-barracks.jpg.jpg",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-11-04T20:16:52+00:00"
   },
   {
@@ -349,7 +324,7 @@
    "topic": "defense",
    "summary": "Rear Adm. Jonathan Rucker is the second person to hold the position since PAE Maritime was established in March.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260721_DVIDS_carrier_hormuz_8138563-scaled-e1784663487566-1024x577.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-04T19:43:20+00:00"
   },
   {
@@ -360,7 +335,7 @@
    "topic": "defense",
    "summary": "Ukrainian troops explain their affinity for HK416s and locally-built UAR-15s rifles, Holosun and Eotech optics, and much more. The post Ukrainian Soldiers Tell Us Which …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/HK416-ukraine-Guns.jpg?quality=85",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-11-04T19:17:22+00:00"
   },
   {
@@ -371,7 +346,7 @@
    "topic": "defense",
    "summary": "A Marine died Tuesday during a training event at Camp Schwab in Okinawa, Japan, 3rd Marine Division announced Wednesday. Few details were available about the Marine’s de…",
    "image": "https://news.usni.org/wp-content/uploads/2026/05/9341129-scaled.jpeg",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-04T18:44:27+00:00"
   },
   {
@@ -382,8 +357,19 @@
    "topic": "defense",
    "summary": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense confe…",
    "image": "https://cdn.jwplayer.com/videos/ZrPLhMuX-5ZsksG4j.mp4",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-04T18:27:06+00:00"
+  },
+  {
+   "title": "Naval Group unveils new drone carrier concept",
+   "url": "https://breakingdefense.com/2026/11/naval-group-unveils-new-drone-carrier-concept/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“The return of high-intensity conflict and the emergence of hybrid naval warfare require a new vision. Naval Group answers with a new concept ship: SCX 26,” the company …",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Capture-decran-le-2026-11-04-a-18.05.03-e1793816720777-1024x569.png",
+   "age": "13h ago",
+   "published": "2026-11-04T18:25:58+00:00"
   },
   {
    "title": "William Byron Breaks NASCAR’s Cursed Regular Season Trend",
@@ -393,8 +379,30 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-11-04T18:21:18+00:00"
+  },
+  {
+   "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
+   "url": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "From polluted waterways to repeated safety violations, the Army’s aging ammunition factories have left a troubling legacy, The War Horse reports.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/null-18.jpeg",
+   "age": "14h ago",
+   "published": "2026-11-04T17:38:06+00:00"
+  },
+  {
+   "title": "The Beechcraft M-346N Is The Only Known Aircraft Left In The Navy’s Jet Trainer Competition",
+   "url": "https://www.twz.com/air/the-beechcraft-m-346n-is-the-only-known-aircraft-left-in-the-navys-jet-trainer-competition",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Sierra Nevada Corp decided not to bid to replace the Navy's T-45s with its Freedom Jet, one of two known contenders left in the running. The post The Beechcraft M-346N I…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/snc-withdrawal-leaves-one-known-t-45-replacement-contender.jpg?quality=85",
+   "age": "14h ago",
+   "published": "2026-11-04T17:36:13+00:00"
   },
   {
    "title": "Navy Taps Career Submariner to Lead PAE Maritime",
@@ -404,8 +412,19 @@
    "topic": "defense",
    "summary": "The Navy tapped career submariner Rear Adm. Jonathan Rucker to lead the service’s new surface shipbuilding acquisition office, Acting Navy Secretary Hung Cao announced W…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/Rucker-scaled-e1793812151367.jpeg",
-   "age": "8h ago",
+   "age": "14h ago",
    "published": "2026-11-04T17:10:53+00:00"
+  },
+  {
+   "title": "Royal Navy Carriers Operate in the High North, Mediterranean",
+   "url": "https://news.usni.org/2026/11/04/royal-navy-carriers-operate-in-the-high-north-mediterranean",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Royal Navy aircraft carrier HMS Prince of Wales (R09) is conducting operations across the High North as HMS Queen Elizabeth (RO8) trains in the Mediterranean. Prince of …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/11/888620081_2024342051562288_3043454668547549054_n.jpeg",
+   "age": "15h ago",
+   "published": "2026-11-04T16:45:40+00:00"
   },
   {
    "title": "Weekend Winners: Byron’s dominant Martinsville drive earns top honors",
@@ -430,37 +449,15 @@
    "published": "2026-11-03T15:00:00+00:00"
   },
   {
-   "title": "‘Just getting started’: Ben Johnson’s Bears prove they’re capable of playing with — and dominating — anybody",
-   "url": "https://allchgo.com/bears/ben-johnson-bears-capable-playing-dominating-anybody/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
+   "title": "William Byron and Rudy Fugle really needed this one",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSldidXlxc24wem1jZHZaQTZBZ1ZwVUcyaXhuRVFUOUk2ZmlFLW9pU3c1dHVDZWxCdzl3a3g0UjdTYmkzVnV3TDVxQ1QxcS1BMDZkejVyeVVCREUzR3E1cDNRb3B4Zi1SQ1E1eEQ5bFpxT2NEYlF5V3JvYlV5bGZ0NTllZ183bWpVMGMxQ2g1SHpNLVNVYzJmRmU5RWpucHJKb0MxaGw0Zw?oc=5",
+   "source": "Motorsport.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/03015714/2026-11-03T012348Z_604680677_MT1USATODAY30262148_RTRMADP_3_NFL-CHICAGO-BEARS-AT-SEATTLE-SEAHAWKS-1-1024x576.jpg",
-   "age": "1d ago",
-   "published": "2026-11-03T08:02:51+00:00"
-  },
-  {
-   "title": "Bears at Seahawks Predictions: Jeffery Simmons makes first appearance in prime time in three years",
-   "url": "https://allchgo.com/bears/bears-seahawks-predictions-jeffery-simmons-prime-time/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/01114507/2026-09-22T091113Z_1757480643_MT1USATODAY29885011_RTRMADP_3_NFL-PHILADELPHIA-EAGLES-AT-TENNESSEE-TITANS-1-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-11-02T19:00:00+00:00"
-  },
-  {
-   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 8 against the Seahawks",
-   "url": "https://allchgo.com/bears/everything-need-to-know-bears-week-8-against-seahawks/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/01120420/2026-10-23T000447Z_1540228712_MT1USATODAY30157240_RTRMADP_3_NFL-NEW-ENGLAND-PATRIOTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "2d ago",
-   "published": "2026-11-02T11:00:00+00:00"
+   "image": null,
+   "age": "3d ago",
+   "published": "2026-11-02T02:55:42+00:00"
   }
  ]
 }
