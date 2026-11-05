@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-05",
+  "dateLabel": "Thursday, November 5, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-05T16:53:13Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, November 4, 2026 close — a sharp post-midterm rally as Democratic congressional wins and a plunge in oil prices lifted stocks across the board.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,688.62", "change": "+119.64", "changePct": "+1.58%", "sixMo": "+5.9%" },
+        { "name": "Dow", "close": "53,356.12", "change": "+1,569.40", "changePct": "+3.03%", "sixMo": "+8.2%" },
+        { "name": "Nasdaq", "close": "25,736.51", "change": "+365.53", "changePct": "+1.44%", "sixMo": "+1.6%" }
+      ],
+      "body": "The Dow posted its best post-midterm day in decades after Democrats won control of both chambers of Congress and Trump said he would accept the results and work with them; crude oil fell more than 8% after Vice President JD Vance linked the Iran war to Republican losses, and Apple rose about 6% to a record high while Nvidia and other AI-infrastructure names slipped on fears that Democratic control could bring new data-center restrictions.",
+      "source": "24/7 Wall St",
+      "url": "https://247wallst.com/investing/2026/11/05/the-dow-just-jumped-1569-points-for-its-best-post-midterm-day-in-44-years/"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "Zelenskyy says a Democratic-led Congress could mean more US help for Ukraine",
+      "body": "Ukrainian President Volodymyr Zelenskyy said Democratic gains in Tuesday's US midterms could work in Kyiv's favor, noting Democrats have 'spoken very clearly' about backing Ukraine, and said stronger congressional support could increase pressure on Russian President Vladimir Putin.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~13h ago",
+      "empty": false,
+      "headline": "Taiwan's defense minister says US support for its military buildup has 'long been bipartisan'",
+      "body": "Responding to a question about Republican losses in Tuesday's US midterms, Defense Minister Wellington Koo told reporters in Taipei that congressional backing for Taiwan's defense buildup has long been bipartisan, and said the ministry will keep engaging lawmakers of both parties and the US Department of War to keep arms sales to Taiwan on schedule.",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/politics/202611050006"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US forces reportedly poised to resume major strikes on Iran as Gulf states brace for escalation",
+      "body": "The New York Times, citing unnamed Pentagon officials and military leaders, reported that US forces are poised to resume major combat operations against Iran on President Trump's orders, as Iranian Foreign Minister Abbas Araghchi held calls with his counterparts in Saudi Arabia, Oman and Qatar amid fears of a new US attack.",
+      "source": "Al Jazeera / The New York Times",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Air Force seeks industry input on a cheap, mass-produced cruise missile",
+      "body": "The Air Force issued a request for information on the Extended Range Attack Munition, a 500-pound-class standoff missile meant to be built by the thousand at low cost, with responses due November 19; the program reflects a Pentagon push for 'affordable mass' after the Iran war strained stocks of pricier precision weapons.",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/air/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic unveils FlashProve, a cryptographic tool to verify which AI model produced an output",
+      "body": "The open-source system lets labs publish a verifiable fingerprint for each model so outputs can be matched to the model that generated them without exposing its internal weights, giving companies and third parties a way to catch providers that secretly swap in cheaper or different models than advertised.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears place DT Kentavius Street on season-ending injured reserve",
+      "body": "Street, who started seven of the Bears' first eight games before Jeffery Simmons arrived, went on injured reserve Wednesday with a knee injury; left tackle Braxton Jones, already on IR, had knee surgery this week and is also done for the year, according to coach Ben Johnson.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/11/04/bears-report-dt-kentavius-street-to-injured-reserve"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Martinsville race and any resulting Championship 4 field fall within the past 7 days and are barred by the spoiler rule; no other non-spoiler roster, sponsorship, or schedule item surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news could be confirmed within the 72-hour window; byFaith's most recent dated items, a worship-committee feedback call and the quarterly ministry-transitions roundup, trace back to late October or earlier and are already covered in prior briefs.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
