@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-06",
+  "dateLabel": "Friday, November 6, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-06T16:18:04Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, November 5, 2026 close — a sharp AI-chip selloff erased Wednesday's post-midterm rally and pushed the Nasdaq into correction territory.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,353.73", "change": "-334.89", "changePct": "-4.36%", "sixMo": "+1.3%" },
+        { "name": "Dow", "close": "51,523.06", "change": "-1,833.06", "changePct": "-3.44%", "sixMo": "+4.5%" },
+        { "name": "Nasdaq", "close": "24,315.00", "change": "-1,421.51", "changePct": "-5.52%", "sixMo": "-4.0%" }
+      ],
+      "body": "Nvidia, Micron and other chip and AI-infrastructure names led the rout amid fears that data-center spending growth is cooling; the Nasdaq fell more than 10% below its October record into correction territory, and all three indexes posted their worst day since April 2025.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US joins nine allies condemning Hong Kong's 10-year sentence for activist Joshua Wong",
+      "body": "The State Department issued a joint statement with Australia, Canada, France, Germany, Italy, Japan, the Netherlands, New Zealand and the UK calling Thursday's sentencing of pro-democracy figure Joshua Wong under Hong Kong's national security law 'another example' of the law being used to target political expression; the US Consulate in Hong Kong separately said it 'strongly condemns' the term and called for his immediate release.",
+      "source": "US Department of State",
+      "url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/on-the-conviction-of-hong-kong-alliance-leaders-and-sentencing-of-joshua-wong"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Taiwan says China has over 100 navy and coast guard ships operating across the Western Pacific",
+      "body": "National Security Council Secretary-General Joseph Wu said Beijing had more than 100 naval and coast guard vessels deployed across the Western Pacific as of Tuesday, with the carriers Liaoning and Fujian both at sea simultaneously in the Philippine Sea and South China Sea, while Taiwan's defense ministry logged dozens of PLA aircraft sorties crossing the Strait median line over the same days.",
+      "source": "Taiwan News",
+      "url": "https://www.taiwannews.com.tw/news/6471672"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Iran claims new tanker mine strikes in Strait of Hormuz as US carrier group steams toward region",
+      "body": "Iran's Revolutionary Guards said two more oil tankers hit mines and caught fire in or near the Strait of Hormuz early Friday, a day after claiming five others suffered similar fates; a US official said the USS Theodore Roosevelt strike group will make a port call in Singapore before reaching the Middle East, joining two US carrier groups already on station as Trump weighs whether to resume major strikes on Iran now that the midterms are over.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Navy's new Blackbeard hypersonic missile spotted mounted on a Super Hornet",
+      "body": "Images this week showed Castelion's Blackbeard hypersonic missile, marked 'AHM-XXX', mounted on an F/A-18 Super Hornet after a test flight at NAS Patuxent River that Chief of Naval Operations Adm. Daryl Caudle reviewed in person; the Navy says the low-cost, rapidly fieldable weapon will give its non-stealth strike fighters standoff range to penetrate contested air defenses, particularly in the Indo-Pacific, though it has not disclosed performance data or a fielding timeline.",
+      "source": "Naval News",
+      "url": "https://www.navalnews.com/naval-news/2026/11/cno-caudle-gets-up-close-look-at-u-s-navys-newest-hypersonic-missile/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic launches a Personal Finance feature that lets Claude read your bank accounts",
+      "body": "The beta feature, announced Thursday, gives paid US subscribers a read-only view of linked bank and investment accounts via Plaid so Claude can analyze spending and build dashboards; Anthropic says the tool cannot move money and is not designed to give investment advice.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears starting LT Theo Benedet returns to practice after shoulder injury, trending toward playing Sunday",
+      "body": "Benedet, who hurt his shoulder but finished Monday night's win over Seattle, was listed out on Wednesday's estimated injury report before returning in a limited practice Thursday; backup Ozzy Trapilo would start at left tackle against Tampa Bay on Sunday night if Benedet can't go.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/11/05/bears-report-lt-theo-benedet-back-at-practice"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "This weekend's Phoenix playoff race and any point or Championship 4 implications fall within the spoiler window; no other non-spoiler roster, sponsorship, or schedule item surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news could be confirmed within the 72-hour window; byFaith's latest posts are daily devotionals, and its most recent newsworthy item, a remembrance of PCA founding figure Kennedy Smartt, is already more than three weeks old.",
+      "source": null,
+      "url": null
+    }
+  ]
+}

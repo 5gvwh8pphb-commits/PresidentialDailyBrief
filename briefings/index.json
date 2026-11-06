@@ -1,6 +1,7 @@
 {
-  "latest": "2026-11-05",
+  "latest": "2026-11-06",
   "archive": [
+    { "date": "2026-11-06", "label": "Fri, Nov 6, 2026" },
     { "date": "2026-11-05", "label": "Thu, Nov 5, 2026" },
     { "date": "2026-11-04", "label": "Wed, Nov 4, 2026" },
     { "date": "2026-11-03", "label": "Tue, Nov 3, 2026" },
@@ -59,7 +60,6 @@
     { "date": "2026-09-11", "label": "Fri, Sep 11, 2026" },
     { "date": "2026-09-10", "label": "Thu, Sep 10, 2026" },
     { "date": "2026-09-09", "label": "Wed, Sep 9, 2026" },
-    { "date": "2026-09-08", "label": "Tue, Sep 8, 2026" },
-    { "date": "2026-09-07", "label": "Mon, Sep 7, 2026" }
+    { "date": "2026-09-08", "label": "Tue, Sep 8, 2026" }
   ]
 }
