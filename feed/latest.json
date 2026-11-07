@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-07T02:13:24+00:00",
+ "generated": "2026-11-07T08:59:13+00:00",
  "count": 40,
- "withImage": 36,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -12,49 +12,134 @@
   "CNBC",
   "ChicagoBears.com",
   "Defense News",
-  "FanBuzz",
   "Fox News",
-  "MotorBiscuit",
-  "NASCAR.com",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "Yahoo Sports"
+  "Windy City Gridiron"
  ],
  "items": [
   {
-   "title": "REPORT: Blake Harris Leaving Hendrick Motorsports for New Team",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkF5dFJTMGZzbl96SXMweXN1T1ozdDk0V2JUNXY3djJrZnQ4MEE4MmRxWDh5MDVQZE5qSUJPaDNQX0h3N1N5d1M2LVpIdzllMWEyRFAxYkgtZnJtLVE4OFFKSGNoTmV2SnRUM3NCYTJCY3hyVTM3NzE2aE52eEQwRC1HT0NmcXZqWDI2eUhPeFVQTE9RMGxBajJqTmc0blRZaWZTOUw2T1VaZzNqNUhDaUpTZDk?oc=5",
-   "source": "FanBuzz",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+   "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108539426-1794035113546-gettyimages-2303901733-sc1_6555_6vbyy1aj.jpeg?v=1794035124&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-07T07:37:36+00:00"
+  },
+  {
+   "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+   "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The \"weakest point of aviation is targeting it in-flight,\" analysts say — but any change to procedures will be a lengthy process.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108532631-1793973369517-gettyimages-1171287484-_igp1978.jpeg?v=1793973419&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-07T06:00:01+00:00"
+  },
+  {
+   "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
+   "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Fusion energy has the potential to provide abundant, clean power. Now, the race is on to develop the world’s first commercial plant.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108518796-1793805529589-gettyimages-1661051950-41.jpeg?v=1793805641&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-07T06:00:01+00:00"
+  },
+  {
+   "title": "DeSantis blasts Washington Post over report he's preparing 2028 presidential bid",
+   "url": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Florida Gov. Ron DeSantis accused The Washington Post of fabricating claims he reached out to political consultants about a potential 2028 presidential bid.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/ron-desantis-florida-politics-republicans-fox-news-2.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-07T05:09:45+00:00"
+  },
+  {
+   "title": "Sequoia shutting down its Scouts program marks the end of an era",
+   "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1283080307.jpg?resize=1200,800",
+   "age": "3h ago",
+   "published": "2026-11-07T05:01:54+00:00"
+  },
+  {
+   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeo…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/SHAWN-THEW-Contributor-Getty.jpg?w=1024",
+   "age": "4h ago",
+   "published": "2026-11-07T04:16:43+00:00"
+  },
+  {
+   "title": "Bears plan to work out defensive tackle Jordan Elliott",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/127134/chicago-bears-plan-to-work-out-defensive-tackle-jordan-elliott-tennessee-titans-nfl",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
    "summary": "",
-   "image": null,
-   "age": "9m ago",
-   "published": "2026-11-07T02:03:38+00:00"
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY29520814534758609.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "4h ago",
+   "published": "2026-11-07T04:08:48+00:00"
   },
   {
-   "title": "US offers $20 million reward for information on Iran's nuclear program",
-   "url": "https://www.foxnews.com/politics/us-offers-20-million-reward-information-irans-nuclear-program",
+   "title": "Rams safety Quentin Lake apologizes to Justin Herbert for 'deli meat' comment, even though he has a point",
+   "url": "https://www.foxnews.com/outkick-sports/rams-safety-quentin-lake-apologized-justin-herbert-deli-meat-comment-even-though-he-has-point",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The State Department s Rewards for Justice program is offering up to $20 million for tips on Iran s nuclear program via Signal or Tor tip lines.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/iranian-flag-bushehr-nuclear-power-plant.jpg?ve=1&tl=1",
-   "age": "9m ago",
-   "published": "2026-11-07T02:03:34+00:00"
+   "summary": "Quentin Lake said Justin Herbert was throwing deli meat and seeing ghosts on the St. Brown Podcast after his interception against the Chargers.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/quentin-lake.png?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-11-07T03:15:45+00:00"
   },
   {
-   "title": "Trump highlights NASA nuclear-powered Mars spacecraft mission planned for 2028",
-   "url": "https://www.foxnews.com/politics/trump-highlights-nasa-nuclear-powered-mars-spacecraft-mission-planned-2028",
+   "title": "Tiger Woods and ex-wife Elin Nordegren reunite to celebrate son Charlie's college golf commitment",
+   "url": "https://www.foxnews.com/outkick-sports/tiger-woods-ex-wife-elin-nordegren-reunite-celebrate-son-charlie-college-golf-commitment",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "President Donald Trump announced NASA will launch its first nuclear-powered spacecraft to Mars within two years, aiming to send astronauts to the red planet.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/donald-trump-nasa-mars-mission-kennedy-space-center.jpg?ve=1&tl=1",
-   "age": "19m ago",
-   "published": "2026-11-07T01:54:19+00:00"
+   "summary": "Tiger Woods and ex-wife Elin Nordegren reunited at their son Charlie Woods high school to celebrate his Florida State University golf commitment.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/charlie-woods-signing-day-benjamin-high.jpg?ve=1&tl=1",
+   "age": "6h ago",
+   "published": "2026-11-07T02:50:40+00:00"
+  },
+  {
+   "title": "Denver man found dead at bottom of national park canyon beneath steep drop-offs",
+   "url": "https://www.foxnews.com/us/denver-man-found-dead-bottom-national-park-canyon-beneath-steep-drop-offs",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A drone team located human remains on the floor of Gunnison National Park s Black Canyon after deputies found an abandoned vehicle on the South Rim.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/black-canyon-gunnison-park-2.jpg?ve=1&tl=1",
+   "age": "6h ago",
+   "published": "2026-11-07T02:34:59+00:00"
+  },
+  {
+   "title": "Inside the card-grading empire shaping the price of Pokémon cards",
+   "url": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "PSA’s resale premium, backlog and grading-market dominance shape what collectors pay — and how much their Pokémon cards may fetch.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108478927-1793254462983-gettyimages-2265564314-AFP_A2ZY4KE.jpeg?v=1793257164&amp;w=1920&amp;h=1080",
+   "age": "6h ago",
+   "published": "2026-11-07T02:00:01+00:00"
   },
   {
    "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -64,19 +149,8 @@
    "topic": "ai",
    "summary": "The deal highlights the challenges of developing massive AI data centers.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-   "age": "32m ago",
+   "age": "7h ago",
    "published": "2026-11-07T01:40:28+00:00"
-  },
-  {
-   "title": "49ers coach gives blunt reaction to disgruntled Brandon Aiyuk's return to team: 'I could care less'",
-   "url": "https://www.foxnews.com/outkick-sports/49ers-coach-blunt-reaction-disgruntled-brandon-aiyuk-return-team-could-care-less",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Brandon Aiyuk says he s back to 100 percent and seeking NFL reinstatement, but Kyle Shanahan s blunt response signals a deep rift with the 49ers.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/brandon-aiyuk-san-francisco-49ers.jpg?ve=1&tl=1",
-   "age": "35m ago",
-   "published": "2026-11-07T01:38:06+00:00"
   },
   {
    "title": "NFL Week 9 injury report: Mike Evans ruled out, Seahawks' Quenton Nelson 'week-to-week' after knee procedure",
@@ -86,19 +160,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/11/06/4884b546-b3ff-494c-927d-b0d22c069719/quenton.jpg",
-   "age": "49m ago",
+   "age": "7h ago",
    "published": "2026-11-07T01:23:45+00:00"
   },
   {
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 in bonus bets for Nevada-New Mexico, college football, NBA",
-   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-nevada-new-mexico-college-football-nba/",
+   "title": "Browns name starting QB for Week 9 game vs. Saints: Shedeur Sanders gets nod over Deshaun Watson",
+   "url": "https://www.cbssports.com/nfl/news/browns-name-starting-qb-week-9-saints-shedeur-sanders-deshaun-watson/",
    "source": "CBS Sports NFL",
    "group": "CBS Sports NFL",
    "topic": "bears",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "1h ago",
-   "published": "2026-11-07T00:53:15+00:00"
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/06/61534d18-986c-4fd0-bf94-9b7b4636849d/sanderspitt.jpg",
+   "age": "8h ago",
+   "published": "2026-11-07T00:45:44+00:00"
   },
   {
    "title": "Brandon Aiyuk returns to 49ers offices to seek NFL reinstatement as $13 million problem looms",
@@ -108,18 +182,18 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/11/06/7d1f5696-b685-44c4-8e56-2b2065a8eccb/ai.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-07T00:39:41+00:00"
   },
   {
-   "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+   "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
    "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
    "source": "Ars Technica",
    "group": "Ars Technica",
    "topic": "ai",
    "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-11-06T23:09:45+00:00"
   },
   {
@@ -130,7 +204,7 @@
    "topic": "defense",
    "summary": "Why won't the buzzing stop??! The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/GettyImages-2283841528.jpg?quality=85",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-11-06T23:06:57+00:00"
   },
   {
@@ -141,19 +215,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303219802.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-11-06T23:00:00+00:00"
-  },
-  {
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-   "age": "3h ago",
-   "published": "2026-11-06T22:53:46+00:00"
   },
   {
    "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
@@ -163,19 +226,8 @@
    "topic": "ai",
    "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-06T22:41:37+00:00"
-  },
-  {
-   "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-   "url": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108534081-1793991585370-108534081-1793991494952-gettyimages-2296597797-_s012196_0xrqwhiw.jpg?v=1793991693&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-11-06T22:22:53+00:00"
   },
   {
    "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
@@ -185,7 +237,7 @@
    "topic": "ai",
    "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-11-06T22:08:47+00:00"
   },
   {
@@ -196,7 +248,7 @@
    "topic": "defense",
    "summary": "TOULON, France — Behind the bridge wings of one of Europe’s most modern combat supply ships, a team of French sailors donned gloves and flash hoods. The group were prepa…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/HA5OB30bsAQkT3T-scaled.jpeg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-06T21:54:51+00:00"
   },
   {
@@ -207,19 +259,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/n3jsfmdvkhe4xslkzre5.jpg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-06T21:42:12+00:00"
-  },
-  {
-   "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-   "url": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108534556-1793995684454-gettyimages-2265313491-murphy_483_031026.jpeg?v=1793995728&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-11-06T21:40:09+00:00"
   },
   {
    "title": "Bears vs. Buccaneers Injury Report: Kyle Monangai is 1 of 3 questionable for Chicago",
@@ -229,19 +270,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY300109101755239185.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-06T21:40:00+00:00"
-  },
-  {
-   "title": "The Duo apps are coming, says Apple",
-   "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/iPhone-duo.jpeg?resize=1200,675",
-   "age": "4h ago",
-   "published": "2026-11-06T21:38:05+00:00"
   },
   {
    "title": "Operational F-15EXs Have Started Flying With Conformal Fuel Tanks",
@@ -251,7 +281,7 @@
    "topic": "defense",
    "summary": "The USAF did not originally plan for the air-to-air combat-focused F-15EX to carry CFTs, but its mission demands are evolving. The post Operational F-15EXs Have Started …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/operational-f-15exs-flying-with-conformal-fuel-tanks.jpg?quality=85",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-06T21:25:42+00:00"
   },
   {
@@ -262,30 +292,8 @@
    "topic": "defense",
    "summary": "Where the aircraft carriers are as of November 6, 2026. The post USS Theodore Roosevelt Arrives In Singapore; Last Stop Before Third Strike Group Reaches The Middle East…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/TWZ-Aircraft-Carrier-Fleet-Tracker-as-of-November-6-2026.png?quality=85",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-06T21:17:39+00:00"
-  },
-  {
-   "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-   "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108405226-1792009363242-2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.JPG?v=1792415233&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-11-06T21:15:47+00:00"
-  },
-  {
-   "title": "Mannelly: The Chicago Bears are a Complete Team",
-   "url": "https://www.windycitygridiron.com/chicago-bears-podcasts/127113/mannelly-the-chicago-bears-are-a-complete-team",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-158757100.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
-   "published": "2026-11-06T21:00:00+00:00"
   },
   {
    "title": "US Army feeds culinary soldiers new job title",
@@ -295,7 +303,7 @@
    "topic": "defense",
    "summary": "Formerly known as culinary specialists, a soldier with the 92G occupation identifier will henceforth be known as a “tactical field feeding specialist.”",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/635735918986698442-arm-army-fitness-program-s-2nd-trial-2jpg.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-06T20:43:37+00:00"
   },
   {
@@ -306,7 +314,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/rxhuwviqlzexvk0hdnea.png",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-06T20:43:00+00:00"
   },
   {
@@ -317,7 +325,7 @@
    "topic": "defense",
    "summary": "Hundreds of American and Colombian troops kicked off a sprawling military exercise in Colombia this week as the U.S. military sharpens its focus on the Western Hemispher…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/10068329.jpg",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-06T19:27:32+00:00"
   },
   {
@@ -328,7 +336,7 @@
    "topic": "defense",
    "summary": "The U.S. military extended a curfew on Okinawa for junior service members that was scheduled to expire on Sunday and is continuing to impose restrictions on the purchase…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/Joint-Patrol-off-base.jpeg",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-11-06T19:10:38+00:00"
   },
   {
@@ -339,7 +347,7 @@
    "topic": "defense",
    "summary": "Catch up on the conference’s biggest stories, Army priorities and industry developments in our AUSA 2026 after-action report. Download it free, with no registration requ…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261012_DVIDS_telle_AUSA_10007115_PLAY-1024x576.jpg",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-11-06T18:59:47+00:00"
   },
   {
@@ -350,7 +358,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/w74xqxcufgvny8z6fj0h.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-06T18:47:08+00:00"
   },
   {
@@ -361,7 +369,7 @@
    "topic": "defense",
    "summary": "The ID/IQ contract to design, field and scale the Mission Operation Center for the Space Data Network Backbone is worth a maximum of $450 million.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/02/260205_golden_dome_trump_GettyImages-2216141466-e1770322925964.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-06T18:41:12+00:00"
   },
   {
@@ -372,7 +380,7 @@
    "topic": "defense",
    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group pull…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10069530-scaled.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-06T18:35:17+00:00"
   },
   {
@@ -383,7 +391,7 @@
    "topic": "defense",
    "summary": "Germany s next move, the fate of GCAP, and the rise of CCAs reshape Europe s combat aircraft strategy.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/European-airpower-video-story-German-F-35-e1793987111255-1024x577.jpg",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-11-06T17:51:07+00:00"
   },
   {
@@ -394,8 +402,30 @@
    "topic": "defense",
    "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
    "image": "https://cdn.jwplayer.com/videos/PpKri4RD-5ZsksG4j.mp4",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-11-06T17:28:08+00:00"
+  },
+  {
+   "title": "She grew up in Ross Township. Now she’s making history as its next trustee",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_0e531f22-7330-46d9-8149-a12733382650.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "After spending 44 of her 47 years in Ross Township, Myesha Jones is preparing to make history as its first African-American woman trustee, beginning Jan. 1.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d6/dd69ba9d-8707-4f5e-9670-356cf4d606a8/6aeb9930ddb20.image.jpg?resize=300%2C267",
+   "age": "18h ago",
+   "published": "2026-11-06T14:00:00+00:00"
+  },
+  {
+   "title": "Swift’s new song shines light on domestic abuse as Hammond's Haven House shelter rebuilds",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_7d4acba6-deff-45d3-9437-d23884f8c610.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Taylor Swift’s new song explores the toxic aftermath of an abusive relationship. For Carrie Greer, executive director of Haven House NWI, the song’s themes are all too f…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/91/e91dc1c3-bd0b-4734-af36-17ea61b161af/6aecbffe2631b.image.jpg?resize=300%2C225",
+   "age": "19h ago",
+   "published": "2026-11-06T13:15:00+00:00"
   },
   {
    "title": "Arrogance or confidence — who cares? Ben Johnson and Caleb Williams are backing it up",
@@ -405,8 +435,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/06021143/2026-11-03T012915Z_874997594_MT1USATODAY30261332_RTRMADP_3_NFL-CHICAGO-BEARS-AT-SEATTLE-SEAHAWKS-1-1024x576.jpg",
-   "age": "15h ago",
+   "age": "21h ago",
    "published": "2026-11-06T11:00:00+00:00"
+  },
+  {
+   "title": "5 Things to Know | Lindemulder proud of council service, charitable giving as he prepares to leave office",
+   "url": "https://nwitimes.com/news/article_1064368b-1031-44bc-a328-2c48098c0080.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Just 165 votes ended Pete Lindemulder's time on the Lake County Council. He's looking back on four years of service and leaving the door open to a return.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/06/1064368b-1031-44bc-a328-2c48098c0080/6aed42e6c7584.preview.webp?crop=1063%2C558%2C0%2C49",
+   "age": "22h ago",
+   "published": "2026-11-06T10:45:00+00:00"
   },
   {
    "title": "Should the Bears consider making another splash ahead of the trade deadline?",
@@ -418,50 +459,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/04164442/2025-10-24T184901Z_210848504_MT1USATODAY27406228_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-LOS-ANGELES-CHARGERS-1-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-11-05T11:00:00+00:00"
-  },
-  {
-   "title": "William Byron Avoids Unique NASCAR Statistical Trend",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVFVma3FoSklRaTNlRXRuQ05IYkxfVjJ0c011YVY0dE92bi1rd1hqXzE0QzhVcUxZa280cUFCd0IxRjZTLWkySGlGbEtuTVRfMWQ2eUhjTlNkNFVOWHEzaTNBNzNVVVNPb1ZkaUhwYXJRWXRmRDNKR2ZVSFJKREVUU1pVU1hsNjRzdUE?oc=5",
-   "source": "MotorBiscuit",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-11-05T06:37:35+00:00"
-  },
-  {
-   "title": "William Byron Breaks NASCAR’s Cursed Regular Season Trend",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWNVQ1N3RTZyN09iYnRiSnBHTGxwSXYzNDlEbVgzVWJncWdac2p6bVpkY2tIemphUkd6T0dDb2xydmdjYl9xVkhwUkVOZjRTOEVPbnRKX2cyaGRqb0VWZW1abXF6ZU05cmpfcGRDZWpKaFlDanlSbTNQZGh0YmtyZVBUVWZpMTVKQUhF?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-11-04T18:21:18+00:00"
-  },
-  {
-   "title": "Weekend Winners: Byron’s dominant Martinsville drive earns top honors",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnVSekFTT2NBS2FONTY0Q1NWNDhwY2drVE5FbWRGZUFFTkRvNFBBNVJGTDdwOVRnTXNzWW5HdGRESTU1MXdCd3ViMUprNWFfRXBHVTA4TWV2aWJiNllIa3IwMTBGbS04U29ISjFmVnVUOUVfYXZmR0YtSkF4UjRyRlJNZUVyYmlTYk45SW03eUFXcjBscnNBYUUzM3VYVFk?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-11-03T16:49:52+00:00"
-  },
-  {
-   "title": "‘Just getting started’: Ben Johnson’s Bears prove they’re capable of playing with — and dominating — anybody",
-   "url": "https://allchgo.com/bears/ben-johnson-bears-capable-playing-dominating-anybody/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/03015714/2026-11-03T012348Z_604680677_MT1USATODAY30262148_RTRMADP_3_NFL-CHICAGO-BEARS-AT-SEATTLE-SEAHAWKS-1-1024x576.jpg",
-   "age": "3d ago",
-   "published": "2026-11-03T08:02:51+00:00"
   }
  ]
 }
