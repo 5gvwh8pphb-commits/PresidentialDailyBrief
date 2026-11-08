@@ -1,90 +1,97 @@
 {
- "generated": "2026-11-08T02:35:03+00:00",
+ "generated": "2026-11-08T09:40:37+00:00",
  "count": 40,
  "withImage": 39,
- "bearsDay": true,
+ "bearsDay": false,
  "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "Windy City Gridiron"
+  "USNI News"
  ],
  "items": [
   {
-   "title": "Boston College scores on bizarre 'Ring-Around-The-Rosie' homage to 'The Longest Yard'",
-   "url": "https://www.foxnews.com/outkick-sports/boston-college-scores-bizarre-ring-around-rosie-homage-longest-yard",
+   "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+   "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108545226-1794127716409-gettyimages-2303620079-quentin-francema261107_npWgY.jpeg?v=1794127723&amp;w=1920&amp;h=1080",
+   "age": "11m ago",
+   "published": "2026-11-08T09:29:04+00:00"
+  },
+  {
+   "title": "New Jersey town reveals staggering $26M theft days after election, sparking backlash",
+   "url": "https://www.foxnews.com/politics/new-jersey-town-reveals-staggering-26m-theft-days-after-election-sparking-backlash",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Boston College dusted off the famous Ring-Around-The-Rosie play from The Longest Yard against Florida State, but the Seminoles rallied late.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/bc-mean-machine.png?ve=1&tl=1",
-   "age": "17m ago",
-   "published": "2026-11-08T02:17:46+00:00"
+   "summary": "Cranbury Township residents demand answers after a $26 million fraudulent wire transfer was kept secret until days after Election Day in New Jersey.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cranbury-new-jersey-26-million-fraudulent-wire-transfer.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-08T07:34:26+00:00"
   },
   {
-   "title": "Two experienced skydivers die after midair collision entangles their parachutes",
-   "url": "https://www.foxnews.com/us/two-experienced-skydivers-die-midair-collision-entangles-parachutes",
+   "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+   "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108214885-1761069562673-gettyimages-2242048911-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761575359&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-11-08T06:00:01+00:00"
+  },
+  {
+   "title": "Marcus Freeman, Notre Dame silence doubters by knocking off top-ranked Miami, solidifying their CFP ranking",
+   "url": "https://www.foxnews.com/outkick-sports/marcus-freeman-notre-dame-silence-doubters-knocking-top-ranked-miami-solidifying-cfp-ranking",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The two skydivers collided midair at about 150 feet during an organized skydive in Southern California, entangling their parachutes.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/person-skydives-dubai-tandem-instructor.jpg?ve=1&tl=1",
-   "age": "21m ago",
-   "published": "2026-11-08T02:13:43+00:00"
+   "summary": "The Miami Hurricanes mounted a dramatic comeback without Malachi Toney, but Notre Dame held on in a thriller with college football playoff stakes.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/marcus-freeman-notre-dame-fighting-irish-miami-fox-news_.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-08T05:05:24+00:00"
   },
   {
-   "title": "Bengals vs. Falcons odds, predictions: Use Kalshi promo code CBSSPORTS55 for $55 bonus in NFL Week 10",
-   "url": "https://www.cbssports.com/prediction/news/bengals-vs-falcons-odds-predictions-use-kalshi-promo-code-cbssports55-for-55-bonus-in-nfl-week-10/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/a90f0e22-5b54-4b88-8257-901a4e7cd93f/kalshi-promo-code-cbssports55.jpg",
-   "age": "34m ago",
-   "published": "2026-11-08T02:00:49+00:00"
-  },
-  {
-   "title": "Reggie Jackson calls out antisemitism in native Pennsylvania, likens it to 'racism I experienced in the 1960s'",
-   "url": "https://www.foxnews.com/outkick-sports/reggie-jackson-calls-out-antisemitism-native-pennsylvania-likens-racism-experienced-1960s",
+   "title": "Three teens, adult charged with murder after woman finds her teenage son dead in abandoned home",
+   "url": "https://www.foxnews.com/us/three-teens-adult-charged-murder-after-woman-finds-her-teenage-son-dead-abandoned-home",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Baseball Hall of Famer Reggie Jackson compared rising antisemitism in Pennsylvania to the racism he endured in the 1960s South as a Black player.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/reggie-jackson-baseball-hall-fame-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "39m ago",
-   "published": "2026-11-08T01:55:32+00:00"
+   "summary": "Austin Payne s mother tracked his cellphone to an abandoned Albany, Georgia, residence after the 15-year-old called to say he had been shot.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/austin-payne-albany-georgia-homicide.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-08T05:02:35+00:00"
   },
   {
-   "title": "Florida State interim coach Rick Stockstill leads Seminoles to win in debut, ends road losing streak",
-   "url": "https://www.foxnews.com/outkick-sports/florida-state-interim-coach-rick-stockstill-leads-seminoles-win-debut-ends-road-losing-streak",
+   "title": "Georgia dominates Ole Miss, moves closer to SEC championship game and College Football Playoff berth",
+   "url": "https://www.foxnews.com/outkick-sports/georgia-dominates-ole-miss-moves-closer-sec-championship-game-college-football-playoff-berth",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Amari Thomas scored the go-ahead touchdown with 2:29 left as Florida State rallied from a 17-7 deficit to beat Boston College in Rick Stockstill s debut.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/rick-stockstill-florida-state-football.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-08T01:30:04+00:00"
+   "summary": "Georgia s clock-eating rushing attack and Gunner Stockton s three touchdown passes overwhelmed Ole Miss as the Bulldogs silenced Trinidad Chambliss.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Gunner-Stockton-Georgia.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-11-08T04:40:18+00:00"
   },
   {
-   "title": "Week 9 NFL odds, picks, predictions: Computer model backs Chiefs and Commanders",
-   "url": "https://www.cbssports.com/betting/news/nfl-odds-lines-picks-game-predictions-best-bets-for-week-9-2026/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/14/2ed926f8-6509-4c6e-be57-aecfd15b51e1/patrick-mahomes-kansas-city-chiefs-imagn-images-1.jpg",
-   "age": "1h ago",
-   "published": "2026-11-08T00:45:42+00:00"
+   "title": "Japanese bowling pioneer Ritsuko Nakayama, first woman to bowl professional perfect game, dies at 84",
+   "url": "https://www.foxnews.com/outkick-sports/japanese-bowling-pioneer-ritsuko-nakayama-first-woman-bowl-professional-perfect-game-dies-84",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ritsuko Nakayama, who achieved the first perfect game in women s professional bowling, died at 84 after helping ignite Japan s 1970s bowling boom.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bowler-Ritsuko-Nakayama.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-11-08T04:00:20+00:00"
   },
   {
    "title": "Trump offers UFC chief Dana White press secretary job",
@@ -94,19 +101,8 @@
    "topic": "markets",
    "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
    "image": "https://image.cnbcfm.com/api/v1/image/108321662-1781484435758-gettyimages-2281608141-cs017934_avmaps79.jpeg?v=1781484464&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-07T23:13:38+00:00"
-  },
-  {
-   "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-   "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793981883&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-11-07T22:17:52+00:00"
   },
   {
    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -116,30 +112,19 @@
    "topic": "ai",
    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-07T22:07:22+00:00"
   },
   {
-   "title": "NFL fines Jaquan Brisker, two others for illegal Week 8 hits that placed opponents in concussion protocol",
-   "url": "https://www.cbssports.com/nfl/news/nfl-fines-jaquan-brisker-two-others-for-illegal-week-8-hits/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/07/8617e682-ffc7-4e53-a98e-dab218184730/gettyimages-2303014445-1.jpg",
-   "age": "4h ago",
-   "published": "2026-11-07T22:01:31+00:00"
-  },
-  {
-   "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-   "url": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+   "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
+   "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Trump ordered DOJ to examine alleged threats against Republicans while singling out Slotkin.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108520320-17938216482026-11-04t171726z_612909176_rc2ufoaxm75b_rtrmadp_0_usa-election-europe-farright.jpeg?v=1794004884&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-11-07T21:59:10+00:00"
+   "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108544587-1794070170749-gettyimages-1529862577-ALLEN__CO_2023.jpeg?v=1794070180&amp;w=1920&amp;h=1080",
+   "age": "11h ago",
+   "published": "2026-11-07T22:01:17+00:00"
   },
   {
    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -149,30 +134,8 @@
    "topic": "ai",
    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-07T21:17:08+00:00"
-  },
-  {
-   "title": "DA BRAGGS BLOG: All aboard, the Bears bandwagon is leaving the station",
-   "url": "https://allchgo.com/bears/da-braggs-blog-bears-bandwagon-is-leaving-the-station/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/07134631/Bears_BraggsBlog-4-1024x576.jpg",
-   "age": "6h ago",
-   "published": "2026-11-07T19:54:41+00:00"
-  },
-  {
-   "title": "Chicago Bears Question of the Day: Which teams scare you?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/127102/chicago-bears-question-of-the-day-which-teams-scare-you-lions-packers-vikings-49ers",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2300551516.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "7h ago",
-   "published": "2026-11-07T19:00:00+00:00"
   },
   {
    "title": "Parents want safer phones for kids. These companies are answering the call.",
@@ -182,30 +145,41 @@
    "topic": "ai",
    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobi…",
    "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-07T19:00:00+00:00"
   },
   {
-   "title": "Bears-Buccaneers game preview | 2026 Week 9",
-   "url": "https://www.chicagobears.com/news/bears-buccaneers-game-preview-2026-week-9",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/tcvxnoiotpuczvui6wpx.jpg",
-   "age": "8h ago",
-   "published": "2026-11-07T18:12:00+00:00"
+   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
+   "age": "16h ago",
+   "published": "2026-11-07T17:24:07+00:00"
   },
   {
-   "title": "Chicago Bears vs. Tampa Bay Buccaneers: Week 9 Players to Watch",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/126991/chicago-bears-vs-tampa-bay-buccaneers-week-9-players-to-watch-josiah-trotter-tez-johnson",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2294871909.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-11-07T16:44:50+00:00"
+   "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+   "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900",
+   "age": "16h ago",
+   "published": "2026-11-07T17:18:00+00:00"
+  },
+  {
+   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+   "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108544105-1794064987864-gettyimages-2283537705-050126-owh-new-berkshire-nf-24.jpeg?v=1794065008&amp;w=1920&amp;h=1080",
+   "age": "18h ago",
+   "published": "2026-11-07T15:23:46+00:00"
   },
   {
    "title": "European troops set to train in Poland for postwar Ukraine deployment",
@@ -215,7 +189,7 @@
    "topic": "defense",
    "summary": "Britain and France will lead 2,800 troops from 11 nations in a two-week exercise testing how to move, protect and supply a force to rebuild Ukraine’s military after the …",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2235378977.jpg.jpg",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-11-07T15:05:44+00:00"
   },
   {
@@ -226,7 +200,7 @@
    "topic": "local",
    "summary": "The scariest AI threat might not be a frightening robot. It could be an emotionally addictive relationship that gradually replaces real human connections.",
    "image": null,
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-11-07T14:30:00+00:00"
   },
   {
@@ -237,7 +211,7 @@
    "topic": "local",
    "summary": "A young Valparaiso mother turned her own isolation into a growing support network, helping Region mothers find friendship and the village that motherhood sometimes lacks.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/9a/b9a8111e-f547-4094-81de-5256e94cffa8/6aecfa54d6db5.image.jpg?resize=300%2C299",
-   "age": "13h ago",
+   "age": "20h ago",
    "published": "2026-11-07T13:15:00+00:00"
   },
   {
@@ -248,7 +222,7 @@
    "topic": "ai",
    "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
-   "age": "14h ago",
+   "age": "21h ago",
    "published": "2026-11-07T12:15:55+00:00"
   },
   {
@@ -259,30 +233,8 @@
    "topic": "ai",
    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
-   "age": "15h ago",
-   "published": "2026-11-07T11:00:34+00:00"
-  },
-  {
-   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 9 against the Buccaneers",
-   "url": "https://allchgo.com/bears/everything-need-know-bears-week-9-against-buccaneers/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/06215632/2026-11-02T224109Z_87113757_MT1USATODAY30258297_RTRMADP_3_NFL-CHICAGO-BEARS-AT-SEATTLE-SEAHAWKS-1-1024x576.jpg",
-   "age": "15h ago",
-   "published": "2026-11-07T11:00:00+00:00"
-  },
-  {
-   "title": "Bears plan to work out defensive tackle Jordan Elliott",
-   "url": "https://www.windycitygridiron.com/chicago-bears-news/127134/chicago-bears-plan-to-work-out-defensive-tackle-jordan-elliott-tennessee-titans-nfl",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY29520814534758609.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "age": "22h ago",
-   "published": "2026-11-07T04:08:48+00:00"
+   "published": "2026-11-07T11:00:34+00:00"
   },
   {
    "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
@@ -307,6 +259,17 @@
    "published": "2026-11-06T23:06:57+00:00"
   },
   {
+   "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+   "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
+   "age": "1d ago",
+   "published": "2026-11-06T22:41:37+00:00"
+  },
+  {
    "title": "The Future of French Fleet Close-in Defense",
    "url": "https://news.usni.org/2026/11/06/the-future-of-french-fleet-close-in-defense",
    "source": "USNI News",
@@ -316,17 +279,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/11/HA5OB30bsAQkT3T-scaled.jpeg",
    "age": "1d ago",
    "published": "2026-11-06T21:54:51+00:00"
-  },
-  {
-   "title": "Kyle Monangai back at practice, questionable for Buccaneers game | Injury Update",
-   "url": "https://www.chicagobears.com/news/kyle-monangai-back-at-practice-questionable-for-buccaneers-game-injury-update",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/n3jsfmdvkhe4xslkzre5.jpg",
-   "age": "1d ago",
-   "published": "2026-11-06T21:42:12+00:00"
   },
   {
    "title": "Operational F-15EXs Have Started Flying With Conformal Fuel Tanks",
@@ -360,17 +312,6 @@
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/635735918986698442-arm-army-fitness-program-s-2nd-trial-2jpg.jpg",
    "age": "1d ago",
    "published": "2026-11-06T20:43:37+00:00"
-  },
-  {
-   "title": "Bears in Badalona: Postcard with Roberto Garza | Friday, Nov. 6",
-   "url": "https://www.chicagobears.com/news/bears-in-badalona-postcards-with-roberto-garza-friday-nov-6",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/rxhuwviqlzexvk0hdnea.png",
-   "age": "1d ago",
-   "published": "2026-11-06T20:43:00+00:00"
   },
   {
    "title": "US, Colombian troops kick off exercise amid the Pentagon’s Western Hemisphere pivot",
@@ -439,6 +380,61 @@
    "published": "2026-11-06T17:51:07+00:00"
   },
   {
+   "title": "Russian Mi-28 Attack Helicopters Are Now Firing Cruise Missiles",
+   "url": "https://www.twz.com/air/russian-mi-28-attack-helicopter-fires-cruise-missile",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "New footage highlights Russia’s push to field lower-cost standoff weapons from unconventional platforms. The post Russian Mi-28 Attack Helicopters Are Now Firing Cruise …",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/Mi-28NM-cruise-missile.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-11-06T17:30:11+00:00"
+  },
+  {
+   "title": "BCE Consulting outlines the critical elements of layered air defense architecture",
+   "url": "https://www.defensenews.com/video/2026/11/06/bce-consulting-outlines-the-critical-elements-of-layered-air-defense-architecture/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "What does the future of layered air defense look like? BCE Consulting lays out what it will take to protect American forces.",
+   "image": "https://cdn.jwplayer.com/videos/PpKri4RD-5ZsksG4j.mp4",
+   "age": "1d ago",
+   "published": "2026-11-06T17:28:08+00:00"
+  },
+  {
+   "title": "Cut to US aid would impact Israeli acquisition timelines, spending: Analysts",
+   "url": "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Israel is actively seeking more Apache helicopters, F-15 and F-35 fighter jets and munitions.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/02/7698031-scaled-e1707759155579-1024x577.jpg",
+   "age": "1d ago",
+   "published": "2026-11-06T16:55:00+00:00"
+  },
+  {
+   "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/11/06/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Russia is already using its new Rassvet satellite network — billed as a homegrown version of Starlink — for military communications over Ukraine, according to Ukrainian …",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-06T154510Z_1_LYNXNPEMA51KN_RTROPTP_4_UKRAINE-CRISIS-RASSVET.jpg",
+   "age": "1d ago",
+   "published": "2026-11-06T16:50:49+00:00"
+  },
+  {
+   "title": "Theodore Roosevelt Carrier Strike Group Pulls Into Singapore",
+   "url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Theodore Roosevelt Carrier Strike Group pulled into Singapore on Friday for a port visit, USNI News understands. The TR CSG, which includes aircraft carrier USS Theo…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/08/9766831-scaled.jpg",
+   "age": "1d ago",
+   "published": "2026-11-06T14:04:35+00:00"
+  },
+  {
    "title": "She grew up in Ross Township. Now she’s making history as its next trustee",
    "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_0e531f22-7330-46d9-8149-a12733382650.html",
    "source": "NWI Times",
@@ -450,15 +446,15 @@
    "published": "2026-11-06T14:00:00+00:00"
   },
   {
-   "title": "Arrogance or confidence — who cares? Ben Johnson and Caleb Williams are backing it up",
-   "url": "https://allchgo.com/bears/arrogance-confidence-who-cares-johnson-caleb-williams/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/06021143/2026-11-03T012915Z_874997594_MT1USATODAY30261332_RTRMADP_3_NFL-CHICAGO-BEARS-AT-SEATTLE-SEAHAWKS-1-1024x576.jpg",
+   "title": "Swift’s new song shines light on domestic abuse as Hammond's Haven House shelter rebuilds",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_7d4acba6-deff-45d3-9437-d23884f8c610.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Taylor Swift’s new song explores the toxic aftermath of an abusive relationship. For Carrie Greer, executive director of Haven House NWI, the song’s themes are all too f…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/91/e91dc1c3-bd0b-4734-af36-17ea61b161af/6aecbffe2631b.image.jpg?resize=300%2C225",
    "age": "1d ago",
-   "published": "2026-11-06T11:00:00+00:00"
+   "published": "2026-11-06T13:15:00+00:00"
   }
  ]
 }
