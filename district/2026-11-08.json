@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-08",
+  "dateLabel": "Sunday, November 8, 2026",
+  "slot": "Sundays 6 PM CT",
+  "window": "past 7 days",
+  "generated": "2026-11-08T14:26:24Z",
+  "note": "Sixth straight quiet week for admin moves - no hires, exits, or board personnel actions turned up dated within the past 7 days across any of the fifteen districts and trusts. The real news was Tuesday's Nov. 3 referendum election: Tri-Creek's and Union Township's operating referendums passed, Michigan City's was rejected. Valparaiso's superintendent search (McCall departed over the summer) and East Porter's and LaPorte's recent leadership changes remain out of the 7-day window.",
+  "covered": ["Eastern Pulaski", "East Porter Co", "Hanover", "LaPorte", "Michigan City", "MSD Boone Twp", "MSD New Durham Twp", "New Prairie", "NISEC", "School City of Hobart", "Tri-Creek", "Union Twp", "Valparaiso", "Porter County Trust", "MASE Trust"],
+  "stories": [
+    {
+      "n": 1,
+      "district": "Tri-Creek School Corporation",
+      "kind": "other",
+      "age": "~5 days ago",
+      "headline": "Tri-Creek operating referendum passes",
+      "body": "Voters approved Tri-Creek's eight-year operating referendum in Tuesday's general election, capped at $0.1738 per $100 of assessed value and about $3 million a year, earmarked for bus transportation, student programs, and school safety.",
+      "source": "WRTV",
+      "url": "https://www.wrtv.com/news/elections/hoosiers-vote-on-indiana-school-spending-referendums/"
+    },
+    {
+      "n": 2,
+      "district": "Union Township School Corporation",
+      "kind": "other",
+      "age": "~5 days ago",
+      "headline": "Union Township referendum leading big in early returns",
+      "body": "Union Township's operating referendum - up to $0.35 per $100 of assessed value, about $3.37 million a year - was passing roughly 64% to 36% in Porter County's unofficial Nov. 3 returns; final certification wasn't yet confirmed.",
+      "source": "Porter County Election Results",
+      "url": "https://app.enhancedvoting.com/results/public/porter-county-in/GeneralNov032026"
+    },
+    {
+      "n": 3,
+      "district": "Michigan City Area Schools",
+      "kind": "other",
+      "age": "~5 days ago",
+      "headline": "Michigan City operating referendum rejected by voters",
+      "body": "Michigan City Area Schools' proposed eight-year operating referendum - capped at $0.2998 per $100 of assessed value and $10 million a year - was voted down in Tuesday's general election.",
+      "source": "WRTV",
+      "url": "https://www.wrtv.com/news/elections/hoosiers-vote-on-indiana-school-spending-referendums/"
+    }
+  ]
+}
