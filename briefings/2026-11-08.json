@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-08",
+  "dateLabel": "Sunday, November 8, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-08T15:37:55Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, November 6, 2026 close — the Nasdaq and S&P 500 rebounded from Thursday's AI-chip selloff while the Dow slipped, closing out a losing week for stocks; markets were shut over the weekend with no newer session to report.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,376.86", "change": "+23.13", "changePct": "+0.31%", "sixMo": "+0.16%" },
+        { "name": "Dow", "close": "51,285.73", "change": "-237.33", "changePct": "-0.46%", "sixMo": "+2.8%" },
+        { "name": "Nasdaq", "close": "24,579.42", "change": "+264.42", "changePct": "+1.09%", "sixMo": "-4.9%" }
+      ],
+      "body": "Chip and AI-infrastructure names that led Thursday's rout, including Nvidia and Micron, bounced back Friday, but the Dow lagged as investors kept weighing the prior session's correction; all three indexes still finished the week lower, and trading resumes Monday.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "An extensive search found no US-related international story within the 72-hour window that wasn't already a continuation of the Iran strikes or Taiwan Strait activity tracked elsewhere in this brief; nothing distinct and freshly dated surfaced today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Taiwan's Ministry of National Defense did not have a confirmable aircraft/vessel tally dated to November 7 or 8 in this search, and other China-Taiwan items found (an F-16V delivery update, a Papua New Guinea office closure) trace back to July and October and were already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The most recent confirmable development, Trump's new strikes on Iran's Qeshm Island, was already reported in yesterday's brief; no newer US troop, ship, or aircraft action surfaced within the 72-hour window today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development could be confirmed within the 72-hour window; the most recent concrete items found (a Naval Group railgun-armed ship concept, an Israel-India defense MoU) are from November 3 and already outside the window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Anthropic's two most recent shipped features, new Enterprise security/admin controls and beta project tags, are dated November 5 and 6 and already covered in prior briefs; nothing newer was confirmed, and reports of an IPO roadshow starting this week remain unconfirmed speculation.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Bears place RB Zavier Scott on injured reserve, thinning an already short backfield",
+      "body": "Running back Zavier Scott was placed on injured reserve this week after landing on the Bears' first injury report ahead of Sunday night's game against Tampa Bay, according to the Chicago Tribune's Brad Biggs; the move isn't considered season-ending, but it leaves Chicago thinner at running back with Kyle Monangai still sidelined by thumb and toe injuries.",
+      "source": "Chicago Tribune",
+      "url": "https://www.bleachernation.com/bears/2026/11/05/bears-rb-goes-on-ir/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Today's NASCAR Cup Championship race at Homestead-Miami Speedway and any resulting title outcome fall within the spoiler window; no other non-spoiler roster, sponsorship, or schedule item on Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news could be confirmed within the 72-hour window; byFaith's most recent dated coverage and denominational items found all trace back to earlier in 2026 and are already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
