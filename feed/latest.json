@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-08T09:40:37+00:00",
+ "generated": "2026-11-08T16:26:29+00:00",
  "count": 40,
- "withImage": 39,
+ "withImage": 40,
  "bearsDay": false,
  "nascarDay": false,
  "sources": [
@@ -10,99 +10,142 @@
   "CNBC",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
-   "url": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108545226-1794127716409-gettyimages-2303620079-quentin-francema261107_npWgY.jpeg?v=1794127723&amp;w=1920&amp;h=1080",
-   "age": "11m ago",
-   "published": "2026-11-08T09:29:04+00:00"
-  },
-  {
-   "title": "New Jersey town reveals staggering $26M theft days after election, sparking backlash",
-   "url": "https://www.foxnews.com/politics/new-jersey-town-reveals-staggering-26m-theft-days-after-election-sparking-backlash",
+   "title": "11th-hour power play targets incoming Dem governor after historic GOP defeat",
+   "url": "https://www.foxnews.com/politics/11th-hour-power-play-targets-incoming-dem-governor-historic-gop-defeat",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Cranbury Township residents demand answers after a $26 million fraudulent wire transfer was kept secret until days after Election Day in New Jersey.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cranbury-new-jersey-26-million-fraudulent-wire-transfer.jpg?ve=1&tl=1",
+   "summary": "Republican Texas Rep. Brian Harrison urged Greg Abbott to convene a special session restricting emergency powers before Gina Hinojosa is sworn in.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Gina-HInojosa-Cypress-Texas-Oct.jpg?ve=1&tl=1",
+   "age": "26m ago",
+   "published": "2026-11-08T16:00:15+00:00"
+  },
+  {
+   "title": "Miami coach furious with officials after possible TD catch ruled incomplete in crucial loss to Notre Dame",
+   "url": "https://www.foxnews.com/outkick-sports/miami-coach-furious-officials-possible-td-catch-ruled-incomplete-crucial-loss-notre-dame",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Mario Cristobal called the overturned Elija Lofton touchdown bulls--- after the Miami Hurricanes controversial catch ruling in South Bend.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mario-cristobal-notre-dame-football.jpg?ve=1&tl=1",
+   "age": "34m ago",
+   "published": "2026-11-08T15:51:47+00:00"
+  },
+  {
+   "title": "An Iranian refugee's warning to American universities embracing foreign funding and radicalism",
+   "url": "https://www.foxnews.com/opinion/iranian-refugee-warning-american-universities-embracing-foreign-funding-radicalism",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "An Iranian refugee argues American universities must reject Qatar s billions and the campus radicalism that followed Hamas Oct. 7 attack.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/2023-10-14t211932z_2050289641_rc2is3a1oggs_rtrmadp_3_israel-palestinians-protests-usa-1-scaled.jpg?ve=1&tl=1",
+   "age": "38m ago",
+   "published": "2026-11-08T15:47:42+00:00"
+  },
+  {
+   "title": "All-you-can-eat dining makes a comeback as Americans look for more bang for their buck",
+   "url": "https://www.foxnews.com/food-drink/all-you-can-eat-dining-makes-comeback-americans-look-more-bang-buck",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "From Southern comfort food to Uzbek hot bars and Korean BBQ, these five all-you-can-eat buffet spots are fueling a massive U.S. dining trend.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/people_eating_korean_barbecue.jpeg?ve=1&tl=1",
+   "age": "47m ago",
+   "published": "2026-11-08T15:38:39+00:00"
+  },
+  {
+   "title": "How Democrats will try to end Trump's tariffs",
+   "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpeg?v=1794152152&amp;w=1920&amp;h=1080",
+   "age": "49m ago",
+   "published": "2026-11-08T15:36:39+00:00"
+  },
+  {
+   "title": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
+   "url": "https://www.foxnews.com/opinion/trump-holds-all-cards-war-against-irans-regime-white-house-says",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Supreme Leader Ayatollah Mojtaba Khamenei taunts America after midterms, but the White House says Trump holds all the cards on the Strait of Hormuz.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/trump-situation-room.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-08T15:13:07+00:00"
+  },
+  {
+   "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+   "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/ninja-autobarista-1-1.jpg?resize=1200,722",
+   "age": "1h ago",
+   "published": "2026-11-08T15:00:00+00:00"
+  },
+  {
+   "title": "Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations",
+   "url": "https://www.cnbc.com/2026/11/08/ai-agents-risks.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "AI agents are now working together on a regular basis. Research shows they are not always seeking the same goal, or operating with ethics.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108520477-1793823798855-gettyimages-2297748926-_04a0065_yahpbvob.jpeg?v=1793823822&amp;w=1920&amp;h=1080",
    "age": "2h ago",
-   "published": "2026-11-08T07:34:26+00:00"
+   "published": "2026-11-08T14:14:11+00:00"
   },
   {
-   "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
-   "url": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+   "title": "Poppi founders are going after PepsiCo's Gatorade with new beverage startup Jetty",
+   "url": "https://www.cnbc.com/2026/11/08/poppi-founders-jetty-hydration-gatorade.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108214885-1761069562673-gettyimages-2242048911-FEDERAL_RESERVE_INNOVATION.jpeg?v=1761575359&amp;w=1920&amp;h=1080",
+   "summary": "Poppi founders Allison and Stephen Ellsworth are launching Jetty, a hydration brand selling bottled drinks and powders at Whole Foods, Target and Amazon.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108527169-1793902848646-FamilyShot_260916_Jetty_Launch_Photoshoot31432_BYH_1_1.png?v=1793902929&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-08T14:00:01+00:00"
+  },
+  {
+   "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+   "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108330347-1783030838668-gettyimages-2283797997-JULY_4_TRAVEL.jpeg?v=1783031103&amp;w=1920&amp;h=1080",
    "age": "3h ago",
-   "published": "2026-11-08T06:00:01+00:00"
+   "published": "2026-11-08T13:00:01+00:00"
   },
   {
-   "title": "Marcus Freeman, Notre Dame silence doubters by knocking off top-ranked Miami, solidifying their CFP ranking",
-   "url": "https://www.foxnews.com/outkick-sports/marcus-freeman-notre-dame-silence-doubters-knocking-top-ranked-miami-solidifying-cfp-ranking",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Miami Hurricanes mounted a dramatic comeback without Malachi Toney, but Notre Dame held on in a thriller with college football playoff stakes.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/marcus-freeman-notre-dame-fighting-irish-miami-fox-news_.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-11-08T05:05:24+00:00"
-  },
-  {
-   "title": "Three teens, adult charged with murder after woman finds her teenage son dead in abandoned home",
-   "url": "https://www.foxnews.com/us/three-teens-adult-charged-murder-after-woman-finds-her-teenage-son-dead-abandoned-home",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Austin Payne s mother tracked his cellphone to an abandoned Albany, Georgia, residence after the 15-year-old called to say he had been shot.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/austin-payne-albany-georgia-homicide.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-11-08T05:02:35+00:00"
-  },
-  {
-   "title": "Georgia dominates Ole Miss, moves closer to SEC championship game and College Football Playoff berth",
-   "url": "https://www.foxnews.com/outkick-sports/georgia-dominates-ole-miss-moves-closer-sec-championship-game-college-football-playoff-berth",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Georgia s clock-eating rushing attack and Gunner Stockton s three touchdown passes overwhelmed Ole Miss as the Bulldogs silenced Trinidad Chambliss.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Gunner-Stockton-Georgia.jpg?ve=1&tl=1",
-   "age": "5h ago",
-   "published": "2026-11-08T04:40:18+00:00"
-  },
-  {
-   "title": "Japanese bowling pioneer Ritsuko Nakayama, first woman to bowl professional perfect game, dies at 84",
-   "url": "https://www.foxnews.com/outkick-sports/japanese-bowling-pioneer-ritsuko-nakayama-first-woman-bowl-professional-perfect-game-dies-84",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ritsuko Nakayama, who achieved the first perfect game in women s professional bowling, died at 84 after helping ignite Japan s 1970s bowling boom.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bowler-Ritsuko-Nakayama.jpg?ve=1&tl=1",
-   "age": "5h ago",
-   "published": "2026-11-08T04:00:20+00:00"
-  },
-  {
-   "title": "Trump offers UFC chief Dana White press secretary job",
-   "url": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+   "title": "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+   "url": "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108321662-1781484435758-gettyimages-2281608141-cs017934_avmaps79.jpeg?v=1781484464&amp;w=1920&amp;h=1080",
-   "age": "10h ago",
-   "published": "2026-11-07T23:13:38+00:00"
+   "summary": "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108534206-1793992677011-Amazon_Fauna_Humanoid_Robot-26083751190117-AP.jpg?v=1793992738&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-11-08T13:00:01+00:00"
+  },
+  {
+   "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+   "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
+   "age": "4h ago",
+   "published": "2026-11-08T12:15:31+00:00"
   },
   {
    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -112,19 +155,8 @@
    "topic": "ai",
    "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-11-07T22:07:22+00:00"
-  },
-  {
-   "title": "Meta chief strategy officer Dave Wehner leaves to join AI infrastructure startup Fireworks as CFO",
-   "url": "https://www.cnbc.com/2026/11/07/dave-wehner-meta-fireworks-cfo.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Dave Wehner, Meta’s chief strategy officer, is leaving the company to become CFO of Fireworks, the AI infrastructure startup valued at $17.5 billion in July.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108544587-1794070170749-gettyimages-1529862577-ALLEN__CO_2023.jpeg?v=1794070180&amp;w=1920&amp;h=1080",
-   "age": "11h ago",
-   "published": "2026-11-07T22:01:17+00:00"
   },
   {
    "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -134,7 +166,7 @@
    "topic": "ai",
    "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-11-07T21:17:08+00:00"
   },
   {
@@ -145,7 +177,7 @@
    "topic": "ai",
    "summary": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobi…",
    "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-620923891.jpg?resize=1200,800",
-   "age": "14h ago",
+   "age": "21h ago",
    "published": "2026-11-07T19:00:00+00:00"
   },
   {
@@ -156,30 +188,8 @@
    "topic": "ai",
    "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/binance-2206279918.jpg?resize=1200,800",
-   "age": "16h ago",
+   "age": "23h ago",
    "published": "2026-11-07T17:24:07+00:00"
-  },
-  {
-   "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-   "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3861.jpeg?resize=1200,900",
-   "age": "16h ago",
-   "published": "2026-11-07T17:18:00+00:00"
-  },
-  {
-   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-   "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108544105-1794064987864-gettyimages-2283537705-050126-owh-new-berkshire-nf-24.jpeg?v=1794065008&amp;w=1920&amp;h=1080",
-   "age": "18h ago",
-   "published": "2026-11-07T15:23:46+00:00"
   },
   {
    "title": "European troops set to train in Poland for postwar Ukraine deployment",
@@ -189,30 +199,8 @@
    "topic": "defense",
    "summary": "Britain and France will lead 2,800 troops from 11 nations in a two-week exercise testing how to move, protect and supply a force to rebuild Ukraine’s military after the …",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2235378977.jpg.jpg",
-   "age": "18h ago",
+   "age": "1d ago",
    "published": "2026-11-07T15:05:44+00:00"
-  },
-  {
-   "title": "The hidden dangers of AI companions: 5 warning signs of emotional dependence",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_42150337-2497-4a72-86df-7f0729d498b3.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "The scariest AI threat might not be a frightening robot. It could be an emotionally addictive relationship that gradually replaces real human connections.",
-   "image": null,
-   "age": "19h ago",
-   "published": "2026-11-07T14:30:00+00:00"
-  },
-  {
-   "title": "New mother turns search for friendship into growing community for Northwest Indiana mothers",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_d47dd18d-d3fb-4734-8723-7bcbad06f1cc.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A young Valparaiso mother turned her own isolation into a growing support network, helping Region mothers find friendship and the village that motherhood sometimes lacks.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/9a/b9a8111e-f547-4094-81de-5256e94cffa8/6aecfa54d6db5.image.jpg?resize=300%2C299",
-   "age": "20h ago",
-   "published": "2026-11-07T13:15:00+00:00"
   },
   {
    "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
@@ -222,7 +210,7 @@
    "topic": "ai",
    "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
-   "age": "21h ago",
+   "age": "1d ago",
    "published": "2026-11-07T12:15:55+00:00"
   },
   {
@@ -233,7 +221,7 @@
    "topic": "ai",
    "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853-1024x648.jpg",
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-11-07T11:00:34+00:00"
   },
   {
@@ -424,6 +412,17 @@
    "published": "2026-11-06T16:50:49+00:00"
   },
   {
+   "title": "Saudi Arabia inks first defense ‘cooperation’ agreement with Syria’s new leadership",
+   "url": "https://breakingdefense.com/2026/11/saudi-arabia-inks-first-defense-cooperation-agreement-with-syrias-new-leadership/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "“The agreement will likely initially focus on military training, intelligence sharing, equipment transfers and assistance in rebuilding Syria s armed forces, one expert …",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/261106_syria_soldiers_GettyImages-2250162157-e1793977299718.jpg",
+   "age": "2d ago",
+   "published": "2026-11-06T15:18:39+00:00"
+  },
+  {
    "title": "Theodore Roosevelt Carrier Strike Group Pulls Into Singapore",
    "url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore",
    "source": "USNI News",
@@ -431,30 +430,30 @@
    "topic": "defense",
    "summary": "The Theodore Roosevelt Carrier Strike Group pulled into Singapore on Friday for a port visit, USNI News understands. The TR CSG, which includes aircraft carrier USS Theo…",
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9766831-scaled.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-06T14:04:35+00:00"
   },
   {
-   "title": "She grew up in Ross Township. Now she’s making history as its next trustee",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_0e531f22-7330-46d9-8149-a12733382650.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "After spending 44 of her 47 years in Ross Township, Myesha Jones is preparing to make history as its first African-American woman trustee, beginning Jan. 1.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/d6/dd69ba9d-8707-4f5e-9670-356cf4d606a8/6aeb9930ddb20.image.jpg?resize=300%2C267",
-   "age": "1d ago",
-   "published": "2026-11-06T14:00:00+00:00"
+   "title": "USMC Says It Needs Nine More Amphibious Warships To Carry Out Its Missions",
+   "url": "https://www.twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The current fleet of 31 amphibs needs to grow to 40 according to USMC leadership, but where the funding will come from is more in doubt after the midterms. The post USMC…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/Amphibious-assault-ships.jpg?quality=85",
+   "age": "2d ago",
+   "published": "2026-11-05T23:08:57+00:00"
   },
   {
-   "title": "Swift’s new song shines light on domestic abuse as Hammond's Haven House shelter rebuilds",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_7d4acba6-deff-45d3-9437-d23884f8c610.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Taylor Swift’s new song explores the toxic aftermath of an abusive relationship. For Carrie Greer, executive director of Haven House NWI, the song’s themes are all too f…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/91/e91dc1c3-bd0b-4734-af36-17ea61b161af/6aecbffe2631b.image.jpg?resize=300%2C225",
-   "age": "1d ago",
-   "published": "2026-11-06T13:15:00+00:00"
+   "title": "North Korean Leader Inspects New Warship Under Construction at Nampho Shipyard",
+   "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "North Korea leader Kim Jong Un inspected the ongoing construction of a new warship that is larger than the country s 5,000-ton destroyers on Monday during a visit to Nor…",
+   "image": "https://news.usni.org/wp-content/uploads/2026/11/KimJongUnshipyard2.jpg",
+   "age": "2d ago",
+   "published": "2026-11-05T22:02:14+00:00"
   }
  ]
 }
