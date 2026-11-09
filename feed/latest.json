@@ -1,74 +1,112 @@
 {
- "generated": "2026-11-09T00:16:44+00:00",
+ "generated": "2026-11-09T06:56:32+00:00",
  "count": 40,
- "withImage": 40,
+ "withImage": 35,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
+  "Athlon Sports",
   "Breaking Defense",
   "CNBC",
   "Defense News",
   "Fox News",
+  "Heavy.com",
+  "Lucky Dog on Track",
+  "MotorBiscuit",
+  "RacingNews.co",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "Trump says he was ‘only kidding’ about making Dana White press secretary",
-   "url": "https://www.foxnews.com/politics/trump-says-only-kidding-making-dana-white-white-house-press-secretary",
+   "title": "Bears survive Buccaneers in chaotic primetime finish after Caleb Williams throws four interceptions",
+   "url": "https://www.foxnews.com/outkick-sports/bears-survive-buccaneers-chaotic-primetime-finish-caleb-williams-throws-four-interceptions",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Trump says he was joking when he offered Dana White the press secretary job, but confirmed the UFC boss is visiting the White House on Monday.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/trump-dana-white-fox-news-1.jpg?ve=1&tl=1",
-   "age": "10m ago",
-   "published": "2026-11-09T00:06:40+00:00"
+   "summary": "Caleb Williams threw four interceptions but rallied the Bears with a clutch drive capped by a 38-yard strike to Colston Loveland late in the fourth.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/snf-buccaneers-chicago-bears-4.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-09T05:33:14+00:00"
   },
   {
-   "title": "Fantasy football managers fume as Ladd McConkey's pregame injury goes unreported until after kickoff",
-   "url": "https://www.foxnews.com/outkick-sports/fantasy-football-managers-fume-ladd-mcconkey-pregame-injury-unreported-until-after-kickoff",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ladd McConkey s back spasms during pregame warmups went unreported until after kickoff, leaving fantasy football managers locked in with no warning.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ladd-mcconkey-chargers-sofi-stadium-fox-news_.jpg?ve=1&tl=1",
-   "age": "25m ago",
-   "published": "2026-11-08T23:51:17+00:00"
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Hu…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+   "age": "1h ago",
+   "published": "2026-11-09T05:26:29+00:00"
   },
   {
-   "title": "Trump’s proposed Russia deal raises NATO alarm as ex-commander warns Putin seeks influence over Europe",
-   "url": "https://www.foxnews.com/world/trumps-proposed-russia-deal-raises-nato-alarm-ex-commander-warns-putin-seeks-influence-over-europe",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "President Donald Trump says a Russia deal could involve all of Europe as retired Gen. Philip Breedlove warns Putin wants spheres of influence.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/trump-putin-talk-alaska.jpg?ve=1&tl=1",
-   "age": "28m ago",
-   "published": "2026-11-08T23:48:13+00:00"
+   "title": "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+   "url": "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe’s ability to withstand disruption to crucial infrastructure.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108497068-1793535203811-gettyimages-2302485233-GERMANY_PROTEST.jpeg?v=1793535220&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-09T05:00:01+00:00"
   },
   {
-   "title": "Family trapped by powerful floodwaters until 2 neighbors grab a kayak and paddleboard",
-   "url": "https://www.foxnews.com/travel/family-trapped-powerful-floodwaters-until-2-neighbors-grab-kayak-paddle",
+   "title": "Jonathan Taylor delivers what sounds like a goodbye to Indianapolis after Colts' fifth straight loss",
+   "url": "https://www.foxnews.com/outkick-sports/jonathan-taylor-delivers-goodbye-indianapolis-colts-fifth-straight-loss",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "As rising floodwaters trapped a mother and a son in their home in Palm Bay, Florida, two neighborhood boys nearby used a kayak and a paddleboard to come to the rescue.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/palm-bay-florida-flooding-homes-pace-drive.jpg?ve=1&tl=1",
-   "age": "37m ago",
-   "published": "2026-11-08T23:38:46+00:00"
+   "summary": "Jonathan Taylor delivered an emotional postgame message that sounded like a goodbye to Indianapolis as the NFL trade deadline looms Tuesday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jonathan-taylor-colts-national-anthem.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-09T04:10:55+00:00"
   },
   {
-   "title": "Dallas Cowboys wide receiver CeeDee Lamb involved in wild catch-and-run fumble that sums up today's action",
-   "url": "https://www.foxnews.com/outkick-sports/dallas-cowboys-wide-receiver-ceedee-lamb-involved-wild-catch-and-run-fumble-sums-todays-action",
+   "title": "Bernie Sanders warns Democrats not to spend all their time investigating Trump",
+   "url": "https://www.foxnews.com/politics/bernie-sanders-warns-democrats-not-spend-all-time-investigating-trump",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "CeeDee Lamb s 10-catch, 195-yard masterclass against the Indianapolis Colts was nearly undone by a stunning fourth-quarter fumble in the red zone.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/ceedee-lamb-cowboys-bears.jpg?ve=1&tl=1",
-   "age": "40m ago",
-   "published": "2026-11-08T23:36:40+00:00"
+   "summary": "Sen. Bernie Sanders warned Democrats not to spend all their time investigating the Trump administration, urging the party to prioritize affordability and working-class f…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bernie-sanders-trump-split.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-09T03:56:11+00:00"
+  },
+  {
+   "title": "Two Washington deputies killed trying to rescue possible hostages after woman shot",
+   "url": "https://www.foxnews.com/us/two-washington-deputies-killed-trying-rescue-possible-hostages-after-woman-shot",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Two Washington state sheriff s deputies were fatally shot responding to a domestic violence call near Spangle as they tried to rescue potential hostages.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/spokane-county-deputies-mason-acheson-parker-perry.png?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-09T03:27:55+00:00"
+  },
+  {
+   "title": "Giants star wideout blasts analyst for questioning sideline behavior during win against Eagles",
+   "url": "https://www.foxnews.com/outkick-sports/giants-star-wideout-blasts-analyst-questioning-sideline-behavior-win-against-eagles",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Malik Nabers fired back at Greg Olsen on Instagram after the Fox analyst questioned his sideline frustration during the Giants win over the Eagles.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/malik-nabers-nfl-1_001.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-09T03:21:01+00:00"
+  },
+  {
+   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108545286-1794185503611-gettyimages-2300115692-vcg111674152282.jpeg?v=1794185552&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-11-09T02:50:22+00:00"
   },
   {
    "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
@@ -78,7 +116,7 @@
    "topic": "markets",
    "summary": "Huang told Nvidia staff in an email that he had an affair and that the company's board has opened an investigation into allegations the woman is a Chinese spy.",
    "image": "https://image.cnbcfm.com/api/v1/image/108364527-1789665953765-gettyimages-2294936867-2026_sep_14_dreamforce_2974.jpeg?v=1794168955&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-08T22:53:57+00:00"
   },
   {
@@ -89,7 +127,7 @@
    "topic": "ai",
    "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2149461717.jpg?resize=1200,900",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-11-08T22:00:00+00:00"
   },
   {
@@ -100,7 +138,7 @@
    "topic": "markets",
    "summary": "Trump tied avoiding renewed U.S. strikes to progress in talks over Iran’s nuclear program and the Strait of Hormuz.",
    "image": "https://image.cnbcfm.com/api/v1/image/108534968-1794000736357-gettyimages-2303373281-TRUMP_WH_DEPART.jpeg?v=1794000777&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-08T21:53:02+00:00"
   },
   {
@@ -111,7 +149,7 @@
    "topic": "ai",
    "summary": "In a memo to the company, Huang admitted that he had an affair.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-11-08T21:00:11+00:00"
   },
   {
@@ -122,7 +160,7 @@
    "topic": "ai",
    "summary": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/SPECS27_52_Front_View81.png?resize=1200,675",
-   "age": "3h ago",
+   "age": "9h ago",
    "published": "2026-11-08T21:00:00+00:00"
   },
   {
@@ -133,19 +171,8 @@
    "topic": "ai",
    "summary": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/08/electrical-grid-at-night.jpg?resize=1200,800",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-08T20:30:00+00:00"
-  },
-  {
-   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-   "age": "4h ago",
-   "published": "2026-11-08T19:51:30+00:00"
   },
   {
    "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
@@ -155,30 +182,30 @@
    "topic": "markets",
    "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
    "image": "https://image.cnbcfm.com/api/v1/image/108371190-1790875285117-gettyimages-2297526177-senate_banking_040_100126.jpeg?v=1790875308&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
+   "age": "11h ago",
    "published": "2026-11-08T18:57:56+00:00"
   },
   {
-   "title": "How Democrats will try to end Trump's tariffs",
-   "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpeg?v=1794152152&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-11-08T15:36:39+00:00"
+   "title": "23XI and Hendrick Motorsports' Major Team News Breaks Hours Before Homestead-Miami Race",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUnpnMXJzSDJ4MnprTTJMYlljcVVKSFJBcUZNYzBZOWo5cU16NzAxNzRrYXplM1V1TGpTcU9uelU4TXBza0pnaWZrRE9xcWhxd0xNa0FTa25zRjljdjh3TEFvazRKUENtdDBzZkMwUFZWWFVibHo5UDB0N2I2UVFqS2M0MVAteExaeFlhRjVfWUtIR3Vpc2FXSWZEMmZ6eVlZejVhc3NKOA?oc=5",
+   "source": "Athlon Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "11h ago",
+   "published": "2026-11-08T18:56:50+00:00"
   },
   {
-   "title": "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
-   "url": "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108330347-1783030838668-gettyimages-2283797997-JULY_4_TRAVEL.jpeg?v=1783031103&amp;w=1920&amp;h=1080",
-   "age": "11h ago",
-   "published": "2026-11-08T13:00:01+00:00"
+   "title": "Trackhouse Racing Poaches Hendrick Motorsports Top Talent",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZXliZ2cwRlRCeW96eHF0VXozZGg2Q2FfNXVlbndtWlRDZlNvV0V0YVVwamw3dnJhZXVVTUlZd3JGRDlxcHFGc2VTTGllOXBSQ3RXMGJNdllHQV9zb3dXWWxYQVNaSk5nUEhxQXJNZnNzUEJLbXNidVl0MElFTDJUTVpUY043M3JienJiWFJWVHpDeXFjYjNZazRobVY1QQ?oc=5",
+   "source": "Lucky Dog on Track",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "16h ago",
+   "published": "2026-11-08T14:36:50+00:00"
   },
   {
    "title": "Physicists listened to electrical noise to crack a superconductor mystery",
@@ -188,8 +215,30 @@
    "topic": "ai",
    "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843-884x648.jpg",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-11-08T12:15:31+00:00"
+  },
+  {
+   "title": "Connor Zilisch Addresses Rumors of Early Hendrick Motorsports Move",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONEljUzJSZlYxMWJxYlBsVmZHWTBMMy1CdWhEV0FyUEhuamR4Wm93SmxfVWQ4Qjd5Sk9Nd25fY3UtWDU0SXNwUVFsY3loREJVNG5FcW4wSUZoSEgtMk9oVVE5Tm9yVTRmeW1ZdUpFZDZvbnZnbjBrQ3J1UTF5OVRYX3R1OA?oc=5",
+   "source": "MotorBiscuit",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-11-07T21:32:14+00:00"
+  },
+  {
+   "title": "Blake Harris is departing Hendrick Motorsports",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLTgxYmNXNkhBRjZUa1hUR2ZWN1BkRmlObDFyc1ItUGFoRHhaRHhfaXZJc0tJM1JpOEgxemU5M1RnVmRsUGsweVBnYjRpaVU0QUNFS2JYemptaWQyUmtHWTBXMmpjRm4xTFJBaTAtOEpBQkpfalRnd2c3R0VkUDBOR2RIYmJNcE0?oc=5",
+   "source": "RacingNews.co",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-11-07T16:42:19+00:00"
   },
   {
    "title": "European troops set to train in Poland for postwar Ukraine deployment",
@@ -212,6 +261,17 @@
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe-1152x648.jpg",
    "age": "1d ago",
    "published": "2026-11-07T12:15:55+00:00"
+  },
+  {
+   "title": "NASCAR Cup Series Driver Breaks Silence on Early Hendrick Motorsports Move Speculation",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUml0T1NvbHlWall5U3NJdmphNUlkb3B4anFmOUliVmVBRTZEcjhaX1RlR2E4T0ZlQ0tONXlhRlN4eDMwVXcxRHJJYVZqU01WN0hfYkc3QjlwN2NSeDF2bWUwcFNhZC1FYV8yY0hzM2xobkFWc1pzSkdFUTh5V1NtZURCTE1tRnpfaUc4MTRCRE5pc2F4YjVTRzkwMHdrWDNTemFJcVRuNG9FOXNybjVJOTVJcWkwdWdsVlZ3?oc=5",
+   "source": "Heavy.com",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "1d ago",
+   "published": "2026-11-07T11:14:12+00:00"
   },
   {
    "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
@@ -245,17 +305,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/11/GettyImages-2283841528.jpg?quality=85",
    "age": "2d ago",
    "published": "2026-11-06T23:06:57+00:00"
-  },
-  {
-   "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
-   "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg",
-   "age": "2d ago",
-   "published": "2026-11-06T22:41:37+00:00"
   },
   {
    "title": "The Future of French Fleet Close-in Defense",
@@ -401,28 +450,6 @@
    "published": "2026-11-06T16:55:00+00:00"
   },
   {
-   "title": "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/11/06/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Russia is already using its new Rassvet satellite network — billed as a homegrown version of Starlink — for military communications over Ukraine, according to Ukrainian …",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-06T154510Z_1_LYNXNPEMA51KN_RTROPTP_4_UKRAINE-CRISIS-RASSVET.jpg",
-   "age": "2d ago",
-   "published": "2026-11-06T16:50:49+00:00"
-  },
-  {
-   "title": "Saudi Arabia inks first defense ‘cooperation’ agreement with Syria’s new leadership",
-   "url": "https://breakingdefense.com/2026/11/saudi-arabia-inks-first-defense-cooperation-agreement-with-syrias-new-leadership/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“The agreement will likely initially focus on military training, intelligence sharing, equipment transfers and assistance in rebuilding Syria s armed forces, one expert …",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/261106_syria_soldiers_GettyImages-2250162157-e1793977299718.jpg",
-   "age": "2d ago",
-   "published": "2026-11-06T15:18:39+00:00"
-  },
-  {
    "title": "Theodore Roosevelt Carrier Strike Group Pulls Into Singapore",
    "url": "https://news.usni.org/2026/11/06/theodore-roosevelt-carrier-strike-group-pulls-into-singapore",
    "source": "USNI News",
@@ -432,28 +459,6 @@
    "image": "https://news.usni.org/wp-content/uploads/2026/08/9766831-scaled.jpg",
    "age": "2d ago",
    "published": "2026-11-06T14:04:35+00:00"
-  },
-  {
-   "title": "USMC Says It Needs Nine More Amphibious Warships To Carry Out Its Missions",
-   "url": "https://www.twz.com/sea/marine-corps-declares-it-needs-nine-more-amphibious-warships-to-carry-out-its-missions",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The current fleet of 31 amphibs needs to grow to 40 according to USMC leadership, but where the funding will come from is more in doubt after the midterms. The post USMC…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/Amphibious-assault-ships.jpg?quality=85",
-   "age": "3d ago",
-   "published": "2026-11-05T23:08:57+00:00"
-  },
-  {
-   "title": "North Korean Leader Inspects New Warship Under Construction at Nampho Shipyard",
-   "url": "https://news.usni.org/2026/11/05/north-korean-leader-inspects-new-warship-under-construction-at-nampho-shipyard",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "North Korea leader Kim Jong Un inspected the ongoing construction of a new warship that is larger than the country s 5,000-ton destroyers on Monday during a visit to Nor…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/KimJongUnshipyard2.jpg",
-   "age": "3d ago",
-   "published": "2026-11-05T22:02:14+00:00"
   }
  ]
 }
