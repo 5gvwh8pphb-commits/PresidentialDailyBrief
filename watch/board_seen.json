@@ -1,5 +1,6 @@
 {
  "alerted": {
+  "duneland|allen cochran|appointed": "2026-11-08",
   "duneland|allen cochran|hired": "2026-10-04",
   "gary|moliga sainima|promoted": "2026-10-04",
   "lake-ridge|bajmakovich|appointed": "2026-10-05",
@@ -9,6 +10,7 @@
   "michigan-city|george ta-tanesha|hired": "2026-11-01",
   "michigan-city|hart rieisha|hired": "2026-10-05",
   "michigan-city|katrina perry|other": "2026-10-05",
+  "portage|gron nicholas|other": "2026-11-08",
   "union-twp|allen cochran|other": "2026-10-25",
   "union-twp|becich kyle|appointed": "2026-10-25",
   "union-twp|becich kyle|hired": "2026-10-05"
@@ -58,24 +60,30 @@
    "bd:duneland:DXYM955A1AB1:cda696b4f4",
    "bd:duneland:DYFLQB57A40B:32a1c6a79a",
    "bd:duneland:DYTJ6V4BB2FE:42bc131fc4",
-   "bd:duneland:DYTJ6V4BB2FE:8b22fb36b8"
+   "bd:duneland:DYTJ6V4BB2FE:8b22fb36b8",
+   "bd:duneland:DYTJ7D4BC34D:132f2c4e58",
+   "bd:duneland:DZJKYU5433F7:0d3129f9d2"
   ],
   "epcsc": [
    "bd:epcsc:/in/epcsc/Board.nsf/files/DX6KAK50EF93/$file/8_24_26%20Personnel%20Report.pdf",
    "bd:epcsc:/in/epcsc/Board.nsf/files/DXSMYV5D91F3/$file/9_14_26%20Personnel%20Report%20-%20Sheet1.pdf",
    "bd:epcsc:/in/epcsc/Board.nsf/files/DYNLDU561AAC/$file/10_12_26%20Personnel%20Report.pdf",
+   "bd:epcsc:/in/epcsc/Board.nsf/files/DZHPKZ6511CA/$file/Memo-Fuel%20Bid%20Recommendation.pdf",
+   "bd:epcsc:/in/epcsc/Board.nsf/files/DZJS2X7054E3/$file/11_09_26%20Personnel%20Report%20-%20Sheet1.pdf",
    "bd:epcsc:DVYP5A6270E2:f9e1918328",
    "bd:epcsc:DVYPDL642232:ea4a563201",
    "bd:epcsc:DVYPE4642728:c7fb20afd0",
    "bd:epcsc:DVYPGY6469D7:2a83265645",
    "bd:epcsc:DVYPGY6469D7:a9b82a9af9",
+   "bd:epcsc:DVYPJ4646D0A:4c61abf2af",
    "bd:epcsc:DWUHBE478DD0:ae551e40ce",
    "bd:epcsc:DWXMNU5C1BFC:ea24fe67d4",
    "bd:epcsc:DX3HHE489128:4bb739e5ee",
    "bd:epcsc:DX3JTX4ECBD6:4674253031",
    "bd:epcsc:DXRHVN4A4F76:bf29837eb9",
    "bd:epcsc:DYKJ7L4BD0FB:37fbb3ed32",
-   "bd:epcsc:DZ8HBG47B2EA:2f469015ff"
+   "bd:epcsc:DZ8HBG47B2EA:2f469015ff",
+   "bd:epcsc:DZ9HXC4A9C4A:e80be8bfea"
   ],
   "gary": [
    "bd:gary:/in/gary/Board.nsf/files/DXQR5C6C4BCE/$file/5.4%20Approval%20of%20Personnel%20Report.pdf",
@@ -89,16 +97,21 @@
    "bd:gary:DZ5UCD7B64A5:a6e6486e8a",
    "bd:gary:DZ5UQK7D2D69:b5f66e69ac",
    "bd:gary:DZ5V5P7F198B:5f2d6b4fab",
+   "bd:gary:DZ5V5P7F198B:76e1a23353",
+   "bd:gary:DZ64SC0CF029:8757c0a245",
    "bd:gary:DZ64SC0CF029:b9cde47d02"
   ],
   "hammond": [
    "bd:hammond:/in/hammond/Board.nsf/files/DXHMWR5D44C1/$file/Resolution%202026-0002_Classified%20Staff%20Pay%20During%20Weather-Related%20Closures.pdf",
+   "bd:hammond:/in/hammond/Board.nsf/files/DZHMB95A689B/$file/Agreement%20Renewal_SchoolCare_2627.pdf",
+   "bd:hammond:/in/hammond/Board.nsf/files/DZHPVE666C90/$file/Agreement%20Renewal_Snow%20and%20Ice%20Pros%20Inc_26.pdf",
    "bd:hammond:DWMQC4687596:bef53d62e5",
    "bd:hammond:DXLL7V553B3A:06697c4f7e",
    "bd:hammond:DXRPAH63AE8E:acf8a40b57",
    "bd:hammond:DYBR4E6C2968:b7d5f04557",
    "bd:hammond:DYCLKL56F2BE:18d88ec7d6",
-   "bd:hammond:DYCLKL56F2BE:be02809705"
+   "bd:hammond:DYCLKL56F2BE:be02809705",
+   "bd:hammond:DZAK8Q50AB6F:281c9b592c"
   ],
   "hanover": [
    "bd:hanover:DXDJ3E4B341B:7666a2fc0a",
@@ -722,7 +735,8 @@
    "bd:lpcsc:DXRNUQ61A96D:06e19dc7eb",
    "bd:lpcsc:DXSLM7572EBB:a5e2c912de",
    "bd:lpcsc:DXSLM7572EBB:d4b74fbef9",
-   "bd:lpcsc:DXYPQM65BFDA:005fee7238"
+   "bd:lpcsc:DXYPQM65BFDA:005fee7238",
+   "bd:lpcsc:DY7JB34C53A2:e269676779"
   ],
   "mcas": [
    "bd:mcas:/in/mcas/Board.nsf/files/DXAUEH7BB38A/$file/August%202026%20Employee%20List.pdf",
@@ -744,7 +758,9 @@
    "bd:msdboone:DXTLLR571C07:7d97b54434",
    "bd:msdboone:DYPQRP6A95B6:31947c4e54",
    "bd:msdboone:DYPQRP6A95B6:d1ba95688b",
-   "bd:msdboone:DYVJ2G4B10DB:9f83222b16"
+   "bd:msdboone:DYVJ2G4B10DB:9f83222b16",
+   "bd:msdboone:DYVJ3N4B3D63:c7af189bfc",
+   "bd:msdboone:DYVJ4Q4B51C7:30ff68af28"
   ],
   "portage": [
    "bd:portage:/in/portage/Board.nsf/files/DX4GXG45EFB7/$file/MindPlay%20Renewal%20Memo.pdf",
@@ -761,6 +777,10 @@
    "bd:portage:/in/portage/Board.nsf/files/DYTH6P46B2FE/$file/Personnel%20DM%20Report%2010.12.26.pdf",
    "bd:portage:/in/portage/Board.nsf/files/DZ2PRM65E449/$file/10.26.26%20Contract_Subscription%20Renewals.pdf",
    "bd:portage:/in/portage/Board.nsf/files/DZ9HRQ49C825/$file/10.26.26%20Personnel%20Report.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DZFJ9Z4C2A29/$file/Recommendation%20to%20use%20Stratelign%20as%20Construction%20Manager%20for%20PHS%20Solar%20Project.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DZFM5G5990A7/$file/Approval%20of%20HSA%20Contribution%20Increase%20for%20Non-Union%20Support%20Staff.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DZGQTL6ADE41/$file/2027%20Insurance%20Premium%20Memo.pdf",
+   "bd:portage:/in/portage/Board.nsf/files/DZKSQ373B9A7/$file/10.26.26%20Approved%20Board%20Meeting%20Minutes.pdf",
    "bd:portage:DEAPJN64E049:9e6a3b5a98",
    "bd:portage:DWTGJR440949:68d9531bf5",
    "bd:portage:DX3J384B2C50:c358679954",
@@ -770,25 +790,31 @@
    "bd:portage:DXXLFK56393D:839668228d",
    "bd:portage:DY5GAB42D723:04c07bc894",
    "bd:portage:DY5GAB42D723:a4b8192f7c",
+   "bd:portage:DYGK565025FE:193f91e070",
    "bd:portage:DYGK565025FE:65fed22d90",
    "bd:portage:DYGK565025FE:9a18764483",
    "bd:portage:DYGK565025FE:e13ffc3931",
+   "bd:portage:DYWQ5Y67B480:6692d9642e",
    "bd:portage:DYWQRC6A8AAB:05d8d2adb7",
-   "bd:portage:DYWQRC6A8AAB:10da3c15a4"
+   "bd:portage:DYWQRC6A8AAB:10da3c15a4",
+   "bd:portage:DZFHYE4AC371:2e0f72827b"
   ],
   "tricreek": [
    "bd:tricreek:/in/tricreek/Board.nsf/files/DXSR896CB8A6/$file/Personnel%20Report%20%E2%80%94%20September%2010%2C%202026%20(1).pdf",
    "bd:tricreek:DUBLE3562354:f3c9c7dbda",
    "bd:tricreek:DY2NPB60DEAE:01da65a177",
    "bd:tricreek:DY2NPB60DEAE:e9bd64372c",
-   "bd:tricreek:DYTMAT5A5A4F:c21ef138d8"
+   "bd:tricreek:DYTMAT5A5A4F:c21ef138d8",
+   "bd:tricreek:DZHTPX786624:ce0a712951",
+   "bd:tricreek:DZJSP7739A4E:0b5723ef8c"
   ],
   "unionk12.community.diligentoneplatform.com": [
    "dl:unionk12.community.diligentoneplatform.com:/document/404e27c0-7cc2-49b2-b1d5-00b71dbdf4b9",
    "dl:unionk12.community.diligentoneplatform.com:/document/6fafe7ab-4bb8-460f-9a7d-55884a494766",
    "dl:unionk12.community.diligentoneplatform.com:113:be984372cd",
    "dl:unionk12.community.diligentoneplatform.com:114:5ced153ef0",
-   "dl:unionk12.community.diligentoneplatform.com:115:a5186798a2"
+   "dl:unionk12.community.diligentoneplatform.com:115:a5186798a2",
+   "dl:unionk12.community.diligentoneplatform.com:116:bdad3a630c"
   ],
   "valp": [
    "bd:valp:/in/valp/Board.nsf/files/DX3R836CB187/$file/2026-0723%20Meeting%20Minutes.pdf",
@@ -818,7 +844,8 @@
    "bd:whiting:DUQJPM4E0ED7:648ea1bd70",
    "bd:whiting:DUQJRA4E467F:8c2ce2735c",
    "bd:whiting:DUQJRA4E467F:aaf70ef226",
-   "bd:whiting:DXCRQG6F19ED:ad7759a51f"
+   "bd:whiting:DXCRQG6F19ED:ad7759a51f",
+   "bd:whiting:DYLRRT6F3EB5:102d98074e"
   ]
  }
 }
