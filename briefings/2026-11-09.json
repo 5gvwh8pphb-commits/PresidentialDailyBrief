@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-09",
+  "dateLabel": "Monday, November 9, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-09T19:08:23Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, November 6, 2026 close — stocks closed out a losing week, dragged down by Thursday's AI-chip-driven selloff despite a Friday rebound in tech shares.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,376.86", "change": "-2.68%", "heroLabel": "week", "sixMo": "+0.16%" },
+        { "name": "Dow", "close": "51,285.73", "change": "-0.94%", "heroLabel": "week", "sixMo": "+2.8%" },
+        { "name": "Nasdaq", "close": "24,579.42", "change": "-3.37%", "heroLabel": "week", "sixMo": "-4.9%" }
+      ],
+      "body": "Friday's bounce in chip and AI-infrastructure names like Nvidia and Micron trimmed losses but wasn't enough to offset Thursday's steep AI-spending-driven selloff; all three indexes finished the week lower, with the Nasdaq hit hardest and the Dow holding up best. Markets were closed over the weekend and resume Monday, with the delayed October CPI report due Tuesday.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "An extensive search found no US-related international story within the 72-hour window distinct from the Iran strikes, China trade tension, or Venezuela transition coverage tracked elsewhere in this brief or in prior briefs; nothing freshly dated and substantive surfaced today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~today",
+      "empty": false,
+      "headline": "US formally extends pause on China chip-export 'Affiliates Rule' through January 2027",
+      "body": "The Commerce Department's Bureau of Industry and Security published a final rule extending its suspension of the sweeping 'Affiliates Rule,' which would require licenses for chip and tech exports to firms 50%-or-more owned by blacklisted Chinese entities; the move, tied to the US-China trade truce, pushes the rule's scheduled reimposition from November 10, 2026 to January 10, 2027.",
+      "source": "Federal Register / Bureau of Industry and Security",
+      "url": "https://public-inspection.federalregister.gov/2026-22793.pdf"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new US troop, ship, or aircraft action surfaced within the 72-hour window; the most recent confirmable development, the US strikes on Iran's Qeshm Island, was already reported in prior briefs and nothing newer was found today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development could be confirmed within the 72-hour window; the most recent items found, on B-21/F-47 schedules and Golden Dome satellite contracts, trace back to the summer and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic's IPO enters the home stretch as its SEC waiting period nears expiration",
+      "body": "Bloomberg reports Anthropic could begin formally marketing its long-anticipated public offering as early as this week, even as a broader AI-stock selloff has pushed both Anthropic's and OpenAI's funding targets toward lower valuations than previously expected.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-ipo-s-moment-of-truth-nears-as-waiting-period-expires"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday night's game against Tampa Bay falls within the 7-day spoiler window, and the only injury and roster items found (Gainwell's hip issue, Monangai's thumb/toe, a practice-squad elevation) date to last Wednesday's reports and were already covered in prior briefs; nothing new surfaced within the recency window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's NASCAR Cup Series Championship Race at Homestead-Miami Speedway and any resulting title outcome fall within the 7-day spoiler window; no other non-spoiler sponsorship, contract, or schedule news on Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated Presbyterian Church in America news could be confirmed within the 72-hour window; the denomination's ongoing BCO-amendment and discipline-case coverage traces back to earlier in 2026 and is already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
