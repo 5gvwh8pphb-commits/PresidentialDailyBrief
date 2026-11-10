@@ -1,133 +1,60 @@
 {
- "generated": "2026-11-10T00:45:36+00:00",
+ "generated": "2026-11-10T07:52:33+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": false,
+ "withImage": 37,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "Heavy.com",
-  "MotorBiscuit",
   "NASCAR.com",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
-   "url": "https://www.twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Kratos still sees Valkyrie's relative affordability as key to staying ahead of a growing field of competing Collaborative Combat Aircraft (CCA) drone designs. The post M…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/kratos-valkyrie-drone-new-cost-data.jpg?quality=85",
-   "age": "5m ago",
-   "published": "2026-11-10T00:39:57+00:00"
-  },
-  {
-   "title": "Knicks guard walks back comment about Taylor Swift being fake fan after Swifties, including his wife, attack",
-   "url": "https://www.foxnews.com/outkick-sports/knicks-guard-walks-back-comment-taylor-swift-fake-fan-swifties-wife-attack",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Tyler Kolek walked back his comments calling Taylor Swift the fakest courtside celebrity fan after fierce backlash from Swifties and the Knicks.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/taylor-swift-mariska-hargitay-nba-finals-fox-news-001.jpeg?ve=1&tl=1",
-   "age": "16m ago",
-   "published": "2026-11-10T00:29:15+00:00"
-  },
-  {
-   "title": "Charlamagne tha God calls out Dave Chappelle's Kirk comments, wouldn't wish them 'on my worst enemy'",
-   "url": "https://www.foxnews.com/media/charlamagne-tha-god-calls-out-dave-chappelles-kirk-comments-wouldnt-wish-them-on-my-worst-enemy",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Charlamagne Tha God said on The Breakfast Club that he doesn t find the humor in Dave Chappelle s joke about feeling better after Charlie Kirk s assassination.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/charlamagne-dave-chappelle.jpg?ve=1&tl=1",
-   "age": "26m ago",
-   "published": "2026-11-10T00:19:24+00:00"
-  },
-  {
-   "title": "Bruce Springsteen fan club founders say political fights, El-Sayed endorsement led to shutdown: report",
-   "url": "https://www.foxnews.com/entertainment/bruce-springsteen-fan-club-founders-say-political-fights-el-sayed-endorsement-led-shutdown-report",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Bruce Springsteen s endorsement of Michigan s senator-elect Abdul El-Sayed proved the final straw for the Spring-Nuts fan club founders as group shutters.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/springsteen-elsayed.jpg?ve=1&tl=1",
-   "age": "50m ago",
-   "published": "2026-11-09T23:54:47+00:00"
-  },
-  {
-   "title": "Man killed in fiery Kentucky jet crash told daughter of trouble in midair",
-   "url": "https://www.foxnews.com/travel/man-killed-fiery-kentucky-jet-crash-told-daughter-trouble-midair",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Before he died, a Wisconsin father radioed his daughter about issues he was having after takeoff on Sunday, Nov. 8. Then his jet hit a ditch and caught fire in Kentucky.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Wisconsin-Pilot-Killed.jpg?ve=1&tl=1",
-   "age": "55m ago",
-   "published": "2026-11-09T23:50:27+00:00"
-  },
-  {
-   "title": "Trump renews call for Pete Rose pardon, saying MLB's all-time hits leader was 'mistreated'",
-   "url": "https://www.foxnews.com/outkick-sports/trump-renews-call-pete-rose-pardon-saying-mlbs-all-time-hits-leader-mistreated",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trump said he would pardon Pete Rose for federal tax charges, calling MLB s all-time hits leader very mistreated during a meeting with Dana White.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dana-white-trump-briefing-room.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-09T23:44:15+00:00"
-  },
-  {
-   "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-   "url": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
+   "title": "SoftBank swings to $7 billion net loss in second quarter as tech selloff weighs on results",
+   "url": "https://www.cnbc.com/2026/11/10/softbank-2q-earnings-tech-selloff.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "PepsiCo plans to cut about 1,000 jobs across North America as it streamlines operations and works to revive sales in its home market.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108117104-1742236544453-gettyimages-2205568557-pepsi602175_ueyezeys.jpeg?v=1747947064&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-09T23:31:17+00:00"
+   "summary": "SoftBank Group announces fiscal second-quarter results for the year ending March 31, 2027.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108263657-1770697316782-gettyimages-2228259809-TFSPI_07082025-9375.jpeg?v=1770697329&amp;w=1920&amp;h=1080",
+   "age": "19m ago",
+   "published": "2026-11-10T07:32:45+00:00"
   },
   {
-   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
-   "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-11-09T23:28:37+00:00"
-  },
-  {
-   "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-   "url": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
+   "title": "Trump says Iran war to end 'fairly soon,' plays down prospects of new strikes",
+   "url": "https://www.cnbc.com/2026/11/10/trump-iran-war-hormuz-.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The updates came alongside a third-quarter earnings report for the legacy Paramount Skydance.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108526744-1793897064016-gettyimages-2298602774-SKYDANCE_NYSE.jpeg?v=1794265669&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-09T23:14:38+00:00"
+   "summary": "“Iran militarily is effectively over,” Trump said, citing the destruction of its navy and surging inflation that he said has hollowed out Tehran's economy.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108547055-1794263170998-gettyimages-2304343966-_s014392_hlxiq8at.jpeg?v=1794263222&amp;w=1920&amp;h=1080",
+   "age": "52m ago",
+   "published": "2026-11-10T07:00:02+00:00"
   },
   {
-   "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-   "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check …",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/wyndham-967205948.jpg?resize=1200,843",
-   "age": "1h ago",
-   "published": "2026-11-09T23:03:46+00:00"
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "image": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-521333620.jpg?resize=1200,800",
+   "age": "52m ago",
+   "published": "2026-11-10T07:00:00+00:00"
   },
   {
    "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
@@ -138,29 +65,128 @@
    "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
    "image": "https://image.cnbcfm.com/api/v1/image/108314510-1794257799765-108314510-1780318208233-gettyimages-2278510316-TAIWAN_COMPUTEX.jpeg?v=1794257861&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-11-09T22:56:39+00:00"
+   "published": "2026-11-10T06:52:30+00:00"
   },
   {
-   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-   "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "title": "Red counties with data center projects swung away from GOP in midterms, analysis finds",
+   "url": "https://www.foxnews.com/politics/red-counties-data-center-projects-swung-away-gop-midterms-analysis-finds",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Humans First s Amy Kremer warns data centers are driving voters away from Republicans as local control and property rights fuel community backlash.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/data-center-security-gate-barrier.png?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-10T06:20:16+00:00"
+  },
+  {
+   "title": "California’s proposed ‘billionaire tax’ fails to pass",
+   "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-11-09T22:46:09+00:00"
+   "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and t…",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
+   "age": "2h ago",
+   "published": "2026-11-10T05:18:43+00:00"
   },
   {
-   "title": "Hegseth impeachment articles introduced by Rep. Massie",
-   "url": "https://www.cnbc.com/2026/11/09/pete-hegseth-impeachment-articles-massie.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The House is likely to vote this week on articles of impeachment against Defense Secretary Pete Hegseth filed by Republican Rep. Thomas Masie.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108546127-1794227587839-gettyimages-2300791153-TRUMP_CYBERCRIME.jpeg?v=1794258310&amp;w=1920&amp;h=1080",
+   "title": "Troy Aikman pokes fun at ESPN contract standoff during Bills-Vikings Monday Night Football broadcast",
+   "url": "https://www.foxnews.com/outkick-sports/troy-aikman-pokes-fun-espn-contract-standoff-bills-vikings-monday-night-football-broadcast",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Troy Aikman s diamond chain quip on Monday Night Football nodded at his stalled ESPN contract talks during the Bills dominant 23-6 rout of Minnesota.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/troy-aikman-tv-set.jpg?ve=1&tl=1",
    "age": "2h ago",
-   "published": "2026-11-09T22:41:12+00:00"
+   "published": "2026-11-10T05:15:03+00:00"
+  },
+  {
+   "title": "Six lessons learned from NFL Week 9: Arvell Reese a superstar in the making, C.J. Stroud having career year",
+   "url": "https://www.cbssports.com/nfl/news/six-lessons-nfl-week-9-arvell-reese-c-j-stroud/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/09/d4fd3515-b4ac-4cc6-88aa-aad31e54028f/arvell-reese-giants-3.jpg",
+   "age": "3h ago",
+   "published": "2026-11-10T04:44:19+00:00"
+  },
+  {
+   "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/bortonia-getty.jpg?resize=1200,1200",
+   "age": "3h ago",
+   "published": "2026-11-10T04:34:15+00:00"
+  },
+  {
+   "title": "NFC Playoff Picture After Week 9: Bears move up to the 2 seed",
+   "url": "https://www.windycitygridiron.com/chicago-bears-nfl-playoffs/127353/nfc-playoff-picture-after-week-9-bears-move-up-to-the-2-seed-packers-vikings-lions",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303803202.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "3h ago",
+   "published": "2026-11-10T04:32:51+00:00"
+  },
+  {
+   "title": "U.S. Air Force mom surprises family on turf at Vikings-Bills game following 473-day overseas deployment",
+   "url": "https://www.foxnews.com/outkick-sports/us-air-force-mom-surprises-family-turf-vikings-bills-game-following-473-day-overseas-deployment",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A military homecoming stunned Master Sergeant Kelsey McLeod s daughters at U.S. Bank Stadium as the Minnesota Vikings hosted the Buffalo Bills.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/minnesota-vikings-atlanta-falcons-national-anthem.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-10T03:47:20+00:00"
+  },
+  {
+   "title": "Can Carson Beck convince the Cardinals not to draft a QB? He has eight games to make his case",
+   "url": "https://www.cbssports.com/nfl/news/can-carson-beck-convince-cardinals-not-to-draft-a-qb/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/10/9a8ed5c8-661d-4503-98ec-6f0d7210bcc7/beck.jpg",
+   "age": "5h ago",
+   "published": "2026-11-10T02:36:01+00:00"
+  },
+  {
+   "title": "Bears vs. Bucs Game Balls: Some How, Some Way",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/127338/bears-vs-bucs-game-balls-some-how-some-way",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304203671.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "6h ago",
+   "published": "2026-11-10T01:46:01+00:00"
+  },
+  {
+   "title": "MQ-58 Valkyrie Drones Now Cost $6M-$8M Each",
+   "url": "https://www.twz.com/air/mq-58-valkyrie-drones-now-cost-6m-8m-each",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Kratos still sees Valkyrie's relative affordability as key to staying ahead of a growing field of competing Collaborative Combat Aircraft (CCA) drone designs. The post M…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/kratos-valkyrie-drone-new-cost-data.jpg?quality=85",
+   "age": "7h ago",
+   "published": "2026-11-10T00:39:57+00:00"
+  },
+  {
+   "title": "Cardinals' Gardner Minshew feared to have suffered a torn UCL, could be out for season, per report",
+   "url": "https://www.cbssports.com/nfl/news/cardinals-gardner-minshew-feared-torn-ucl-could-out-for-season-report/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/09/51ee102c-c165-46a9-aaf8-08d99a9d9eaa/minshew.jpg",
+   "age": "7h ago",
+   "published": "2026-11-10T00:22:28+00:00"
   },
   {
    "title": "Security Levels At U.S. Bases In England Raised Without Explanation",
@@ -170,7 +196,7 @@
    "topic": "defense",
    "summary": "Aviation spotters had noticed unusual aircraft activity at RAF Mildenhall, which prompted our inquiries to the USAF. The post Security Levels At U.S. Bases In England Ra…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/F-35Lakenheath.jpg?quality=85",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-09T22:35:14+00:00"
   },
   {
@@ -181,30 +207,8 @@
    "topic": "defense",
    "summary": "Contractor-operated HondaJets will give B-1 pilots a major injection of yearly flight time at a tiny fraction of the cost. The post B-1B Lancer Pilots Are Now Training O…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/HondaJet-and-B-1-pilot.jpg?quality=85",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-09T22:28:27+00:00"
-  },
-  {
-   "title": "3 unexpected reasons the October jobs report was so strong",
-   "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108303908-1778178630285-gettyimages-2273898253-jr_17705_klqohmye.jpeg?v=1778178878&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-09T22:23:56+00:00"
-  },
-  {
-   "title": "The race is on to sue Nvidia",
-   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert say…",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-   "age": "2h ago",
-   "published": "2026-11-09T22:23:42+00:00"
   },
   {
    "title": "SS United States Towed from Mobile Berth Ahead of Sinking",
@@ -214,19 +218,8 @@
    "topic": "defense",
    "summary": "The hulk of the ocean liner and secret troop transport SS United States was towed from its berth in Mobile, Ala., ahead of its sinking to become an artificial reef off t…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/AM1A8777-scaled.jpg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-09T22:22:00+00:00"
-  },
-  {
-   "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-   "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-11-09T21:55:35+00:00"
   },
   {
    "title": "Hendrick Motorsports has a Snickers — and the last laugh over Hamlin",
@@ -236,8 +229,19 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
-   "published": "2026-11-09T21:36:42+00:00"
+   "age": "9h ago",
+   "published": "2026-11-09T22:07:52+00:00"
+  },
+  {
+   "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+   "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3-1152x648.jpg",
+   "age": "9h ago",
+   "published": "2026-11-09T21:55:35+00:00"
   },
   {
    "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
@@ -247,19 +251,8 @@
    "topic": "ai",
    "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-09T21:13:39+00:00"
-  },
-  {
-   "title": "Fervo now has $12B in orders for its geothermal power tech",
-   "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/12/fervo-geothermal-site-at-night.jpg?resize=1200,675",
-   "age": "3h ago",
-   "published": "2026-11-09T20:55:34+00:00"
   },
   {
    "title": "A Sam Altman parody offers an amusing lesson in memory management",
@@ -269,7 +262,7 @@
    "topic": "ai",
    "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474-1024x648.jpg",
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-09T20:49:09+00:00"
   },
   {
@@ -280,7 +273,7 @@
    "topic": "defense",
    "summary": "Defense Secretary Pete Hegseth announced sweeping education directives supporting his effort to de-civilianize military higher education and align it with warfighting pr…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/Naval-War-College.jpeg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-09T20:42:15+00:00"
   },
   {
@@ -291,19 +284,8 @@
    "topic": "defense",
    "summary": "[Sponsored] Autonomous agents and mission-specific software promise faster responses to emerging threats.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Accenture-agentic-1-1024x1024.jpg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-09T20:15:47+00:00"
-  },
-  {
-   "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-   "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"*sshole\" poses a serious threat to Internet security.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-   "age": "5h ago",
-   "published": "2026-11-09T19:41:34+00:00"
   },
   {
    "title": "Pentagon can’t track thousands of F-35 parts: GAO",
@@ -313,7 +295,7 @@
    "topic": "defense",
    "summary": "The government watchdog found that more than 17,000 F-35 fighter jet parts worth an estimated $1.3 billion were missing from the program s inventory system.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261022_DVIDS_f35_formation_7525323-e1792701184823-1024x577.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-09T19:41:23+00:00"
   },
   {
@@ -324,7 +306,7 @@
    "topic": "defense",
    "summary": "We delivered our CCA platform last year and will having flight tests at the end of this year, Director of International Business for KE-ASD Haneul Kim confirmed.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Korean_Air_Lowus_CCA-1024x551.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-09T19:19:25+00:00"
   },
   {
@@ -335,19 +317,19 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 9, 2026, based on Navy …",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/FT_11_9_26.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-09T19:18:38+00:00"
   },
   {
-   "title": "Netting To Shield F-35s At Tyndall AFB From Drone Attacks Eyed By USAF",
-   "url": "https://www.twz.com/news-features/netting-to-shield-f-35s-at-tyndall-afb-from-drone-attacks-eyed-by-usaf",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Tentative plans for anti-drone nets at Tyndall highlight a still heated debate within the USAF about investing in physical hardening. The post Netting To Shield F-35s At…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/counter-drone-nets-tyndall-air-force-base-f-35s.jpg?quality=85",
-   "age": "5h ago",
-   "published": "2026-11-09T19:16:18+00:00"
+   "title": "By the Numbers: Bears' Week 9 victory over Buccaneers",
+   "url": "https://www.chicagobears.com/news/by-the-numbers-bears-week-9-victory-over-buccaneers",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/eg35nxmjsexwurtnyls8.jpg",
+   "age": "13h ago",
+   "published": "2026-11-09T18:32:00+00:00"
   },
   {
    "title": "Kyle Larson’s Hendrick Motorsports Contract: Salary, Length and Everything We Know",
@@ -357,30 +339,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-09T18:23:26+00:00"
-  },
-  {
-   "title": "Fishing Trawler Adapted Into Arctic Hunter Drone Ship Aims To Scour For Russian Submarines",
-   "url": "https://www.twz.com/sea/fishing-trawler-adapted-into-arctic-hunter-drone-ship-aims-to-scour-for-russian-submarines",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The totally uncrewed Arctic Hunter with its 60-day endurance would give the Royal Navy persistent ears in the high north. The post Fishing Trawler Adapted Into Arctic Hu…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/Arctic-Hunter.jpg?quality=85",
-   "age": "6h ago",
-   "published": "2026-11-09T18:21:20+00:00"
-  },
-  {
-   "title": "Royal Navy Commissions First Unmanned Surface Vehicle Squadron",
-   "url": "https://news.usni.org/2026/11/09/royal-navy-commissions-first-unmanned-surface-vehicle-squadron",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Royal Navy commissioned its first unmanned surface vessel squadron last week as it transforms into a hybrid fleet, the service announced Monday. The 1st Autonomous S…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/FRPUE-20261105-ZJ0193-038-scaled.jpg",
-   "age": "6h ago",
-   "published": "2026-11-09T18:11:43+00:00"
   },
   {
    "title": "Dutch firm Optics11 in talks with navies on secretive underwater listening tech",
@@ -390,19 +350,8 @@
    "topic": "defense",
    "summary": "For underwater use, the company’s fiber-optic sensing can detect an oil tanker at 100 kilometers, the CEO said.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2254835922.jpg",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-09T17:52:01+00:00"
-  },
-  {
-   "title": "Army fields launched effects to 11 of 12 divisions, with Griffon Aerospace delivering the majority",
-   "url": "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "In line with Defense Secretary Pete Hegseth’s 2025 Drone Dominance memo, the Army was directed to provide each headquarters division and multi-domain task force with lau…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/9351862-e1793985605129.jpg",
-   "age": "7h ago",
-   "published": "2026-11-09T17:21:48+00:00"
   },
   {
    "title": "Firm bets on converted fishing trawlers to tackle Russian submarines in the Arctic",
@@ -412,7 +361,7 @@
    "topic": "defense",
    "summary": "The company’s Arctic Hunter idea involves an industry-standard 56-meter trawler design whose fish-processing innards are ripped out and replaced with autonomy features.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/KM.AH_.USV_.media3_.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-09T17:01:04+00:00"
   },
   {
@@ -423,19 +372,30 @@
    "topic": "defense",
    "summary": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/Neros-drones-cover.jpg",
-   "age": "9h ago",
+   "age": "16h ago",
    "published": "2026-11-09T15:45:23+00:00"
   },
   {
-   "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
-   "url": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "New drone innovations are highlighted in Part 2 of our Business of Defense series. Plus, a sneak peek into a new Smithsonian military aviation exhibit, and tips to avoid…",
-   "image": "https://cdn.jwplayer.com/videos/gmTezszS-5ZsksG4j.mp4",
-   "age": "10h ago",
-   "published": "2026-11-09T14:05:00+00:00"
+   "title": "Defense steps up in crucial situations to propel Bears to fourth consecutive victory",
+   "url": "https://www.chicagobears.com/news/defense-steps-up-in-crucial-situations-to-propel-bears-to-fourth-consecutive-victory",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/rgggxopsvldi2oatwvex.jpg",
+   "age": "17h ago",
+   "published": "2026-11-09T14:49:00+00:00"
+  },
+  {
+   "title": "Chicago Bears Fans Waiting All Night for Good, Better, Best",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/127253/chicago-bears-fans-waiting-all-night-for-good-better-best-ben-johnson-jaylon",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304213137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1d ago",
+   "published": "2026-11-09T06:00:00+00:00"
   },
   {
    "title": "23XI and Hendrick Motorsports' Major Team News Breaks Hours Before Homestead-Miami Race",
@@ -449,15 +409,59 @@
    "published": "2026-11-08T18:56:50+00:00"
   },
   {
-   "title": "Connor Zilisch Addresses Rumors of Early Hendrick Motorsports Move",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONEljUzJSZlYxMWJxYlBsVmZHWTBMMy1CdWhEV0FyUEhuamR4Wm93SmxfVWQ4Qjd5Sk9Nd25fY3UtWDU0SXNwUVFsY3loREJVNG5FcW4wSUZoSEgtMk9oVVE5Tm9yVTRmeW1ZdUpFZDZvbnZnbjBrQ3J1UTF5OVRYX3R1OA?oc=5",
-   "source": "MotorBiscuit",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "‘That crash transformed my life’: New Lake County sheriff reflects on surviving wreck",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_d098327a-0a96-4bc4-a5ae-4035d754dbe7.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Thirty years ago, Lake County Sheriff-elect Jerry Williams survived a fiery, head-on collision in Gary with a fleeing suspect during a high-speed police chase, almost lo…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/c5/bc5b3087-1a06-4d78-a871-a4008d60c52f/4fdfca439095f.image.jpg?resize=300%2C199",
+   "age": "1d ago",
+   "published": "2026-11-08T13:15:00+00:00"
+  },
+  {
+   "title": "GEORGE GRENCHIK | How long until spring training?",
+   "url": "https://nwitimes.com/news/article_3847a702-2a92-43c0-8451-e2125032e1e5.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "GEORGE GRENCHIK: Our up-the-road neighbors, the Milwaukee Brewers are World Series champions for the first time ever.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "1d ago",
+   "published": "2026-11-08T12:00:00+00:00"
+  },
+  {
+   "title": "Bears vs. Buccaneers Predictions: Caleb Williams, Ben Johnson face final prime-time test before bye week",
+   "url": "https://allchgo.com/bears/bears-vs-buccaneers-predictions-final-before-bye-week/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/06020536/2026-11-03T022535Z_1585944266_MT1USATODAY30262164_RTRMADP_3_NFL-CHICAGO-BEARS-AT-SEATTLE-SEAHAWKS-1-1024x576.jpg",
+   "age": "1d ago",
+   "published": "2026-11-08T11:00:00+00:00"
+  },
+  {
+   "title": "DA BRAGGS BLOG: All aboard, the Bears bandwagon is leaving the station",
+   "url": "https://allchgo.com/bears/da-braggs-blog-bears-bandwagon-is-leaving-the-station/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/07134631/Bears_BraggsBlog-4-1024x576.jpg",
    "age": "2d ago",
-   "published": "2026-11-07T21:32:14+00:00"
+   "published": "2026-11-07T19:54:41+00:00"
+  },
+  {
+   "title": "Bears-Buccaneers game preview | 2026 Week 9",
+   "url": "https://www.chicagobears.com/news/bears-buccaneers-game-preview-2026-week-9",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/tcvxnoiotpuczvui6wpx.jpg",
+   "age": "2d ago",
+   "published": "2026-11-07T18:12:00+00:00"
   }
  ]
 }
