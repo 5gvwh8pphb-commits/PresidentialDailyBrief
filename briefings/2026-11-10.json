@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-10",
+  "dateLabel": "Tuesday, November 10, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-10T16:38:33Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, November 9, 2026 close — a sharp rally as chip stocks rebounded and the Dow surged over 1,100 points, even as Nvidia slid on news of a board investigation into CEO Jensen Huang.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,549.94", "change": "+173.08", "changePct": "+2.35%", "sixMo": "+2.0%" },
+        { "name": "Dow", "close": "52,389.75", "change": "+1,104.02", "changePct": "+2.15%", "sixMo": "+5.6%" },
+        { "name": "Nasdaq", "close": "25,253.14", "change": "+673.72", "changePct": "+2.74%", "sixMo": "-3.8%" }
+      ],
+      "body": "Stocks bounced hard from last week's AI-spending selloff as chip and industrial names rallied; Nvidia fell early after its board opened an investigation tied to reports CEO Jensen Huang was targeted by a suspected Chinese intelligence operative, but the stock pared losses as the broader market surged. Oil slid on hopes for progress in US-Iran talks, and Anthropic launched its IPO roadshow the same day.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump says new large-scale strikes on Iran aren't needed for now",
+      "body": "President Trump told reporters Monday he sees little need for an extensive new attack on Iran given progress in negotiations, while saying Iran's military is finished as a fighting force; Defense Secretary Hegseth said US forces remain ready to act if talks break down.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/11/09/trump-says-he-sees-no-need-new-military-strikes-against-iran"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Taiwan reports fresh PLA aircraft and naval activity near its territory",
+      "body": "Taiwan's Ministry of National Defense reported four PLA aircraft sorties, six PLA Navy vessels and two China Coast Guard ships operating near the island over a recent 24-hour period, continuing a pattern of near-daily Chinese military activity around Taiwan this month.",
+      "source": "The Tribune (via Taiwan MND)",
+      "url": "https://www.tribuneindia.com/news/adiz/taiwan-detects-4-pla-aircraft-6-plan-vessels-operating-near-territory"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, distinct US troop, ship, or aircraft action surfaced within the 72-hour window beyond the ongoing Iran de-escalation talk and ocean drug-boat strikes already tracked elsewhere, which lack a fresh confirmable date in this search.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development could be confirmed within the 72-hour window; the most recent concrete items found on B-21/F-47 schedules, Golden Dome satellite contracts, and Anduril's Army deal all trace back to earlier in 2026 and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~today",
+      "empty": false,
+      "headline": "Anthropic sets IPO price range, targets Nasdaq debut November 19",
+      "body": "Anthropic launched its IPO roadshow and set a price range of $70 to $78 a share for its Class A stock, which it plans to list on the Nasdaq under the ticker 'ANT'; the offering could value the Claude maker at up to roughly $1 trillion, with trading expected to start November 19.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears' thin secondary takes more hits as Stevenson, Gordon exit Sunday's game",
+      "body": "Cornerback Tyrique Stevenson suffered a thumb injury and Kyler Gordon briefly left with an arm injury during Sunday night's game against Tampa Bay, further straining a Bears secondary already missing rookie Malik Muhammad, who sat out with a toe injury; Gordon returned to the game and said afterward he expects to be fine.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/11/08/bears-buccaneers-kyler-gordon-leaves-game-with-injury"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's NASCAR Cup Series Championship Race at Homestead-Miami Speedway and its outcome fall within the 7-day spoiler window, and no other non-spoiler sponsorship, contract, or schedule item on Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, qualifying Presbyterian Church in America news could be confirmed within the 72-hour window; byFaith's and the Aquila Report's most recent dated coverage traces back to earlier in 2026 and is already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
