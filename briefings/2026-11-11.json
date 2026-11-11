@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-11",
+  "dateLabel": "Wednesday, November 11, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-11T16:41:59Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, November 10, 2026 close — stocks slipped as a hotter-than-expected October CPI reading revived Fed rate-hike fears and Nvidia extended its slide.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,520.93", "change": "-29.01", "changePct": "-0.38%", "sixMo": "+1.5%" },
+        { "name": "Dow", "close": "52,231.89", "change": "-157.86", "changePct": "-0.30%", "sixMo": "+5.1%" },
+        { "name": "Nasdaq", "close": "25,065.87", "change": "-187.27", "changePct": "-0.74%", "sixMo": "-4.6%" }
+      ],
+      "body": "October CPI came in hotter than expected, pushing the 10-year Treasury yield back near 5% and raising the odds of a December Fed rate hike; Nvidia fell more than 5% as its board's investigation into CEO Jensen Huang's reported ties to a suspected Chinese intelligence operative continued to weigh on chip stocks.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "An extensive search turned up nothing distinct within the 72-hour window beyond the Iran-Hormuz standoff and the UK base security move already covered elsewhere in this brief, and no other newer, substantive story was confirmed today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan says China's Liaoning carrier group drilled to restrict naval access in the Western Pacific",
+      "body": "Taiwan's defense minister, Wellington Koo, said China's Liaoning aircraft carrier group and other PLA Navy formations recently ran area-denial training east of Taiwan aimed at restricting the movement of opposing forces, adding a maritime and air dimension to Chinese pressure beyond the Taiwan Strait; Taiwan said it is tracking the activity through joint intelligence sharing with partners.",
+      "source": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/navy-news/2026/taiwan-says-chinas-liaoning-aircraft-carrier-group-practiced-restricting-naval-access-in-western-pacific"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US pulls tankers and Ospreys from UK base amid unspecified Iran-linked threat",
+      "body": "At least eight KC-135 refueling tankers and three Osprey tilt-rotors left RAF Mildenhall in England for bases in Germany, Spain and Scotland, with the Ospreys relocating to nearby RAF Lakenheath; US officials cited 'enhanced force protection measures' without detailing the threat, while reporting tied the move to a threat from Iran.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/europe/us-moves-military-aircraft-british-base-iran-threats-raf-mildenhall-rcna608501"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Army contracts AI drone software to hunt explosive threats for tank protection",
+      "body": "Safe Pro Group won a $2.5 million US Army prime contract to run its AI-based threat-detection software aboard Anduril's Ghost-X drone, which can identify and geolocate more than 150 types of explosive threats in real time to protect Abrams tanks; it's the company's first prime Army contract.",
+      "source": "GlobeNewswire",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/safe-pro-group-awarded-us-army-prime-contract-teams-with-anduril-for-super-intelligence-on-ghost-x-drone-for-tank-protection/2466479"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Whiteboards, Sheets and Meetings to challenge Microsoft and Google",
+      "body": "Anthropic rolled out three new Claude workplace features — Whiteboards for turning team discussions into visual plans, a beta of Sheets, and Meetings for generating action items from conversations — plus a newly generally available Claude Data tool, pushing further into productivity software as the company heads toward its Nasdaq IPO.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Bears' Luther Burden III in concussion protocol after Buccaneers game",
+      "body": "Burden was hurt late in Sunday night's win over Tampa Bay after a hit from Buccaneers rookie Rueben Bain Jr. and did not return; coach Ben Johnson confirmed the concussion, and Chicago's Week 10 bye gives its leading receiver extra time to clear the NFL's five-step protocol before a Week 11 game against the Saints.",
+      "source": "ESPN",
+      "url": "https://clutchpoints.com/nfl/chicago-bears/bears-news-ben-johnson-reveals-concerning-luther-burden-injury-update-snf-win"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's NASCAR Cup Series finale at Homestead-Miami Speedway and its outcome fall within the 7-day spoiler window, and no other non-spoiler sponsorship, contract, or schedule news on Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Fire damages academic building at PCA-affiliated Covenant College",
+      "body": "A vehicle fire in a parking lot beside Sanderson Hall, one of Covenant College's main academic buildings, damaged the building's exterior and left smoke damage inside on Sunday; no one was injured, and classes were canceled Monday while the building was cleaned and inspected.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/covenant-college-building-damaged-in-weekend-fire/"
+    }
+  ]
+}
