@@ -1,16 +1,13 @@
 {
- "generated": "2026-11-12T03:57:07+00:00",
+ "generated": "2026-11-12T12:05:39+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": true,
+ "withImage": 35,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "Hendrick Motorsports",
@@ -20,41 +17,107 @@
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron"
+  "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-   "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+   "title": "Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk",
+   "url": "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Apple's M6 keeps the iMac current without shaking things up much.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg",
+   "age": "5m ago",
+   "published": "2026-11-12T12:00:37+00:00"
+  },
+  {
+   "title": "Seattle mayor backs effort to block girls' sports initiative that passed in 36 of Washington's 39 counties",
+   "url": "https://www.foxnews.com/outkick-sports/seattle-mayor-backs-effort-block-girls-sports-initiative-passed-36-washingtons-39-counties",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Seattle Mayor Katie Wilson backs the Seattle School Board s legal action against Initiative 638, the transgender sports measure voters passed by 13 points.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/katie-wilson-seattle-mayor-fox-news-001.jpeg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-11-12T11:55:14+00:00"
+  },
+  {
+   "title": "NFL and all its teams honored memory of military service members on Veterans Day without any fumbles",
+   "url": "https://www.foxnews.com/outkick-sports/nfl-all-teams-honored-memory-military-service-members-veterans-day-without-fumbles",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "All 32 NFL teams honored Veterans Day on social media, a stark contrast to the handful of clubs that skipped Merry Christmas greetings in 2025.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/military-american-flag-seahawks-bears.jpg?ve=1&tl=1",
+   "age": "18m ago",
+   "published": "2026-11-12T11:47:32+00:00"
+  },
+  {
+   "title": "GOP governor and prominent Dems congratulate senator-elect on flipping Mississippi seat blue",
+   "url": "https://www.foxnews.com/politics/gop-governor-prominent-dems-congratulate-senator-elect-flipping-mississippi-seat-blue",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Prominent Democratic political figures and Mississippi s GOP Gov. Tate Reeves congratulated Scott Colom for winning the state s U.S. Senate race.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/2a27334b-scott-colom-november-3-2026.jpg?ve=1&tl=1",
+   "age": "19m ago",
+   "published": "2026-11-12T11:46:18+00:00"
+  },
+  {
+   "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
+   "url": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Nvidia's board is meeting days after CEO Jensen Huang admitted to an affair with a woman who is believed by U.S. intelligence of being a Chinese spy.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108157882-1794436807252-108157882-17496552882025-06-11t100608z_371100481_rc2a0fa4l6n4_rtrmadp_0_france-tech.jpeg?v=1794436853&amp;w=1920&amp;h=1080",
-   "age": "10m ago",
-   "published": "2026-11-12T03:46:56+00:00"
+   "summary": "Scout Motors has roughly 212,000 reservations for its Terra pickup and Traveler SUV, CEO Scott Keogh told CNBC.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108230917-1763994390176-gettyimages-2248015646-jl1_6581_sjozszkb.jpeg?v=1763994431&amp;w=1920&amp;h=1080",
+   "age": "35m ago",
+   "published": "2026-11-12T11:30:01+00:00"
   },
   {
-   "title": "Struggling Colts QB Daniel Jones admits he's 'not happy' watching Indy's front office strip away teammates",
-   "url": "https://www.foxnews.com/outkick-sports/struggling-colts-qb-daniel-jones-admits-not-happy-watching-indy-front-office-strip-away-teammates",
+   "title": "Nvidia stock falls 7% as investors await Jensen Huang’s fate",
+   "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Nvidia's board met on Wednesday to discuss whether to oust Jensen Huang as CEO.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108317416-1780669969197-gettyimages-2279256400-jung-nvidiace260605_nprgq.jpeg?v=1780670112&amp;w=1920&amp;h=1080",
+   "age": "40m ago",
+   "published": "2026-11-12T11:25:09+00:00"
+  },
+  {
+   "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
+   "url": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Starshield is SpaceX's military-grade satellite network designed for government and national security use, building on the technology developed for Starlink.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&amp;w=1920&amp;h=1080",
+   "age": "42m ago",
+   "published": "2026-11-12T11:23:04+00:00"
+  },
+  {
+   "title": "NYC building collapse: Fifth body recovered as first responders search for survivors",
+   "url": "https://www.foxnews.com/us/nyc-building-collapse-third-body-recovered-first-responders-search-survivors",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Daniel Jones admitted he s frustrated after the Colts dealt Quenton Nelson, DeForest Buckner, Keenan Allen, and Josh Downs in a two-week sell-off.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/daniel-jones-112725.jpg?ve=1&tl=1",
-   "age": "13m ago",
-   "published": "2026-11-12T03:44:00+00:00"
+   "summary": "FDNY crews are continuing rescue operations in Brooklyn s Flatbush neighborhood after a three-story building collapsed Wednesday, leaving an unknown number of people tra…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fdny-building-collapse.jpg?ve=1&tl=1",
+   "age": "52m ago",
+   "published": "2026-11-12T11:13:31+00:00"
   },
   {
-   "title": "War of words between Michigan Wolverines-Oregon Ducks heats up as Dan Lanning responds to criticisms",
-   "url": "https://www.foxnews.com/outkick-sports/war-words-michigan-wolverines-oregon-ducks-heats-dan-lanning-responds-criticisms",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kyle Whittingham took aim at Oregon s $50M+ NIL spending, and Dan Lanning fired back with a pointed jab at Michigan s costly coaching buyouts.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/dan-lanning-looks-on-oregon-jmu.jpg?ve=1&tl=1",
-   "age": "23m ago",
-   "published": "2026-11-12T03:33:35+00:00"
+   "title": "Guard appears to rebuke Hegseth’s delegation at Tomb of the Unknown Soldier",
+   "url": "https://www.defensenews.com/news/pentagon-congress/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The U.S. Army sentinel moved toward the group and, from a distance, shouted toward them: \"All visitors will maintain an atmosphere of silence and respect at all times.\"",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-11T232803Z_1_LYNXNPEMAA22U_RTROPTP_4_USA-TRUMP.jpg",
+   "age": "8h ago",
+   "published": "2026-11-12T03:32:11+00:00"
   },
   {
    "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
@@ -63,75 +126,9 @@
    "group": "TechCrunch",
    "topic": "ai",
    "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Congratulations-Nvidias-New-CEO.png?resize=1200,675",
-   "age": "43m ago",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/NVIDIA-CEO-Business-Card-in-Modern-Office.png?resize=1200,675",
+   "age": "8h ago",
    "published": "2026-11-12T03:13:10+00:00"
-  },
-  {
-   "title": "What we know so far about Nvidia partner Megaspeed’s Asia footprint",
-   "url": "https://www.cnbc.com/2026/11/12/nvidia-megaspeed-alice-huang-jensen-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Megaspeed is at the center of a U.S. probe over its role in sending billions of restricted Nvidia chips to China, and its executive's alleged affair with Jensen Huang.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108548786-1794383341968-gettyimages-2303986643-AFP_D6ZC9WF.jpeg?v=1794383419&amp;w=1920&amp;h=1080",
-   "age": "55m ago",
-   "published": "2026-11-12T03:02:03+00:00"
-  },
-  {
-   "title": "Brewers' Jacob Misiorowski, Yankees' Cam Schlittler named unanimous Cy Young Award winners for 2026 MLB season",
-   "url": "https://www.foxnews.com/outkick-sports/brewers-jacob-misiorowski-yankees-cam-schlittler-named-unanimous-cy-young-award-winners-2026-mlb-season",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Jacob Misiorowski was the first Cy Young Award and World Series winner in the same season since Randy Johnson, while Cam Schlittler s first full season resulted in the a…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Jacob-Cam-Cy-Young.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-12T02:41:46+00:00"
-  },
-  {
-   "title": "Cramer's stance on Nvidia's stock amid reports that CEO Jensen Huang may be ousted",
-   "url": "https://www.cnbc.com/investingclub/2026/11/11/jim-cramer-jensen-huang-nvidia-stock-advice.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Jim Cramer said Wednesday night that he was saddened by a news report that indicated Nvidia's board of directors is preparing to fire Huang.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108546366-17942337332026-11-09t135831z_19412827_rc2h6oaxcoox_rtrmadp_0_nvidia-probe-ceo.jpeg?v=1794233751&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-12T01:14:21+00:00"
-  },
-  {
-   "title": "NFL Week 10 injury report: Mike Evans still not practicing, Puka Nacua facing multi-week absence",
-   "url": "https://www.cbssports.com/nfl/news/2026-nfl-week-10-injury-report-mike-evans-puka-nacua/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/12/e2ca877b-5859-46f2-a804-80f20bd38d8c/mike-evans-49ers-2.jpg",
-   "age": "2h ago",
-   "published": "2026-11-12T01:08:15+00:00"
-  },
-  {
-   "title": "Chicago Bears-Tampa Bay Bucs stockwatch: Caleb down, Devin Bush up",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/127490/chicago-bears-tampa-bay-bucs-stockwatch-caleb-down-devin-bush-up",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304052553.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
-   "published": "2026-11-12T01:00:00+00:00"
-  },
-  {
-   "title": "Bengals nearly made a costly trade-deadline blunder, and Zac Taylor had to explain it",
-   "url": "https://www.cbssports.com/nfl/news/bengals-nfl-trade-deadline-arnold-ebiketie-zac-taylor/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/12/9766b21d-7021-4d24-bf49-7b3a3c7e9b7f/zac-taylor-bengals-2.jpg",
-   "age": "3h ago",
-   "published": "2026-11-12T00:08:56+00:00"
   },
   {
    "title": "The unfolding Jensen Huang scandal: a timeline",
@@ -141,8 +138,19 @@
    "topic": "ai",
    "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-11T23:50:00+00:00"
+  },
+  {
+   "title": "Scott Colom wins Mississippi Senate election over incumbent Republican Hyde-Smith",
+   "url": "https://www.cnbc.com/2026/11/11/democrat-scott-colom-projected-to-win-mississippi-senate-election-over-incumbent-hyde-smith.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Scott Colom will be the first Democrat elected to the Senate from the state since 1982, and Mississippi's first Black senator since Reconstruction.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108549531-1794438189486-gettyimages-2304500208-bb2_7183_yrvaji2t.jpeg?v=1794438231&amp;w=1920&amp;h=1080",
+   "age": "12h ago",
+   "published": "2026-11-11T23:31:37+00:00"
   },
   {
    "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -152,8 +160,19 @@
    "topic": "ai",
    "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-11T23:28:45+00:00"
+  },
+  {
+   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+   "age": "12h ago",
+   "published": "2026-11-11T23:17:05+00:00"
   },
   {
    "title": "CEO Jensen Huang's job is suddenly on the line at Nvidia",
@@ -163,7 +182,7 @@
    "topic": "ai",
    "summary": "The FBI is investigating as Nvidia’s board holds urgent talks over Huang’s future.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2296993009-1024x648.jpg",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-11T23:10:17+00:00"
   },
   {
@@ -174,19 +193,8 @@
    "topic": "local",
    "summary": "Fall cleanup has become its own neighborhood sport. Here are 5 things to consider in the great annual debate over raking versus leaf blowing.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/c/63/c6339851-4dfb-44e5-8d86-3641e65a2d78/6af4ca67a6da8.image.jpg?resize=300%2C225",
-   "age": "5h ago",
+   "age": "14h ago",
    "published": "2026-11-11T22:00:00+00:00"
-  },
-  {
-   "title": "Cardinals name Carson Beck starting QB: Rookie faces Aaron Donald, Myles Garrett in NFL debut",
-   "url": "https://www.cbssports.com/nfl/news/cardinals-starting-qb-carson-beck-2026/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/11/822f9bc9-e9d9-4f3f-81e8-a5a643d2869c/beck.jpg",
-   "age": "6h ago",
-   "published": "2026-11-11T21:42:20+00:00"
   },
   {
    "title": "Ukraine Regretting White House-Brokered Temporary Ceasefire In Strategic Riverside Town Of Oleshky",
@@ -196,19 +204,8 @@
    "topic": "defense",
    "summary": "Ukrainian officials are expressing concern that a renewed Russian military presence in Oleshky will result in new waves of attacks across the Dnipro River. The post Ukra…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/Oleshky-in-ruins.jpg?quality=85",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-11T21:23:00+00:00"
-  },
-  {
-   "title": "Chicago Bears Pass Protection Analysis on the Sack Allowed vs Buccaneers",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/127443/chicago-bears-pass-protection-analysis-on-the-sack-allowed-vs-buccaneers",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304327291.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "6h ago",
-   "published": "2026-11-11T21:00:00+00:00"
   },
   {
    "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
@@ -218,7 +215,7 @@
    "topic": "ai",
    "summary": "Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-11-11T20:32:21+00:00"
   },
   {
@@ -229,7 +226,7 @@
    "topic": "defense",
    "summary": "The Royal Navy wants to infuse drone capabilities into its air wings and Talon Blue would be far more advanced than anything that has flown off the carriers yet. The pos…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/talon-blue-front-quarter-lower.jpg?quality=85",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-11-11T20:30:40+00:00"
   },
   {
@@ -240,7 +237,7 @@
    "topic": "ai",
    "summary": "\"What's unique is it's got a huge dynamic range. We can see things in full dark.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-11-11T20:22:03+00:00"
   },
   {
@@ -251,7 +248,7 @@
    "topic": "defense",
    "summary": "One industry source told Breaking Defense that the reason for the spate of new loan announcements is that the Pentagon needed to finalize loans by the end of the fiscal …",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/53195468613_5c6c301a41_c-e1794425948751.jpg",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-11-11T20:15:00+00:00"
   },
   {
@@ -262,19 +259,8 @@
    "topic": "defense",
    "summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on suppo…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/WKK-Hegseth-55645307629_8e334f8562_o-e1794421436481-1024x576.jpg",
-   "age": "8h ago",
+   "age": "16h ago",
    "published": "2026-11-11T19:09:00+00:00"
-  },
-  {
-   "title": "Hot Take Wednesday: Chicago Bears Defense now legit",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/127483/hot-take-wednesday-chicago-bears-defense-now-legit",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303800894.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
-   "published": "2026-11-11T19:00:00+00:00"
   },
   {
    "title": "F-35s Train In India For “Red Flag Of The East”",
@@ -284,7 +270,7 @@
    "topic": "defense",
    "summary": "Seven foreign air forces trained alongside the Indian Air Force, as American F-35s took part in their first exercise in India. The post F-35s Train In India For “Red Fla…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/F-35-WITH-TEJAS-INDIA-1.jpg?quality=85",
-   "age": "9h ago",
+   "age": "17h ago",
    "published": "2026-11-11T18:31:47+00:00"
   },
   {
@@ -295,19 +281,30 @@
    "topic": "defense",
    "summary": "The new fiscal uplift comes in the wake of Ukraine President Volodymyr Zelenskyy telling European leaders last month that “we need at least €70 billion more from you.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/EU-flag-e1790968111975.png",
-   "age": "9h ago",
+   "age": "17h ago",
    "published": "2026-11-11T18:22:56+00:00"
   },
   {
-   "title": "Honoring former Bears QB Young Bussey, who made ultimate sacrifice in World War II",
-   "url": "https://www.chicagobears.com/news/honoring-former-bears-qb-young-bussey-who-made-ultimate-sacrifice-in-world-war-ii",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/xxatesostakyxxqrtfgb.jpg",
-   "age": "9h ago",
-   "published": "2026-11-11T18:10:19+00:00"
+   "title": "The Army’s coming C2 challenge is fighting across thousands of miles",
+   "url": "https://breakingdefense.com/2026/11/the-armys-coming-c2-challenge-is-fighting-across-thousands-of-miles/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Breaking down stovepipes, managing data and enabling better decision making are key components of the Army’s NGC2 plan.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/NGC2-1-1024x589.jpg",
+   "age": "18h ago",
+   "published": "2026-11-11T18:05:00+00:00"
+  },
+  {
+   "title": "Autonomous Cessna Caravan Air Ambulance To Be Tested By U.S. Military",
+   "url": "https://www.twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The demonstration will take place in Morocco, but uncrewed options for rescuing casualties could be valuable in other far-flung locales globally. The post Autonomous Ces…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/autonomous-casaulty-evacuation-demonstration-us-africa-command.jpg?quality=85",
+   "age": "18h ago",
+   "published": "2026-11-11T17:46:17+00:00"
   },
   {
    "title": "VR Goggles Get Dual Use for Suicide Prevention, Counter-drone Training",
@@ -317,7 +314,7 @@
    "topic": "defense",
    "summary": "CAMP PENDLETON, Calif. — The global proliferation of cheap, small unmanned aerial systems that threaten troops has military services racing to incorporate counter-drone …",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10028502-scaled.jpg",
-   "age": "11h ago",
+   "age": "20h ago",
    "published": "2026-11-11T16:04:56+00:00"
   },
   {
@@ -328,7 +325,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "12h ago",
+   "age": "20h ago",
    "published": "2026-11-11T15:13:48+00:00"
   },
   {
@@ -339,7 +336,7 @@
    "topic": "defense",
    "summary": "The company plans to clone top-performing dogs, edit genes associated with health problems and introduce standardized training to puppies as young as two weeks old.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/working-dogs-2.jpg",
-   "age": "12h ago",
+   "age": "21h ago",
    "published": "2026-11-11T15:00:00+00:00"
   },
   {
@@ -350,7 +347,7 @@
    "topic": "local",
    "summary": "Honor America’s veterans with these powerful movies and documentaries, from firsthand accounts of military service to Hollywood classics that capture the challenges of c…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/91/d91fa639-2d2e-5dad-bfe0-25567898560e/6285941ec34a6.preview.png?resize=300%2C214",
-   "age": "12h ago",
+   "age": "21h ago",
    "published": "2026-11-11T15:00:00+00:00"
   },
   {
@@ -361,7 +358,7 @@
    "topic": "local",
    "summary": "A DeMotte funeral home is inviting the community to write heartfelt letters of gratitude to military veterans who will be flying on long-overdue Honor Flight homecomings.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/1/50/150efdc4-8a5e-55ba-ac42-472198076598/5aeca64c07fa8.image.jpg?resize=300%2C240",
-   "age": "14h ago",
+   "age": "22h ago",
    "published": "2026-11-11T13:15:00+00:00"
   },
   {
@@ -372,7 +369,7 @@
    "topic": "defense",
    "summary": "The following is the Nov. 4, 2026, Congressional Research Service report, Golden Dome: Potential Strategic Stability Considerations for Congress. From the Report The sec…",
    "image": null,
-   "age": "15h ago",
+   "age": "23h ago",
    "published": "2026-11-11T12:22:07+00:00"
   },
   {
@@ -383,8 +380,30 @@
    "topic": "defense",
    "summary": "Hackers linked to Russia's FSB quietly compromised a Romanian government organization’s servers to collect emails related to NATO and the EU in December 2025, a Slovak c…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2199872793.jpg",
-   "age": "15h ago",
+   "age": "23h ago",
    "published": "2026-11-11T12:08:33+00:00"
+  },
+  {
+   "title": "5 Things to Know | Indiana Dunes National Park marks 60 years of preservation along Lake Michigan",
+   "url": "https://nwitimes.com/news/article_70cf21fe-fdb4-4e2d-a5f8-825f8fcb407f.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Sixty years after gaining federal protection, Indiana Dunes National Park welcomes more than 3 million visitors annually. Its story began with a fight to save the shorel…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/7/0c/70cf21fe-fdb4-4e2d-a5f8-825f8fcb407f/6af3d6fcca33d.preview.jpg?crop=1164%2C611%2C0%2C130",
+   "age": "1d ago",
+   "published": "2026-11-11T10:45:00+00:00"
+  },
+  {
+   "title": "House Republicans sidestep effort to impeach Hegseth",
+   "url": "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "In a 211 to 204 vote, House Republicans sent proposed impeachment articles against Hegseth to the Judiciary Committee, quashing the effort.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-10T215046Z_1423790036_RC29LOA4YJ0R_RTRMADP_3_USA-TRUMP-HEGSETH-IMPEACHMENT.jpg",
+   "age": "1d ago",
+   "published": "2026-11-10T23:31:53+00:00"
   },
   {
    "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
@@ -409,15 +428,15 @@
    "published": "2026-11-10T19:09:30+00:00"
   },
   {
-   "title": "10 Bears Things: Super Bowl? Here are 10 things for the Bears to fix during the bye week",
-   "url": "https://allchgo.com/bears/10-bears-things-super-bowl-fix-during-bye-week/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/09222246/10things_ArticleTemplate-7-1024x576.jpg",
+   "title": "U.K. to Develop North Atlantic Network of Drones, AI Systems to Find Russian Subs",
+   "url": "https://news.usni.org/2026/11/10/u-k-to-develop-north-atlantic-network-of-drones-ai-systems-to-find-russian-subs",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The U.K. will invest $120 million on a network of drones, sensors and AI systems for the Royal Navy to counter Russian submarines in the North Atlantic, the Ministry of …",
+   "image": "https://news.usni.org/wp-content/uploads/2026/11/db55340b0eebcb73f86c0405f5b8ae54a8e4f412.png",
    "age": "1d ago",
-   "published": "2026-11-10T11:00:00+00:00"
+   "published": "2026-11-10T17:31:03+00:00"
   },
   {
    "title": "Hendrick Motorsports has a Snickers — and the last laugh over Hamlin",
@@ -431,37 +450,15 @@
    "published": "2026-11-09T22:07:52+00:00"
   },
   {
-   "title": "By the Numbers: Bears' Week 9 victory over Buccaneers",
-   "url": "https://www.chicagobears.com/news/by-the-numbers-bears-week-9-victory-over-buccaneers",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
+   "title": "23XI and Hendrick Motorsports' Major Team News Breaks Hours Before Homestead-Miami Race",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTXFyLUNHUnI3VFBsMjI1ZDZ1S3pmVHVuXzVicjNJTTViYmZfWnFWYU9MQ2tqTE0yWUZLRW0xRUlCT3VJeHBITTRkTXRTRjlqVVFSbFJ3LUhVSzBtU3E1QUU3RHNBLUt3YXV1WHZIam56WjBhbGp4V29hcy1jcE12U185TnByS0JIbnF1bUZR?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/eg35nxmjsexwurtnyls8.jpg",
-   "age": "2d ago",
-   "published": "2026-11-09T18:32:00+00:00"
-  },
-  {
-   "title": "Defense steps up in crucial situations to propel Bears to fourth consecutive victory",
-   "url": "https://www.chicagobears.com/news/defense-steps-up-in-crucial-situations-to-propel-bears-to-fourth-consecutive-victory",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/rgggxopsvldi2oatwvex.jpg",
-   "age": "2d ago",
-   "published": "2026-11-09T14:49:00+00:00"
-  },
-  {
-   "title": "Bears vs. Buccaneers Predictions: Caleb Williams, Ben Johnson face final prime-time test before bye week",
-   "url": "https://allchgo.com/bears/bears-vs-buccaneers-predictions-final-before-bye-week/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/06020536/2026-11-03T022535Z_1585944266_MT1USATODAY30262164_RTRMADP_3_NFL-CHICAGO-BEARS-AT-SEATTLE-SEAHAWKS-1-1024x576.jpg",
+   "image": null,
    "age": "3d ago",
-   "published": "2026-11-08T11:00:00+00:00"
+   "published": "2026-11-08T18:56:50+00:00"
   }
  ]
 }
