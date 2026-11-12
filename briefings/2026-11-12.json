@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-12",
+  "dateLabel": "Thursday, November 12, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-12T17:11:30Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, November 11, 2026 close — a broad rebound from Tuesday's hot-CPI selloff, led by a CoreWeave earnings beat.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,619.38", "change": "+98.45", "changePct": "+1.31%", "sixMo": "+2.8%" },
+        { "name": "Dow", "close": "52,486.49", "change": "+254.60", "changePct": "+0.49%", "sixMo": "+5.6%" },
+        { "name": "Nasdaq", "close": "25,466.19", "change": "+400.32", "changePct": "+1.60%", "sixMo": "-3.1%" }
+      ],
+      "body": "Stocks rebounded from Tuesday's hot inflation-driven selloff as the VIX fell more than 10%; CoreWeave jumped roughly 26% after beating Q3 revenue estimates and raising guidance, lifting chip and AI-infrastructure shares, while the 10-year Treasury yield held near 5%.",
+      "source": "StockMarketWatch",
+      "url": "https://stockmarketwatch.com/digest/2026-11-11"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US-mediated Russia-Ukraine talks resume in Abu Dhabi after nine-month gap",
+      "body": "Jared Kushner and envoy Steve Witkoff led the first trilateral US-Russia-Ukraine session since February, with Secretary of State Marco Rubio calling the opening round 'very productive' but cautioning a deal isn't imminent; Ukraine's Zelensky said talks centered on prisoner exchanges and security guarantees, while the two sides remain far apart on territory and NATO membership.",
+      "source": "AP",
+      "url": "https://www.inquirer.com/news/nation-world/russia-ukraine-peace-talks-abu-dhabi-putin-zelesnky-kushner-trump-20261110.html"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Taiwan logs fresh PLA aircraft and naval activity around its territory",
+      "body": "Taiwan's Ministry of National Defense reported seven PLA aircraft sorties, seven PLA Navy vessels, and two China Coast Guard ships operating around the island in its latest 24-hour count, continuing the near-daily pattern of Chinese military activity around Taiwan this month.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://biztoc.com/x/e105d3f00f373521"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, distinct US troop, ship, or aircraft action surfaced within the 72-hour window beyond the RAF Mildenhall tanker relocation and ongoing Iran de-escalation talk already covered in prior briefs; nothing newer was confirmed today.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No qualifying new military-technology development could be confirmed within the 72-hour window; the most recent items found on B-21/F-47 production schedules and Golden Dome funding trace back to summer and early fall 2026 and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~4h ago",
+      "empty": false,
+      "headline": "Nvidia CEO Jensen Huang resigns after board probe into affair and spying allegations",
+      "body": "Nvidia's board announced Huang stepped down as president, CEO and director effective immediately, naming CFO Colette Kress interim CEO and lead director Harvey Jones the company's first board chair; the move follows Huang's admission of an affair with a Megaspeed executive US intelligence officials suspected of passing information to Beijing, and shares fell as much as 10% in premarket trading before paring losses.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Chicago is on its Week 10 bye, and no qualifying roster, injury, or front-office news from an allowlisted outlet surfaced within the 72-hour window beyond what prior briefs have already reported.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Homestead-Miami season finale and any championship outcome fall within the 7-day spoiler window, and no other non-spoiler sponsorship, contract, or schedule news on Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated Presbyterian Church in America news could be confirmed within the 72-hour window; the denomination's recent stated-clerk and discipline-case coverage traces back to earlier in 2026 and is already stale, and Covenant College's building fire was already covered in a prior brief.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
