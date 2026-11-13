@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-13",
+  "dateLabel": "Friday, November 13, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-13T16:55:13Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, November 12, 2026 close — Nvidia's Jensen Huang resigned amid a Chinese-espionage probe, dragging stocks lower as oil jumped on renewed Iran tensions.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,592.40", "change": "-26.67", "changePct": "-0.35%", "sixMo": "+2.6%" },
+        { "name": "Dow", "close": "52,297.09", "change": "-189.40", "changePct": "-0.36%", "sixMo": "+5.1%" },
+        { "name": "Nasdaq", "close": "25,366.09", "change": "-99.31", "changePct": "-0.39%", "sixMo": "-2.8%" }
+      ],
+      "body": "Nvidia fell more than 4% to a 52-week low after Jensen Huang stepped down as CEO following reports of an affair with a woman U.S. intelligence suspects has ties to Chinese intelligence; CFO Colette Kress became interim CEO. Oil jumped more than 2.5% after President Trump posted that the U.S. 'doesn't need a deal with Iran.'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Trump says US 'doesn't need a deal' with Iran as Tehran's conditions go unmet",
+      "body": "President Trump posted that the US holds 'hundreds of billions of dollars' of Iran's money and 'their Strait,' rejecting Tehran's push for a formal end to the war; a senior Iranian security official said Iran won't negotiate, or discuss removing enriched nuclear material, until its seven conditions are met, which Secretary of State Marco Rubio has called 'unacceptable.'",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~9h ago",
+      "empty": false,
+      "headline": "Congress presses for Jensen Huang testimony as US scrutinizes Nvidia chip flows to China",
+      "body": "Congressional committee chairs have asked Nvidia's former CEO to brief lawmakers before Thanksgiving on the company's safeguards against foreign espionage, and reports say Commerce Secretary Howard Lutnick had stalled a White House crackdown on firms rerouting Nvidia chips into China; Beijing's foreign ministry has dismissed the underlying spying allegations against a Huang associate as 'groundless speculation.'",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~8h ago",
+      "empty": false,
+      "headline": "Iran's Revolutionary Guard claims strikes on US-linked targets as Hormuz blockade grinds on",
+      "body": "Iran's Revolutionary Guard said it destroyed a US early-warning radar in Bahrain after a US strike on a telecom pole in the port of Sirik, and that a ship struck a mine in the Strait of Hormuz; the claims could not be independently verified. The US Navy continues enforcing its blockade of Iranian ports and says it has cleared shipping routes of mines, though neither side has launched a large-scale strike since summer.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "Air Force seeks ready-made AI software to fly autonomous spacecraft beyond the Moon",
+      "body": "A new request for information asks industry for 'flight-ready' AI and machine-learning software that can let spacecraft handle station-keeping, trajectory planning, and hazard avoidance on their own in the cislunar region, where communication delays make real-time ground control impractical; the Air Force says it wants existing products rather than a new research program, with white papers due December 4.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/11/10/air-force-wants-ai-for-cislunar-space-vehicles"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Meetings beta, bringing Claude into live video calls",
+      "body": "Claude can now join Google Meet calls as a visible participant on Team and Enterprise plans, answering questions aloud or in chat and turning the discussion into notes, action items, and editable documents as it happens; support for other video platforms is coming soon.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/10/anthropic-claude-meetings-knowledge-work"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Odeyingbo, Fields trending toward Week 11 return as Stevenson added to injury list",
+      "body": "Chicago's injury report lists cornerback Tyrique Stevenson (hand) as questionable for next week's game against New Orleans, while defensive end Dayo Odeyingbo and linebacker Tony Fields II are both targeting a return from injured reserve that week; receiver Luther Burden III and cornerback Malik Muhammad also remain questionable as they continue clearing their concussion and toe injuries.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/nfl/teams/chi/chicago-bears/injuries/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Sunday's Homestead-Miami season finale and the championship outcome fall within the 7-day spoiler window, and no other non-spoiler sponsorship, contract, or schedule news on Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Potomac Presbytery elders witness founding of Paraguay's first indigenous Presbyterian church body",
+      "body": "Six PCA elders from Potomac Presbytery were in Asunción as the Iglesia Presbiteriana Nacional de Paraguay was formalized, the culmination of a decade-long church-planting partnership that began with a 2015 General Assembly overture; the new denomination has 13 elders across five churches and is moderated by Roberto Maureira of Iglesia El Renuevo.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/paraguay-establishes-indigenous-presbyterian-church/"
+    }
+  ]
+}
