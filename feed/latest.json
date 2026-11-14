@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-14T02:32:07+00:00",
+ "generated": "2026-11-14T09:37:07+00:00",
  "count": 40,
- "withImage": 38,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -13,8 +13,6 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Hendrick Motorsports",
-  "Motorsport.com",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -22,26 +20,92 @@
  ],
  "items": [
   {
-   "title": "ADF seeks to defend Washington girls' sports measure, argues state cannot fully represent female athletes",
-   "url": "https://www.foxnews.com/outkick-sports/adf-seeks-defend-washington-girls-sports-measure-argues-state-cannot-fully-represent-female-athletes",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Female Athletes United seeks to join the defense of Washington Initiative 638 as an ACLU-backed lawsuit challenges the voter-approved girls sports law.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/WA-vancouver-speech-100526-2.jpg?ve=1&tl=1",
-   "age": "19m ago",
-   "published": "2026-11-14T02:12:14+00:00"
-  },
-  {
-   "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-   "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+   "title": "U.S. flights resume after FAA ground stop, but travel chaos continues",
+   "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551466-1794607964688-IMG_0070.jpg?v=1794609835&amp;w=1920&amp;h=1080",
+   "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551467-1794607964689-IMG_0076.jpg?v=1794609835&amp;w=1920&amp;h=1080",
+   "age": "10m ago",
+   "published": "2026-11-14T09:26:23+00:00"
+  },
+  {
+   "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
+   "url": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Northern Kentucky residents offer sharply divided takes on Thomas Massie s push to impeach Pete Hegseth over the Iran war and his true motives.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pete-hegseth-pointed-response.jpg?ve=1&tl=1",
+   "age": "36m ago",
+   "published": "2026-11-14T09:00:19+00:00"
+  },
+  {
+   "title": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
+   "url": "https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Voters in three states approved voter ID measures, while California rejected a billionaire wealth tax and Idaho turned down a proposal to expand abortion rights.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/vote-here-sign-madison-wis-scaled.jpg?ve=1&tl=1",
    "age": "37m ago",
-   "published": "2026-11-14T01:54:38+00:00"
+   "published": "2026-11-14T09:00:00+00:00"
+  },
+  {
+   "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+   "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551213-1794591477814-gettyimages-2304365626-media-notitle261113_np53Q.jpeg?v=1794591497&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-14T08:11:28+00:00"
+  },
+  {
+   "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+   "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108279135-17737747902026-03-17t190331z_1569419364_rc2i6kamf29y_rtrmadp_0_nvidia-gtc.jpeg?v=1794580129&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-14T07:08:45+00:00"
+  },
+  {
+   "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+   "url": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "President Trump endorsed Republican Bernadette Wilson for Alaska governor, but bitter GOP infighting and ranked-choice voting complicated the race to succeed Mike Dunlea…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jonathan-kreiss-tomkins-alaska.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-14T06:09:34+00:00"
+  },
+  {
+   "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+   "url": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108534376-1793994243435-gettyimages-2241473534-1020_24_9313-jgf-birds-hoatzin-ec.jpeg?v=1793994429&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-11-14T06:00:01+00:00"
+  },
+  {
+   "title": "Mike Evans ruled out, Trent Williams questionable as NFC-leading 49ers' injury concerns persist",
+   "url": "https://www.foxnews.com/outkick-sports/mike-evans-ruled-out-trent-williams-questionable-nfc-leading-49ers-injury-concerns-persist",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "San Francisco 49ers receiver Mike Evans will miss a third straight game, but Deebo Samuel and Keenan Allen are set to boost the receiving corps.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mike-evans-niners-nfl.jpg?ve=1&tl=1",
+   "age": "5h ago",
+   "published": "2026-11-14T03:45:06+00:00"
   },
   {
    "title": "NFL Week 10 injury report: Chiefs' Kenneth Walker has new groin injury, Patriots' A.J. Brown questionable",
@@ -51,19 +115,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/25/7ee4c0a6-d364-4bc9-b54c-2a854b173bad/kenneth-walker-chiefs.jpg",
-   "age": "56m ago",
+   "age": "8h ago",
    "published": "2026-11-14T01:35:38+00:00"
-  },
-  {
-   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-   "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108368185-1790352357255-gettyimages-2296459165-AFP_C9DQ94M.jpeg?v=1790352418&amp;w=1920&amp;h=1080",
-   "age": "57m ago",
-   "published": "2026-11-14T01:34:11+00:00"
   },
   {
    "title": "Vikings officially announce Kirk Cousins will start vs. Packers following trade deadline",
@@ -73,41 +126,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/11/13/5032e7c8-c27f-49a2-8912-03c8226f50bc/gettyimages-2304182986.jpg",
-   "age": "59m ago",
+   "age": "8h ago",
    "published": "2026-11-14T01:33:03+00:00"
-  },
-  {
-   "title": "Joe Rogan says podcasters have no business at Trump press conferences alongside real journalists",
-   "url": "https://www.foxnews.com/media/joe-rogan-says-podcasters-no-business-trump-press-conferences-alongside-real-journalists",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Joe Rogan rejected White House advisor David Sacks push to give podcasters front-row seats at press conferences, declaring we talk s--- and aren t journalists.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/joe-rogan-speaks.png?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-14T01:28:48+00:00"
-  },
-  {
-   "title": "NBA and NHL teams battle delays as nationwide FAA ground stop disrupts weekend sports travel",
-   "url": "https://www.foxnews.com/outkick-sports/nba-nhl-teams-scramble-nationwide-faa-ground-stop-disrupts-weekend-sports-travel",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Millions of people face travel chaos from the nationwide FAA ground stop as NBA and NHL teams including the Nets and San Jose Sharks were stranded.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faa-groundstop-fox-news-004.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-14T01:20:53+00:00"
-  },
-  {
-   "title": "SpaceX launches Starship in key test flight of massive rocket",
-   "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551491-1794611116156-gettyimages-2304487605-AFP_D7FF9MN.jpeg?v=1794611301&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-14T01:18:51+00:00"
   },
   {
    "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -117,7 +137,7 @@
    "topic": "ai",
    "summary": "One way or another, the company will get some more data on Saturday.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-14T00:49:13+00:00"
   },
   {
@@ -128,62 +148,29 @@
    "topic": "defense",
    "summary": "Why can't we hear the planes? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/TRACON.jpg?quality=85",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-14T00:31:04+00:00"
   },
   {
-   "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-   "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108550303-17945044092026-09-24t223553z_950093079_rc2xpnal0xd8_rtrmadp_0_usa-china.jpeg?v=1794584634&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-13T23:54:36+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Pacers-Knicks, UCLA-Illinois on Friday",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-pacers-knicks-ucla-illinois-friday/",
+   "title": "Week 10 NFL odds, picks, predictions: Computer model backs Bills and Texans",
+   "url": "https://www.cbssports.com/betting/news/nfl-odds-spreads-lines-picks-predictions-best-bets-week-10-2026/",
    "source": "CBS Sports NFL",
    "group": "CBS Sports NFL",
    "topic": "bears",
    "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-   "age": "2h ago",
-   "published": "2026-11-13T23:50:39+00:00"
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/13/0b5ba0fb-e8bd-4ba2-af0f-bb818b648aaa/josh-allen-buffalo-bills-imagn-images.jpg",
+   "age": "10h ago",
+   "published": "2026-11-13T23:31:04+00:00"
   },
   {
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets for Pacers-Knicks, Illinois-UCLA, college football",
-   "url": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-pacers-knicks-illinois-ucla-college-football-friday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "2h ago",
-   "published": "2026-11-13T23:45:46+00:00"
-  },
-  {
-   "title": "Bruce Arians says Andrew Luck had a rare skill that even Peyton Manning and Tom Brady lacked",
-   "url": "https://www.foxnews.com/outkick-sports/bruce-arians-andrew-luck-rare-skill-peyton-manning-tom-brady-lacked",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Andrew Luck s photographic memory stunned Bruce Arians during his 2012 rookie season, setting the Colts QB apart from Peyton Manning s approach.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arians-luck.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-11-13T23:45:30+00:00"
-  },
-  {
-   "title": "FAA orders third nationwide ground stop in its history",
+   "title": "FAA has lifted its third-ever nationwide ground stop",
    "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
    "source": "Ars Technica",
    "group": "Ars Technica",
    "topic": "ai",
-   "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+   "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-13T23:17:38+00:00"
   },
   {
@@ -194,7 +181,7 @@
    "topic": "ai",
    "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3403.jpg?resize=1200,925",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-13T23:00:00+00:00"
   },
   {
@@ -205,7 +192,7 @@
    "topic": "defense",
    "summary": "This is only the third time in history such an order has been given by the FAA. The post FAA Orders Ground Stop For All Flights Across The U.S. (Updated) appeared first …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/ATC-stopped-FAA.jpg?quality=85",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-13T22:54:03+00:00"
   },
   {
@@ -216,7 +203,7 @@
    "topic": "ai",
    "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-13T22:43:00+00:00"
   },
   {
@@ -227,7 +214,7 @@
    "topic": "defense",
    "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the T…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/1_Type-31-Graphic_2021.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-13T22:41:48+00:00"
   },
   {
@@ -238,7 +225,7 @@
    "topic": "defense",
    "summary": "From electronic warfare threats to coalition data sharing, discover how US and allied forces are strengthening the digital battlespace across the Indo-Pacific.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/TechNet-Indo-Pacific-featured-image-2026-2-1024x576.png",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-13T22:27:52+00:00"
   },
   {
@@ -249,7 +236,7 @@
    "topic": "ai",
    "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729-1152x648.jpg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-13T21:59:01+00:00"
   },
   {
@@ -260,7 +247,7 @@
    "topic": "ai",
    "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which ma…",
    "image": "https://techcrunch.com/wp-content/uploads/2024/10/alaska-airlines-san-francisco-Getty.jpg?resize=1200,800",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-13T21:44:38+00:00"
   },
   {
@@ -271,7 +258,7 @@
    "topic": "defense",
    "summary": "The Commerce Department effort was launched nearly a decade ago due to Defense Department concerns about the increasing drain on its space monitoring resources as commer…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2012/01/space-debris-aerosapce-corps-1326921318.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-13T21:29:36+00:00"
   },
   {
@@ -282,8 +269,19 @@
    "topic": "ai",
    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-13T21:20:47+00:00"
+  },
+  {
+   "title": "Week 10 underrated games: 3 games you should watch this week, from divisional matchups to first QB starts",
+   "url": "https://www.cbssports.com/nfl/news/week-10-underrated-games-browns-texans-raiders-seahawks/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/13/c9e4121c-2db2-4570-95b8-49430fcb7b67/texans-browns.jpg",
+   "age": "12h ago",
+   "published": "2026-11-13T21:05:09+00:00"
   },
   {
    "title": "Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force (Updated)",
@@ -293,7 +291,7 @@
    "topic": "defense",
    "summary": "The scare comes after some USAF aircraft were evacuated from England and the threat level at bases has been raised. The post Suspected Drones Over RAF Lakenheath Just Tr…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/RAF-LAKENHEATH.jpg?quality=85",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-13T20:45:42+00:00"
   },
   {
@@ -304,7 +302,7 @@
    "topic": "defense",
    "summary": "The traditional Navy peacoat will be no more. A new Navy uniform policy released on Friday removes the peacoat, acrylic V-neck sweater and dinner dress white jacket from…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/5097776-scaled.jpg",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-13T20:44:55+00:00"
   },
   {
@@ -315,8 +313,30 @@
    "topic": "defense",
    "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for submarines, said that the Navy faced roughly 780 days of maintenance delay for subs in FY26.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/PNSY-Hampton-superflood-basin-250308-N-QV316-1001-e1752845079436-1024x575.jpg",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-13T20:23:10+00:00"
+  },
+  {
+   "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+   "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than …",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/drogue-team.jpeg?resize=1200,900",
+   "age": "13h ago",
+   "published": "2026-11-13T20:07:24+00:00"
+  },
+  {
+   "title": "Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret",
+   "url": "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The Italian-developed LIVET counter-drone system combines Benelli shotguns, airburst ammo, AI-assisted target tracking, and remote operation. The post Beretta s New Coun…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/LIVET-C-UAS-SHOTGUN.jpg?quality=85",
+   "age": "14h ago",
+   "published": "2026-11-13T19:28:20+00:00"
   },
   {
    "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
@@ -326,7 +346,7 @@
    "topic": "defense",
    "summary": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities.",
    "image": "https://cdn.jwplayer.com/videos/ONvrwu8i-5ZsksG4j.mp4",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-13T19:16:42+00:00"
   },
   {
@@ -337,7 +357,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303965168.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-13T19:00:00+00:00"
   },
   {
@@ -348,7 +368,7 @@
    "topic": "defense",
    "summary": "The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore The Theodore Roosevelt Carrier Strike Group depa…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10085539-scaled.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-13T18:56:52+00:00"
   },
   {
@@ -359,7 +379,7 @@
    "topic": "defense",
    "summary": "The Air Force's new Force Design 2026 outlines a shift toward artificial intelligence, autonomy and integrated sensors to counter emerging threats.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/F-15-refueling-KC-135-2.jpg.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-13T18:43:45+00:00"
   },
   {
@@ -370,7 +390,7 @@
    "topic": "defense",
    "summary": "New drone innovations are highlighted in Part 2 of our Business of Defense series. Plus, a sneak peek into a new Smithsonian military aviation exhibit, and tips to avoid…",
    "image": "https://cdn.jwplayer.com/videos/gmTezszS-5ZsksG4j.mp4",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-11-13T18:14:51+00:00"
   },
   {
@@ -381,7 +401,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/Rendering-1-Credit_-Inference-scaled-1.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-11-13T18:00:00+00:00"
   },
   {
@@ -392,7 +412,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2297975388.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "15h ago",
+   "age": "22h ago",
    "published": "2026-11-13T11:00:00+00:00"
   },
   {
@@ -427,28 +447,6 @@
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/vmgsok1t5wkmimbxezmt.jpg",
    "age": "1d ago",
    "published": "2026-11-12T16:12:00+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports takes to the NASCAR Awards in Miami | Images",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDRhSFZMY0JCU3FrQjl3RUticU1sVVRWa01hYWpRNnhzWUZwQ3Y0emd1bFc0QzRhTlMtUklXeEpaR0VqSTJ2RWI1LVlzMjY3OFd1bzFiYkFobGo2T21KOXhfRHh4ZlNyV1ZwelZ0ZkZCY3plQ1FMY0U5dnRqYWhXSU53eWo4bUxsZHJpUUVLY3VtQWxxUTNrb1k5aTlIQ0NHTXNBdWd4UWZEUXkyemN4dnlFV2hQZ3lkR3RRUW1wN3htc09tQ3c?oc=5",
-   "source": "Hendrick Motorsports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-11-11T15:13:48+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports pokes fun at Denny Hamlin with Snickers photo: \"That was all Rick\"",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdEhORDFPeEYwRk8wOW9rdFBmQjE5enZUZ1RpSFVwcGo4ODJxbUVkdXM5WllkaUo5U0tFczJ6aGJTdC1KRF9oRkdjMzJJLXEzc005SWNJUmRPWTNHZUxNbFBQMm5ZZXowM243WUdCS1NZMGhhZTJNbllia2hkVVFtdGZMZjM2WG1VUDR0Wl9pb3c5SE52V053bVFBZ0w3dGplNWNnY3YwbElweXYwQXh2VnFXMDU0MFNMWUYw?oc=5",
-   "source": "Motorsport.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-11-10T19:09:30+00:00"
   },
   {
    "title": "10 Bears Things: Super Bowl? Here are 10 things for the Bears to fix during the bye week",
