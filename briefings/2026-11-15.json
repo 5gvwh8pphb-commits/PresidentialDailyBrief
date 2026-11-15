@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-15",
+  "dateLabel": "Sunday, November 15, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-15T15:59:51Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~2 days ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, November 13, 2026 close — the Nvidia-leadership selloff stretched into a second week as hot wholesale inflation data added pressure.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,561.67", "change": "-30.73", "changePct": "-0.40%", "sixMo": "+1.6%" },
+        { "name": "Dow", "close": "52,347.55", "change": "+50.46", "changePct": "+0.10%", "sixMo": "+5.3%" },
+        { "name": "Nasdaq", "close": "25,136.27", "change": "-229.82", "changePct": "-0.91%", "sixMo": "-4.8%" }
+      ],
+      "body": "Nvidia fell another 2% to a fresh 52-week low and AMD and Broadcom gave back some of the prior day's rally, while the dollar firmed after October wholesale inflation came in hotter than expected at a 6.5% annual rate; markets were closed over the weekend, leaving Friday's session as the most recent close.",
+      "source": "AFP",
+      "url": "https://www.france24.com/en/live-news/20261113-wall-street-stocks-mostly-lower-as-nvidia-extends-slump"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Zelensky warns a US-floated European security plan could play into Putin's hands",
+      "body": "Ukrainian President Volodymyr Zelensky told reporters Friday that Washington has for the first time asked whether Kyiv would cede Russian-held parts of the Donbas in exchange for NATO membership, and that a broader US-floated European security framework risks reopening border questions in Moscow's favor; he said any such changes must wait until after a ceasefire and reiterated Ukraine will not accept neutrality.",
+      "source": "AP via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/zelenskyy-says-a-new-european-security-framework-floated-by-u-s-could-benefit-putin"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~14h ago",
+      "empty": false,
+      "headline": "Taiwan logs fresh PLA aircraft and naval activity in latest 24-hour count",
+      "body": "Taiwan's Ministry of National Defense said Saturday it detected one PLA aircraft, eight PLA Navy vessels and three Chinese official ships operating around the island in its latest daily count, continuing the steady pattern of Chinese military activity near Taiwan this month.",
+      "source": "Taiwan Ministry of National Defense",
+      "url": "https://biztoc.com/x/95a8d9da98eef01f"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Destroyer USS Spruance returns to San Diego after year-long Iran deployment",
+      "body": "The guided-missile destroyer pulled into Naval Base San Diego on Friday with more than 300 sailors aboard, ending a roughly 12-month deployment its commanding officer called the longest a US warship has spent at sea since World War II; the ship earned a Presidential Unit Citation after disabling an Iranian blockade-running cargo vessel and shooting down Iranian drones and missiles while defending its carrier strike group.",
+      "source": "KPBS",
+      "url": "https://www.kpbs.org/news/military/2026/11/13/uss-spruance-back-in-san-diego-after-almost-a-year-of-fighting-in-iran"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Air Force declares B-21 Raider a validated weapons platform after first live weapons drop",
+      "body": "A B-21 test aircraft flew from Edwards Air Force Base and released a conventional weapon in a milestone the Air Force says confirms the stealth bomber's open-architecture design can integrate new munitions; officials credited thousands of hours of digital-twin simulation for speeding up the test, and the program remains on track to field aircraft at Ellsworth Air Force Base next year.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/11/13/air-force-b-21-raider-weapons-release-test"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~4h ago",
+      "empty": false,
+      "headline": "Anthropic's IPO order book runs about 6x oversubscribed ahead of Wednesday pricing",
+      "body": "Bloomberg reports demand for Anthropic's Nasdaq listing is running roughly six times the shares on offer even after a pullback in tech stocks ahead of the roadshow, with bankers prioritizing existing backers over new buyers; the $70-$78 per-share range would value the company between roughly $916 billion and $1.02 trillion, with pricing set for Wednesday and trading under ticker ANT starting Thursday.",
+      "source": "TradingKey via Bloomberg",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262304476-anthropic-ipo-ant-price-above-78-orders-six-times-november-14-2026-tradingkey"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Chicago's injury report hasn't changed since November 11 — Stevenson, Muhammad, Burden and Monangai are questionable for Sunday's game against New Orleans — and no new roster, contract, or front-office news from an allowlisted outlet emerged within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "NASCAR's Cup Series championship race remains within the 7-day spoiler window, and no other non-spoiler sponsorship, contract, or schedule news on Byron surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA news could be confirmed within the 72-hour window; the denomination's recent items on 2027 General Assembly preachers, Covenant Seminary's enrollment, and Kennedy Smartt's death all trace back to earlier in November or October and are already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
