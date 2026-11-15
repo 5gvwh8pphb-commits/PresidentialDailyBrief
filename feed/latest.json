@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T20:49:26+00:00",
+ "generated": "2026-11-15T00:29:39+00:00",
  "count": 40,
  "withImage": 40,
  "bearsDay": true,
@@ -12,7 +12,6 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News",
@@ -20,48 +19,92 @@
  ],
  "items": [
   {
-   "title": "Kim Kardashian poses in barely-there knit beach dress with fans calling her 'the most beautiful woman'",
-   "url": "https://www.foxnews.com/entertainment/kim-kardashian-poses-barely-there-knit-beach-dress-fans-calling-most-beautiful-woman",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Photos show Kim Kardashian posing in a barely-there green beach dress on Instagram as fans flooded the comments section with praise for the look.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/kim-kardashian-alls-fair.jpg?ve=1&tl=1",
-   "age": "10m ago",
-   "published": "2026-11-14T20:38:53+00:00"
+   "title": "Where was Nvidia’s security team?",
+   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspe…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+   "age": "21m ago",
+   "published": "2026-11-15T00:08:07+00:00"
   },
   {
-   "title": "Boise State head coach provides a refreshing, faith-filled College GameDay interview",
-   "url": "https://www.foxnews.com/outkick-sports/boise-state-head-coach-provides-refreshing-faith-filled-college-gameday-interview",
+   "title": "Tennessee Volunteers overcome sluggish offense, jet lag to take down Texas A&M and keep CFP hopes alive",
+   "url": "https://www.foxnews.com/outkick-sports/tennessee-volunteers-overcome-sluggish-offense-jet-lag-take-down-texas-am-keep-cfp-hopes-alive",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Spencer Danielson s faith-focused responses on ESPN College GameDay in Boise Idaho ignited the crowd and drew massive praise from fans online.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/spencer-danielson-boise-state-touchdown-celebration_001-scaled.jpg?ve=1&tl=1",
-   "age": "14m ago",
-   "published": "2026-11-14T20:35:03+00:00"
+   "summary": "The Tennessee Volunteers overcame an FAA ground stop delay and a quarterback injury to beat the Texas A M Aggies on the road to keep CFP hopes alive.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arion-carter-jeremiah-telander-tennessee-volunteers-fox-news_.jpg?ve=1&tl=1",
+   "age": "24m ago",
+   "published": "2026-11-15T00:05:06+00:00"
   },
   {
-   "title": "Kentucky coach Mark Pope gives insanely tone-deaf answer after Wildcats nearly lose as 30-point favorites",
-   "url": "https://www.foxnews.com/outkick-sports/kentucky-coach-mark-pope-tone-deaf-answer-wildcats-nearly-lose-30-point-favorites",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Mark Pope told Rupp Arena fans he hopes they had fun after Kentucky needed a near-miracle to escape Northern Arizona 78-77 as 30-point favorites.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/kentucky-wildcats-mark-pope.jpg?ve=1&tl=1",
-   "age": "29m ago",
-   "published": "2026-11-14T20:19:31+00:00"
+   "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+   "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551584-1794673404798-gettyimages-2304591847-AFP_D7GQ7BU.jpeg?v=1794673431&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-14T23:21:21+00:00"
   },
   {
-   "title": "Built from Scratch: How a meteorologist built a better umbrella",
-   "url": "https://www.foxnews.com/lifestyle/weatherman-umbrellas-meteorologist",
+   "title": "SpaceX catches upper stage of Starship rocket in historic first",
+   "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551593-17946919952026-11-14t212916z_181005512_rc2xnoanpi19_rtrmadp_0_space-spacex-starship.jpeg?v=1794692150&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-14T23:10:14+00:00"
+  },
+  {
+   "title": "Kathy Ireland’s husband escapes burning boat after engine explodes 20 miles offshore",
+   "url": "https://www.foxnews.com/entertainment/kathy-irelands-husband-escapes-burning-boat-after-engine-explodes-20-miles-offshore",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Rick Reichmuth, after 19 years as a Fox meteorologist, turned his sights on creating the perfect umbrella. Now, Weatherman sells five categories of umbrellas, ponchos, h…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/untitled-design-93.png?ve=1&tl=1",
-   "age": "32m ago",
-   "published": "2026-11-14T20:17:21+00:00"
+   "summary": "Kathy Ireland shared dramatic footage of husband Greg Olsen s boat engulfed in flames after an engine explosion 20 miles west of Santa Barbara.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kathy-ireland-gold.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-14T23:00:19+00:00"
+  },
+  {
+   "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
+   "url": "https://www.foxnews.com/outkick-sports/kai-trump-opens-relationship-tiger-woods-mothers-boyfriend-love-him-so-much",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kai Trump revealed how Tiger Woods helps with her golf game, calling her mother Vanessa Trump s boyfriend the best in a Golfweek interview.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/tiger-kai.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-14T22:50:07+00:00"
+  },
+  {
+   "title": "Fetterman warns there is no longer 'common ground' with far-left Democrats over Israel",
+   "url": "https://www.foxnews.com/media/fetterman-warns-no-longer-common-ground-far-left-democrats-israel",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. John Fetterman says he no longer sees any common ground with the far left on Israel and calls his 2028 primary challenger Ahmed Moor pro-Hamas.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fetterman-senate-fox-news.png?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-14T22:26:31+00:00"
+  },
+  {
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+   "age": "2h ago",
+   "published": "2026-11-14T21:41:22+00:00"
   },
   {
    "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
@@ -71,7 +114,7 @@
    "topic": "ai",
    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-   "age": "44m ago",
+   "age": "4h ago",
    "published": "2026-11-14T20:04:44+00:00"
   },
   {
@@ -82,7 +125,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/11/06/9a367262-7de5-4b6a-8d09-dc2a1e7a7905/jameson-williams-detroit-lions-imagn-images.jpg",
-   "age": "58m ago",
+   "age": "4h ago",
    "published": "2026-11-14T19:51:21+00:00"
   },
   {
@@ -93,7 +136,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/11/14/53c04337-768b-402e-9386-16289bf44bc8/nflrefhat.jpg",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-11-14T19:02:32+00:00"
   },
   {
@@ -104,19 +147,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/11/01/d122e2c7-b3f6-4650-ae1f-8e1b9108258c/patrick-mahomes-reuters.jpg",
-   "age": "2h ago",
+   "age": "5h ago",
    "published": "2026-11-14T18:34:35+00:00"
-  },
-  {
-   "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-   "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551584-1794673404798-gettyimages-2304591847-AFP_D7GQ7BU.jpeg?v=1794673431&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-14T18:32:47+00:00"
   },
   {
    "title": "One stat shows how Ben Johnson and the Bears are helping Caleb Williams thrive",
@@ -126,7 +158,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303783721.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-11-14T18:00:00+00:00"
   },
   {
@@ -137,7 +169,7 @@
    "topic": "ai",
    "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-11-14T18:00:00+00:00"
   },
   {
@@ -148,30 +180,8 @@
    "topic": "markets",
    "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
    "image": "https://image.cnbcfm.com/api/v1/image/108330861-1783348415168-gettyimages-2284894623-0d6a8687_71g2vgle.jpeg?v=1794673296&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "6h ago",
    "published": "2026-11-14T17:46:06+00:00"
-  },
-  {
-   "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-   "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024",
-   "age": "3h ago",
-   "published": "2026-11-14T17:45:04+00:00"
-  },
-  {
-   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-   "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-   "age": "3h ago",
-   "published": "2026-11-14T17:30:00+00:00"
   },
   {
    "title": "WCG Dynasty Fantasy Football: Updating the League",
@@ -181,7 +191,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304167781.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-11-14T17:00:00+00:00"
   },
   {
@@ -192,7 +202,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/27/89107d9d-d464-4e4b-8f77-aa4ebaeb9c01/george-kittle-49ers.jpg",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-11-14T16:58:45+00:00"
   },
   {
@@ -203,7 +213,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2292435716.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "5h ago",
+   "age": "9h ago",
    "published": "2026-11-14T15:00:00+00:00"
   },
   {
@@ -214,19 +224,19 @@
    "topic": "markets",
    "summary": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
    "image": "https://image.cnbcfm.com/api/v1/image/108222691-1762463897398-gettyimages-1823162638-AFP_34728P7.jpeg?v=1762463953&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
+   "age": "9h ago",
    "published": "2026-11-14T14:54:22+00:00"
   },
   {
-   "title": "Northwest Indiana teacher turns storm hardship into a lesson in preparedness for children",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f54bfc06-55ea-49bc-a033-2a4d0fa83b64.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Wendell Mosby isn’t trying to teach children to be afraid of the next disaster. He’s trying to teach them to be prepared for it through new activity book project.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/84/384f0f80-6b10-4007-bbe4-d2e397cf9e41/6af6331231b5c.image.jpg?resize=300%2C340",
-   "age": "7h ago",
-   "published": "2026-11-14T13:15:00+00:00"
+   "title": "Question of the Day: How far do Bears have to go for you to be satisfied?",
+   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/127612/question-of-the-day-how-far-do-bears-have-to-go-for-you-to-be-satisfied",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2300423363.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "9h ago",
+   "published": "2026-11-14T14:30:00+00:00"
   },
   {
    "title": "James Webb telescope finds ice older than the star it orbits",
@@ -236,7 +246,7 @@
    "topic": "ai",
    "summary": "Radiation and collisions reshape the planetary building materials.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-11-14T12:15:48+00:00"
   },
   {
@@ -247,19 +257,8 @@
    "topic": "ai",
    "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-11-14T12:05:51+00:00"
-  },
-  {
-   "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
-   "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loa…",
-   "image": "https://image.cnbcfm.com/api/v1/image/108313716-17800536432026-03-12t071236z_1666355942_rc27fjaubt68_rtrmadp_0_tech-robots-conflict-zones.jpeg?v=1780053657&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
-   "published": "2026-11-14T12:00:01+00:00"
   },
   {
    "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
@@ -269,7 +268,7 @@
    "topic": "ai",
    "summary": "One way or another, the company will get some more data on Saturday.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
-   "age": "20h ago",
+   "age": "23h ago",
    "published": "2026-11-14T00:49:13+00:00"
   },
   {
@@ -280,8 +279,19 @@
    "topic": "defense",
    "summary": "Why can't we hear the planes? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/TRACON.jpg?quality=85",
-   "age": "20h ago",
+   "age": "23h ago",
    "published": "2026-11-14T00:31:04+00:00"
+  },
+  {
+   "title": "FAA has lifted its third-ever nationwide ground stop",
+   "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg",
+   "age": "1d ago",
+   "published": "2026-11-13T23:17:38+00:00"
   },
   {
    "title": "FAA Orders Ground Stop For All Flights Across The U.S. (Updated)",
@@ -291,7 +301,7 @@
    "topic": "defense",
    "summary": "This is only the third time in history such an order has been given by the FAA. The post FAA Orders Ground Stop For All Flights Across The U.S. (Updated) appeared first …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/ATC-stopped-FAA.jpg?quality=85",
-   "age": "21h ago",
+   "age": "1d ago",
    "published": "2026-11-13T22:54:03+00:00"
   },
   {
@@ -302,7 +312,7 @@
    "topic": "defense",
    "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the T…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/1_Type-31-Graphic_2021.jpg",
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-11-13T22:41:48+00:00"
   },
   {
@@ -313,7 +323,7 @@
    "topic": "defense",
    "summary": "From electronic warfare threats to coalition data sharing, discover how US and allied forces are strengthening the digital battlespace across the Indo-Pacific.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/TechNet-Indo-Pacific-featured-image-2026-2-1024x576.png",
-   "age": "22h ago",
+   "age": "1d ago",
    "published": "2026-11-13T22:27:52+00:00"
   },
   {
@@ -324,7 +334,7 @@
    "topic": "defense",
    "summary": "The Commerce Department effort was launched nearly a decade ago due to Defense Department concerns about the increasing drain on its space monitoring resources as commer…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2012/01/space-debris-aerosapce-corps-1326921318.jpg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-11-13T21:29:36+00:00"
   },
   {
@@ -359,6 +369,17 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/PNSY-Hampton-superflood-basin-250308-N-QV316-1001-e1752845079436-1024x575.jpg",
    "age": "1d ago",
    "published": "2026-11-13T20:23:10+00:00"
+  },
+  {
+   "title": "Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret",
+   "url": "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The Italian-developed LIVET counter-drone system combines Benelli shotguns, airburst ammo, AI-assisted target tracking, and remote operation. The post Beretta s New Coun…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/LIVET-C-UAS-SHOTGUN.jpg?quality=85",
+   "age": "1d ago",
+   "published": "2026-11-13T19:28:20+00:00"
   },
   {
    "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
@@ -403,28 +424,6 @@
    "image": "https://cdn.jwplayer.com/videos/gmTezszS-5ZsksG4j.mp4",
    "age": "1d ago",
    "published": "2026-11-13T18:14:51+00:00"
-  },
-  {
-   "title": "Friday the 13th: Why we’re still afraid of a little bad luck",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_6e09f3ee-a943-4a90-878e-3e55d5f71fd2.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Superstition isn’t really about believing in bad luck. It’s about wanting a little insurance against it. And it's a very human instinct, especially on Friday the 13th.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/d1/fd17f7b7-c0c3-517e-b74b-adde2fc4662f/5fae9c987227e.image.jpg?resize=300%2C203",
-   "age": "1d ago",
-   "published": "2026-11-13T14:00:00+00:00"
-  },
-  {
-   "title": "Big dreams, early mornings: Valparaiso freshman chasing a football future | Davich",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c689febd-e231-4d67-894c-58a5a3ff990a.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Valparaiso freshman Lucas Stepherson dreams of someday playing football at Michigan’s legendary Big House. But he already understands big dreams require more than talent.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/42/6424e744-bae0-4081-bf15-ed2d8e91111b/6af5f075049ac.image.jpg?resize=300%2C273",
-   "age": "1d ago",
-   "published": "2026-11-13T13:15:00+00:00"
   },
   {
    "title": "Bears fans of the United Kingdom",
