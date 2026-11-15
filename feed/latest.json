@@ -1,44 +1,86 @@
 {
- "generated": "2026-11-15T00:29:39+00:00",
+ "generated": "2026-11-15T06:58:53+00:00",
  "count": 40,
  "withImage": 40,
- "bearsDay": true,
+ "bearsDay": false,
  "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
-  "USNI News",
-  "Windy City Gridiron"
+  "USNI News"
  ],
  "items": [
   {
-   "title": "Where was Nvidia’s security team?",
-   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspe…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
-   "age": "21m ago",
-   "published": "2026-11-15T00:08:07+00:00"
+   "title": "Could Budapest be the next digital nomad hotspot?",
+   "url": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108380938-1791539020604-coworking-3372e.jpg?v=1791539620&amp;w=1920&amp;h=1080",
+   "age": "58m ago",
+   "published": "2026-11-15T06:00:01+00:00"
   },
   {
-   "title": "Tennessee Volunteers overcome sluggish offense, jet lag to take down Texas A&M and keep CFP hopes alive",
-   "url": "https://www.foxnews.com/outkick-sports/tennessee-volunteers-overcome-sluggish-offense-jet-lag-take-down-texas-am-keep-cfp-hopes-alive",
+   "title": "Arch Manning turns Death Valley into LSU’s funeral as Texas buries Lane Kiffin’s CFP hopes",
+   "url": "https://www.foxnews.com/outkick-sports/arch-manning-overcomes-sloppy-performance-clutch-td-pass-lift-texas-lsu-crucial-matchup",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The Tennessee Volunteers overcame an FAA ground stop delay and a quarterback injury to beat the Texas A M Aggies on the road to keep CFP hopes alive.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arion-carter-jeremiah-telander-tennessee-volunteers-fox-news_.jpg?ve=1&tl=1",
-   "age": "24m ago",
-   "published": "2026-11-15T00:05:06+00:00"
+   "summary": "Lane Kiffin s $40 million LSU roster watched Arch Manning deliver a late touchdown pass to Raleek Brown that ended the Tigers playoff dreams.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/archmanninglsu1.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-15T04:57:46+00:00"
+  },
+  {
+   "title": "Masked dirt bike riders swarm SUV in brazen NYC street attack, sparking police crackdown",
+   "url": "https://www.foxnews.com/us/masked-dirt-bike-riders-swarm-suv-brazen-nyc-street-attack-sparking-police-crackdown",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Video captures masked dirt bike riders swarming and attacking an SUV on a busy Staten Island street as the NYPD warns that arrests are near.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/staten-island-dirt-bike-riders-attack-suv.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-15T04:55:51+00:00"
+  },
+  {
+   "title": "Benches clear in chaotic postgame brawl after Louisville Cardinals top North Carolina Tar Heels",
+   "url": "https://www.foxnews.com/outkick-sports/benches-clear-chaotic-postgame-brawl-louisville-cardinals-top-north-carolina-tar-heels",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "A bench-clearing brawl erupted after Louisville s late interception sealed a 16-14 college football win over Bill Belichick s North Carolina.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/unc-louisville-brawl.png?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-15T04:42:25+00:00"
+  },
+  {
+   "title": "Kenneth Walker III out against NFL rushing leader Bijan Robinson's Falcons, Patrick Mahomes off injury report",
+   "url": "https://www.foxnews.com/outkick-sports/kenneth-walker-iii-out-against-nfl-rushing-leader-bijan-robinson-falcons-patrick-mahomes-off-injury-report",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kenneth Walker III was ruled out with a groin injury, leaving rookie Emmett Johnson to lead the Kansas City Chiefs rushing attack on Sunday.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Kansas-City-Kenneth-Walker-III.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-15T04:10:17+00:00"
+  },
+  {
+   "title": "Georgia football three-star recruit Marcellus Young Casario dies after 'medical emergency,' high school says",
+   "url": "https://www.foxnews.com/outkick-sports/georgia-football-three-star-recruit-marcellus-young-casario-dies-after-medical-emergency-high-school-says",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Marcellus Young Casario, a Georgia Bulldogs defensive lineman commit, died after a sudden medical emergency at his Rabun Gap boarding school.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/georgia-football-helmets.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-15T03:50:34+00:00"
   },
   {
    "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
@@ -48,8 +90,30 @@
    "topic": "markets",
    "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
    "image": "https://image.cnbcfm.com/api/v1/image/108551584-1794673404798-gettyimages-2304591847-AFP_D7GQ7BU.jpeg?v=1794673431&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-14T23:21:21+00:00"
+   "age": "4h ago",
+   "published": "2026-11-15T02:53:59+00:00"
+  },
+  {
+   "title": "With Starship catch, SpaceX still shows it can dazzle the world",
+   "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "It felt like stepping into the future.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
+   "age": "6h ago",
+   "published": "2026-11-15T00:40:59+00:00"
+  },
+  {
+   "title": "Where was Nvidia’s security team?",
+   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspe…",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
+   "age": "6h ago",
+   "published": "2026-11-15T00:08:07+00:00"
   },
   {
    "title": "SpaceX catches upper stage of Starship rocket in historic first",
@@ -59,41 +123,8 @@
    "topic": "markets",
    "summary": "Starship Test Flight 15 marked the first time Elon Musk's company tried to catch both the booster and upper stage of the rocket.",
    "image": "https://image.cnbcfm.com/api/v1/image/108551593-17946919952026-11-14t212916z_181005512_rc2xnoanpi19_rtrmadp_0_space-spacex-starship.jpeg?v=1794692150&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "7h ago",
    "published": "2026-11-14T23:10:14+00:00"
-  },
-  {
-   "title": "Kathy Ireland’s husband escapes burning boat after engine explodes 20 miles offshore",
-   "url": "https://www.foxnews.com/entertainment/kathy-irelands-husband-escapes-burning-boat-after-engine-explodes-20-miles-offshore",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kathy Ireland shared dramatic footage of husband Greg Olsen s boat engulfed in flames after an engine explosion 20 miles west of Santa Barbara.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kathy-ireland-gold.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-14T23:00:19+00:00"
-  },
-  {
-   "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
-   "url": "https://www.foxnews.com/outkick-sports/kai-trump-opens-relationship-tiger-woods-mothers-boyfriend-love-him-so-much",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kai Trump revealed how Tiger Woods helps with her golf game, calling her mother Vanessa Trump s boyfriend the best in a Golfweek interview.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/tiger-kai.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-14T22:50:07+00:00"
-  },
-  {
-   "title": "Fetterman warns there is no longer 'common ground' with far-left Democrats over Israel",
-   "url": "https://www.foxnews.com/media/fetterman-warns-no-longer-common-ground-far-left-democrats-israel",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sen. John Fetterman says he no longer sees any common ground with the far left on Israel and calls his 2028 primary challenger Ahmed Moor pro-Hamas.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fetterman-senate-fox-news.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-11-14T22:26:31+00:00"
   },
   {
    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -103,7 +134,7 @@
    "topic": "ai",
    "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-14T21:41:22+00:00"
   },
   {
@@ -114,52 +145,8 @@
    "topic": "ai",
    "summary": "Even Elon Musk said the monthly fee is \"too high.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tesla-cybercab-getty.jpg?resize=1200,834",
-   "age": "4h ago",
+   "age": "10h ago",
    "published": "2026-11-14T20:04:44+00:00"
-  },
-  {
-   "title": "Lions vs. Patriots prediction: Detroit seeks fifth straight victory, while New England looks to bounce back",
-   "url": "https://www.cbssports.com/nfl/news/lions-vs-patriots-prediction-odds-where-to-watch-munich/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/06/9a367262-7de5-4b6a-8d09-dc2a1e7a7905/jameson-williams-detroit-lions-imagn-images.jpg",
-   "age": "4h ago",
-   "published": "2026-11-14T19:51:21+00:00"
-  },
-  {
-   "title": "FAA ground stop forces NFL to reshuffle officiating crews for Week 10",
-   "url": "https://www.cbssports.com/nfl/news/nfl-major-officiating-changes-week-10-faa-ground-stop/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/14/53c04337-768b-402e-9386-16289bf44bc8/nflrefhat.jpg",
-   "age": "5h ago",
-   "published": "2026-11-14T19:02:32+00:00"
-  },
-  {
-   "title": "NFL Week 10 last-minute picks, best bets: Chiefs, Steelers take advantage of schedule quirk",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-10-picks-best-bets-chiefs-steelers/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/01/d122e2c7-b3f6-4650-ae1f-8e1b9108258c/patrick-mahomes-reuters.jpg",
-   "age": "5h ago",
-   "published": "2026-11-14T18:34:35+00:00"
-  },
-  {
-   "title": "One stat shows how Ben Johnson and the Bears are helping Caleb Williams thrive",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/127634/one-stat-shows-how-ben-johnson-and-the-bears-are-helping-caleb-williams-thrive",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303783721.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "6h ago",
-   "published": "2026-11-14T18:00:00+00:00"
   },
   {
    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
@@ -169,7 +156,7 @@
    "topic": "ai",
    "summary": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-iPhone-Duo-closed-and-open.jpg?resize=1200,675",
-   "age": "6h ago",
+   "age": "12h ago",
    "published": "2026-11-14T18:00:00+00:00"
   },
   {
@@ -180,41 +167,19 @@
    "topic": "markets",
    "summary": "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
    "image": "https://image.cnbcfm.com/api/v1/image/108330861-1783348415168-gettyimages-2284894623-0d6a8687_71g2vgle.jpeg?v=1794673296&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-14T17:46:06+00:00"
   },
   {
-   "title": "WCG Dynasty Fantasy Football: Updating the League",
-   "url": "https://www.windycitygridiron.com/general/127623/wcg-dynasty-fantasy-football-updating-the-league",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304167781.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "7h ago",
-   "published": "2026-11-14T17:00:00+00:00"
-  },
-  {
-   "title": "NFL odds, picks: Brinson's Week 10 best bets, player props, anytime touchdown scorers for Sunday's matchups",
-   "url": "https://www.cbssports.com/betting/news/nfl-odds-picks-brinsons-week-10-best-bets-player-props-anytime-touchdown-scorers-for-sundays-matchups/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/27/89107d9d-d464-4e4b-8f77-aa4ebaeb9c01/george-kittle-49ers.jpg",
-   "age": "7h ago",
-   "published": "2026-11-14T16:58:45+00:00"
-  },
-  {
-   "title": "5 biggest needs for Bears in 2027 offseason",
-   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/127624/chicago-bears-needs-2027-nfl-draft",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2292435716.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-11-14T15:00:00+00:00"
+   "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+   "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2304506223.jpg?w=1024",
+   "age": "13h ago",
+   "published": "2026-11-14T17:45:04+00:00"
   },
   {
    "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
@@ -224,19 +189,19 @@
    "topic": "markets",
    "summary": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
    "image": "https://image.cnbcfm.com/api/v1/image/108222691-1762463897398-gettyimages-1823162638-AFP_34728P7.jpeg?v=1762463953&amp;w=1920&amp;h=1080",
-   "age": "9h ago",
+   "age": "16h ago",
    "published": "2026-11-14T14:54:22+00:00"
   },
   {
-   "title": "Question of the Day: How far do Bears have to go for you to be satisfied?",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/127612/question-of-the-day-how-far-do-bears-have-to-go-for-you-to-be-satisfied",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2300423363.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "9h ago",
-   "published": "2026-11-14T14:30:00+00:00"
+   "title": "Northwest Indiana teacher turns storm hardship into a lesson in preparedness for children",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f54bfc06-55ea-49bc-a033-2a4d0fa83b64.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Wendell Mosby isn’t trying to teach children to be afraid of the next disaster. He’s trying to teach them to be prepared for it through new activity book project.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/84/384f0f80-6b10-4007-bbe4-d2e397cf9e41/6af6331231b5c.image.jpg?resize=300%2C340",
+   "age": "17h ago",
+   "published": "2026-11-14T13:15:00+00:00"
   },
   {
    "title": "James Webb telescope finds ice older than the star it orbits",
@@ -246,7 +211,7 @@
    "topic": "ai",
    "summary": "Radiation and collisions reshape the planetary building materials.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1-989x648.jpeg",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-11-14T12:15:48+00:00"
   },
   {
@@ -257,7 +222,7 @@
    "topic": "ai",
    "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1-1152x640.jpg",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-11-14T12:05:51+00:00"
   },
   {
@@ -268,7 +233,7 @@
    "topic": "ai",
    "summary": "One way or another, the company will get some more data on Saturday.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-11-14T00:49:13+00:00"
   },
   {
@@ -279,7 +244,7 @@
    "topic": "defense",
    "summary": "Why can't we hear the planes? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/TRACON.jpg?quality=85",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-11-14T00:31:04+00:00"
   },
   {
@@ -426,37 +391,70 @@
    "published": "2026-11-13T18:14:51+00:00"
   },
   {
-   "title": "Bears fans of the United Kingdom",
-   "url": "https://www.chicagobears.com/news/bears-fans-of-the-united-kingdom",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yvwpwivr5utrvg95rdgs.png",
-   "age": "2d ago",
-   "published": "2026-11-12T17:02:00+00:00"
+   "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
+   "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The International Criminal Court will close investigations into Afghanistan that previously looked at alleged crimes by U.S. troops and focus only on actions of the Tali…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-13T164709Z_1_LYNXNPEMAC1IG_RTROPTP_4_AFGHANISTAN.jpg",
+   "age": "1d ago",
+   "published": "2026-11-13T17:55:28+00:00"
   },
   {
-   "title": "Mail from Madrid: Postcards with Charles 'Peanut' Tillman | Nov. 11",
-   "url": "https://www.chicagobears.com/news/mail-from-madrid-postcards-with-charles-peanut-tillman-nov-11",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ktfzrunxu7zhsbxqziq8.png",
-   "age": "2d ago",
-   "published": "2026-11-12T16:12:54+00:00"
+   "title": "Pentagon rebrands principal AI shop as ‘Super Intelligence Office’",
+   "url": "https://breakingdefense.com/2026/11/pentagon-rebrands-principle-ai-shop-as-super-intelligence-office/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The redesignation follows President Donald Trump’s push to replace references to artificial intelligence with “super intelligence” across the federal government.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220526_pentagon_AI_brain-e1653573962375-1024x576.png",
+   "age": "1d ago",
+   "published": "2026-11-13T17:00:00+00:00"
   },
   {
-   "title": "Postales desde Madrid con Charles \"Peanut\" Tillman | 11 de noviembre",
-   "url": "https://www.chicagobears.com/news/postales-desde-madrid-con-charles-peanut-tillman-11-de-noviembre",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/vmgsok1t5wkmimbxezmt.jpg",
+   "title": "Japan Pledges Drones, Coastal Defense Radar in Latest Philippine Defense Package",
+   "url": "https://news.usni.org/2026/11/13/japan-pledges-drones-coastal-defense-radar-in-latest-philippine-defense-package",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "Japan will transfer unmanned aerial vehicles and a coastal defense radar system to the Philippine military in Tokyo’s latest defense package to bolster Manila’s forces. …",
+   "image": "https://news.usni.org/wp-content/uploads/2023/11/BRP-Jose-Rizal-Japan-Maritime-Self-Defense-004-2.webp",
+   "age": "1d ago",
+   "published": "2026-11-13T16:48:57+00:00"
+  },
+  {
+   "title": "Friday the 13th: Why we’re still afraid of a little bad luck",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_6e09f3ee-a943-4a90-878e-3e55d5f71fd2.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Superstition isn’t really about believing in bad luck. It’s about wanting a little insurance against it. And it's a very human instinct, especially on Friday the 13th.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/d1/fd17f7b7-c0c3-517e-b74b-adde2fc4662f/5fae9c987227e.image.jpg?resize=300%2C203",
+   "age": "1d ago",
+   "published": "2026-11-13T14:00:00+00:00"
+  },
+  {
+   "title": "Big dreams, early mornings: Valparaiso freshman chasing a football future | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c689febd-e231-4d67-894c-58a5a3ff990a.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Valparaiso freshman Lucas Stepherson dreams of someday playing football at Michigan’s legendary Big House. But he already understands big dreams require more than talent.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/42/6424e744-bae0-4081-bf15-ed2d8e91111b/6af5f075049ac.image.jpg?resize=300%2C273",
+   "age": "1d ago",
+   "published": "2026-11-13T13:15:00+00:00"
+  },
+  {
+   "title": "A Hoosier kid’s journey from self-doubt to LGBTQ+ leadership in the workplace | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_a75a1fcc-5c06-46a5-9d39-c67e7eef3eae.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Roy Sexton's \"grand adventure\" from a closeted Indiana kid to a four-time nationally recognized LGBTQ+ role model is a powerful lesson in authenticity, courage and inclu…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/1a/31af350b-627b-45de-a17d-deed34f7d39e/6af4c19405def.image.jpg?resize=300%2C299",
    "age": "2d ago",
-   "published": "2026-11-12T16:12:00+00:00"
+   "published": "2026-11-12T13:15:00+00:00"
   }
  ]
 }
