@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T20:01:07+00:00",
+ "generated": "2026-11-16T00:04:02+00:00",
  "count": 40,
  "withImage": 40,
  "bearsDay": false,
@@ -10,54 +10,99 @@
   "CNBC",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "TechCrunch",
   "The War Zone",
   "USNI News"
  ],
  "items": [
   {
-   "title": "WWE's Brie Bella recalls Paige's surprise return at WrestleMania 42: 'Magical moment'",
-   "url": "https://www.foxnews.com/outkick-sports/wwe-brie-bella-recalls-paiges-surprise-return-wrestlemania-42-magical-moment",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Brie Bella recalls the magical moment when Paige replaced injured Nikki Bella at WrestleMania 42 to capture the WWE Women s Tag Team titles.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paige-brie-bella-wrestlemania-42.jpg?ve=1&tl=1",
-   "age": "45m ago",
-   "published": "2026-11-15T19:16:04+00:00"
+   "title": "Japan's economy unexpectedly contracts for the first time in a year as third-quarter GDP shrinks 0.1%",
+   "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794785920&amp;w=1920&amp;h=1080",
+   "age": "6m ago",
+   "published": "2026-11-15T23:57:19+00:00"
   },
   {
-   "title": "Taylor Swift’s husband Travis Kelce injures ankle against Falcons, returns to game",
-   "url": "https://www.foxnews.com/outkick-sports/taylor-swift-husband-travis-kelce-injures-ankle-falcons-questionable-return",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Travis Kelce limped off with a left ankle injury after a 23-yard catch from Patrick Mahomes as the Chiefs listed him questionable against the Falcons.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/travis-kelce-kansas-city-chiefs-injury.jpg?ve=1&tl=1",
-   "age": "46m ago",
-   "published": "2026-11-15T19:14:29+00:00"
-  },
-  {
-   "title": "Bessent blasts newspaper editor over 'reckless journalism' after Iran threats force move to military base",
-   "url": "https://www.foxnews.com/media/bessent-blasts-wall-street-journal-editor-in-chief-reckless-journalism-iran-threats-force-move",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Scott Bessent accuses a newspaper editor of reckless journalism after publishing a geolocated photo of his D.C. home, forcing a military base move.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Scott-Bessent-at-China-Relations-Gala.jpg?ve=1&tl=1",
-   "age": "55m ago",
-   "published": "2026-11-15T19:05:31+00:00"
-  },
-  {
-   "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-   "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
    "source": "TechCrunch",
    "group": "TechCrunch",
    "topic": "ai",
-   "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+   "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+   "age": "34m ago",
+   "published": "2026-11-15T23:30:00+00:00"
+  },
+  {
+   "title": "NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat",
+   "url": "https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "NTSB investigators detail warning whistles and emergency orders captured on the tanker s voyage recorder before the New Orleans riverboat collision.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riverboat-american-heritage-capsized-mississippi-river.jpg?ve=1&tl=1",
+   "age": "37m ago",
+   "published": "2026-11-15T23:26:19+00:00"
+  },
+  {
+   "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+   "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
+   "age": "52m ago",
+   "published": "2026-11-15T23:11:54+00:00"
+  },
+  {
+   "title": "Ashley Judd claims mom Naomi threatened to pull tuition over what she was learning and her lesbian professor",
+   "url": "https://www.foxnews.com/entertainment/ashley-judd-claims-mom-naomi-threatened-pull-tuition-over-what-she-learning-her-lesbian-professor",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Ashley Judd reveals Naomi Judd threatened to stop paying her tuition over a lesbian theologian professor on her new podcast A Table Prepared.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/judds.jpg?ve=1&tl=1",
    "age": "1h ago",
-   "published": "2026-11-15T18:29:14+00:00"
+   "published": "2026-11-15T23:00:13+00:00"
+  },
+  {
+   "title": "Kirk Cousins and the Minnesota Vikings are reunited and it feels so good after win over Green Bay Packers",
+   "url": "https://www.foxnews.com/outkick-sports/kirk-cousins-minnesota-vikings-reunited-feels-good-win-green-bay-packers",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kirk Cousins led the Minnesota Vikings to a dominant win at Lambeau Field, and his emotional reunion with Kevin O Connell raises a big question.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-minnesota-vikings-lambeau-field.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-15T22:56:14+00:00"
+  },
+  {
+   "title": "TNA's Trey Miguel working his way to Canada for Destination X title match despite travel chaos",
+   "url": "https://www.foxnews.com/outkick-sports/tna-trey-miguel-working-way-canada-destination-x-title-match-despite-travel-chaos",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Trey Miguel s TNA World Championship match against Leon Slater was in jeopardy after Friday s nationwide ground stop stranded him in transit.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trey-miguel-jason-hotch-wrestling-ottawa.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-15T22:46:15+00:00"
+  },
+  {
+   "title": "USC great Keyshawn Johnson calls for Lincoln Riley's job: 'Time to find somebody else'",
+   "url": "https://www.foxnews.com/outkick-sports/usc-great-keyshawn-johnson-calls-lincoln-riley-job-time-find-somebody-else",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Keyshawn Johnson posted a frustrated video calling for USC to fire Lincoln Riley after the Trojans 27-13 loss to Indiana knocked them from CFP contention.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/keyshawn-johnson-usc-notre-dame-fox-news_.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-15T22:43:33+00:00"
   },
   {
    "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
@@ -68,29 +113,51 @@
    "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
    "image": "https://image.cnbcfm.com/api/v1/image/108551632-1794744176028-gettyimages-2304485779-ag_groundstop_02.jpeg?v=1794744200&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-11-15T18:22:23+00:00"
+   "published": "2026-11-15T22:33:26+00:00"
   },
   {
-   "title": "Duffy: Investigators examining 2 routers after nationwide FAA ground stop, no signs of foreign cyberattack",
-   "url": "https://www.foxnews.com/us/duffy-investigators-examining-2-routers-nationwide-faa-ground-stop-no-signs-foreign-cyberattack",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Transportation Secretary Sean Duffy says two routers from FAA facilities in Texas and Arkansas are undergoing deep diagnostics after the ground stop.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sean-duffy-bryan-bedford-transportation-presser.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-15T18:20:11+00:00"
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+   "age": "2h ago",
+   "published": "2026-11-15T21:56:35+00:00"
   },
   {
-   "title": "Wyatt Hammond makes kayak fishing history with third straight national title and KBF record",
-   "url": "https://www.foxnews.com/outkick-sports/wyatt-hammond-makes-kayak-fishing-history-third-straight-national-title-kbf-record",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Wyatt Hammond set a new KBF record with 310 combined inches across three days while claiming his fourth national title and Angler of the Year.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/wyatt-hammond-kayak-fishing.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-15T18:17:58+00:00"
+   "title": "‘Davidson Window’ Admiral Hopes He Was Wrong On China’s Ability To Take Taiwan By 2027",
+   "url": "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The time frame Adm. Philip Davidson famously declared China could be ready to invade Taiwan is about to arrive. The post ‘Davidson Window Admiral Hopes He Was Wrong On C…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/China-Beach-landing-3.jpg?quality=85",
+   "age": "2h ago",
+   "published": "2026-11-15T21:44:47+00:00"
+  },
+  {
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions …",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
+   "age": "3h ago",
+   "published": "2026-11-15T20:20:57+00:00"
+  },
+  {
+   "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+   "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+   "age": "5h ago",
+   "published": "2026-11-15T18:29:14+00:00"
   },
   {
    "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
@@ -100,7 +167,7 @@
    "topic": "markets",
    "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
    "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "5h ago",
    "published": "2026-11-15T18:10:18+00:00"
   },
   {
@@ -111,7 +178,7 @@
    "topic": "ai",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
-   "age": "2h ago",
+   "age": "6h ago",
    "published": "2026-11-15T17:05:00+00:00"
   },
   {
@@ -122,30 +189,19 @@
    "topic": "markets",
    "summary": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
    "image": "https://image.cnbcfm.com/api/v1/image/108545248-1794226594022-108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpg?v=1794226610&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
+   "age": "7h ago",
    "published": "2026-11-15T16:56:40+00:00"
   },
   {
-   "title": "The tech products we enthusiastically recommend this holiday season",
-   "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1350065490.jpg?resize=1200,800",
-   "age": "4h ago",
-   "published": "2026-11-15T16:00:00+00:00"
-  },
-  {
-   "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-   "url": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108116571-1742136946876-gettyimages-1242853588-AFP_32HF6PF.jpeg?v=1742136964&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
-   "published": "2026-11-15T13:00:02+00:00"
+   "title": "When a voter can’t sign | Porter County absentee ballot dispute raises questions | Davich",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_ef3d8a83-ed95-4af0-9fb3-265a604b3e64.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "A husband’s effort to sign a ballot for his Alzheimer’s-stricken wife ended with her absentee ballot rejected, prompting an explanation about voting rights for people wi…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/8e/58eafacf-7930-47dd-8979-cf01e9281267/6af792b9dd8bb.image.jpg?resize=300%2C200",
+   "age": "10h ago",
+   "published": "2026-11-15T13:15:00+00:00"
   },
   {
    "title": "How the world’s fires changed while humanity hit pause",
@@ -155,7 +211,7 @@
    "topic": "ai",
    "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
-   "age": "7h ago",
+   "age": "11h ago",
    "published": "2026-11-15T12:07:34+00:00"
   },
   {
@@ -166,8 +222,19 @@
    "topic": "markets",
    "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
    "image": "https://image.cnbcfm.com/api/v1/image/108551525-1794626973698-gettyimages-2297195304-AFP_C9PF6JT.jpeg?v=1794627031&amp;w=1920&amp;h=1080",
-   "age": "8h ago",
+   "age": "12h ago",
    "published": "2026-11-15T12:00:01+00:00"
+  },
+  {
+   "title": "GEORGE GRENCHIK | Perhaps 'wave' election will become inflection point",
+   "url": "https://nwitimes.com/news/article_31cac000-b43e-4eee-ade1-3140d4b61df5.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "GEORGE GRENCHIK: Our up-the-road neighbors, the Milwaukee Brewers are World Series champions for the first time ever.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
+   "age": "12h ago",
+   "published": "2026-11-15T12:00:00+00:00"
   },
   {
    "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
@@ -177,30 +244,19 @@
    "topic": "ai",
    "summary": "It felt like stepping into the future.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
-   "age": "19h ago",
+   "age": "23h ago",
    "published": "2026-11-15T00:40:59+00:00"
   },
   {
-   "title": "Where was Nvidia’s security team?",
-   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspe…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-1.jpg?w=1024",
-   "age": "19h ago",
-   "published": "2026-11-15T00:08:07+00:00"
-  },
-  {
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-   "age": "22h ago",
-   "published": "2026-11-14T21:41:22+00:00"
+   "title": "Northwest Indiana teacher turns storm hardship into a lesson in preparedness for children",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f54bfc06-55ea-49bc-a033-2a4d0fa83b64.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Wendell Mosby isn’t trying to teach children to be afraid of the next disaster. He’s trying to teach them to be prepared for it through new activity book project.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/84/384f0f80-6b10-4007-bbe4-d2e397cf9e41/6af6331231b5c.image.jpg?resize=300%2C340",
+   "age": "1d ago",
+   "published": "2026-11-14T13:15:00+00:00"
   },
   {
    "title": "James Webb telescope finds ice older than the star it orbits",
@@ -225,17 +281,6 @@
    "published": "2026-11-14T12:05:51+00:00"
   },
   {
-   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-   "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "One way or another, the company will get some more data on Saturday.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg",
-   "age": "1d ago",
-   "published": "2026-11-14T00:49:13+00:00"
-  },
-  {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
    "url": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-215",
    "source": "The War Zone",
@@ -254,7 +299,7 @@
    "topic": "defense",
    "summary": "This is only the third time in history such an order has been given by the FAA. The post FAA Orders Ground Stop For All Flights Across The U.S. (Updated) appeared first …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/ATC-stopped-FAA.jpg?quality=85",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-13T22:54:03+00:00"
   },
   {
@@ -265,7 +310,7 @@
    "topic": "defense",
    "summary": "PARIS — Tucked in a dark corner of a convention center in the French suburbs, a British company could hold the next design for America’s newest warship. A model of the T…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/1_Type-31-Graphic_2021.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-13T22:41:48+00:00"
   },
   {
@@ -276,7 +321,7 @@
    "topic": "defense",
    "summary": "From electronic warfare threats to coalition data sharing, discover how US and allied forces are strengthening the digital battlespace across the Indo-Pacific.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/TechNet-Indo-Pacific-featured-image-2026-2-1024x576.png",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-13T22:27:52+00:00"
   },
   {
@@ -287,7 +332,7 @@
    "topic": "defense",
    "summary": "The Commerce Department effort was launched nearly a decade ago due to Defense Department concerns about the increasing drain on its space monitoring resources as commer…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2012/01/space-debris-aerosapce-corps-1326921318.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-13T21:29:36+00:00"
   },
   {
@@ -298,7 +343,7 @@
    "topic": "defense",
    "summary": "The scare comes after some USAF aircraft were evacuated from England and the threat level at bases has been raised. The post Suspected Drones Over RAF Lakenheath Just Tr…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/RAF-LAKENHEATH.jpg?quality=85",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-13T20:45:42+00:00"
   },
   {
@@ -309,7 +354,7 @@
    "topic": "defense",
    "summary": "The traditional Navy peacoat will be no more. A new Navy uniform policy released on Friday removes the peacoat, acrylic V-neck sweater and dinner dress white jacket from…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/5097776-scaled.jpg",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-13T20:44:55+00:00"
   },
   {
@@ -320,19 +365,8 @@
    "topic": "defense",
    "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for submarines, said that the Navy faced roughly 780 days of maintenance delay for subs in FY26.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/PNSY-Hampton-superflood-basin-250308-N-QV316-1001-e1752845079436-1024x575.jpg",
-   "age": "1d ago",
-   "published": "2026-11-13T20:23:10+00:00"
-  },
-  {
-   "title": "Beretta’s New Counter-Drone System Packs Eight Benelli M4 Shotguns Onto A Remote Turret",
-   "url": "https://www.twz.com/land/berettas-new-counter-drone-system-packs-eight-benelli-m4-shotguns-onto-a-remote-turret",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Italian-developed LIVET counter-drone system combines Benelli shotguns, airburst ammo, AI-assisted target tracking, and remote operation. The post Beretta s New Coun…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/LIVET-C-UAS-SHOTGUN.jpg?quality=85",
    "age": "2d ago",
-   "published": "2026-11-13T19:28:20+00:00"
+   "published": "2026-11-13T20:23:10+00:00"
   },
   {
    "title": "Inside MSI’s Next Generation of Counter-Drone Defense",
@@ -379,17 +413,6 @@
    "published": "2026-11-13T18:14:51+00:00"
   },
   {
-   "title": "Destroyer That Has Been Deployed Longer Than Any Since WWII Returns Home",
-   "url": "https://www.twz.com/sea/destroyer-that-has-been-deployed-longer-than-any-since-wwii-returns-home",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "USS Spruance and USS Michael Murphy remained in the Middle East after the USS Abraham Lincoln left, resulting in historic deployments. The post Destroyer That Has Been D…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/USS-Spruance-Returns-Home-To-San-Diego-After-Record-Setting-Deployment.jpg?quality=85",
-   "age": "2d ago",
-   "published": "2026-11-13T18:03:06+00:00"
-  },
-  {
    "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
    "url": "https://www.defensenews.com/global/mideast-africa/2026/11/13/judges-close-part-of-icc-afghanistan-investigations-that-could-look-at-us-troops/",
    "source": "Defense News",
@@ -399,17 +422,6 @@
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-13T164709Z_1_LYNXNPEMAC1IG_RTROPTP_4_AFGHANISTAN.jpg",
    "age": "2d ago",
    "published": "2026-11-13T17:55:28+00:00"
-  },
-  {
-   "title": "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget",
-   "url": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Italy has hiked its spending on the GCAP fighter this year while reducing funding for new army tanks and fighting vehicles, newly released spending documents have reveal…",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2286551815.jpg",
-   "age": "2d ago",
-   "published": "2026-11-13T17:04:55+00:00"
   },
   {
    "title": "Pentagon rebrands principal AI shop as ‘Super Intelligence Office’",
@@ -434,26 +446,15 @@
    "published": "2026-11-13T16:48:57+00:00"
   },
   {
-   "title": "Hermeus recruits Northrop Grumman to Quarterhorse drone program",
-   "url": "https://breakingdefense.com/2026/11/hermeus-recruits-northrop-grumman-to-quarterhorse-drone-program/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The defense giant will supply mission systems for Hermeus’ Quarterhorse unmanned aircraft, adding a new partner among a team of industry heavyweights.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/Hermeus-mk-2.1-1024x576.jpg",
+   "title": "Friday the 13th: Why we’re still afraid of a little bad luck",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_6e09f3ee-a943-4a90-878e-3e55d5f71fd2.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Superstition isn’t really about believing in bad luck. It’s about wanting a little insurance against it. And it's a very human instinct, especially on Friday the 13th.",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/d1/fd17f7b7-c0c3-517e-b74b-adde2fc4662f/5fae9c987227e.image.jpg?resize=300%2C203",
    "age": "2d ago",
-   "published": "2026-11-13T16:05:00+00:00"
-  },
-  {
-   "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
-   "url": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "ARLINGTON, Va. — The next American nuclear attack submarine design will be faster, take less time to repair and serve as a mothership for a constellation of undersea dro…",
-   "image": "https://news.usni.org/wp-content/uploads/2023/10/8057123-scaled-3.jpg",
-   "age": "2d ago",
-   "published": "2026-11-12T23:00:43+00:00"
+   "published": "2026-11-13T14:00:00+00:00"
   }
  ]
 }
