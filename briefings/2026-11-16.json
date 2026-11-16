@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-16",
+  "dateLabel": "Monday, November 16, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-16T19:00:43Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~3 days ago",
+      "empty": false,
+      "kicker": "Weekly market scorecard",
+      "subline": "Friday, November 13, 2026 close — stocks rebounded for the week even as Nvidia extended its slide to a fresh 52-week low.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,561.67", "change": "+2.5%", "heroLabel": "week", "sixMo": "+2.1%" },
+        { "name": "Dow", "close": "52,347.55", "change": "+2.1%", "heroLabel": "week", "sixMo": "+5.7%" },
+        { "name": "Nasdaq", "close": "25,136.27", "change": "+2.3%", "heroLabel": "week", "sixMo": "-4.2%" }
+      ],
+      "body": "Markets clawed back most of the prior week's AI-driven selloff even though Nvidia fell again to a 52-week low following Jensen Huang's ouster; hot October wholesale inflation data added late-week pressure, and markets were closed over the weekend before Monday's session, with Nvidia's earnings and Anthropic's IPO pricing both ahead this week.",
+      "source": "AFP",
+      "url": "https://www.france24.com/en/live-news/20261113-wall-street-stocks-mostly-lower-as-nvidia-extends-slump"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~3h ago",
+      "empty": false,
+      "headline": "Trump departs for Asia trip culminating in first Trump-Xi-Putin trilateral meeting",
+      "body": "President Trump left Monday for a multi-day Asia trip that takes him to the ASEAN summit in the Philippines before a trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin on the sidelines of the APEC summit in Shenzhen on Thursday; the White House says the first-of-its-kind three-way meeting will focus on reducing nuclear weapons proliferation, and Trump said he also hopes to meet North Korea's Kim Jong Un while in China.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Taiwan coast guard tracks Chinese ship after radio standoff over sovereignty claims east of island",
+      "body": "Taiwan's Coast Guard Administration said its cutter Hualien confronted a Chinese coast guard ship about 40 nautical miles southeast of Orchid Island on November 12, with each side broadcasting rival sovereignty claims over the radio; Taiwan said Saturday it will keep monitoring Chinese vessels in the area and called the patrol a violation of the UN Convention on the Law of the Sea.",
+      "source": "Focus Taiwan",
+      "url": "https://focustaiwan.tw/politics/202611140008"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1h ago",
+      "empty": false,
+      "headline": "Iran claims Strait of Hormuz shipping lanes are mined; CENTCOM says routes remain clear",
+      "body": "Iran's Revolutionary Guard was cited by Saudi-linked Asharq News as claiming the Strait of Hormuz's southern shipping lanes, which the US calls safe, are now 'fully mined,' though the Guard issued no statement of its own; US Central Command chief Adm. Brad Cooper has said American forces cleared the main transit routes of Iranian mines and remain 'highly vigilant' there.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Pentagon names seven companies for December counter-drone laser 'shoot-off'",
+      "body": "Joint Interagency Task Force 401 selected Allen Control Systems, Aurelius Systems, BlueHalo, Kord Technologies, IPG Photonics, Thor Dynamics and Yrikka to demonstrate high-energy laser weapons against drone targets at Dugway Proving Ground, Utah starting mid-December, with an eye toward quickly issuing purchase orders for systems that perform well.",
+      "source": "DefenseScoop",
+      "url": "https://defensescoop.com/2026/11/16/counter-drone-high-energy-laser-shoot-off/"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1h ago",
+      "empty": false,
+      "headline": "Altimeter's Brad Gerstner to invest $5 billion in Anthropic's IPO, 5x his biggest-ever bet",
+      "body": "Gerstner told CNBC his firm plans to put $5 billion into Anthropic's IPO, calling the AI company a long-term 'cornerstone compounder'; Anthropic is expected to price around $70-$78 a share and list on Nasdaq Thursday at roughly a $1.4 trillion valuation, which would make it the first major AI lab to go public, ahead of OpenAI.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Chicago's injury report is unchanged since November 11 — Stevenson, Muhammad, Burden and Monangai remain questionable, with Odeyingbo and Fields still trending toward a return from IR — and no new roster, contract, or front-office news from an allowlisted outlet emerged within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's season finale at Homestead-Miami was more than a week ago and falls outside this beat's 72-hour recency window, and no new non-spoiler sponsorship, contract, or schedule news on Byron surfaced within that window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA news could be confirmed within the 72-hour window; a November 8 fire that damaged Covenant College's Sanderson Hall and recent items on the stated clerk and 2027 General Assembly plans all trace back to November 10 or earlier and are already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
