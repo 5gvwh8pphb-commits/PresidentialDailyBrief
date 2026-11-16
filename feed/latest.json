@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-16T00:04:02+00:00",
+ "generated": "2026-11-16T06:54:29+00:00",
  "count": 40,
  "withImage": 40,
  "bearsDay": false,
- "nascarDay": false,
+ "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -17,15 +17,114 @@
  ],
  "items": [
   {
-   "title": "Japan's economy unexpectedly contracts for the first time in a year as third-quarter GDP shrinks 0.1%",
-   "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+   "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
+   "url": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551661-1794785886757-gettyimages-2288262163-Stanislav-Kogiku-1440900.jpeg?v=1794785920&amp;w=1920&amp;h=1080",
-   "age": "6m ago",
-   "published": "2026-11-15T23:57:19+00:00"
+   "summary": "Europe's banks are using AI to cut routine work, redeploy staff and hire more technical talent.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108181056-1754310162874-gettyimages-2226898553-redstill25071501.jpeg?v=1760127393&amp;w=1920&amp;h=1080",
+   "age": "33m ago",
+   "published": "2026-11-16T06:20:55+00:00"
+  },
+  {
+   "title": "Aaron Rodgers, Steelers totally tank in primetime as Cincinnati Bengals roll to 38-18 Scorigami win",
+   "url": "https://www.foxnews.com/outkick-sports/aaron-rodgers-steelers-tank-primetime-cincinnati-bengals-roll-38-18-scorigami-win",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Joe Burrow threw for 409 yards and four touchdowns while Ja Marr Chase hauled in 231 yards as the Bengals demolished the Steelers 38-18.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aaron-rodgers-steelers-bengals-snf.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-16T05:08:40+00:00"
+  },
+  {
+   "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+   "url": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551686-1794792619751-gettyimages-2304231619-AFP_D79R6QM.jpeg?v=1794792633&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-16T04:34:00+00:00"
+  },
+  {
+   "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+   "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551664-1794786973563-gettyimages-2299353111-img_6622.jpeg?v=1794787492&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-11-16T03:53:59+00:00"
+  },
+  {
+   "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+   "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108354033-1787679027673-gettyimages-2266718139-NVIDIA_GTC.jpeg?v=1787679052&amp;w=1920&amp;h=1080",
+   "age": "3h ago",
+   "published": "2026-11-16T03:35:09+00:00"
+  },
+  {
+   "title": "49ers fans involved in second consecutive week of fighting after Cowboys game at AT&T Stadium",
+   "url": "https://www.foxnews.com/outkick-sports/49ers-fans-involved-second-consecutive-week-fighting-after-cowboys-game-att-stadium",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Video captures a massive brawl between San Francisco 49ers and Dallas Cowboys fans at Texas Live, where police scrambled to break up the chaos.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/49ers-fans.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-16T03:33:50+00:00"
+  },
+  {
+   "title": "49ers offense puts up over 580 yards against a bad Cowboys defense behind a Christian McCaffrey masterclass",
+   "url": "https://www.foxnews.com/outkick-sports/49ers-offense-580-yards-bad-cowboys-defense-christian-mccaffrey-masterclass",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Kaelon Black s bulldozing TD and Deebo Samuel s 70-yard reverse blew open a tight game as the San Francisco 49ers torched Dallas for 584 yards.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deebo-samuel-touchdown-cowboys-49ers.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-16T02:44:53+00:00"
+  },
+  {
+   "title": "Mike Vrabel doesn't want Patriots to 'b---h and complain' but he b----es and complains about his players a lot",
+   "url": "https://www.foxnews.com/outkick-sports/mike-vrabel-doesnt-want-patriots-bitch-complain-bitches-complains-players",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Mike Vrabel says winners don t complain, but his post-loss press conference in Munich told a very different story after the Patriots 35-10 defeat.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/nfl-patriots-mike-vrabel-012626-1.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-16T02:33:59+00:00"
+  },
+  {
+   "title": "Young paraglider dies after reported emergency sends him crashing into field during Illinois flight",
+   "url": "https://www.foxnews.com/us/young-paraglider-dies-after-reported-emergency-sends-him-crashing-field-during-illinois-flight",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Officials are investigating a fatal paragliding incident involving a 21-year-old man from a Chicago suburb who shared his aerial adventures and daring stunts online.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paraglider-1.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-16T02:33:45+00:00"
+  },
+  {
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Apple's new app for a study will answer everyday medical questions",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Apple-Health-AI-Usage-Study.jpg?resize=1200,800",
+   "age": "5h ago",
+   "published": "2026-11-16T01:30:00+00:00"
   },
   {
    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -35,19 +134,8 @@
    "topic": "ai",
    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
-   "age": "34m ago",
+   "age": "7h ago",
    "published": "2026-11-15T23:30:00+00:00"
-  },
-  {
-   "title": "NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat",
-   "url": "https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "NTSB investigators detail warning whistles and emergency orders captured on the tanker s voyage recorder before the New Orleans riverboat collision.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riverboat-american-heritage-capsized-mississippi-river.jpg?ve=1&tl=1",
-   "age": "37m ago",
-   "published": "2026-11-15T23:26:19+00:00"
   },
   {
    "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
@@ -57,63 +145,8 @@
    "topic": "ai",
    "summary": "This was the first total mission failure in United Launch Alliance's 20-year history.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790934-1152x648.jpg",
-   "age": "52m ago",
+   "age": "7h ago",
    "published": "2026-11-15T23:11:54+00:00"
-  },
-  {
-   "title": "Ashley Judd claims mom Naomi threatened to pull tuition over what she was learning and her lesbian professor",
-   "url": "https://www.foxnews.com/entertainment/ashley-judd-claims-mom-naomi-threatened-pull-tuition-over-what-she-learning-her-lesbian-professor",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ashley Judd reveals Naomi Judd threatened to stop paying her tuition over a lesbian theologian professor on her new podcast A Table Prepared.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/judds.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-15T23:00:13+00:00"
-  },
-  {
-   "title": "Kirk Cousins and the Minnesota Vikings are reunited and it feels so good after win over Green Bay Packers",
-   "url": "https://www.foxnews.com/outkick-sports/kirk-cousins-minnesota-vikings-reunited-feels-good-win-green-bay-packers",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Kirk Cousins led the Minnesota Vikings to a dominant win at Lambeau Field, and his emotional reunion with Kevin O Connell raises a big question.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-minnesota-vikings-lambeau-field.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-15T22:56:14+00:00"
-  },
-  {
-   "title": "TNA's Trey Miguel working his way to Canada for Destination X title match despite travel chaos",
-   "url": "https://www.foxnews.com/outkick-sports/tna-trey-miguel-working-way-canada-destination-x-title-match-despite-travel-chaos",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Trey Miguel s TNA World Championship match against Leon Slater was in jeopardy after Friday s nationwide ground stop stranded him in transit.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trey-miguel-jason-hotch-wrestling-ottawa.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-15T22:46:15+00:00"
-  },
-  {
-   "title": "USC great Keyshawn Johnson calls for Lincoln Riley's job: 'Time to find somebody else'",
-   "url": "https://www.foxnews.com/outkick-sports/usc-great-keyshawn-johnson-calls-lincoln-riley-job-time-find-somebody-else",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Keyshawn Johnson posted a frustrated video calling for USC to fire Lincoln Riley after the Trojans 27-13 loss to Indiana knocked them from CFP contention.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/keyshawn-johnson-usc-notre-dame-fox-news_.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-15T22:43:33+00:00"
-  },
-  {
-   "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
-   "url": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551632-1794744176028-gettyimages-2304485779-ag_groundstop_02.jpeg?v=1794744200&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-15T22:33:26+00:00"
   },
   {
    "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
@@ -123,7 +156,7 @@
    "topic": "ai",
    "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-   "age": "2h ago",
+   "age": "8h ago",
    "published": "2026-11-15T21:56:35+00:00"
   },
   {
@@ -134,7 +167,7 @@
    "topic": "defense",
    "summary": "The time frame Adm. Philip Davidson famously declared China could be ready to invade Taiwan is about to arrive. The post ‘Davidson Window Admiral Hopes He Was Wrong On C…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/China-Beach-landing-3.jpg?quality=85",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-15T21:44:47+00:00"
   },
   {
@@ -145,7 +178,7 @@
    "topic": "ai",
    "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions …",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/snl.jpg?resize=1200,525",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-15T20:20:57+00:00"
   },
   {
@@ -156,30 +189,8 @@
    "topic": "ai",
    "summary": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-15T18:29:14+00:00"
-  },
-  {
-   "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-   "url": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108487950-1793387874122-gettyimages-2302201596-lnb02366.jpeg?v=1793387920&amp;w=1920&amp;h=1080",
-   "age": "5h ago",
-   "published": "2026-11-15T18:10:18+00:00"
-  },
-  {
-   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Pony-AI.jpg?w=1024",
-   "age": "6h ago",
-   "published": "2026-11-15T17:05:00+00:00"
   },
   {
    "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
@@ -189,7 +200,7 @@
    "topic": "markets",
    "summary": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
    "image": "https://image.cnbcfm.com/api/v1/image/108545248-1794226594022-108545248-1794152106604-gettyimages-2302269863-AFP_D4YU993.jpg?v=1794226610&amp;w=1920&amp;h=1080",
-   "age": "7h ago",
+   "age": "13h ago",
    "published": "2026-11-15T16:56:40+00:00"
   },
   {
@@ -200,7 +211,7 @@
    "topic": "local",
    "summary": "A husband’s effort to sign a ballot for his Alzheimer’s-stricken wife ended with her absentee ballot rejected, prompting an explanation about voting rights for people wi…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/8e/58eafacf-7930-47dd-8979-cf01e9281267/6af792b9dd8bb.image.jpg?resize=300%2C200",
-   "age": "10h ago",
+   "age": "17h ago",
    "published": "2026-11-15T13:15:00+00:00"
   },
   {
@@ -211,19 +222,8 @@
    "topic": "ai",
    "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755-1024x648.jpg",
-   "age": "11h ago",
+   "age": "18h ago",
    "published": "2026-11-15T12:07:34+00:00"
-  },
-  {
-   "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-   "url": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551525-1794626973698-gettyimages-2297195304-AFP_C9PF6JT.jpeg?v=1794627031&amp;w=1920&amp;h=1080",
-   "age": "12h ago",
-   "published": "2026-11-15T12:00:01+00:00"
   },
   {
    "title": "GEORGE GRENCHIK | Perhaps 'wave' election will become inflection point",
@@ -233,7 +233,7 @@
    "topic": "local",
    "summary": "GEORGE GRENCHIK: Our up-the-road neighbors, the Milwaukee Brewers are World Series champions for the first time ever.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "12h ago",
+   "age": "18h ago",
    "published": "2026-11-15T12:00:00+00:00"
   },
   {
@@ -244,7 +244,7 @@
    "topic": "ai",
    "summary": "It felt like stepping into the future.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg",
-   "age": "23h ago",
+   "age": "1d ago",
    "published": "2026-11-15T00:40:59+00:00"
   },
   {
@@ -288,7 +288,7 @@
    "topic": "defense",
    "summary": "Why can't we hear the planes? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/TRACON.jpg?quality=85",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-14T00:31:04+00:00"
   },
   {
