@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-17",
+  "dateLabel": "Tuesday, November 17, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-17T17:58:21Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~21h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, November 16, 2026 close — a tech-led selloff as Nvidia skidded to a fresh 52-week low on AI-chip jitters and CEO uncertainty.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,416.59", "change": "-145.08", "changePct": "-1.92%", "sixMo": "+0.1%" },
+        { "name": "Dow", "close": "51,608.17", "change": "-739.38", "changePct": "-1.41%", "sixMo": "+4.2%" },
+        { "name": "Nasdaq", "close": "24,509.76", "change": "-626.51", "changePct": "-2.49%", "sixMo": "-6.5%" }
+      ],
+      "body": "Nvidia closed at its lowest level since mid-2025 as reports surfaced that Jensen Huang is weighing a return to the CEO job he resigned days earlier, while new U.S. curbs tightening China's access to advanced AI chips added pressure; the chip index posted its worst day in months, with Nvidia's earnings due Tuesday after the close and Anthropic's IPO pricing expected later this week.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Trump arrives in Manila for ASEAN summit ahead of Xi-Putin trilateral in Shenzhen",
+      "body": "President Trump landed in the Philippines for the 49th ASEAN Summit and met with Quad leaders, telling reporters 'we're all friends,' before he and other leaders travel on to Shenzhen, China later this week for the APEC summit and the first-ever Trump-Xi-Putin trilateral meeting.",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/11/17/politics/live-news/trump-visit-china-philippines"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~3h ago",
+      "empty": false,
+      "headline": "Russian military aircraft enter Taiwan's air defense zone, then violate Japanese airspace",
+      "body": "Taiwan's defense ministry said two Russian military aircraft flew through its air defense identification zone off the east coast before the same pair entered Japanese airspace near Okinoshima, prompting Tokyo to scramble fighters and lodge a formal protest; the flights came just ahead of Russian President Vladimir Putin's arrival in Shenzhen for the APEC summit and this week's Trump-Xi-Putin meeting.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/18/2003867931"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Iran claims four tankers hit mines in Hormuz as third US carrier arrives in region",
+      "body": "Iran's navy claimed four oil tankers caught fire after striking mines in a restricted zone of the Strait of Hormuz over the prior 24 hours and warned shippers the US-backed southern route is a 'minefield of fire,' claims the US has not independently verified; the carrier USS Theodore Roosevelt arrived in the Gulf on Sunday, joining the USS George H.W. Bush and USS George Washington as a third carrier strike group now in the region.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new military-technology development within the 72-hour window could be confirmed from a reputable, dated source; the December counter-drone laser shoot-off, the B-21's first weapons-release test, and Golden Dome's funding fight all trace back to mid-November or earlier and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Jensen Huang weighs a comeback as Nvidia CEO as allies lobby the board",
+      "body": "The Financial Times reports Huang has discussed returning as Nvidia's chief executive with confidants days after his abrupt resignation, as investors including Altimeter's Brad Gerstner press the board to keep a return on the table; Nvidia's board says it has not formally engaged any candidate and is still selecting a search firm, with the company's fiscal third-quarter earnings due Tuesday.",
+      "source": "CTV News",
+      "url": "https://www.ctvnews.ca/world/article/jensen-huang-discusses-comeback-as-nvidia-ceo-with-allies-ft-reports/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Chicago's injury picture and the Jeffery Simmons trade have already been covered in recent briefs, and no new roster, contract, or front-office news from an allowlisted outlet emerged within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Hendrick Motorsports names new crew chief for Byron's No. 24 team in 2027",
+      "body": "Hendrick Motorsports announced Monday that Rudy Fugle is leaving William Byron's team after six seasons together to take over Alex Bowman's No. 48 car, with Adam Wall — currently atop Hendrick's Xfinity Series program — moving in as Byron's crew chief for his first full-time Cup assignment; the Larson-Daniels and Elliott-Gustafson pairings are unchanged.",
+      "source": "Motorsport.com",
+      "url": "https://www.motorsport.com/nascar-cup/news/hendrick-motorsports-announces-crew-chief-change-for-william-byron-and-alex-bowman/10874948/"
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA news could be confirmed within the 72-hour window; the denomination's recent items on 2027 Milwaukee General Assembly planning and Covenant Seminary's incoming class trace back to earlier in the fall and are already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
