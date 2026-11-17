@@ -1,11 +1,12 @@
 {
- "generated": "2026-11-17T08:39:42+00:00",
+ "generated": "2026-11-17T17:58:11+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 36,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
+  "Athlon Sports",
   "Breaking Defense",
   "CBS Sports NFL",
   "CHGO Bears",
@@ -23,48 +24,312 @@
  ],
  "items": [
   {
-   "title": "Treasury yields are broadly flat as investors await retail sales data",
-   "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+   "title": "White House officially nominates LaNeve for Army Chief",
+   "url": "https://breakingdefense.com/2026/11/white-house-officially-nominates-laneve-for-army-chief/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The White House has also nominated Lt. Gen. Marcus Evans to fill LaNeve’s current role as the service’s vice chief.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/10007219-scaled-e1791915072360-1024x577.jpg",
+   "age": "2m ago",
+   "published": "2026-11-17T17:55:54+00:00"
+  },
+  {
+   "title": "Opening Remarks from Acting Navy Secretary Hung Cao’s Confirmation Hearing",
+   "url": "https://news.usni.org/2026/11/17/opening-remarks-from-acting-navy-secretary-hung-caos-confirmation-hearing",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The following is Acting Secretary of the Navy Hung Cao’s opening remarks, provided to the U.S. Senate Committee on Armed Services during Cao’s confirmation hearing on No…",
+   "image": null,
+   "age": "5m ago",
+   "published": "2026-11-17T17:52:31+00:00"
+  },
+  {
+   "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+   "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108521821-17938340272026-11-04t221036z_1245999806_rc28hoacdyel_rtrmadp_0_usa-stocks.jpeg?v=1793834118&amp;w=1920&amp;h=1080",
-   "age": "15m ago",
-   "published": "2026-11-17T08:23:51+00:00"
+   "summary": "\"This is why they can't have a nuclear weapon,\" Trump added, reiterating his main rationale for launching the Iran war.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108552979-1794919207940-gettyimages-2305517071-wm017388_zrti7lai.jpeg?v=1794935003&amp;w=1920&amp;h=1080",
+   "age": "8m ago",
+   "published": "2026-11-17T17:49:45+00:00"
   },
   {
-   "title": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
-   "url": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/",
+   "title": "Sen Rand Paul and Sen-elect Andy Barr back Rep James Comer for Kentucky governor",
+   "url": "https://www.foxnews.com/politics/sen-rand-paul-sen-elect-andy-barr-back-rep-james-comer-kentucky-governor",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. Rand Paul and Rep. Andy Barr both backed Rep. James Comer for Kentucky governor after the congressman announced a gubernatorial bid.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cb3713dd-sen-rand-paul-nov-10-2026.jpg?ve=1&tl=1",
+   "age": "9m ago",
+   "published": "2026-11-17T17:48:36+00:00"
+  },
+  {
+   "title": "Sherrill commits $20.2M to deportation defense while condemning Rutgers over Border Patrol speaker",
+   "url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Mikie Sherrill condemned Rutgers College Republicans over a Gregory Bovino event while pouring $20.2 million into New Jersey s deportation defense program.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/524/sherrill-ice-tracking-portal.jpg?ve=1&tl=1",
+   "age": "10m ago",
+   "published": "2026-11-17T17:47:16+00:00"
+  },
+  {
+   "title": "Mamdani takes swipe at Trump administration's response to tech outages: 'Far from what many wanted to hear'",
+   "url": "https://www.foxnews.com/politics/mamdani-takes-swipe-trump-administrations-response-tech-outages-far-from-what-many-wanted-hear",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "New York City Mayor Zohran Mamdani on Tuesday blasted the federal government s response to multiple technical outages that impacted Americans.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/zohran-mamdani-nypd-strategic-response-group.jpg?ve=1&tl=1",
+   "age": "12m ago",
+   "published": "2026-11-17T17:45:30+00:00"
+  },
+  {
+   "title": "Russia reportedly wants Finland to leave NATO as part of Ukraine deal. History, geography explain why.",
+   "url": "https://breakingdefense.com/2026/11/russia-reportedly-wants-finland-to-leave-nato-as-part-of-ukraine-deal-history-geography-explain-why/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Finland’s historical experience with Russia, shaped by centuries of territorial disputes, war and changing borders, is fundamentally different from that of other nations…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2024/11/GettyImages-2184728824-scaled-e1732052343476-1024x577.jpg",
+   "age": "18m ago",
+   "published": "2026-11-17T17:39:17+00:00"
+  },
+  {
+   "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+   "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
+   "age": "25m ago",
+   "published": "2026-11-17T17:32:25+00:00"
+  },
+  {
+   "title": "FAA pauses installation of new routers after ground stop",
+   "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551581-1794669969667-gettyimages-2304580986-US_GROUND_STOP.jpeg?v=1794872932&amp;w=1920&amp;h=1080",
+   "age": "30m ago",
+   "published": "2026-11-17T17:27:57+00:00"
+  },
+  {
+   "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+   "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1670871943.jpg?resize=1200,675",
+   "age": "37m ago",
+   "published": "2026-11-17T17:20:41+00:00"
+  },
+  {
+   "title": "Jerry Jones says Cowboys 'talking about' change at defensive coordinator, their fifth in five seasons",
+   "url": "https://www.cbssports.com/nfl/news/jerry-jones-cowboys-talking-about-change-defensive-coordinator-christian-parker/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/17/13696211-14dd-4299-9e89-b8619d0cd881/gettyimages-2305280354.jpg",
+   "age": "41m ago",
+   "published": "2026-11-17T17:17:01+00:00"
+  },
+  {
+   "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+   "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "He said he had seen support from investors and employees was willing to come back as CEO.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108548918-1794403575214-gettyimages-2192346840-widak-nvidiasc250106_npmp9.jpeg?v=1794403600&amp;w=1920&amp;h=1080",
+   "age": "45m ago",
+   "published": "2026-11-17T17:13:02+00:00"
+  },
+  {
+   "title": "Lithuanian president says US troop rotations will continue beyond latest deployment",
+   "url": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
    "source": "Defense News",
    "group": "Defense News",
    "topic": "defense",
-   "summary": "The troops are part of a structure called Volia, after a Ukrainian word that can be translated as “will” or “freedom,” the French state-owned international news radio sa…",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2283343334.jpg",
-   "age": "32m ago",
-   "published": "2026-11-17T08:07:28+00:00"
+   "summary": "Lithuanian President Gitanas Nauseda said that U.S. troop rotations in the country would continue beyond the current nine-month deployment.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-16T120501Z_1_LYNXNPEMAF146_RTROPTP_4_LITHUANIA-DEFENCE.jpg",
+   "age": "53m ago",
+   "published": "2026-11-17T17:04:13+00:00"
   },
   {
-   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-   "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&amp;w=1920&amp;h=1080",
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5-1152x648.jpg",
    "age": "1h ago",
-   "published": "2026-11-17T07:07:35+00:00"
+   "published": "2026-11-17T16:50:10+00:00"
   },
   {
-   "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
-   "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108548786-1794383341968-gettyimages-2303986643-AFP_D6ZC9WF.jpeg?v=1794383419&amp;w=1920&amp;h=1080",
+   "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+   "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
    "age": "1h ago",
-   "published": "2026-11-17T06:59:42+00:00"
+   "published": "2026-11-17T16:44:15+00:00"
+  },
+  {
+   "title": "Trump seeks nuclear cuts at summit with Putin and Xi, but prospects are low",
+   "url": "https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "From the U.S. side, meanwhile, the Trump administration surprised many observers by pushing for discussions about reducing nuclear weapons while in Shenzhen.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-16T142521Z_59012794_RC2XOOAOEYHD_RTRMADP_3_APEC-SUMMIT-YALTA-ARTWORK.jpg",
+   "age": "1h ago",
+   "published": "2026-11-17T16:10:34+00:00"
+  },
+  {
+   "title": "A new Air Force stunt plane, plus a shakeup for special operations",
+   "url": "https://breakingdefense.com/2026/11/a-new-air-force-stunt-plane-plus-a-shakeup-for-special-operations/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The Air Force has a new training plane, while the special operations forces could be in line for a major bureaucratic overhaul.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/BO241-pb-e1794927294158-1024x576.png",
+   "age": "1h ago",
+   "published": "2026-11-17T16:00:00+00:00"
+  },
+  {
+   "title": "What We Know About Ukraine’s Strikes That Cut Russia’s Kerch Bridge Road Vehicle Span",
+   "url": "https://www.twz.com/news-features/what-we-know-about-ukraines-strikes-that-cut-russias-kerch-bridge-road-vehicle-span",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "New details are emerging about Ukrainian drone and missile strikes that destroyed a key section of the bridge over the Kerch Strait. The post What We Know About Ukraine’…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/what-we-know-about-kerch-bridge-strikes.jpg?quality=85",
+   "age": "2h ago",
+   "published": "2026-11-17T15:48:55+00:00"
+  },
+  {
+   "title": "NATO kicks off 11-nation Starlift satellite launch program",
+   "url": "https://breakingdefense.com/2026/11/nato-kicks-off-11-nation-starlift-satellite-launch-program/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Notably, four countries that were original participants of the space effort were left out of today s announcement — France, Hungary, Luxembourg and the United States.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/NATO-space-e1794917446837-1024x576.jpeg",
+   "age": "2h ago",
+   "published": "2026-11-17T15:34:16+00:00"
+  },
+  {
+   "title": "House Democrats promise a US return to global climate talks",
+   "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1-1024x648.jpg",
+   "age": "2h ago",
+   "published": "2026-11-17T15:32:43+00:00"
+  },
+  {
+   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+   "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ukraine-data-center-under-attack-1152x648.jpg",
+   "age": "2h ago",
+   "published": "2026-11-17T15:28:59+00:00"
+  },
+  {
+   "title": "Lions set to get key defensive player back in Week 11 in wake of Aidan Hutchinson injury",
+   "url": "https://www.cbssports.com/nfl/news/lions-kerby-joseph-set-to-return-week-11-buccaneers/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/20/4db3b86f-242a-408d-8c93-aa1c395154e9/gettyimages-2188050267-1.jpg",
+   "age": "2h ago",
+   "published": "2026-11-17T15:04:43+00:00"
+  },
+  {
+   "title": "Week 11 NFL Power Rankings: Each Team s Second-Half Outlook",
+   "url": "https://www.windycitygridiron.com/chicago-bears-power-rankings/127757/week-11-nfl-power-rankings-each-teams-second-half-outlook-jaguars-bills-bears",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2305296838.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "2h ago",
+   "published": "2026-11-17T15:00:00+00:00"
+  },
+  {
+   "title": "Why Derrick Henry and Ravens' rushing attack have collapsed without Lamar Jackson",
+   "url": "https://www.cbssports.com/nfl/news/derrick-henry-ravens-rushing-stats-lamar-jackson-injury/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/17/47b1ccc9-db43-4a11-bdbf-8c5fd7878c0d/template-pic.jpg",
+   "age": "3h ago",
+   "published": "2026-11-17T14:56:54+00:00"
+  },
+  {
+   "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+   "url": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general report, but an official said a majority of its units passed for t…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/635678227898585208-177649177jpg.jpg",
+   "age": "3h ago",
+   "published": "2026-11-17T14:35:23+00:00"
+  },
+  {
+   "title": "Davich: They wanted to save Bambi. Nearly 30 years later, the deer hunts quietly continue",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_0bb48629-ec8b-4a2d-bb07-54107451cb95.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "Nearly 30 years after fierce protests over deer culls at Indiana Dunes State Park, the hunts quietly continue. But whatever happened to the protesters who once vowed to …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/0/10/01068d70-05e5-41bb-9951-e0a300227be2/6012f9ce29e44.image.jpg?resize=300%2C225",
+   "age": "4h ago",
+   "published": "2026-11-17T13:15:00+00:00"
+  },
+  {
+   "title": "Hendrick Motorsports Splits William Byron and His Crew Chief in Latest Team Shakeup",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3NIYzdpN0ltb0pWQjFVYVlrbkRiQVFrRlFuUF9GRGZRVUlWMkJHeWQ1V183MG5jd0JFWGdPNlJkU2xVNWtDV3VNZXRhZFQ2RFJMN2xNNmlOay1qWlQ2SW1XNDloUWJ4NFNUNGdSR1gyWUJOczdsRDQ4al84LVpfU3E3QVZsLU01ZnNOTjFSNG44cml5M0tZVDE4WmdHSExsejhHYjlFNURYNEY2c3ZjckItV1NvRlduQ2c?oc=5",
+   "source": "Athlon Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "6h ago",
+   "published": "2026-11-17T11:50:07+00:00"
+  },
+  {
+   "title": "Chicago Bears News: Bears back at practice with Monangai, Burden",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/127735/chicago-bears-news-bears-back-at-practice-with-monangai-burden",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303799385.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "6h ago",
+   "published": "2026-11-17T11:00:00+00:00"
   },
   {
    "title": "Russia’s Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine",
@@ -74,52 +339,8 @@
    "topic": "defense",
    "summary": "Imagery that has come after sun-up has confirmed that Ukraine has finally succeeded in dropping a major section of the Kerch Strait Bridge. The post Russia s Kerch Bridg…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/kirch-bridge-destroyed.jpg?quality=85",
-   "age": "2h ago",
+   "age": "11h ago",
    "published": "2026-11-17T06:03:53+00:00"
-  },
-  {
-   "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
-   "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793981883&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-17T05:51:13+00:00"
-  },
-  {
-   "title": "Duffy vows to modernize aging air traffic system after nationwide ground stop",
-   "url": "https://www.foxnews.com/travel/duffy-vows-modernize-aging-air-traffic-system-nationwide-ground-stop",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Transportation Secretary Sean Duffy says Friday s FAA ground stop was no hack, as the FAA probes a router issue, network problem or installation error.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/DUFFY-MULLIN-FOX-NEWS.png?ve=1&tl=1",
-   "age": "2h ago",
-   "published": "2026-11-17T05:50:51+00:00"
-  },
-  {
-   "title": "Chargers, Justin Herbert finally win first game of season after brutal mistake by Ravens star",
-   "url": "https://www.foxnews.com/outkick-sports/chargers-justin-herbert-finally-win-first-game-season-brutal-mistake-ravens-star",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Justin Herbert and Omarion Hampton powered the Los Angeles Chargers past the Baltimore Ravens, ending their winless skid on Monday Night Football.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/justin-herbert-touchdown-baltimore-ravens.jpg?ve=1&tl=1",
-   "age": "3h ago",
-   "published": "2026-11-17T04:46:54+00:00"
-  },
-  {
-   "title": "Engine failure forces Sen Ashley Moody’s American Airlines flight to divert for emergency landing",
-   "url": "https://www.foxnews.com/politics/engine-failure-forces-sen-ashley-moodys-american-airlines-flight-divert-emergency-landing",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Sen. Ashley Moody s, R-Fla., flight was forced to divert and make an emergency landing following an engine failure. The American Airlines flight was diverted to Orlando.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/ashley-moody-june-2026.jpg?ve=1&tl=1",
-   "age": "4h ago",
-   "published": "2026-11-17T04:08:25+00:00"
   },
   {
    "title": "5 reasons to get a flu shot as winter and holiday season approaches",
@@ -129,19 +350,8 @@
    "topic": "local",
    "summary": "If you’ve been putting off your annual flu shot, consider this your friendly reminder: Now is an excellent time to protect yourself and those around you before influenza…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/50/e5003155-96a8-579e-9e98-28b1c6760750/695c8901583b7.image.jpg?resize=300%2C208",
-   "age": "6h ago",
+   "age": "15h ago",
    "published": "2026-11-17T02:00:00+00:00"
-  },
-  {
-   "title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
-   "url": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "Nearly $69 billion in money sought by the White House through reconciliation will be rolled into the base budget under the Senate appropriator s plan.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/congress_building-scaled-e1711030694393-1024x575.jpg",
-   "age": "7h ago",
-   "published": "2026-11-17T01:17:58+00:00"
   },
   {
    "title": "Russia’s Prized Kerch Bridge Struck In Ukrainian Drone Onslaught (Updated)",
@@ -151,52 +361,8 @@
    "topic": "defense",
    "summary": "The strategic crossing that connects occupied Crimea to Russia was left with a damaged arch over one of the road spans. The post Russia s Prized Kerch Bridge Struck In U…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/Kerch-Bridge-Attack.jpg?quality=85",
-   "age": "7h ago",
+   "age": "16h ago",
    "published": "2026-11-17T01:11:09+00:00"
-  },
-  {
-   "title": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Chargers vs. Ravens, Monday Night Football predictions",
-   "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-claim-55-bonus-for-chargers-vs-ravens-monday-night-football-predictions/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/a90f0e22-5b54-4b88-8257-901a4e7cd93f/kalshi-promo-code-cbssports55.jpg",
-   "age": "7h ago",
-   "published": "2026-11-17T00:46:34+00:00"
-  },
-  {
-   "title": "Kalshi promo code CBSSPORTS55: Receive $55 bonus for Ravens vs. Chargers, NFL Week 10 Monday Night Football",
-   "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-receive-55-bonus-ravens-chargers-nfl-week-10-monday-night-football/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/a90f0e22-5b54-4b88-8257-901a4e7cd93f/kalshi-promo-code-cbssports55.jpg",
-   "age": "7h ago",
-   "published": "2026-11-17T00:40:01+00:00"
-  },
-  {
-   "title": "First F-15EXs Arrive At Kadena Air Base In Japan, 25 Now Delivered To The USAF",
-   "url": "https://www.twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The arrival of combat-coded F-15EXs in Japan is the first permanent deployment of the USAF's newest fighter outside the United States. The post First F-15EXs Arrive At K…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/f-15exs-in-japan-eagle-ii-fleet-grows.jpg?quality=85",
-   "age": "8h ago",
-   "published": "2026-11-17T00:26:47+00:00"
-  },
-  {
-   "title": "Chargers vs. Ravens odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
-   "url": "https://www.cbssports.com/betting/news/chargers-vs-ravens-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/04/ad0c2023-4485-44b8-9750-0387cad36f4e/derrick-henry-baltimore-ravens-imagn-images.jpg",
-   "age": "8h ago",
-   "published": "2026-11-17T00:04:30+00:00"
   },
   {
    "title": "Chicago Bears Injury Update for Kyle Monangai, Luther Burden III, and others",
@@ -206,30 +372,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY29873274494996269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "8h ago",
+   "age": "18h ago",
    "published": "2026-11-16T23:45:00+00:00"
-  },
-  {
-   "title": "William Byron Lands New Crew Chief For 2027 NASCAR Season",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWxPNlpxelE3Y1pqeUpkRE9KcHVxZDEwMzc4MGszV0NBczctS2l2bXp1MEdWLU9CVllzWU9fcHN1ejNkdld6QU5zOGJNQ0E0YVUtSVdjTTdXdi1PR0s1cDl5ZVV3dmdFdEdsakxBOEpFS0F4cmltVnJNVk5GRFVCNWdJZVZpUQ?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "9h ago",
-   "published": "2026-11-16T23:34:32+00:00"
-  },
-  {
-   "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-   "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "age": "9h ago",
-   "published": "2026-11-16T23:32:32+00:00"
   },
   {
    "title": "Bears hoping to hit the ground running after bye week",
@@ -239,19 +383,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/b7fwbuvg7wrslhsa4qjl.jpg",
-   "age": "9h ago",
+   "age": "18h ago",
    "published": "2026-11-16T23:30:45+00:00"
-  },
-  {
-   "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
-   "url": "https://www.defensenews.com/air/2026/11/16/first-permanently-assigned-f-15exs-touch-down-at-kadena-air-base/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Kadena Air Base received their first permanently assigned F-15EX Eagle IIs, becoming the first installation abroad and second Air Force location to field the jet.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/261115-F-YH673-1239.jpg",
-   "age": "9h ago",
-   "published": "2026-11-16T23:23:56+00:00"
   },
   {
    "title": "NASCAR’s Hendrick Team Announces Big William Byron, Alex Bowman Changes",
@@ -261,19 +394,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "9h ago",
+   "age": "18h ago",
    "published": "2026-11-16T23:19:08+00:00"
-  },
-  {
-   "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-   "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
-   "age": "9h ago",
-   "published": "2026-11-16T22:58:27+00:00"
   },
   {
    "title": "Vice Adm. Oliver Lewis Takes Command of 2nd Fleet",
@@ -283,30 +405,8 @@
    "topic": "defense",
    "summary": "A career submariner has taken command of U.S. 2nd Fleet following the retirement of Vice Adm. Doug Perry, the command announced on Monday. Vice Adm. Oliver Lewis will no…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10097352-scaled.jpg",
-   "age": "10h ago",
+   "age": "19h ago",
    "published": "2026-11-16T22:16:22+00:00"
-  },
-  {
-   "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-   "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
-   "age": "10h ago",
-   "published": "2026-11-16T22:12:31+00:00"
-  },
-  {
-   "title": "Pentagon fails 9th audit, asserts path towards clean books in 2028",
-   "url": "https://breakingdefense.com/2026/11/pentagon-fails-9th-audit-asserts-path-towards-clean-books-in-2028/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "While we have made progress… [with] the most important development is our change in audit strategy,” the department s comptroller Jules Hurst told reporters last week.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_pentagon_birdseye_GettyImages-2299571686-e1793373399684.jpg",
-   "age": "10h ago",
-   "published": "2026-11-16T22:11:50+00:00"
   },
   {
    "title": "Bears running back Kyle Monangai ‘on track’ to return in Week 11 against Saints",
@@ -316,30 +416,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/16155918/2026-09-20T191547Z_215579367_MT1USATODAY29873276_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "10h ago",
+   "age": "19h ago",
    "published": "2026-11-16T22:04:17+00:00"
-  },
-  {
-   "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-   "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. G…",
-   "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
-   "age": "10h ago",
-   "published": "2026-11-16T22:03:02+00:00"
-  },
-  {
-   "title": "Three small failures combined to take down Microsoft 365",
-   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
-   "age": "10h ago",
-   "published": "2026-11-16T21:56:39+00:00"
   },
   {
    "title": "USS Theodore Roosevelt Now in the Middle East, Lincoln’s Last Escorts Finally Home",
@@ -349,7 +427,7 @@
    "topic": "defense",
    "summary": "A third U.S. aircraft carrier and its escorts are now in the Middle East. USS Theodore Roosevelt (CVN-71) chopped into U.S. 5th Fleet on Sunday. The arrival of the Theod…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/TR-scaled.jpeg",
-   "age": "10h ago",
+   "age": "20h ago",
    "published": "2026-11-16T21:42:08+00:00"
   },
   {
@@ -360,30 +438,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/16150929/Bears_BraggsBlog-5-1024x576.jpg",
-   "age": "11h ago",
+   "age": "20h ago",
    "published": "2026-11-16T21:12:04+00:00"
-  },
-  {
-   "title": "Hyperscale data centers use 2% of US electricity",
-   "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
-   "age": "11h ago",
-   "published": "2026-11-16T20:52:10+00:00"
-  },
-  {
-   "title": "US Army takes ‘urgent’ action to build concrete bunkers across the Middle East",
-   "url": "https://www.defensenews.com/global/mideast-africa/2026/11/16/us-army-takes-urgent-action-to-build-concrete-bunkers-across-the-middle-east/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/9334648.jpg",
-   "age": "11h ago",
-   "published": "2026-11-16T20:43:10+00:00"
   },
   {
    "title": "Hendrick Motorsports Shuffles Cup Series Crew Chief Lineup In 2027",
@@ -393,52 +449,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "12h ago",
+   "age": "21h ago",
    "published": "2026-11-16T20:12:01+00:00"
-  },
-  {
-   "title": "Vulcan failure deepens concerns over US military launch capacity",
-   "url": "https://breakingdefense.com/2026/11/vulcan-failure-deepens-concerns-over-us-military-launch-capacity/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The failed launch could further delay the rocket s return to national security missions as the Space Force works to expand its launch options.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/vulcan-november-15-scaled-e1794856594383-1024x577.jpg",
-   "age": "12h ago",
-   "published": "2026-11-16T20:07:47+00:00"
-  },
-  {
-   "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
-   "url": "https://news.usni.org/2026/11/16/usni-news-fleet-and-marine-tracker-nov-16-2026",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/FT_11_16_26.jpg",
-   "age": "12h ago",
-   "published": "2026-11-16T19:55:16+00:00"
-  },
-  {
-   "title": "5 Bears Takes: Grading The First Half and Dissecting The NFC North",
-   "url": "https://www.windycitygridiron.com/chicago-bears-schedule/127696/5-bears-takes-grading-the-first-half-and-dissecting-the-nfc-north",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303786190.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "18h ago",
-   "published": "2026-11-16T14:30:00+00:00"
-  },
-  {
-   "title": "NFC Playoff Picture: Chicago Bears in 6th following Sunday’s games",
-   "url": "https://www.windycitygridiron.com/chicago-bears-nfl-playoffs/127658/nfc-playoff-picture-chicago-bears-fall-to-5th-with-the-detroit-lions-win",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304050980.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1d ago",
-   "published": "2026-11-16T01:17:03+00:00"
   },
   {
    "title": "When a voter can’t sign | Porter County absentee ballot dispute raises questions | Davich",
@@ -448,19 +460,8 @@
    "topic": "local",
    "summary": "A husband’s effort to sign a ballot for his Alzheimer’s-stricken wife ended with her absentee ballot rejected, prompting an explanation about voting rights for people wi…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/5/8e/58eafacf-7930-47dd-8979-cf01e9281267/6af792b9dd8bb.image.jpg?resize=300%2C200",
-   "age": "1d ago",
+   "age": "2d ago",
    "published": "2026-11-15T13:15:00+00:00"
-  },
-  {
-   "title": "GEORGE GRENCHIK | Perhaps 'wave' election will become inflection point",
-   "url": "https://nwitimes.com/news/article_31cac000-b43e-4eee-ade1-3140d4b61df5.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "GEORGE GRENCHIK: Our up-the-road neighbors, the Milwaukee Brewers are World Series champions for the first time ever.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
-   "age": "1d ago",
-   "published": "2026-11-15T12:00:00+00:00"
   }
  ]
 }
