@@ -1,25 +1,181 @@
 {
- "generated": "2026-11-17T00:33:32+00:00",
+ "generated": "2026-11-17T08:39:42+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": false,
+ "withImage": 37,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Heavy.com",
-  "NASCAR.com",
   "NWI Times",
   "Sports Illustrated",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
+  {
+   "title": "Treasury yields are broadly flat as investors await retail sales data",
+   "url": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "U.S. Treasury yields were little changed on Tuesday morning as investors awaited economic data and comments from Federal Reserve officials later in the session.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108521821-17938340272026-11-04t221036z_1245999806_rc28hoacdyel_rtrmadp_0_usa-stocks.jpeg?v=1793834118&amp;w=1920&amp;h=1080",
+   "age": "15m ago",
+   "published": "2026-11-17T08:23:51+00:00"
+  },
+  {
+   "title": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
+   "url": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The troops are part of a structure called Volia, after a Ukrainian word that can be translated as “will” or “freedom,” the French state-owned international news radio sa…",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2283343334.jpg",
+   "age": "32m ago",
+   "published": "2026-11-17T08:07:28+00:00"
+  },
+  {
+   "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
+   "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108551696-1794795719884-gettyimages-2304259055-nokings-sf1017.jpeg?v=1794840889&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-17T07:07:35+00:00"
+  },
+  {
+   "title": "U.S. agencies say they initiated investigation into Nvidia partner Megaspeed in 2024",
+   "url": "https://www.cnbc.com/2026/11/17/megaspeed-investigation-nvidia-jensen-huang.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The Commerce and Justice departments said in a joint statement that U.S. investigations into Megaspeed began in 2024.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108548786-1794383341968-gettyimages-2303986643-AFP_D6ZC9WF.jpeg?v=1794383419&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-17T06:59:42+00:00"
+  },
+  {
+   "title": "Russia’s Kerch Bridge Road Vehicle Span Has Been Destroyed By Ukraine",
+   "url": "https://www.twz.com/news-features/kerch-bridge-struck-for-the-second-time-in-less-than-24-hours-russia",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Imagery that has come after sun-up has confirmed that Ukraine has finally succeeded in dropping a major section of the Kerch Strait Bridge. The post Russia s Kerch Bridg…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/kirch-bridge-destroyed.jpg?quality=85",
+   "age": "2h ago",
+   "published": "2026-11-17T06:03:53+00:00"
+  },
+  {
+   "title": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+   "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Iran has ratcheted up threats against U.S. forces as a third American aircraft carrier arrived in the Gulf, stoking fears of a resumption of military tensions.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108484423-1793336204524-gettyimages-2293738583-AA_09092026_2944246.jpeg?v=1793981883&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-17T05:51:13+00:00"
+  },
+  {
+   "title": "Duffy vows to modernize aging air traffic system after nationwide ground stop",
+   "url": "https://www.foxnews.com/travel/duffy-vows-modernize-aging-air-traffic-system-nationwide-ground-stop",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Transportation Secretary Sean Duffy says Friday s FAA ground stop was no hack, as the FAA probes a router issue, network problem or installation error.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/DUFFY-MULLIN-FOX-NEWS.png?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-17T05:50:51+00:00"
+  },
+  {
+   "title": "Chargers, Justin Herbert finally win first game of season after brutal mistake by Ravens star",
+   "url": "https://www.foxnews.com/outkick-sports/chargers-justin-herbert-finally-win-first-game-season-brutal-mistake-ravens-star",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Justin Herbert and Omarion Hampton powered the Los Angeles Chargers past the Baltimore Ravens, ending their winless skid on Monday Night Football.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/justin-herbert-touchdown-baltimore-ravens.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-17T04:46:54+00:00"
+  },
+  {
+   "title": "Engine failure forces Sen Ashley Moody’s American Airlines flight to divert for emergency landing",
+   "url": "https://www.foxnews.com/politics/engine-failure-forces-sen-ashley-moodys-american-airlines-flight-divert-emergency-landing",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Sen. Ashley Moody s, R-Fla., flight was forced to divert and make an emergency landing following an engine failure. The American Airlines flight was diverted to Orlando.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/ashley-moody-june-2026.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-17T04:08:25+00:00"
+  },
+  {
+   "title": "5 reasons to get a flu shot as winter and holiday season approaches",
+   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_c29b9a17-8589-45ee-a192-30472fcce2d5.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "If you’ve been putting off your annual flu shot, consider this your friendly reminder: Now is an excellent time to protect yourself and those around you before influenza…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/50/e5003155-96a8-579e-9e98-28b1c6760750/695c8901583b7.image.jpg?resize=300%2C208",
+   "age": "6h ago",
+   "published": "2026-11-17T02:00:00+00:00"
+  },
+  {
+   "title": "Senate appropriators unveil $1.1T Pentagon spending bill, folding in reconciliation priorities",
+   "url": "https://breakingdefense.com/2026/11/senate-appropriators-unveil-1-1t-pentagon-spending-bill-folding-in-reconciliation-priorities/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "Nearly $69 billion in money sought by the White House through reconciliation will be rolled into the base budget under the Senate appropriator s plan.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/congress_building-scaled-e1711030694393-1024x575.jpg",
+   "age": "7h ago",
+   "published": "2026-11-17T01:17:58+00:00"
+  },
+  {
+   "title": "Russia’s Prized Kerch Bridge Struck In Ukrainian Drone Onslaught (Updated)",
+   "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "The strategic crossing that connects occupied Crimea to Russia was left with a damaged arch over one of the road spans. The post Russia s Prized Kerch Bridge Struck In U…",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/Kerch-Bridge-Attack.jpg?quality=85",
+   "age": "7h ago",
+   "published": "2026-11-17T01:11:09+00:00"
+  },
+  {
+   "title": "Best Kalshi promo code CBSSPORTS55: Claim $55 bonus for Chargers vs. Ravens, Monday Night Football predictions",
+   "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-claim-55-bonus-for-chargers-vs-ravens-monday-night-football-predictions/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/a90f0e22-5b54-4b88-8257-901a4e7cd93f/kalshi-promo-code-cbssports55.jpg",
+   "age": "7h ago",
+   "published": "2026-11-17T00:46:34+00:00"
+  },
+  {
+   "title": "Kalshi promo code CBSSPORTS55: Receive $55 bonus for Ravens vs. Chargers, NFL Week 10 Monday Night Football",
+   "url": "https://www.cbssports.com/prediction/news/kalshi-promo-code-cbssports55-receive-55-bonus-ravens-chargers-nfl-week-10-monday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/a90f0e22-5b54-4b88-8257-901a4e7cd93f/kalshi-promo-code-cbssports55.jpg",
+   "age": "7h ago",
+   "published": "2026-11-17T00:40:01+00:00"
+  },
   {
    "title": "First F-15EXs Arrive At Kadena Air Base In Japan, 25 Now Delivered To The USAF",
    "url": "https://www.twz.com/air/first-f-15exs-arrive-in-okinawa-25-now-delivered-to-the-usaf",
@@ -28,63 +184,30 @@
    "topic": "defense",
    "summary": "The arrival of combat-coded F-15EXs in Japan is the first permanent deployment of the USAF's newest fighter outside the United States. The post First F-15EXs Arrive At K…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/f-15exs-in-japan-eagle-ii-fleet-grows.jpg?quality=85",
-   "age": "6m ago",
+   "age": "8h ago",
    "published": "2026-11-17T00:26:47+00:00"
   },
   {
-   "title": "Ecuador's president denies US operates military base despite reports of troop buildup",
-   "url": "https://www.foxnews.com/world/ecuador-president-denies-us-operates-military-base-reports-troop-buildup",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Ecuadorian President Daniel Noboa denies the U.S. operates a military base at Taura Air Base, describing American personnel s activities as temporary.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/us-ecuador.jpg?ve=1&tl=1",
-   "age": "9m ago",
-   "published": "2026-11-17T00:23:50+00:00"
+   "title": "Chargers vs. Ravens odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
+   "url": "https://www.cbssports.com/betting/news/chargers-vs-ravens-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/04/ad0c2023-4485-44b8-9750-0387cad36f4e/derrick-henry-baltimore-ravens-imagn-images.jpg",
+   "age": "8h ago",
+   "published": "2026-11-17T00:04:30+00:00"
   },
   {
-   "title": "Trump admin opens civil rights probes into 15 colleges over DEI grants",
-   "url": "https://www.foxnews.com/media/trump-admin-opens-civil-rights-probes-15-colleges-over-dei-grants",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Education Department s Office for Civil Rights opened probes into CUNY s NYC Men Teach program over alleged race- and sex-based discrimination.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/931/524/TrumpAP031720.jpg?ve=1&tl=1",
-   "age": "9m ago",
-   "published": "2026-11-17T00:23:40+00:00"
-  },
-  {
-   "title": "Netflix's 'Untold' series tackles the New York Giants' miracle Super Bowl XLII upset of the Patriots next",
-   "url": "https://www.foxnews.com/outkick-sports/netflix-untold-series-tackles-new-york-giants-miracle-super-bowl-xlii-upset-patriots",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Netflix s Untold: One Giant Upset lands Dec. 21, featuring Eli Manning, Michael Strahan, and Tom Brady on the Giants shocking Super Bowl XLII win.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/eli-manning-lombardi-12126.jpg?ve=1&tl=1",
-   "age": "16m ago",
-   "published": "2026-11-17T00:17:12+00:00"
-  },
-  {
-   "title": "Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights",
-   "url": "https://www.foxnews.com/us/democratic-judge-fire-releasing-violent-offenders-calls-bail-law-direct-assault-rights",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Judge David Carpenter called Alabama’s Aniah’s Law a ‘direct assault’ on constitutional rights, citing defendants’ presumption of innocence.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/931/523/copy-of-right-inset-56.png?ve=1&tl=1",
-   "age": "18m ago",
-   "published": "2026-11-17T00:15:12+00:00"
-  },
-  {
-   "title": "United Airlines resolves system outage that affected departing flights",
-   "url": "https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The airline said there was no impact on flights in progress and there was no indication the outage was a cyberattack.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551868-1794831966954-gettyimages-2304760092-AFP_D7JH4CQ.jpeg?v=1794873348&amp;w=1920&amp;h=1080",
-   "age": "32m ago",
-   "published": "2026-11-17T00:00:49+00:00"
+   "title": "Chicago Bears Injury Update for Kyle Monangai, Luther Burden III, and others",
+   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/127738/chicago-bears-injury-update-for-kyle-monangai-luther-burden-iii-and-others-kyler-gordon",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY29873274494996269.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "8h ago",
+   "published": "2026-11-16T23:45:00+00:00"
   },
   {
    "title": "William Byron Lands New Crew Chief For 2027 NASCAR Season",
@@ -94,7 +217,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "59m ago",
+   "age": "9h ago",
    "published": "2026-11-16T23:34:32+00:00"
   },
   {
@@ -105,8 +228,19 @@
    "topic": "ai",
    "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-16T23:32:32+00:00"
+  },
+  {
+   "title": "Bears hoping to hit the ground running after bye week",
+   "url": "https://www.chicagobears.com/news/bears-hoping-to-hit-the-ground-running-after-bye-week",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/b7fwbuvg7wrslhsa4qjl.jpg",
+   "age": "9h ago",
+   "published": "2026-11-16T23:30:45+00:00"
   },
   {
    "title": "First permanently assigned F-15EXs touch down at Kadena Air Base",
@@ -116,41 +250,19 @@
    "topic": "defense",
    "summary": "Kadena Air Base received their first permanently assigned F-15EX Eagle IIs, becoming the first installation abroad and second Air Force location to field the jet.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/261115-F-YH673-1239.jpg",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-16T23:23:56+00:00"
   },
   {
-   "title": "Aschenbrenner’s Situational Awareness made AI bets again before October rout",
-   "url": "https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Leopold Aschenbrenner's hedge fund, which almost collapsed over the summer, bought AI stocks before shares began tumbling.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108342704-1785438454346-dsc_2664.jpg?v=1785438632&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-16T23:05:12+00:00"
-  },
-  {
-   "title": "Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding",
-   "url": "https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Berkshire Hathaway added to several stock positions in the third quarter while trimming others, including Bank of America.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108332343-17835390822026-07-08t192912z_1218639865_rc2v9mavrnxc_rtrmadp_0_media-sunvalley.jpeg?v=1783539130&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-16T23:01:19+00:00"
-  },
-  {
-   "title": "CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off",
-   "url": "https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "There's one formula for success behind the rise of trendy new Chinese fashion brands, according to Euromonitor International.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108551737-1794807044014-SLT_20261110_132825.jpg?v=1794807914&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-16T23:00:01+00:00"
+   "title": "NASCAR’s Hendrick Team Announces Big William Byron, Alex Bowman Changes",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejlraWdCTFVZMDhLbkdENUdmYXM2NnlKT21MRVJBTTFTc3ZtNi1iS0dQMlRSN0dhNDBvU1hSLUxFdVhmblpnZ2FGSFVmYmI3amgwRVRYOGZoTF96Tmt0aDBSSUoweTdNZ3dSR3RSY0lSeHp2UHFNSzFFclZ3X0lBX214bmlqcVpFbUJR?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "9h ago",
+   "published": "2026-11-16T23:19:08+00:00"
   },
   {
    "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
@@ -160,7 +272,7 @@
    "topic": "ai",
    "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Foundation-Phantom-MK-1-mortar-demo-1152x648.jpg",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-16T22:58:27+00:00"
   },
   {
@@ -171,7 +283,7 @@
    "topic": "defense",
    "summary": "A career submariner has taken command of U.S. 2nd Fleet following the retirement of Vice Adm. Doug Perry, the command announced on Monday. Vice Adm. Oliver Lewis will no…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10097352-scaled.jpg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-16T22:16:22+00:00"
   },
   {
@@ -182,7 +294,7 @@
    "topic": "ai",
    "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
    "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-16T22:12:31+00:00"
   },
   {
@@ -193,8 +305,19 @@
    "topic": "defense",
    "summary": "While we have made progress… [with] the most important development is our change in audit strategy,” the department s comptroller Jules Hurst told reporters last week.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/261030_pentagon_birdseye_GettyImages-2299571686-e1793373399684.jpg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-16T22:11:50+00:00"
+  },
+  {
+   "title": "Bears running back Kyle Monangai ‘on track’ to return in Week 11 against Saints",
+   "url": "https://allchgo.com/bears/bears-kyle-monangai-on-track-return-week-11-saints/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/16155918/2026-09-20T191547Z_215579367_MT1USATODAY29873276_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "10h ago",
+   "published": "2026-11-16T22:04:17+00:00"
   },
   {
    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
@@ -204,7 +327,7 @@
    "topic": "ai",
    "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. G…",
    "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1147839035.jpg?resize=1200,800",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-16T22:03:02+00:00"
   },
   {
@@ -215,7 +338,7 @@
    "topic": "ai",
    "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/network-outage.jpg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-16T21:56:39+00:00"
   },
   {
@@ -226,30 +349,19 @@
    "topic": "defense",
    "summary": "A third U.S. aircraft carrier and its escorts are now in the Middle East. USS Theodore Roosevelt (CVN-71) chopped into U.S. 5th Fleet on Sunday. The arrival of the Theod…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/TR-scaled.jpeg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-16T21:42:08+00:00"
   },
   {
-   "title": "U.S. Army Now Wants Concrete Bunkers For Troops In Israel, Saudi Arabia And Lebanon",
-   "url": "https://www.twz.com/news-features/u-s-army-now-wants-concrete-bunkers-for-troops-in-israel-saudi-arabia-and-lebanon",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The Army wants to replace modified shipping containers with concrete bunkers in the latest sign that the Pentagon is finally taking hardening more seriously. The post U.…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/Army-Bunker-Middle-East.jpg?quality=85",
-   "age": "3h ago",
-   "published": "2026-11-16T21:15:24+00:00"
-  },
-  {
-   "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-   "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agen…",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
-   "age": "3h ago",
-   "published": "2026-11-16T21:01:02+00:00"
+   "title": "DA BRAGGS BLOG: Winter is coming. So are the Bears",
+   "url": "https://allchgo.com/bears/da-braggs-blog-winter-is-coming-so-are-the-bears/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/16150929/Bears_BraggsBlog-5-1024x576.jpg",
+   "age": "11h ago",
+   "published": "2026-11-16T21:12:04+00:00"
   },
   {
    "title": "Hyperscale data centers use 2% of US electricity",
@@ -259,7 +371,7 @@
    "topic": "ai",
    "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912-1152x648.jpg",
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-16T20:52:10+00:00"
   },
   {
@@ -270,41 +382,8 @@
    "topic": "defense",
    "summary": "The Army acknowledged in a notice Friday that U.S. soldiers in the Middle East are \"currently at risk\" using personnel shelters made of converted shipping containers.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/9334648.jpg",
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-16T20:43:10+00:00"
-  },
-  {
-   "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-   "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-1024x648.jpg",
-   "age": "3h ago",
-   "published": "2026-11-16T20:37:47+00:00"
-  },
-  {
-   "title": "New Bow Sonar Dome For Heavily Damaged Submarine USS Connecticut Seen For The First Time",
-   "url": "https://www.twz.com/sea/new-bow-sonar-dome-for-heavily-damaged-submarine-uss-connecticut-seen-for-the-first-time",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "USS Connecticut has been undergoing major repairs since losing its bow after an underwater collision in 2021. The post New Bow Sonar Dome For Heavily Damaged Submarine U…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/Submarine-Sonar-dome-USS-Connecticut.jpg?quality=85",
-   "age": "4h ago",
-   "published": "2026-11-16T20:24:52+00:00"
-  },
-  {
-   "title": "NASCAR’s Hendrick Team Announces Big William Byron, Alex Bowman Changes",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JdWhWWU5COHRvN1NOMzQ3NElhU0YwUkFmc1BadDBBLS01eHRpUUFTVTFra2ZyTFktZGM2RTVHN1Y1eGhBSG12eUZ3VXQtTE9ZMHpmYmpPRkpFUVdiZDBhMktpSnlCb1p0MEpncUZuZjZUaGxRWk0wbDdEbGJfYUE?oc=5",
-   "source": "Heavy.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "4h ago",
-   "published": "2026-11-16T20:23:23+00:00"
   },
   {
    "title": "Hendrick Motorsports Shuffles Cup Series Crew Chief Lineup In 2027",
@@ -314,7 +393,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-16T20:12:01+00:00"
   },
   {
@@ -325,19 +404,8 @@
    "topic": "defense",
    "summary": "The failed launch could further delay the rocket s return to national security missions as the Space Force works to expand its launch options.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/vulcan-november-15-scaled-e1794856594383-1024x577.jpg",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-16T20:07:47+00:00"
-  },
-  {
-   "title": "Hendrick taps Fugle to crew chief No. 48 team; Wall promoted to No. 24 for 2027",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVdyd3hvZ0lRYm1LNkEzaWUyVUJ5NUxhdmNVVmFCeEZnOVU0M21SVFNfdVRmVWRjaERGUzUtcTFTdWhaWERwZWxMcDFTWjNkQXJveFlEM3hFR1I1RWFNU2N4eXRSNFRZSHBwRGs4cTlMUmNmeWRFSDc3MzUwNk5XUUNSVTZrZHlNZzZrbW1hZGJCZVM3VzFLdUFJemxmNndjOXpMLVRSTWI2bFh6VkNj?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "4h ago",
-   "published": "2026-11-16T20:05:16+00:00"
   },
   {
    "title": "USNI News Fleet and Marine Tracker: Nov. 16, 2026",
@@ -347,74 +415,30 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 16, 2026, based on Navy…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/FT_11_16_26.jpg",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-16T19:55:16+00:00"
   },
   {
-   "title": "LeoLabs acquires FishEye to bolster its missile defense chops",
-   "url": "https://breakingdefense.com/2026/11/leolabs-acquires-fisheye-to-bolster-its-missile-defense-chops/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "As a wholly owned subsidiary of LeoLabs, FishEye will strengthen our ability to accelerate delivery of our next-generation radars optimized for missile warning and track…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/LeoLabs_Scout_Hawaii_with_Logo-e1781116115561.jpg",
-   "age": "5h ago",
-   "published": "2026-11-16T19:01:00+00:00"
+   "title": "5 Bears Takes: Grading The First Half and Dissecting The NFC North",
+   "url": "https://www.windycitygridiron.com/chicago-bears-schedule/127696/5-bears-takes-grading-the-first-half-and-dissecting-the-nfc-north",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303786190.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "18h ago",
+   "published": "2026-11-16T14:30:00+00:00"
   },
   {
-   "title": "Russia’s Prized Kerch Bridge Struck In Ukrainian Drone Onslaught",
-   "url": "https://www.twz.com/news-features/russias-prized-kerch-bridge-struck-in-ukrainian-drone-onslaught",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The strategic crossing that connects occupied Crimea to Russia was left with a damaged arch over one of the road spans. The post Russia s Prized Kerch Bridge Struck In U…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/Kerch-Bridge-Attack.jpg?quality=85",
-   "age": "5h ago",
-   "published": "2026-11-16T18:46:00+00:00"
-  },
-  {
-   "title": "As exquisite radars become targets, smaller tactical sensors take on a bigger role",
-   "url": "https://breakingdefense.com/2026/11/as-exquisite-radars-become-targets-smaller-tactical-sensors-take-on-a-bigger-role/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "[Sponsored] Record demand for radars is accelerating investment in manufacturing capacity and a distributed supply chain.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/RADA-1-Smaller-1024x679.png",
-   "age": "5h ago",
-   "published": "2026-11-16T18:39:22+00:00"
-  },
-  {
-   "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-   "url": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Ho…",
-   "image": "https://cdn.jwplayer.com/videos/2uRrt87Q-5ZsksG4j.mp4",
-   "age": "6h ago",
-   "published": "2026-11-16T18:03:38+00:00"
-  },
-  {
-   "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-   "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2051431530.jpg.jpg",
-   "age": "6h ago",
-   "published": "2026-11-16T18:00:00+00:00"
-  },
-  {
-   "title": "Navy Weapons Division to Make Tomahawk Components in 2027",
-   "url": "https://news.usni.org/2026/11/16/navy-weapons-division-to-make-tomahawk-components-in-2027",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Naval Air Warfare Center Weapons Division will begin making a component for Tomahawk cruise missile warheads in June of 2027 when a new explosive and propellant mixe…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/9675422-1.jpg",
-   "age": "7h ago",
-   "published": "2026-11-16T16:41:29+00:00"
+   "title": "NFC Playoff Picture: Chicago Bears in 6th following Sunday’s games",
+   "url": "https://www.windycitygridiron.com/chicago-bears-nfl-playoffs/127658/nfc-playoff-picture-chicago-bears-fall-to-5th-with-the-detroit-lions-win",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304050980.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1d ago",
+   "published": "2026-11-16T01:17:03+00:00"
   },
   {
    "title": "When a voter can’t sign | Porter County absentee ballot dispute raises questions | Davich",
@@ -437,28 +461,6 @@
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/dd/3dd382ba-e9e2-11ed-9d74-9f64edd54298/6452ab4df14f0.image.jpg?resize=300%2C400",
    "age": "1d ago",
    "published": "2026-11-15T12:00:00+00:00"
-  },
-  {
-   "title": "Northwest Indiana teacher turns storm hardship into a lesson in preparedness for children",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_f54bfc06-55ea-49bc-a033-2a4d0fa83b64.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Wendell Mosby isn’t trying to teach children to be afraid of the next disaster. He’s trying to teach them to be prepared for it through new activity book project.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/84/384f0f80-6b10-4007-bbe4-d2e397cf9e41/6af6331231b5c.image.jpg?resize=300%2C340",
-   "age": "2d ago",
-   "published": "2026-11-14T13:15:00+00:00"
-  },
-  {
-   "title": "Friday the 13th: Why we’re still afraid of a little bad luck",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_6e09f3ee-a943-4a90-878e-3e55d5f71fd2.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Superstition isn’t really about believing in bad luck. It’s about wanting a little insurance against it. And it's a very human instinct, especially on Friday the 13th.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/f/d1/fd17f7b7-c0c3-517e-b74b-adde2fc4662f/5fae9c987227e.image.jpg?resize=300%2C203",
-   "age": "3d ago",
-   "published": "2026-11-13T14:00:00+00:00"
   }
  ]
 }
