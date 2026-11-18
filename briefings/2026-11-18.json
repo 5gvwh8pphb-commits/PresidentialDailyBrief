@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-18",
+  "dateLabel": "Wednesday, November 18, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-18T17:36:06Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~21h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, November 17, 2026 close — a broad, tech-led selloff over new AI-chip export curbs, though Nvidia's earnings beat sparked an after-hours bounce.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,340.20", "change": "-76.39", "changePct": "-1.03%", "sixMo": "-0.85%" },
+        { "name": "Dow", "close": "50,759.42", "change": "-848.75", "changePct": "-1.64%", "sixMo": "+2.2%" },
+        { "name": "Nasdaq", "close": "24,328.39", "change": "-181.37", "changePct": "-0.74%", "sixMo": "-6.8%" }
+      ],
+      "body": "Nvidia posted record $115.8 billion in fiscal third-quarter revenue, up 103% year-over-year, and guided to roughly $130 billion next quarter in its first report since Jensen Huang's resignation; shares rose about 4.5% after hours. Salesforce sank 9.5% on fears AI will displace its software, and Anthropic's IPO — expected to price above its $70-$78 range Wednesday evening — added to AI-sector jitters.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Trump heads to Shenzhen for first-ever Trump-Xi-Putin trilateral after Manila stop",
+      "body": "President Trump met Philippine President Marcos and other ASEAN and Quad leaders in Manila this week before traveling on to Shenzhen for the APEC summit; the White House says Thursday's unprecedented three-way meeting with China's Xi Jinping and Russia's Vladimir Putin will focus on nuclear arms reduction, with the Iran war and US-China trade tensions also expected to come up.",
+      "source": "Al Jazeera",
+      "url": "https://aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "China presses ahead with new South China Sea runway capable of hosting bombers",
+      "body": "Satellite imagery reviewed by analysts shows China building a nearly 3-kilometer runway on Antelope Reef in the Paracel Islands — a second strip there, expected to be operational by mid-2027 — that researchers say could host bombers and tankers and help Beijing restrict US and allied naval access in a crisis; Vietnam has called the construction illegal, and Australia's defense minister says the buildup is creating a 'condition of pressure' across Southeast Asia.",
+      "source": "AFP via The Manila Times",
+      "url": "https://www.manilatimes.net/2026/11/19/news/national/beijing-bolsters-south-china-sea-push-with-new-island-runway/2472811"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "US warplanes strike Iranian missile site on Qeshm Island after drone attacks on Gulf bases",
+      "body": "US aircraft struck an Iranian missile-launch site on Qeshm Island in the Strait of Hormuz, which an official called self-defense after Iranian drones targeted American and Kuwaiti bases in Bahrain and Kuwait; Vice President Vance said Trump won't let the standoff become a 'forever war,' even as Trump separately warned Iran would 'pay a price' over a reported plot to smuggle a 'dirty bomb' into Washington.",
+      "source": "TIME",
+      "url": "https://time.com/article/2026/11/18/qeshm-island-strikes-us-iran-end-forever-war-vance"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No dated, reputable report of a new military-technology development within the 72-hour window turned up; recent B-21 weapons-testing and Golden Dome items trace back to mid-November or earlier and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Anthropic set to price its IPO above range Wednesday, valuing Claude's maker near $1.4 trillion",
+      "body": "Anthropic plans to price 825 million shares above its $70-$78 range after Wednesday's close, with 'ANT' shares opening on Nasdaq Thursday in the first US listing by a major AI lab; bankers say orders have run roughly seven times the shares on offer. The listing lands the same day Nvidia reported record $115.8 billion in quarterly revenue and guided to 75% revenue growth this fiscal year, underscoring continued AI infrastructure demand.",
+      "source": "FinanceFeeds",
+      "url": "https://financefeeds.com/anthropic-ipo-prices-tonight-70-78-range-825-million-shares-ant-first-trade-thursday/"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The team's last roster move — placing Kentavius Street on IR and signing Stephen Carlson — dates to November 4, and no new roster, injury, or front-office news from an allowlisted outlet emerged within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Monday's crew-chief shakeup — Adam Wall replacing Rudy Fugle on the No. 24 team for 2027 — was already covered in yesterday's brief, and no other non-spoiler Byron news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA news could be confirmed within the 72-hour window; recent coverage of Covenant Seminary's incoming class and the Missouri Presbytery appeal trace back to earlier in the fall and are already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
