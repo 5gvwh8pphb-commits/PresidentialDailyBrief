@@ -1,12 +1,11 @@
 {
- "generated": "2026-11-18T00:31:01+00:00",
+ "generated": "2026-11-18T08:01:59+00:00",
  "count": 40,
- "withImage": 36,
+ "withImage": 39,
  "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
-  "Athlon Sports",
   "Breaking Defense",
   "CBS Sports NFL",
   "CHGO Bears",
@@ -14,14 +13,144 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "Sports Illustrated",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "Yahoo Sports"
+  "Windy City Gridiron"
  ],
  "items": [
+  {
+   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+   "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108307027-1778771659717-108307027-17787712372026-05-14t112253z_1326570945_rc2y8larlqzr_rtrmadp_0_china-usa.jpg?v=1778771666&amp;w=1920&amp;h=1080",
+   "age": "1m ago",
+   "published": "2026-11-18T08:00:05+00:00"
+  },
+  {
+   "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+   "url": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Acting Navy Secretary Hung Cao told senators the Navy recoded and used munitions he called expired as the Iran war strains weapons stocks and naval deployments.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108553866-1794985744938-gettyimages-2305556915-1r1_3243_kl9ngmaf.jpeg?v=1794985894&amp;w=1920&amp;h=1080",
+   "age": "37m ago",
+   "published": "2026-11-18T07:24:06+00:00"
+  },
+  {
+   "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
+   "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108553843-1794982342770-gettyimages-2305146051-AFP_D7U27T9.jpeg?v=1794986215&amp;w=1920&amp;h=1080",
+   "age": "44m ago",
+   "published": "2026-11-18T07:17:11+00:00"
+  },
+  {
+   "title": "RFK Jr. faces fierce backlash after US loses measles-free status for first time in 26 years",
+   "url": "https://www.foxnews.com/health/rfk-jr-faces-fierce-backlash-us-loses-measles-free-status-first-time-26-years",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Health and Human Services Secretary Robert F. Kennedy Jr. faces criticism after the U.S. lost measles elimination status amid over 5,400 confirmed cases this year.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/ap25106594512179-scaled.jpg?ve=1&tl=1",
+   "age": "2h ago",
+   "published": "2026-11-18T05:34:57+00:00"
+  },
+  {
+   "title": "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+   "url": "https://www.cnbc.com/2026/11/18/trump-iran-war-hormuz-oil-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Iran said its army targeted U.S. drone and missile installations at Kuwait's Ali Al Salem air base, extending a run of attacks on Gulf states.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108553819-1794975036384-gettyimages-136049704-67744493.jpeg?v=1794975054&amp;w=1920&amp;h=1080",
+   "age": "2h ago",
+   "published": "2026-11-18T05:24:54+00:00"
+  },
+  {
+   "title": "Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season",
+   "url": "https://www.foxnews.com/outkick-sports/patriots-chargers-game-loses-primetime-slot-nfl-makes-first-flex-scheduling-move-2026-season",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The NFL flexed the Las Vegas Raiders-Cleveland Browns game into Sunday Night Football for Week 12, bumping New England Patriots-Los Angeles Chargers.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Cleveland-Browns-players-celebrates.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-18T03:59:15+00:00"
+  },
+  {
+   "title": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar",
+   "url": "https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Democrats seized a 56-44 majority in the U.S. Senate after Mary Peltola defeated Alaska Republican Sen. Dan S. Sullivan in a race that featured a same-name ballot challe…",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/alaska-senate-election-results-mary-peltola.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-18T03:27:24+00:00"
+  },
+  {
+   "title": "College Football Playoff Rankings: Texas rewarded for thrilling win vs LSU, Georgia remains top dog",
+   "url": "https://www.foxnews.com/outkick-sports/college-football-playoff-rankings-texas-rewarded-thrilling-win-vs-lsu-georgia-remains-top-dog",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Arch Manning led a game-winning drive past the Tigers as Texas jumped to No. 5 in the College Football Playoff rankings, with Georgia holding at No. 1.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arch-manning-touchdown-texas-lsu.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-18T03:24:02+00:00"
+  },
+  {
+   "title": "The Mac Read Show: Chicago Bears Refocused After the Bye",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/127815/the-mac-read-show-chicago-bears-refocused-after-the-bye-ben-johnson-caleb-williams",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/Screenshot-2026-11-17-at-4.52.59-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "6h ago",
+   "published": "2026-11-18T01:49:51+00:00"
+  },
+  {
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its exist…",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2150167239.jpg?resize=1200,771",
+   "age": "6h ago",
+   "published": "2026-11-18T01:44:21+00:00"
+  },
+  {
+   "title": "Acting Navy Secretary Hung Cao faces transparency questions in Senate confirmation hearing",
+   "url": "https://www.defensenews.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "Hung Cao, the acting Navy secretary, fielded questions about his handling of updates to Congress and got into a verbal scuffle about suicide “mitigations” during his Sen…",
+   "image": "https://cdn.jwplayer.com/videos/Lz4vm83r-5ZsksG4j.mp4",
+   "age": "7h ago",
+   "published": "2026-11-18T00:58:34+00:00"
+  },
+  {
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "url": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MS_Ignite_Perception.png",
+   "age": "7h ago",
+   "published": "2026-11-18T00:27:29+00:00"
+  },
   {
    "title": "Nvidia promises that revenue will keep soaring — for now",
    "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
@@ -30,41 +159,8 @@
    "topic": "ai",
    "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn'…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
-   "age": "14m ago",
+   "age": "7h ago",
    "published": "2026-11-18T00:16:50+00:00"
-  },
-  {
-   "title": "Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question",
-   "url": "https://www.foxnews.com/outkick-sports/paige-spiranac-leaves-field-little-imagination-asking-nfl-fans-tough-question",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Paige Spiranac showcases a new NFL collection for Swag Golf while asking fans which team is their favorite, revealing her Steelers and Bills roots.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paige-spiranac-nfl-fans-favorite-team.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-11-18T00:15:49+00:00"
-  },
-  {
-   "title": "Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany",
-   "url": "https://www.foxnews.com/outkick-sports/steelers-star-says-international-games-freak-me-out-after-aidan-hutchinson-injury-germany",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Pittsburgh Steelers star Cameron Heyward said international games freak me out over field concerns after Aidan Hutchinson s brutal injury in Germany.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aidan-hutchinson-injury-sack-celebration.jpg?ve=1&tl=1",
-   "age": "22m ago",
-   "published": "2026-11-18T00:08:36+00:00"
-  },
-  {
-   "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-   "url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Semiconductor shipments spiked almost 50% year on year.",
-   "image": "https://image.cnbcfm.com/api/v1/image/107218244-1680236397700-gettyimages-150238247-ADVANTEST.jpeg?v=1753663268&amp;w=1920&amp;h=1080",
-   "age": "24m ago",
-   "published": "2026-11-18T00:06:25+00:00"
   },
   {
    "title": "Stripe backer Atomico calls for Europe to own its success stories",
@@ -74,30 +170,8 @@
    "topic": "ai",
    "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Tom-Wehmeier-Atomico.jpg?resize=1200,800",
-   "age": "30m ago",
+   "age": "8h ago",
    "published": "2026-11-18T00:01:00+00:00"
-  },
-  {
-   "title": "Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight",
-   "url": "https://www.foxnews.com/outkick-sports/irish-boxer-lee-reeves-dies-31-three-months-coma-following-dublin-fight",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Lee Reeves died at 31 after emergency brain surgery and a medically induced coma following his 10th-round knockout loss to Gary Cully at Dublin s 3Arena.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lee-reeves-gary-cully-boxing-dublin.jpg?ve=1&tl=1",
-   "age": "35m ago",
-   "published": "2026-11-17T23:55:17+00:00"
-  },
-  {
-   "title": "Kyle Whittingham addresses job security questions at Michigan, makes more headlines with UCLA comments",
-   "url": "https://www.foxnews.com/outkick-sports/kyle-whittingham-addresses-job-security-questions-michigan-makes-more-headlines-ucla-comments",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Michigan Wolverines coach Kyle Whittingham says UCLA built its stunning rise on 20-plus transfer portal players taken from James Madison University.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/kyle-witt-michigan.jpg?ve=1&tl=1",
-   "age": "45m ago",
-   "published": "2026-11-17T23:45:18+00:00"
   },
   {
    "title": "Week 11 Chicago Bears power rankings roundup",
@@ -107,7 +181,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304207190.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "46m ago",
+   "age": "8h ago",
    "published": "2026-11-17T23:45:00+00:00"
   },
   {
@@ -118,7 +192,7 @@
    "topic": "defense",
    "summary": "Russian aircraft violated Japanese airspace and approached Taiwan before two Tu-95s and two Il-76s touched down in Da Nang. The post Russian Tu-95 Bombers Arrive In Viet…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/Bears-Vietnam-TU95.jpg?quality=85",
-   "age": "51m ago",
+   "age": "8h ago",
    "published": "2026-11-17T23:39:58+00:00"
   },
   {
@@ -129,7 +203,7 @@
    "topic": "ai",
    "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-   "age": "53m ago",
+   "age": "8h ago",
    "published": "2026-11-17T23:37:48+00:00"
   },
   {
@@ -140,7 +214,7 @@
    "topic": "defense",
    "summary": "WASHINGTON — The chair of the Senate Armed Services Committee told Navy Secretary nominee Hung Cao that the White House’s plan to go back to steam catapults on the Ford-…",
    "image": "https://news.usni.org/wp-content/uploads/2026/02/9517796-scaled.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-17T23:17:02+00:00"
   },
   {
@@ -151,19 +225,8 @@
    "topic": "ai",
    "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-17T23:09:09+00:00"
-  },
-  {
-   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2290097570.jpg?w=1024",
-   "age": "1h ago",
-   "published": "2026-11-17T23:04:35+00:00"
   },
   {
    "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
@@ -173,7 +236,7 @@
    "topic": "ai",
    "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/VV28_Decollage_plan_large_ZLV-1152x648.jpg",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-17T22:44:46+00:00"
   },
   {
@@ -184,7 +247,7 @@
    "topic": "ai",
    "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-17T22:32:16+00:00"
   },
   {
@@ -195,7 +258,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/betmqdw9pfuz3izbzdrh.jpg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-17T22:22:23+00:00"
   },
   {
@@ -206,7 +269,7 @@
    "topic": "defense",
    "summary": "Opposition is growing to Trump's call to abandon electromagnetic catapults on future Ford class carriers, which would be costly and risky. The post Trump s Demand For St…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/wicker-steam-capaults-new-aircraft-carriers-non-starter.jpg?quality=85",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-17T22:16:24+00:00"
   },
   {
@@ -217,30 +280,8 @@
    "topic": "defense",
    "summary": "South Korean defense giant Hanwha said it successfully launched missiles from a palletizable multi-pod launcher system at sea.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/Chunmoo-MRLS.JPG.jpg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-17T22:06:50+00:00"
-  },
-  {
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108553426-1794946597994-gettyimages-2305585679-mms14960_jva25pzk.jpeg?v=1794946629&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-17T22:03:57+00:00"
-  },
-  {
-   "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
-   "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108198451-1757716022379-gettyimages-2235105504-jr_11883_j8ffmspx.jpeg?v=1794934186&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-17T22:02:05+00:00"
   },
   {
    "title": "Lawmakers challenge Trump’s push to bring steam catapults back to Ford-class carriers",
@@ -250,7 +291,7 @@
    "topic": "defense",
    "summary": "The bipartisan pushback came during Acting Navy Secretary Hung Cao’s confirmation hearing, where senators questioned the cost and capability trade-offs of returning futu…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/9493393-scaled-e1772661283927-1024x577.jpg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-17T22:01:35+00:00"
   },
   {
@@ -261,7 +302,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/09/08/8c9b2f2a-2dd9-45bb-932a-45e8faf837ef/betmgm-promo-code-september-2026.jpg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-17T21:40:43+00:00"
   },
   {
@@ -272,19 +313,8 @@
    "topic": "defense",
    "summary": "The proposed deal comes at a time when many in Europe have grown increasingly concerned about the reliance on the US for space launch and military space capabilities.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/ICEYE-resized-1024x576.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-17T21:12:16+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Spurs-Pistons, Duke-Illinois on Tuesday",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-spurs-pistons-duke-illinois-tuesday/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-   "age": "3h ago",
-   "published": "2026-11-17T21:11:32+00:00"
   },
   {
    "title": "NFL schedule flex: League moves Week 12 'Sunday Night Football' matchup, shifts afternoon games",
@@ -294,7 +324,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/11/17/e517679d-008f-45b3-8163-87867f0015a3/lv.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-17T21:04:25+00:00"
   },
   {
@@ -305,7 +335,7 @@
    "topic": "defense",
    "summary": "The completed drones will compete at the Army’s third Drone Dominance Gauntlet event in March where the systems will face “complex” obstacle courses, heavy electronic ja…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Accenture-edge-1-e1794945889196-1024x577.jpg",
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-17T20:44:33+00:00"
   },
   {
@@ -316,19 +346,8 @@
    "topic": "defense",
    "summary": "Ukraine is expanding its use of large drones for battlefield medical evacuations. Watch as a Ukrainian team uses an aerial drone to transport a wounded soldier from a fo…",
    "image": "https://cdn.jwplayer.com/videos/XFncLpXw-5ZsksG4j.mp4",
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-17T20:31:20+00:00"
-  },
-  {
-   "title": "Wall Street's fear gauge is surging again and this time it's not just about AI jitters",
-   "url": "https://www.cnbc.com/2026/11/17/wall-streets-fear-gauge-is-surging-again-and-this-time-its-not-just-about-ai-jitters.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "VIX up four days in a row as options traders show fear unseen since April",
-   "image": "https://image.cnbcfm.com/api/v1/image/108553205-1794932257619-Traders-Photo-20261116-KK-PRESS-006.jpg?v=1794932755&amp;w=1920&amp;h=1080",
-   "age": "4h ago",
-   "published": "2026-11-17T20:28:07+00:00"
   },
   {
    "title": "Chicago Bears Stock Watch: Burden, Booker up, Johnson, Santos down",
@@ -338,7 +357,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2303219802.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-17T20:00:00+00:00"
   },
   {
@@ -349,7 +368,7 @@
    "topic": "defense",
    "summary": "The Trump administration nominated Gen. Christopher LaNeve as chief of staff of the Army.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/AP25294769862075.jpg.jpg",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-17T19:33:32+00:00"
   },
   {
@@ -360,7 +379,7 @@
    "topic": "defense",
    "summary": "Ukraine brought an eclectic arsenal of homegrown and foreign drones and missiles to bear in its campaign to sever Russia’s critical logistics link to Crimea. The post Th…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/kerch_bridge_Missile.jpg?quality=85",
-   "age": "5h ago",
+   "age": "12h ago",
    "published": "2026-11-17T19:22:29+00:00"
   },
   {
@@ -371,7 +390,7 @@
    "topic": "defense",
    "summary": "Suspected Russian aircraft violated Japanese territorial airspace twice on Thursdays, prompting fighter aircraft to be scrambled in response, Japan’s Defense Minister an…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/RussianaircraftpathJapanMOD.jpg",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-17T18:48:15+00:00"
   },
   {
@@ -382,8 +401,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/03/gettyimages-2256980900.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-17T18:30:00+00:00"
+  },
+  {
+   "title": "Taxes hurt: Breaking down an NFL player's weekly pay stub and where all the money goes",
+   "url": "https://www.cbssports.com/nfl/news/nfl-contract-values-taxes-2026/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/17/15b31eba-1942-4d64-8f4c-b1de6571853e/rashee-rice.jpg",
+   "age": "13h ago",
+   "published": "2026-11-17T18:14:56+00:00"
   },
   {
    "title": "Opening Remarks from Acting Navy Secretary Hung Cao’s Confirmation Hearing",
@@ -393,19 +423,8 @@
    "topic": "defense",
    "summary": "The following is Acting Secretary of the Navy Hung Cao’s opening remarks, provided to the U.S. Senate Committee on Armed Services during Cao’s confirmation hearing on No…",
    "image": null,
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-17T17:52:31+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports Splits William Byron and His Crew Chief in Latest Team Shakeup",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3NIYzdpN0ltb0pWQjFVYVlrbkRiQVFrRlFuUF9GRGZRVUlWMkJHeWQ1V183MG5jd0JFWGdPNlJkU2xVNWtDV3VNZXRhZFQ2RFJMN2xNNmlOay1qWlQ2SW1XNDloUWJ4NFNUNGdSR1gyWUJOczdsRDQ4al84LVpfU3E3QVZsLU01ZnNOTjFSNG44cml5M0tZVDE4WmdHSExsejhHYjlFNURYNEY2c3ZjckItV1NvRlduQ2c?oc=5",
-   "source": "Athlon Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "12h ago",
-   "published": "2026-11-17T11:50:07+00:00"
   },
   {
    "title": "Bears hoping to hit the ground running after bye week",
@@ -417,17 +436,6 @@
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/b7fwbuvg7wrslhsa4qjl.jpg",
    "age": "1d ago",
    "published": "2026-11-16T23:30:45+00:00"
-  },
-  {
-   "title": "NASCAR’s Hendrick Team Announces Big William Byron, Alex Bowman Changes",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejlraWdCTFVZMDhLbkdENUdmYXM2NnlKT21MRVJBTTFTc3ZtNi1iS0dQMlRSN0dhNDBvU1hSLUxFdVhmblpnZ2FGSFVmYmI3amgwRVRYOGZoTF96Tmt0aDBSSUoweTdNZ3dSR3RSY0lSeHp2UHFNSzFFclZ3X0lBX214bmlqcVpFbUJR?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-11-16T23:19:08+00:00"
   },
   {
    "title": "Bears running back Kyle Monangai ‘on track’ to return in Week 11 against Saints",
@@ -450,17 +458,6 @@
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/16150929/Bears_BraggsBlog-5-1024x576.jpg",
    "age": "1d ago",
    "published": "2026-11-16T21:12:04+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports Shuffles Cup Series Crew Chief Lineup In 2027",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2c3T1NwbVNnTWVmb3VIRjZpdmhpSG5KZTVjdkFjM211eS1JY2NTVUtUak0zX1RjM2xKVmU3SkdLRlVMeVFrWkd0U1hnOEZaSC1mNnp1M3pZZV8tckZheUMySWZIbWtua0oyMGJyNzk2V19RQUlPeHVNaHpuTEEyU1cydnQ0QTkxWHQ2aU1WeHlfWjBHdnlwY1ZNczFSLTVCaVprMjFnQWhQejg3SmxZ?oc=5",
-   "source": "Sports Illustrated",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-11-16T20:12:01+00:00"
   }
  ]
 }
