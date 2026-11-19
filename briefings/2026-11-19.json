@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-19",
+  "dateLabel": "Thursday, November 19, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-19T17:39:26Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~21h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, November 18, 2026 close — a choppy, mixed session as Nvidia's post-earnings pop faded while traders braced for Anthropic's record Nasdaq debut.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,323.63", "change": "-16.90", "changePct": "-0.23%", "sixMo": "-1.1%" },
+        { "name": "Dow", "close": "50,198.17", "change": "-561.25", "changePct": "-1.11%", "sixMo": "+1.0%" },
+        { "name": "Nasdaq", "close": "24,429.88", "change": "+101.50", "changePct": "+0.42%", "sixMo": "-6.4%" }
+      ],
+      "body": "Nvidia gave back part of its post-earnings gain and UnitedHealth led healthcare stocks lower, pulling the Dow down for a second straight day, while the Nasdaq managed a small gain; Anthropic priced its IPO above its $70-$78 range after the close, setting up Thursday's record Nasdaq debut under ticker ANT.",
+      "source": "The Associated Press",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11182026-nid18112026/"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~6h ago",
+      "empty": false,
+      "headline": "Trump, Xi and Putin hold first-ever trilateral summit in Shenzhen, but no nuclear arms deal emerges",
+      "body": "The three leaders met on the sidelines of the APEC summit for an unprecedented three-way sit-down focused on nuclear arms reduction, along with the Iran war and Ukraine, and issued a joint declaration; Russia and China showed little appetite for binding new limits on their arsenals, and no reduction agreement was confirmed, with Xi saying he favors prohibiting nuclear weapons but declining to call the talks an arms-control effort.",
+      "source": "IBTimes UK",
+      "url": "https://www.ibtimes.co.uk/trump-xi-putin-first-trilateral-summit-nuclear-arms-1833393"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "US tightens AI-chip export curbs to close China's cloud loophole; Beijing warns of countermeasures",
+      "body": "A new Commerce Department rule adds license requirements for advanced AI-chip exports to overseas data centers that Chinese firms could use to access the chips remotely, targeting diversion through countries including Singapore, Malaysia and Brazil, and formally rescinds the Biden-era AI Diffusion Rule; China's Commerce Ministry called the move unjustified and warned it would take countermeasures to protect its sovereignty and security interests.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/tech/article/3374639/us-tightens-ai-chip-export-curbs-close-chinas-overseas-data-centre-loophole"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The most recent development — US strikes on an Iranian missile site on Qeshm Island after drone attacks on Gulf bases — was already reported in yesterday's brief, and no new, independently verified military development surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No dated, reputable report of a new military-technology development within the 72-hour window turned up; the B-21/F-47 schedule updates and the Golden Dome funding fight trace back to mid-November or earlier and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~2h ago",
+      "empty": false,
+      "headline": "Anthropic's Nasdaq debut opens 34% above its IPO price in the largest-ever public offering",
+      "body": "Shares of Claude's maker began trading on Nasdaq under ticker ANT at $111.50, about 34% above the $83 IPO price, after the $81.3 billion offering set a record as the largest IPO in history; the stock pulled back toward the $100-$101 range by midday as broader markets, including the Dow, fell more than 600 points amid profit-taking in AI names.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/11/19/business/live-news/anthropic-ipo"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new roster, injury, or front-office news from an allowlisted outlet emerged within the 72-hour window; the team's last confirmed move remains the Kentavius Street injured-reserve placement from earlier this month.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Monday's crew-chief shakeup — Adam Wall replacing Rudy Fugle on the No. 24 team for 2027 — was already covered earlier this week, and no other non-spoiler Byron news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA news could be confirmed within the 72-hour window; recent items on the 53rd General Assembly's stated-clerk transition and 2027 Milwaukee planning trace back to earlier in the year and are already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
