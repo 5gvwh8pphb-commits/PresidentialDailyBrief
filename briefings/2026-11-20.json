@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-20",
+  "dateLabel": "Friday, November 20, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-20T17:20:42Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Thursday, November 19, 2026 close — a broad AI-stock selloff dragged the S&P 500 to a sixth straight loss despite strong demand for Anthropic's Wall Street debut.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,175.83", "change": "-147.80", "changePct": "-2.02%", "sixMo": "-2.4%" },
+        { "name": "Dow", "close": "49,097.06", "change": "-1,101.11", "changePct": "-2.19%", "sixMo": "-0.54%" },
+        { "name": "Nasdaq", "close": "23,879.20", "change": "-550.69", "changePct": "-2.25%", "sixMo": "-7.7%" }
+      ],
+      "body": "More than 90% of S&P 500 stocks fell as AI-bubble worries deepened, pulling the index to its longest losing streak since 2024 and 8.2% below last month's record even as Anthropic's ANT shares drew strong investor interest on their Nasdaq debut; the Dow closed below 50,000 for the first time since June, and all three indexes are down 5-6% for the week.",
+      "source": "The Associated Press",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11192026-nid19112026/"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Hegseth signs deal to restore US-Venezuela military ties in surprise Caracas visit",
+      "body": "Defense Secretary Pete Hegseth made an unannounced trip to Caracas and signed an agreement with acting President Delcy Rodriguez to resume joint training, intelligence sharing and defense-equipment cooperation aimed at narco-terrorist groups, less than a year after a US operation captured Nicolas Maduro; Hegseth said expanded US access to Venezuelan oil also makes the Strait of Hormuz 'a non-factor for the Western Hemisphere.'",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Xi warns Trump against 'great turbulence' over Taiwan during historic Shenzhen summit",
+      "body": "Meeting Trump privately before their trilateral sit-down with Putin, Xi Jinping said the US must keep 'doing the right thing' on Taiwan to avoid igniting 'great turbulence' in the relationship, echoing a May warning that mishandling the issue could lead to conflict; Beijing has pressed Washington to drop a congressionally approved $14 billion Taiwan arms package that Trump has called a possible 'negotiating chip.'",
+      "source": "ABC News",
+      "url": "https://abcnews.com/International/xi-tells-trump-us-thing-taiwan-avoid-great/story?id=138283818"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The Qeshm Island strikes and the carrier buildup in the Gulf were already reported in recent briefs, and no new, independently verified military development surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No dated, reputable report of a new military-technology development within the 72-hour window turned up; the B-21/F-47 schedule updates and Golden Dome satellite progress trace back to mid-November or earlier and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1h ago",
+      "empty": false,
+      "headline": "Anthropic shares give back most of debut-day gains in second day of trading",
+      "body": "ANT fell as much as 13% intraday Friday, erasing most of Thursday's 17% pop above its $83 IPO price, as investors took profits across the AI trade; Nvidia, AMD and Micron each dropped more than 7% in the same broad selloff, which pushed the Nasdaq down roughly 3% on the day.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Kyler Gordon sidelined, Jeffery Simmons limited as Bears prep for Saints",
+      "body": "Cornerback Kyler Gordon did not practice Wednesday with a shoulder injury coach Ben Johnson called 'day-to-day,' while defensive tackle Jeffery Simmons was limited with a knee issue after sitting out Tuesday; receiver Luther Burden has cleared the concussion protocol with no injury designation ahead of Sunday's home game against the Saints.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/11/18/bears-injury-report-cb-kyler-gordon-jeffery-simmons-out-limited-nfl"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The crew-chief shakeup and Axalta's planned 2027 rebrand to Axanzo have already been covered or trace back more than a week, and no other non-spoiler Byron news surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA news could be confirmed within the 72-hour window; the available coverage of the stated-clerk transition and General Assembly actions traces back to earlier in the year.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
