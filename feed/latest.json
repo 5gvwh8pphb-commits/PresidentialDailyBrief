@@ -1,90 +1,136 @@
 {
- "generated": "2026-11-20T02:44:24+00:00",
+ "generated": "2026-11-20T10:42:36+00:00",
  "count": 40,
- "withImage": 35,
- "bearsDay": false,
+ "withImage": 36,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
-  "Athlon Sports",
+  "Beyond the Flag",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NASCAR.com",
   "NWI Times",
-  "Sports Illustrated",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "Anthropic IPO 'exactly what the markets need', but analysts warn of volatility",
-   "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-stocks-market.html",
+   "title": "Americans don’t have to choose between our AI future and ripping off copyright owners",
+   "url": "https://www.foxnews.com/opinion/americans-dont-choose-between-ai-future-ripping-off-copyright-owners",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "The DOJ s embrace of fair use for AI training breaks with the White House s own framework, as OpenAI, Microsoft and news groups battle over copyright.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Sam_Altman_UAE.jpg?ve=1&tl=1",
+   "age": "just now",
+   "published": "2026-11-25T10:00:00+00:00"
+  },
+  {
+   "title": "Anthropic shares fall 6% in premarket amid AI selloff as Nvidia, AMD shares drop",
+   "url": "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The Anthropic IPO is \"what the markets need.\" However, analysts say its shares will be volatile in the coming weeks.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108556065-1795129225164-gettyimages-2305353821-ANTHROPIC_IPO.jpeg?v=1795129353&amp;w=1920&amp;h=1080",
-   "age": "10m ago",
-   "published": "2026-11-20T02:33:39+00:00"
+   "summary": "Anthropic soared 17% in its first day of trading on Thursday.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108556066-1795129874503-108556066-1795129228984-gettyimages-2305354070-ANTHROPIC_IPO.jpeg?v=1795144010&amp;w=1920&amp;h=1080",
+   "age": "33m ago",
+   "published": "2026-11-20T10:08:47+00:00"
   },
   {
-   "title": "LSU poked the SEC bear, then folded: RJ Luis benched after conference leaders discussed expulsion or boycott",
-   "url": "https://www.foxnews.com/outkick-sports/lsu-poked-sec-bear-then-folded-rj-luis-benched-after-conference-leaders-discussed-expulsion-boycott",
+   "title": "‘Austin Powers’ star Mike Myers seems to think liberal Hollywood is just ‘groovy’",
+   "url": "https://www.foxnews.com/opinion/austin-powers-star-mike-myers-liberal-hollywood-groovy",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Sources tell OutKick SEC schools weighed boycotting games against LSU and expelling the Tigers before the school benched RJ Luis amid the legal fight.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/rj-luis-jr-lsu-tigers-baton-rouge.jpg?ve=1&tl=1",
-   "age": "38m ago",
-   "published": "2026-11-20T02:05:38+00:00"
+   "summary": "Mike Myers teased political commentary for Austin Powers in a Variety interview posted on Veterans Day, Nov. 11, saying the world has happened.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Dr-Evil-screenshot.png?ve=1&tl=1",
+   "age": "41m ago",
+   "published": "2026-11-20T10:00:43+00:00"
   },
   {
-   "title": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages",
-   "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired",
+   "title": "Trump will face reporters after historic Xi-Putin talks as war questions linger",
+   "url": "https://www.foxnews.com/politics/trump-face-reporters-historic-xi-putin-talks-war-questions-linger",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "President Donald Trump backed the firing of National Cyber Director Sean Cairncross over cybersecurity credentials, with Kirsten A. Davies stepping in.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Sean-Cairncross-fired.jpg?ve=1&tl=1",
-   "age": "43m ago",
-   "published": "2026-11-20T02:00:36+00:00"
+   "summary": "President Donald Trump faces reporters Friday after Shenzhen summit with Xi Jinping and Putin yielded a nuclear risk pledge but no Ukraine breakthrough.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/donald-trump-xi-jinping-apec-tarmac-5.jpg?ve=1&tl=1",
+   "age": "42m ago",
+   "published": "2026-11-20T10:00:11+00:00"
   },
   {
-   "title": "Concerns about circulation of Texans linebacker who suffered serious leg injury on opening kickoff",
-   "url": "https://www.foxnews.com/outkick-sports/concerns-circulation-texans-linebacker-suffered-serious-leg-injury-opening-kickoff",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Texans linebacker Chris Braswell was carted off after a leg injury on the opening kickoff of Thursday Night Football against the Indianapolis Colts.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chris-braswell-injured-texans-colts.jpg?ve=1&tl=1",
-   "age": "44m ago",
-   "published": "2026-11-20T02:00:05+00:00"
-  },
-  {
-   "title": "EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade",
-   "url": "https://www.foxnews.com/politics/exclusive-retired-police-sergeant-issues-warning-over-mamdanis-nypd-shake-up-ahead-thanksgiving-parade",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "New York City s Macy s Thanksgiving Day Parade could face security gaps after the NYPD s Strategic Response Group disbandment, a retired sergeant warns.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Mamdani-disbands-SRG-at-NYPD.jpg?ve=1&tl=1",
+   "title": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
+   "url": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108556302-1795166115340-gettyimages-2305419108-contini-coalitio261119_npkEq.jpeg?v=1795166297&amp;w=1920&amp;h=1080",
    "age": "46m ago",
-   "published": "2026-11-20T01:57:47+00:00"
+   "published": "2026-11-20T09:56:03+00:00"
   },
   {
-   "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-   "url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
+   "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
+   "url": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108555014-1795079642832-gettyimages-2215845730-AFP_47TW9CP.jpeg?v=1795079673&amp;w=1920&amp;h=1080",
-   "age": "55m ago",
-   "published": "2026-11-20T01:49:03+00:00"
+   "summary": "Putin was positioned as an equal beside the leaders of the U.S. and China, handing a win to the authoritarian leader bogged down in a multi-year war.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108556213-1795151957529-gettyimages-2305279455-AFP_D7Y8729.jpeg?v=1795152010&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-20T09:26:45+00:00"
+  },
+  {
+   "title": "The U.S. national cyber director is stepping down",
+   "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+   "age": "1h ago",
+   "published": "2026-11-20T09:14:19+00:00"
+  },
+  {
+   "title": "Australia receives first 2 of 13 additional Seahawk helicopters",
+   "url": "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The deliveries will expand the Royal Australian Navy s MH-60R fleet to 36 aircraft by early 2028 as part of a broader effort to modernize Australia s naval aviation capa…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/20261002ran8649366_0337-e1795101323795-1024x577.jpg",
+   "age": "3h ago",
+   "published": "2026-11-20T07:00:00+00:00"
+  },
+  {
+   "title": "Bengals duo could break NFL record that has stood for 31 years: Ja'Marr Chase and Tee Higgins on historic pace",
+   "url": "https://www.cbssports.com/nfl/news/bengals-duo-could-break-nfl-record-jamarr-chase-tee-higgins-historic-pace/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/20/cd4b0c43-af4e-4c39-b844-1e2c8b759cf2/bengalsduo.jpg",
+   "age": "8h ago",
+   "published": "2026-11-20T02:07:10+00:00"
+  },
+  {
+   "title": "Indianapolis Colts at Houston Texans TNF Open Thread!",
+   "url": "https://www.windycitygridiron.com/general/127886/indianapolis-colts-at-houston-texans-tnf-open-thread",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY29932280495267315.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "9h ago",
+   "published": "2026-11-20T01:11:00+00:00"
   },
   {
    "title": "The Jet That Always Shadows Air Force One When The President Travels Abroad",
@@ -94,7 +140,7 @@
    "topic": "defense",
    "summary": "The E-4B Nightwatch, a heavily modified 747, is the Pentagon's survivable airborne command post, and having one nearby is standard for POTUS visits overseas. The post Th…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/e-4b-shadow-air-force-one.jpg?quality=85",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-20T01:01:44+00:00"
   },
   {
@@ -105,19 +151,19 @@
    "topic": "ai",
    "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/06/iphone-usb-cable.jpg?resize=1200,800",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-20T00:56:01+00:00"
   },
   {
-   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
-   "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-20T00:53:55+00:00"
+   "title": "Bills to retire franchise legend Andre Reed's No. 83 during the 2027 season",
+   "url": "https://www.cbssports.com/nfl/news/bills-to-retire-andre-reeds-no-83-during-the-2027-season/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/20/a1715ec3-4d95-4b41-bbec-5814a9db53e8/andrereedbills.jpg",
+   "age": "9h ago",
+   "published": "2026-11-20T00:46:54+00:00"
   },
   {
    "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
@@ -127,41 +173,19 @@
    "topic": "ai",
    "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/antrhopic-openingday-getty.jpg?resize=1200,801",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-20T00:43:50+00:00"
   },
   {
-   "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-   "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the …",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-12.43.24-AM.png?resize=1200,601",
-   "age": "2h ago",
-   "published": "2026-11-20T00:26:03+00:00"
-  },
-  {
-   "title": "AMD dives on short seller report of alleged China exposure",
-   "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "AMD closed down over 7% after a short seller alleged that its firmware showed up at a blacklisted Chinese company. AMD said it complies with U.S. law.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108475785-1793209626528-gettyimages-2298419069-SKOREA_AMD.jpeg?v=1793209658&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-20T00:08:34+00:00"
-  },
-  {
-   "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-   "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead z…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/starlink.jpg?resize=1200,800",
-   "age": "3h ago",
-   "published": "2026-11-19T23:37:56+00:00"
+   "title": "Week 11 NFL betting promos: Get almost $4,000 in bonuses from betting apps, sportsbooks for Texans vs. Colts",
+   "url": "https://www.cbssports.com/betting/news/week-11-nfl-betting-promos-get-almost-4000-in-bonuses-betting-apps-sportsbooks-texans-vs-colts/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/21/5cdc8bd3-0de6-404e-a477-ffbd6b2ea046/c-j-stroud-houston-texans-imagn-images.jpg",
+   "age": "10h ago",
+   "published": "2026-11-20T00:35:32+00:00"
   },
   {
    "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
@@ -171,7 +195,7 @@
    "topic": "ai",
    "summary": "Amazon now uses its shopping platform for political purposes.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1243765669-1024x648.jpg",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-19T22:16:37+00:00"
   },
   {
@@ -182,8 +206,19 @@
    "topic": "defense",
    "summary": "Squire is being sent to the CENTCOM area of responsibility as the Pentagon continues to surge uncrewed systems into the region. The post Regent Squire Wing-In-Ground Eff…",
    "image": "https://www.twz.com/wp-content/uploads/2026/04/Squire5.scaled.jpg?quality=85",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-19T22:08:02+00:00"
+  },
+  {
+   "title": "6 things we learned from Bears coordinators",
+   "url": "https://www.chicagobears.com/news/6-things-we-learned-from-bears-coordinators-cam-lewis-saints-november-19-2026",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/yuzgriiairp4hxnc9myz.jpg",
+   "age": "13h ago",
+   "published": "2026-11-19T21:39:43+00:00"
   },
   {
    "title": "US missile shortages create a range problem, report shows",
@@ -193,8 +228,19 @@
    "topic": "defense",
    "summary": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2265017141.jpg.jpg",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-19T21:23:13+00:00"
+  },
+  {
+   "title": "Bears staffers 'give flowers' to their champions ahead of Celebrating Women and Girls in Sports game",
+   "url": "https://www.chicagobears.com/news/bears-staffers-give-flowers-their-champions-ahead-of-celebrating-women-and-girls-in-sports-game",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ytpqldzmkip7l2tb9rqs.png",
+   "age": "13h ago",
+   "published": "2026-11-19T21:20:00+00:00"
   },
   {
    "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
@@ -204,7 +250,7 @@
    "topic": "ai",
    "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-870760928-1152x648.jpg",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-19T21:19:12+00:00"
   },
   {
@@ -215,8 +261,19 @@
    "topic": "defense",
    "summary": "WASHINGTON — The Navy wants a new foreign-owned shipyard devoted to building small surface combatants in the United States, the service’s nominee for its number two civi…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/9839778-scaled.jpg",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-19T21:15:50+00:00"
+  },
+  {
+   "title": "Bears Jeffery Simmons is limited again, but it s no big deal",
+   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/127896/bears-jeffery-simmons-is-limited-again-but-its-no-big-deal",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2026newsml_MT1USATODAY30257911352055500.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "13h ago",
+   "published": "2026-11-19T21:15:00+00:00"
   },
   {
    "title": "Toti pushes new foreign-built shipyard in the US to focus on frigates, large surface combatants",
@@ -226,7 +283,7 @@
    "topic": "defense",
    "summary": "Foreign shipbuilding has emerged as a sticking point between Congress and the Trump administration, with the administration pushing for an expansion of the so-called Fin…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/07/IMG_5929-scaled-e1751502454360-1024x577.jpeg",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-19T21:08:27+00:00"
   },
   {
@@ -237,7 +294,7 @@
    "topic": "defense",
    "summary": "Denmark's parliament unanimously ratified a security agreement with the United States on Greenland on Thursday, hoping to end a standoff over the Arctic island's future.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-19T181802Z_3_LYNXNPEMAI0DF_RTROPTP_4_USA-TRUMP-GREENLAND.jpg",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-19T20:57:05+00:00"
   },
   {
@@ -248,7 +305,7 @@
    "topic": "defense",
    "summary": "The U.S. expanded its blockade of Iranian ports and coastline to include any ship that receives cargo via ship-to-ship transfer, according to Joint Maritime Information …",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/9670531-scaled.jpg",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-19T20:54:23+00:00"
   },
   {
@@ -259,19 +316,8 @@
    "topic": "ai",
    "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/getty-digital-gavel-1152x648.jpg",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-19T20:29:46+00:00"
-  },
-  {
-   "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-   "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-458680569-1152x648-1795115965.jpg",
-   "age": "6h ago",
-   "published": "2026-11-19T20:19:28+00:00"
   },
   {
    "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
@@ -281,7 +327,7 @@
    "topic": "defense",
    "summary": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Ho…",
    "image": "https://cdn.jwplayer.com/videos/2uRrt87Q-5ZsksG4j.mp4",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-19T19:57:54+00:00"
   },
   {
@@ -292,30 +338,8 @@
    "topic": "defense",
    "summary": "With Democrats preparing to take control of the House Armed Services Committee, a Republican leadership race could shape the next round of Pentagon oversight.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/CRU40-pb-1024x576.png",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-19T19:54:46+00:00"
-  },
-  {
-   "title": "Army extends Data Operations Center pilot to Oct. 2027",
-   "url": "https://breakingdefense.com/2026/11/army-extends-data-operations-center-pilot-to-oct-2027/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The service is using the additional time to evaluate the center s workload, refine its processes and determine the staffing and organizational structure needed to make i…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/10/94902611-scaled-e1792076499416-1024x577.jpg",
-   "age": "7h ago",
-   "published": "2026-11-19T19:01:34+00:00"
-  },
-  {
-   "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "“DoD does not have an overarching plan that links munitions production and funding to requirements,” warned the Government Accountability Office study.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/9009985.jpg",
-   "age": "7h ago",
-   "published": "2026-11-19T18:59:12+00:00"
   },
   {
    "title": "Ukraine Wants More Mirage 2000 Fighters. Where Could They Come From?",
@@ -325,30 +349,19 @@
    "topic": "defense",
    "summary": "Quickly obtaining more Mirage 2000s is at the top of Kyiv’s priority list, but finding them in significant numbers won’t be easy. The post Ukraine Wants More Mirage 2000…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/MIRAGE-2000-5F.jpg?quality=85",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-11-19T18:57:09+00:00"
   },
   {
-   "title": "Impacts Of Latest Neptune Missile Strike On Kerch Bridge Seen In Satellite Imagery",
-   "url": "https://www.twz.com/news-features/impacts-of-latest-neptune-missile-strike-on-kerch-bridge-seen-in-satellite-imagery",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "The rail span is proving to be a harder nut for Ukraine to crack than the roadway one. The post Impacts Of Latest Neptune Missile Strike On Kerch Bridge Seen In Satellit…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/kerch-bridge-rail-span-strikes-imagery.jpg?quality=85",
-   "age": "8h ago",
-   "published": "2026-11-19T18:14:45+00:00"
-  },
-  {
-   "title": "Raytheon taps Ursa Major, Avio USA as second source for Tomahawk solid rocket motors",
-   "url": "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The two firms will jointly develop and produce the motors for Raytheon under a “multi-year program,” according to a joint press release.",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/03/GettyImages-2263711844-scaled-e1773409785376-1024x577.jpg",
-   "age": "9h ago",
-   "published": "2026-11-19T17:24:48+00:00"
+   "title": "Veteran Crew Chief Drops Bombshell Reveal on Hendrick Motorsports’ Internal Shakeup",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWTFMU3AxVG1uUDYxUjBOVkVuTTdMTmtJdW9XOFZHNHpHZ05zaXYyRExMdmdwYzBjVEVWaEo4YzdqV0JCS2FoaGtIN1dnZVdfLTZNSVJzNzJVVmxiY1VzT0EyWkFEWEhnZTl2aTk2YXRlekRidHpXYi0wQUh2UW5GNEN5Tmk4V0lScmFn?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
+   "summary": "",
+   "image": null,
+   "age": "16h ago",
+   "published": "2026-11-19T18:17:15+00:00"
   },
   {
    "title": "Report to Congress on the Creation of an Autonomous Warfare Command",
@@ -358,19 +371,19 @@
    "topic": "defense",
    "summary": "The following is the Nov. 18, 2026, Congressional Research Service report, Autonomous Warfare Command: Background and Considerations for Congress. From the Report On Sep…",
    "image": null,
-   "age": "9h ago",
+   "age": "17h ago",
    "published": "2026-11-19T17:13:22+00:00"
   },
   {
-   "title": "Compact and Covert",
-   "url": "https://news.usni.org/2026/11/19/compact-and-covert",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "TOULON, France — The French Navy’s submarine quay resides within covered dry docks and behind thick concrete walls at Paris’ largest naval base. Concealed from prying ey…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/DSC02747-Copy-scaled.jpg",
-   "age": "12h ago",
-   "published": "2026-11-19T14:38:53+00:00"
+   "title": "Week 11 game preview: Chicago Bears vs. New Orleans Saints",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/127869/week-11-game-preview-chicago-bears-vs-new-orleans-saints-tyler-shough-chris-olave-chase-young",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304701047.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "19h ago",
+   "published": "2026-11-19T15:00:00+00:00"
   },
   {
    "title": "The loneliest time of the year? Why holiday happiness can feel like a burden.",
@@ -380,7 +393,7 @@
    "topic": "local",
    "summary": "A mental health expert explains why seasonal expectations, social media comparisons and feelings of isolation can take an emotional toll — and how compassion and connect…",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/71/6716eb2a-372f-56f5-ab75-345e85e795d1/6acfea1f87e93.image.jpg?resize=300%2C200",
-   "age": "12h ago",
+   "age": "20h ago",
    "published": "2026-11-19T14:00:00+00:00"
   },
   {
@@ -391,41 +404,41 @@
    "topic": "local",
    "summary": "For the Great American Smokeout on Thursday, Tracy Poore's struggle highlights why quitting takes more than willpower — and why free help is available for Hoosiers.",
    "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/5a/e5a37347-f6be-5071-8b69-f82e41885044/61a95c35dd735.preview.jpg",
-   "age": "13h ago",
+   "age": "21h ago",
    "published": "2026-11-19T13:15:00+00:00"
   },
   {
-   "title": "5 Things to Know | Amazon, Google, Meta help drive $30 billion investment wave in Northwest Indiana",
-   "url": "https://nwitimes.com/news/article_e99c3e49-91cd-43c7-b6a4-b68945f95f2c.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Northwest Indiana is attracting big money. More than $30 billion in investment commitments, including projects involving Amazon, Google and Meta, signal growing interest…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/e/99/e99c3e49-91cd-43c7-b6a4-b68945f95f2c/6afe6e3818ca3.preview.webp?crop=1662%2C873%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "15h ago",
-   "published": "2026-11-19T10:45:00+00:00"
+   "title": "How to watch, listen to, stream Bears-Saints Week 11 game",
+   "url": "https://www.chicagobears.com/news/how-to-watch-chicago-bears-new-orleans-saints-2026-week-11-listen-stream-tv-radio-football-online-nfl",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ib8q7id6ipa3tjnmfawo.jpg",
+   "age": "1d ago",
+   "published": "2026-11-18T15:02:00+00:00"
   },
   {
-   "title": "5 Things to Know | Gary could receive $247 million in property taxes under proposed U.S. Steel deal",
-   "url": "https://nwitimes.com/news/article_de53b95b-3f73-4cd3-891a-9db059a8c0bf.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "Gary could collect $247 million in property taxes over 25 years under a proposed agreement tied to U.S. Steel's $3.1 billion investment in Gary Works.",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/d/e5/de53b95b-3f73-4cd3-891a-9db059a8c0bf/6afe6d02cd5db.preview.webp?crop=1906%2C1001%2C0%2C43&amp;resize=1200%2C630&amp;order=crop%2Cresize",
-   "age": "16h ago",
-   "published": "2026-11-19T10:30:00+00:00"
-  },
-  {
-   "title": "Hendrick Motorsports Splits William Byron and His Crew Chief in Latest Team Shakeup",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3NIYzdpN0ltb0pWQjFVYVlrbkRiQVFrRlFuUF9GRGZRVUlWMkJHeWQ1V183MG5jd0JFWGdPNlJkU2xVNWtDV3VNZXRhZFQ2RFJMN2xNNmlOay1qWlQ2SW1XNDloUWJ4NFNUNGdSR1gyWUJOczdsRDQ4al84LVpfU3E3QVZsLU01ZnNOTjFSNG44cml5M0tZVDE4WmdHSExsejhHYjlFNURYNEY2c3ZjckItV1NvRlduQ2c?oc=5",
-   "source": "Athlon Sports",
+   "title": "Hendrick Motorsports will do anything, except the one thing that needs to be done",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS212NjYtS3pfLW03SE80UURka0xTU1Z5T3k3OTVOeXlTaE1fVU56cFM4OWtNSDNfTVhWTVpzbnRlWmVLWFFyRE1oeHVZZzFoLVdGNTJHQmlYUll3OWpVUXVNU3BlZnpyUnkzdVhRUmVGSGpqM0JSTHJ1OUJMUHdrc0JIeXJyV3JiSW1raXJtM0VZMkR1VEQycldzV3BXY2M3VnJEcER5MA?oc=5",
+   "source": "Beyond the Flag",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "2d ago",
-   "published": "2026-11-17T11:50:07+00:00"
+   "age": "1d ago",
+   "published": "2026-11-18T13:00:03+00:00"
+  },
+  {
+   "title": "‘Be a star in your role’: Why the Bears love Jahdae Walker on special teams and more",
+   "url": "https://allchgo.com/bears/why-the-bears-love-jahdae-walker-on-special-teams-more/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/17220319/Jahns_Article_JahdaeWalker-1024x576.jpg",
+   "age": "1d ago",
+   "published": "2026-11-18T11:00:00+00:00"
   },
   {
    "title": "William Byron Lands New Crew Chief For 2027 NASCAR Season",
@@ -439,26 +452,15 @@
    "published": "2026-11-16T23:34:32+00:00"
   },
   {
-   "title": "Hendrick Motorsports Shuffles Cup Series Crew Chief Lineup In 2027",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM2c3T1NwbVNnTWVmb3VIRjZpdmhpSG5KZTVjdkFjM211eS1JY2NTVUtUak0zX1RjM2xKVmU3SkdLRlVMeVFrWkd0U1hnOEZaSC1mNnp1M3pZZV8tckZheUMySWZIbWtua0oyMGJyNzk2V19RQUlPeHVNaHpuTEEyU1cydnQ0QTkxWHQ2aU1WeHlfWjBHdnlwY1ZNczFSLTVCaVprMjFnQWhQejg3SmxZ?oc=5",
-   "source": "Sports Illustrated",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "Bears running back Kyle Monangai ‘on track’ to return in Week 11 against Saints",
+   "url": "https://allchgo.com/bears/bears-kyle-monangai-on-track-return-week-11-saints/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/16155918/2026-09-20T191547Z_215579367_MT1USATODAY29873276_RTRMADP_3_NFL-MINNESOTA-VIKINGS-AT-CHICAGO-BEARS-1-1024x576.jpg",
    "age": "3d ago",
-   "published": "2026-11-16T20:12:01+00:00"
-  },
-  {
-   "title": "Hendrick taps Fugle to crew chief No. 48 team; Wall promoted to No. 24 for 2027",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZVdyd3hvZ0lRYm1LNkEzaWUyVUJ5NUxhdmNVVmFCeEZnOVU0M21SVFNfdVRmVWRjaERGUzUtcTFTdWhaWERwZWxMcDFTWjNkQXJveFlEM3hFR1I1RWFNU2N4eXRSNFRZSHBwRGs4cTlMUmNmeWRFSDc3MzUwNk5XUUNSVTZrZHlNZzZrbW1hZGJCZVM3VzFLdUFJemxmNndjOXpMLVRSTWI2bFh6VkNj?oc=5",
-   "source": "NASCAR.com",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-11-16T20:05:16+00:00"
+   "published": "2026-11-16T22:04:17+00:00"
   }
  ]
 }
