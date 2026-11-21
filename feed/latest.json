@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-21T00:27:53+00:00",
+ "generated": "2026-11-21T07:32:44+00:00",
  "count": 40,
- "withImage": 37,
+ "withImage": 40,
  "bearsDay": true,
- "nascarDay": true,
+ "nascarDay": false,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
@@ -13,14 +13,10 @@
   "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "NWI Times",
-  "On3",
-  "Sportsnaut",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
-  "Yahoo Sports"
+  "Windy City Gridiron"
  ],
  "items": [
   {
@@ -35,26 +31,92 @@
    "published": "2026-11-25T10:00:00+00:00"
   },
   {
-   "title": "Charlie Sheen stunned to learn fellow actor Rob Lowe had been praying for him for years",
-   "url": "https://www.foxnews.com/media/charlie-sheen-stunned-learn-fellow-actor-rob-lowe-had-been-praying-him-years",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Rob Lowe revealed on Charlie Sheen s Mostly Sheenius podcast that he prayed for the actor for years while struggling with his own sobriety, calling him my guy in recover…",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Charlie-Sheen-Interview.jpeg?ve=1&tl=1",
-   "age": "12m ago",
-   "published": "2026-11-21T00:15:48+00:00"
+   "title": "How China is using summits to expand its global influence",
+   "url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108554278-17950176312026-11-18t135542z_942132153_rc2dqoawfqtc_rtrmadp_0_apec-summit.jpeg?v=1795017657&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-21T06:00:02+00:00"
   },
   {
-   "title": "USDA releases decades of Bigfoot files, including 1982 Forest Service investigation in Washington state",
-   "url": "https://www.foxnews.com/us/usda-releases-decades-bigfoot-files-1982-forest-service-investigation-washington-state",
+   "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+   "url": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108554161-1795012667185-gettyimages-460992229-77958321.jpeg?v=1795012769&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-21T06:00:02+00:00"
+  },
+  {
+   "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+   "url": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108328441-1782780337378-gettyimages-527099783-20141125034845_1245_IMG_4146JPG_149607.jpeg?v=1782781855&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-21T06:00:02+00:00"
+  },
+  {
+   "title": "Startup sues Apple in India over tap-to-share contacts feature",
+   "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/apple-namedrop.jpg?resize=1200,800",
+   "age": "3h ago",
+   "published": "2026-11-21T04:00:00+00:00"
+  },
+  {
+   "title": "Red Hot Chili Peppers drummer Chad Smith to join Wu-Tang Clan for Lions' Thanksgiving halftime show",
+   "url": "https://www.foxnews.com/outkick-sports/red-hot-chili-peppers-drummer-chad-smith-join-wu-tang-clan-lions-thanksgiving-halftime-show",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The USDA s Bigfoot/Sasquatch Records include an official 1982 Forest Service probe into footprints in Washington state s Umatilla National Forest.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/bigfoot-happy-camp-klamath-forest.jpg?ve=1&tl=1",
-   "age": "32m ago",
-   "published": "2026-11-20T23:55:24+00:00"
+   "summary": "Chad Smith, Red Hot Chili Peppers drummer and Bloomfield Hills native, will fly the W with Wu-Tang Clan at halftime of the Detroit Lions Thanksgiving game.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Drummer-Chad-Smith.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-21T03:55:09+00:00"
+  },
+  {
+   "title": "Nick Saban names three teams above Alabama as college football's true national championship contenders",
+   "url": "https://www.foxnews.com/outkick-sports/nick-saban-names-three-teams-above-alabama-college-footballs-true-national-championship-contenders",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Nick Saban says Georgia, Utah and Notre Dame have the right stuff in 2026, leaving his former Alabama Crimson Tide off his elite list of three teams.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/nick-saban-crab.jpg?ve=1&tl=1",
+   "age": "3h ago",
+   "published": "2026-11-21T03:35:03+00:00"
+  },
+  {
+   "title": "LSU women's basketball star MiLaysia Fulwiley faces only misdemeanor charges after arrest",
+   "url": "https://www.foxnews.com/outkick-sports/lsu-womens-basketball-star-milaisia-fulwiley-faces-misdemeanor-charges-arrest",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "LSU s MiLaysia Fulwiley faces only misdemeanor fleeing and resisting charges after her arrest, with felony counts dropped and a diversion program planned.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lsu-milaysia-fulwiley-2.jpg?ve=1&tl=1",
+   "age": "4h ago",
+   "published": "2026-11-21T02:50:07+00:00"
+  },
+  {
+   "title": "Colts waive Daniel Jones: Indy not trading QB or Jonathan Taylor at deadline now a major second-guess",
+   "url": "https://www.cbssports.com/nfl/news/colts-daniel-jones-not-trading-qb-jonathan-taylor-deadline-major-second-guess/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/20/fad02f01-1f84-4389-beca-f03deb0c3bc4/template-pic.jpg",
+   "age": "5h ago",
+   "published": "2026-11-21T01:37:50+00:00"
   },
   {
    "title": "Air Force issues massive $16B contract for engine work to dozens of companies",
@@ -64,19 +126,8 @@
    "topic": "defense",
    "summary": "A Pentagon notice said 58 companies were selected to participate in a broad contract for “advanced propulsion enterprise work” through 2041.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/261120_DVIDS_engine_test_USA_9748180-scaled-e1795218202160-1024x577.jpg",
-   "age": "34m ago",
+   "age": "7h ago",
    "published": "2026-11-20T23:52:57+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to get $200 bonus, free NBA League Pass for Rockets-Nuggets, Oregon-Michigan State",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-free-nba-league-pass-for-rockets-nuggets-oregon-michigan-state/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-   "age": "52m ago",
-   "published": "2026-11-20T23:35:21+00:00"
   },
   {
    "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
@@ -86,7 +137,7 @@
    "topic": "defense",
    "summary": "I have a weird brass taste in my mouth, do you taste that? The post Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/GettyImages-517453122-copy.jpg?quality=85",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-20T23:12:57+00:00"
   },
   {
@@ -97,8 +148,19 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/26/91b38aec-db2f-4285-8fbd-95a8f93cc5e9/dak-prescott-dallas-cowboys-imagn-images.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-20T23:05:35+00:00"
+  },
+  {
+   "title": "Saints at Bears: 5 Props to Play",
+   "url": "https://www.windycitygridiron.com/chicago-bears-odds/127969/saints-at-bears-5-props-to-play",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/10/gettyimages-2298575884.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "8h ago",
+   "published": "2026-11-20T23:00:00+00:00"
   },
   {
    "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
@@ -108,7 +170,7 @@
    "topic": "markets",
    "summary": "Once the most valuable company in the world, Nvidia now ranks fourth behind Apple, Microsoft and Alphabet.",
    "image": "https://image.cnbcfm.com/api/v1/image/108553456-1794947798558-gettyimages-2304901358-P1276597.jpeg?v=1795215085&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-20T22:59:33+00:00"
   },
   {
@@ -119,7 +181,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://sportshub.cbsistatic.com/i/2026/10/20/79796268-9bac-4b20-868d-61cd84954895/kenneth-walker-chiefs-imagn-images.jpg",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-20T22:42:12+00:00"
   },
   {
@@ -130,7 +192,7 @@
    "topic": "defense",
    "summary": "The VC-25B Bridge jet raised the bar for how long Air Force One has stayed aloft on an airlift mission, but Boeing's new VC-25B jets may not be able to do the same. The …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/VC-25B-Bridge-Air-Force-One-copy.jpg?quality=85",
-   "age": "1h ago",
+   "age": "8h ago",
    "published": "2026-11-20T22:39:44+00:00"
   },
   {
@@ -141,7 +203,7 @@
    "topic": "ai",
    "summary": "FCC preempts state rules that require AT T to keep offering home phone service.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-20T22:28:24+00:00"
   },
   {
@@ -152,7 +214,7 @@
    "topic": "ai",
    "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757-1024x648.jpg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-20T22:16:51+00:00"
   },
   {
@@ -163,7 +225,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2302438877.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-20T22:00:00+00:00"
   },
   {
@@ -174,19 +236,8 @@
    "topic": "ai",
    "summary": "Google search is making it even easier to access AI tools on the search page.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo-1152x648.jpg",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-20T21:58:29+00:00"
-  },
-  {
-   "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-   "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108556888-1795209058076-gettyimages-2202994362-img_2497.jpeg?v=1795209111&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-20T21:35:24+00:00"
   },
   {
    "title": "Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
@@ -196,8 +247,19 @@
    "topic": "defense",
    "summary": "Pairing a 120mm gun with a 35-ton tracked chassis, the vehicle arrives as drones increasingly complicate the case for armored vehicles of any weight. The post Oddball CF…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/CFL-120-Karpat.jpg?quality=85",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-20T21:26:26+00:00"
+  },
+  {
+   "title": "NFL Week 11 expert picks, odds, best bets, teasers, predictions, survivor picks and more",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-11-expert-picks-odds-best-bets-teasers-predictions-survivor-picks/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/19/19729048-5d21-49b0-a105-193a1ae57ba7/josh-allen-bills-8.jpg",
+   "age": "10h ago",
+   "published": "2026-11-20T21:12:55+00:00"
   },
   {
    "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
@@ -207,7 +269,7 @@
    "topic": "ai",
    "summary": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Moor-Studio.jpg?resize=1200,705",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-20T20:58:29+00:00"
   },
   {
@@ -218,7 +280,7 @@
    "topic": "defense",
    "summary": "Increasing the size of the Navy s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service s annual budget and exceed the Na…",
    "image": "https://news.usni.org/wp-content/uploads/2026/10/AM1A8909-scaled.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-20T20:57:51+00:00"
   },
   {
@@ -229,7 +291,7 @@
    "topic": "defense",
    "summary": "[Sponsored] Long-range detection capabilities extend decision time for counter-UAS actions.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/CACI-SkyValor-1-1024x768.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-20T20:53:46+00:00"
   },
   {
@@ -240,19 +302,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/fzgfb077fkmuhw7twazj.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-20T20:48:54+00:00"
-  },
-  {
-   "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-   "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108556645-1795196053260-gettyimages-2305498959-AFP_D87462K.jpeg?v=1795196073&amp;w=1920&amp;h=1080",
-   "age": "3h ago",
-   "published": "2026-11-20T20:47:58+00:00"
   },
   {
    "title": "The window is wide open for the Chicago Bears to be good for years",
@@ -262,7 +313,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2167191801.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-20T20:45:00+00:00"
   },
   {
@@ -273,7 +324,7 @@
    "topic": "defense",
    "summary": "The future aircraft carrier CVN-81 will keep its name of USS Doris Miller, USNI News has learned. HII’s Newport News Shipbuilding will lay the ceremonial keel for the fu…",
    "image": "https://news.usni.org/wp-content/uploads/2020/01/image-3.jpg",
-   "age": "3h ago",
+   "age": "10h ago",
    "published": "2026-11-20T20:36:54+00:00"
   },
   {
@@ -284,7 +335,7 @@
    "topic": "ai",
    "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1500013882.jpg?resize=1200,812",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-20T19:53:41+00:00"
   },
   {
@@ -295,19 +346,8 @@
    "topic": "defense",
    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore On Friday, amphibious assault ship USS Makin I…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10096939-scaled.jpg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-20T19:47:40+00:00"
-  },
-  {
-   "title": "Bears vs. Saints Injury Report: Kyler Gordon out, but 2 players return",
-   "url": "https://www.windycitygridiron.com/chicago-bears-injuries/127955/bears-vs-saints-injury-report-kyler-gordon-out-but-2-players-return-monangai-jeffery-simmons",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2304050823.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "4h ago",
-   "published": "2026-11-20T19:40:00+00:00"
   },
   {
    "title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
@@ -317,7 +357,7 @@
    "topic": "defense",
    "summary": "The Navy’s shipbuilding plan released in May would average out to an annual cost of roughly $53.8 billion in shipbuilding appropriations — a 41 percent increase from the…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2022/08/IMG_7242-scaled-e1661541792842-1024x576.jpg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-20T19:33:00+00:00"
   },
   {
@@ -328,8 +368,19 @@
    "topic": "ai",
    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-20T19:32:08+00:00"
+  },
+  {
+   "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
+   "url": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The new venture, called Skyfall X Auterion, will produce Skyfall drones with Auterion software in Germany, outside the range of air strikes, Auterion said.",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/11/251120_skyfall_booth_dubai_BD-scaled-e1763649791541-1024x577.jpg",
+   "age": "13h ago",
+   "published": "2026-11-20T18:24:00+00:00"
   },
   {
    "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
@@ -339,7 +390,7 @@
    "topic": "defense",
    "summary": "The agreement was among the major achievements of Trump's trip to Asia, Treasury Secretary Scott Bessent said.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/2026-11-20T165058Z_2_LYNXNPEMAJ1EE_RTROPTP_4_APEC-SUMMIT-TRUMP.jpg",
-   "age": "6h ago",
+   "age": "13h ago",
    "published": "2026-11-20T17:54:27+00:00"
   },
   {
@@ -350,19 +401,8 @@
    "topic": "defense",
    "summary": "Two German one-way attack drone variants passed live-fire trials this month, clearing a step toward initial deliveries and troop training before the end of the year, Ger…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/Helsing_HX-2_Anflug.jpg.jpg",
-   "age": "7h ago",
+   "age": "14h ago",
    "published": "2026-11-20T16:55:38+00:00"
-  },
-  {
-   "title": "Jeff Gordon Reveals William Byron Wanted a Change at Hendrick Motorsports",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeFc0Q0FhTy1rbHNIRkdlQ1d5OFVZZzVYSXpSYXJzLU41UElqQUVOOHNyZUtHQ045ZHF4OVFHQ0tqNVJjREVnX0RwZVI3anNybkhmREhtckNQalR1d1VIYzhHWnBuR2RzQ0gxd25tUFFzaW9iSUxPLTc5d3Z3SC1aY0NGeExIYVZYZmc?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "8h ago",
-   "published": "2026-11-20T16:21:17+00:00"
   },
   {
    "title": "Jeffery Simmons appreciates warm reception he's received from Bears fans",
@@ -372,52 +412,8 @@
    "topic": "bears",
    "summary": "",
    "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/h7gpzfnuqtryyuiv1tw9.jpg",
-   "age": "8h ago",
+   "age": "15h ago",
    "published": "2026-11-20T15:59:33+00:00"
-  },
-  {
-   "title": "Lessons learned from a woman stranded on the Indiana Toll Road in Northwest Indiana",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_07f1b76d-0e15-4810-81cb-9ba0a49010b8.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "A stranded motorist and one uncomfortable question: Would you stop to help a stranger? A roadside encounter taught me an unexpected lesson about apathy, kindness and hum…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/b/8d/b8d43931-008b-4405-b320-fb57a640498b/6afbb0610637c.image.jpg?resize=300%2C197",
-   "age": "9h ago",
-   "published": "2026-11-20T15:15:00+00:00"
-  },
-  {
-   "title": "NASCAR Fans Think Hendrick Motorsports Is Robbing William Byron to Help Alex Bowman",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmFkQUVpVC1tbXJDQTJuT21taVozV3Z2dkNiQnZJY0R5czVjVmJNS200aXpvOWcxaWJCQk9mZEE4Ym9zQjc3MUt3VEYySUNZMUlMRzhJUU5Bd05CaGhuLTNtaGkxLWoyR01WV2VkdVZWMGdGSXJieDhYbDIyZUNBaWlqaDUtOXhXSEdNVnEzNnJXVEpjVkpXRkNMQjk1MVpmMF8yeFhoWENod2tSdnVSTmxISQ?oc=5",
-   "source": "Sportsnaut",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "10h ago",
-   "published": "2026-11-20T14:19:47+00:00"
-  },
-  {
-   "title": "William Byron helped set Hendrick crew chief shakeup in motion, Jeff Gordon reveals",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjYzaWRlWXlUR1BqdllYR3dQaWFSTHlzby0tQ0Rjb0VMekpkM3dodWlHRkZuYWdKclZ4X3FIQ0Y3eU42bmVsRjJEa19CMTM5VU4yWkNwUHJPV2tNNFNyOGpsV2hlNkFtZnExS3N0X2JPdHNSN1VnTElfbk1jVWJJVF9CWmhObV91alRpU1c4dDhHMG9EU0xIaDBvMDU5b0l6ZVdfOGV0M3lFa1hRWmZvU2tuXzRYQQ?oc=5",
-   "source": "On3",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "10h ago",
-   "published": "2026-11-20T14:18:23+00:00"
-  },
-  {
-   "title": "College isn’t the only path. Porter County students are discovering other opportunities",
-   "url": "https://nwitimes.com/opinion/columnists/jerry-davich/article_a2ee721f-bb00-4936-a0a6-74f8b1a8fe27.html",
-   "source": "NWI Times",
-   "group": "NWI Times",
-   "topic": "local",
-   "summary": "More Porter County students are discovering that a successful career doesn’t necessarily require a four-year college degree. Technical education is opening doors to real…",
-   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/a/a9/aa957609-3f6a-48d2-93b4-1469ff1a2101/6aff531d2c60e.image.jpg?resize=300%2C225",
-   "age": "11h ago",
-   "published": "2026-11-20T13:15:00+00:00"
   },
   {
    "title": "‘Good Football Character’: The Jeffery Simmons Experience is just beginning for the Bears",
@@ -427,7 +423,7 @@
    "topic": "bears",
    "summary": "",
    "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/19191423/2026-11-09T034323Z_183802579_MT1USATODAY30317698_RTRMADP_3_NFL-TAMPA-BAY-BUCCANEERS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-11-20T12:01:00+00:00"
   },
   {
@@ -438,7 +434,7 @@
    "topic": "defense",
    "summary": "The nation of 18 million punches above its weight in several key defense technology areas.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2304258717.jpg",
-   "age": "12h ago",
+   "age": "19h ago",
    "published": "2026-11-20T11:56:51+00:00"
   },
   {
