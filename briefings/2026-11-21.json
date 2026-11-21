@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-21",
+  "dateLabel": "Saturday, November 21, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-21T16:27:39Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~20h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, November 20, 2026 close — a steep AI-stock selloff pushed the S&P 500 and Dow into correction territory to close out Wall Street's worst week in a year and a half.",
+      "indices": [
+        { "name": "S&P 500", "close": "6,910.39", "change": "-265.44", "changePct": "-3.70%", "sixMo": "-7.0%" },
+        { "name": "Dow", "close": "48,147.33", "change": "-949.73", "changePct": "-1.93%", "sixMo": "-3.7%" },
+        { "name": "Nasdaq", "close": "22,617.73", "change": "-1,261.47", "changePct": "-5.28%", "sixMo": "-14%" }
+      ],
+      "body": "Chip and AI stocks led a broad decline that left the S&P 500 and Dow more than 10% below their October records, meeting the technical threshold for a correction, while the Nasdaq erased its gain for the year; Nvidia dropped roughly 14% and consumer staples were the only S&P sector to rise on the day.",
+      "source": "The Associated Press",
+      "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Trump-Xi-Putin summit ends with thin 'peace declaration', no word on Ukraine or Iran",
+      "body": "The first-ever three-way summit in Shenzhen wrapped after about 80 minutes with a joint declaration touching on UN reform, fuel supplies and reducing nuclear risk, but no binding arms agreement and no mention of the Ukraine or Iran wars; a Kremlin spokesperson said Ukraine was not even a central topic of the trilateral session, though it dominated Putin's separate talks with Trump.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The Taiwan arms-package tension from the Shenzhen summit, the new AI-chip export curbs and Beijing's countermeasures warning, and the Paracel Islands runway project were already reported in recent briefs, and no new, independently verified China-watch development surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Wednesday's Qeshm Island strikes and Hegseth's Caracas deal to restore US-Venezuela military ties were already reported in recent briefs, and no new, independently verified military development surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No dated, reputable report of a new military-technology development within the 72-hour window turned up; the B-21 weapons-release test and Dyess mission-planning-facility groundbreaking trace back to mid-November or earlier and are already stale.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic closes record IPO at $93.5 billion as Google, Microsoft and Nvidia join $26 billion private placement",
+      "body": "Anthropic said it closed its initial public offering after underwriters fully exercised their option, selling 1.127 billion Class A shares at $83 for roughly $93.5 billion in gross proceeds; a concurrent private placement sold 313 million Class N shares to seven companies, including Google, Microsoft and Nvidia, for about $26 billion, bringing the combined raise to roughly $119.5 billion.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/ipo-close"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Jeffery Simmons returns to practice and is expected to play Sunday; Kyler Gordon's status less certain",
+      "body": "Defensive tackle Jeffery Simmons was a full participant at Thursday's practice and is expected to play against the Saints after being limited earlier in the week with a knee issue, while cornerback Kyler Gordon missed his third straight practice with a shoulder injury; defensive coordinator Dennis Allen said he doesn't anticipate issues with Gordon's availability for Sunday's home game at Soldier Field.",
+      "source": "Chicago Sun-Times",
+      "url": "https://chicago.suntimes.com/bears/2026/11/19/bears-practice-report-dt-jeffery-simmons-returns-expected-to-play-vs-saints"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, non-spoiler Byron news from a reputable outlet surfaced within the 72-hour window; the most recent sponsor and crew-chief items trace back more than a week and were already covered.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA news could be confirmed within the 72-hour window; available coverage of the stated-clerk transition and General Assembly actions traces back to earlier in the year and is already stale.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
