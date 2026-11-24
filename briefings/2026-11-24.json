@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-24",
+  "dateLabel": "Tuesday, November 24, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-24T19:46:59Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~23h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Monday, November 23, 2026 close — a powerful relief rally pulled major indexes back from Friday's correction lows.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,237.17", "change": "+326.78", "changePct": "+4.73%", "sixMo": "-3.2%" },
+        { "name": "Dow", "close": "49,595.31", "change": "+1,447.98", "changePct": "+3.01%", "sixMo": "-1.9%" },
+        { "name": "Nasdaq", "close": "24,089.56", "change": "+1,471.83", "changePct": "+6.51%", "sixMo": "-8.6%" }
+      ],
+      "body": "Nvidia surged after an SEC filing showed its board had reinstated Jensen Huang as president and CEO, a reversal of its position from just days earlier, helping drive the Nasdaq's best single session since April 2025; all three indexes remain lower than they were six months ago despite the bounce.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "NATO to deploy AWACS aircraft to Poland after Russian missiles crossed its border",
+      "body": "Poland's deputy defense minister said Monday that NATO will send an early-warning AWACS aircraft to Polish territory, days after prosecutors confirmed three Russian Kh-101 cruise missiles crossed into Poland on Friday; the Germany-based AWACS fleet, which has monitored NATO's eastern flank since 2022, will give Warsaw better radar coverage to track further incursions.",
+      "source": "NBC News (Reuters)",
+      "url": "https://www.nbcnews.com/world/russia/poland-nato-early-warning-aircraft-russia-missiles-cross-border-rcna610957"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Taiwan raises China travel alert, citing Beijing's new 'ethnic unity' law as a pressure tool",
+      "body": "Mainland Affairs Council Minister Chiu Chui-cheng said China's Ethnic Unity and Progress Promotion Law, in effect since July, shifts Beijing's legal campaign against Taiwan from 'opposing independence' to 'forcing unification,' warning its extraterritorial provisions raise risks for Taiwanese who travel to or do business in China; Taipei has set up an interagency platform against transnational repression and raised its China/Hong Kong/Macau travel alert to orange.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/23/2003868215"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~15h ago",
+      "empty": false,
+      "headline": "Iran says tankers hit mines in Hormuz 'despite' US escort as Treasury tightens sanctions",
+      "body": "Iran's Revolutionary Guard said three oil tankers caught fire after striking naval mines in the Strait of Hormuz on Monday, two of them reportedly under US military escort, warning that American air cover 'will not replace compliance' with Iran's own navigation rules; separately, the US Treasury sanctioned more than two dozen Iranian exchange houses and front companies as part of its 'Operation Economic Outcast' campaign.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Last week's Golden Dome appropriations fight, the B-21 weapons-release test, and the Pentagon's laser counter-drone shoot-off selections for Dugway Proving Ground were all reported earlier and fall outside the 72-hour window; no new, dated military-technology development from a reputable outlet surfaced within that window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic launches Claude Ship to review, fix and approve GitHub pull requests",
+      "body": "Rolling out in beta to Claude Team and Enterprise customers, Claude Ship adds two new agents, PR Steward and Claude Approvals, on top of Anthropic's existing Code Review tool, letting teams set rules for which routine changes Claude can wave through versus flag for a human; Anthropic says its own Claude Code team's merged-PR rate has more than doubled since June while reverted changes fell over 40%.",
+      "source": "Anthropic",
+      "url": "https://claude.com/product/claude-ship"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Jeffery Simmons hosts Thanksgiving turkey giveaway for Chicago families",
+      "body": "The defensive tackle, acquired by the Bears in an October trade, brought a tradition he started in Nashville to Chicago's South Side on Friday, partnering with Vondale Singleton Sr.'s CHAMPS Male Mentoring program to hand out turkeys and meals ahead of Thanksgiving; Simmons, raised by a single mother of five, said he wants to ease the burden on families facing similar struggles.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/jeffery-simmons-brings-joy-chicago-with-turkey-giveaway-ahead-of-thanksgiving"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's season ended at the Phoenix finale and the Rudy Fugle-to-Adam Wall crew-chief move for 2027 were already reported earlier this month; no new, non-spoiler Byron news from a reputable outlet surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "No new, dated PCA-specific news could be confirmed within the 72-hour window; coverage of the stated-clerk transition, General Assembly actions and St. Andrew's Chapel's departure all trace back further than 72 hours.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
