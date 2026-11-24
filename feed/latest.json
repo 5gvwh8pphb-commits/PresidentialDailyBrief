@@ -1,20 +1,24 @@
 {
- "generated": "2026-11-23T22:25:36+00:00",
+ "generated": "2026-11-24T06:12:02+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": false,
+ "withImage": 37,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
+  "NWI Times",
   "On3",
-  "Sportsnaut",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
@@ -30,15 +34,114 @@
    "published": "2026-11-25T10:00:00+00:00"
   },
   {
-   "title": "Former Navy SEAL says New Jersey’s Islamophobia bill puts protected speech in the crosshairs",
-   "url": "https://www.foxnews.com/politics/former-navy-seal-says-new-jerseys-islamophobia-bill-puts-protected-speech-crosshairs",
+   "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+   "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108558037-1795490899580-gettyimages-2287058429-grk8255197.jpeg?v=1795490916&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-24T05:09:34+00:00"
+  },
+  {
+   "title": "Trump's Nixon-to-China moment: There's an immigration move only he can make",
+   "url": "https://www.foxnews.com/opinion/trumps-nixon-to-china-moment-immigration-move-only-he-can-make",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A former Navy SEAL and lawyer warns that New Jersey s Assembly Bill 1146 could function as a backdoor blasphemy law chilling public debate.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/france-muslims-scaled.jpg?ve=1&tl=1",
-   "age": "10m ago",
-   "published": "2026-11-23T22:14:56+00:00"
+   "summary": "President Trump floated immigration on Saturday in America, and this column argues his pardon power could shield illegal immigrants from deportation.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/1200/675/donald-trump-black-history-month-feb.-18-2026.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-24T05:06:19+00:00"
+  },
+  {
+   "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
+   "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifeli…",
+   "image": "https://image.cnbcfm.com/api/v1/image/108558016-1795487247597-gettyimages-2305353843-AA_19112026_3054076.jpeg?v=1795490987&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-24T05:05:08+00:00"
+  },
+  {
+   "title": "Commanders' Jayden Daniels spoils Joe Burrow's night, leads team to game-winning drive vs Bengals",
+   "url": "https://www.foxnews.com/outkick-sports/commanders-jayden-daniels-spoils-joe-burrow-night-leads-team-game-winning-drive-vs-bengals",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Jayden Daniels game-winning drive stunned Joe Burrow and the Cincinnati Bengals, 20-19, on Monday Night Football as Drew Stevens drilled the winner.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jayden-daniels-commanders-bengals-fox-news_.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-24T04:52:16+00:00"
+  },
+  {
+   "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
+   "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "China is increasingly focused on containing India economically rather than through military actions.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108558031-1795489293086-gettyimages-2198835438-damawall-china-india.jpeg?v=1795489335&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-24T04:27:38+00:00"
+  },
+  {
+   "title": "Bengals vs. Commanders odds, prediction, betting preview, start time: Monday Night Football picks, best bets",
+   "url": "https://www.cbssports.com/betting/news/bengals-vs-commanders-odds-prediction-betting-preview-start-time-monday-night-football-picks-best-bets/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/15/28cae4e6-1c36-4683-8f8a-88fcb8713ce3/joe-burrow-bengals.jpg",
+   "age": "5h ago",
+   "published": "2026-11-24T00:47:31+00:00"
+  },
+  {
+   "title": "Bengals vs. Commanders odds: First touchdown scorer picks, Week 11 NFL predictions for Monday Night Football",
+   "url": "https://www.cbssports.com/prediction/news/bengals-vs-commanders-odds-first-touchdown-scorer-picks-week-11-nfl-predictions-for-monday-night-football/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/10/25/dd2565f4-d46a-4b32-a6ce-9c2a4a4ae33c/imagn-tee-higgins-bengals.jpg",
+   "age": "5h ago",
+   "published": "2026-11-24T00:43:01+00:00"
+  },
+  {
+   "title": "Best Kalshi promo code CBSSPORTS55: Earn $55 bonus for Commanders vs. Bengals, Monday Night Football picks",
+   "url": "https://www.cbssports.com/betting/news/best-kalshi-promo-code-cbssports55-earn-55-bonus-for-commanders-vs-bengals-monday-night-football-picks/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/09/29/a90f0e22-5b54-4b88-8257-901a4e7cd93f/kalshi-promo-code-cbssports55.jpg",
+   "age": "5h ago",
+   "published": "2026-11-24T00:38:18+00:00"
+  },
+  {
+   "title": "Figma employee sues, alleging company forced her to confront harassers",
+   "url": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1222551151.jpg?resize=1200,877",
+   "age": "7h ago",
+   "published": "2026-11-23T23:07:49+00:00"
+  },
+  {
+   "title": "Bears vs. Saints Game Balls: Big Jeff Dominates Again",
+   "url": "https://www.windycitygridiron.com/chicago-bears-news/128167/bears-vs-saints-game-balls-big-jeff-dominates-again",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2305920034.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "7h ago",
+   "published": "2026-11-23T22:37:45+00:00"
   },
   {
    "title": "Did Ukraine Use A Mothership To Launch Its Sea Drone Attack On Russian Ships in Benghazi?",
@@ -48,7 +151,7 @@
    "topic": "defense",
    "summary": "A clandestine mothership would give Ukraine the ability to expand attacks on Russian shipping far from the Black Sea. The post Did Ukraine Use A Mothership To Launch Its…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/Drone-boat-libya-russua.jpg?quality=85",
-   "age": "12m ago",
+   "age": "7h ago",
    "published": "2026-11-23T22:12:53+00:00"
   },
   {
@@ -59,8 +162,19 @@
    "topic": "ai",
    "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
-   "age": "19m ago",
+   "age": "8h ago",
    "published": "2026-11-23T22:05:50+00:00"
+  },
+  {
+   "title": "Bears rookie Zavion Thomas displays triple-threat ability",
+   "url": "https://www.chicagobears.com/news/bears-rookie-zavion-thomas-displays-triple-threat-ability",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/gxvuxvb6s6xztmsjtak9.jpg",
+   "age": "8h ago",
+   "published": "2026-11-23T22:05:39+00:00"
   },
   {
    "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
@@ -70,7 +184,7 @@
    "topic": "ai",
    "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/supertake-header.jpg?resize=1200,675",
-   "age": "23m ago",
+   "age": "8h ago",
    "published": "2026-11-23T22:02:05+00:00"
   },
   {
@@ -81,19 +195,8 @@
    "topic": "ai",
    "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2306107359-1024x648.jpg",
-   "age": "27m ago",
+   "age": "8h ago",
    "published": "2026-11-23T21:58:34+00:00"
-  },
-  {
-   "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-   "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
-   "age": "37m ago",
-   "published": "2026-11-23T21:47:41+00:00"
   },
   {
    "title": "$16 billion propulsion mega-contract posted in error, Air Force says",
@@ -103,41 +206,8 @@
    "topic": "defense",
    "summary": "The Air Force is planning to award the $16.1 billion Advanced Propulsion Acquisition Contract, but has not yet done so, the service told Breaking Defense.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/F135-e1795470202829-1024x577.jpg",
-   "age": "41m ago",
+   "age": "8h ago",
    "published": "2026-11-23T21:43:59+00:00"
-  },
-  {
-   "title": "With Skubal signing, the New York Mets should have bought themselves the 2027 World Series title | Ian Miller",
-   "url": "https://www.foxnews.com/outkick-sports/skubal-signing-new-york-mets-should-have-bought-themselves-2027-world-series-title-ian-miller",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Major League Baseball fans feared the Dodgers would ruin the sport, but the Mets 9-year, $450 million Tarik Skubal deal flips the script entirely.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/tarik-skubal-dodgers-braves-nlds-fox-news_.jpg?ve=1&tl=1",
-   "age": "47m ago",
-   "published": "2026-11-23T21:37:45+00:00"
-  },
-  {
-   "title": "UCLA lost but viral Miss California crown wearing cheerleader Sharlize True Trujillo continues to win",
-   "url": "https://www.foxnews.com/outkick-sports/ucla-lost-viral-miss-california-crown-wearing-cheerleader-sharlize-true-trujillo-continues-win",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "UCLA Bruins cheerleader Sharlize True Trujillo stays in the spotlight after the Ann Arbor loss to Michigan, with her Miss California crown and viral video.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ucla-bruins-cheerleaders-rose-bowl-fox-news_.jpg?ve=1&tl=1",
-   "age": "49m ago",
-   "published": "2026-11-23T21:35:40+00:00"
-  },
-  {
-   "title": "DK Metcalf avoids NFL and club suspension from the Pittsburgh Steelers following his ejection from Sunday game",
-   "url": "https://www.foxnews.com/outkick-sports/dk-metcalf-avoids-nfl-club-suspension-pittsburgh-steelers-ejection-sunday-game",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "DK Metcalf avoids an NFL suspension after his ejection vs. the Eagles, but a $6.5 million roster bonus and unguaranteed money cloud his Steelers future.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/marcus-epps-dk-metcalf-eagles-steelers.jpg?ve=1&tl=1",
-   "age": "53m ago",
-   "published": "2026-11-23T21:32:16+00:00"
   },
   {
    "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
@@ -147,74 +217,19 @@
    "topic": "ai",
    "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2284791219-1024x648.jpg",
-   "age": "54m ago",
+   "age": "8h ago",
    "published": "2026-11-23T21:30:44+00:00"
   },
   {
-   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-   "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the fe…",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
-   "age": "59m ago",
-   "published": "2026-11-23T21:25:42+00:00"
-  },
-  {
-   "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-23T21:08:05+00:00"
-  },
-  {
-   "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
-   "url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108229868-1763741665578-108229868-1763730430401-gettyimages-2233025951-WILLIAMS_ECNY.jpeg?v=1772548607&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-23T21:02:17+00:00"
-  },
-  {
-   "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
-   "image": "https://image.cnbcfm.com/api/v1/image/108366941-17901794762026-09-23t160042z_1309580215_rc24pnadya0l_rtrmadp_0_usa-china-bessent-he.jpeg?v=1790182158&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-23T21:00:59+00:00"
-  },
-  {
-   "title": "Jensen Huang cheered by Nvidia employees after return, pledges to be a better CEO",
-   "url": "https://www.cnbc.com/2026/11/23/jensen-huang-nvidia-ceo-return.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Nvidia's Jensen Huang admitted to an affair in a note to employees on Nov. 8 and resigned as CEO on Nov. 12.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108557780-1795465600170-Screenshot_2026-11-23_at_32208_PM.png?v=1795465622&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-23T20:57:41+00:00"
-  },
-  {
-   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-   "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-   "age": "1h ago",
-   "published": "2026-11-23T20:38:53+00:00"
+   "title": "Jeffery Simmons brings joy to Chicago with turkey giveaway ahead of Thanksgiving",
+   "url": "https://www.chicagobears.com/news/jeffery-simmons-brings-joy-chicago-with-turkey-giveaway-ahead-of-thanksgiving",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/gf7ue7p6rvfxwhar40mk.jpg",
+   "age": "9h ago",
+   "published": "2026-11-23T21:08:41+00:00"
   },
   {
    "title": "Russia will launch a routine ISS supply mission tomorrow—apparently, it's a big secret",
@@ -224,7 +239,7 @@
    "topic": "ai",
    "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/02/52674646862_dbe4378754_k-1152x648.jpg",
-   "age": "1h ago",
+   "age": "9h ago",
    "published": "2026-11-23T20:34:51+00:00"
   },
   {
@@ -235,19 +250,8 @@
    "topic": "defense",
    "summary": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save…",
    "image": "https://cdn.jwplayer.com/videos/b8jqKJHE-5ZsksG4j.mp4",
-   "age": "2h ago",
+   "age": "9h ago",
    "published": "2026-11-23T20:23:07+00:00"
-  },
-  {
-   "title": "Surveillance pricing uses our personal data to make us pay more",
-   "url": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Personalized pricing can mean unfair, and even biased, prices.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1527415822-1152x648.jpg",
-   "age": "2h ago",
-   "published": "2026-11-23T20:11:43+00:00"
   },
   {
    "title": "Colombia races for counter-drone tech as militant groups embrace drones as frontline weapons",
@@ -257,7 +261,7 @@
    "topic": "defense",
    "summary": "“As knowledge of drone tactics proliferates faster than governments can deploy countermeasures, it seems likely we will begin to see them crop up in more countries in th…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/colombia-anti-drone-scaled-e1795456297691-1024x577.jpg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-23T19:45:00+00:00"
   },
   {
@@ -268,19 +272,8 @@
    "topic": "defense",
    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 23, 2026, based on Navy…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/FT_11_23_26.jpg",
-   "age": "2h ago",
+   "age": "10h ago",
    "published": "2026-11-23T19:39:32+00:00"
-  },
-  {
-   "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
-   "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Amazon now uses its packages for political purposes.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/something-about-this-just-feels-off-to-me-v0-d584x10nr83i1-1152x648-1795460892.jpg",
-   "age": "2h ago",
-   "published": "2026-11-23T19:38:13+00:00"
   },
   {
    "title": "Rudy Fugle reveals talks with William Byron after Hendrick split",
@@ -290,7 +283,7 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-23T19:00:46+00:00"
   },
   {
@@ -301,7 +294,7 @@
    "topic": "defense",
    "summary": "Many of the systems needed to support bases and military movements in the US are owned and operated by private companies and local municipalities, not the federal govern…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/tacoma-port-scaled-e1795459543419-1024x577.jpg",
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-23T18:56:49+00:00"
   },
   {
@@ -312,7 +305,7 @@
    "topic": "defense",
    "summary": "Extended-range NSM cruise missiles would allow Marines to hold warships and ground targets at risk over four times more area. The post Marines Want Naval Strike Missiles…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/nsm-double-range.jpg?quality=85",
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-23T18:45:27+00:00"
   },
   {
@@ -323,19 +316,8 @@
    "topic": "defense",
    "summary": "Four dozen Reconnaissance Marines will operate in Finland this week as part of a Finnish naval exercise and NATO’s enhanced Vigilant Activity (eVA) Baltic Sentry. The Fi…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10095928-scaled.jpg",
-   "age": "4h ago",
+   "age": "11h ago",
    "published": "2026-11-23T18:22:12+00:00"
-  },
-  {
-   "title": "Congress is ‘out of time’ to decide on reconciliation, needs to settle topline spending: Sen. Coons",
-   "url": "https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "“If we could get to a bipartisan topline, we could spend the time from Thanksgiving to the end of the year getting a lot of this finished,” said Sen. Chris Coons, the to…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/GettyImages-2305444553-scaled-e1795451456792-1024x577.jpg",
-   "age": "4h ago",
-   "published": "2026-11-23T18:01:00+00:00"
   },
   {
    "title": "China’s Naval Developments Set For The Spotlight At Zhuhai Airshow",
@@ -345,7 +327,7 @@
    "topic": "defense",
    "summary": "The upcoming exhibition will highlight Beijing’s ambitions for carrier aviation, alongside major surface combatants and emerging uncrewed systems. The post China’s Naval…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/J-15T-Getty-Images.jpg?quality=85",
-   "age": "4h ago",
+   "age": "12h ago",
    "published": "2026-11-23T17:30:40+00:00"
   },
   {
@@ -356,7 +338,7 @@
    "topic": "defense",
    "summary": "MANILA, Philippines — The U.S. pledged to grant a $2 billion foreign military financing loan package for Manila’s military modernization efforts and the development of a…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/9787978-scaled.jpg",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-23T15:29:41+00:00"
   },
   {
@@ -367,7 +349,7 @@
    "topic": "defense",
    "summary": "Ukrainian president Volodymyr Zelenskyy said seven naval drones were used in the attack, which sank the Russian corvette Merkury.",
    "image": "https://cdn.jwplayer.com/videos/2d8W2grO-5ZsksG4j.mp4",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-11-23T15:07:10+00:00"
   },
   {
@@ -378,30 +360,52 @@
    "topic": "defense",
    "summary": "China’s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2300475929.jpg",
-   "age": "7h ago",
+   "age": "15h ago",
    "published": "2026-11-23T14:42:50+00:00"
   },
   {
-   "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
-   "url": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report.",
-   "image": "https://cdn.jwplayer.com/videos/3olcJevF-5ZsksG4j.mp4",
-   "age": "8h ago",
-   "published": "2026-11-23T14:14:00+00:00"
+   "title": "Winning ugly is still winning, and the Bears will take it",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/128100/chicago-bears-vs-saints-recap-week-11-nfl-2026-season",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2305920263.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "17h ago",
+   "published": "2026-11-23T13:00:00+00:00"
   },
   {
-   "title": "Ukraine’s Campaign Against Russian Naval Assets Far Beyond The Black Sea Enters A New Phase (Updated)",
-   "url": "https://www.twz.com/sea/ukraines-campaign-against-russian-naval-assets-far-beyond-the-black-sea-enters-a-new-phase",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Ukraine successfully destroyed a new Russian corvette and has struck two other cargo ships, one in the Mediterranean and one in the Baltic, in just a day. The post Ukrai…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/Merkury-corvette-sunk-ukraine-1.jpg?quality=85",
-   "age": "23h ago",
-   "published": "2026-11-22T22:26:09+00:00"
+   "title": "Bears defense becoming one of NFL’s best behind Jeffery Simmons, Montez Sweat and more",
+   "url": "https://allchgo.com/bears/bears-defense-becoming-one-the-nfls-best-behind-jeffery-simmons-montez-sweat-and-more/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/22205521/IMG_3005-1024x683.jpeg",
+   "age": "1d ago",
+   "published": "2026-11-23T02:56:47+00:00"
+  },
+  {
+   "title": "Bears vs. Lions odds: Opening lines for Week 12 matchup",
+   "url": "https://www.windycitygridiron.com/chicago-bears-odds/128056/bears-vs-lions-odds-week-12-opening-lines-point-spread-total",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/01/gettyimages-2254660110.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "1d ago",
+   "published": "2026-11-23T02:11:56+00:00"
+  },
+  {
+   "title": "By the Numbers: Bears' Week 11 victory over Saints",
+   "url": "https://www.chicagobears.com/news/by-the-numbers-bears-week-11-victory-over-saints",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/wi3yaip8qcniu0sixjqw.jpg",
+   "age": "1d ago",
+   "published": "2026-11-23T00:12:00+00:00"
   },
   {
    "title": "NASCAR Fans Aren’t Happy With Hendrick Motorsports After William Byron Shakeup",
@@ -415,6 +419,28 @@
    "published": "2026-11-22T15:34:31+00:00"
   },
   {
+   "title": "CHRIS WHITE | Give recovering Hoosier families time to keep their health coverage",
+   "url": "https://nwitimes.com/opinion/article_5fe24f1d-5806-45fe-97a1-41554ba81321.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "For a family already struggling to pay the bills, a medical emergency can quickly become a financial emergency. Add lost wages, storm damage or an unexpected car repair,…",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/3/5e/35e1ab89-2698-4ddb-bd68-e704577ad2f0/6a6277f447290.image.jpg?resize=300%2C315",
+   "age": "1d ago",
+   "published": "2026-11-22T12:30:00+00:00"
+  },
+  {
+   "title": "DR. RICHARD FELDMAN | Affordable Care Act cuts should be reversed",
+   "url": "https://nwitimes.com/opinion/article_f179abb7-c029-4ded-83f2-b07758e3b5a1.html",
+   "source": "NWI Times",
+   "group": "NWI Times",
+   "topic": "local",
+   "summary": "The Affordable Care Act (“Obamacare”) is far from perfect, nor is it necessarily affordable if one doesn’t receive a premium subsidy. However, it provides insurance for …",
+   "image": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/assets/v3/editorial/6/69/66924712-0d43-5536-b0d2-284c2890e92b/6462ecd4cd42f.image.jpg?resize=300%2C451",
+   "age": "1d ago",
+   "published": "2026-11-22T12:00:00+00:00"
+  },
+  {
    "title": "Is Chase Elliott Leaving Hendrick Motorsports? What We Know About His NASCAR Contract",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaGdHcEZjdmlqZmR3QldFY0xnV2pQQnNZcDR6Q1J2NWtKSkoyZXlzRjNuc18wVHFzbFVxNHBzV3B3c2ZhWWxsSmwzMXdWc0ZHOXcxRVNaMy1ndW5fdTFFbTRWTndTcFE5bzhpMnZwVUNNSHc5Q1JiaUo2T2wtX3RyaFlFTUdZSlNkOVRLamhMN1hKUllYRUE?oc=5",
    "source": "Yahoo Sports",
@@ -426,37 +452,15 @@
    "published": "2026-11-21T21:35:18+00:00"
   },
   {
-   "title": "USS Theodore Roosevelt Arrives In The Middle East, Relieving USS George Washington",
-   "url": "https://www.twz.com/sea/theodore-roosevelt-strike-group-arrives-in-the-middle-east-relieving-uss-george-washington",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Where the aircraft carriers are as of November 21, 2026. The post USS Theodore Roosevelt Arrives In The Middle East, Relieving USS George Washington appeared first on TW…",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/TWZ-American-Aircraft-Carrier-Fleet-Tracker-As-Of-November-20-2026.png?quality=85",
-   "age": "2d ago",
-   "published": "2026-11-21T18:11:09+00:00"
-  },
-  {
-   "title": "Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
-   "url": "https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "Increasing the size of the Navy s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service s annual budget and exceed the Na…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/10/AM1A8909-scaled.jpg",
-   "age": "3d ago",
-   "published": "2026-11-20T20:57:51+00:00"
-  },
-  {
-   "title": "NASCAR Fans Think Hendrick Motorsports Is Robbing William Byron to Help Alex Bowman",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQmFkQUVpVC1tbXJDQTJuT21taVozV3Z2dkNiQnZJY0R5czVjVmJNS200aXpvOWcxaWJCQk9mZEE4Ym9zQjc3MUt3VEYySUNZMUlMRzhJUU5Bd05CaGhuLTNtaGkxLWoyR01WV2VkdVZWMGdGSXJieDhYbDIyZUNBaWlqaDUtOXhXSEdNVnEzNnJXVEpjVkpXRkNMQjk1MVpmMF8yeFhoWENod2tSdnVSTmxISQ?oc=5",
-   "source": "Sportsnaut",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
+   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 11 against the Saints",
+   "url": "https://allchgo.com/bears/everything-need-to-know-bears-week-11-against-saints/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
    "summary": "",
-   "image": null,
-   "age": "3d ago",
-   "published": "2026-11-20T14:19:47+00:00"
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/21003439/2026-10-04T201259Z_825773110_MT1USATODAY29998956_RTRMADP_3_NFL-NEW-YORK-JETS-AT-CHICAGO-BEARS-1-1024x576.jpg",
+   "age": "2d ago",
+   "published": "2026-11-21T11:30:00+00:00"
   }
  ]
 }
