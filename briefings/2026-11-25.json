@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-25",
+  "dateLabel": "Wednesday, November 25, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-25T18:58:00Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~22h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Tuesday, November 24, 2026 close — a split session: chip and AI stocks gave back Monday's rebound while healthcare and value names pushed the Dow higher.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,201.09", "change": "-36.08", "changePct": "-0.50%", "sixMo": "-4.2%" },
+        { "name": "Dow", "close": "50,018.70", "change": "+423.39", "changePct": "+0.85%", "sixMo": "-0.9%" },
+        { "name": "Nasdaq", "close": "23,733.54", "change": "-356.02", "changePct": "-1.48%", "sixMo": "-11%" }
+      ],
+      "body": "Semiconductor stocks sank roughly 8.6% as Monday's Jensen Huang-return rally reversed, but Sanofi's agreement to buy Insmed for about $41 billion in cash and a stronger-than-expected consumer confidence reading drove a rotation into healthcare and value shares; the S&P 500 logged its eighth loss in nine sessions even as the Dow outperformed.",
+      "source": "Stock Market Watch",
+      "url": "https://stockmarketwatch.com/digest/2026-11-24"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Poland delivers formal protest to Russia's ambassador over missile incursion",
+      "body": "Poland's foreign ministry summoned Russian ambassador Georgy Mikhno on Monday to deliver a sharp diplomatic note over Friday's crossing of three Russian Kh-101 cruise missiles into Polish airspace, a day after NATO's North Atlantic Council agreed to send an AWACS surveillance aircraft to Poland; Moscow denied violating Polish airspace and accused Warsaw of \"Russophobia.\"",
+      "source": "TVP World",
+      "url": "https://tvpworld.com/96661745/poland-delivers-diplomatic-protest-to-russian-ambassador-mikhno-over-airspace-violations"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US report says China-linked AI personas are interfering in Taiwan's local elections",
+      "body": "Citing a Vanderbilt University study, the New York Times reported that AI-generated personas tied to China are seeding disinformation ahead of Taiwan's nine-in-one local elections, a subtler tactic than past efforts because it blends false claims into ordinary online chatter rather than overt propaganda; it follows earlier Vanderbilt findings on persona-generation tools built by the Chinese firm GoLaxy.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/26/2003868404"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~2h ago",
+      "empty": false,
+      "headline": "Iran says mines hit two more tankers and an LNG carrier in the Strait of Hormuz",
+      "body": "Iran's Revolutionary Guard said Wednesday that two oil tankers and an LNG carrier struck naval mines and caught fire in the Strait of Hormuz, days after it blamed mines for three earlier tanker fires and said US air cover had failed to stop them; US Central Command, which said in late October it had cleared the strait's main shipping lanes of mines, had not yet responded to the new claims.",
+      "source": "Newscord",
+      "url": "https://newscord.org/article/irgc-navy-says-mines-exploded-two-oil-tankers-and-an-lng-carrier-in-strait-of-ho--Story_20261125_LNGcarrierstrikessea3f7dd824"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Satellite images suggest China's fourth aircraft carrier could launch in 2027",
+      "body": "New satellite imagery analyzed by US researchers shows China's Type 004 carrier under construction at Dalian with features consistent with nuclear propulsion, a step beyond China's three existing conventionally powered carriers that would let it operate for longer ranges without refueling; Beijing has not officially confirmed the ship's propulsion type or a launch date.",
+      "source": "South China Morning Post",
+      "url": "https://www.scmp.com/news/china/military/article/3372578/new-images-suggest-chinas-fourth-aircraft-carrier-could-launch-2027-analysts-say"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Anthropic's stock falls below its $83 IPO price as chip and AI shares wobble",
+      "body": "Anthropic shares closed down about 6.5% on Tuesday, dipping below the $83 price set at its November 19 Nasdaq debut, even as Wall Street initiated coverage: Oppenheimer, Wedbush and Canaccord Genuity all rate the stock a buy or outperform with targets of $120 to $150, citing enterprise AI spending growth against risks from large infrastructure commitments and competition.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears rule out Elijah Hicks for Thanksgiving game against Lions with concussion",
+      "body": "Head coach Ben Johnson said safety Elijah Hicks is in concussion protocol and out for Thursday's Thanksgiving matchup with Detroit; left tackle Theo Benedet (quad) progressed from a Monday DNP to a full Tuesday practice, while cornerback Kyler Gordon (shoulder) and running back Roschon Johnson both missed practice for a second straight day.",
+      "source": "Shaw Local",
+      "url": "https://www.shawlocal.com/bears/2026/11/24/chicago-bears-injury-report-theo-benedet-returns-kyler-gordon-still-out-in-estimated-report/"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The Adam Wall crew-chief move for 2027 was already reported earlier this month, and Byron's season ended at the Phoenix finale; no new, non-spoiler Byron news from a reputable outlet surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "PCA's Mission to North America wins $5 million Lilly grant for church planting",
+      "body": "Mission to North America, the PCA's church-planting committee, received a five-year, $4,999,980 grant from the Lilly Endowment's New Churches Initiative to fund its Presbytery New Works Collaborative, which helps PCA presbyteries and local churches start and sustain new congregations across the US.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/mission-to-north-america-awarded-5-million-grant-to-advance-church-planting/"
+    }
+  ]
+}
