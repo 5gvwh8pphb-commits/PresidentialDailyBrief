@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-26",
+  "dateLabel": "Thursday, November 26, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-26T20:00:16Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~23h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Wednesday, November 25, 2026 close — a volatile pre-holiday session: tariff and inflation worries sparked a steep morning selloff before a late rally pulled the Dow positive; markets are closed Thursday for Thanksgiving.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,182.78", "change": "-18.31", "changePct": "-0.25%", "sixMo": "-3.9%" },
+        { "name": "Dow", "close": "50,182.95", "change": "+164.25", "changePct": "+0.33%", "sixMo": "-0.78%" },
+        { "name": "Nasdaq", "close": "23,585.80", "change": "-147.74", "changePct": "-0.62%", "sixMo": "-10%" }
+      ],
+      "body": "A hotter-than-expected core PCE inflation reading and fresh tariff proposals triggered an AI-stock selloff that sent the Nasdaq down as much as 4.6% intraday and erased more than 1,100 Dow points, but small- and mid-cap shares led a late-day rebound that pushed the Dow back into the green even as Nvidia, Oracle and Micron finished lower.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Houthi strikes hit Saudi Arabia's largest refinery and a Riyadh skyscraper, injuring 11",
+      "body": "Yemen's Houthis said they struck Saudi Aramco's Ras Tanura refinery and caused fires on Wednesday, a day after Saudi Civil Defense said a Houthi strike injured 11 people at a Riyadh financial-district skyscraper; the Saudi-led coalition said it destroyed four drones in the area but did not confirm either strike, part of an escalating campaign tied to the wider US-Iran conflict.",
+      "source": "Reuters",
+      "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Federal jury convicts Huawei of trade-secret and bank-fraud conspiracy, acquits it of racketeering",
+      "body": "A Brooklyn jury that began deliberating November 18 found Huawei Technologies guilty of conspiring to steal trade secrets from American firms and of bank fraud tied to its Iran-sanctions dealings, but acquitted the company of the racketeering charge that anchored the Justice Department's nearly decade-long case; Huawei had pleaded not guilty to all 12 counts.",
+      "source": "BBC",
+      "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Iran says more tankers hit mines on an 'unauthorized route' through the Strait of Hormuz",
+      "body": "Iran's Revolutionary Guard said two more oil tankers struck naval mines and caught fire in the Strait of Hormuz on Wednesday, again blaming vessels for using an 'unauthorized route,' while Iran's army said it was upgrading surveillance of the waterway; US Central Command has repeatedly disputed Iran's mine claims as disinformation, and Iranian Vice President Mohammad Reza Aref said Tehran isn't concerned about the US naval blockade because cargo is moving through other borders.",
+      "source": "Reuters",
+      "url": "https://www.justsecurity.org/165910/early-edition-november-25-2026/"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The fiscal 2027 Golden Dome appropriations fight, in which a Senate draft funded the program at roughly half the White House's $17.5 billion request, was reported last week and falls outside the 72-hour window; no new, dated military-technology development from a reputable outlet surfaced within that window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Claude Code adds beta support for skills defined on MCP servers",
+      "body": "Anthropic's latest Claude Code release lets the tool pull reusable \"skills\" directly from connected MCP servers, surfacing them in the slash-command menu as server:skill, plus a new hook that lets admins block a skill's inline shell commands before it loads; the update extends Anthropic's push to make Agent Skills, which it opened as an industry standard in October, work across both its own and third-party tooling.",
+      "source": "Anthropic",
+      "url": "https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears rule out three for Thanksgiving, add Stevenson and Jackson to questionable list",
+      "body": "Chicago's final injury report ahead of Thursday's game at Detroit rules out running back Roschon Johnson (ankle), cornerback Kyler Gordon (shoulder) and safety Elijah Hicks (concussion), while cornerback Tyrique Stevenson (groin) and linebacker D'Marco Jackson (elbow) are listed questionable; Stevenson was a new addition to Wednesday's report.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/three-bears-players-ruled-out-of-thanksgiving-game-in-detroit-injury-update"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Hendrick's 2027 crew-chief shakeup, with Rudy Fugle out and Adam Wall taking over Byron's No. 24 team, was already reported earlier this week, and the season has concluded; no new, non-spoiler Byron news from a reputable outlet surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "PCA's Mission to North America opens search for its next permanent coordinator",
+      "body": "MNA, the PCA's church-planting committee, opened its application portal for a permanent coordinator to replace interim leader Steve Dowling, whom the search committee later invited to apply himself with no preferential treatment; applications close January 8, 2027.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/mna-opens-application-process-for-coordinator-position/"
+    }
+  ]
+}
