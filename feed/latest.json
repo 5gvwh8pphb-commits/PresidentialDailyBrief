@@ -1,179 +1,131 @@
 {
- "generated": "2026-11-26T02:56:48+00:00",
+ "generated": "2026-11-26T11:46:56+00:00",
  "count": 40,
- "withImage": 36,
- "bearsDay": true,
+ "withImage": 35,
+ "bearsDay": false,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
-  "CBS Sports NFL",
-  "CHGO Bears",
   "CNBC",
-  "ChicagoBears.com",
   "Defense News",
   "Fox News",
   "MotorBiscuit",
   "TechCrunch",
   "The War Zone",
   "USNI News",
-  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "USC suspends entire marching band from UCLA game over crude sign prank on Bruins campus",
-   "url": "https://www.foxnews.com/outkick-sports/usc-suspends-marching-band-ucla-game-crude-sign-prank-bruins-campus",
+   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+   "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "The U.S. planned a fresh tariff salvo on 14 trading partners, while offering some countries lower rates if they secure trade deals with Washington.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108405958-1791937428704-gettyimages-2299263032-AFP_D2XV29Y.jpeg?v=1791937445&amp;w=1920&amp;h=1080",
+   "age": "2m ago",
+   "published": "2026-11-26T11:44:19+00:00"
+  },
+  {
+   "title": "CENTCOM's Thanksgiving message to troops 'is one of deep gratitude' for their 'exceptional work' protecting US",
+   "url": "https://www.foxnews.com/us/centcom-thanksgiving-message-troops-deep-gratitude-exceptional-work-protecting-us",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "The USC Trojan Marching Band is barred from the Rose Bowl rivalry game after students allegedly vandalized UCLA s Wasserman Football Center sign overnight.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/usc-trojan-marching-band-cat-in-hat-burbank.jpg?ve=1&tl=1",
-   "age": "15m ago",
-   "published": "2026-11-26T02:41:31+00:00"
+   "summary": "CENTCOM spokesman Tim Hawkins told Fox News Digital that the military command is grateful for the family members of American forces positioned overseas.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/CENTCOM-Brad-Cooper.jpg?ve=1&tl=1",
+   "age": "9m ago",
+   "published": "2026-11-26T11:37:12+00:00"
   },
   {
-   "title": "Super Bowl champion, Steelers teammate of Aaron Rodgers shows support for quarterback after dramatic fallout",
-   "url": "https://www.foxnews.com/outkick-sports/super-bowl-champion-steelers-teammate-aaron-rodgers-shows-support-quarterback-dramatic-fallout",
+   "title": "Trump country cracked: 5 races that saw double-digit Trump territory fall to Democrats in 2026",
+   "url": "https://www.foxnews.com/politics/trump-country-cracked-5-races-double-digit-trump-territory-fall-democrats-2026",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Marquez Valdes-Scantling showed support for Aaron Rodgers after the four-time MVP was released by the Pittsburgh Steelers following his remarks about Mike McCarthy.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aaron-rodgers-steelers-bengals.jpg?ve=1&tl=1",
-   "age": "25m ago",
-   "published": "2026-11-26T02:31:00+00:00"
+   "summary": "Donald Trump carried Mississippi by nearly 23 points, yet Scott Colom beat Cindy Hyde-Smith by less than one, ending a 44-year GOP Senate drought.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/voters.jpg?ve=1&tl=1",
+   "age": "46m ago",
+   "published": "2026-11-26T11:00:51+00:00"
   },
   {
-   "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
-   "url": "https://www.foxnews.com/world/netanyahu-declares-corruption-trial-fallen-apart-judges-question-key-charges",
+   "title": "Holiday scammers hook older Americans first, then return later to drain their savings, expert warns",
+   "url": "https://www.foxnews.com/us/holiday-scammers-hook-older-americans-first-then-return-later-drain-savings-expert-warns",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Israeli Prime Minister Benjamin Netanyahu declared his corruption trial fell apart as judges urged prosecutors to rethink the bribery and fraud cases.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/netanyahu-2.jpg?ve=1&tl=1",
-   "age": "30m ago",
-   "published": "2026-11-26T02:26:48+00:00"
+   "summary": "Scammers target older Americans with recovery scams and AI deepfakes during the holidays, hitting victims nine times on average, federal authorities warn.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/senior-citizen-scams.jpg?ve=1&tl=1",
+   "age": "46m ago",
+   "published": "2026-11-26T11:00:41+00:00"
   },
   {
-   "title": "Aaron Rodgers' ex-Packers teammate makes bold prediction about QB’s NFL future after shocking Steelers exit",
-   "url": "https://www.foxnews.com/outkick-sports/aaron-rodgers-ex-packers-teammate-bold-prediction-qb-nfl-future-shocking-steelers-exit",
+   "title": "Miles for Military program turns volunteer work into flights home for service members",
+   "url": "https://www.foxnews.com/media/miles-military-program-turns-volunteer-work-flights-home-service-members",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "Aaron Rodgers was released by the Pittsburgh Steelers after claiming on The Pat McAfee Show that coach Mike McCarthy slept through team meetings.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Aaron-Rodgers-Pittsburgh-NFL.jpg?ve=1&tl=1",
-   "age": "57m ago",
-   "published": "2026-11-26T01:58:58+00:00"
+   "summary": "Marine Cpl. Dominic Morimando surprised his mom for the holidays by running PE at Spotswood Elementary, earning a ticket home via Miles for Military.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Marine-surprises-mother-for-the-holidays-after-volunteering-to-earn-flight-home.png?ve=1&tl=1",
+   "age": "46m ago",
+   "published": "2026-11-26T11:00:13+00:00"
   },
   {
-   "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+   "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+   "url": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Trump and NATO chief Mark Rutte urged Russia to avoid actions that could expand the war and called for a rapid peaceful resolution.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108559824-1795686703593-gettyimages-2283165053-ah809023_cxnkwed9.jpeg?v=1795686767&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-26T10:45:45+00:00"
+  },
+  {
+   "title": "Meet the mastermind behind New York City's iconic Christmas light displays and holiday magic",
+   "url": "https://www.foxnews.com/media/meet-mastermind-behind-nyc-iconic-christmas-displays",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Some of NYC s most popular Christmas decorations at Radio City Music Hall, Macy s and Bloomingdale s get help from one man and his crew every Christmas.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/crews-at-american-christmas.jpg?ve=1&tl=1",
+   "age": "1h ago",
+   "published": "2026-11-26T10:09:44+00:00"
+  },
+  {
+   "title": "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
+   "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "Investors appeared to have shrugged off a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108094148-1738167165694-gettyimages-2195902460-JAPAN_STOCKS.jpeg?v=1758691768&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-26T09:51:40+00:00"
+  },
+  {
+   "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
    "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
+   "summary": "Norse Atlantic has suspended all flights and said it may it have to file for bankruptcy, a day after it warned its financial position was \"critical.\"",
    "image": "https://image.cnbcfm.com/api/v1/image/108559107-1795599475604-gettyimages-1636812756-230831b6_lax_planes_b-gr_13.jpeg?v=1795599522&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-26T01:52:20+00:00"
+   "age": "2h ago",
+   "published": "2026-11-26T09:02:30+00:00"
   },
   {
-   "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
-   "url": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
+   "title": "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+   "url": "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "The central bank raised rates by 25 basis points to 3.25% for its final meeting of the year, in line with expectations from economists.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108081278-1735794858312-gettyimages-2186780528-jhk241128007.jpeg?v=1764205808&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-26T01:50:21+00:00"
-  },
-  {
-   "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
-   "url": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108268316-1771829545481-gettyimages-2201260900-omarques_24022025_phone_tech-4.jpeg?v=1771829556&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-26T01:34:58+00:00"
-  },
-  {
-   "title": "Chicago Prepares For Thanksgiving Showdown in Motown",
-   "url": "https://www.windycitygridiron.com/chicago-bears-discussion/128402/bears-over-beers-chicago-prepares-for-thanksgiving-showdown",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2025/09/gettyimages-2235429440.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "1h ago",
-   "published": "2026-11-26T01:14:10+00:00"
-  },
-  {
-   "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
-   "url": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Hedge funds are increasingly courting retail investors as the industry seeks new avenues for growth.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108534994-1794002033786-gettyimages-2303376025-US_STOCKS.jpeg?v=1794261179&amp;w=1920&amp;h=1080",
-   "age": "1h ago",
-   "published": "2026-11-26T01:10:58+00:00"
-  },
-  {
-   "title": "Green Bay Packers at Los Angeles Rams Thanksgiving Eve Open Thread!",
-   "url": "https://www.windycitygridiron.com/general/128335/green-bay-packers-at-los-angeles-rams-thanksgiving-eve-open-thread",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2023newsml_MT1USATODAY218271381143936990.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
-   "published": "2026-11-26T00:55:00+00:00"
-  },
-  {
-   "title": "Use DraftKings promo code to get $200 bonus bets, free NBA League Pass for Rams vs. Packers, NBA games",
-   "url": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-200-bonus-bets-free-nba-league-pass-rams-vs-packers-nba-games/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/10/18/c97262f9-761a-4e09-92d0-e42eb8f40a51/draftkings-nba-league-pass-200-bonus-cbssports.png",
-   "age": "2h ago",
-   "published": "2026-11-26T00:06:05+00:00"
-  },
-  {
-   "title": "NFL Week 12 injury report: Thanksgiving game statuses, latest updates for Sam Darnold, Brock Purdy",
-   "url": "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-updates-kenneth-walker-brock-purdy-sam-darnold/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/25/063a47c1-f6c8-4636-9b11-7cb442b98adf/darniold.jpg",
-   "age": "2h ago",
-   "published": "2026-11-26T00:01:26+00:00"
-  },
-  {
-   "title": "Packers vs. Rams odds, picks, prediction: NFL Week 12 best bets, player props for Thanksgiving Eve",
-   "url": "https://www.cbssports.com/betting/news/packers-vs-rams-odds-picks-prediction-nfl-week-12-best-bets-player-props-for-thanksgiving-eve/",
-   "source": "CBS Sports NFL",
-   "group": "CBS Sports NFL",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://sportshub.cbsistatic.com/i/2026/11/13/561b108f-199e-4b12-bcdc-9b96529f115c/blake-corum-los-angeles-rams-imagn-images.jpg",
-   "age": "2h ago",
-   "published": "2026-11-26T00:00:36+00:00"
-  },
-  {
-   "title": "Bears at Lions: 3 Props to Play",
-   "url": "https://www.windycitygridiron.com/chicago-bears-odds/128379/bears-at-lions-3-props-to-play",
-   "source": "Windy City Gridiron",
-   "group": "Windy City Gridiron",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2306153307.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "age": "2h ago",
-   "published": "2026-11-26T00:00:00+00:00"
+   "summary": "Goldman Sachs Alternatives' inaugural survey of high-net-worth investors found they're increasingly looking to alternatives amid turbulent markets.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108348863-1786584005383-gettyimages-2219721785-UK_GLOBAL_SWITCH.jpeg?v=1795677738&amp;w=1920&amp;h=1080",
+   "age": "4h ago",
+   "published": "2026-11-26T07:23:42+00:00"
   },
   {
    "title": "William Byron’s Late-Season Surge Couldn’t Salvage a Frustrating 2026 NASCAR Campaign",
@@ -183,19 +135,8 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "3h ago",
+   "age": "11h ago",
    "published": "2026-11-25T23:56:08+00:00"
-  },
-  {
-   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 12 against the Lions",
-   "url": "https://allchgo.com/bears/everything-to-know-about-bears-week-12-against-lions/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/25171042/2026-11-22T170347Z_1433220601_MT1USATODAY30424302_RTRMADP_3_NFL-NEW-ORLEANS-SAINTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
-   "age": "3h ago",
-   "published": "2026-11-25T23:28:29+00:00"
   },
   {
    "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -205,7 +146,7 @@
    "topic": "ai",
    "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-   "age": "4h ago",
+   "age": "13h ago",
    "published": "2026-11-25T22:44:32+00:00"
   },
   {
@@ -216,7 +157,7 @@
    "topic": "ai",
    "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
-   "age": "4h ago",
+   "age": "13h ago",
    "published": "2026-11-25T22:36:45+00:00"
   },
   {
@@ -227,7 +168,7 @@
    "topic": "defense",
    "summary": "Carla Babb is joining Military Times and Defense News as our new Head of Content. In nearly two decades covering national security and international affairs, Babb has ea…",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/Carla-Babb-Press-Release-Social-Image.png",
-   "age": "5h ago",
+   "age": "13h ago",
    "published": "2026-11-25T21:51:50+00:00"
   },
   {
@@ -238,7 +179,7 @@
    "topic": "defense",
    "summary": "We have one last can of cranberry sauce.... The post Bunker Talk: Have A Magical Turkey Day Edition! appeared first on TWZ.",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/bunker.jpg?quality=85",
-   "age": "5h ago",
+   "age": "14h ago",
    "published": "2026-11-25T21:26:00+00:00"
   },
   {
@@ -249,7 +190,7 @@
    "topic": "ai",
    "summary": "The pitch is an unusual combination of privacy promises and AI features.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
-   "age": "5h ago",
+   "age": "14h ago",
    "published": "2026-11-25T20:57:09+00:00"
   },
   {
@@ -260,7 +201,7 @@
    "topic": "ai",
    "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its r…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/space-tesla-cybertruck.jpg?resize=1200,801",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-25T20:56:44+00:00"
   },
   {
@@ -271,7 +212,7 @@
    "topic": "defense",
    "summary": "The netting is being installed amid growing concerns by the U.S. and allies over the danger to parked aircraft from drones. The post Drone Threats Prompt RAF To Install …",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/Netting-at-RAF-bases-spurred-by-drone-threats.jpg?quality=85",
-   "age": "6h ago",
+   "age": "14h ago",
    "published": "2026-11-25T20:47:03+00:00"
   },
   {
@@ -282,19 +223,30 @@
    "topic": "ai",
    "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/openai-chatgpt.jpg?resize=1200,800",
-   "age": "6h ago",
+   "age": "15h ago",
    "published": "2026-11-25T20:03:27+00:00"
   },
   {
-   "title": "Three Bears players ruled out of Thanksgiving game in Detroit | Injury Update",
-   "url": "https://www.chicagobears.com/news/three-bears-players-ruled-out-of-thanksgiving-game-in-detroit-injury-update",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/snfsrdqphdc1gkzm7iic.jpg",
-   "age": "6h ago",
-   "published": "2026-11-25T20:00:40+00:00"
+   "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+   "age": "15h ago",
+   "published": "2026-11-25T19:54:57+00:00"
+  },
+  {
+   "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+   "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "source": "TechCrunch",
+   "group": "TechCrunch",
+   "topic": "ai",
+   "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-cybertruck-fleet.jpg?resize=1200,800",
+   "age": "15h ago",
+   "published": "2026-11-25T19:54:32+00:00"
   },
   {
    "title": "Marine Corps Sets New Water Survival Requirements",
@@ -304,7 +256,7 @@
    "topic": "defense",
    "summary": "The Marines have a new minimum fleet requirement for water survival, according to a policy released earlier this month. Under the new water survival novice qualification…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/10011894-1-scaled.jpg",
-   "age": "7h ago",
+   "age": "16h ago",
    "published": "2026-11-25T19:35:07+00:00"
   },
   {
@@ -315,19 +267,8 @@
    "topic": "defense",
    "summary": "The USAF plans to eventually buy 75 more KC-46s above the 188 already ordered as uncertainty clouds its next-generation aerial refueling vision. The post Final KC-46 Tan…",
    "image": "https://www.twz.com/wp-content/uploads/2026/11/kc-46-tanker-f-16-f-22-refuel-usaf-vision.jpg?quality=85",
-   "age": "7h ago",
+   "age": "16h ago",
    "published": "2026-11-25T19:28:11+00:00"
-  },
-  {
-   "title": "Bears celebrate 2026 girls flag football All-State team, honor player and coach of the year winners",
-   "url": "https://www.chicagobears.com/news/bears-celebrate-2026-girls-flag-football-all-state-team-honor-player-and-coach-of-the-year-winners",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/uoqijum1sutbhtoz4lcn.jpg",
-   "age": "7h ago",
-   "published": "2026-11-25T19:00:00+00:00"
   },
   {
    "title": "Backblaze explains why it's sharing customer information with advertisers",
@@ -337,7 +278,7 @@
    "topic": "ai",
    "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1219679299-1152x648.jpg",
-   "age": "8h ago",
+   "age": "17h ago",
    "published": "2026-11-25T18:38:29+00:00"
   },
   {
@@ -348,8 +289,19 @@
    "topic": "defense",
    "summary": "More than 700,000 Russian soldiers have been killed in the war in Ukraine since Russia launched its full-scale war against the nation nearly five years ago.",
    "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2262811144.jpg.jpg",
-   "age": "8h ago",
+   "age": "17h ago",
    "published": "2026-11-25T18:27:12+00:00"
+  },
+  {
+   "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+   "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/starmind-1152x648.jpeg",
+   "age": "17h ago",
+   "published": "2026-11-25T18:22:38+00:00"
   },
   {
    "title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
@@ -359,8 +311,19 @@
    "topic": "defense",
    "summary": "A funding shortfall disrupted communications between the Army and Bell, pushing the service past its original delivery target as officials work to establish a revised sc…",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/MV-75-photo-B-e1795550259743.jpg",
-   "age": "8h ago",
+   "age": "17h ago",
    "published": "2026-11-25T18:15:00+00:00"
+  },
+  {
+   "title": "Ship-Killing ARRW Hypersonic Missile Variant Struggling To Get Full Support From Lawmakers",
+   "url": "https://www.twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
+   "source": "The War Zone",
+   "group": "The War Zone",
+   "topic": "defense",
+   "summary": "Senators are also moving to scale back funding for a new air-launched ballistic missile program. The post Ship-Killing ARRW Hypersonic Missile Variant Struggling To Get …",
+   "image": "https://www.twz.com/wp-content/uploads/2026/11/senate-arrw-increment-2-hypersonic-missile-funding-brakes.jpg?quality=85",
+   "age": "17h ago",
+   "published": "2026-11-25T18:04:27+00:00"
   },
   {
    "title": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
@@ -370,8 +333,19 @@
    "topic": "defense",
    "summary": "Experts say Ukraine s strike could have consequences far beyond Libya, raising the risk of Russian retaliation and heightened tensions along NATO s southern flank.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/Capture-decran-le-2026-11-25-a-18.08.48-1024x561.png",
-   "age": "9h ago",
+   "age": "18h ago",
    "published": "2026-11-25T17:45:00+00:00"
+  },
+  {
+   "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+   "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ladybird_Browser_Rendering_Ladybird_Page_wide-1152x648-1795619607.png",
+   "age": "18h ago",
+   "published": "2026-11-25T17:33:30+00:00"
   },
   {
    "title": "Israel increases defense budget by $5 billion as concerns continue over future funding",
@@ -381,7 +355,7 @@
    "topic": "defense",
    "summary": "Israel has scrambled several times this year to increase its defense spending, at the cost of other priorities.",
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/10/israel-tank-scaled-e1696872367451-1024x577.jpg",
-   "age": "9h ago",
+   "age": "18h ago",
    "published": "2026-11-25T17:30:00+00:00"
   },
   {
@@ -392,19 +366,19 @@
    "topic": "defense",
    "summary": "The Marine Corps is trialling a portable system that will provide units with a private 5G network enabling Marines to maintain communications while operating across disp…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/9822850-scaled.jpg",
-   "age": "9h ago",
+   "age": "18h ago",
    "published": "2026-11-25T17:03:15+00:00"
   },
   {
-   "title": "Bears-Lions Thanksgiving Day game preview | 2026 Week 12",
-   "url": "https://www.chicagobears.com/news/bears-lions-thanksgiving-day-game-preview-2026-week-12",
-   "source": "ChicagoBears.com",
-   "group": "ChicagoBears.com",
-   "topic": "bears",
-   "summary": "",
-   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/fp1jvzvryvgorlo1xfbc.jpg",
-   "age": "10h ago",
-   "published": "2026-11-25T16:05:00+00:00"
+   "title": "Air Force issues Boeing $2.8 billion for more KC-46s",
+   "url": "https://breakingdefense.com/2026/11/air-force-issues-boeing-2-8-billion-for-more-kc-46s/",
+   "source": "Breaking Defense",
+   "group": "Breaking Defense",
+   "topic": "defense",
+   "summary": "The award brings the total number of air refuelers under contract to 203, and is the final production batch for the US Air Force under the program’s original fixed-price…",
+   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/6990563-scaled-e1741031493269-1024x576.jpg",
+   "age": "19h ago",
+   "published": "2026-11-25T16:45:00+00:00"
   },
   {
    "title": "Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site",
@@ -414,8 +388,19 @@
    "topic": "defense",
    "summary": "The Army went ahead with its planned detonation of volatile lead azide reserves Wednesday morning, according to the service.",
    "image": "https://cdn.jwplayer.com/videos/DpmCdAI2-5ZsksG4j.mp4",
-   "age": "11h ago",
+   "age": "19h ago",
    "published": "2026-11-25T15:55:58+00:00"
+  },
+  {
+   "title": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
+   "url": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The Pentagon announced a $2.82 billion Boeing contract for 15 more KC-46A Pegasus tankers, the final production lot under the program's original 2011 contract.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/210712-F-ZZ000-0009.jpg",
+   "age": "20h ago",
+   "published": "2026-11-25T14:58:13+00:00"
   },
   {
    "title": "Opening Remarks from Richard Breckenridge to be the Navy’s Chief Acquisition Official",
@@ -425,8 +410,19 @@
    "topic": "defense",
    "summary": "The following are Richard Breckenridge’s opening remarks, provided to the U.S. Senate Committee on Armed Services during a Nov. 19, 2026, hearing to consider Breckenridg…",
    "image": null,
-   "age": "12h ago",
+   "age": "21h ago",
    "published": "2026-11-25T14:43:05+00:00"
+  },
+  {
+   "title": "Ford-class Redesign, Battleship Funds on White House List for CR Anomaly Funding",
+   "url": "https://news.usni.org/2026/11/24/ford-class-redesign-battleship-funds-on-white-house-list-for-cr-anomaly-funding",
+   "source": "USNI News",
+   "group": "USNI News",
+   "topic": "defense",
+   "summary": "The Trump administration wants Congress to fund several major shipbuilding programs, including the Trump-class battleship, in the next patchwork spending bill that keeps…",
+   "image": "https://news.usni.org/wp-content/uploads/2025/12/Trump_Battleship_Poster_Battle_Hi-Res_v5-1-2048x1229-1.jpg",
+   "age": "1d ago",
+   "published": "2026-11-24T20:50:47+00:00"
   },
   {
    "title": "NASCAR: Dale Earnhardt Jr. Regrets Hendrick Motorsports Decision After Corey Day Setback",
@@ -451,15 +447,15 @@
    "published": "2026-11-24T14:52:55+00:00"
   },
   {
-   "title": "Bears defense becoming one of NFL’s best behind Jeffery Simmons, Montez Sweat and more",
-   "url": "https://allchgo.com/bears/bears-defense-becoming-one-the-nfls-best-behind-jeffery-simmons-montez-sweat-and-more/",
-   "source": "CHGO Bears",
-   "group": "CHGO Bears",
-   "topic": "bears",
+   "title": "NASCAR Fans Aren’t Happy With Hendrick Motorsports After William Byron Shakeup",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zOG8wZGkxUktGRlJQTU1kOURNU1JIZkJzaW9ZM043UEN1SlFHOUpnZmdfN244M21fVEpoVDNVTzJGSlcxcENjVWJWc1NTWWxIcHlLUzVneDh2RDZlQXBjOFNjMVB1YTU4aGtkMWs0ZkYtRmttWTg0b2FCWXRRdw?oc=5",
+   "source": "Yahoo Sports",
+   "group": "Byron & Hendrick",
+   "topic": "nascar",
    "summary": "",
-   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/22205521/IMG_3005-1024x683.jpeg",
+   "image": null,
    "age": "3d ago",
-   "published": "2026-11-23T02:56:47+00:00"
+   "published": "2026-11-22T15:34:31+00:00"
   }
  ]
 }
