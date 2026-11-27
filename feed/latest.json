@@ -1,110 +1,256 @@
 {
- "generated": "2026-11-27T03:21:24+00:00",
+ "generated": "2026-11-27T12:51:55+00:00",
  "count": 40,
- "withImage": 35,
- "bearsDay": false,
+ "withImage": 37,
+ "bearsDay": true,
  "nascarDay": true,
  "sources": [
   "Ars Technica",
   "Breaking Defense",
+  "CBS Sports NFL",
+  "CHGO Bears",
   "CNBC",
+  "ChicagoBears.com",
   "Defense News",
   "Fox News",
-  "MotorBiscuit",
   "On3",
   "TechCrunch",
   "The War Zone",
   "USNI News",
+  "Windy City Gridiron",
   "Yahoo Sports"
  ],
  "items": [
   {
-   "title": "Putin's grip on Crimea tested amid major blackout as Zelenskyy warns of looming Russian strike",
-   "url": "https://www.foxnews.com/world/putins-grip-crimea-tested-amid-major-blackout-zelenskyy-warns-imminent-russia-strike",
+   "title": "TSA warns common Thanksgiving packing mistake could cause delays on the way home",
+   "url": "https://www.foxnews.com/travel/tsa-says-common-thanksgiving-packing-mistake-could-cause-delays-way-home",
    "source": "Fox News",
    "group": "Fox News",
    "topic": "world",
-   "summary": "A massive blackout crippled Crimea, testing Vladimir Putin s grip as outages hit Sevastopol and Simferopol and Zelenskyy warned of a new Russian strike.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/crimea-blackout-putin.jpg?ve=1&tl=1",
+   "summary": "The Transportation Security Administration notes that turkey, stuffing and pies can fly in carry-ons, but gravy and cranberry sauce must go in checked bags.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/tsa-may-have-to-close-airports-fox-news-001.jpg?ve=1&tl=1",
+   "age": "11m ago",
+   "published": "2026-11-27T12:40:11+00:00"
+  },
+  {
+   "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+   "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/intel-card-1536x864-1-1152x648.jpg",
+   "age": "46m ago",
+   "published": "2026-11-27T12:05:01+00:00"
+  },
+  {
+   "title": "Thanksgiving scraps reinvented by top chefs for delicious, easy-to-make meals",
+   "url": "https://www.foxnews.com/food-drink/thanksgiving-scraps-reinvented-top-chefs-delicious-easy-to-make-meals",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Turkey pot pie and a turkey potato hash lead a slew of creative Thanksgiving leftovers recipes, from hearty turkey soup to crispy croquettes.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/family-preparing-thanksgiving.jpg?ve=1&tl=1",
+   "age": "51m ago",
+   "published": "2026-11-27T12:00:41+00:00"
+  },
+  {
+   "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+   "url": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
+   "source": "CNBC",
+   "group": "CNBC",
+   "topic": "markets",
+   "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1795450514&amp;w=1920&amp;h=1080",
+   "age": "51m ago",
+   "published": "2026-11-27T12:00:22+00:00"
+  },
+  {
+   "title": "Illegal immigrant allegedly confessed to killing elderly military veteran for $50K in home attack: docs",
+   "url": "https://www.foxnews.com/us/illegal-immigrant-allegedly-confessed-killing-elderly-military-veteran-50k-home-attack-docs",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Axel Chavez allegedly confessed to murdering Utah veteran James Witten, saying in court documents he was paid $50,000 to carry out the killing.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Witten-5.jpg?ve=1&tl=1",
+   "age": "51m ago",
+   "published": "2026-11-27T12:00:22+00:00"
+  },
+  {
+   "title": "Cowboys legend Randy White reveals intense encounter between his mother and Eagles fans during playing career",
+   "url": "https://www.foxnews.com/outkick-sports/cowboys-legend-randy-white-reveals-intense-encounter-mother-eagles-fans-playing-career",
+   "source": "Fox News",
+   "group": "Fox News",
+   "topic": "world",
+   "summary": "Randy White says his mother pulled a blackjack from her purse to join a stadium fight after an Eagles fan poured beer on his sister in Philadelphia.",
+   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/gettyimages-2198069178-scaled.jpg?ve=1&tl=1",
    "age": "55m ago",
-   "published": "2026-11-27T02:25:49+00:00"
+   "published": "2026-11-27T11:55:57+00:00"
   },
   {
-   "title": "Eagles erase 21-point deficit to stun Cowboys with biggest Thanksgiving comeback in NFL history",
-   "url": "https://www.foxnews.com/outkick-sports/eagles-erase-21-point-deficit-stun-cowboys-biggest-thanksgiving-comeback-nfl-history",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "The Cowboys were up 31-10 and your Thanksgiving nap was looking like a fine idea until Joe Milton and the Eagles gave everyone on the couch a reason to get up.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kenny-moore-ii-celebrates-touchdown-eagles-cowboys.jpg?ve=1&tl=1",
-   "age": "1h ago",
-   "published": "2026-11-27T02:13:15+00:00"
-  },
-  {
-   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-   "url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+   "url": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "China's economy has been running at two speeds, with AI-related manufacturing and exports powering growth while household consumption has been lagging.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108363244-1789497965297-gettyimages-2293419464-vcg111663866789.jpeg?v=1789497999&amp;w=1920&amp;h=1080",
+   "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108120789-1742904573651-gettyimages-159129388-72801932.jpeg?v=1758797166&amp;w=1920&amp;h=1080",
    "age": "1h ago",
-   "published": "2026-11-27T02:04:09+00:00"
+   "published": "2026-11-27T11:49:18+00:00"
   },
   {
-   "title": "FLASHBACK: Two presidents pulled off secret Thanksgiving surprises for US troops — see the moments",
-   "url": "https://www.foxnews.com/politics/flashback-two-presidents-pulled-off-secret-thanksgiving-surprises-us-troops-see-moments",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Two Presidents pulled off secret Thanksgiving trips to war zones, with Donald Trump serving turkey at Bagram Airfield and George W. Bush visiting Iraq.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-afghanistan-thanksgiving-1.jpg?ve=1&tl=1",
+   "title": "Leonardo rolls out first M-346 jet for Italy’s Air Force stunt flying unit",
+   "url": "https://www.defensenews.com/global/europe/2026/11/27/leonardo-rolls-out-first-m-346-jet-for-italys-air-force-stunt-flying-unit/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The M-346 jets configured for display team flying will be delivered to the Frecce Tricolori team between 2027 and 2028, Leonardo said in a statement.",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/Foto_M346PAN_03.jpeg",
    "age": "1h ago",
-   "published": "2026-11-27T02:00:39+00:00"
+   "published": "2026-11-27T11:32:10+00:00"
   },
   {
-   "title": "TPUSA mourns Florida high school chapter president killed with family in devastating plane crash",
-   "url": "https://www.foxnews.com/us/tpusa-mourns-florida-high-school-chapter-president-killed-family-devastating-plane-crash",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Turning Point USA s student program is mourning Hunter Stokes, 16, who led its Fort Myers chapter, after the Cessna 210 he rode in crashed off Horn Island, Mississippi.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/hunter-stokes.jpg?ve=1&tl=1",
+   "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+   "url": "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-gifts-2026-1152x648.jpg",
    "age": "1h ago",
-   "published": "2026-11-27T01:42:11+00:00"
+   "published": "2026-11-27T11:30:04+00:00"
   },
   {
-   "title": "Olympic trailblazer Anita DeFrantz, longtime advocate for women in sports, dies at 74",
-   "url": "https://www.foxnews.com/outkick-sports/olympic-trailblazer-anita-defrantz-longtime-advocate-women-sports-dies-74",
-   "source": "Fox News",
-   "group": "Fox News",
-   "topic": "world",
-   "summary": "Anita DeFrantz, the first Black American woman on the IOC and a 1976 rowing bronze medalist, died at 74, leaving a legacy of fighting for women in sport.",
-   "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Anita-DeFrantz.jpg?ve=1&tl=1",
+   "title": "France kicks off defense-industry pact to build up counter-drone efforts",
+   "url": "https://www.defensenews.com/global/europe/2026/11/27/france-kicks-off-defense-industry-pact-to-build-up-counter-drone-efforts/",
+   "source": "Defense News",
+   "group": "Defense News",
+   "topic": "defense",
+   "summary": "The wars in Ukraine and the Middle East have been a “quite brutal reality check,” and French forces have an urgent need for counter-drone capabilities, said Alice Rufo, …",
+   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/GettyImages-2281120838.jpg",
    "age": "1h ago",
-   "published": "2026-11-27T01:41:36+00:00"
+   "published": "2026-11-27T11:12:42+00:00"
   },
   {
-   "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-   "url": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+   "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+   "url": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
    "source": "CNBC",
    "group": "CNBC",
    "topic": "markets",
-   "summary": "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108356338-1788181104655-gettyimages-667735328-_mg_5102.jpeg?v=1788181165&amp;w=1920&amp;h=1080",
-   "age": "2h ago",
-   "published": "2026-11-27T00:22:29+00:00"
+   "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+   "image": "https://image.cnbcfm.com/api/v1/image/108548604-1794349959300-gettyimages-2304504774-anotherday36809902_nb5fdvlx.jpeg?v=1795623957&amp;w=1920&amp;h=1080",
+   "age": "1h ago",
+   "published": "2026-11-27T11:00:01+00:00"
   },
   {
-   "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
-   "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
-   "image": "https://image.cnbcfm.com/api/v1/image/108558897-1795558539233-gettyimages-2306217982-TRUMP_TURKEY_PARDON.jpeg?v=1795558966&amp;w=1920&amp;h=1080",
-   "age": "6h ago",
-   "published": "2026-11-26T21:13:17+00:00"
+   "title": "‘Winning football’: Caleb Williams, Rome Odunze come through in clutch for Bears in Thanksgiving thriller",
+   "url": "https://allchgo.com/bears/caleb-williams-rome-odunze-clutch-bears-thanksgiving/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/26200745/2026-11-26T213914Z_2073979095_MT1USATODAY30452648_RTRMADP_3_NFL-CHICAGO-BEARS-AT-DETROIT-LIONS-1-1024x576.jpg",
+   "age": "1h ago",
+   "published": "2026-11-27T11:00:00+00:00"
+  },
+  {
+   "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+   "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+   "source": "Ars Technica",
+   "group": "Ars Technica",
+   "topic": "ai",
+   "summary": "There’s just one thing we still don’t know: How much will they cost?",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/volvo-xc60-xc90-combo-1152x648.jpg",
+   "age": "4h ago",
+   "published": "2026-11-27T08:00:53+00:00"
+  },
+  {
+   "title": "NFL Thanksgiving overreactions: Bears a shoo-in for NFC North title? Should Joe Milton be a full-time QB1?",
+   "url": "https://www.cbssports.com/nfl/news/nfl-thanksgiving-overreactions-bears-a-shoo-in-nfc-north-title-joe-milton-full-time-qb1/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/26/7adcf387-be35-48e2-9dbd-9339c7082240/template-pic.jpg",
+   "age": "7h ago",
+   "published": "2026-11-27T05:07:38+00:00"
+  },
+  {
+   "title": "Jerry Jones refutes Aaron Rodgers' accusations, calls Mike McCarthy 'outstanding'",
+   "url": "https://www.cbssports.com/nfl/news/jerry-jones-calls-mike-mccarthy-outstanding-refutes-aaron-rodgers-accusations/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2022/10/31/4207e7d9-5a91-44da-846f-481f9403a0e7/jerry-jones-mike-mccarthy-usatsi.jpg",
+   "age": "8h ago",
+   "published": "2026-11-27T04:49:17+00:00"
+  },
+  {
+   "title": "NFL Week 12 picks: Our experts face off on Broncos at Steelers, Seahawks at 49ers and more",
+   "url": "https://www.cbssports.com/nfl/news/nfl-week-12-picks-our-experts-face-off-on-bears-at-lions-chiefs-at-bills-and-more/",
+   "source": "CBS Sports NFL",
+   "group": "CBS Sports NFL",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://sportshub.cbsistatic.com/i/2026/11/25/a667151e-e28f-4421-8aac-bcc85a297f1f/bo-nix-denver-broncos-1.jpg",
+   "age": "9h ago",
+   "published": "2026-11-27T03:39:29+00:00"
+  },
+  {
+   "title": "'Jaw-dropping': Inside Rome Odunze's game-winning touchdown catch in Detroit",
+   "url": "https://www.chicagobears.com/news/jaw-dropping-inside-rome-odunze-game-winning-touchdown-catch-detroit",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/bxaitu8mv0jvca6yapz1.jpg",
+   "age": "11h ago",
+   "published": "2026-11-27T01:30:00+00:00"
+  },
+  {
+   "title": "Magic in the Motor City: Bears seize first place in NFC North behind T.J. Edwards’ tackle, offense’s late heroics",
+   "url": "https://allchgo.com/bears/bears-first-place-tj-edwards-tackle-offenses-heroics/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/26185957/2026-11-26T211305Z_2075720765_MT1USATODAY30452711_RTRMADP_3_NFL-CHICAGO-BEARS-AT-DETROIT-LIONS-1-1024x576.jpg",
+   "age": "11h ago",
+   "published": "2026-11-27T01:14:22+00:00"
+  },
+  {
+   "title": "NFC Playoff Picture: Bears take over the NFC North",
+   "url": "https://www.windycitygridiron.com/chicago-bears-nfl-playoffs/128434/nfc-playoff-picture-chicago-bears-nfc-north-standings-thanksgiving",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/gettyimages-2307041412.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "14h ago",
+   "published": "2026-11-26T22:12:12+00:00"
+  },
+  {
+   "title": "Bears and Lions Go Blow for Blow, but Bears take the Turkey Home!",
+   "url": "https://www.windycitygridiron.com/chicago-bears-analysis/128452/bears-and-lions-go-blow-for-blow-by-bears-take-the-turkey-home",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2025newsml_MT1USATODAY27082225428623888.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "age": "15h ago",
+   "published": "2026-11-26T21:41:55+00:00"
+  },
+  {
+   "title": "Thanksgiving and Black Friday Games Open Thread!",
+   "url": "https://www.windycitygridiron.com/general/128337/thanksgiving-and-black-friday-games-open-thread-cowboys-steelers-broncos-eagles-chiefs-bills",
+   "source": "Windy City Gridiron",
+   "group": "Windy City Gridiron",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://platform.windycitygridiron.com/wp-content/uploads/sites/180/2026/11/reuters-tagreuters.com2013newsml_MT1USATODAY7585043503988471.jpg?quality=90&#038;strip=all&#038;crop=36.363637473367,0,63.636362526633,100",
+   "age": "15h ago",
+   "published": "2026-11-26T21:25:00+00:00"
   },
   {
    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
@@ -114,7 +260,7 @@
    "topic": "ai",
    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of Chi…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
-   "age": "7h ago",
+   "age": "16h ago",
    "published": "2026-11-26T20:03:54+00:00"
   },
   {
@@ -125,7 +271,7 @@
    "topic": "ai",
    "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a…",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297774940.jpg?resize=1200,832",
-   "age": "7h ago",
+   "age": "16h ago",
    "published": "2026-11-26T20:00:00+00:00"
   },
   {
@@ -136,7 +282,7 @@
    "topic": "ai",
    "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/twitter-x-musk-graffiti-hand.jpg?resize=1200,675",
-   "age": "7h ago",
+   "age": "17h ago",
    "published": "2026-11-26T19:31:50+00:00"
   },
   {
@@ -147,7 +293,7 @@
    "topic": "defense",
    "summary": "The Taiwanese Navy took command of the 12th Tuo Chiang-class missile corvette last week, completing an order initiated a decade ago to bolster Taipei s maritime strike c…",
    "image": "https://news.usni.org/wp-content/uploads/2026/11/Screenshot-2026-11-25-at-2.39.58-PM.png",
-   "age": "9h ago",
+   "age": "18h ago",
    "published": "2026-11-26T18:19:28+00:00"
   },
   {
@@ -158,52 +304,8 @@
    "topic": "ai",
    "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ford-GT41-and-GT40_06-1152x648.jpg",
-   "age": "9h ago",
+   "age": "18h ago",
    "published": "2026-11-26T18:00:29+00:00"
-  },
-  {
-   "title": "Semiconductor chips are the new oil. Here's why",
-   "url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108345773-1785990932116-gettyimages-2286772264-SKOREA_SK_HYNIX.jpeg?v=1785990945&amp;w=1920&amp;h=1080",
-   "age": "9h ago",
-   "published": "2026-11-26T17:52:15+00:00"
-  },
-  {
-   "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
-   "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
-   "source": "CNBC",
-   "group": "CNBC",
-   "topic": "markets",
-   "summary": "A new BIS rule was intended to close \"loopholes,\" U.S. Trade Representative Jamieson Greer told CNBC's \"Squawk Box\" on Wednesday.",
-   "image": "https://image.cnbcfm.com/api/v1/image/108553116-1794927200152-gettyimages-2305495249-vcg111682705669.jpeg?v=1794927260&amp;w=1920&amp;h=1080",
-   "age": "10h ago",
-   "published": "2026-11-26T17:04:54+00:00"
-  },
-  {
-   "title": "A month with the iPhone Duo has changed how I use my phone",
-   "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/iphone-duo-GettyImages-2301595744.jpg?w=1024",
-   "age": "10h ago",
-   "published": "2026-11-26T17:00:00+00:00"
-  },
-  {
-   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-   "source": "TechCrunch",
-   "group": "TechCrunch",
-   "topic": "ai",
-   "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jason_and_Lucia_17.117_b11r13mg5.jpg?resize=1200,675",
-   "age": "11h ago",
-   "published": "2026-11-26T16:00:00+00:00"
   },
   {
    "title": "GAO on How the Defense Department can Address Munitions Shortages",
@@ -213,30 +315,30 @@
    "topic": "defense",
    "summary": "The following is the Nov. 19, 2026, Government Accountability Office report, DOD Munitions: Planning and Leadership Needed to Address Persistent Shortages. The report wa…",
    "image": null,
-   "age": "12h ago",
+   "age": "22h ago",
    "published": "2026-11-26T14:48:32+00:00"
   },
   {
-   "title": "Draining peatlands is responsible for a few percent of our global warming",
-   "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1296653735-1152x648.jpg",
-   "age": "15h ago",
-   "published": "2026-11-26T12:15:42+00:00"
+   "title": "Bears-Lions Thanksgiving Day game preview | 2026 Week 12",
+   "url": "https://www.chicagobears.com/news/bears-lions-thanksgiving-day-game-preview-2026-week-12",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/fp1jvzvryvgorlo1xfbc.jpg",
+   "age": "22h ago",
+   "published": "2026-11-26T14:35:00+00:00"
   },
   {
-   "title": "From minimalist to maximalist: Ars staffers show off their home offices",
-   "url": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ars-office-collage-2026-1152x648.jpg",
-   "age": "15h ago",
-   "published": "2026-11-26T12:00:14+00:00"
+   "title": "Thanksgiving showdown will be a full-circle moment for Caleb Williams",
+   "url": "https://www.chicagobears.com/news/thanksgiving-showdown-will-be-a-full-circle-moment-for-caleb-williams",
+   "source": "ChicagoBears.com",
+   "group": "ChicagoBears.com",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://static.clubs.nfl.com/image/upload/t_editorial_landscape_12_desktop/bears/ihnynvoawfgrqvxzmnps.jpg",
+   "age": "22h ago",
+   "published": "2026-11-26T14:31:00+00:00"
   },
   {
    "title": "Rudy Fugle dishes on Hendrick Motorsports' snack stash and roasts his crew’s eating habits",
@@ -246,30 +348,30 @@
    "topic": "nascar",
    "summary": "",
    "image": null,
-   "age": "15h ago",
+   "age": "1d ago",
    "published": "2026-11-26T12:00:13+00:00"
   },
   {
    "title": "William Byron’s Late-Season Surge Couldn’t Salvage a Frustrating 2026 NASCAR Campaign",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HTVE2b0hpWTc2bHBlSzEybnVDclVwRzduZG13U1ZzeWpJdWtCbkNsWEoyazFZajhsQlI3Q1FENFd6ekRRY3dfcmxGQk1kM1pXRElRTTE4OWRKQjJSSlZ2VTZpd21wYlF6TDdqZnZOMVNfTm9Pdk1RdQ?oc=5",
-   "source": "MotorBiscuit",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOVY5QU91VUl5ckF6V3ktMDR5RTJuNlp6eHNkeDZkVWtoMkhHVmJRVkQzUHYzYU5BZmtGUElCRjY4cmVmT2lSUTRZSmdaYjVBb3c3QVRsVHlmVHJCbTNvVGdaQVJMbnZUNFdVeDdlVE5PTndtdVdCMDc2eGJjYVZtbndkTWFjcFVNYUFOdFZZeVlOb0U?oc=5",
+   "source": "Yahoo Sports",
    "group": "Byron & Hendrick",
    "topic": "nascar",
    "summary": "",
    "image": null,
    "age": "1d ago",
-   "published": "2026-11-25T23:56:08+00:00"
+   "published": "2026-11-25T23:54:19+00:00"
   },
   {
-   "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/hera_arrival1-1020x648.jpg",
+   "title": "The RUNDOWN: Everything you need to know about the Bears in Week 12 against the Lions",
+   "url": "https://allchgo.com/bears/everything-to-know-about-bears-week-12-against-lions/",
+   "source": "CHGO Bears",
+   "group": "CHGO Bears",
+   "topic": "bears",
+   "summary": "",
+   "image": "https://cdn.allcitynetwork.com/wp-content/uploads/sites/7/2026/11/25171042/2026-11-22T170347Z_1433220601_MT1USATODAY30424302_RTRMADP_3_NFL-NEW-ORLEANS-SAINTS-AT-CHICAGO-BEARS-1-1024x576.jpg",
    "age": "1d ago",
-   "published": "2026-11-25T22:36:45+00:00"
+   "published": "2026-11-25T23:28:29+00:00"
   },
   {
    "title": "Carla Babb Named Head of Content for Military Times and Defense News",
@@ -292,17 +394,6 @@
    "image": "https://www.twz.com/wp-content/uploads/2026/11/bunker.jpg?quality=85",
    "age": "1d ago",
    "published": "2026-11-25T21:26:00+00:00"
-  },
-  {
-   "title": "Google search alternative Kagi launches Gmail rival",
-   "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
-   "source": "Ars Technica",
-   "group": "Ars Technica",
-   "topic": "ai",
-   "summary": "The pitch is an unusual combination of privacy promises and AI features.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kagi-mail-announcement-1152x648.jpg",
-   "age": "1d ago",
-   "published": "2026-11-25T20:57:09+00:00"
   },
   {
    "title": "Drone Threats Prompt RAF To Install Netting At Bases To Protect Aircraft: Reports",
@@ -338,17 +429,6 @@
    "published": "2026-11-25T19:28:11+00:00"
   },
   {
-   "title": "Estimates of Russians killed in Ukraine surpass all combined US war deaths since WWI",
-   "url": "https://www.defensenews.com/global/europe/2026/11/25/estimates-of-russians-killed-in-ukraine-surpass-all-combined-us-war-deaths-since-wwi/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "More than 700,000 Russian soldiers have been killed in the war in Ukraine since Russia launched its full-scale war against the nation nearly five years ago.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2262811144.jpg.jpg",
-   "age": "1d ago",
-   "published": "2026-11-25T18:27:12+00:00"
-  },
-  {
    "title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
    "url": "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army/",
    "source": "Breaking Defense",
@@ -358,17 +438,6 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/MV-75-photo-B-e1795550259743.jpg",
    "age": "1d ago",
    "published": "2026-11-25T18:15:00+00:00"
-  },
-  {
-   "title": "Ship-Killing ARRW Hypersonic Missile Variant Struggling To Get Full Support From Lawmakers",
-   "url": "https://www.twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers",
-   "source": "The War Zone",
-   "group": "The War Zone",
-   "topic": "defense",
-   "summary": "Senators are also moving to scale back funding for a new air-launched ballistic missile program. The post Ship-Killing ARRW Hypersonic Missile Variant Struggling To Get …",
-   "image": "https://www.twz.com/wp-content/uploads/2026/11/senate-arrw-increment-2-hypersonic-missile-funding-brakes.jpg?quality=85",
-   "age": "1d ago",
-   "published": "2026-11-25T18:04:27+00:00"
   },
   {
    "title": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
@@ -391,72 +460,6 @@
    "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2023/10/israel-tank-scaled-e1696872367451-1024x577.jpg",
    "age": "1d ago",
    "published": "2026-11-25T17:30:00+00:00"
-  },
-  {
-   "title": "Marine Corps Trials Portable 5G Network for Deployments",
-   "url": "https://news.usni.org/2026/11/25/marine-corps-trials-portable-5g-network-for-deployments",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The Marine Corps is trialling a portable system that will provide units with a private 5G network enabling Marines to maintain communications while operating across disp…",
-   "image": "https://news.usni.org/wp-content/uploads/2026/11/9822850-scaled.jpg",
-   "age": "1d ago",
-   "published": "2026-11-25T17:03:15+00:00"
-  },
-  {
-   "title": "Air Force issues Boeing $2.8 billion for more KC-46s",
-   "url": "https://breakingdefense.com/2026/11/air-force-issues-boeing-2-8-billion-for-more-kc-46s/",
-   "source": "Breaking Defense",
-   "group": "Breaking Defense",
-   "topic": "defense",
-   "summary": "The award brings the total number of air refuelers under contract to 203, and is the final production batch for the US Air Force under the program’s original fixed-price…",
-   "image": "https://breakingdefense.com/wp-content/uploads/sites/13/2025/03/6990563-scaled-e1741031493269-1024x576.jpg",
-   "age": "1d ago",
-   "published": "2026-11-25T16:45:00+00:00"
-  },
-  {
-   "title": "Blast heard, smoke seen rising over farmland near Iowa Army lead azide detonation site",
-   "url": "https://www.defensenews.com/video/2026/11/25/blast-heard-smoke-seen-rising-over-farmland-near-iowa-army-lead-azide-detonation-site/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Army went ahead with its planned detonation of volatile lead azide reserves Wednesday morning, according to the service.",
-   "image": "https://cdn.jwplayer.com/videos/DpmCdAI2-5ZsksG4j.mp4",
-   "age": "1d ago",
-   "published": "2026-11-25T15:55:58+00:00"
-  },
-  {
-   "title": "US Air Force buys final KC-46 lot under Boeing’s original tanker deal",
-   "url": "https://www.defensenews.com/industry/techwatch/2026/11/25/us-air-force-buys-final-kc-46-lot-under-boeings-original-tanker-deal/",
-   "source": "Defense News",
-   "group": "Defense News",
-   "topic": "defense",
-   "summary": "The Pentagon announced a $2.82 billion Boeing contract for 15 more KC-46A Pegasus tankers, the final production lot under the program's original 2011 contract.",
-   "image": "https://one.sightlinemg.com/wp-content/uploads/2026/11/210712-F-ZZ000-0009.jpg",
-   "age": "1d ago",
-   "published": "2026-11-25T14:58:13+00:00"
-  },
-  {
-   "title": "Opening Remarks from Richard Breckenridge to be the Navy’s Chief Acquisition Official",
-   "url": "https://news.usni.org/2026/11/25/opening-remarks-from-richard-breckenridge-to-be-the-navys-chief-acquisition-official",
-   "source": "USNI News",
-   "group": "USNI News",
-   "topic": "defense",
-   "summary": "The following are Richard Breckenridge’s opening remarks, provided to the U.S. Senate Committee on Armed Services during a Nov. 19, 2026, hearing to consider Breckenridg…",
-   "image": null,
-   "age": "1d ago",
-   "published": "2026-11-25T14:43:05+00:00"
-  },
-  {
-   "title": "NASCAR Crew Chief Opens Up About William Byron Split Amid Hendrick Motorsports Shakeup",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc19teGlEY2xxWE52dlltdFRwNEE2ckF5WXgwVkdhSFdqa0ZWTXZmRERtX2xYUGJJclZEaTJ3Qmk0Ynd0VjFaaWhfSVk5TzB4b2hkbE84cUh2VFYtcGRIVklPM195U1Nob1VidVI1TDktWmZHYjc1VXp0QXhTQVFBNVBFVnVoQnc?oc=5",
-   "source": "Yahoo Sports",
-   "group": "Byron & Hendrick",
-   "topic": "nascar",
-   "summary": "",
-   "image": null,
-   "age": "2d ago",
-   "published": "2026-11-24T14:52:55+00:00"
   }
  ]
 }
