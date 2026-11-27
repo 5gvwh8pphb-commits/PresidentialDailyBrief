@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-27",
+  "dateLabel": "Friday, November 27, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-27T18:27:57Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~30m ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, November 27, 2026 close — a holiday-shortened rebound led by rallying chip and AI stocks that capped a volatile Thanksgiving week higher.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,297.49", "change": "+114.71", "changePct": "+1.60%", "sixMo": "-3.0%" },
+        { "name": "Dow", "close": "50,774.94", "change": "+591.99", "changePct": "+1.18%", "sixMo": "+0.26%" },
+        { "name": "Nasdaq", "close": "24,129.50", "change": "+543.70", "changePct": "+2.31%", "sixMo": "-9.5%" }
+      ],
+      "body": "Chip and AI names led a broad rally in Friday's shortened session — Micron and Marvell each rose roughly 6% and SanDisk surged nearly 14% — while Anthropic shares jumped about 8% back above their $83 IPO price; all three indexes closed the week higher, led by the Dow's 3.4% weekly gain, as the 10-year Treasury yield climbed to 4.92% after third-quarter GDP growth was revised up to 4.3%.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "The week's major US-connected international stories — Houthi strikes on Saudi Arabia, the Huawei trade-secrets verdict, and NATO-Poland friction with Russia — were already reported in prior briefs, and no distinctly new, reputably sourced item surfaced within the 24-72 hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~20h ago",
+      "empty": false,
+      "headline": "Japan and China accuse each other of intrusions near disputed Senkaku/Diaoyutai islands",
+      "body": "Japan's coast guard said two Chinese vessels approached a Japanese fishing boat near the disputed islands early Friday — the fifth such incursion this year — and warned them off, while Beijing's foreign ministry lodged a formal protest accusing Tokyo of violating Chinese sovereignty; the spat comes amid already-strained ties after Japanese Prime Minister Sanae Takaichi said last year Japan could intervene militarily if China attacked Taiwan.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/27/2003868473"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~12h ago",
+      "empty": false,
+      "headline": "Iran says a tanker hit a mine in the Strait of Hormuz; a second was turned back",
+      "body": "Iran's Revolutionary Guard said Friday that an oil tanker exploded after striking a naval mine north of Ghavam Island while trying to use an unauthorized route through the Strait of Hormuz, forcing a second tanker to turn back; the IRGC gave no vessel names, casualties, or damage details, and the claim comes as talks to reopen the waterway remain stalled over Iran's demands to end US and Israeli hostilities and lift sanctions.",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-explodes-after-hitting-naval-mine-in-strait-of-hormuz/4140346"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "~2 days ago",
+      "empty": false,
+      "headline": "Senate appropriators move to cut funding for the Air Force's next hypersonic missile",
+      "body": "The Air Force's FY2027 budget sought roughly $296 million for ARRW Increment 2, a new ship-killing seeker variant meant to target enemy warships like carriers in a Pacific fight, plus $50 million for a new air-launched ballistic missile; the Senate Appropriations Committee's draft defense bill would cut both by about three-quarters, calling the efforts \"early to need,\" even as the baseline ARRW has moved into production under a $694 million Lockheed Martin contract for integration onto B-52 and B-1 bombers.",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/ship-killing-arrw-hypersonic-missile-variant-struggling-to-get-full-support-from-lawmakers"
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "~4h ago",
+      "empty": false,
+      "headline": "Anthropic shares jump about 8%, back above their $83 IPO price",
+      "body": "Anthropic stock rose roughly 8% to just under $90 in Friday's holiday-shortened session, rebounding after closing below its $83 IPO price in each of the two prior sessions, as part of a broader rally in AI and chip stocks capping a volatile first full week of trading since the company's record Nasdaq debut on November 19.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "NFL to host fan watch party in Barcelona for Bears-Jaguars Dec. 6 game",
+      "body": "The NFL and RCD Espanyol will hold \"NFL Experience Barcelona\" at RCDE Stadium on December 6 so local fans can watch the Jaguars visit the Bears at Soldier Field, complete with passing-accuracy challenges and a tailgate; the event, rescheduled after an October 4 date was postponed for a weather alert, is the latest stop on the NFL's fan-event tour in Spain following sellouts in Seville, Mallorca and Bilbao.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/nfl-to-host-watch-party-in-barcelona-for-bears-jaguars-dec-6-game"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's season ended at the November 8 Homestead finale, and the only offseason development — Hendrick's 2027 crew-chief change for the No. 24 team — was already reported earlier this week; no new, non-spoiler Byron item from a reputable outlet surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "~3 days ago",
+      "empty": false,
+      "headline": "byFaith ranks the PCA's largest church nurseries, led by an Atlanta congregation",
+      "body": "A byFaith analysis of the PCA's voluntarily submitted 2026 statistics found Atlanta's Westside Presbyterian Church logging the denomination's largest nursery, with 205 children from newborn through kindergarten, as part of a wider look at congregational demographics across the denomination.",
+      "source": "byFaith",
+      "url": "https://byfaithonline.com/the-largest-nurseries-in-the-pca/"
+    }
+  ]
+}
