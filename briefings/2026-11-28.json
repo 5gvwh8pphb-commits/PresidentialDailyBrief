@@ -1,0 +1,114 @@
+{
+  "date": "2026-11-28",
+  "dateLabel": "Saturday, November 28, 2026",
+  "slot": "by 6 AM CT",
+  "window": "past 24h",
+  "generated": "2026-11-28T17:15:24Z",
+  "beats": [
+    {
+      "n": 1,
+      "beat": "Market recap",
+      "group": "markets",
+      "age": "~23h ago",
+      "empty": false,
+      "kicker": "Prior-day market scorecard",
+      "subline": "Friday, November 27, 2026 close, the most recent session with markets shut over the weekend — a holiday-shortened rebound led by rallying chip and AI stocks that capped a volatile Thanksgiving week higher.",
+      "indices": [
+        { "name": "S&P 500", "close": "7,297.49", "change": "+114.71", "changePct": "+1.60%", "sixMo": "-3.0%" },
+        { "name": "Dow", "close": "50,774.94", "change": "+591.99", "changePct": "+1.18%", "sixMo": "+0.26%" },
+        { "name": "Nasdaq", "close": "24,129.50", "change": "+543.70", "changePct": "+2.31%", "sixMo": "-9.5%" }
+      ],
+      "body": "Chip and AI names led a broad rally in Friday's shortened session — Micron and Marvell each rose roughly 6% and SanDisk surged nearly 14% — while Anthropic shares jumped about 8% back above their $83 IPO price; all three indexes closed the week higher, led by the Dow's 3.4% weekly gain, as the 10-year Treasury yield climbed to 4.92% after third-quarter GDP growth was revised up to 4.3%.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-indexes-140450439.html"
+    },
+    {
+      "n": 2,
+      "beat": "US-related international",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Mexico calls new DEA cartel tip line 'foreign interference'",
+      "body": "Mexico's government criticized a newly announced DEA crime tip line aimed at cartels as an infringement on its sovereignty, while others in Mexico welcomed it, in what AP described as the latest chapter in an ongoing struggle between Washington and Mexico City over who has the right to take action against cartels operating on Mexican soil.",
+      "source": "Associated Press via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled"
+    },
+    {
+      "n": 3,
+      "beat": "China watch",
+      "group": "security",
+      "age": "~18h ago",
+      "empty": false,
+      "headline": "Taiwan detects 30 Chinese warplanes as nation votes in local elections",
+      "body": "Taiwan's Ministry of National Defense reported 30 Chinese military aircraft operating around the island in the 24 hours before polls opened for Saturday's nine-in-one local elections, with 26 of them crossing the Taiwan Strait median line — another surge in Chinese air activity timed to a Taiwanese election.",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/front/archives/2026/11/28/2003868526"
+    },
+    {
+      "n": 4,
+      "beat": "Military news",
+      "group": "security",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "US forces disable another tanker trying to breach the Iran port blockade",
+      "body": "US Central Command said a military aircraft fired precision munitions at the stern of the Palau-flagged tanker M/V Pacific Archer on Thursday as it attempted to breach the US naval blockade of Iranian ports, disabling its propulsion; CENTCOM said the civilian crew was unharmed, the latest in a string of similar strikes on vessels attempting to run the blockade.",
+      "source": "Associated Press via PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports"
+    },
+    {
+      "n": 5,
+      "beat": "Military technology",
+      "group": "security",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Shield AI's Nov. 9 demonstration of coordinated multi-drone combat maneuvers and the B-21's Nov. 13 weapons-release test were both reported in prior weeks and fall outside the 72-hour window; no new, dated military-technology development from a reputable outlet surfaced within that window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 6,
+      "beat": "AI news",
+      "group": "ai",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Coverage of Anthropic this week stayed focused on the aftermath of its November 20 IPO closing, already reported in prior briefs; no new model release, policy development, or other AI story from a reputable outlet surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 7,
+      "beat": "Chicago Bears",
+      "group": "sports",
+      "age": "~1 day ago",
+      "empty": false,
+      "headline": "Bears TE Colston Loveland week-to-week with knee injury",
+      "body": "Chicago announced Friday that tight end Colston Loveland, third on the team in receptions and receiving yards this season, is week-to-week with a knee injury sustained while blocking on a running play in Thursday's game at Detroit; the team gave no timeline for his return.",
+      "source": "Chicago Bears",
+      "url": "https://www.chicagobears.com/news/colston-loveland-week-to-week-with-knee-injury"
+    },
+    {
+      "n": 8,
+      "beat": "William Byron",
+      "group": "sports",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "Byron's season has concluded, and the Nov. 16 Hendrick Motorsports crew-chief shakeup affecting his No. 24 team was already reported; no new, non-spoiler Byron item from a reputable outlet surfaced within the 72-hour window.",
+      "source": null,
+      "url": null
+    },
+    {
+      "n": 9,
+      "beat": "PCA",
+      "group": "community",
+      "age": "n/a",
+      "empty": true,
+      "headline": "No fresh news on this beat right now",
+      "body": "byFaith's recent coverage — the MNA coordinator search, PCA nursery rankings, an Evangel Presbytery report, and a Trinity Hymnal revision announcement — all fall outside the 72-hour window or were already reported in prior briefs; no new PCA item from a reputable outlet surfaced within that window.",
+      "source": null,
+      "url": null
+    }
+  ]
+}
